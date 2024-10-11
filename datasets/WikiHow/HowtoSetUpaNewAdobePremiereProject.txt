@@ -1,0 +1,27 @@
+@summary
+open adobe premiere pro.
+
+@summary
+after premiere is open, click the "new project" icon.
+
+@summary
+,
+
+@summary
+name your project and choose where to save it.
+
+@summary
+try hitting "cancel" unless you know exactly what type of video you are using.
+
+@summary
+drag and drop your video into the project panel.
+
+@summary
+success!
+@article
+;
+,, Default location is in the "My Documents" folder under "Adobe".
+ It is easier to use the steps below to choose your settings.
+ Alternatively, you could use the "Media Browser" tab. After your video has been imported, drag and drop your video onto the little icon (it is called "New Item") shown in the picture.
+ A new sequence has been made. You can see your video to the right. A sequence is the term Premiere uses for video projects inside of a project. You can have multiple sequences in a project. After a sequence is made, you can start editing your video!
+

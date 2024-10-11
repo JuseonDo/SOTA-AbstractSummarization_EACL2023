@@ -1,0 +1,35 @@
+@summary
+click on the "options" link at the top-right of any yahoo search results page.
+
+@summary
+,
+
+@summary
+select "advanced search.",
+
+@summary
+enter keyword preferences next to "show results with.",
+
+@summary
+choose a domain type next to "site or domain.",
+
+@summary
+specify a file type next to "file format.",
+
+@summary
+specify your adult content preferences.
+
+@summary
+specify country and language.
+
+@summary
+click on the "yahoo search" button to apply your advanced search criteria to your yahoo search.
+
+@article
+, You will be taken to the Advanced Web Search page.
+ You can choose to have Yahoo display search results that match your keyword phrase exactly, or have results displayed that omit a specific keyword.
+ For example, if you just want search results displayed for government websites, you can select "Only .gov domains" from the options provided.
+ This option can be helpful if you are looking for specific types of documents. For example, if you are looking for search results in the form of a presentation, select "Microsoft PowerPoint" from the list provided.
+ You can choose to filter out search results that contain adult content next to the field labeled "SafeSearch Filter."
+
+, You can choose whether you want Yahoo to display search results for websites that originate in another country, and whether you want to see results for websites written in a particular language using the "Country" and "Languages" fields.

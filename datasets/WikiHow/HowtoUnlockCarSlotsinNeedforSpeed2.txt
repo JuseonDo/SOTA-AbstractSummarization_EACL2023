@@ -1,0 +1,41 @@
+@summary
+launch nfs world.
+
+@summary
+minimize the game to the task bar once it loads.
+
+@summary
+visit the download page of the cheat.
+
+@summary
+click the “download” button.
+
+@summary
+right-click the nfsw,slots.zip file and select the “extract here” option from the menu.
+
+@summary
+right-click nfsw_pursuitbot.exe and select run as administrator.
+
+@summary
+,
+
+@summary
+right-click slotbot.exe and select run as administrator.
+
+@summary
+type in the number of slots in figures, e.g. 10, and press “go."
+@article
+ You can do this using the Windows Start menu (Start button >> All Programs >> EA Games >> Need for Speed World) or by double-clicking the Need for Speed: World shortcut on your desktop, if you have it there.
+
+
+The cheat only works when the game is running.
+ You can do this by pressing Ctrl + Esc together.
+ On a new web browser, go to http://rghost.net/50739915.
+ This will download a zip (compressed) file named nfsw,slots.rar that contains two files: NFSW_PursuitBot.exe and SlotBot.exe.
+ This will extract the two files from the zip file and place them in the folder you are working from.
+, This will bring up a dialog box that will allow you to choose how many slots you wish to add to your NFS World garage.
+ This will add the number of slots you specified in your garage.
+
+
+The number of car slots you have represents the maximum number of cars you can buy in NFS World, hence the more the better!
+

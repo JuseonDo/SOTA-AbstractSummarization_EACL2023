@@ -1,0 +1,9 @@
+@summary
+purchase an epilator.
+
+@summary
+follow the instructions on the box carefully.
+@article
+ Epilators can be bought in places that sell electric items, such as hair dryers.
+ This lasts for up to 4 weeks.
+

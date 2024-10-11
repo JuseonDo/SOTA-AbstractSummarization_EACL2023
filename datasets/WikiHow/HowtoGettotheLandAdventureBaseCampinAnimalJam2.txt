@@ -1,0 +1,13 @@
+@summary
+find the phantom sign.
+
+@summary
+go past the sign.
+
+@summary
+you are now in the adventure base camp!
+@article
+ It is on the side of the river.
+ The computer will load something.
+ Don't forget to train first and level up to the first level!
+

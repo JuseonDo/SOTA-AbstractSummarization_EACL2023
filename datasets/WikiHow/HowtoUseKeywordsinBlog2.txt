@@ -1,0 +1,12 @@
+@summary
+use one h1 heading in your blog and add keyword once in this heading.
+
+@summary
+use two or three h2 heading in your blog.
+
+@summary
+it is preferable to use more than 5 h3 heading and use keywords in 2 heading.
+
+@article
+ H1 headings are also known as Major Headings. The reason of this addition is again relevancy this will tell search engines that topic is relevance and is according to the above title.
+ In this case you have to use your keyword once, however you can enter it two times. Note that H2 headings are also known as Sub headings.

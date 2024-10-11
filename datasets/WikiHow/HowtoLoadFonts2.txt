@@ -1,0 +1,21 @@
+@summary
+download the font to your computer.
+
+@summary
+,
+
+@summary
+choose the accessibility you want for your new font among users on your computer.
+
+@summary
+drag the font into the fonts folder.
+@article
+,
+
+
+The 2 primary options are for a specific user or for all local users.
+ This folder is in the Finder under either "User" or "Local," and then in Library/Fonts.
+
+
+Choose the location under "User" if you will be the only user to use the font. Choose "Local" if the font should be made available to all users.
+

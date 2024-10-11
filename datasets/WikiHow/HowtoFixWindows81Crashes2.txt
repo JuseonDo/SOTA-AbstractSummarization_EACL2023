@@ -1,0 +1,26 @@
+@summary
+go to settings.
+
+@summary
+,
+
+@summary
+go to change pc settings.
+
+@summary
+,
+
+@summary
+go to update and recovery.
+
+@summary
+,
+
+@summary
+open recovery, and click "get started" under "refresh your pc without affecting your files".
+@article
+,,,
+
+
+You can also get to refresh your PC through search: Press Windows Key + X and select Search. Type "Refresh your PC" in the Search Box. Click the Settings icon. Open that from the Search Results, and follow the on-screen instructions.
+

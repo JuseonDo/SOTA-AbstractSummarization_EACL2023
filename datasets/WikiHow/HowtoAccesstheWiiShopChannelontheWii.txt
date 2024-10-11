@@ -1,0 +1,23 @@
+@summary
+make sure your wii is on.
+
+@summary
+look for the shopping channel box on the first page, top right corner.
+
+@summary
+,
+
+@summary
+make sure your wii is connected to the internet.
+
+@summary
+did you hack your wii?,
+
+@summary
+make sure you have a stable internet connection.
+@article
+;
+,, Without an Internet connection, you cannot load the Shopping Channel.
+ There may be some sort of fail-safe that prohibits you from loading the Shopping Channel on account of hacking it to get some Channels for free, whether or not this was your intention.
+ It shouldn't be a weak signal or the Shopping Channel won't stay loaded.
+

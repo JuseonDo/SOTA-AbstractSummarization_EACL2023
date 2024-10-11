@@ -1,0 +1,30 @@
+@summary
+open messages.
+
+@summary
+tap a chat.
+
+@summary
+,
+
+@summary
+tap the apps button.
+
+@summary
+tap the app menu button.
+
+@summary
+tap and hold any of the app icons.
+
+@summary
+tap the x.
+@article
+;
+,, This icon has an “A” that matches the App Store icon.
+
+
+If the keyboard is up, you will first need to tap the > button to the left of the message text field.
+ This looks like a grid of four circles and is in the lower left corner of the app window.
+ The app display will enter ‘edit’ mode.
+ Do this for each app you wish to remove and it will be removed from iMessage.
+

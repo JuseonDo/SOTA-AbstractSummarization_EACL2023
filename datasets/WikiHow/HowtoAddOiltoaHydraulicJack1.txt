@@ -1,0 +1,11 @@
+@summary
+choose either a hydraulic floor jack or a hydraulic bottle jack.
+@article
+ A floor jack has a piston that operates in a horizontal motion. A bottle jack features a piston that moves vertically.
+
+
+
+
+
+
+;

@@ -1,0 +1,14 @@
+@summary
+locate the program you are currently running from the recent program (started) area just to the right of the the start menu.
+
+@summary
+,
+
+@summary
+click and drag upwards.
+@article
+, As you drag upwards, you'll see a menu pop open.
+
+
+If you don't understand this, you can also right-click it. But get to know the newest ways that Windows uses to do stuff, by completing these easier tasks.Select the "Pin this program to taskbar" option.
+

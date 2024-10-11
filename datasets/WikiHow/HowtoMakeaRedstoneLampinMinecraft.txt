@@ -1,0 +1,50 @@
+@summary
+mine for the redstone underground.
+
+@summary
+find glowstone in the nether.
+
+@summary
+,
+
+@summary
+make a glowstone block using glowstone dust.
+
+@summary
+place the glowstone block and 4 redstone dust into the crafting table.
+
+@summary
+shift click or drag the redstone lamp to your inventory.
+
+@summary
+,
+
+@summary
+with the lamp in your hand, right click where you want to place it.
+
+@summary
+send a redstone pulse to the lamp.
+@article
+ You'll need this to make redstone dust for the lamp.;
+,, (Place the glowstone dust 2 x 2 in the crafting table.)
+
+, Arrange as follows:
+
+
+Place the glowstone block in the center of the crafting table.
+Place one redstone dust above and one below the glowstone block and one to each side. (This leaves the four outer corners of the crafting table empty.)
+
+,, It will attach to that spot.
+
+
+You can create various impressive arrangements with redstone lamps, such as glowing ceilings, rows along a wall and lit-up floors.
+ To do this, you have various choices, such as:
+
+
+A lever (ongoing) - can be placed on top
+A redstone torch (ongoing) - placed anywhere adjacent to the lamp will power the lamp (don't place on the lamp)
+Button (short-lived) - can be placed on top
+Tripwire (short-lived - as soon as you move off, it turns off)
+Pressure plate (short-lived, as soon as you move off, it turns off) - can be placed on top
+Detector rails (this can be useful for lighthouses and roller coasters).
+

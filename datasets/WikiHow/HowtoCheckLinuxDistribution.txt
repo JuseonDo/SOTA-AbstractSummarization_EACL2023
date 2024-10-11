@@ -1,0 +1,16 @@
+@summary
+if you are using a gui open up a terminal emulator & move on.
+
+@summary
+type in the command "cat /etc/*-release"(without the quotes!
+@article
+ Otherwise you're good to go.;
+,)and hit enter.
+
+
+This will tell many useful things about your distribution. Here is a sample output on Ubuntu 11.04.
+DISTRIB_ID=Ubuntu
+DISTRIB_RELEASE=11.04
+DISTRIB_CODENAME=natty
+DISTRIB_DESCRIPTION="Ubuntu 11.04"
+

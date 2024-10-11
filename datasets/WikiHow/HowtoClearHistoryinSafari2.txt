@@ -1,0 +1,19 @@
+@summary
+open safari and click the "history" menu.
+
+@summary
+,
+
+@summary
+select "show history".
+
+@summary
+find the entry that you want to delete.
+
+@summary
+right-click on the entry you want to remove and select "delete".
+@article
+, You can also press ⌘ Command+⌥ Option+2 to open the Show History window.
+ You can use the search bar in the upper-right corner, or expand the dates to browse through all your entries.
+ If you have a single-button mouse or trackpad, hold Control and click to open the menu. Repeat for any additional entries you want to remove.
+

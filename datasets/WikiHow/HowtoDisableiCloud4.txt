@@ -1,0 +1,21 @@
+@summary
+open start.
+
+@summary
+click on all programs.
+
+@summary
+,
+
+@summary
+click on icloud.
+
+@summary
+click on icloud.
+
+@summary
+click on sign out.
+@article
+ It's in the lower-left corner of the screen.,, It's a folder icon., The iCloud Control Panel will display on-screen.
+ iCloud will now be turned off and disabled and will no longer back up your personal information.
+

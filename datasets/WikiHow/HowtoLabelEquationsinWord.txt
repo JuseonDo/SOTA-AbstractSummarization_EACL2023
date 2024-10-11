@@ -1,0 +1,29 @@
+@summary
+open microsoft word.
+
+@summary
+click the insert tab.
+
+@summary
+click the arrow next to the “equation” button.
+
+@summary
+click an equation.
+
+@summary
+click the references tab.
+
+@summary
+click insert caption.
+
+@summary
+click “label” drop-down menu.click equation.
+
+@summary
+type your desired label into the “caption” box.
+
+@summary
+click ok.
+@article
+ It’s in the Windows menu (Windows) or in the Applications folder (macOS).
+ It’s at the top of the screen (to the right of the Home tab)., It’s near the top-right corner of the screen. The arrow is pointing downward. A list of equations will appear., You'll see it appear in the document., It’s at the top of the screen (to the right of the "Page Layout" tab)., It’s in the “Captions” group near the top of the screen. This opens the Captions dialog box., A list of options will appear.,, It’s the box at the top of the window., The equation is now labeled with the text you typed into the “Caption” box.

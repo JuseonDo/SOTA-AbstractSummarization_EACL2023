@@ -1,0 +1,13 @@
+@summary
+open the terminal (ctrl+alt+t).
+
+@summary
+type in in -s /the/folder/you/want/to/link /where/to/linkit.
+@article
+,
+
+
+/the/folder/you/want/to/link - That is where the hard to find folder is. For example, .minecraft is in the HOME folder which is going to be /home/YourName/.minecraft.
+
+/where/to/linkit - That is where you want the link to be placed. For example, you might want .minecraft to be on your desktop for easy accessing. /home/YourName/Desktop.
+

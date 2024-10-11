@@ -1,0 +1,33 @@
+@summary
+open the skype for mobile app.
+
+@summary
+,
+
+@summary
+login to your skype account.
+
+@summary
+,
+
+@summary
+tap "my info”.
+
+@summary
+tap "options".
+
+@summary
+edit your picture.
+
+@summary
+publish your image.
+@article
+,, You will find this at the bottom right-hand side of your screen.
+
+
+
+To upload a picture, select one from your device’s gallery.
+To capture your own picture, use your device’s camera. Click when ready.
+ Crop your image as desired.
+ Click “Done”. This will automatically publish your profile picture.
+

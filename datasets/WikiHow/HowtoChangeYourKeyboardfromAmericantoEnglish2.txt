@@ -1,0 +1,59 @@
+@summary
+open the start menu.
+
+@summary
+click on control panel.
+
+@summary
+,
+
+@summary
+click on clock, language, and region.
+
+@summary
+,
+
+@summary
+click on regional and language options.
+
+@summary
+click on keyboards and languages.
+
+@summary
+click on change keyboards….
+
+@summary
+,
+
+@summary
+click on installed services.
+
+@summary
+click on add….
+
+@summary
+click on ⊞-english (united kingdom).
+
+@summary
+click on ⊞-keyboard.
+
+@summary
+check "□ united kingdom.",
+
+@summary
+click on ok.
+@article
+ It's in the lower-left corner of the screen.
+,, It's on the left side of the window.
+ It's a tab at the top of the window.
+, It's a tab at the top-left of the window.
+ It's on the right side of the window.
+ The language options are in alphabetical order.
+ It appears below "English (United Kingdom)" when you expand the menu.
+ It's just beneath "⊟-Keyboard."
+
+, It's in the upper-right corner of the screen. British English is now one of your keyboard languages.
+
+
+Press the ALT and Shift keys to toggle between keyboard languages.
+

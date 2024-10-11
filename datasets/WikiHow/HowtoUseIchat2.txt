@@ -1,0 +1,15 @@
+@summary
+go to "buddies" followed by "add buddy" to add people to your buddy list.
+
+@summary
+,
+
+@summary
+search the ichat address book to find people by entering their account name.
+
+@summary
+add the people you want to chat to by clicking "add" in the search results.
+@article
+, You can also try to find people by typing their first and last name but it is better to search by account name since that is more specific.
+ You will see the new buddy in your Buddy List. If the status of your new buddy is online you can try to send a message to him. The name of your new buddy will be dimmed if he is offline.
+

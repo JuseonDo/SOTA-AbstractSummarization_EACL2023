@@ -1,0 +1,45 @@
+@summary
+click on the apple menu.
+
+@summary
+click system preferences.
+
+@summary
+,
+
+@summary
+click general.
+
+@summary
+click the "appearance" drop-down menu.
+
+@summary
+,
+
+@summary
+click on a color.
+
+@summary
+click the "highlight color" drop-down menu.
+
+@summary
+,
+
+@summary
+click on a color.
+
+@summary
+click the red "x" button.
+@article
+ It's the apple logo at the top left of the menu bar.;
+,, It's the first button listed on the System Preferences window.
+, You can choose from either Blue or Graphite.
+
+
+This change will affect the color of buttons, menus, and windows.
+,
+
+
+If you click Other..., you can create a custom highlight color by selecting it from the color wheel.
+ Your color changes will be made!
+

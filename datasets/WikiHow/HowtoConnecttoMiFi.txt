@@ -1,0 +1,45 @@
+@summary
+install the battery and sim card (if applicable) into your mifi device.
+
+@summary
+,
+
+@summary
+power on your mifi device.
+
+@summary
+verify that the indicator light on the mifi device turns solid green.
+
+@summary
+power on your computer or device and open the wi-fi menu.
+
+@summary
+click on the wi-fi network or ssid for your mifi device.
+
+@summary
+enter the password for the mifi device.
+
+@summary
+wait for your computer or device to connect to mifi.
+
+@summary
+verify that the battery is fully charged and correctly seated in the mifi device if the mifi fails to power on.
+
+@summary
+try relocating your mifi device if you experience problems with poor connectivity or no service.
+
+@summary
+refresh the list of available wi-fi networks on your computer or device if the mifi device fails to show up in the list of wi-fi networks.
+
+@summary
+contact your wireless service provider to verify that your mifi device was activated successfully if you are unable to connect to the mifi.
+
+@summary
+reset your mifi device if you experience frequent connection problems or you forget the password.
+@article
+, The MiFi can be turned on by pressing the power button at the front of the device., This indicates that the MiFi is now connected to your wireless service provider’s cellular network., The Wi-Fi menu is displayed in the system tray on Windows computers, at the top right corner in Mac OS X, and in the Settings menu on mobile devices powered by iOS and Android., In most cases, the network name / SSID features the name of your wireless service provider, and is printed on the sticker at the back of your MiFi device., The password should be printed on the label below the SSID, or provided to you by your wireless service provider.
+
+Try using “admin” as the default password if no password is provided to you by your wireless service provider., Your connection status will display in the Wi-Fi list as “Connected,” and you can now browse the Internet from your computer or device., In most cases, problems with power failure are associated with the battery., In some cases, structures such as walls and large furniture can block or weaken the cellular signal., In some cases, it may take up to 15 seconds for the MiFi device to display in the list of networks., In some cases, your wireless service provider may have failed to add the MiFi service plan to your account or activate the device properly., Resetting the MiFi device restores the device’s original default settings.Remove the battery cover and battery from the MiFi device.
+Locate the reset button, which is a tiny button located underneath the battery and labeled “Reset.”
+Use a pin to press and hold the reset button for approximately five seconds. The MiFi will automatically restart, and default settings will be restored.
+

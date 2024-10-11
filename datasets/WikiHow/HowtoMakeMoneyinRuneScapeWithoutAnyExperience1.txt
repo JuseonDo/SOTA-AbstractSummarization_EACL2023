@@ -1,0 +1,62 @@
+@summary
+head to the barbarian village, known as gunnarsgrunn to those who have completed "gunnar's ground".
+
+@summary
+turn autoretaliate off.
+
+@summary
+enter the hole in the center of the village.
+
+@summary
+open your map.
+
+@summary
+finish the war level of the stronghold of security.
+
+@summary
+open the chest at the end.
+
+@summary
+continue by going down the ladder.
+
+@summary
+finish the famine level of the stronghold of security.
+
+@summary
+open the sack at the end.
+
+@summary
+continue by going down the ladder.
+
+@summary
+finish the disease level of the stronghold of security.
+
+@summary
+open the chest at the end.
+
+@summary
+return to the surface unless you want to brave the last level.
+
+@summary
+go north until you see a school building.
+
+@summary
+enter the cellar.
+
+@summary
+find the open cell with the poster and pull it back.
+
+@summary
+keep walking around down here until you see some stairs.
+
+@summary
+go down the stairs, then go up the stairs on the side opposite you.
+
+@summary
+walk south until you have an east turn, then take it and go north.go up these stairs and find the nearby lever.pull the lever and go back down the stairs.open the jail door nearby the stairs.
+
+@summary
+walk around until you see a treasure chest.
+@article
+ This is located due south of Edgeville, due west of Varrock, somewhat north of Draynor Village, and northeast of Falador.
+ It is a combat option that will force you to run after and attack anything that attacks you, and will only serve to hurt you for this endeavor., It is better known as the Stronghold of Security. Do not attack anything while you are down here., Attempt to plot a route through each floor before you get to it., Do not attack any monsters here., You will be rewarded with 2k in gold., It is recommended to rest until your run energy is full., Be careful with the aggressive monsters down here!, You will be rewarded with 3k., Again, it is recommended to rest until your run energy is full., The monsters here can land high hits, so avoid them whenever possible., It will reward you with 5k, and heal your health., The only item reward from the Death Level is a pair of special boots (equivalent in stats to the members-only bronze boots). The monsters down here can kill you if you don't have food., It is a few squares away from the northern wall of the Barbarian Village longhouse., It should take you into a jail., It will take you to the Stronghold of Player Safety., These should be the stairs near the muggers., This will save you a lot of walking., Keep walking north until you see stairs leading up.,,,, Open the chest. It will reward you with 10k, two antique lamps, and a pair of safety gloves. You should now have 20k in money, and you can use the lamps to level up a skill of your choosing. The gloves aren't good for very much, so you can dispose of them. (If you decide you want them, trek through again and claim them from the chest once more.)

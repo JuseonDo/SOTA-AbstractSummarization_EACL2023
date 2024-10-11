@@ -1,0 +1,24 @@
+@summary
+open your iphone/ipad’s settings.
+
+@summary
+tap general.
+
+@summary
+,
+
+@summary
+tap background app refresh.
+
+@summary
+,
+
+@summary
+slide the “background app refresh” switch to the off position.
+@article
+ It’s the gray gear icon typically found on your home screen.;
+,,, When the switch turns gray, apps will no longer use your data plan in the background.
+
+
+If you don’t want to restrict all apps, you can leave the switch On (green) and disable specific apps using their corresponding switches.
+

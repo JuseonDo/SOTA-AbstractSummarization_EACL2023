@@ -1,0 +1,35 @@
+@summary
+launch the data rescue 3 application.
+
+@summary
+,
+
+@summary
+select "start new scan".
+
+@summary
+,
+
+@summary
+select the hard drive you wish to recover the files from and click "next".
+
+@summary
+,
+
+@summary
+select the "deleted file scan" task.
+
+@summary
+after the deleted file scan has completed, a window with all the files that are recoverable will be displayed.
+@article
+,,, This is where you will be asked to choose a "workspace" (workspace refers to a secondary Mac hard drive to recover the files to). Then select "Start".
+
+
+
+
+
+
+ Scanning Window
+
+The scanning will begin and be shown in the window. This is the actual live process where Data Rescue is looking for the deleted files in the free space of the hard drive.
+ Take the time to look through all the files and select the files you would like to do the actual recovery for. Select the boxes and the click "Next" to recover them to the external drive.

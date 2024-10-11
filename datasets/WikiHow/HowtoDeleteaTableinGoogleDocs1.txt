@@ -1,0 +1,22 @@
+@summary
+navigate to google docs.
+
+@summary
+click the document you wish to edit.
+
+@summary
+,
+
+@summary
+use two fingers to click on your document's table.
+
+@summary
+click delete table.
+@article
+ If you aren't already signed in, you'll need to enter your email address and password to continue.;
+,, You can also hold Ctrl while clicking the table.
+ Your table should now be gone!
+
+
+Depending on the style of table, you may have to hover over "Delete" in order to view the "Delete table" option.
+

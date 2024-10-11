@@ -1,0 +1,41 @@
+@summary
+tap on the "home" icon.
+
+@summary
+tap the "grid" icon.
+
+@summary
+tap on the "email" icon.
+
+@summary
+,
+
+@summary
+enter your email address and password, then tap "next.",
+
+@summary
+choose the type of account you will be using.
+
+@summary
+enter information into the field under "incoming server settings.",
+
+@summary
+enter your "outgoing server settings" information.
+
+@summary
+select your settings in the "account options" menu.
+
+@summary
+enter a name for the account and your name for outgoing messages, then select "done."
+@article
+;
+, It is located in the bottom-center of the screen. This will bring up a list of installed applications.
+,
+
+, Select "POP3" or "IMAP," depending on your personal email client. There is also a "Microsoft Exchange ActiveSync" option, which connects you directly to an existing Exchange account.
+ You can enter your username, password, server address, port, security type, and "Delete email from server" options here. Once you confirm your information, tap "Done" and then "Next."
+
+, This includes Simple Mail Transfer Protocol (SMTP) server address, port, security type, a "require sign-in" check box, username, and password.
+ These include email checking frequency, a "Send email by this account default" check box, and a "Notify me when email arrives" check box. Select "Next" after you confirm your settings.
+
+

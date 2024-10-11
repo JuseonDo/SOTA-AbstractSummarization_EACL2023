@@ -1,0 +1,58 @@
+@summary
+open a simple text editor such as notepad or notepad++ on windows or textedit on a macintosh.
+
+@summary
+begin an html document consisting of the following code.
+
+@summary
+save the page.
+
+@summary
+open the file.
+@article
+;
+,
+
+
+
+
+<html>
+<head>
+<script type="text/javascript">
+function startTime()
+{
+var today=new Date();
+var h=today.getHours();
+var m=today.getMinutes();
+var s=today.getSeconds();
+// add a zero in front of numbers<10
+m=checkTime(m);
+s=checkTime(s);
+document.getElementById('txt').innerHTML=h+":"+m+":"+s;
+t=setTimeout('startTime()',500);
+}
+function checkTime(i)
+{
+if (i<10)
+{
+i="0" + i;
+}
+return i;
+}
+</script>
+</head>
+<body onload="startTime()">
+<div id="txt"></div>
+</body>
+</html>
+
+
+
+
+, Personalize the file's name to make it easy to distinguish when you have you viewer read the page. This will give you a HTML link instead of a JavaScript one.
+ You can see your digital clock in HTML.
+
+
+
+
+

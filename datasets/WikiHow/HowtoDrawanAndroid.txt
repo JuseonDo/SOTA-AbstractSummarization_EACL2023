@@ -1,0 +1,35 @@
+@summary
+draw a semicircle.
+
+@summary
+draw a square underneath the semicircle.
+
+@summary
+,
+
+@summary
+draw two rectangles.
+
+@summary
+draw two rectangles on the bottom of the square.
+
+@summary
+,
+
+@summary
+draw tiny circles inside the semicircle.
+
+@summary
+,
+
+@summary
+draw two semicircles.
+
+@summary
+color it in.
+@article
+;
+,, This can be done by drawing them on both sides of the rectangle, starting from the top and going ¾ of the way down.
+,, This is done on top of the original semicircle and they should be long and narrow.
+ The original Android logo is green, but you can have fun and make your own design.
+

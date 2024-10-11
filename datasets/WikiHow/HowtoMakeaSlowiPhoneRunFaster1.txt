@@ -1,0 +1,12 @@
+@summary
+double-click the home button.
+
+@summary
+swipe any unnecessary apps up.
+
+@summary
+click the home button again to return to the main screen.
+
+@article
+ Doing so will make all apps which are active at that moment appear next to each other.;
+, Doing so will close down those apps that are running in the background slowing your processing times. All apps that you use will continue to run.

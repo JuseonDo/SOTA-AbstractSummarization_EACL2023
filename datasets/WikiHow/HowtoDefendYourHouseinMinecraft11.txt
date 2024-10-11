@@ -1,0 +1,7 @@
+@summary
+water moats will cause endermen to teleport away from you.
+
+@summary
+lava moats damage all mobs.
+@article
+ To make this dig 1 block down around the perimeter of your base and fill it with water., To make this dig 1 block down around the perimeter of your base and fill it with lava.

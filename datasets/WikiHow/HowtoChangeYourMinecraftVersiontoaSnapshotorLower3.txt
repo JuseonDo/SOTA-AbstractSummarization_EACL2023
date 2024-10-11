@@ -1,0 +1,30 @@
+@summary
+downgrade your minecraft to a previous version.
+
+@summary
+accept the warning if you have checked any of the alpha/beta boxes then select the drop down box and select the version you wish to play on.
+
+@summary
+,
+
+@summary
+click 'save profile' on the bottom right to save your changes.
+
+@summary
+,
+
+@summary
+click play to start up minecraft with the version you desired to play on, and give it a few moments to load.
+
+@summary
+,
+
+@summary
+voila!
+@article
+
+
+
+To upgrade your Minecraft to a future version, follow Part 2 above.  If you are planning to play on the Alpha/Beta versions, then check the boxes necessary in the section named 'Version Selection'. You do not have to check these boxes if you plan to play on a version between 1.0 and the latest Minecraft version.
+,,, You have completed 'downgrading your Minecraft' tutorial. Some things may look different! But fear not, it is the same Minecraft you were playing before with just with some blocks missing.
+

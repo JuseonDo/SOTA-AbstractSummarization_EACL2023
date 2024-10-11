@@ -1,0 +1,5 @@
+@summary
+send a cancellation request email to support@saynow.com.
+@article
+ Provide them with your SayNow username and request cancellation of text and/or phone notifications.
+

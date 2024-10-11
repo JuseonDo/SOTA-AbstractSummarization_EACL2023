@@ -1,0 +1,35 @@
+@summary
+draw a circle for the head.
+
+@summary
+draw a cross connected to the head.
+
+@summary
+,
+
+@summary
+draw two legs branching from the bottom of the cross.
+
+@summary
+draw a curve or a straight line at the lower half of the circle.
+
+@summary
+draw two eyes.
+
+@summary
+draw a dot for the nose.
+
+@summary
+,finished.
+@article
+;
+,, On the cross make sure the horizontal line is shorter than the vertical line.
+ If you want teeth, draw two triangles sprouting from the line.
+ You can draw:
+
+
+A dot. It's the fastest way.
+Two circles with a dot in the middle.
+Two merged eyes to show fear or surprise.
+Dollar signs ($) and hearts can replace pupils to show expressions.
+,

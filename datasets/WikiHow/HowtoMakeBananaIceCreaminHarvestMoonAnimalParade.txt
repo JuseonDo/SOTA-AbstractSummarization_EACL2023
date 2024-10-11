@@ -1,0 +1,21 @@
+@summary
+acquire an ice cream maker.
+
+@summary
+gather the ingredients needed to make the banana ice cream.have the ingredients in your rucksack.
+
+@summary
+walk to the ice cream maker on your kitchen counter.
+
+@summary
+choose the ingredients that you need for the recipe.
+@article
+ If you don't have it, you can go to the General Store and pay 2,600 G for it.
+
+
+Milk: can be acquired from your cow
+Sugar: can grow sugar cane during the summer and process it through a windmill
+Egg: can be acquired from your chicken
+Banana: can be found on Toucan Island all year long
+
+,, Press the "A" button., Press the "A" button again and "Start" to make the dish.

@@ -1,0 +1,45 @@
+@summary
+cut the power cord about 2 feet (0.6 m) away from the connector that goes into your laptop, make a clean cut.
+
+@summary
+place jacket sleeves for the connectors onto the cables.
+
+@summary
+remove cable jacket only as much as the connector is long inside.
+
+@summary
+solder the insulated inner wire to the post.
+
+@summary
+wrap the soldered wire with electrical tape.
+
+@summary
+solder the outer wires to the connector frame.
+
+@summary
+crimp the frame to the wires.
+
+@summary
+wrap in electrical tape.
+
+@summary
+repeat at step 4 for the second connector.
+
+@summary
+,
+
+@summary
+if the smaller plug does not allow for electrical tape wrapping inside of it, at least wrap sleeve to the wire when you are complete.
+
+@article
+  The distance from the end of the cord should be determined by how far the cable runs on a table.  It is best if the disconnect is located in the portion of the cable that is typically hanging off the desk/table.;
+,  Can't tell you how many times I forget this step.  If you forget, you have to undo all your work to put them on later and then start over.
+  Your different ends of the plug and connector may be different length.  Be sure to only cut back the jacket as much as needed.  Also, be careful to not cut the wires inside.  Typically, power cords have bare wires surrounding an insulated wire in the middle (one positive current and the other negative).  The bare wires surrounding should not be cut away.  Remove only the tip of the jacket sleeve for the inner insulated wire
+
+,  The tab sticking straight out the back of the connector is best to be soldered to the inner insulated wire.  If you are able to insert the wire into the hole the tab may have, do so.  Otherwise, make sure that the solder gets hot enough to flow around the post and into the wire completely.
+  You only need a little, but this can help you avoid shorts in the wiring once you close up the connector.  A couple wraps is enough.
+  Twist the loose wires together to form a single combined strand.  Solder this to the 'frame' of the connector.  If the wire can be place through a hole, do so and then solder.  Make sure the solder flows completely into the wire strand and attached firmly to the frame.
+  Using a pair of pliers, squeeze the crimping bars around the wire to help remove the tension of a cable pull from your soldered points.
+  If there is enough room for your sleeve to cover your work, tightly wrap with electrical tape and down only the main cable.  This will help reduce the tension of a cable pull
+
+,,

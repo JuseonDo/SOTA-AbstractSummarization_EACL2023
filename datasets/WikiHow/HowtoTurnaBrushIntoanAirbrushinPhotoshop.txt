@@ -1,0 +1,18 @@
+@summary
+select one of the brush options.
+
+@summary
+find the airbrush icon in the option bar at the top.
+
+@summary
+,
+
+@summary
+select it/press it down.
+@article
+ You have a choice between the 'brush' and the 'mixer brush...'.
+
+
+Here are the options for both of the brushes.;
+,, Now you are painting with an airbrush.
+

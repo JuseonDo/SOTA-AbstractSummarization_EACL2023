@@ -1,0 +1,13 @@
+@summary
+open the play store app.tap the google play search bar.type google photos.tap google photos in the results.tap install if the app isn't installed already.tap open after the app is installed.tap sign in if you aren't already signed into google.sign in with the account you want to backup the photos to.tap the ☰ button.tap settings.tap back up & sync.toggle back up & sync on.
+
+@summary
+tap upload size to change the upload quality.
+
+@summary
+wait while your images back up.
+
+@summary
+access your backed up photos.
+@article
+ You can use Google Photos to backup all of your photos for free. Photos backed up for free will have a slightly reduced quality than the original images. If you choose to upload the original sizes, photos will count against your Google Drive storage.,,,,,,,,,,,, You can choose between High Quality, which allows you to upload unlimited pictures for free, or you can choose Original Quality, which will use your Google Drive storage., This can take a long time if you're uploading a lot of images. When you return to the Google Photos main screen, you'll see circular arrows on all of the photos that are waiting to upload., You can find your photos in the Photos app, at the Google Photos website, and in your Google Drive storage.

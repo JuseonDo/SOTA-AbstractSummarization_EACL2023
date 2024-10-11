@@ -1,0 +1,45 @@
+@summary
+select the auto choosing function where the scanner decides whether to scan in black and white, grayscale or color.
+
+@summary
+you have a book with a lot of images, try doing the scanning in the usual way.
+
+@summary
+you are exasperated with the progress you are making, try this space efficient method: scan a good portion of the book, about one-third, in black and white.
+
+@summary
+go thru the 100 scans and delete all pages with images.
+
+@summary
+scan, again, but in grayscale the first 100 pages of the book.
+
+@summary
+go thru the second batch of scans and delete all the pages that have just text.
+
+@summary
+,
+
+@summary
+combine the 1) black and white and 2) grayscale folders.
+
+@summary
+before scanning the next batch (pages 101 to 200), check the first batch for errors.
+
+@summary
+sometimes the long way of doing things is faster, maybe give this method a try if you are space conscious.
+
+@summary
+,
+
+@summary
+if space is not a problem, another option would be to scan the whole book in grayscale.
+@article
+ If your scanner can correctly choose what to save your scan as, this article is not for you.;
+, The usual way is to change the setting, from black and white to grayscale, when you come upon a page with an image. However, you will notice that instead of being able to scan a book in one session, you are on going on several sessions. It will be very tiring to constantly change the settings back and forth from: 1) black and white to grayscale and 2) from one-sided to two-sided. Note: scanning, in this context is just the first step in the whole process, where the separated pages of the book are fed into the scanner. This does not include: separating the book into individual pages, creating file folders, checking scans for mistakes, re-scanning, converting the files to PDF, stacking and checking the final product.
+ Scan every page. In this example your book has a total of 300 pages and you will scan the first 100 pages. Normally when scanning a book with 300 pages, scan the book in its entirety, however with this project there will be a greater propensity for error, so dividing the project into parts is recommended.
+ Save this file in a separate folder.
+ Scan every page. Note: for those of you new to scanning, to achieve the maximum in clarity, pages with images must be scanned in either grayscale or color.
+, Arrange the combined file by name. The two files combined will complement each other and fit together perfectly. To arrange a folder by their names: put the cursor in the file folder: right click the mouse - Arrange Icons By - Name. Arrange the files in ascending order.
+ It is important to have the initial scans in Tiff format because it is easy to navigate through Tiff files.
+, This option would be the quickest, but be aware that a scanned book in grayscale would be almost eight times larger in size than one scanned in black and white. The text in each grayscale page will be pale, so with Windows Live Photo Gallery go to: Fix - Adjust Exposure and to Highlights. To darken the text on each page individually move the slider bar in Highlights. Repeat this process for every page.
+

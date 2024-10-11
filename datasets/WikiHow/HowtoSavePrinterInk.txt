@@ -1,0 +1,37 @@
+@summary
+use ecofont.
+
+@summary
+check your document for mistakes.
+
+@summary
+use your printers fast draft/econofast setting.
+
+@summary
+try using software that lets you choose which parts of your document you want to print and delete what you don't.
+
+@summary
+print in black and white wherever possible.
+
+@summary
+before you print anything, make use of the preview option and check whether things look good.
+
+@summary
+turn off your printer using the on/off switch on it before turning it off at the mains.
+
+@summary
+don't clean your printer heads or align them unless necessary.
+
+@summary
+don’t be alarmed if your printer reports that ink or toner are empty.
+@article
+ Ecofont shoots holes into your font. It can help you save up to 20% ink compared to standard fonts.;
+, If you find one once you've hit print then you'll have wasted all that ink and have to print again.
+ Unless you're printing something where quality is required.
+ It will track your savings in ink and paper.
+ Black ink cartridges are usually much cheaper than the colours.
+ At this point you may decide to manually change the settings, for example print several pages on one piece of paper, reduce the size of an image etc.
+ The likelihood is that your printer will park the ink cartridges and cap them so that they do not dry out.
+ This wastes ink.
+ Chances are you have 10-30% lifetime left. So keep printing until the printer stops. Remember to buy a new cartridge for when the cartridges do run out.
+

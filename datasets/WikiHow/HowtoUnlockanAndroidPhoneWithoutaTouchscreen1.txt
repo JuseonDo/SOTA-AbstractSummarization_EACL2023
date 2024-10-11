@@ -1,0 +1,16 @@
+@summary
+connect your android phone to a car dock.
+
+@summary
+wait for your phone to switch to multimedia mode.
+
+@summary
+head for the home screen.
+@article
+ Take the data cable of your car dock and plug it into the cigarette lighter port on your car dashboard. Connect your Android phone to your car dock.
+
+
+If it’s turned off or has no battery, you may need to wait for a while before it switches on.;
+, When your phone is connected to a car dock, its screen automatically activates and stays on (for driving purposes). This way, you can unlock your phone even without the use of touchscreens.
+ Press the Back soft key button (located below the screen) to exit the multimedia mode and access its home screen.
+

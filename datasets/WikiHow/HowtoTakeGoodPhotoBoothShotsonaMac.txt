@@ -1,0 +1,53 @@
+@summary
+open photo booth.
+
+@summary
+use the rule of thirds in your image.
+
+@summary
+make sure there is no light shining directly on the the camera.
+
+@summary
+make sure there's enough light where you plan to take the picture.
+
+@summary
+don't move around a lot when you take the picture.
+
+@summary
+don't stand too close to the camera.
+
+@summary
+take a test shot before taking your real picture to make sure that the appearance you want is working.
+
+@summary
+,
+
+@summary
+change the effect to sepia to see if this helps if you mess up.
+
+@summary
+,
+
+@summary
+click.
+
+@summary
+you can import the photo to iphoto after it's taken and use the different features to enhance the quality.
+@article
+;
+, Read step 9 in the article Take-Better-Photographs
+
+, Too much direct light can cause blurriness and glimmering when taking photographs.
+ Pictures taken in for example a dark basement won't be any good. Open the blinds in front of your windows (if any), turn on any lights you have in your room. Ceiling lights are good for this.
+ This will not allow the camera to focus correctly and the picture will be blurry.
+ This will not focus it correctly.
+,, You have a perfect photo!
+
+, To do this, open photo booth, click on the picture you want and click the "iPhoto" button on the left side of the screen. Then :
+
+
+Click on the picture you would like to enhance
+Click the "Edit" button
+Click the "Enhance button"
+You can also click the "Adjust" button and try to increase the exposure and/or the contrast
+

@@ -1,0 +1,23 @@
+@summary
+click share in the menu bar.
+
+@summary
+select export movie, or press ⌘ cmd+e if you prefer.
+
+@summary
+,
+
+@summary
+name your project, and select its location.
+
+@summary
+click 1080p.
+
+@summary
+click export.
+@article
+;
+,, Do not add a ".mov" or any extension the the iMovie project filename.
+ You can also choose 720p if you want an HQ movie.
+ Surprisingly, it won't take as long to export, as if you clicked Export movie using QuickTime in the Share menu.
+

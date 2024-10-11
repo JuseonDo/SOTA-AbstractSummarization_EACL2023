@@ -1,0 +1,40 @@
+@summary
+open the "facebook" app.
+
+@summary
+tap ☰.
+
+@summary
+tap settings.
+
+@summary
+,
+
+@summary
+tap news feed preferences.
+
+@summary
+,
+
+@summary
+tap unfollow people to hide their posts.
+
+@summary
+,
+
+@summary
+tap each friend you wish to unfollow.
+
+@summary
+,
+
+@summary
+tap done when you're finished.
+@article
+ If you aren't already logged in, enter your username and password to continue.;
+, This button is in the bottom right corner of your screen.
+,,,, You should no longer see updates from your unfollowed friends!
+
+
+You may need to refresh your News Feed before these changes take place.
+

@@ -1,0 +1,12 @@
+@summary
+inform the customer that you will not be able to cash the check at this time.
+
+@summary
+wait for the customer to respond.
+
+@summary
+tell the customer you apologize for the convenience, but it would be best to contact the person who wrote the check and have them discuss this matter with them.
+
+@article
+ When the person who wrote the check has a delinquent account, it makes telling the person trying to cash the check even more difficult. This is because you cannot divulge any financial information about the account to someone who is not on the account.
+ If they ask "why," you have to tell them that you cannot divulge this type of information to them because they are not the account holder.

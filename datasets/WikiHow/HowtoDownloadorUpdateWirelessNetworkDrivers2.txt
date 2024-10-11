@@ -1,0 +1,14 @@
+@summary
+download drivethelife and install it on your computer.
+
+@summary
+scan your computer to identify drivers.
+
+@summary
+download the relevant wireless network drivers.
+
+@summary
+update the wireless network drivers.
+@article
+ Or you can visit the official website:http://www.drivethelife.com/
+, Run DriveTheLife and it will automatically scan your computer to check which drivers have problem. It will show you in details after scanning., Click "Repair" to download the best-matched drivers., Click "Update" to update to the latest drivers.

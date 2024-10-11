@@ -1,0 +1,28 @@
+@summary
+surf to yahoo site explorer.
+
+@summary
+,
+
+@summary
+enter in the domain name (eg.
+
+@summary
+click on the "inlinks" link.
+
+@summary
+,
+
+@summary
+select from the drop down, "except from this domain".
+
+@summary
+select from the drop down, "only this url" and "entire site".
+
+@summary
+see the results below.
+@article
+, www.YourSite.com) and click Explore URL.
+, If you keep the default selection of "From all pages" you will also count links from your own site.
+ Only this URL will select links of the specific page you have entered., You can see that as of 10/31/07 wikiHow had 389,000 links from other websites. Yahoo then goes on to list each site doing the linking.
+

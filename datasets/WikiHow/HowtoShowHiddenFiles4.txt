@@ -1,0 +1,19 @@
+@summary
+tap the play store app.
+
+@summary
+search for amaze file manager.
+
+@summary
+tap the install button on the amaze store page.
+
+@summary
+tap the open button after amaze installs.tap the ☰ button in the upper-left corner.tap settings.
+
+@summary
+tap the show hidden files and folders slider.
+
+@summary
+find the hidden files on your device.
+@article
+ The easiest way to find hidden files is to use a file manager from the Play Store., There are tons of file manager apps available that can show you hidden files. This guide will focus on Amaze, which is free. The process will be very similar for most file managers., This will begin installing Amaze., You'll see the storage folders on your Android device.,,, This will enable it, allowing you to view your hidden files., Use Amaze to navigate to the folder containing the hidden files. Hidden files will be slightly-grayed out compared to unhidden files.

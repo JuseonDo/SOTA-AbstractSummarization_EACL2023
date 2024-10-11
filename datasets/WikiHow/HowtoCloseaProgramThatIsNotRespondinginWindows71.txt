@@ -1,0 +1,4 @@
+@summary
+press alt+f4.
+@article
+ Usually, this will quit the browser and any programs which are open.;

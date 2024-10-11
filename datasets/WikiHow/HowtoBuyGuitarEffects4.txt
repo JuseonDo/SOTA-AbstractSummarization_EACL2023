@@ -1,0 +1,13 @@
+@summary
+reverb is the most natural of effects.
+
+@summary
+reverb thickens up your sound, softens the edges, and makes it sound like you're playing in a large hall (or a bathroom or stairway).
+
+@summary
+echo (also called long delay) is a natural effect as well, but it can only be encountered in large spaces such as canyons or maybe a large, empty stadium.
+@article
+ You can experience reverb by singing in the bathroom or a concrete stairway. This type of sound is easy to duplicate by putting transducers on either side of a spring and running a guitar or bass signal through it. Spring reverbs have been included on many guitar amps since the early 1960s.
+ Though there is scarcely a record made that doesn't use any reverb, you should use it judiciously. Heavy reverb almost always sounds bad. If you buy a dedicated reverb unit, it will give you several varieties of reverbs to choose from.
+ You emit a loud, sharp yelp and a second later you hear the yelp come bouncing faintly back to you from a far wall. This is a particularly fun effect to play around with by yourself. If you set the delay long enough, you can play against the notes you just played and harmonize with yourself while the rate sets up a kind of beat.
+

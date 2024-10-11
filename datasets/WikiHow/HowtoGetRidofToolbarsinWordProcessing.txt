@@ -1,0 +1,28 @@
+@summary
+search your program's help menu for <toolbars>.
+
+@summary
+find out which menu item controls toolbars.
+
+@summary
+decide which toolbars you always need to keep on screen.
+
+@summary
+turn off toolbars that you do not use or do not need for the current job.
+
+@summary
+find the drag handle of a toolbar and move it around the screen.
+
+@summary
+right mouse click on a menu or toolbar and see what options you have.
+
+@summary
+find out how to turn your toolbars on again.
+
+@article
+ Traditional word processing programs have multiple toolbars for performing sets of actions by category.;
+, The most probable menu item is View. Open the View menu and look at the list of available toolbars.
+ Generally, in word processing, you will keep the Standard and Formatting toolbars.
+ For example, you do not need Drawing or Picture toolbars when you are not handling graphics.
+ (Hold down left mouse button over the handle and drag). Moving or resizing a toolbar is an alternative to closing it.
+ These options should include turn off toolbar - possibly by deselecting a check box.

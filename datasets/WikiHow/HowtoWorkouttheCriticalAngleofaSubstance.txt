@@ -1,0 +1,43 @@
+@summary
+make sure you know the snell's law.
+
+@summary
+find out the refractive index of the substance (or nx).
+
+@summary
+,
+
+@summary
+you can now do the substitution.
+
+@summary
+the critical angle is therefore 41.8°.
+
+@article
+ The general form of Snell's Law is nxsinθx=nvacuumsinθvacuum, where n is the refractive index and θ is the angle of incidence or refraction.;
+,, Let's say you are using glass with a refractive index of 1.50. Therefore, the critical angle is the angle which, when it is the angle of incidence, produces an emergent ray of 90°.
+
+
+nglasssinθglass=nvacuumsinθvacuum
+
+
+
+
+
+1.50sinθglass=1sin90°
+
+
+
+
+
+
+sinθglass=2/3
+
+
+
+
+
+
+θglass=41.8° (correct to 3 significant figures)
+
+,

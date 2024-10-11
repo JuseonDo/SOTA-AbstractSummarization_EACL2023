@@ -1,0 +1,47 @@
+@summary
+open cydia on your jailbroken device.
+
+@summary
+tap search.
+
+@summary
+type "photo info" into the search field.
+
+@summary
+,
+
+@summary
+tap photo info.
+
+@summary
+,
+
+@summary
+tap install.
+
+@summary
+tap confirm.
+
+@summary
+tap restart springboard.
+
+@summary
+select a photo from your photos app.
+
+@summary
+,
+
+@summary
+tap ⓘ.
+
+@summary
+review the "file size" entry.
+@article
+ You can use Cydia to install a special tweak to your Photos app that will allow you to view detailed information for your photos.
+ This is in the bottom right corner of your screen.
+,, This is in the top right corner of your screen.
+ Cydia will download and install the tweak.
+ Doing so will restart your system to finalize the tweak's installation.
+, This should be at the bottom of the screen.
+ This value will appear at the bottom of your screen. Now you know the file size of your selected photos.
+

@@ -1,0 +1,45 @@
+@summary
+navigate to http://www.tweetdelete.net.
+
+@summary
+check the box to agree to the terms.
+
+@summary
+click sign in with twitter.
+
+@summary
+click authorize app.
+
+@summary
+,
+
+@summary
+choose a time span from the dropdown menu.
+
+@summary
+check the box next to "delete all my existing tweets".
+
+@summary
+,
+
+@summary
+remove the check from “post to my feed”.
+
+@summary
+click activate tweetdelete.
+
+@summary
+navigate to https://twitter.com/settings/applications.
+
+@summary
+click revoke access next to tweetdelete.
+@article
+ TweetDelete is a free service that can delete all of the tweets in your Twitter account.Due to Twitter limitations, TweetDelete can only delete your last 3,200 tweets., If you want to read the terms before agreeing, click TweetDelete terms.
+
+
+
+If you are not already signed in to Twitter, you’ll be prompted to log in now.
+, Here you can choose which tweets to delete based on their age. You can choose from options spanning from a single week to an entire year.,, Otherwise, TweetDelete will send a tweet on your behalf, announcing that you’ve used the service.If you don’t want to follow TweetDelete on Twitter, remove the check from “Follow @Tweet_Delete for future updates”.
+ TweetDelete will now delete all of the tweets within the time selected time span.
+ You’ll see a list of apps that currently have access to your Twitter account.
+ This will disable the connection between TweetDelete and Twitter.

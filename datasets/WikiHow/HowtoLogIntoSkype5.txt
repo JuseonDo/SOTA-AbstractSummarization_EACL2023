@@ -1,0 +1,20 @@
+@summary
+open skype.
+
+@summary
+,
+
+@summary
+click microsoft account.
+
+@summary
+,
+
+@summary
+enter your microsoft account and password.
+
+@summary
+click sign in.
+@article
+,, Your Microsoft account is the email you used to create your Microsoft account.
+ Skype will save your login information the next time you open it.

@@ -1,0 +1,21 @@
+@summary
+open your device's settings.
+
+@summary
+scroll down and tap accounts.
+
+@summary
+tap google.
+
+@summary
+slide the "contacts" button to the "on" (right) position.
+
+@summary
+click on the other google options that you want to sync.
+@article
+ It's an app that is likely shaped like a gear (⚙️) or one that contains a set of sliders.;
+, It's under the "Personal" section of the menu.
+ The accounts are listed alphabetically.
+ It will turn bluish-green. Now your Gmail contacts will sync with you Android contacts.
+ These include Calendar, Photos, and Music.
+

@@ -1,0 +1,68 @@
+@summary
+choose an event to ask a question.
+
+@summary
+click the “join” or “maybe” buttons to indicate if you will be attending the event.
+
+@summary
+scroll down to the “posts” section on the event page.
+
+@summary
+,
+
+@summary
+select the “ask question” icon from the options above the empty post box.
+
+@summary
+,
+
+@summary
+type your question into the box.
+
+@summary
+,
+
+@summary
+add poll options.
+
+@summary
+choose to disable or allow other people to add poll options.
+
+@summary
+click the “post” button to publish your question to other people attending the event.
+
+@article
+
+
+Click on the “Events” icon on the upper-left hand side of your Facebook Timeline page.
+
+
+
+ 
+
+
+Select an event from the list of “Upcoming Events”. You can also use the calendar on the right side of the page to find an event further in the future.
+
+
+
+
+
+
+Click on the event’s title to go to the event’s page.
+
+
+
+
+
+;
+, You can only ask questions on event pages that you have indicated you plan on attending.
+,,, Use this feature if you want your people to choose from prewritten answers or options.
+
+
+Click on “Add Poll Options”.
+Type up to ten poll options in the blank boxes that appear below your question.
+
+
+
+Leave the “Allow anyone to add options” box checked if you wish to allow others to contribute.
+Click on the box to disable the option.

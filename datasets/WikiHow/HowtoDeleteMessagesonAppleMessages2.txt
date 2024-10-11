@@ -1,0 +1,21 @@
+@summary
+open the messages app.
+
+@summary
+,
+
+@summary
+tap edit.
+
+@summary
+tap the buttons left of the conversations you wish to delete.
+
+@summary
+,
+
+@summary
+tap delete.
+@article
+, It's in the upper-left corner of the screen.
+, It's in the lower-right corner of the screen. The selected conversations and all their messages are now deleted.
+

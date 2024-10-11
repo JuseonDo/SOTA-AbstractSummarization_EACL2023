@@ -1,0 +1,293 @@
+@summary
+tap the settings app.
+
+@summary
+tap apps or application manager.
+
+@summary
+,
+
+@summary
+switch to the all tab.
+
+@summary
+scroll through the list to find apps you don't use.
+
+@summary
+tap an app that you want to uninstall.
+
+@summary
+,
+
+@summary
+tap the uninstall button.
+
+@summary
+tap disable or turn off if you can't uninstall.
+
+@summary
+repeat for any other apps you want to remove.
+
+@summary
+tap the app list button.
+
+@summary
+tap downloads.
+
+@summary
+,
+
+@summary
+tap the trash button.
+
+@summary
+tap each file you want to delete.
+
+@summary
+tap clear or delete.
+
+@summary
+,
+
+@summary
+check the delete downloaded files box.
+
+@summary
+,
+
+@summary
+tap clear.
+
+@summary
+,
+
+@summary
+tap the settings app.
+
+@summary
+tap storage & usb.
+
+@summary
+tap cached data.
+
+@summary
+,
+
+@summary
+tap ok.
+
+@summary
+connect your android device to your computer.
+
+@summary
+swipe down from the top of the android screen.
+
+@summary
+,
+
+@summary
+tap the usb notification.
+
+@summary
+,
+
+@summary
+select file transfer or mtp.
+
+@summary
+,
+
+@summary
+open the computer/this pc window.
+
+@summary
+right-click on your android device.
+
+@summary
+,
+
+@summary
+click import pictures and videos.
+
+@summary
+,
+
+@summary
+click the more options link.
+
+@summary
+,
+
+@summary
+check the delete files after importing box.
+
+@summary
+,
+
+@summary
+click ok.
+
+@summary
+,
+
+@summary
+click the import all items now radio button.
+
+@summary
+,
+
+@summary
+enter a name for the folder.
+
+@summary
+,
+
+@summary
+click import.
+
+@summary
+disconnect your android after the photos finish transferring.
+
+@summary
+,
+
+@summary
+open the pictures folder on your computer to find the photos.
+
+@summary
+,
+
+@summary
+connect your android device to your mac.
+
+@summary
+,
+
+@summary
+swipe down from the top of the android screen.
+
+@summary
+,
+
+@summary
+tap the usb connection option.
+
+@summary
+,
+
+@summary
+tap photo transfer.
+
+@summary
+,
+
+@summary
+click the go menu on your mac.
+
+@summary
+,
+
+@summary
+click applications.
+
+@summary
+,
+
+@summary
+double-click image capture.
+
+@summary
+,
+
+@summary
+click your android device in the devices menu.
+
+@summary
+,
+
+@summary
+click the arrow in the lower left corner.
+
+@summary
+,
+
+@summary
+click the delete after import box.
+
+@summary
+,
+
+@summary
+click the import all button.
+
+@summary
+back up your contacts.
+
+@summary
+save any files you may need.
+
+@summary
+tap the settings app on your android.
+
+@summary
+tap the personal tab (if applicable).
+
+@summary
+tap backup & reset.
+
+@summary
+,
+
+@summary
+tap factory data reset.
+
+@summary
+,
+
+@summary
+tap reset phone.
+
+@summary
+,
+
+@summary
+wait while your device resets.
+
+@summary
+,
+
+@summary
+start the device setup process.
+
+@summary
+,
+
+@summary
+sign in with your google account when prompted.
+@article
+ You can find this in your app drawer by tapping the grid at the bottom of your Home screen. You can also typically access settings from the Notification Panel.;
+,, This will display all of the apps installed on your device.
+ Apps that you know longer use may be taking up space and running in the background, slowing your device down. You'll see the amount of space each app takes next to the entry in the list.
+
+
+Some versions of Android allow you to sort by size by tapping the ⋮ button.
+, If this button is not available, the app likely came preinstalled and cannot be completely removed.
+ You may have to tap "Uninstall updates" first.
+ The more apps you can remove, the more space your phone will have. This will lead to better performance., This is the grid at the bottom of your Home screen.
+, The layout of this screen will vary depending on your device, but there's usually a trashcan button or a Delete button you can tap at the top of the screen.
+ Each file you want to delete will have a checkmark next to it.
+,,, You'll find this in the list of all of your apps.
+ It may just be labeled Storage.
+, This will clear all of the app cache data on your device. You'll have to sign into your apps again when you next launch them.,
+
+
+If you have a Mac, see Transferring and Removing Pictures (Mac).
+,,, You can click the folder or Computer button in the Start menu, or press ⊞ Win+E.
+,,,,,,, The photos will begin copying to your computer, and will then be deleted from your device.
+,,,,,,,,,,,, The pictures on your Android device will be transferred to your computer's hard drive, and will then be deleted automatically from your Android's storage.
+ If you are signed in with a Google account on your Android, your contacts should automatically be synced with your Google account. You can check your Google contacts at contacts.google.com. If you have contacts you need to back up manually, see Back Up Your Contacts with an Android Phone, Gmail or Moborobo.
+ When you factory reset, all of your data will be wiped. If you have files on your Android that you need to keep, connect your Android to your computer and transfer the files for safekeeping. See Transfer Data Between a Cell Phone and Computer for detailed instructions.
+ Once your data is safely backed up, you can start the reset process.
+ Some Android devices, notably Samsung devices, will require you to switch to the Personal section to find the reset options.
+,,,,, This will restore your contacts and settings, as well as your Google Play Store app purchases and downloads.
+

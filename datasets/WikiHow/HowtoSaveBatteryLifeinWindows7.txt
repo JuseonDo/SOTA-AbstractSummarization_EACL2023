@@ -1,0 +1,24 @@
+@summary
+idle resource utilization: this is one of the most important power management technologies because idle time is a significant portion of the time a computer is turned on.
+
+@summary
+trigger start services: services were usually started automatically right after startup and would run in the background waiting for an event to occur.
+
+@summary
+enhanced processor power management: windows 7 will include device driver support for the latest ppm technologies for dell 75uyf dell c1295.
+
+@summary
+adaptive display brightness: microsoft says that the average display is set to turn off after 10-15 minutes of inactivity in dell latitude d620 battery.
+
+@summary
+low-power audio: windows 7 will support the latest intel hd audio low-power specification, which introduces a new power state known as d3cold to dell latitude d820 battery.
+
+@summary
+timer coalescing: modern processors reduce power consumption by taking advantage of idle time between executing instructions, but many ppm technologies require a minimum amount of idle time before obtaining any net-power savings.
+@article
+ Idle efficiency in Windows 7 is improved by reducing resource utilization and enabling hardware to go into lower power states during long periods of battery inactivity. This includes the processor, disk, memory, and network activity on the computer. To demonstrate just how much power can be saved, CPUs consume nearly 0 watts when idle, but up to 35 watts at full power.;
+, In Windows 7, certain services are only started when triggered by an event such as device insertion or an IP change. This makes it unnecessary to have services starting all the time and reduces the amount of background processes, then reducing your Dell D5318 battery.
+ PPM allows Windows 7 to choose the appropriate processor performance state depending on the load and scale performance accordingly.
+ Often times however, there are shorter periods of inactivity in between. To save additional power, ADB defines will allow dimming the display. ADB can also utilize hardware sensor technology to adjust display brightness accordingly to ambient light.
+ This is the lowest unresponsive power state that a codec can go into. It can also further conserve power when an audio device is not in use. Windows 7 also supports selective suspend technology that extends to USB audio-class devices such as microphones and web-cams.
+ Timer Coalescing increases the average idle period by letting the Windows kernel combine periodic software activity.

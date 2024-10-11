@@ -1,0 +1,16 @@
+@summary
+search for a mac operating system (os) update.
+
+@summary
+select "software update" from the popup menu.
+@article
+
+
+
+Any video card driver updates for your system will be included in the OS update.
+Click the picture of the Apple on your desktop.
+
+
+
+Follow the prompts and reboot as necessary.
+

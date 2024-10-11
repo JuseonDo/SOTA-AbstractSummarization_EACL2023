@@ -1,0 +1,13 @@
+@summary
+travel to draynor village.
+
+@summary
+go to diango in the marketplace.
+
+@summary
+pay 15 coins for 1 candle.
+@article
+;
+, Select the "Trade Diango" option when right clicking on him.
+ If you wish to add them to a celebration cake (also bought from Diango), get 10 of them.
+

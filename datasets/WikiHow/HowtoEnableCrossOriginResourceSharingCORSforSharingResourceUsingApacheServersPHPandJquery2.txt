@@ -1,0 +1,13 @@
+@summary
+open the html file present on the client side in which you are sending resource request.
+
+@summary
+mention the ip address of the server side domain and complete path of the file that need to be accessed.
+
+@summary
+launch the request using your apache server by putting the url localhost/cors-usingjquery/sub2.html on the web browser’s address bar.
+@article
+ As shown, the client is sending request to server side for getting customer’s record with ID as ‘145’.;
+, As shown, the file demo.php which needs to be accessed is present on the Apache sever (occupying port 80) of the server side domain. The server side domain has an IP address of 192.148.0.108.
+ As the path indicates, the requesting client side file sub2.html is present inside a folder named as CORS-UsingJquery. If the access headers are properly set on the server side, then the record of the customer with ID as ‘145’ will be successfully displayed.
+

@@ -1,0 +1,80 @@
+@summary
+know the abbreviations used here, and how to carry them out:
+
+@summary
+sc = single crochet
+
+@summary
+dc = double crochet
+
+@summary
+;
+
+@summary
+,
+
+@summary
+using two strands of crochet thread, chain 22.
+
+@summary
+row 1: sc in the first chain, * skip one chain, 3 dc in the next chain (shell made), skip one chain, sc in the next chain.
+
+@summary
+row 2: chain 3, dc in the first sc at the beginning of the row, * sc in the center dc of the next shell, shell in the next sc.
+
+@summary
+row 3: sc in the first dc, * shell in the next sc, sc in the center dc of the next shell.
+
+@summary
+alternate row 2 and 3 for the next 31 rows.
+
+@summary
+,
+
+@summary
+row 32: this row involves decreasing.
+
+@summary
+repeat row 32 for the next 2 rows.
+
+@summary
+,
+
+@summary
+row 35: slip stitch to the center dc of the first shell.
+
+@summary
+fasten off.
+
+@summary
+fold the rectangular part of the piece almost in half to create the pocket of the purse.
+
+@summary
+attach your crochet thread to the lower side of the pocket of the purse.
+
+@summary
+fasten off.
+
+@summary
+,
+
+@summary
+align the flap over the pocket.
+
+@summary
+,
+
+@summary
+sew a button onto the pocket beneath the buttonhole.
+
+@article
+, Turn.
+ Repeat from * ending with a sc in the last chain, chain one. Turn. There should be five shells made in this row.
+ Repeat from * ending with 2 dc in the last sc, chain one. Turn. There should be four complete shells in the middle of this row and a half-shell at the beginning and end of the row.
+ Repeat from * ending with a sc in the last stitch of the row, chain one. Turn. There should be five shells made in this row.
+, Slip stitch to the center dc of the first shell, * shell in the next sc, sc in the center dc of the next shell. Repeat from * ending with a slip stitch in the center dc of the last shell. Turn.
+, Make 2 dc, ch 2 (button hole made), 2 dc all within the next sc. Slip stitch in the center dc of the next shell.
+ You should have a piece that is in the shape of a long rectangle that comes to a point at one end. The rectangle will become the pocket of the purse. The pointed end of the rectangle will become the flap of the purse.
+ Leave about a half inch free just below the decrease row to become part of the flap.
+ Sc up the side of the pocket, sc up the side of the flap, 2 sc in the buttonhole, sc down the other side of the flap, sc down the other side of the pocket. You may wish to count your stitches so that both sides are equivalent, but generally, just be consistent placing one sc after the other.
+,,

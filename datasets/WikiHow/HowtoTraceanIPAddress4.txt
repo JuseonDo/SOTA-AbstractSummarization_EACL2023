@@ -1,0 +1,5 @@
+@summary
+open a command console as described above.
+@article
+ On Windows, enter tracert <IP address>. On UNIX (including Linux and Macintosh OS X), open a shell and use the command traceroute <IP address>, and how long each step takes.
+

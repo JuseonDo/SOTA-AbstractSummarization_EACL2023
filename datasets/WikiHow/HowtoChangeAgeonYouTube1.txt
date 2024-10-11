@@ -1,0 +1,60 @@
+@summary
+go to youtube.com.
+
+@summary
+click on "sign in.",
+
+@summary
+enter your credentials.
+
+@summary
+,
+
+@summary
+click on "sign in.",
+
+@summary
+click on your profile picture.
+
+@summary
+click on your email address.
+
+@summary
+,
+
+@summary
+click on "your personal info.",
+
+@summary
+click on "birthday.",
+
+@summary
+click on the edit icon.
+
+@summary
+update your birthday.
+
+@summary
+,
+
+@summary
+click on "update.",
+
+@summary
+click on "confirm."
+@article
+;
+, It's the blue link in the upper right corner of the browser window.
+
+
+Your browser may automatically sign you into Google+. If this is the case, click on your profile picture in the upper-right corner of the browser window.
+,
+
+, You should see your Google+ profile picture in the upper-right corner of the browser window. When you click on it, a dialog box will open.
+, The link is located on the far left side of the browser window, in the center, under the "Personal info & privacy" menu.
+
+
+, Located to the right of the birthday info displayed on your screen, the edit icon is a gray pencil.
+, This is in blue text in the lower right corner of the dialog box.
+ Your age will now be changed on YouTube.
+

@@ -1,0 +1,23 @@
+@summary
+open your slack app or sign into the slack website.
+
+@summary
+open the channel you want to leave by clicking or tapping the channel name.
+
+@summary
+type "/leave" into the message field.
+
+@summary
+press .↵ enter or tap the send button to send the command.
+@article
+ This will take you to your default Slack channel, usually the "#general" channel.
+
+
+Use this method in any version of Slack. You can use these text commands in the Slack website as well as the Slack mobile apps.;
+, You'll need to have the channel open that you want to leave so that you are posting to that channel. You can select your channels from the sidebar menu.
+ This is the text command to leave a channel.
+
+
+You can also type "/close" to accomplish the same task.
+ You'll be removed from the channel and taken to your last active channel.
+

@@ -1,0 +1,21 @@
+@summary
+go to windows and scroll down to swatches.
+
+@summary
+you can open it by go to windows > swatches libraries > library name.
+
+@summary
+choose the swatch you want.
+
+@summary
+add your new swatch to the tool panel.
+
+@summary
+move your swatch from the library to the panel.
+@article
+ The standard swatches panel will appear.;
+, Here you will find the various swatch libraries such as nature, or jewel tones. There are a wide variety of swatches available depending on what version of Adobe Illustrator you're using.
+ An easy way to choose the swatch is go to the Swatches panel, click the Swatches Libraries Menu button, and choose a library from the list.
+ Drag the chosen swatch to the Tool Panel to the right side of your screen. Place it in the appropriate area.
+ You can easily move swatches back and forth from the library and tool panel. Simple drag the tiles from one to the other.
+

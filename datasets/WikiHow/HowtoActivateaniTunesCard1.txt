@@ -1,0 +1,57 @@
+@summary
+open the itunes store app.
+
+@summary
+tap music.
+
+@summary
+scroll to the bottom of the screen.
+
+@summary
+,
+
+@summary
+tap redeem.
+
+@summary
+,
+
+@summary
+enter your apple id password.
+
+@summary
+,
+
+@summary
+tap ok.
+
+@summary
+,
+
+@summary
+tap you can also enter this code manually.
+
+@summary
+,
+
+@summary
+find your 16-digit code on the gift card.
+
+@summary
+enter the code.
+
+@summary
+,
+
+@summary
+tap redeem.
+@article
+ The icon resembles a musical note surrounded by a circle. You can use the iBooks app and App Store to redeem your gift card as well.;
+, It is at the bottom of the screen.
+,,,,, It is on the back.
+
+
+The resulting code will start with an "XX."
+
+,, The amount in your gift card will be added to your Apple ID for App Store credit. You may also choose Apple Music Membership credit as well.
+

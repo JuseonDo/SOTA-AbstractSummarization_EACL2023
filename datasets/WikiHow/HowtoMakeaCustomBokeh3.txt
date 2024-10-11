@@ -1,0 +1,34 @@
+@summary
+measure the outside circumference of your lens.
+
+@summary
+cut a rectangular piece of whatever you are using, (thin plastic, poster board) with enough left over so that you can fasten it somehow.
+
+@summary
+,
+
+@summary
+measure the circumference of the bokeh after assembled for the 'end cap'.
+
+@summary
+,
+
+@summary
+fasten it together with some type of tape.
+
+@summary
+,
+
+@summary
+put the pieces together.
+
+@summary
+measure all the parts.
+
+@summary
+finished.
+
+@article
+ One way of doing this, if you don't have a tape measure is to take a string and measure around the lens and then add an inch to an inch and a half. If it is too long, you can always trim it.
+,,, Note that there is a very small gap. It might indicate that your end cap needs to be slightly larger.
+ If you are just starting out making your own bokehs, you will want to have the measurements so that you can make a collection. The lens measurements for this example were 10 and 1/2 inches x 2 and 1/4 inches. The end cap's circumference was 2 and 3/4 inches. A wingding about the size 48 is a good size for the center piece.

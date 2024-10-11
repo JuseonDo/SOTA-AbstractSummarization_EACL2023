@@ -1,0 +1,54 @@
+@summary
+install vlc.
+
+@summary
+open vlc.
+
+@summary
+,
+
+@summary
+click media, then streaming.
+
+@summary
+,
+
+@summary
+click the capture device tab.
+
+@summary
+,
+
+@summary
+select desktop as the capture mode.
+
+@summary
+,
+
+@summary
+change the fps (optional).
+
+@summary
+click next.
+
+@summary
+,
+
+@summary
+make sure the source is your screen.
+
+@summary
+choose where to save your file.
+
+@summary
+change the file type (optional).
+
+@summary
+stream.
+
+@article
+ If you haven't done this, see the link at the bottom of the page.
+,,,, If you wish, you can change the frames per second rate. If not, though, leave it on default.
+, If the dialog box is blank, enter screen://.
+ Click the Add button on the right side of the screen after confirming that "File" is selected in the dropdown. If you don't click add, it will never ask where to save.
+ VLC will probably default to MP4. If you want a different file type, click the drop menu and select your choice.

@@ -1,0 +1,27 @@
+@summary
+tap the chrome app.
+
+@summary
+tap the ⋮ button.
+
+@summary
+,
+
+@summary
+tap settings.
+
+@summary
+,
+
+@summary
+tap privacy.
+
+@summary
+,
+
+@summary
+tap the show suggestions slider.
+@article
+ To turn off suggestions in Chrome, you'll need to open the app's settings.
+,,, This will disable suggestions when you're typing in the Chrome address bar.
+

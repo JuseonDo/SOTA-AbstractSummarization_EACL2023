@@ -1,0 +1,38 @@
+@summary
+be sure to make the brightness of your computer to the lowest setting that is comfortable.
+
+@summary
+turn off all background programs that are not needed because they take up processor space which will use more battery.
+
+@summary
+,
+
+@summary
+check that bluetooth and/or wireless adapter is off (if it's built in).
+
+@summary
+,
+
+@summary
+be sure to eject any discs out of your cd or dvd drive if you do not need them.
+
+@summary
+if you are running very low on power, or are watching a dvd, your laptop may have a way to turn off the led lights (power light, hard drive activity light, etc.).
+
+@summary
+unplug any usb devices you are not using (ipods, flash drives, external usb mice, etc.).
+
+@summary
+when you are not going to use your laptop for a short time, put it into standby or sleep mode.
+
+@summary
+when you are not going to be using your laptop for an even longer time, put it into hibernate(shift+standby button) mode.
+@article
+ To do this, look for a purple "Fn" button on the keyboard (usually next to the left ctrl key, sometimes the key has blue lettering instead of purple). After you've found the "Fn" button, quickly search for another key with a purple or blue sun with an up or down arrow(usually on the arrow keys or on one of the F1-F12 keys). Now while holding "Fn" press the button with the purple/blue sun and a down arrow. (Please note some computers do not have an Fn button so if your computer does not have an Fn button in that case, just simply use one of the F1-F12 keys alone)
+
+,,, The disc will still be spinning inside and consumes a ton of energy.
+ Check your owners manual to see how.
+ Many of these devices draw power from your USB port, up to 500mA (about a half an Amp) and 5 volts. It adds up quickly depending on how many you have plugged in.
+ This will only leave dire essential components in the computer running such as the memory. And allow you to resume working on your computer quickly.
+ It will have the same effect as turning the computer off, but it will allow you to go back to working on your laptop just like in standby and uses little to no power from the battery.
+

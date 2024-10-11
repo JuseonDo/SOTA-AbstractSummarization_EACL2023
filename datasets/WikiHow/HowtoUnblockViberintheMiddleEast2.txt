@@ -1,0 +1,27 @@
+@summary
+select settings > general > network > vpn.
+
+@summary
+,
+
+@summary
+click add vpn configuration.
+
+@summary
+,
+
+@summary
+choose pptp vpn.
+
+@summary
+,
+
+@summary
+on the next screen, enter your vpn account data.
+
+@summary
+save your vpn configuration.
+@article
+,,, You will receive your VPN server name, username and password in the e-mail from the VPN service.
+ Once you have created a VPN connection, you can switch it on and off on the main settings screen. Under the VPN, you can use Viber, as you usually do.
+

@@ -1,0 +1,50 @@
+@summary
+identify your switcher as the type that needs to be timed or "genlocked" with camera inputs.
+
+@summary
+identify your cameras as the type that can be timed or "genlocked".
+
+@summary
+acquire enough bnc cables to do the job.
+
+@summary
+each camera needs a reference signal from the switcher to be able to synchronize with a master heartbeat or genlock video signal.for each pair of bnc cables, use tape to label one cable as "ref" on both ends and the second cable "vid" on both ends.
+
+@summary
+at the switcher (or vda) connect one end of the cables labeled "ref" to any bb connector.
+
+@summary
+at the cameras, connect the cable labeled "ref" to the "ref in" or the "gen in" connector.find the "program out" connector on the back of the switcher and use a bnc cable to hook it up to a color monitor.
+
+@summary
+find the switch on the cameras (or the ccus) that turn on the camera's internal color bars.
+
+@summary
+at this point, an engineer would use a waveform monitor and vectorscope to accurately time the system but if you had an engineer, you would not be reading this tutorial and it is beyond the scope of this "how-to" to explain the use of a waveform and vectorscope.
+
+@summary
+set up a "horizontal wipe".
+
+@summary
+on the preview bus, punch up switcher color bars if the switcher has built in color bars.
+
+@summary
+on camera one itself (or on the ccu) find the adjustment for "h-phase".
+
+@summary
+tweak on the h-phase adjustment until the camera bars line up vertically pretty nicely with the switcher bars.
+
+@summary
+repeat this procedure adjusting camera two with the timed cam 1 in preview and cam 2 in program.
+
+@summary
+now that the cameras are "horizontally timed", go back to camera one and find the s/c phase (sub-carrier phase) adjustment.
+
+@summary
+repeat the procedure that was performed with the horizontal phase except adjust the s/c and try to match the colors, first with the switcher bars and then (more importantly) with each other.
+
+@summary
+when none of the cameras jump or tear when you push the switcher buttons and slide the t-bar and the color bars match, you can now switch back from bars to camera images.
+@article
+ AV mixers and some of the newest switchers have automatic timing. Just plug in the cameras and they work. Older professional switchers have connectors in back that are labeled "Ref In", "S/C" and "BB" among other rows of inputs and outputs.
+ Only pro cameras are "genlockable". Look for a BNC connector on the camera that is labeled GEN or REF IN. Non-pro cameras will require a second piece of equipment called a "Time Base Corrector" or TBC. (See Tips)., Two, equal length BNC cables will be needed for each camera. They will need to be long enough to reach from the camera position to the switcher. If you happen to have a multipin camera cable that connects to a camera control unit (CCU), then the cables only need to reach the CCU. A bunch of shorter cables will be handy for monitors and other auxiliary items., Usually this is in the form of a type of signal called blackburst (BB). Blackburst is simply a black video signal that carries the synchronization information from the switcher to external devices. Look for multiple blackburst connectors on the back of the switcher. One is needed for each camera. If there are not enough, you'll need to acquire a Video Distribution Amplifier (VDA). A VDA simply takes a single video input and multiplies it into several outputs. To use one for reference purposes, connect one of the BB outs to the input of the VDA. The outputs of the VDA are now all blackburst outputs that can be used as reference signals.,, Connect one end of the cables labeled "VID" to consecutive, numbered INPUT connectors., Connect the cable labeled "VID" to the "VIDEO OUT" connector. Make sure the cameras also have power. If you are using multipin camera cable and a CCU, make these same connections to the CCU instead of the camera.,, When you flick that switch to bars, you should see color bars on the monitor for each camera as you press the corresponding numbered button in the PROGRAM bus (row of buttons). The picture will jump a little as you punch the buttons., The following method will get you close enough., Do this by punching a button labeled "WIPE" (located near the T-bar) and also dialing in or punching a button in the "PATTERNS" section that will produce a simple horizontal transition. Moving the T-bar located between the PROGRAM and PREVIEW bus should produce a wipe effect on the monitor; probably a distorted effect., On the PROGRAM bus, punch up CAM 1. (If the switcher does not have built in color bars, set this up between CAM one in PREVIEW and CAM 2 in PROGRAM.), This stands for horizontal phase. Usually this is a tiny screwdriver adjustment. Sometimes it is done through a menu system with arrow buttons. It may take some looking under hidden panels to find it., Moving the T-bar up and down, there should be no jump in either of the extreme positions. (In the case that there are no switcher bars, center the bars and make little H-PHASE adjustments until there is no jumping or tearing when the T-bar is moved to its extremes. For now, ignore any color differences., Work down the line until you can wipe between any two cameras without a jump., You will find it in the same area as the H-PHASE adjustment., If you have no reference for color bars on the switcher, you'll have to eyeball what looks right., The system is timed. All that is left is to black balance and white balance and properly set the iris control.

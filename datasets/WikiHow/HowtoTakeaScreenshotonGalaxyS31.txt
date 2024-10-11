@@ -1,0 +1,4 @@
+@summary
+press down the power and home buttons simultaneously to capture what's on your s3's screen.
+@article
+ You will hear camera shutter sounds that indicates your screenshot has been successfully taken and saved to your photo gallery.;

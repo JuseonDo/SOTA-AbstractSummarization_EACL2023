@@ -1,0 +1,22 @@
+@summary
+open a picture or your portrait where a pimple is seen on photoshop.
+
+@summary
+then go to your healing brush tool and select healing brush tool.
+
+@summary
+,
+
+@summary
+apply the healing brush tool.
+
+@summary
+here is now thus your final artwork.
+
+@article
+ To open the picture in Photoshop, go to File>Open and look for the file.;
+,,
+
+
+Apply by sampling first the skin or pixels without the pimple. Sample the pixels by holding the Alt key and clicking on the area without the pimple.
+With the sampled pixels, brush the pimple; Photoshop will automatically blend pixels and erase your targeted area.

@@ -1,0 +1,17 @@
+@summary
+wait for bowser to send out a soccer ball while keeping up with his vehicle.
+
+@summary
+deflect the soccer ball back at him.
+
+@summary
+avoid the fireballs that he sends out.
+
+@summary
+do this until he's defeated.
+@article
+;
+, If you don't hit it in time, it'll explode. Aim to hit Bowser, although you can hit the vehicle as well.
+ The fireballs make a hole when they hit the ground, so avoid them as well.
+ It'll take 9 hits to defeat him (3 if you hit Bowser instead of the vehicle).
+

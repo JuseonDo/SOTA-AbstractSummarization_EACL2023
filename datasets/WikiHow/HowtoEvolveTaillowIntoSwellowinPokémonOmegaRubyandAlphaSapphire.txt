@@ -1,0 +1,21 @@
+@summary
+catch a taillow.
+
+@summary
+level the taillow up to level 22.
+
+@summary
+,
+
+@summary
+expect the taillow to evolve when you get out of battle.
+
+@summary
+,
+
+@summary
+done.
+@article
+ Go where you can find a Taillow. You can catch one on Route 104, Route 115, Route 116, Petalburg Woods, or by soaring in the sky.;
+,,, You have your very own Swellow!
+

@@ -1,0 +1,20 @@
+@summary
+create a new world.
+
+@summary
+build a house.
+
+@summary
+once you've finished your house, place chests inside.
+
+@summary
+once you're done with your house, use the command /gamemode 0.
+@article
+ Use creative mode, turn cheats "on".
+ Maybe tame a pet too, but most importantly build a house.
+ Fill them with things like swords, food, and armor. Then make a room of bookshelves, and place an enchantment table to enchant them.
+
+
+You can furnish your house however you want, too.
+ Now you're in survival mode. Go ahead and fight monsters with your enchanted armor and swords. There is much fun to be had when you're already brilliantly prepared.
+

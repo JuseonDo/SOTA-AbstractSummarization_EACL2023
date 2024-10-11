@@ -1,0 +1,13 @@
+@summary
+open console and type shred file_to_delete.
+
+@summary
+shred also works with hard drives (shred /dev/hdc, for instance).
+
+@summary
+never use any "user friendly" tool like file manager to delete the secret information.
+@article
+ Shred will overwrite the file content many times, making it near impossible to recover even by the most experienced hackers.
+ Shredding the hard drive is a long task, so be sure you have enough time. Also, be sure you are shredding the correct drive and partition.
+ Files, deleted with such programs, can usually be easily recovered by the specialist even after a long time.
+

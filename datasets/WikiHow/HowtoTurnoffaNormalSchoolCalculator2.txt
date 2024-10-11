@@ -1,0 +1,14 @@
+@summary
+wait for the calculator to shut off on its own.
+
+@summary
+use a button combination to force it off.
+@article
+ Citizen calculators shut off about eight minutes after the last input. Your calculator should shut off on its own.
+ This combination of buttons will turn off most Citizen brand calculators:
+
+
+
+ON ÷ × % Check Correct Correct
+
+

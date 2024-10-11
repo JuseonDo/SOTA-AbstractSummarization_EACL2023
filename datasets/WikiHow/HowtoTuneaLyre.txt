@@ -1,0 +1,21 @@
+@summary
+establish the basic key of your lyre.
+
+@summary
+now, pick a tuning appropriate to your needs, but transposed (if necessary) to the key of your lyre.
+
+@summary
+if you have a modern metal zither pegs, simply turn them with a peg-key to tighten.
+
+@summary
+to hit the notes of the tuning you've selected, a beginner will probably want to use an online tuner, or a store-bought chromatic tuner or tuner app on a smartphone.
+
+@summary
+understand that most tuners are set up to tune by "equal temperament", the modern way of tuning where an instrument will sound good in any key, but not quite perfect in any of them.
+@article
+ Do this by tuning your lowest string until it is tense enough to produce a clear note with little/no buzzing, but not so tight that it feels about to break.;
+, That is, if your deepest string is comfortable at "G", the G equivalent of the CDEFGA tuning would be GABCDE.
+ If you have friction pegs (traditional wooden or bone tapered pegs), push carefully but firmly towards the crosspiece while turning, otherwise the peg will slip after you let it go. If you have trouble turning the peg and getting it to stay, google up "peg dope" for ideas of what materials to use to change the grip of your peg.
+ If you have a good ear for intervals, you may also be able to tune by ear.
+ Since a lyre often plays in only one key at a time, consider tuning to "Just Intonation" based around the key note of your lyre. Several of the better smartphone tuners have an option to tune by JI (make sure to designate the keynote of your instrument around which all the tuning will be based).
+

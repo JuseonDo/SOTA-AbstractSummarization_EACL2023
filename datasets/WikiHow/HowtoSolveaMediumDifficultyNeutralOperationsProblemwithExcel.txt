@@ -1,0 +1,86 @@
+@summary
+start by opening a new excel workbook and create two worksheets, data and saves.
+
+@summary
+set preferences.
+
+@summary
+begin by learning the basics of neutral operations: for a+b = a*b = c, with a and b constant values, addition is a neutral operation versus multiplication.
+
+@summary
+click in the upper left corner of the data worksheet between the 1 of row 1 and the a of column a in order to select the entire worksheet.
+
+@summary
+enter the column headings.
+
+@summary
+enter row 2 data and formulas.
+
+@summary
+perform goal seeking on row 2 as follows.
+
+@summary
+enter row 3 data and formulas as follows, w/o quotes:  a3: a,b; b3: "=b2"; c3: "=b3/(b3-1)"; d3: "=b3+c3"; e3: "=b3*c3"; f3: "=e3-d3".
+
+@summary
+enter row 4 formulas as follows w/o quotes:  b4: "=d2".
+
+@summary
+enter row 5 formulas as follows.
+
+@summary
+now the work gets much simpler.
+
+@summary
+go to cell a7 and type d and skip down two cells and type e and skip down two cells to cell a11 and type f and continue in this manner until you reach cell 51 and type z into it.
+
+@summary
+,
+
+@summary
+edit go to cell range a3:a51 and copy it.
+
+@summary
+select cell b55 and enter w.o quotes "=b3"; select cell b56 and enter "=c3", in cell b57 enter "=c5"; in cell b58 enter "=c7" and continue in this manner, skipping a referred-to row until you reach cell b80 and enter "=c51".
+
+@summary
+,select cell b81 and enter the formula w/o quotes "=sum(b55:b80)" and the answer should be 31.984453366650600
+
+@summary
+,
+
+@summary
+select cell range c55:c80 and with cell c55 the active highlighted cell enter the formula w/o quotes "=b55" and edit fill down.
+
+@summary
+,
+
+@summary
+select cell c81 and enter the formula w/o quotes "=c55*c56*c57*c58*c59*c60*c61*c62*c63*c64*c65*c66*c67*c68*c69*c70*c71* c72*c73*c74*c75*c76*c77*c78*c79*c80" and the answer should be 31.984453366650600 thus proving that the sum of a to z = the product of a to z.
+
+@summary
+copy and save the worksheet to the saves worksheet.
+
+@summary
+make use of helper articles when proceeding through this tutorial
+
+@summary
+see the related wikihows below and the article how to do the sub steps of neutral operations for a list of articles related to excel, geometric and/or trigonometric art, charting/diagramming and algebraic formulation relating to neutral operations.
+@article
+ Save the workbook into a logical file folder.;
+, The Goal Seeking Preferences will be important. Open Preferences in the Excel menu. Recommended Settings: Set General to R1C1 Off and Show the 10 Most Recent Documents; Edit - set all the Top options to checked except Automatically Convert Date System. Display number of decimal places = blank (for integers preferred), Preserve display of dates and set 30 for 21st century cutoff; View - show Formula Bar and Status Bar, hover for comments and all of Objects, Show gridlines and all boxes below that auto or checked; Chart - show chart names and data markers on hover. Leave rest unchecked for now; Calculation -- Automatically and calculate before save, Limit iteration checked, max iterations 100, max change .000 000 000 000 01 w/o spaces as this problem involves precise goal seeking; save external link values and use 1904 date system; Error checking - check all; Save - save preview picture with new files and Save Autorecover after 5 minutes; Ribbon -- all checked except Hide group titles and Developer.
+ Taking then a+b-b=ab-b and simplifying the left while factoring b out on the right, leaves a =  b(a-1). Dividing both sides by (a-1) and simplifying leaves a/(a-1) =b, Since ab = c, it's also true that a^2/(a-1) = c. Because a could have been subtracted first instead of b, and because addition and multiplication are both commutative, it's also true that b/(b-1) = a and b^2/(b-1) = c as well. Neither a nor b then may equal 1 lest division by 0 result in the denominator.
+ Do Format Cells Number Number Decimal Places 15 OK and Format Cells Font Size  9 or 10 or whatever you're comfortable viewing. Select columns B:G and set column width to 20.17. Select column A and set column width to 4.
+ B1: a; C1: b:z; D1: Result c; E1: Goal; F1: 0 (which would appear with many trailing zeroes).
+ B2: 5; D2: (w/o quotes) "=B2^2/(B2-1)"; E2: "=2*PI()"; F2: "=E2-D2" w/o quotes.
+ Select cell F2 and go to menuitem Tools Goal Seek, Accept F2, hit tab twice and enter To value: 0, then enter By changing cell: and click on cell B2, OK. After a moment, B2's value should change to 5.03537698500395 and F2 should equal 0. Now the a value for arriving at 2π via Neutral Operations is known, and b remains to be determined. But b = a/(a-1) whereas c = a^2/(a-1).
+ Do Edit Go To cell range F3: F51 and do Edit Fill Down.
+ D4: "=B4^2/(B4-1)"; E4: " "=D4".
+ w/o quotes: A5: c; B5: "=B4"; C5: "=B5/(B5-1)"; D5: "=B5+C5" E5: "=B5*C5".
+ Copy cell range B4:E5 and Paste it to the following alternate cells:  B6, B8, B10. B12, B14, B16, B18, B20, B22. Select cell range B4:E23 and copy it and paste it to cell B24. Select cell range B48:E49 and copy it to cell B50.
+, Go to cell A55 and paste it and do menuitem Data Sort Sort by Columns: Column A; Sort on: Values; Order: A to Z; Color/Icon is blank, OK. Select row 56 and do Insert Row and type b and delete b from the a,b found in cell A55.
+,,, Done.
+ In Tips. you'll learn how to change it to take other numbers. Save the workbook.
+
+For more art charts and graphs, you might also want to click on Category:Algebra, Category:Mathematics, Category:Spreadsheets or Category:Graphics to view many Excel worksheets and charts where Trigonometry, Geometry and Calculus have been turned into Art, or simply click on the category as appears in the upper right white portion of this page, or at the bottom left of the page.
+

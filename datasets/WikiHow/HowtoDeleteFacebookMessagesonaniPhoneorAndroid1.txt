@@ -1,0 +1,30 @@
+@summary
+open the facebook messenger app on your mobile device.
+
+@summary
+find the message you want to delete.
+
+@summary
+press and hold the message you want to delete.
+
+@summary
+select "delete" from the menu.
+@article
+
+
+
+The only way to delete Facebook messages on your mobile device is to use the Messenger app. You cannot access your messages in the Facebook app, and the mobile site does not allow you to delete messages.;
+,
+
+
+You can delete any message that you've sent or receive.
+When you delete messages, they will only be deleted on your end. The other conversation participants will still be able to see the message. There is no way to delete a message that someone else can see.
+
+
+
+A menu with several options will appear after a moment.
+
+
+
+After confirming, your copy of the message will be removed. The other participants will still be able to view the message.
+

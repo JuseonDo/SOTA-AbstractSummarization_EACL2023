@@ -1,0 +1,13 @@
+@summary
+open your tinder app.
+
+@summary
+click the menu icon in the top left corner.
+
+@summary
+to adjust which gender(s) you’d like to see in your matches, scroll down to the words “show me.” beside the words “men” and “women” are toggle bars that can be set on or off.
+@article
+ If you have used Tinder recently, you may be directed straight to your last page. If not, you will automatically be directed to the Home page, where you can swipe potential matches.;
+, This should look like three orange horizontal lines. Click “Settings” to access your account settings.
+ For each gender, turn the toggle bar on (or green) if you are interested in members of that gender, or off (grey) if you are not. Both can be set to “on” at the same time.
+

@@ -1,0 +1,33 @@
+@summary
+recognize the signs and symptoms of lassa fever.
+
+@summary
+be aware that signs and symptoms of the fever generally appear 1-3 weeks after contact with the virus.
+
+@summary
+,
+
+@summary
+know that the treatment for the fever consists of an antiviral drug, ribavirin.
+@article
+ Look for:
+
+
+Fever.
+Pain behind the chest wall (retrosternal pain).
+
+Sore throat.
+Diarrhea.
+Pink eye (conjunctivitis).
+Back pain.
+Swelling of the face.
+Protein in the urine.
+Mucosal bleeding (nose, mouth, lungs, and digestive tract).
+Cough.
+Stomach pain.
+Vomiting.
+Hearing loss.
+Tremors.
+Encephalitis (infection/inflammation of the brain).;
+,, Those with the fever should also receive care consisting of maintaining appropriate fluid and electrolyte balance, oxygenation and blood pressure, and treatment of other infections that can occur. Research is under way to develop a vaccine for the illness.
+

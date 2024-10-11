@@ -1,0 +1,8 @@
+@summary
+look for the constellation orion.
+
+@summary
+look for the rightmost star in orion’s belt.
+@article
+ As noted before, the torso of the constellation looks something like a bent hourglass.
+ This star, Mintaka, rises and sets within a degree of true east or west.

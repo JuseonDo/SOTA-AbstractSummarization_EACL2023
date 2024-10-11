@@ -1,0 +1,18 @@
+@summary
+to mark a square that may have a mine, draw a red flag or triangle over it.
+
+@summary
+have your friend outline a square when s/he wants to dig up a square.
+
+@summary
+game is over.
+@article
+ Question marks can also be drawn.
+
+
+
+If the square has a number on it, reveal that number only. If it’s a non-border square, repeat steps 10-14, using the square that your friend chose as your “chosen square.”
+If it’s a mine, then either your friend lost, or you made a mistake in making the game. (See warnings.)
+
+, The game ends when all the numbers on your cheat sheet are uncovered on your friend’s grid.
+

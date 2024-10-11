@@ -1,0 +1,19 @@
+@summary
+take the piccadilly line from heathrow to various stops in central london.
+
+@summary
+,
+
+@summary
+pay �5 for a one-way trip into the city.
+
+@summary
+expect your trip to take up to 1 hour.
+
+@summary
+pay attention to timing.
+@article
+, You can catch the subway trains every few minutes from all terminals.
+ From the airport to Piccadilly Circus, a stop in central London, you will travel for 50 minutes.
+ The first subway leaves Heathrow at 5:02 a.m. (5:46 a.m. on Sundays), so if your flight arrives earlier, you will have to wait or find another mode of transportation. The last subway leaves Heathrow for the city right at 11:48 p.m. (12:30 a.m on Sundays).
+

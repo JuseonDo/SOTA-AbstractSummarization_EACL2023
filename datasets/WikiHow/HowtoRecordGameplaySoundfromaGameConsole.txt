@@ -1,0 +1,35 @@
+@summary
+hook up the kworld capture device to your computer, then to the console.
+
+@summary
+turn on the console and load up whatever software you use to record with.
+
+@summary
+open up your computer's "system mixer", or "volume control".
+
+@summary
+open up properties by clicking on options > properties.
+
+@summary
+now, you should see 2 sliders named microphone and line in.
+
+@summary
+after you get the sound working, you did it!,
+
+@summary
+if you want to record sound while playing, you'll need 3 rca splitters.
+
+@summary
+,
+
+@summary
+look at this video to set it up: http://www.youtube.com/watch?annotation_id=annotation_891424&feature=iv&v=afcutk2x0n0
+
+@article
+ Make sure to plug in the jack into the microphone port. The port should be right next to the headset port.;
+, Make sure it is set to record from the device.
+ It is the program that manages how the sound sounds like. With it, you can change wave, SW Synth, CD Player, Microphone, and Line In. You can find it on your computer's system tray located on the bottom right of the screen. It should look like a speaker like a megaphone.
+ In the "Adjust volume for" box, click "Recording". In the white box below, there should be some options. Check Microphone and Line In. Uncheck everything else. Click ok when done.
+ In order to get sound, experiment with the slider to find the perfect sound level. I recommend somewhere near the bottom. Don't forget to check the box that says "Select".
+ Continue on if you want to hear sound while you record it.
+,

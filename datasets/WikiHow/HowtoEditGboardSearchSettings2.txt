@@ -1,0 +1,18 @@
+@summary
+navigate to keyboard settings.
+
+@summary
+tap keyboards.
+
+@summary
+tap gboard from the list of keyboards.
+
+@summary
+turn "allow full access" off.
+@article
+ Open iOS Settings and go to “General > Keyboard”.
+ This displays a list of installed keyboards
+
+, This opens the menu for Gboard app permissions.
+ Gboard and some of its features (like glide typing) will remain usable, but any of its search functions will now be disabled.
+

@@ -1,0 +1,22 @@
+@summary
+place your cursor in the draft of your blog post or page where you want to upload image.
+
+@summary
+,
+
+@summary
+upload the image by clicking the "add an image" icon above the text entry field.
+
+@summary
+select the appropriate tab for your upload image source.
+@article
+,
+
+
+You can choose to upload images from your computer or from an existing URL. You can also choose to insert an image you have already saved in your Media Library.
+
+
+
+If uploading from your computer, browse to the image and click "OK." Add the image's title, alternate text, caption and description, if desired, and click "Insert into Post." You can also choose the image's size and alignment from this window or set those properties later.
+If linking to an upload image from another URL, locate the image on the web page where it resides, right-click and choose "Copy URL," then paste it into the Image URL field in Wordpress. If you are linking to someone else's image, make sure to obtain permission from the owner..
+

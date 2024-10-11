@@ -1,0 +1,17 @@
+@summary
+rub toothpaste on the disk.
+
+@summary
+rub from the center.
+
+@summary
+wipe the toothpaste off with a wet cloth.
+
+@summary
+try the disk again.
+@article
+ Only use paste, not gel. Also, dampen a suitable soft cleaning cloth.
+ Then move all the way around to the edge.
+ Wipe any dampness off with a dry cloth.
+ It should work.
+

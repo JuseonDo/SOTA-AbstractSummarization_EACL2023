@@ -1,0 +1,23 @@
+@summary
+send your pokémon trainer to castelia city.
+
+@summary
+,
+
+@summary
+look for the pokémon center.
+
+@summary
+go to the poketransfer lab within the center.
+
+@summary
+meet the transfer scientist.
+
+@summary
+give the transfer scientist the unlock code.
+@article
+, In both Pokémon Black, and Pokémon White, the Pokémon Center is a building on the left side of the northern road leading out of town.
+ You'll see a lobby with a receptionist. After talking with the receptionist, you'll then have two flights of stairs to climb.
+ If you've played previous editions of the Pokémon game, you'll notice the transfer scientist's resemblance to Primo from Violet City and other similar characters.
+ The unlock code consists of four words: "Everyone happy. Simple connection." This will enable the Relocator and send a download play to the other handheld game system once you confirm the request.
+

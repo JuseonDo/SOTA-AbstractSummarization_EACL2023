@@ -1,0 +1,36 @@
+@summary
+draw 2 rectangles forming an "l"shape.
+
+@summary
+at the inner corner of the "l" shape, draw a rectangle with an oval inside it.
+
+@summary
+,
+
+@summary
+cut the segments of the gun.
+
+@summary
+draw in the details.
+
+@summary
+ink in the drawing, erase the sketch.
+
+@summary
+,
+
+@summary
+color the drawing and then you are done!
+
+@article
+
+
+
+
+
+
+
+;
+,, Divide the top rectangle in the middle. Draw a perpendicular line in the lower half about 1/3 of the way down the rectangle. Draw curved lines at the points as shown in the illustration.
+ It is up to you how much detail you want your gun to have. Some of the essential details are the trigger, which can be made by drawing a triangle in the oval you made, and the sight/s by drawing 2 triangles at the top rectangle. Also, draw a small rectangle at the end of the L shape for the hole of the barrel.
+,

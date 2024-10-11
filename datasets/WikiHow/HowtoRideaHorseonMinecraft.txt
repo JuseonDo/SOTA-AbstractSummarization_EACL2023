@@ -1,0 +1,38 @@
+@summary
+navigate directly to the horse you want to ride.
+
+@summary
+confirm that your character has an empty hand and is holding no items.
+
+@summary
+right-click or tap on the horse.
+
+@summary
+repeat step #3 as many times as needed until red hearts start floating around the horse.
+
+@summary
+make sure your character has a saddle in its inventory.
+
+@summary
+mount the horse, then press “e” on your keyboard.
+
+@summary
+drag the saddle from your character’s inventory over to the horse’s inventory.
+
+@summary
+mount the horse once again.
+@article
+ Most horses can be found in the Plains and Savanna Biomes.;
+, This allows you to mount the horse so you can start the taming process., This allows your character to mount and ride the horse for a brief period of time. After a few moments, the horse will start bucking and throw your character from the horse. This is normal, and part of the taming process.
+
+
+Press L2 to mount the horse if playing Minecraft on the PS3 or PS4.
+Press LT to mount the horse if playing Minecraft on the Xbox 360 or Xbox One., This means that your horse has been officially tamed., A saddle is required to control a horse while you’re riding it. A saddle can be traded for goods in villages, or can be found inside chests located in blacksmith shops, dungeons, nether fortresses, and the desert., This opens the inventory for your horse.
+
+
+Tap on the triple dot button if playing Minecraft PE on a mobile device.
+Press the triangle button if playing Minecraft on the PS3 or PS4.
+Press the Y button if playing Minecraft on the Xbox 360 or Xbox One.
+ The saddle must be placed into the box positioned to the left of the horse. This places the saddle onto the horse itself.
+ You can now ride the horse using the same button commands you use to control your character on foot.
+

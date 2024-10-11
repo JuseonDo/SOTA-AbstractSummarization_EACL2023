@@ -1,0 +1,52 @@
+@summary
+hydrogen atom is the simplest atom of all the elements in the periodic table.
+
+@summary
+this theory although was successful to solve the orbital energies for the hydrogen atom was not possible to be applied to other atoms.
+
+@summary
+removal of the only electron in the hydrogen atom by ionization forms a positively charged hydrogen atom which is called a proton because it has only a proton confined to the nucleus.
+
+@summary
+adding an electron to a neutral hydrogen atom forms a reactive species that is called a hydride.
+
+@summary
+covalent bonds between atoms and hydrogen do also exist.
+
+@summary
+isotopes of hydrogen are known in which one neutron exist in the hydrogen nucleus along with the proton.
+
+@summary
+the binding of two hydrogen atoms form the hydrogen molecule.nah + h2o-> h2 + naoh
+
+@summary
+,
+
+@summary
+it can also be prepared from dissolving of sodium metal in water according to the following equation:
+
+@summary
+,na + h2o -> h2 + na2o
+
+@summary
+,
+
+@summary
+hydrogen molecule can add across a double bond using a catalyst such as palladium or pd.
+
+@summary
+,
+
+@summary
+hydrogen bonds are special type of electrostatic interaction that happens for example in a solution of pure water.
+@article
+ It is composed of a proton which is confined to the nucleus and an electron which circulates around the nucleus in circular motion. It is the third element in abundance on earth after oxygen and silicon. Its simple structure attracted the attention of physicist as to predict the structure of the atom not known for sure at that time. The Bohr theory of the hydrogen atom was the first successful theory that predicted the structure and energetics of the hydrogen atom. This theory assumed the quantization of the angular momentum.;
+, Schroedinger equation came later and although it can be solved accurately only for the hydrogen atom it could be applied to other atoms or even molecules through the application of perturbation theory. Einstein predicted the formation of the hydrogen bomb based on his observation that the nuclear reaction on the surface of the sun between two hydrogen nuclei fusion to give a helium atom releasing a massive amount of energy.
+ According to the Bronsted theory of acids and bases proton or H+ is an acid and that every molecule which releases a proton is considered as an acid.
+ All metal bonds to hydrogen are of the hydride type. This is so due to the lower electronegativity of metals in comparison with hydrogen which is more electronegative. Halogens and chalcogens form bonds with hydrogen of the proton types and this is so due the higher electronegativity of the halogens and chalcogens in comparison with hydrogen.
+ An example is a bond between the carbon group and hydrogen. Methane is an example of a compound with covalent bond between carbon and hydrogen. This is so due to the similarity in electronegativities between carbon and hydrogen.
+ This isotope is called deuterium and forms heavy water or D2O which is the analogue of light water or H2O. D2O is used in nuclear energy processing. It slows down the neutrons stream that bombards Uranium elements. Thus controlling the fission process of the radioactive atom. Another isotope of hydrogen has two neutrons in the nucleus and is called tritium.
+ The hydrogen molecule is a relatively stable compound that has a covalent bond between the two hydrogen atoms. It can be prepared from a reaction of a hydride source with water such as the following reaction:
+
+,,,,, These bonds in water are responsible for the relatively high boiling temperature of water which is 100 °C (212 °F) in comparison to 30 °C (86 °F) in ethers which do not have hydrogen bonds.
+

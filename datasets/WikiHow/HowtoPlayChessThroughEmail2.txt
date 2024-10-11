@@ -1,0 +1,43 @@
+@summary
+learn the algebraic notation.
+
+@summary
+set up an email account.
+
+@summary
+download a digital chess board like just chess and extract the files contents.
+
+@summary
+,
+
+@summary
+open up the chess board.
+
+@summary
+decide who will play as white.
+
+@summary
+,
+
+@summary
+have this player make their first move on the digital chess board.
+
+@summary
+have the receiving player make the move written in the email on their digital chess board.
+
+@summary
+have the second player make a move and email it in reply to the first.
+
+@summary
+continue game play in this manner, one turn at a time through email.
+@article
+ Both players need to understand this way of writing your moves in Chess. It can be learned within a few minutes. Ideally, learn the full algebraic notation for the ease of understanding it provides., If you don't have one, then create it. Both players will need an email address to play this way.
+, If you're using Just Chess, it'll be called 'Just CHESS.exe'.
+, Then, have them save the board in the folder of their choice, and write their move in algebraic notation and email their opponent.
+ If it is not the starting move, then the player must first load the board which he\she saved earlier and then make a move.
+ They must also make that same move on their board and save the board.
+
+
+It may help to number each version of the board sequentially, or to include the date and time in the file name, to avoid losing track of what's been done in the past.
+ If you're in doubt about the boards being the same at any given point, you can send your most recent game board file to your opponent to make sure they match up.
+

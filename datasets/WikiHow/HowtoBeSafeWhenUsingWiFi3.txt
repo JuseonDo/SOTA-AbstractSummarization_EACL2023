@@ -1,0 +1,8 @@
+@summary
+turn off sharing settings on windows.
+
+@summary
+turn off sharing settings on mac os x. click the apple menu in the upper left corner of the screen followed by “system preferences” from the context menu.
+@article
+ Navigate to Start >> Control Panel >> Network and Internet >> Network and Sharing Center. Select “Homegroup and Sharing Options” followed by “Change Advanced Sharing Settings”. From within the Change Advanced Sharing Settings dialog you can disable printer and file sharing as well as Public folder sharing and network discovery.
+ Select sharing from the System Preferences window and uncheck all of the sharing options that are currently enabled to disable them.

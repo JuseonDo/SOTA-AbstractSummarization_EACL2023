@@ -1,0 +1,39 @@
+@summary
+go to http://www.couchsurfing.org.
+
+@summary
+click the “log in” button in the middle of the welcome page.
+
+@summary
+,
+
+@summary
+enter your username and password on the fields provided.
+
+@summary
+,
+
+@summary
+click “log in” or hit enter on your keyboard.
+
+@summary
+click the “discuss” button at the very top of your dashboard.
+
+@summary
+,
+
+@summary
+select a group category.
+
+@summary
+select a group.
+
+@summary
+join the group.
+@article
+;
+,,, Once you are logged in, you will be brought your dashboard, which is your home screen.
+, Once you’ve clicked “Discuss,” you will be able to choose which type of group you would like to join. Just click on your preferred category on the list provided on-screen and the groups from that category will be presented to you.
+ The groups of the category you chose will now be displayed. Simply click on any of the groups available and you will be directed to the details page of the group.
+ Click the “Join Group” button at the bottom of the details page to join the group.
+

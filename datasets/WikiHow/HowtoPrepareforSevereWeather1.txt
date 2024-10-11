@@ -1,0 +1,5 @@
+@summary
+know what kind of severe weather event it will be.
+@article
+ This is very important. Knowing this can save you unnecessary stress, and lets you know if you need to get safe now!
+

@@ -1,0 +1,22 @@
+@summary
+launch the dolphin browser.
+
+@summary
+tap on the add bookmark icon.
+
+@summary
+navigate and hold on one bookmark you want to save on your home screen.
+
+@summary
+,
+
+@summary
+tap "add shortcut to home.." done!
+@article
+ You can tap on the browser’s icon from your home screen.
+
+
+Alternatively, you can find the Dolphin Browser app icon in your app drawer.
+ This is represented by the star icon on the left of the URL bar.
+, A shortcut to the website will be added to your home screen.
+

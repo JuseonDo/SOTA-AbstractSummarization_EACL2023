@@ -1,0 +1,13 @@
+@summary
+place the wool and sticks into the crafting grid.
+
+@summary
+craft the painting.
+@article
+ For the Painting Recipe, arrange as follows:
+
+
+Place the wool in the center slot.
+Place the 8 sticks in all of the remaining slots.
+ To remove it to your inventory once it is crafted, shift click or drag.
+

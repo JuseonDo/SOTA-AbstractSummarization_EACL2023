@@ -1,0 +1,49 @@
+@summary
+create a new document that is twice the width and about 50% higher than your cover image.
+
+@summary
+paste in your cover image, name the layer "cover".
+
+@summary
+copy the cover layer by dragging the layer down to the new layer button in the layers palette.
+
+@summary
+double click the back layer so that the layers style window comes up.
+
+@summary
+click on edit>>transform>>perspective.
+
+@summary
+duplicate the back layer by dragging the layer to the new layer button at the bottom of the layers palette.
+
+@summary
+double click the pages layer and apply a white color overlay.
+
+@summary
+move this layer down just a bit using the move tool (v).
+
+@summary
+duplicate the page layer.
+
+@summary
+draw a marquee around the corners that are poking out, using the lasso tool, and delete the extra bits.
+
+@summary
+change the background to something you like better, like pure white.
+
+@article
+ Give the new image a gradient for the background. Any colors will do for now.;
+, Click on Edit>>Transform>>Perspective. Drag the top left handle down just a bit to add the correct perspective to the cover image. It should look something like this:
+
+, Now move this layer behind the cover layer and name it "Back".
+ Apply a color overlay, using a color that is similar to the cover, but darker.
+ This time drag down the upper right handle. Just a little bit. Your image should now look something like this:
+
+, Name this layer "Pages". This layer should be between the cover layer and the back layer.
+ Also apply a stroke style. Use black for the color, and 1px for the size. Take the opacity down to about 70%. Click OK.
+ Your image should look something like this:
+
+, Observe that magazines have more than one page. Move this layer back just a little bit. Duplicate the layer again, and again move it back just a little.
+ Your image should look something like this:
+
+, You can also add a drop shadow or similar effect. You can crop the image to a more tight size. Use light and dark gradients to add light reflections.

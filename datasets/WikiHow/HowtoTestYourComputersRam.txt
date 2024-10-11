@@ -1,0 +1,93 @@
+@summary
+view your total ram and the amount in use.
+
+@summary
+enter crtl + alt + delete on your keyboard simultaneously to open windows task manager.
+
+@summary
+,
+
+@summary
+click on the performance tab to examine how much ram each program you're running is using.
+
+@summary
+turn off your computer.
+
+@summary
+locate the ram circuits.
+
+@summary
+make sure they are tightly secured onto the motherboard.
+
+@summary
+remove one ram stick by gently pulling outward.
+
+@summary
+,
+
+@summary
+plug your computer back in and boot up.
+
+@summary
+,
+
+@summary
+determine if removing that single stick of ram altered you computer's functionality.
+
+@summary
+download memtest86 or memtest86+ from the internet.
+
+@summary
+burn the memtest program onto a cd-rom.
+
+@summary
+,
+
+@summary
+restart your computer with the burnt memtest cd inside your drive.
+
+@summary
+,
+
+@summary
+boot the cd from your system's boot menu during startup.
+
+@summary
+,
+
+@summary
+allow memtest to test your ram.
+@article
+ Click the "My Computer" on your PC desktop. Choose "Properties," and then "General."
+
+
+You will be provided with numerical data as well as a pie chart of your memory usage. The number shown as total RAM should be between 256MB and 64GB. This number could be more or less depending on the power of your system. Ideally you should be using less than half of your total amount of RAM. If you have 512MB of total RAM, utilizing 256MB or less enables optimal system operability.;
+,,
+
+
+If it appears one program is using much more RAM than others, it could be that program that is causing system problems. Try closing or deleting that program to eliminate that factor.
+ Unplug it and open your computer tower.
+
+
+There may be a side panel to unscrew or the construction might be that of a clamshell.
+
+
+
+RAM is situated on the motherboard, which is the large, intricate-looking board inside the tower. RAM is usually 1 to 4 sticks about 8 inches (20.32 cm) long each plugged into that board.
+
+
+
+If one or more of them is loose, this might account for your computer issues, if you are having them.
+,,
+
+
+If it did, that stick of RAM was probably faulty and should be replaced. If it did not change anything, replace that stick and repeat the previous steps with a different stick.
+
+
+
+This free program will run RAM diagnostics on your system.
+,,,
+
+
+This process can take anywhere from 30 minutes to 4 hours depending on how much RAM you have installed and how corrupt the RAM is.
+

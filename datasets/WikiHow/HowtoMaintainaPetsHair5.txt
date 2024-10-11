@@ -1,0 +1,9 @@
+@summary
+keep the check-ups up to date.
+
+@summary
+follow the vets orders.
+@article
+ Vets look out for any possible skin problems.
+ They can also diagnose any medical conditions that could cause unhealthy fur.
+

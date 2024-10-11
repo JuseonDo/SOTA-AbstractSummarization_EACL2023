@@ -1,0 +1,26 @@
+@summary
+open messenger.
+
+@summary
+select a conversation.
+
+@summary
+,
+
+@summary
+tap the photo you want to save.
+
+@summary
+tap ⁝.
+
+@summary
+tap save.
+@article
+ It’s the blue chat bubble with a white lightning bolt in the app drawer.
+
+
+Use this method any time you want to save a picture from Messenger to your device. If you want all pictures in Messenger to save automatically, see Saving Photos Automatically.;
+,, It will open in full-screen mode.
+ It’s at the top-right corner of the screen.
+ The photo is now saved to your gallery.
+

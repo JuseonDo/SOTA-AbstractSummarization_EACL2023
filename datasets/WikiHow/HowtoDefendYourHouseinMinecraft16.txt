@@ -1,0 +1,7 @@
+@summary
+no mobs can sink under water to reach your base ( except squids ).
+
+@summary
+make sure your base has a farm for food.
+@article
+ A well lit underwater base will be well protected from mobs., Without this you'd have to keep on going to get food, but fishing is always an option if your surrounded in water.

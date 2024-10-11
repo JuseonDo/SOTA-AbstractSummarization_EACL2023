@@ -1,0 +1,18 @@
+@summary
+click "new document.",
+
+@summary
+create the document.
+
+@summary
+use the "file" menu to click "save.",
+
+@summary
+type the name of the new file in the "file name" box.
+@article
+ Note that a program compatible with SharePoint Team Services is required to use this document creating function.
+ You can create several document types including Word, Excel, html and PowerPoint documents.
+
+
+, Use "Save As" to select a specific document format. The new document will be created and added to your library.
+

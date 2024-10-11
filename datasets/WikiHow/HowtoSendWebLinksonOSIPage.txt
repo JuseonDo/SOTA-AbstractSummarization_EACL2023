@@ -1,0 +1,25 @@
+@summary
+go to osipage.
+
+@summary
+log in to osipage @ http://www.osipage.com/login.php and click osi send.
+
+@summary
+,
+
+@summary
+type the email id in osipage recipient box to whom you would like to send web links.
+
+@summary
+now, just click osi send button on the left bar.
+
+@summary
+,
+
+@summary
+that's all.
+@article
+ Application is available at http://www.osipage.com;
+,, You can send to one or many people in one go by typing all email ids of the recipients all separated by commas. If you want to send to yourself, just type your email id in the box.
+, Your links have been sent to all recipients and you get a OSI Send success message.
+

@@ -1,0 +1,31 @@
+@summary
+open the charms bar's search feature.
+
+@summary
+search for command prompt.
+
+@summary
+open command prompt.
+
+@summary
+right click the start button to open its context menu.
+
+@summary
+,
+
+@summary
+open command prompt.
+@article
+ Press ⊞ Win+S on your keyboard.
+ Type cmd.
+
+
+
+Click the first result to open Command Prompt with low-level privileges.
+Right click the first result and click Run as administrator to open Command Prompt with administrative privileges.
+,
+
+
+Click Command Prompt to open Command Prompt with low-level privileges.
+Click Command Prompt (Admin) to open Command Prompt with administrative privileges.
+

@@ -1,0 +1,68 @@
+@summary
+begin with the author’s last name, a comma, and the author’s first name:
+
+@summary
+“gregory, bob.”
+
+@summary
+if the paper doesn’t have an author, go to the next step.
+
+@summary
+,
+
+@summary
+add the government issuing the report after the period.
+
+@summary
+next, place the title of the paper in italics:
+
+@summary
+“gregory, bob.
+
+@summary
+add the city of publication, a colon, and the printing office.
+
+@summary
+use a comma, and then the year of printing.
+
+@summary
+use a similar format for a corporation.
+
+@summary
+for an in-text citation, click at the end of the sentence you want to cite, and insert a footnote using your document editing software.
+
+@summary
+pay attention to the differences between in-text and reference page citations.
+@article
+, Follow this with a period and the department or agency:
+
+
+“Gregory, Bob. United States Government. Center for Happy People.”
+If it is associated with a specific branch, you can place that in between the government and the agency.
+ United States Government. Center for Happy People. Why Chocolate Is the Best Antidepressant.”
+
+,
+
+
+“Gregory, Bob. United States Government. Center for Happy People. Why Chocolate Is the Best Antidepressant. Washington, D.C.: Government Printing Office”
+
+,
+
+
+“Gregory, Bob. United States Government. Center for Happy People. Why Chocolate Is the Best Antidepressant. Washington, D.C.: Government Printing Office, 2008.”
+
+,
+
+
+“Willow, Lesta. Green Foods. Chocolate for Life: A Report on the Health Benefits of Chocolate. Eugene, Oregon: Redbook Printers, 2007.”
+
+, That will create a superscript number corresponding to a number at the bottom of the page. The software will automatically number your footnotes for you. Click in the footnote, and add it in. It should look like this one:
+
+
+“Bob Gregory, United States, Center for Happy People, Why Chocolate Is the Best Antidepressant (Washington, D.C.: Government Printing Office, 2008), 22.”
+
+, Notice you are changing some of the periods for commas and including the publishing information in quotations. Also note that the author’s name is reversed, with the first name first. Add the page number to the end. The other citation would look like this:
+
+
+“Lesta Willow, Green Foods, Chocolate for Life: A Report on the Health Benefits of Chocolate (Eugene, Oregon: Redbook Printers, 2007) 26-27.”
+

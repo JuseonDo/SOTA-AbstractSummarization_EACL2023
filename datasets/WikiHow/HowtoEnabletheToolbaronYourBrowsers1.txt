@@ -1,0 +1,23 @@
+@summary
+open google chrome.
+
+@summary
+head to the “option” menu.
+
+@summary
+choose “tools” then head to “extensions.” this menu will let you choose which extensions and toolbars to run.
+
+@summary
+,
+
+@summary
+enable the toolbar.
+
+@summary
+restart google chrome.
+@article
+ Do this by double-clicking its desktop shortcut icon.;
+, This should be the horizontally stacked lines in the upper-right corner.
+, Choose a toolbar from the list, and click the “Enable” box.
+ Hit the red X button at the top-right corner of the browser to close Chrome, then double-click again its shortcut icon on the desktop.
+

@@ -1,0 +1,10 @@
+@summary
+use a digital photo website such as shutterfly to create a guest book with a photo on the front cover.
+
+@summary
+keep the layout of your guest book simple.
+
+@summary
+choose photos to include in your book.
+@article
+ This option may allow you to add printed photo captions and writing suggestions to your guest book's pages., Blank pages for guests to write in should be white, gray (grey) or another light color., Consider pictures of non-human subjects, if appropriate, such as an engagement ring photo for a wedding guest book.

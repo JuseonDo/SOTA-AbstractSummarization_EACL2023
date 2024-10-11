@@ -1,0 +1,28 @@
+@summary
+open internet information service manager.
+
+@summary
+expand the "internet information services (iis) manager" node.change the execute permissions to "scripts and executables".
+
+@summary
+change the application pool to "myapppool".
+
+@summary
+,
+
+@summary
+change the file uploading limitation of iis.
+@article
+, Right click your Web site and select "Properties".,,, By default, IIS does not allow users to upload files larger than 200 KB.
+
+Open Internet Information Service Manager.
+Right click the "Internet Information Services (IIS) Manager" node and select "Properties". Select "Enable Direct Metabase Edit" and click OK.
+
+
+
+
+
+
+Open C:\WINDOWS\system32\inetsrv\Metabase.xml with a text editor; Find AspMaxRequestEntityAllowed and change its value to a proper value.
+Save Metabase.xml and restart IIS.
+

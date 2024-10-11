@@ -1,0 +1,13 @@
+@summary
+try to figure out what program the file was created on.
+
+@summary
+once you’ve figured out what program the file was created on, rename it so that the file extension is appropriate for that program.
+
+@summary
+if you can’t figure out what program the file was created on, simply try opening it on various programs until you get the right one.
+@article
+ .Dat files can generally be opened on whatever program they were created; for example, even if an Excel spreadsheet is sent as a .dat file, it can be opened on Excel. If you can’t figure out which program the file was created on, skip to step 3.;
+, Make sure you can see the file extension in the file title, then right-click or Command-click the file and select “Rename”. Replace the .dat extension with the appropriate extension.
+ Simply right-click or Command-click the file and select “Open with...” “Program name”.
+

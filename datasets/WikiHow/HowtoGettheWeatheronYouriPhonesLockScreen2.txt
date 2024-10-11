@@ -1,0 +1,12 @@
+@summary
+turn off your display.
+
+@summary
+tap the "home" button.
+
+@summary
+swipe right.
+@article
+ Do so by pressing the button on the top-right of your iPhone's case. On older models it's on the top; on newer models it's on the right side., This will display your lock screen.
+ This will display Weather and any other widgets you've added to your Notification Center.
+

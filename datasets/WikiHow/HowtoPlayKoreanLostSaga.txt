@@ -1,0 +1,47 @@
+@summary
+downgrade your internet explorer to internet explorer 8.
+
+@summary
+open up internet explorer 8 32-bit as an administrator.
+
+@summary
+go to this url (without quotes): "lostsaga.com/play/activex.asp",
+
+@summary
+you should get a yellow bar saying "this web site wants to install the following add-on:'..(korean)..' from 'io entertainment co. ltd'.right click it and click install add-on for all users.
+
+@summary
+click install.
+
+@summary
+make an account by going to (without quotes.),click the larger button with the pencil and paper on it.
+
+@summary
+terms and conditions = tl;dr.click on the orange button.
+
+@summary
+on line 1, put in your username.
+
+@summary
+click the orange button.
+
+@summary
+go back to (without quotes.),
+
+@summary
+now go to.click that orange button.
+
+@summary
+now you are greeted with the korean lost saga installation screen.wait until it is done.
+
+@summary
+now re log-in then go to.
+
+@summary
+it will auto patch.
+
+@summary
+to relog, go to.
+@article
+ Uninstall Internet Explorer 9. by going to Start> Control Panel> All Control Panel Items> Programs and Features> Installed Updates. Scroll all the way down to Microsoft Internet Explorer 9. Click on it then click on "Uninstall." Wait then restart. It will automatically roll back to Internet Explorer 8.
+ To do that, go to Start> All Programs> Internet Explorer. Then right click on it. From the menu, click, "Run as Administrator." Then click "Yes.",, If you trust the website and the add-on and want to install it, click here...",, Then you should be redirected into the KLS site then back to the NALS website., "lostsaga.com/login/login.asp",, There are three check boxes to the left. Tick all three.,, Line 2, Password and confirm. It must be six letters or longer and have at least one letter. On line 3, put in your email address. the 1st part of the email is your name and the 2nd part is the domain. (e.g. if your email was johndoe@hotmail.com, you would put in "johndoe" in the 1st field then "hotmail.com" at the 2nd field. Also, there are two radio buttons. They are if you want to receive further information. The 2nd radio button is a No. On line 4, put in your in-game name. On line 5, you pick your gender. There are also two more radio buttons. The left one is guy and the right one is girl., and you will get redirected back to the NA page., "lostsaga.com/login/login.asp" and log in. It has a standard username/password input field. Enter your username and password. There is also a check box. Checking it will remember your username. Now, click the button with the key inside of it., "lostsaga.com/play/play.asp",, Click on the orange button and it will start installing.,, "lostsaga.com/play/playExec.asp", Enjoy your 1st run!, "lostsaga.com/login/login.asp", relog, then go "lostsaga.com/play/playExec.asp".

@@ -1,0 +1,19 @@
+@summary
+press and hold the sleep/power button.
+
+@summary
+continue holding the button until the power slider appears.
+
+@summary
+slide the power slider to turn off the ipad.
+
+@summary
+turn the ipad back on by pressing and holding the sleep/power button.
+@article
+ You'll find this button along the top-right edge of the iPad.;
+, This slider appears on the screen at the top with the words "slide to power off," and sliding it with your finger will turn the iPad off. It may take a few moments for this to appear.
+
+
+If your iPad is frozen and nothing happens when you press and hold the Power button, see the next section., This will power down the iPad completely.
+ You'll need to hold the button for a few moments until the iPad screen turns on.
+

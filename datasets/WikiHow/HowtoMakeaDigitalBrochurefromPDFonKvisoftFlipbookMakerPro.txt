@@ -1,0 +1,36 @@
+@summary
+download kvisoft flipbook maker pro, if you don't have it already.
+
+@summary
+import your pdf documents to the program from your computer.
+
+@summary
+,
+
+@summary
+click the “page edit” tab on the top menu, find the page you want.
+
+@summary
+add a video.
+
+@summary
+add hyperlinks to the page.
+
+@summary
+use a brochure template from the built-in templates.
+
+@summary
+add words, pictures, etc.
+
+@summary
+publish.now you can display the digital brochure on your website for readers browsing online, or email the e-brochure to your customers so they can download and view offline on their computers.
+@article
+;
+,, There are many styles t choose from.
+ Click the "add YouTube video" button on the left side, then drag a frame from the right page. An "add video" window will pop up. Copy the YouTube ID to the box, and click ok the save your adding action.
+ Just click the "add hyperlink" button on the left side, and then an "add link" window will pop up. Type your link and click the OK button to save the link.
+ Click the design tab beside the page edit tab, then choose a favorite template from the left list. Wait a moment, then you will find the template will be applied from the right preview window.
+ on empty space. You want your brochure to be colorful, not bland!, Click the publish lab on the top. Choose the publish formats you want. You can publish your digital brochure as HTML, EXE, Zip, App, etc.
+
+
+If you want to embed your digital brochure on your website, publish as HTML and then upload the file to your server. You can also publish as Zip for email sharing.

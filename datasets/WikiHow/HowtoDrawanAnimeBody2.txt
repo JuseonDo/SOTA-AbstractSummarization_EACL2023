@@ -1,0 +1,22 @@
+@summary
+draw a stick figure.
+
+@summary
+draw the head and torso.
+
+@summary
+draw the limbs, make them look bulkier with muscles.
+
+@summary
+,
+
+@summary
+sketch a few more details like the hair and clothing.
+
+@summary
+color the drawing.
+
+@article
+ A circle for the head, small circles for the location of the joints and small triangles for the hands and feet. These shapes are connected using lines to make a framework for the body.
+ Make the man’s trunk broader as compared to a female's slender waistline.
+, Make sure that the clothing is close to the skin.

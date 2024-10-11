@@ -1,0 +1,13 @@
+@summary
+dial *639#.
+
+@summary
+wait for a text message.
+
+@summary
+read the text message.
+@article
+ Open your phone’s call screen and dial the numbers *639# (*NEW#).;
+, Shortly after dialing the numbers, you should receive a text notification from AT&T.
+ The message should state whether or not you’re entitled for an upgrade on your current phone or plan.
+

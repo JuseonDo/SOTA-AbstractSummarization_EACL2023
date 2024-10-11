@@ -1,0 +1,9 @@
+@summary
+right click on the task bar.
+
+@summary
+move to the process tab.
+@article
+ Select Task Manager from the list.;
+, Search for the processes of Torntv, then click End Task.
+

@@ -1,0 +1,27 @@
+@summary
+open the folder containing the file your looking for.
+
+@summary
+in your open folder, press alt+p you will have a new space created at the right side of the folder.
+
+@summary
+,
+
+@summary
+single click the file you want to preview.
+
+@summary
+adjust the size of of your preview if desired.
+
+@summary
+to exit the preview, alt+p.
+@article
+ It could be photos, documents or even videos.;
+,, You'll have the content of the file shown in the preview space.
+ To do so:
+
+
+Place your cursor on the margin that separates the preview from the main folder contents.
+Left click and hold your cursor whiles dragging the margin to the left or right (either ways) to resize your preview.
+ It will always appear in any folder you open when not exited.
+

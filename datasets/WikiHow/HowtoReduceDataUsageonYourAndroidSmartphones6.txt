@@ -1,0 +1,16 @@
+@summary
+open google play.
+
+@summary
+tap ☰.
+
+@summary
+tap settings.
+
+@summary
+tap auto-update apps.
+
+@summary
+tap auto-update apps over wi-fi only.
+@article
+ This is a white app with a multicolored triangle on it., It's in the top-left corner of the screen., This option is in the pop-out menu on the left side of the screen., It's near the middle of the screen., This option is the bottom option on this page. Selecting it will prevent apps from auto-updating over data.

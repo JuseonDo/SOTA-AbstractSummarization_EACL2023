@@ -1,0 +1,23 @@
+@summary
+launch the apple watch app on your iphone.
+
+@summary
+tap the "my watch" tab at the bottom of the screen.
+
+@summary
+select the "general" option and look at the "software update" button.
+
+@summary
+tap '"software update" and then "download and install.",
+
+@summary
+connect your apple watch to a charger.
+
+@summary
+tap "install" on your apple watch.
+@article
+ Updating your Apple Watch can keep it running smooth and secure. Updates are handled through the Watch app on your iPhone.
+ This will open your watch's Settings menu, similar to your iPhone's Settings app.
+ If there is a number on the button, there are updates available.
+ You'll be prompted for your iPhone passcode and will need to read and agree to the terms and conditions., Your watch will need to have at least 50% charge and be connected to a charger in order to update.
+ This will begin the update process, which will reboot your Apple Watch.

@@ -1,0 +1,29 @@
+@summary
+launch skype and click the "download the latest version now" link on the sign in screen.
+
+@summary
+click "get skype for mac" to download the skype installer.
+
+@summary
+close skype if it is still currently running.
+
+@summary
+double-click the downloaded ..dmg file to begin the setup process.
+
+@summary
+drag the skype icon onto the applications folder icon.
+
+@summary
+launch skype.
+
+@summary
+sign into skype.
+@article
+ This will open your browser to the Skype download page.
+ It will download in .dmg format.
+ It will need to be closed to update. Click "Skype" → "Quit Skype" to completely close it.
+ You can usually find it in your Downloads folder.
+ Click Replace when prompted.
+ Once you've copied Skype into the Applications folder, double-click it to start it. Click Open if prompted.
+ When the upgrade is complete, you will be prompted to enter your username and password again. Enter them and click "Sign In" to start using your upgraded Skype program.
+

@@ -1,0 +1,33 @@
+@summary
+sign up for xbox live - a free membership is sufficient to access downloadable games.
+
+@summary
+power up your xbox 360 and sign into xbox live.
+
+@summary
+arrow up until you see the "home" category highlighted.
+
+@summary
+the dashboard will direct you to new games, demos, add-ons, and games that are popular right now.
+
+@summary
+if you know what content you want to download, hit "y" to enter the search feature.
+
+@summary
+when you've found the game you want to download, use the arrow pad to highlight it and "a" to select it.
+
+@summary
+do not turn your xbox off while the file is downloading.
+
+@summary
+return to the xbox 360 home screen (either by pressing the center xbox "guide" button and selecting xbox home or by pressing "b" repeatedly).
+@article
+;
+, If your Xbox does not automatically sign into Xbox Live, you can use our game controller arrow buttons to arrow over to the center block.  Hitting "A" selects that box and will sign you into XBox Live.
+  Then arrow to the right until "Games" is highlighted.  Arrow down twice to highlight "Games Marketplace" and hit A.  This will open the Games Marketplace and the main dashboard for accessing game content on Xbox Live.
+  You can arrow through the different categories until you find a game or demo you want to download.
+   By navigating back and forth through the alphabet and selecting letters (with "A"), you can search for the game you're looking for. Each letter will further narrow down your search.
+   This will open the download screen. Arrow to "Confirm Download" and select with "A".
+  Xbox will alert you when it's finished.
+  Arrow back to the Games menu and select "My Games" - your new game will be waiting for you in that menu!
+

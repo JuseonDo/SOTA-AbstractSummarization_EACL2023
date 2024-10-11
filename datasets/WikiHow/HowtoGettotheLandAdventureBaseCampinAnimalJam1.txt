@@ -1,0 +1,13 @@
+@summary
+click the party sign.
+
+@summary
+click the adventure sign.
+
+@summary
+you are now in the adventure base camp!
+@article
+ Then look at the first sign which says adventures.;
+, Then wait until it loads.
+ Go train and have awesome adventures you will always remember.
+

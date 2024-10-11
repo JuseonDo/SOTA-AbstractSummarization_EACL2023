@@ -1,0 +1,31 @@
+@summary
+go to http://www.facebook.com.
+
+@summary
+click on the icon that's a silhouette of two people in the upper-right part of the window.
+
+@summary
+,
+
+@summary
+click on delete request next to an incoming friend request you'd like to cancel.
+
+@summary
+,
+
+@summary
+cancel a friend request that you sent.
+@article
+ Use the link or type the URL into a web browser and press ⏎ Return.
+
+
+If you're not automatically logged in, sign in.;
+,,, To do so:
+
+
+Click on the search bar at the top of the screen.
+Type the name of the person to whom you sent the request.
+Click on their profile.
+Click on Friend Request Sent to the right of the person's name at the top of their profile.
+Click on Cancel Request, then click on Cancel Request again to confirm.
+

@@ -1,0 +1,19 @@
+@summary
+register for one of the third-party messaging services supported by the imo service.
+
+@summary
+visit one of the registration pages for the supported third-party services and follow the onscreen instructions to create an account.
+@article
+ The service does not currently have its own registration process. Once registered for one of the supported third-party services, you are automatically registered with imo.Im.;
+, If you already have an account with any of these services, learn how to sign in to imo.im here.
+
+
+Create an MSN account
+Create a Skype account
+Create an Yahoo! account
+Create a Google account
+Create a Facebook account
+Create an AIM/ICQ account
+Create a Jabber account
+Create a Myspace account
+

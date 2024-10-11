@@ -1,0 +1,29 @@
+@summary
+open the pdf document with your ocr software.
+
+@summary
+initiate the character recognition process in the ocr software.
+
+@summary
+select the table format option in the ocr software.
+
+@summary
+save the file in excel format.
+
+@summary
+format the converted document as per your requirements.
+
+@summary
+select, sort and format the relevant fields.
+
+@summary
+edit the converted data to make it look just like the original pdf.
+@article
+;
+, The character recognition process is automatically initiated by the OCR software as the pages of the PDF document are scanned.
+ For the data to be presented in rows and columns so that it can be correctly recognized, you have to select the table format within the program.
+ After the completion of the recognition process, save the file in Excel (.xls) format. The converted data will have to be verified and formatted manually.
+ Delete any unwanted columns.
+ After the redundant columns have been deleted, the relevant fields can be selected, sorted and formatted.
+ The converted data from the Excel file can then be copied and pasted to the requisite template or edited in such a way that it appears just as it did in the original PDF.
+

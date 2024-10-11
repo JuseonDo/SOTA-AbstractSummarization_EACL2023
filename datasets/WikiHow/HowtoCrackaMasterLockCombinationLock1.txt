@@ -1,0 +1,5 @@
+@summary
+note that a standard 40-digit master lock has 64,000 possible combinations that may open the lock.
+@article
+ However, don't let that discourage you. If you don't know the serial number, then you can significantly narrow down the number of possible combinations to crack your lock (Method 1). If you know the serial number, you can request the combination directly from Master Lock (Method 2).
+

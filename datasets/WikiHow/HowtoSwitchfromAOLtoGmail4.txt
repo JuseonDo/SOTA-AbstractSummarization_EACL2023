@@ -1,0 +1,15 @@
+@summary
+go to the beta webmail page at aol.
+
+@summary
+,
+
+@summary
+click on contacts.
+
+@summary
+click export.
+@article
+, It's located on the left hand side bar.
+ It's located next to the find contacts search bar. Export to a CSV, comma-separated-value file. Import this to your Gmail account.
+

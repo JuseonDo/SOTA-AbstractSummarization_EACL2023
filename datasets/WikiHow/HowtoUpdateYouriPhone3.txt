@@ -1,0 +1,24 @@
+@summary
+install any available os updates from microsoft windows or apple on your computer if you are unable to update your iphone using itunes.
+
+@summary
+try disabling or uninstalling any security software running on your computer if you are unable to update your iphone using itunes.
+
+@summary
+remove any extra usb devices from your computer if you’re having problems installing ios updates using itunes.
+
+@summary
+try restarting your iphone or your computer if you experience problems installing ios updates wirelessly or using itunes.
+
+@summary
+try using another usb cable or usb port if itunes is unable to recognize your iphone.
+@article
+ In some cases, running older versions of software on your computer can prevent iTunes from communicating with Apple’s servers.
+
+
+Windows: Click on “Start” and select “Control Panel,” then click on “System” and select “Automatic Updates.”
+Mac OS X: Click on the Apple menu, and select “Software Update.”
+
+, Some third-party software programs can interfere with your being able to install the latest iOS updates in iTunes.
+ Printers, scanners, USB flash drives, and other USB-compatible devices may interfere with the installation of iOS updates., In some cases, restarting your devices can help correct any bugs or problems interfering with the update process., Problems with faulty hardware can prevent your computer from detecting your device and installing the latest iOS updates using iTunes.
+

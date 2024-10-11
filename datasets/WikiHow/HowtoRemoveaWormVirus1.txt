@@ -1,0 +1,93 @@
+@summary
+download a virus removal tool like microsoft's malicious software removal tool.if you think you have a worm virus, download a dedicated virus removal tool to scan for and remove viruses.
+
+@summary
+press ⊞ win+s to open search, type “restore”, then click “create a restore point” in the search results.worms and other malware can hide in the system restore files, which may hide them from virus removal tools.
+
+@summary
+click “configure” on the dialog, then check “disable system protection.” this works on any windows version.
+
+@summary
+,
+
+@summary
+disable your third-party antivirus program if you have one.
+
+@summary
+restart the computer to the login screen, then hold ⇧ shift as you click “power,” then “restart”.the computer will then reboot into the chose an option screen.
+
+@summary
+if you are using windows 10 or windows 8, click “troubleshoot,” then “advanced options.”
+
+@summary
+in windows 7, use the arrow keys to select “safe mode with networking,” then press ↵ enter to boot into that mode.
+
+@summary
+if you are using windows 10 or windows 8, click “startup settings,” then “restart.” the computer will reboot a second time.
+
+@summary
+,
+
+@summary
+if you are using windows 10 or windows 8, press f5 or 5 at the boot options screen to enter safe mode with networking.
+
+@summary
+,
+
+@summary
+now that you are in safe mode, double-click the virus removal tool on your desktop.
+
+@summary
+click “start scan”(or something similar).
+
+@summary
+quarantine worms and other malware.
+
+@summary
+click “power” in the start menu, then select “restart.” the computer will reboot normally, without a worm infection.
+
+@summary
+,
+
+@summary
+re-enable system restore.
+
+@summary
+set your antivirus program to monitor your pc in real-time.
+
+@summary
+enable windows defender if you don’t presently have other antivirus protection.
+@article
+ Do this even if you already have antivirus software, as the software on your computer may be infected. Once you’ve chosen a virus removal tool, download it to your desktop.
+
+
+Most companies that sell antivirus software also offer free virus removal tools. Some options besides Microsoft’s own are Kaspersky Free Virus Scan and Sophos Virus Removal Tool.
+If you can’t use a web browser on the infected computer, use a different computer to download a virus removal tool, then burn it to a CD or DVD. Insert the burned disc into the infected machine, press ⊞ Win+E to launch File Explorer, then double-click your DVD-ROM drive to find the tool.;
+, You should turn off System Restore before running the removal tool to prevent this from happening.
+
+
+Windows 7 and Vista users should type “protection” into the search box instead, then click “System protection.”
+
+,, If you have a separate antivirus program like McAfee or Kaspersky, open it and find the “settings” or “options” area, then find an option for “disable” or “turn off.”
+
+
+Once the program is disabled, you’ll probably see a message that says your computer is at risk. You can ignore it for now as you’ll be restoring it soon.
+ This begins the process of booting into Safe Mode on a Windows 8 or 10 computer.
+
+
+To access Safe Mode on Windows 7 or Vista: Reboot the computer and tap the F8 key repeatedly as it restarts until you arrive at the Boot Options screen.
+ You are now in safe mode and can skip the next few steps intended for Windows 10/8 users.
+,, Or, if you inserted a CD/DVD that contains the tool, double-click the tool to open it.
+ The scan will take at least several minutes to complete. Depending on the computer, software, and infection level, this may take over an hour.
+ Once the virus scan is complete, the antivirus tool will report its results. If you see prompts to “quarantine” (another term for safely removing the malware from your PC), follow them so that the files are properly destroyed.
+
+
+Some programs, such as Microsoft’s Malicious Software Removal Tool, will remove the malware/worms without your intervention.If nothing is found, it’s very likely that you don't have a worm virus. If you still think you may be infected, try one of the other virus-removal tools.
+, Don't skip this step! To allow Windows to create automatic restore points for emergency use, return to the System Restore (called "System Protection" in Windows Vista and 7) dialog and check “Turn on system protection”.
+ If you previously disabled your antivirus software, turn it back on now.
+ Windows Defender is an antivirus/anti-malware suite built into Windows. Most PC manufacturers install free trial versions of antivirus software suites, which disable Defender by default. Enabling Defender is a great (and free!) way to keep your computer safe from worms.
+
+
+Press S to launch search, then type “defender”. Click “Windows Defender” in the search results, then (in Windows 8, 10) click “Settings,” and flip the following switches to the “On” position: Real-time protection, Cloud-based protection, and Automatic sample submission.
+In Windows Vista and 7, click “Tools,” then “Options,” and then “Administrator.” Select “Use this program,” then click “Save”.
+

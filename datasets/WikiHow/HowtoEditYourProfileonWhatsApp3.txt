@@ -1,0 +1,32 @@
+@summary
+use an existing image as a profile photo.
+
+@summary
+touch choose existing or upload photo button.
+
+@summary
+choose a profile photo.
+
+@summary
+,
+
+@summary
+move and scale the image.
+
+@summary
+touch the choose or done button to select the image.
+
+@article
+ The add photo button looks different on different phone operating systems. Touch the image placeholder button.
+
+
+In order to add a profile photo, you'll need a working Internet connection.
+
+
+
+On iPhone, touch OK to give WhatsApp access to your photos.
+,
+
+
+If you have a touchscreen phone, use your fingers to move the image inside the circle.
+Pinch and zoom to change the image's size.

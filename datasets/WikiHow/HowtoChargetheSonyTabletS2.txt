@@ -1,0 +1,17 @@
+@summary
+verify that the computer you’ll be using to charge your sony tablet s is capable of charging your tablet.
+
+@summary
+plug the ac adapter for your tablet into the compatible usb port of your computer.
+
+@summary
+,
+
+@summary
+turn over your sony tablet and plug the other end of the ac adapter into the tablet’s charge connector.
+@article
+ Computers with charging capabilities will have a lightning bolt displayed next to a compatible USB port.
+, The Power Indicator LED will light up on the tablet to notify you that it is now charging. The time it takes for your Sony Tablet S to fully charge will vary depending on user behavior.
+
+
+If your computer lacks the proper amount of voltage to charge your tablet, a notification will display on your tablet that reads, “This AC Adapter does not support charging.” You will then be required to charge your tablet using a different power source.

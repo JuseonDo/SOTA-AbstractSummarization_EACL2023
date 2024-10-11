@@ -1,0 +1,22 @@
+@summary
+download vlc media player.
+
+@summary
+open the video using the vlc media player.
+
+@summary
+,
+
+@summary
+go to tools.
+
+@summary
+in video effects, go to geometry.
+@article
+ Install it following its instructions.
+
+
+This media player can be found doing an online search.
+, Then go to Effect and Filters -> Video Effects.
+ Click on Rotate. You choose the degree.
+

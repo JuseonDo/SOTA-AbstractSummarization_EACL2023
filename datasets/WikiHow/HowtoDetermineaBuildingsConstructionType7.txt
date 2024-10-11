@@ -1,0 +1,69 @@
+@summary
+classification:
+
+@summary
+fire resistive construction is iso class 6.
+
+@summary
+building elements:
+
+@summary
+the exterior bearing walls and load-bearing portions of exterior walls must be of noncombustible materials or of masonry, but exterior nonbearing walls and wall panels may be slow-burning, combustible, or with no fire-resistance rating.
+
+@summary
+variations:
+
+@summary
+both pre- and post-tensioned concrete units have steel cables installed in the concrete to provide tensile strength.
+
+@summary
+advantages:
+
+@summary
+uses noncombustible materials
+
+@summary
+allows greater height and area than other construction classes
+
+@summary
+uses load-bearing members or assemblies that resist damage from fire
+
+@summary
+,
+
+@summary
+disadvantages:
+
+@summary
+expensive to construct and repair
+
+@summary
+provides a false sense of security
+
+@article
+ ISO Class 6 encompasses IBC Type IA.
+
+
+
+Walls:
+
+solid masonry, including reinforced concrete not less than four inches thick
+hollow masonry not less than 12 inches (30.5 cm) thick
+hollow masonry less than 12 inches (30.5 cm) thick, but not less than eight inches thick with a listed fire-resistance rating of not less than two hours
+assemblies with not less than a two-hour fire-resistance rating
+
+
+Floors and roofs:
+
+reinforced concrete not less than four inches thick
+assemblies with not less than a two-hour fire-resistance rating
+
+
+Structural metal supports:
+
+Horizontal and vertical load-bearing protected metal supports — including pre-stressed and post-tensioned concrete units — with not less than a two-hour fire-resistance rating
+
+
+
+, With pre-stressed concrete units, builders pull the cables tight before pouring the concrete and release them as the concrete cures. With post-tensioned concrete units, builders pull one end of the cable tight after pouring the concrete.
+,

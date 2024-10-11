@@ -1,0 +1,25 @@
+@summary
+open up pd howler.
+
+@summary
+after clicking on it, select kaleidoscope.
+
+@summary
+take a look at the screen and decide if you want it that way.
+
+@summary
+start drawing.
+@article
+ Click on the tiny arrow at the bottom right of the symmetry icon.
+
+
+
+ ;
+, Then select a number. For the purposes of this article, 6 will be chosen.
+ If it doesn't look quite how you'd like it, change the number.
+ Using "Media Options", experiment with the brushes to see what sorts of different effects you can create. You will discover internal brushes and you can customize brushes. The spokes used can be varied from 2, 3 to 4 and more. The best way to learn this is to dig in and just keep making changes of your own liking. You'll soon have the hang of it.
+
+
+PD Howler provides lots of media to choose from. Use the Browse Media button to make it easy and fun.
+
+

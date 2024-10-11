@@ -1,0 +1,24 @@
+@summary
+choose a photo or video and tap the right motion arrow.
+
+@summary
+trim unwanted frames from the beginning or end of a video to condense it.
+
+@summary
+drag either end of the frame viewer at the top of the video, then tap “trim.” now tap “trim original” or “save as new clip.”
+
+@summary
+important: if you choose “trim original,” the trimmed frames are permanently deleted from the original video.
+
+@summary
+email the photo or video.
+@article
+ If you don’t see the right motion arrow, tap the screen to show the controls.
+ While viewing a video, tap the screen to display the controls.
+ If you choose “Save as New Clip,” a new trimmed video clip is saved in the Camera Roll album and the original video is unaffected.
+ Tap “Email Photo/Video.” The photo or video appears in a new mail message window. Compose your message, then tap “Send.”
+
+
+To send multiple photos or videos at the same time, when viewing thumbnails in an album, tap the right motion arrow, then tap to select the photos or videos you want to send. Now tap “Share,” then tap “Email.
+Send the photo/video with an MMS. Begin by selecting a photo or video and tap the button in the lower left corner. Then tap “MMS.”
+

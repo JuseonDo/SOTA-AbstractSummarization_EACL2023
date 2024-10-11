@@ -1,0 +1,146 @@
+@summary
+ready your materials (see "things you'll need" below);
+
+@summary
+,
+
+@summary
+plan the design of your new psu.
+
+@summary
+drill the holes you need to mount your binding posts, leds, and main switch.
+
+@summary
+,
+
+@summary
+cut your wires and group them by color.
+
+@summary
+solder the wire bundles (excluding the mains) to their respective binding posts.
+
+@summary
+solder the main wires to the switch.
+
+@summary
+,
+
+@summary
+begin connecting leds to your load switch
+
+@summary
+connect the load switch between 'ground' and 'power on'.
+
+@summary
+attach your 10-ohm/10-watt resistors to a piece of prototyping board and bend the leads to avoid movement.
+
+@summary
+test the box with an ohm-meter before applying power.
+
+@summary
+here's a picture of the finished box:
+
+@article
+, Create a circuit map to follow so to avoid confusion.
+
+
+Remember that there will be a difference between older and newer ATX PSUs. Older PSUs will mainly utilize the 3.3V and 5V rails, with excess current being handled by the 12V rail. Newer versions will use the 12V rail as their main output.
+, The color guide is as follows:
+
+
+Black: Ground
+
+
+
+
+
+
+Orange: +3.3V
+
+
+
+
+
+
+Red: +5V
+
+
+
+
+
+
+Yellow: +12V
+
+
+
+
+
+
+Blue: -12V
+
+
+
+
+
+
+Green: Power On
+
+
+
+
+
+
+Purple: +5V Standby
+
+
+
+
+
+
+Gray: Power Good
+
+
+
+
+
+
+Brown: +3.3V Sense
+
+
+
+
+
+
+White: -5V (Old PSUs only)
+
+
+
+
+
+
+
+, (Remember to label these so you which is which.
+,
+
+
+
+
+
+
+Use a current limiting resistor as you connect the green LED between 'Ground' and one of the positive outputs of the power supply (i.e. +12V for the newer models, +5V for older)
+
+
+
+
+
+
+Use a current limiting resistor as you connect the red LED between 'Ground' and '+5V Standby'
+
+
+
+
+
+
+
+, Isolate these resistors then connect them to your ground and positive output wires.
+ Make sure there are no unexpected connections, and that the proper connections are made.

@@ -1,0 +1,34 @@
+@summary
+create a paypal account.
+
+@summary
+select "non-profit organization" from the account type drop-down list if you are creating an account for a charitable organization.
+
+@summary
+enter the login email and password for your business account, create your security questions and provide the code before clicking the "continue" button.
+
+@summary
+,
+
+@summary
+provide the details for your business or charitable organization.
+
+@summary
+type in a federal tax i.d.
+
+@summary
+supply banking information so that can transfer money donated to your paypal account into a checking or savings account.
+
+@article
+
+
+
+Visit the official PayPal website, which is linked in the sources area of this article, and click the "Business" tab at the top of the screen.
+Click the "Get Started" button and follow the prompts.;
+, Otherwise, choose "Business" and then click the "Create New Account" button.
+,
+
+
+The legal business name, date established and website URL should be entered in the appropriate boxes.
+Nonprofit organizations will need to select the correct category such as political, educational, charity, religious or other. These types of accounts will be asked to supply backup documentation to support their nonprofit status.
+ or personal Social Security number, primary contact information and a business address before clicking the "Agree and Continue" button.

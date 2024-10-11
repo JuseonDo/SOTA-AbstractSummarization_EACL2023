@@ -1,0 +1,17 @@
+@summary
+these are emoticons that you type in by pressing alt and another number on the right.here are the basics.
+@article
+
+
+
+☺ a smile(alt+1)
+☻ a smile colored in(alt+2)
+♥ a heart(alt+3)
+♦ a diamond(alt+4)
+♣ a clover or shamrock(alt+5)
+♠ an ace(alt+6)
+• a small circle(alt+7)
+◘ a square with a circle in it(alt+8)
+○ a circle not colored in(alt+9)
+◙ a box with an oval inside(alt+10)
+

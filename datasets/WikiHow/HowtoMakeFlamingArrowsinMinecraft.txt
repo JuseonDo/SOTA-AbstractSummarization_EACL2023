@@ -1,0 +1,29 @@
+@summary
+acquire your materials.
+
+@summary
+place the anvil.
+
+@summary
+place the bow in the first slot and the enchanted book in the second slot.
+
+@summary
+spawn some animals and experiment.
+
+@summary
+you can use flaming arrows to light tnt.
+@article
+ You will need:
+
+
+An anvil
+A bow
+Enchanted Book Flame I;
+, Right click on it to open the anvil 'window', which will allow you to use the anvil.
+ Then drag the newly enchanted bow from the third slot into your inventory. This will cost you two XP levels.
+ If you shoot a chicken with a flaming arrow, it gives you cooked chicken. The same will work for sheep, cows, pigs etc.
+ Try making a trap with it. Hook up a dispenser to a tripwire, so that when someone walks over the tripwire, the arrow ignites the TNT.
+
+
+However, flaming arrows will not set fire to trees or wood.
+

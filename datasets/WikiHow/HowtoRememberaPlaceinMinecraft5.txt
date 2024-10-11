@@ -1,0 +1,9 @@
+@summary
+if you are playing multiplayer, have your partner find you if they are at home.
+
+@summary
+have your friend recognize what he or she knows.
+@article
+ If they are lost with you, have your friend decide where is home.
+ Maybe you and your friend remember different surroundings. Ask your friend if they recognize something familiar near.
+

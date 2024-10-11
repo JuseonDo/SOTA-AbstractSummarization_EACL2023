@@ -1,0 +1,31 @@
+@summary
+check the gauge of the co2 canister to make sure the cylinder is empty.
+
+@summary
+shut off the valve at the top of the canister by turning it clockwise until it won't go any further.
+
+@summary
+,
+
+@summary
+use a spanner, or specialized wrench, to slowly disconnect the reducing valve from the cylinder to let the remaining gas escape.
+
+@summary
+set aside the empty canister.
+
+@summary
+,
+
+@summary
+install the new co2 canister.
+@article
+ The gauge should read 0. Other signs that you may need to replace your CO2 canister are that no beer flows from the faucet, or the beer is flat.
+, This will reduce the pressure inside the valve.
+,
+
+
+Remove the protective tape from the replacement canister's outlet valve.
+Connect the new cylinder, tightening it with the spanner. Be sure to install a new plastic washer each time you change your gas canister.
+Turn the valve back on, twisting it counter-clockwise. Turn it until the hissing from the canister stops and the knob won't turn any further.
+Make sure the gauge shows pressurization.
+

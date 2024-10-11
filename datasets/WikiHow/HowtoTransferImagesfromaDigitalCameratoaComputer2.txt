@@ -1,0 +1,18 @@
+@summary
+if the camera has a usb connection, just connect it to computer.
+
+@summary
+open the camera folder, find the picture files, and copy them to your desired location.
+
+@summary
+,
+
+@summary
+remove the files from the camera’s memory.
+@article
+ If your computer has a memory card reader, it is even more convenient to plug the memory card in directly. .
+, After you are sure the files are safely on your computer’s hard drive, delete the originals on your memory card.
+
+
+Some cameras allow you to transfer files but do not support writing changes to the memory card(i.e. deleting). In this case you may need to clean the card using the camera controls (most cameras have a button or a sequence of buttons to clear the card).
+

@@ -1,0 +1,24 @@
+@summary
+launch a session of google chrome on your computer.
+
+@summary
+click on the chrome menu button located in the upper right corner of chrome.
+
+@summary
+,
+
+@summary
+click on “update google chrome.”
+
+@summary
+,
+
+@summary
+click on “restart” to verify that you want to update chrome.
+@article
+;
+,,, Your browser will close down to apply new updates, and will reopen your browser along with all tabs and windows you previously had open.
+
+
+Click “Not now” to apply updates the next time you restart your browser.
+If using Chrome in Windows 8, close all open sessions of Chrome and relaunch the browser to install updates.

@@ -1,0 +1,13 @@
+@summary
+right-click your iso file.
+
+@summary
+choose to open with "windows explorer" from the right-click menu.
+
+@summary
+eject the image to unmount.
+@article
+ Windows 8 is the first version of Windows to support ISO mounting natively.
+ Your ISO image will now appear as an inserted disc in a virtual disc drive.
+ Open Computer and right click on the virtual drive that your ISO file is mounted in. Select Eject to unmount the image.
+

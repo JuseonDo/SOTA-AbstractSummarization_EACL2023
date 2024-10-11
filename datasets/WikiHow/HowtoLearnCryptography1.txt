@@ -1,0 +1,15 @@
+@summary
+choose your resource.
+
+@summary
+be consistent.
+@article
+ There are plenty of free resources out there, some of which are available on:
+
+
+Coursera: https://www.coursera.org/course/crypto
+
+Udacity: https://www.udacity.com/course/cs387
+;
+, Like any new learning material, it takes time and effort to grasp the underlying concepts.
+

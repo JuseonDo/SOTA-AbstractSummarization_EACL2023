@@ -1,0 +1,14 @@
+@summary
+detach the vacuum hose from a system or accessory of your car, such as the hose from your heater or cruise control.
+
+@summary
+,
+
+@summary
+attach your vacuum gauge and start your vehicle's engine.
+@article
+, Allow your car to idle for a couple of minutes. Your gauge should read between 14 and 18 inches of vacuum.
+
+
+If the reading is low or non-existent, there's a blockage or leak in the vacuum line. Visually check the entire length of the hose for the problem.
+

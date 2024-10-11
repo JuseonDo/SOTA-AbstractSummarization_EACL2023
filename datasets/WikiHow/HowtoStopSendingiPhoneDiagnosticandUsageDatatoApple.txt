@@ -1,0 +1,20 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll to the third group of options and tap privacy.
+
+@summary
+,
+
+@summary
+scroll to the bottom of the page and tap diagnostics & usage.
+
+@summary
+,
+
+@summary
+select don't send.
+@article
+ This is the grey gear icon that can be found either as a stock app or inside of a folder named "Utilities" on one of your phone's Home screens.;
+,,, If there's already a checkmark next to "Don't Send", your iPhone isn't sending Diagnostics and Usage data to Apple.

@@ -1,0 +1,9 @@
+@summary
+make known the meal and beverage to the person invited in advance.
+@article
+ Details concerning preparation techniques and food give you a general idea of the service to enjoy at ceremony time.
+
+
+Provide the name of the chef.
+Refer briefly to the meal.
+

@@ -1,0 +1,63 @@
+@summary
+obtain the proper equipment listed in the things you'll need section below.
+
+@summary
+,
+
+@summary
+obtain the necessary software:
+
+@summary
+netstumbler for windows
+
+@summary
+kismac for macs
+
+@summary
+kismet for linux
+
+@summary
+wigle (wireless geographic logging engine) software (if you are using gps)
+
+@summary
+,
+
+@summary
+learn the software.
+
+@summary
+set up in the car as follows:
+
+@summary
+the following diagram shows an external wireless card with a pigtail attached to it connecting the antenna.
+
+@summary
+while driving through an area with various wireless access points, open the software mentioned earlier (netstumbler, kismac, or kismet).
+
+@summary
+upgrade to gps for more efficiency and detail.
+
+@summary
+register with wigle on their website.hop in a car, or start walking around town and finding access points!
+@article
+,, Guides are available from the links listed below.
+
+The antenna connects to the roof of the car.
+The GPS device is attached via a USB serial adapter.
+
+
+
+ 
+
+
+
+, As the driver continues along the route, the passenger should begin making note of where they were able to find signals.
+ GPS allows you to automatically map all points that are found to GPS coordinates. These coordinates can then be viewed later with a mapping program, or shared with the wardriving community.
+
+Get a GPS device and your Netstumbler and Wigle software running (see Tips)
+
+, After doing so, you will be able to download map packs of your area. These will be necessary to view the plotted access points that you found on a geographic map.
+
+After wardriving for a period of time while running the Netstumbler and Wigle software, you will have made a log file containing all of the coordinates of the access points.
+Upload this log file to Wigle, which will then automatically plot the points onto a map for you.
+Re-download the map pack to view these points on a map in Wigle.

@@ -1,0 +1,26 @@
+@summary
+download the rom of the pokémon game you want to use.
+
+@summary
+download the emulator that corresponds to the pokémon game that you want to play.
+
+@summary
+,
+
+@summary
+download the universal pokémon randomizer.
+
+@summary
+open the program, and click on "open rom.",
+
+@summary
+select the randomization settings that you want to use.
+
+@summary
+click on "randomize (save)" to save your settings to the rom.
+
+@article
+ Any Pokémon game from the 1st generation of games (Red/Blue/Yellow) to the 5th generation of games (Black/White/Black 2/White 2) can be randomized.;
+,, You can download the program at its official website.
+ Select the Pokémon ROM that you want to randomize.
+ There are a myriad of options, including the randomization of wild Pokémon, the randomization of a Pokémon's types, movesets, and abilities, and the randomization of the Pokémon that opponents use. There are also other options available, including changing Pokémon games to lowercase, changing the way that some Pokémon evolve, and giving the National Pokédex at the start of the game.

@@ -1,0 +1,37 @@
+@summary
+open discord.
+
+@summary
+tap ☰.
+
+@summary
+tap the server with the channel you want to rename.
+
+@summary
+,
+
+@summary
+tap the channel.
+
+@summary
+tap ⁝.
+
+@summary
+tap channel settings.
+
+@summary
+,
+
+@summary
+type a new name for the channel.
+
+@summary
+tap the save icon.
+@article
+ It’s the blue or purple icon with a white game controller. You should find it on your home screen or in the app drawer.;
+, It’s at the top-left corner of the screen.
+, This opens the channel.
+ It’s at the top-right corner of the screen.
+, Tap the channel’s current name (under “Channel Name”), erase what’s there, then type a new name.
+ It’s the blue circle with a white floppy disk at the bottom-right corner of the screen. The channel’s name change will take effect immediately.
+

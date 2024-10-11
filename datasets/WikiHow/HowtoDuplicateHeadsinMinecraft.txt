@@ -1,0 +1,27 @@
+@summary
+make a tower about 3 blocks high.
+
+@summary
+put the heads in place.
+
+@summary
+place some water on top of the tower.
+
+@summary
+pick up the heads.
+
+@summary
+if you want to, keep on repeating these steps in order to get your desired amount of heads.
+
+@summary
+,
+
+@summary
+place the heads in the head shop ready for sale.
+@article
+ Use any block.;
+, If you got your heads from a head shop, most likely you are playing on a creative server. Place those heads around the perimeter of the tower.
+ This will flow down to the heads, causing them to form into a state where you can pick them up.
+ If you followed the steps correctly, you should have more heads than you started out with.
+, Run the shop as required.
+

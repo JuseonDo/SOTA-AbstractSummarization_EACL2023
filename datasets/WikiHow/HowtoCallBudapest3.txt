@@ -1,0 +1,16 @@
+@summary
+dial 0011.
+
+@summary
+dial 36 after 0011.
+
+@summary
+dial 1 after 36.
+
+@summary
+dial the phone number after 1.
+
+@article
+ This is the international access code.
+ 36 is the country code for Hungary.
+ 1 is the area code for Budapest.

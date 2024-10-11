@@ -1,0 +1,16 @@
+@summary
+know the story: there is a bomb located in the middle of the map.
+@article
+
+
+Both sides must try to obtain the bomb and reach the opposing team's base.
+
+
+He/she must leave the bomb in that position and either team can then obtain it and advance it to the opposing team's base when the player is shot.
+
+
+
+
+
+
+

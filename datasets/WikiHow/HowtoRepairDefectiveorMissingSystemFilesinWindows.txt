@@ -1,0 +1,82 @@
+@summary
+open the start menu.
+
+@summary
+search for command prompt.
+
+@summary
+start command prompt as an administrator.
+
+@summary
+start system file checker.
+
+@summary
+wait until system file checker finishes checking and fixing your system.
+
+@summary
+,
+
+@summary
+start windows in safe mode with command prompt.
+
+@summary
+,
+
+@summary
+start system file checker.
+
+@summary
+wait until system file checker finishes checking and fixing your system.
+
+@summary
+,
+
+@summary
+shut down your computer by typing shutdown -t 0:00 into command prompt and pressing the ↵ enter key on your keyboard.
+
+@summary
+,
+
+@summary
+open the start menu.
+
+@summary
+search for command prompt.
+
+@summary
+start command prompt as an administrator.
+
+@summary
+start the trusted installer service.
+
+@summary
+start the windows modules installer service.
+
+@summary
+follow the steps of part 1.
+
+@article
+ Click the Start button.;
+, Type cmd.exe.
+
+
+Users of Windows XP must click All Programs then the Accessories subcategory.
+ Right click cmd.exe to open the context menu and click Run as administrator.
+
+
+Users of Windows XP must hold the ⇧ Shift key while right clicking Command Prompt, click Run As to open a dialog window, select the The following user radio button, type Administrator as the user name and the password of the account (usually blank), and click OK.
+Click Yes on the User Account Control dialog if it appears.
+ In Command Prompt, type sfc /scannow and press the ↵ Enter key on your keyboard.
+,, In Command Prompt, type sfc /scannow and press the ↵ Enter key on your keyboard.
+,, Click the Start button.
+ Type cmd.exe.
+
+
+Users of Windows XP must click All Programs then the Accessories subcategory.
+ Right click cmd.exe to open the context menu and click Run as administrator.
+
+
+Users of Windows XP must hold the ⇧ Shift key while right clicking Command Prompt, click Run As to open a dialog window, select the The following user radio button, type Administrator as the user name and the password of the account (usually blank), and click OK.
+Click Yes on the User Account Control dialog if it appears.
+ Type net start "trustedinstaller" into Command Prompt and press ↵ Enter.
+ Type net start "windows modules installer" into Command Prompt and press ↵ Enter.

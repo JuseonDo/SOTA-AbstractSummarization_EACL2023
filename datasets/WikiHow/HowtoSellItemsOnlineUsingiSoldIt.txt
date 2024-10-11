@@ -1,0 +1,13 @@
+@summary
+drop off your item at the store.
+
+@summary
+watch the action.
+
+@summary
+collect your check.isold it will ship the item for you and will send you a check minus the shipping costs and their fees.
+@article
+ The staff will help you estimate it's value and check it in. They will then hand you a receipt for the item and do the necessary chores to list the item in an online auction.;
+, iSold It will send you a link to your auction.
+ If you prefer, they will send the proceeds to your favorite charity.
+

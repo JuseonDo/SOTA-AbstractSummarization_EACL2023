@@ -1,0 +1,21 @@
+@summary
+draw a hollow circle with a light line.
+
+@summary
+choose a light source for this sphere.
+
+@summary
+begin shading.
+
+@summary
+as you move towards the light source, fill the circle with less and less pressure, heavier on the dark area, lighter on the light area.
+
+@summary
+use your finger or a tortillon to blend the shading and add a shadow.
+@article
+ You can use a compass or trace a round object or circular template to get a clean circle.;
+, The light source in this example is on the upper left, somewhat in front of the page (or behind the viewer).
+ Start opposite the light source and move inwards. The darkest area will be furthest from the light source. Create circles or partial circles of equal value (darkness).
+ You can leave a round spot nearest the light source the color of the white page.
+ Notice how the circle now appears spherical, with depth.
+

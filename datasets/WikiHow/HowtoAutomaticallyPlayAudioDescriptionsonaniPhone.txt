@@ -1,0 +1,22 @@
+@summary
+open your iphone’s settings.
+
+@summary
+tap general.
+
+@summary
+tap accessibility.
+
+@summary
+scroll down and tap audio descriptions.
+
+@summary
+slide the toggle switch (next to "prefer audio descriptions") to the “on” position.
+@article
+ This is the app with the gray cogs icon, and can usually be found on one of your home screens or in a folder labeled “Utilities.”;
+, You can find this at the top of the third section of menu options.
+ This can be found near the middle of your screen.
+ This will be near the bottom of your screen under "Media."
+
+, A descriptive audio narration will automatically play when a video plays on your phone.
+

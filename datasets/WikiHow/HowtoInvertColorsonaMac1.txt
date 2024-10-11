@@ -1,0 +1,14 @@
+@summary
+press the following key combination: ⌘ command+alt/option+f5.
+
+@summary
+in the display category, check the box next to "invert display colors.",
+
+@summary
+change the colors back.
+@article
+ This will bring up the Accessibility Options Menu.;
+,
+
+, When it comes time to change it back (because, unfortunately, it's unlikely that everyone will love their "negative"-looking computer), just press ⌘ Command+Alt/Option+F5 again, and uncheck "Invert Display Colors."
+

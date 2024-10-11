@@ -1,0 +1,27 @@
+@summary
+visit the yelp web page in your web browser.
+
+@summary
+open a location for any business that you need to edit.
+
+@summary
+click "edit business info" from the business' location page.
+
+@summary
+,
+
+@summary
+type the corrected information, and click into the "message to yelp moderators".
+
+@summary
+click the red and white "submit" button when finished.
+
+@article
+;
+, Run a search for the business.
+, You can choose to edit the business' name, address, city/state/zip, phone number, website or anything on the page that has a text box attached to it. You can also send operating hours to be posted on Yelp from this page.
+
+
+"Message to Yelp moderators" is an almost-mandatory box which explains to the moderators why this change is necessary. Keep this note short, but explain why. 2-3 sentences should be okay. Check for punctuation, grammar, spelling, etc."
+
+,

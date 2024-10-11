@@ -1,0 +1,9 @@
+@summary
+open up a spam email.
+
+@summary
+view the full headers of the email.
+
+@article
+ Make sure you are using an email service such as GMail that will not run HTML or pictures.;
+,

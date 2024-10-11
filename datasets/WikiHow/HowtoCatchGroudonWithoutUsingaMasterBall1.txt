@@ -1,0 +1,20 @@
+@summary
+buy 10 timer balls.
+
+@summary
+go to the cave of origin in sootopolis city.
+
+@summary
+go inside.
+
+@summary
+groudon's moves are bulk up, fire blast, slash, and earthquake.
+
+@summary
+eventually after a decent amount of turns, you should catch him with one of your timer balls.
+
+@article
+ These can be obtained from Rustboro City Poke Mart.;
+, Have at least level 35 to 45 Pokémon, preferably with high hit points.
+ Wander your way to Groudon (Level 45) and your Red Orb will start to grow. This will cause Groudon to walk toward you.
+ Send out a Flying-type first and stall the Groudon. The Timer Balls' catch rate doesn't go up if the Pokémon is weak, just if a lot of turns have been taken, so the more you stall, the better chance you have at catching it.

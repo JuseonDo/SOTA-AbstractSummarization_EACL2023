@@ -1,0 +1,23 @@
+@summary
+open the google translate website.paste the url for the youtube video that you want to see in the left frame
+
+@summary
+.
+
+@summary
+select any language from the list of available languages except "detect language".
+
+@summary
+select a different language for the right text field.
+
+@summary
+click the link in the right field to load the video.
+@article
+ You can access it at translate.google.com
+
+
+The Google Translate website opens YouTube inside of the Google Translate site, potentially allowing you to access YouTube if it's been blocked. This may work with other blocked sites as well, but the connection is not a secured one.
+, It won't load if you select "Detect language".
+ The language you pick won't affect the video at all, but picking the same language as you did in the previous step will result in an error.
+ The comments may end up in the wrong language, but you should be able to load the video just fine.
+

@@ -1,0 +1,24 @@
+@summary
+click on the apple menu.
+
+@summary
+click on system preferences.
+
+@summary
+,
+
+@summary
+click on sound.
+
+@summary
+,
+
+@summary
+click on the checkbox next to "show volume in menu bar."
+@article
+ It's the black, apple-shaped icon in the upper-left of your screen.;
+,,, It's at the bottom of the dialog box. The volume is now displayed in your menu bar.
+
+
+The volume is displayed as a black speaker icon. Click on it to change the volume settings on your Mac.
+

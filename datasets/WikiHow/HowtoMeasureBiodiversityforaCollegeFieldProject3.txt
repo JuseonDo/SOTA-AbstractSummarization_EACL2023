@@ -1,0 +1,17 @@
+@summary
+collect as much as possible.
+
+@summary
+whether independent or in a group, all data must be:
+
+@summary
+precise and accurate
+
+@summary
+consistent throughout
+
+@summary
+clear and straightforward.
+
+@article
+ You can never have too much data. Collecting everything from date and time to weather and size of specimen to the mm is fantastic. Everything could be extremely useful if, or when, you decide to collect data again.,

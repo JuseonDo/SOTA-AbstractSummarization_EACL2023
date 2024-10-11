@@ -1,0 +1,17 @@
+@summary
+plug your s3 into a charger.
+
+@summary
+tap the ⋮⋮⋮ button on your home screen.tap the settings app.scroll to the bottom of the menu and tap about phone.tap software update.tap update.tap ok to check for an update.
+
+@summary
+tap install if an update is available.
+
+@summary
+wait while the update installs.
+@article
+ When updating the system software, you'll need at least 50% battery. It's recommended to keep the S3 plugged in for the entire process.
+ This will open your list of apps.,,,,,, If there is no update available, you're running the latest software version possible on your S3., Your S3 will reboot during the installation process, which may take 20-30 minutes.
+
+Certain S3 models will be able to install Android 4.4.2 (KitKat), the Android version after Jelly Bean.
+

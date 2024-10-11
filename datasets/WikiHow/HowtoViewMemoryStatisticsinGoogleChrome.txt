@@ -1,0 +1,36 @@
+@summary
+download and install google chrome.
+
+@summary
+open google chrome.
+
+@summary
+click on the “customize and control” button.
+
+@summary
+select “tools.” scroll down the menu and select "tools.",
+
+@summary
+select “task manager.” alternatively, if you want to skip steps 3 and 4, you can use the keyboard shortcut shift+esc (simultaneously pressing “shift” and “esc” button on the keyboard) to open the task manager.
+
+@summary
+,
+
+@summary
+click the link called “stats for nerds.” on the task manager window, it is located on the lower left of the window.
+@article
+ You need an active internet connection to install it. But if you do not have an active connection, you can look for an offline installer.;
+, Try opening a few tabs and start surfing. Some websites consume more memory than the others, depending on its content.
+
+
+A sight with more multimedia in it may consume more memory than those that only contains text. Plug-ins also consumes memory.
+ This is located on the upper right of the window.
+
+
+This button can be identified by having three horizontal lines stack on top of each other on it. Clicking this button will open a menu.
+ A sub-menu list will open.
+, This will open a new tab called “About Memory.”
+
+
+In this tab, you can view the memory statistics of plug-ins and tabs currently opened and tell how much memory each one currently consumes.
+

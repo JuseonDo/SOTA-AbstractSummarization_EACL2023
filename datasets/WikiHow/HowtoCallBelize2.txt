@@ -1,0 +1,25 @@
+@summary
+listen for a dial tone on your phone.
+
+@summary
+,
+
+@summary
+dial your country's exit code.
+
+@summary
+dial 501.
+
+@summary
+dial the local 7 digit number.
+
+@summary
+enjoy your call!
+
+@article
+, In many countries, this is 00, but there are exceptions., This is the Belizean country code.
+
+
+
+Together, the whole number should look like: 00-501-XXX-XXXX.
+For Belizean cell phones, this will start with a 6, so your local number should look like 6XX-XXXX. The whole number should look like 00-501-6XX-XXXX.

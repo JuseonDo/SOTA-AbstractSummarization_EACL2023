@@ -1,0 +1,29 @@
+@summary
+open ms word.
+
+@summary
+insert an organization chart.
+
+@summary
+review the template.
+
+@summary
+make a tree to make things clear.
+
+@summary
+change the colors and styles from the design menu.
+
+@article
+;
+, Just go to Insert -> Smart Art -> Organization Chart.
+ This opens up a predefined hierarchical structure.
+
+
+If you want to start things afresh, just delete everything in the "type your text here" dialogue box.
+ Word makes this tree construction easy: You can just enter your details for the first box. Then, to make child in same level, press Enter and for a child in next level, press Enter and then Tab.
+
+
+For example, start by typing 20.
+Now to make a child, first press ENTER, then press TAB.
+Now type 8. Press Enter. Type 9. Press Enter. Type 15.
+To create a child of 9, place cursor after 9. Press Enter. Press Tab. Type 11. Press Enter. Type 14.

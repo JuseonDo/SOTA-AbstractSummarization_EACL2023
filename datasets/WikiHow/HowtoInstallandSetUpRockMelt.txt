@@ -1,0 +1,26 @@
+@summary
+be sure that you have a facebook account.
+
+@summary
+go to rockmelt and click on the download link.
+
+@summary
+sign into facebook.
+
+@summary
+click on the twitter icon (if you have it), and put in the pertinent information needed to sign into your account.
+
+@summary
+,
+
+@summary
+send invites (for rockmelt) to those who might be interested.
+
+@summary
+watch the lower right corner for your updates.
+
+@article
+ At this point in its development, you need it. The download link won't even show up if you don't have a FB account.;
+, If you want your settings from your other browsers, be sure to have them closed when you install.
+ You will need to sign into Facebook during the installation of the browser. Be sure to 'Allow' RockMelt to access Facebook. There is a long list of apps that need access. Be sure you understand them.
+, You are allowed up to six friends to invite.

@@ -1,0 +1,5 @@
+@summary
+cook the eggs to your liking.
+@article
+ In a regular loco moco, the eggs are sunny side up.
+

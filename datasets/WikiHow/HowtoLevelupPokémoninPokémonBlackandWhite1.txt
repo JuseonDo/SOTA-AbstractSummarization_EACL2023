@@ -1,0 +1,23 @@
+@summary
+battle wild pokémon or trainers around your pokémon's level or higher.
+
+@summary
+give your pokémon a lucky egg, which you receive from professor juniper at chargestone cave.
+
+@summary
+,
+
+@summary
+give two other pokémon exp.
+
+@summary
+try to get the pokérus.
+
+@summary
+try trading your pokémon to a friend, then get them to trade back.
+@article
+ Audino is a good Wild Pokémon to battle, since it's a commonly-found Pokémon that gives a lot of experience. You can find one in shaking grass.;
+,, Share. You can find Exp. Share in Castelia City and in Icirrus City.
+ Pokérus is a Pokémon virus, which causes your Pokémon to grow better. There is no guaranteed way to get it, but you can catch it from wild Pokémon on special occasions.
+ This will cause the Pokémon to level up faster.
+

@@ -1,0 +1,65 @@
+@summary
+step1: add dvd files
+
+@summary
+rip your dvd files from dvd-rom drive by clicking “open dvd”.many friends ask me how to copy movies form dvds to hard drive.
+
+@summary
+step2: select subtitle, audio and output format
+
+@summary
+regular dvd movie usually has several subtitle, like english, french, german, etc.
+
+@summary
+step3: start conversion
+
+@summary
+after all the things done, click the ‘start’ button to start the conversion.
+
+@summary
+,
+
+@summary
+step 4: transfer to zune
+
+@summary
+after finish conversion, add your converted files to zune software and click 'sync contents to and from your zune', then you can enjoy your dvds on zune.
+
+@article
+ This process calls ‘Rip’. Additional, ripping protected DVDs is illegal (unless you have the own right of the DVDs). This software helps you rip DVDs automatically. You needn’t know how to break the css protect. You will not be confused by the complicated operation of ‘DVD Decrypter’ or ‘DVD Shrink’.
+
+
+
+ 
+
+
+Or Load .ifo files from your hard drive by clicking “Add ifo”. IFO file is an index of DVD files. It contains many control info about the DVD movies.
+
+
+
+
+
+
+Or right click on the blank area in the center of the main interface to import video files from your hard drive or DVD-ROM drive.
+
+
+
+
+
+;
+, You can select anyone according to your need.
+
+
+
+
+
+
+Select Audio it the same as select Subtitle.
+
+
+
+
+
+
+Format: this software can convert DVD to WMV and MP4 format which are fit for Zune player, if also can extract audio track from DVD and save as MP3 and WMA format which are fit for any other MP3 player.
+,

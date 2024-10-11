@@ -1,0 +1,17 @@
+@summary
+click to tweet.
+
+@summary
+compose.
+
+@summary
+add images.
+
+@summary
+post your tweet.
+@article
+ Click on the blue icon to compose your tweet.
+ Note that tweets are limited to 140 or fewer characters.
+ You can add your pictures to your tweet, just click on the camera icon.
+ Click on the 'Tweet' button to post your Tweet on Twitter.
+

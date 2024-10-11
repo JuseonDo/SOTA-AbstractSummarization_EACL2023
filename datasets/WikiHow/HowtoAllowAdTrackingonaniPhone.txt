@@ -1,0 +1,19 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll down and tap privacy.
+
+@summary
+scroll down and tap advertising.
+
+@summary
+slide the button next to limit ad tracking to the off position.
+@article
+ It's the gray app with an image of sprockets; it is usually found on one of your home screens.
+
+
+If it doesn't appear on a home screen, it may be in a Utilities folder.;
+, It's at the bottom of the third group of options.
+ It's the last option on the page.
+ Doing so allows your iPhone to anonymously send data to advertisers so they can tailor in-app ads to your interests utilizing your location, app usage, and browsing habits.

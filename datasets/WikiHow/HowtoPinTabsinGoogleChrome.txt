@@ -1,0 +1,17 @@
+@summary
+go to the tab you wish to pin.
+
+@summary
+hover over the tab you wish to pin, and right click.
+
+@summary
+choose "pin tab.",
+
+@summary
+enjoy your pinned tab.
+@article
+ Just type in the URL or pull it up online. If you plan to pin a specific part of a website, it's best to go to that page, just to make it easier.;
+, You have to be directly over the tab to do this. After you right click, there will be a list of options.
+ After you click it, it should reduce in size until only the favicon is visible.
+ Whenever you are swamped with tabs, you can click on the pinned tab and smile at the saved space and time.
+

@@ -1,0 +1,27 @@
+@summary
+obtain a slaking.
+
+@summary
+give the slaking leftovers.
+
+@summary
+give the slaking an impish nature.
+
+@summary
+work up on slaking's stats.
+
+@summary
+moves for stall slaking would be:
+
+@summary
+toxic - toxic stalling is annoying if the opponent doesn't have any hp recovery moves.
+@article
+ Stall Slaking is more annoying than Scarf Slaking so it will have more effecting moves.
+ Leftovers regain your HP after every single turn.
+ Impish ups Defense but lowers Special Attack. Slaking is more of a Defensive/Attacker Pokémon, so Impish would be more beneficial.
+ Give him 252 HP, 252 Defense, and 4 in Attack.
+
+Amnesia - Good Special Defense boost just in case.
+Protect - To see what the opponent will do and let the Toxic continue.
+Giga Impact - Attacking coverage.
+

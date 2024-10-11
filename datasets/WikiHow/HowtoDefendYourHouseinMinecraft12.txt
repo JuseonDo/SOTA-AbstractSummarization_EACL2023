@@ -1,0 +1,7 @@
+@summary
+build a high building that you could shoot with a bow from with high accuracy.
+
+@summary
+make one for some snow golems too.
+@article
+ It should have a clear view and preferably you should be able to shoot from all angles., So even if you can't shoot from there for whatever reason someone still can.

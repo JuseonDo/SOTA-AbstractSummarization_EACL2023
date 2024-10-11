@@ -1,0 +1,21 @@
+@summary
+go to "contacts.",
+
+@summary
+select the contact.
+
+@summary
+select "edit google voice settings.",
+
+@summary
+select a greeting.
+
+@summary
+click "save."
+@article
+ This option is on the left-hand side of your Google website., Click on the box next to the contact's name.
+
+
+, Choose from your pre-recorded greetings or click on "Special greeting" and select "Record greeting." This will call your mobile phone and will allow you to record a greeting until you end the call.
+ This will save the personalized greeting for that contact.
+

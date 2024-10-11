@@ -1,0 +1,51 @@
+@summary
+click on “desktop”.
+
+@summary
+right click on the desktop.
+
+@summary
+,
+
+@summary
+click on personalize.
+
+@summary
+,
+
+@summary
+click screensaver.
+
+@summary
+click the dropdown menu under “screensaver”.
+
+@summary
+,
+
+@summary
+click on the screensaver you want to use.
+
+@summary
+,
+
+@summary
+set the idle time for your screensaver.
+
+@summary
+check the box next to “on resume, display logon screen” (optional).
+
+@summary
+click ok.
+@article
+ It’s located at the bottom-left corner of the start screen.
+
+
+If already on desktop view, skip to next step.;
+,,, It’s at the bottom-right corner of the personalization menu.
+,, This done by clicking on the arrows below the dropdown menu.
+
+
+You can also type the idle time into the small box on the left.
+ This will prompt you to enter a password when resuming once the screensaver has been displayed.
+ This updates the settings, making your new screensaver visible after your computer is idle for the timeframe entered in Step 7.
+

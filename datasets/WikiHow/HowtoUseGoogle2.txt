@@ -1,0 +1,59 @@
+@summary
+google plus consists of 4 main pages including “home”, “profile”, “photos”, and “circles”.
+
+@summary
+click the “home” icon to access your stream, chat, and hangouts.
+
+@summary
+use keyboard shortcuts to save time navigating your stream.
+
+@summary
+easily use html in your posts.
+
+@summary
+mention people in your posts by adding @ or + in front of their names.
+
+@summary
+click the “photos” icon from the top of any page to view photos posted by people in your circles and upload new photos to share on google +.
+
+@summary
+,
+
+@summary
+click the “profile” icon from the top of any page to access and edit your google profile including your profile picture, personal and employment info, and other basic settings and preferences.
+
+@summary
+,
+
+@summary
+click the “circles” icon to create, view, and edit circles.
+@article
+ These pages are accessible via the small icons beside the “Google Plus” icon at the top of any page.
+ Content posted by those you’ve added to your circles will be added to your “Stream” in the Center of the Google + “Home” page.
+
+
+You can filter what content you are currently viewing in your “Stream” by selecting a Circle from the list of currently created circles to the left of your Stream.
+You can access Google chat just below the list of currently created Circles to the left of your Stream.
+
+
+
+Press space to scroll down.
+Press shift and space to scroll up.
+Press J to scroll down to the next post.
+Press K to scroll up to the previous post.
+Press Q to directly access chat.
+Press enter or return to start commenting on a post.
+Press tab and return to end your comment.
+
+
+
+Adding asterisks around word(s) will automatically bold them.
+Adding underscores around word(s) will automatically underline them.
+Adding hyphens around word(s) will automatically cross them out.
+ Autofill will pop up with suggestions to help you complete the tag.
+
+
+You cannot tag circles in your posts.
+Make sure to properly capitalize your friends' names, or Google Plus autofill may not detect them.
+,, From this page you can also view and manage people who’ve added you, and find and invite new friends to Google Plus.
+

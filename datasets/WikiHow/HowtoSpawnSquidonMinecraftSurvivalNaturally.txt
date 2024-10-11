@@ -1,0 +1,18 @@
+@summary
+find a place between coordinates y: 25 and y: 100.
+
+@summary
+dig a hole.
+
+@summary
+fill the hole with water.
+
+@summary
+wait.
+@article
+ Squids can only spawn in between those coordinates.;
+, The hole has to be at least three blocks deep and can be as large as you wish.
+ The water doesn't have to be perfectly still, it only has to be filled to the top
+
+, It will take a while to get a squid to spawn.
+

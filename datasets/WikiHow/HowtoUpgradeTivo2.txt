@@ -1,0 +1,57 @@
+@summary
+connect a dvr expander to your current tivo dvr.
+
+@summary
+take the esata cord that came with the dvr expander.
+
+@summary
+connect the ac power cord that came with the expander to the expander and the electrical outlet.
+
+@summary
+reconnect the tivo power chord to the tivo and the electrical outlet.
+
+@summary
+wait for a message to appear on the tivo.
+
+@summary
+choose "yes" with your remote.
+
+@summary
+,
+
+@summary
+select "yes" again on the next screen, entitled "external storage.",
+
+@summary
+read the warning message.
+
+@summary
+,
+
+@summary
+click the "thumbs down" button on your remote 3 times and click enter.
+
+@summary
+,
+
+@summary
+wait for the tivo to restart.
+
+@summary
+,
+
+@summary
+test your tivo by recording a show.
+@article
+ This option is available if you have Series3, HD and Premiere boxes. A DVR expander is essentially a portable hard drive and it allows you to tape more shows, so that you do not have to erase old shows as frequently. Tivo sells Verified DVR expanders on their website, but it is also available through other technology companies.
+
+
+Before getting started, be sure to disconnect the AC power cord from your wall and the Tivo system.
+ The eSATA cord is used with external storage devices to increase the speed at which they send data. Connect it to the DVR expander and the Tivo box. Take care to protect the cord from being pinched or interrupted by any device that carries a strong magnetic field.
+ A light should come on to indicate that it is connected to power. Wait 15 seconds for the expander to warm up and connect.
+ Try to use the same electrical outlet as you used to plug in the DVR expander. If there is a glitch in the power source, both machines will turn off at the same time, which will help you to avoid connection problems.
+ It should say "Important Message" and let you know that there is an external drive connected to it. It will ask you whether you want to set up an external storage device.
+,
+
+,,,, Record more of your favorite programs.
+

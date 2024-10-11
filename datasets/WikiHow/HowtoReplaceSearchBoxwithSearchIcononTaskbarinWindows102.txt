@@ -1,0 +1,35 @@
+@summary
+open the registry editor.
+
+@summary
+confirm the user account control window, if promted.
+
+@summary
+navigate to hkey_current_user/software/microsoft/windows/currentversion/search.
+
+@summary
+change the value data of "searchboxtaskbarmode" to 1.
+
+@summary
+apply your changes.
+@article
+ Type regedit in the search box and choose the matching result, or hit ↵ Enter.
+ Select Yes from the popup window.
+
+You might need to enter your password.
+ Newer versions of Windows 10 have an address bar at the top of the Registry Editor. This can be used by entering the path and hitting ↵ Enter
+
+, Right-click and choose Modify. Change the number in the text box to 1.
+
+
+Alternate value numbers:
+
+0 = Hide icon completely
+2 = Show search bar
+
+
+
+, Click on the search bar/icon. If restoring a hidden icon, click an empty space on the taskbar.
+
+There may be a delay of up to 15 seconds.
+

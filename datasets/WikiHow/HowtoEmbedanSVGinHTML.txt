@@ -1,0 +1,111 @@
+@summary
+create a graphic using a vector based graphics software
+
+@summary
+any vector based graphic software will do, as long as it has the ability to save documents as an svg
+
+@summary
+it will be useful to design your graphic at the size that you intend for it to appear on the page, however, you will be able to dynamically change the size using css later on.
+
+@summary
+organize the groups and layers of your graphic.
+
+@summary
+save your graphic as an svg.
+
+@summary
+open your svg in a text editing software.
+
+@summary
+copy the svg tag.
+
+@summary
+paste the svg into your html page.
+
+@summary
+check your results in a web browser
+
+@summary
+open your web page in a browser and your graphic will appear on your page, however, it may require some extra styling to properly format the graphic within your page.
+
+@summary
+give your svg a class attribute
+
+@summary
+it will be useful to give your svg a descriptive class for styling
+
+@summary
+in some instances a class attribute may already exist on the svg tag.
+
+@summary
+adjust the size of your graphic if it is not already the proper size
+
+@summary
+if your graphic appears to large or too small on your page, you can adjust its size using css or html attributes.
+
+@summary
+organize the markup of your svg.
+
+@summary
+use css to modify your svg
+
+@summary
+svgs are comprised of different tags that behave like other html elements.
+
+@summary
+view the results in a web browser.
+@article
+;
+,
+
+
+Within your graphic editor, it is very useful to keep your image well organized. Doing so will make future steps far easier.
+In Adobe Illustrator, group paths together by holding shift and selecting multiple paths. Then, right click and choose "group." You will see your new groups in the layers window.
+
+
+
+Any vector based graphics editor will should allow you to save your graphic as an SVG.
+In illustrator, select "Save As" from the file tab. In the dialog box, select SVG from the dropdown list, then click save.
+You may encounter an "SVG Options" dialog box. There are several versions of the SVG file format, generally, version 1.1 is fine. Select OK and continue.
+
+
+
+In the file explorer, right click your new SVG file and select "Open with" from the list.
+From the available programs, select any text editor. You may need to select "More Apps" or "Choose another app" if your desired text editor is not in the list.
+Notepad is fine, however, you may choose to open your SVG in an IDE such as Visual Studio.
+
+
+
+Once opened, use your cursor to select only the contents of the <svg> tag.
+There will be a line at the top of the file that begins with "<?xml ..." Ignore this line and any additional comment lines at the top of the document.
+Everything within the <svg> tags is valid HTML markup and may be placed in an HTML page.
+
+
+
+Open your HTML page in a text editor and paste the block of code you copied from the last step into your web page.
+The SVG tag may be place anywhere in the body of your HTML markup.
+
+If your graphic is already sized properly and appears as you desire it, you may stop after this step.
+ If this is the case, simply add classes to the existing attribute.
+e.g <svg class="SVGclass" .
+
+One of the benifits of the SVG format is that it may be scaled to any size without quality loss.
+Within the angle brackets of the SVG, you may create two new atributes for width and height if they do not already exist. e.g width="150" height="200". The value within the quotation marks indicates the pixel dimensions of the graphic
+Alternativley, you may set the dimensions using CSS by targeting the class that you assigned to your SVG. e.g .SVGclass{ width: 200px }
+
+, This step will make any further styling using CSS much easier.
+
+
+Each <g> tag within the markup of the SVG represents a group that you created in your graphics software.
+Comment, or add custom classes to the tags withing your SVG so that they may be targeted with CSS
+
+, They can be given style and class attributes for styling.
+Paths and shapes within your svg can have their fill, stroke, stroke-width, and many other styles edited with CSS.
+For example: .IceCream{ fill: blue; }
+
+,
+
+
+All of your new styling should be visible within a web browser.
+Repeat steps 10 and 11 until you graphic has all of the desired styling.
+

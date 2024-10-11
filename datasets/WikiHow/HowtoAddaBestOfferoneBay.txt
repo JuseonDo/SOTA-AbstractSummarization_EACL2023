@@ -1,0 +1,24 @@
+@summary
+log into your ebay merchant account, and navigate to the "fixed price" tab to list an item.
+
+@summary
+set up the auto accept auto decline feature.
+
+@summary
+save the listing, and the ebay "best offer" feature will be automatically set up.
+
+@summary
+,
+
+@summary
+set up the "best offer" feature to allow the seller to manually reply to offers.
+@article
+ Locate the "Best Offer" button, and click on the box "Allow buyers to make offers.";
+, This will allow the seller to enter a price range that is acceptable to them for that particular auction. The system will automatically reject any offer below the seller's acceptable price and automatically accept any that falls within the seller's range.
+
+
+This price range can be changed by the seller at the seller's discretion.
+If 2 offers come in simultaneously, the Auto Accept feature will accept the higher offer.
+The seller must reply manually to any offers made that fall outside the set range.
+, The seller can accept the offer, decline it or propose a counter offer.
+

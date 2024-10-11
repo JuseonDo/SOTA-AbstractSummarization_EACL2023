@@ -1,0 +1,24 @@
+@summary
+tap the bookmarks button.
+
+@summary
+tap the bookmarks tab.
+
+@summary
+tap the "edit" button.
+
+@summary
+tap the "-" next to the bookmark or folder you want to remove.
+@article
+ You'll find this at the bottom of the screen on an iPhone, or at the top on an iPad.
+ This will display all of the bookmarks you have saved.
+ This will allow you to remove items from the list.
+
+
+If the bookmark you want to delete is in a folder, open the folder first and then tap "Edit."
+
+, Tap "Delete" to confirm.
+
+
+You cannot delete the Favorites or History folders, but you can delete items inside of them.
+

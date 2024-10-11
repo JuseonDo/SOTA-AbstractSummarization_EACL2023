@@ -1,0 +1,37 @@
+@summary
+make sure that the problem is caused by the freewheel.
+
+@summary
+remove the rear wheel.
+
+@summary
+remove the cassette.
+
+@summary
+remove the freehub assembly.
+
+@summary
+take apart the freewheel mechanism.
+
+@summary
+,
+
+@summary
+clean and lubricate the whole mechanism.
+
+@summary
+put everything back together.
+
+@summary
+,
+
+@summary
+test drive the bike to see if the fix was successful.
+@article
+ Skipping can also be cause by a worn chain, worn chainrings and worn sprockets.;
+, Disconnect the rear brake and undo the axle nuts.
+ The freewheel mechanism is contained inside the splined housing.
+ The process may vary for this step by manufacturer and hub design. Shimano freehubs are held on by a hollow hex bolt inside the housing itself. Remove the bearings on either side before undoing the bolt.
+, Check for any worn or broken parts, replace if necessary. The whole mechanism may need to be replaced if it is too worn or has other major damage.
+, If there is still skipping, check for other possible sources of the problem or get a new freehub body or even a new hub.
+

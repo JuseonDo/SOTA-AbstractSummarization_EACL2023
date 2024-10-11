@@ -1,0 +1,25 @@
+@summary
+open your iphone's settings.
+
+@summary
+tap general.
+
+@summary
+tap accessibility.
+
+@summary
+scroll down and tap tty.
+
+@summary
+slide the button next to software tty to the off position.
+
+@summary
+slide the button next to hardware tty to the off position.
+@article
+ It's a gray app containing an image of sprockets. It is on one of your home screens or, if not, it may be in a folder labeled Utilities.;
+, It's next to a gray icon containing a gear in the third section of the menu.
+ It's a stand-alone section of the menu.
+ It's the second selection in the "Hearing" section of the menu.
+ The white button should be toward the left and surrounded by white. Doing so means you will no longer be able to place or receive TTY calls using the Phone app.
+ The white button should be toward the left and surrounded by white. Doing so prevents you from making or receiving iPhone calls using an external TTY device.
+

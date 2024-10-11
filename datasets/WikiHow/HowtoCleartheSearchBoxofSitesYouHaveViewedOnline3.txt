@@ -1,0 +1,37 @@
+@summary
+tap the chrome menu button (⋮) and select "settings.",
+
+@summary
+tap "privacy.",
+
+@summary
+scroll down and tap "clear browsing data.",
+
+@summary
+check the "autofill form data" box.
+
+@summary
+select "beginning of time" from the menu at the top of the screen.
+
+@summary
+tap "clear data" to delete the checked items.
+
+@summary
+delete a single search entry.
+@article
+ You may have to scroll down to find it.
+ The Chrome Privacy menu will open.
+ You'll see a list of the types of items that can be deleted.
+ This will ensure that any entries you've typed into search fields are deleted.
+
+
+You can uncheck other items that you may want to keep, such as browsing history and cached images and files.
+ This will tell Chrome to delete every stored entry it has saved.
+ Your search box entries will be completely deleted.
+ If you want to get rid of a single entry without deleting your entire history, you can do it manually:
+
+
+Tap the field that contains the search you want to get rid of. You may need to type a few letters from the search to make it appear.
+Press and hold on the search in the suggestions list that you want to delete.
+Confirm that you want to remove the entry.
+

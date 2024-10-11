@@ -1,0 +1,28 @@
+@summary
+build a power plant.
+
+@summary
+build some commercial zones in the center.
+
+@summary
+create industrial zones.
+
+@summary
+,
+
+@summary
+create residential zones.
+
+@summary
+,
+
+@summary
+build connecting roads.
+
+@summary
+learn to manage finances and environment for your sims.
+
+@article
+ If you want to place your zones outside of an area near a power plant, you must build power lines to link the two together. The game won't accept power lines being built directly over the top of the upcoming needed zones.;
+, Don't worry if you zoned high density commercial and you still do not get massive skyscrapers. When the population grows, so will the buildings.
+,, The game may create these roads between zones automatically, but it is always good to check.

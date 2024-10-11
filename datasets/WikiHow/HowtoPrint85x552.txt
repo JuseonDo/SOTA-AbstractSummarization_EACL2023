@@ -1,0 +1,23 @@
+@summary
+open a document in your word processor.
+
+@summary
+use the ruler on the sides of your word processor to insert a line at the 5.5-inch mark, or halfway down the profile page.
+
+@summary
+,
+
+@summary
+create a document above that line.
+
+@summary
+save your file.
+
+@summary
+print on regular copy or printer paper.
+@article
+ Keep the standard 8.5 x 11 letter size in the Page Setup menu.
+, Then copy the elements and paste them below the line. You are setting up a document that will print two copies of your document.
+ Choose the File menu and click “Print.” Print using the standard settings.
+ Then, take the document and cut it in half at the 5.5-inch line using scissors or a paper cutter.
+

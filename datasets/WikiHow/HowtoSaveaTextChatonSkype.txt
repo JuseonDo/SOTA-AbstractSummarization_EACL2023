@@ -1,0 +1,25 @@
+@summary
+open skype.
+
+@summary
+,
+
+@summary
+ 
+
+@summary
+click on "tool," "options," and then "privacy.",
+
+@summary
+find the section "keep history for" and click  on the tiny arrow to explore all the options available.
+
+@summary
+click save button to save your settings.
+@article
+,, You have 4 options to choose from for saving your chat text history: 2 weeks, 1 month,  3 months, forever.
+
+Obviously if you want to always keep your chat text saved forever, click on  the "forever" option.
+
+
+You  just made  your  chat text saved forever.  In case you changed your mind and don't want  to keep it "forever," just adjust the settings again.
+

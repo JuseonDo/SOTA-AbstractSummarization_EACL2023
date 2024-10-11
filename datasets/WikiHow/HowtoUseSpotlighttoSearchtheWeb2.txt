@@ -1,0 +1,24 @@
+@summary
+click the magnifying glass icon.
+
+@summary
+click the "spotlight search" field.
+
+@summary
+,
+
+@summary
+type in a word or phrase.
+
+@summary
+,
+
+@summary
+click the "suggested web page" link.
+@article
+ This is in the top right corner of your screen.
+,, This should be on the left side of the Spotlight window. Clicking it will open the suggested page in your default browser.
+
+
+You may not see this option for all search terms.
+

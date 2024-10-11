@@ -1,0 +1,38 @@
+@summary
+click on your "start" button.
+
+@summary
+go to "all programs.",
+
+@summary
+go to "accessories.",
+
+@summary
+then to "system tools.",
+
+@summary
+then to "system restore.",
+
+@summary
+  system restore appears on the screen.
+
+@summary
+a calendar should appear with dates; select a date that has a bold number with your mouse.
+
+@summary
+when your computer is restarted, a similar window will be presented.
+@article
+;
+,
+
+,
+
+,
+
+,
+
+, Select "Restore my computer to an earlier time." Click next button
+
+, Make sure the date is before you made the mistake on your computer. Click "next" and close all open programs to ensure a safe restore. The keep clicking "Next," and the computer will then gather some information and restart your computer to the restore point.
+ It will tell you if the restore was successful and if any files were renamed in the process.
+

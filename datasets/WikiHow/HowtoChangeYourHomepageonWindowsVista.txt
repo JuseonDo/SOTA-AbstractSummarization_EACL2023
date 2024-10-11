@@ -1,0 +1,54 @@
+@summary
+start your computer and login to your internet service provider.
+
+@summary
+open internet explorer.
+
+@summary
+go up to and open the "tools" button on the top of your screen.
+
+@summary
+,
+
+@summary
+click on "internet options.",
+
+@summary
+at the top of the page you will see a box that shows your current homepage.
+
+@summary
+,
+
+@summary
+erase the website shown in the box.
+
+@summary
+,
+
+@summary
+type the website you want into the box.
+
+@summary
+click the "ok" button at the bottom of this displayed dialog-box.
+
+@summary
+,
+
+@summary
+close your browser window(after saving all your work, and bookmarking/favoriting all your favorite websites.
+
+@summary
+,
+
+@summary
+restart your browser.
+@article
+;
+, Although there are several ways, you may choose the fastest way, which is by clicking the button labeled "Internet" from the Start menu in the bottom left-hand corner of the screen.(assuming you haven't changed the default choice or installed a new browser(which you set its default to be another browser). Otherwise, type "Internet Explorer", in the box, as soon as you discover this browser change.
+, It's the last item under the "Tools" menu. To find tools, you'll have to look for the icon that is shown to the right of this step.
+
+
+To get the former Tools menu bar back, depress the Alt key on your keyboard, and click Tools from the toolbar that displays.Or You can also right-click an open area near the tabs, and click "Menu bar". If you discover a checkmark to the left of the words "Menu bar", scout around for this bar. It should be visible.
+,, These websites can be typed in any format whether it be just from the "www" onward, or if you type the "http" portion with it. It really doesn't matter. Just get these addresses on the box.
+,, Your new homepage will appear now!
+

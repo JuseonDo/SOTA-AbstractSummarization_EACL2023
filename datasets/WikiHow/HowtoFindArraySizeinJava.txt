@@ -1,0 +1,49 @@
+@summary
+open the ide.
+
+@summary
+copy and paste the following code:
+
+@summary
+class size
+
+@summary
+{
+
+@summary
+static int[] numbers = {1, 225, 231, 4, 675};
+
+@summary
+public static void main(string[] args)
+
+@summary
+{
+
+@summary
+int size = numbers.length;
+
+@summary
+system.out.println("the size of array is : "+size);
+
+@summary
+}
+
+@summary
+}
+
+@summary
+,
+
+@summary
+run the program.
+
+@summary
+understand what the program does.
+@article
+ Open your IDE of choice, or write the code and execute it through the Command Prompt.
+, The output will be The size of array is : 5., Once you understand how the .length statement works, you can use it in other contexts easily.
+
+You declare a Integer array numbers with the values : .
+Next, you use the statement "numbers.length" to get the size of Integer array numbers and assign it to Integer variable size.
+Then you print the size of the Integer array numbers.
+

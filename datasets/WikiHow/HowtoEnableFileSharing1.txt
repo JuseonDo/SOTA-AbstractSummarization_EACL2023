@@ -1,0 +1,80 @@
+@summary
+press ⊞ win+s to launch windows search.
+
+@summary
+type “control panel” and press ↵ enter.
+
+@summary
+click the “view network status and tasks” link.
+
+@summary
+click “change advanced settings.” now you’ll see options for file and printer sharing.
+
+@summary
+,
+
+@summary
+select “turn on file and printer sharing” and click “save changes.” if you are prompted to enter your administrator password to save the changes, do so.
+
+@summary
+press ⊞ win+s to launch windows search.
+
+@summary
+type “file explorer” and press ↵ enter.
+
+@summary
+navigate to the folder you want to share.
+
+@summary
+right-click the folder and select “properties.” a properties panel for this folder will appear on the screen.
+
+@summary
+click to the “sharing” tab.
+
+@summary
+click the “advanced sharing” button.
+
+@summary
+place a check next to “share this folder.” the previously grayed-out contents are now editable.
+
+@summary
+,
+
+@summary
+type a name for the shared folder under “shared name.” the name you type here is what other users will see when they access the folder.
+
+@summary
+,
+
+@summary
+click the “permissions” button.
+
+@summary
+click to highlight the “everyone” group.
+
+@summary
+set the permissions for the user(s) you selected.
+
+@summary
+click “ok” to save your changes.
+@article
+ You can share any folder on your Windows 10 system with other users on your local network. When you press this key combination, a search box will appear.;
+, Now you’ll see the Control Panel.
+ This link appears just beneath the “Network and Internet” header in the main pane.,,, Now that File Sharing is enabled, you can share a folder on your system.
+ The File Explorer will open on your desktop.
+ You’ll need to select a folder to share rather than an individual file. Use the navigation pane on the left side of Explorer to browse for the folder.
+, Since the folder is not yet shared, you’ll see “Not Shared” just below its name under “Network File and Folder Sharing.”
+
+, The contents of this window are mostly grayed-out.
+,, Now you’ll set the permissions for all users on the network who will access the folder., When this group is selected, you’ll be able to change everyone on the network’s permissions for this folder at once.
+
+
+If you’d rather just share the folder with one person, click “Add” and then select the person’s username from the list. Then, click to select that user.
+ Place checks next to “Allow” or “Deny” for each of the following options:
+
+
+Full Control: Allows everyone to read, delete, and edit files in this folder. This also grants this user the ability to change permissions on the folder.
+Change: Allows everyone to read, delete, and edit files in the folder but not change permissions.
+Read: Allows everyone to view files in the folder and run programs. Users cannot change files in the folder if this is the only option allowed.
+ The folder is now shared.
+

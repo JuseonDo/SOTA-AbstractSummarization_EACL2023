@@ -1,0 +1,129 @@
+@summary
+open a new excel workbook and create 3 worksheets (except chart if you are using chart wizard): data, chart and saves.
+
+@summary
+,
+
+@summary
+set your preferences: open preferences in the excel menu and follow the directions below for each tab/icon.
+
+@summary
+it helps placing the cursor at cell a14 and doing freeze panes.
+
+@summary
+enter the defined variable names and some initial values:
+
+@summary
+in a1, enter a;
+
+@summary
+in a2, enter b;
+
+@summary
+in a3, enter c_;
+
+@summary
+select cell range a1:b3 and insert names create in left column; select cell range b1:b3 and format fill yellow (for input);
+
+@summary
+in b1, enter 18; f(or the complete sphere, the value = 100)
+
+@summary
+in b2, enter .8; f(or the complete sphere, the value = .5)
+
+@summary
+in b3, enter .6; f(or the complete sphere, the value = .5)
+
+@summary
+in cell d1, enter change;
+
+@summary
+in cell e1, enter stretch_y;
+
+@summary
+select cell range d1:e2 and insert names create in top row;
+
+@summary
+select cell range d1:d2 and format cell fill white or none.
+
+@summary
+input column headers:
+
+@summary
+a5: t: 0 to 2π
+
+@summary
+b5: z
+
+@summary
+c4 charting ... d4: charting
+
+@summary
+c5: x: no z
+
+@summary
+d5: y: with z
+
+@summary
+e5: adj_y
+
+@summary
+edit go to cell range b6:b5765 and insert name define name z to range $b$6:$b$5765;
+
+@summary
+edit go to cell range e6:e5765 and insert name define name adj_y to range $e$6:$e$5765.
+
+@summary
+,
+
+@summary
+enter series or formulas in columns:
+
+@summary
+edit go to cell range a6:a1445 and input 0 into a6 and "=2*pi()" into a1445 and do edit fill series trend ok.
+
+@summary
+create the chart:
+
+@summary
+select c4:d5 and make the font italic.
+
+@summary
+that's it, you're finished!
+
+@summary
+,
+
+@summary
+make use of helper articles when proceeding through this tutorial:
+
+@summary
+see the article how to create a spirallic spin particle path or necklace form or spherical border for a list of articles related to excel, geometric and/or trigonometric art, charting/diagramming and algebraic formulation.
+@article
+,
+
+In General, set R1C1 to Off and select Show the 10 Most Recent Documents .
+In Edit, set all the first options to checked except Automatically Convert Date System . Set Display number of decimal places to blank (as integers are preferred). Preserve the display of dates and set 30 for 21st century cutoff.
+In View, click on show Formula Bar and Status Bar and hover for comments of all Objects . Check Show gridlines and set all boxes below that to auto or checked.
+In Chart, allow show chart names and set data markers on hover and leave the rest unchecked for now.
+In Calculation, Make sure Automatically and calculate before save is checked. Set max change to .000,000,000,000,01 without commas as goal-seeking is done a lot. Check save external link values and use 1904 system
+
+In Error checking, check all the options.
+In Save, select save preview picture with new files and Save Autorecover after 5 minutes
+In Ribbon, keep all of them checked except Hide group titles and Developer .
+ Edit Go To cell range A1:E5765 and Format Cells Number Number Decimal Places 4, Font Size 9 or 10, Fill (from the color wheel) a nice fuchsia and make the Border Dark Blue bold Outline.,
+Input "=Stretch_y" w/o quotes into cell D2;
+Input 6 into cell E2 and Format Cells Fill yellow.
+, Copy this data section three more times until cell A5765 has 2pi in it.
+z: Edit Go To cell range B6:B5765 and enter into B6 w/o quotes the formula, "=c_*COS(a*A6)" and Edit Fill Down.
+x: No z: Edit Go To cell range C6:C5765 and enter into C6 w/o quotes the formula, "=(((b^2-c_^2*COS(a*A6)*COS(a*A6))^0.5*COS(A6)))" and Edit Fill Down.
+y: With z: Edit Go To cell range D6:D5765 and enter into D6 w/o quotes the formula, "=(Stretch_y*(((b^2-c_^2*COS(a*A6)*COS(a*A6))^0.5*SIN(A6))+z)+Adj_y)" and Edit Fill Down.
+Adj_y: Edit Go To Cell range E6:E1445 and input 2.9473;
+Select cell E1446 and input w/o quotes the formula "=Change+E1445". Edit Go To cell range E1447:E2885  and input into E1447 "=E1446" and Edit Fill Down.
+Select cell E2886 and input w/o quotes the formula "=Change+E2885". Edit Go To cell range E2887:E4325  and input into E2887 "=E2886" and Edit Fill Down.
+Select cell E4326 and input w/o quotes the formula "=Change+E4325". Edit Go To cell range E4327:E5765  and input into E4327 "=E4326" and Edit Fill Down. Fix the bottom border line.
+ Select C6:D1445 and Format Fill Color Light Blue. This is the area of the bottommost single sphere of 4 spheres or cut spheres. Right now, with a,b and c_ set to 18, .8 and .6 respectively, we're doing cut sphere(s). Select cell range C6:D1445 and do Charts on the Ribbon (or Chart Wizard), All/Other, Scattered - Smoothed Line Scatter. Copy or Cut and Paste the chart which landed atop the data or to the side and paste in the Chart worksheet, where it should be pulled open to an approximate square at the lower left by hovering the cursor until it changes to the double-headed arrow and then grabbing the chart frame and pulling down and right. Select Chart Layout and get rid of Axes, Grid lines, and the Legend. Click in the Chart Area outside the Plot Area near the outer border and choose no line and no Fill. Do the same for the Plot Area. To do all the 4 spheres, select the cell range C6:D5765. In that case, the chart area will need to be a tall squeezed rectangle until the spheres appear round. You can Copy Picture atop the data to get an image like the one at the top of this article and use Grabber application if Copy Picture refuses to pick up the underlying data's image. Copy and Paste both data and a picture of your charts to the Saves worksheet.
+Try setting a,b and c_ to 100, .5 and .5 respectively and make sure the line weight is set to 1.
+,
+For more art charts and graphs, you might also want to click on Category:Microsoft Excel Imagery, Category:Mathematics, Category:Spreadsheets or Category:Graphics to view many Excel worksheets and charts where Trigonometry, Geometry and Calculus have been turned into Art, or simply click on the category as appears in the upper right white portion of this page, or at the bottom left of the page.
+

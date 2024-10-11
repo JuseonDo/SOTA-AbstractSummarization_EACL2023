@@ -1,0 +1,30 @@
+@summary
+launch the facebook app.
+
+@summary
+access your facebook account.
+
+@summary
+go to your profile.
+
+@summary
+open the about page.
+
+@summary
+tap “more about you.” on this screen, scroll down a bit and tap “edit” next to the “contact info” heading.
+
+@summary
+,
+
+@summary
+link your blog.
+@article
+ Locate the blue app icon with a white “f.” Tap to launch.
+ If you logged out of your previous Facebook session, you will be asked to log in. Enter your registered email address and password into the fields provided, and tap “Log in” to access your account.
+ Tap the three horizontal lines at the upper right of the screen. This will open the menu options for the app. At the very top of the list is your name; tap it to access your profile.
+ Just above the “Status” button is the “About” link. Tap it to open the About page.
+, Scroll down and tap the text field under the “Websites” heading. Type in the URL to your blog, and set the who can see and access the link by tapping the down arrow to the right of the heading.
+
+
+When you’re done, tap “Save” at the bottom of the page.
+

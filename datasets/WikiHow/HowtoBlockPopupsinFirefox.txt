@@ -1,0 +1,43 @@
+@summary
+open firefox.
+
+@summary
+click on the firefox menu button located at the top right corner of the browser.
+
+@summary
+click on “option.”
+
+@summary
+,
+
+@summary
+click the content panel at the top of the window.
+
+@summary
+,
+
+@summary
+block pop-ups.
+
+@summary
+effectively block pop-ups.
+
+@summary
+going to firefox add-ons.in the add-on manager tab, scroll down and click on "see more add-ons",
+
+@summary
+this directs you to firefox add-on page.
+
+@summary
+in the search results, point to pop-up controller.
+
+@summary
+after download complete, click on install.
+@article
+ Double-click the Firefox icon on the desktop, or click the small Firefox icon on the Taskbar.
+
+
+The icon looks like a fox circling a globe.;
+, The Preferences window will show up.
+,, Click the “Block pop-up windows” option to tick the check box. This will enable Firefox to block pop-ups while surfing the web.
+ If pop-ups are still showing even after enabling firefox block pop-up settings, then you will need to download a pop-up blocker from firefox add-ons., After opening the firefox browser, click the menu button. Next, click on add-ons,, type pop-ups in the search space provided at the top right corner of the screen. Press Enter key, Click on 'add to firefox', Thank you.

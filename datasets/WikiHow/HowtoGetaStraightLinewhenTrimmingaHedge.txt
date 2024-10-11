@@ -1,0 +1,17 @@
+@summary
+cut string the length of your hedge and some extra.
+
+@summary
+set a stake at each end of the hedge that you are trimming.
+
+@summary
+tie the string onto each stake.
+
+@summary
+trim the hedge down to the lowest point, following the string lines.
+@article
+ The extra should be enough to wrap around and tie onto the stakes.;
+, Hammer into the ground lightly. You can put in stakes and string lines lengthwise and width wise as needed.
+ Match the level of the string with the height at which you want to trim the hedge. The string line will act as a guide to get a uniform height and width.
+ The final look will be very professional.
+

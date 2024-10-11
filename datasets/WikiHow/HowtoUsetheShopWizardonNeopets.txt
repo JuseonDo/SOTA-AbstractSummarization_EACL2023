@@ -1,0 +1,37 @@
+@summary
+go to the shop wizard.
+
+@summary
+in the shop wizard box, type the name of the item that you are looking for.
+
+@summary
+,
+
+@summary
+choose what area you want the shop wizard to search.
+
+@summary
+narrow down your search - or not.
+
+@summary
+choose the minimum or maximum price for the item.
+
+@summary
+click "search".
+
+@summary
+click on it to buy it.
+
+@summary
+,
+
+@summary
+be aware that if you overuse the shop wizard, you will be told to wait 10 - 20 minutes before you can come back and use it.
+@article
+;
+,, Your choices will be "shop" and "gallery". Choose shop if you are looking for an item to buy.
+ You will be able to choose whether you want the wizard to search for items with the exact words you typed, or for an item with a similar name.
+ However, this step is not essential and may curtail your ability to find items.
+ On the search results page you will see a list of items. Click on the shop owner name. You will be taken to the shop with the item you searched for on the top of the page.
+, This is because a lot of people are using it at the same time and it places a bit of a strain on the system. If you have super shop wizard (SSW, for those who are premium), this will occur even more frequently because the SSW searches all shops and malls at once to find the cheapest prices.
+

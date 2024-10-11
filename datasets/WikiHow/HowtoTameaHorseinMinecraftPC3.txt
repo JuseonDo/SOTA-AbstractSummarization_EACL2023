@@ -1,0 +1,12 @@
+@summary
+to put a chest on a mule, or a donkey, have a chest in your hand and right click on the mule (donkey's) back.
+
+@summary
+use regular minecraft movement keys to move and left-shift to get off.
+
+@article
+ That will put the chest on. More tips:
+
+
+To access the chest, right click while riding the mule/donkey
+To remove the chest, right click while riding the mule or donkey and there will be an icon of a chest in the armor slot. Remove that chest via shift-clicking or dragging the chest to your inventory.

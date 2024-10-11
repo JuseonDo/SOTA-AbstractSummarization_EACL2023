@@ -1,0 +1,8 @@
+@summary
+click the small arrow in the upper-right corner.
+
+@summary
+click "log out" at the bottom of the menu.
+@article
+ You can find this on the right side of the blue Facebook header bar. The arrow points down, and looks like ▼.;
+, You will immediately be logged out of the Facebook website.

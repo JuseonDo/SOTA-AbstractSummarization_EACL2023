@@ -1,0 +1,57 @@
+@summary
+open bejeweled.
+
+@summary
+enter a new username/name if you have not already.
+
+@summary
+enter the main menu.
+
+@summary
+choose a game.
+
+@summary
+swap gems by clicking on them and then clicking on an adjacent (left, right, up, or down) gem to exchange their places to form a chain of three or more gems.
+
+@summary
+look to see that by swapping a gem, more options for other gems will fall into place.
+
+@summary
+try to get to the highest level possible by doing this.
+
+@summary
+think fast.
+
+@summary
+look for other gem chains as soon as you make the move to swap one.
+
+@summary
+click undo if you wish to undo a move you made.
+
+@summary
+use the hint button if you need to reset the board to the last usable state.
+
+@summary
+find chains of gems closer to the bottom of the game field.
+
+@summary
+swap to form a chain of five when possible.
+@article
+ You should hear the music begin to play and the loading progress bar on the bottom of the screen. This will turn to a "Click here to play" button for you to enter the main screen.
+ This will be used to track your personal profile and scores.
+ You will be presented with four gameplay options: Classic, Action, Puzzle, and Endless.
+ Each of these will be described in detail.
+ The more gems you chain, the more points you gain.
+
+
+
+5 gems in a line produces a hyper cube. Swapping a gem with a hypercube causes all gems like the one swapped to be cleared off the board and rewards points for each.;
+, It is a better strategy here to find chains closer to the bottom than the top so more cascade for more points.
+ If you reach level 18, a game mode called "Twilight" is unlocked. In this mode, gravity changes with each move, alternating from gems falling from the top and bottom.
+ This is the most important skill you'll need in this mode. If you have not yet learned to recognize gem patterns quickly, you can do so by practicing in other modes such as Endless.
+ Try to leave as little time gaps as possible by thinking of your moves in advance.
+ This will allow you to try several combinations of move patterns to clear each level.
+ If you click it again it will suggest a move to make for you.
+ This will allow more gems at the top to cascade or fall into place.
+ Hypercubes will allow you to gain more points to get to the next level.
+

@@ -1,0 +1,14 @@
+@summary
+visit any video game retail store.
+
+@summary
+purchase the disc version of minecraft for the ps3.
+
+@summary
+power on your ps3 console and insert the minecraft disc into the disc drive.
+
+@summary
+confirm the minecraft disc is inserted into your console’s disc drive whenever you want to play the game.
+@article
+ Minecraft for the PS3 is available from most video game retail stores, including GameStop, Walmart, and Best Buy, as well as online retailers such as Amazon and Newegg.
+ The game usually retails for between $15 and $20, but prices are subject to change based on the retailer., Your PS3 will automatically detect the new disc and begin the installation process, which takes between two and 10 minutes to complete. The console installs a small percentage of game files to allow for faster loading times during gameplay., Your PS3 will not launch Minecraft unless the disc is installed.

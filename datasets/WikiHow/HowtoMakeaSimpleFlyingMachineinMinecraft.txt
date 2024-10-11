@@ -1,0 +1,21 @@
+@summary
+place a block on the ground, then place a sticky piston facing any side.
+
+@summary
+place a block two blocks away from the piston, in the direction it is facing.
+
+@summary
+place a slime block behind the sticky piston placed earlier.
+
+@summary
+place two blocks above the sticky piston placed earlier.
+
+@summary
+place a block of redstone between the sticky piston placed earlier.
+@article
+ Having it in the air is critical, because if the slime blocks touch the ground, then they cannot move.;
+, Then place a sticky piston on that block facing the opposite direction of the piston previously placed.
+ Then place a slime block on top of that, a slime block on top of the first sticky piston, and another slime block on top of that.
+ Then place another sticky piston facing the same direction. Make sure it is touching the slime block on the very top of the flying machine.
+ Then the machine should be powered. Enjoy!
+

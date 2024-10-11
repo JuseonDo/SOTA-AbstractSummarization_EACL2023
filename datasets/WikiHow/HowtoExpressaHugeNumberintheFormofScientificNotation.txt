@@ -1,0 +1,24 @@
+@summary
+learn how the scientific notation is written.
+
+@summary
+follow the example in order to learn how to do this for yourself.
+
+@summary
+move the decimal point to get a number(a) when the absolute value is between 1 and 10.
+
+@summary
+count how many numbers past the decimal point.
+
+@summary
+note that the decimal point passed seven numbers.
+@article
+ A number is written in scientific notation when it is expressed in the form of a*10^n, where the absolute value of a is greater than or equal to 1 and less than 10, and n is an integer.
+ Here is the example number: 62,000,000.,
+
+62,000,000. ---> 6.2000000
+
+,
+
+62,000,000 ---> 6.2000000 The decimal point moved from the last 0 to 2.
+ Therefore the scientific notation form of this number is 6.2*10^7.

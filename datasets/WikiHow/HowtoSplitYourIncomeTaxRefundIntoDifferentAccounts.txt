@@ -1,0 +1,79 @@
+@summary
+determine the amount of your total refund.
+
+@summary
+decide which bank accounts you want your irs refund deposited into.
+
+@summary
+allocate and divide your refund the way you would the irs to split the refund.
+
+@summary
+print out irs form 8888 for the correct tax year.
+
+@summary
+add the amount you wish to be deposited into the second account on line 2a of irs form 8888.
+
+@summary
+,
+
+@summary
+repeat step six on line 2b of irs form 8888, writing the routing number of your bank for the second account.
+
+@summary
+,
+
+@summary
+include the account number for the second account on line 2d of irs form 8888.
+
+@summary
+,
+
+@summary
+fill in the amount of your refund that you wish to be deposited on line 3a of irs form 8888 if you are splitting your refund into three accounts.
+
+@summary
+write the amount you wish to be spent on bonds on line 4.
+
+@summary
+,
+
+@summary
+choose the corresponding box on line 1c: checking or savings.
+
+@summary
+add the name of any co-owner for the bonds on line 5b.
+
+@summary
+,
+
+@summary
+write the amount left over from your refund on line 7 to request a check from the irs in this amount.
+
+@summary
+,
+
+@summary
+add the totals, which should equal 0.
+
+@article
+ The amount of your refund will appear on different lines depending on which form you used to file your taxes.;
+, The refund can be split and deposited into as many as 3 different banks or different accounts in the same bank. A portion can also be used to purchase government bonds.
+ The total amount should be a whole number equal to your refund.
+ The following sub-steps work on Form 8888 for 2010.
+
+
+Write the amount of your refund that you wish to be deposited into the first account on line 1a of IRS Form 8888.
+Add the routing number of your bank on line 1b. You can find the routing number on the bottom left-hand side on a check or deposit slip.
+Include the account number on line 1d of IRS Form 8888. You can find the account number to the right of the bank's routing number on a check or deposit slip for the account.
+,,,
+
+
+On line 3b of IRS Form 8888, write the routing number of your bank for the third account. On line 3c, write the account number of your third account.
+Check which account on line 2c you would like this portion of your refund to be deposited into.
+Mark the correct box on line 3c.
+,
+
+
+Put the name of the individual the bonds are for on line 5a. The amount must be divisible by $50.
+Put the name of any other bonds you are purchasing on line 6a. Write the amount on 6b, which should be in some multiple of $50.
+,,

@@ -1,0 +1,13 @@
+@summary
+carefully read the privacy policy of any applications you choose to install.
+
+@summary
+use your application settings controls to manage your apps.
+
+@summary
+evaluate applications carefully before installing them.uninstall applications if you do not approve of their privacy policies.
+@article
+ These policies should detail what information the application uses and how it may be used.
+ Application settings are found under the main settings controls in Facebook.
+Each application has individual settings that allow you some control over your personal information.
+ Look at the applications' feedback, learn about the developer, and check with friends who use the app to get their feedback on the experience.,

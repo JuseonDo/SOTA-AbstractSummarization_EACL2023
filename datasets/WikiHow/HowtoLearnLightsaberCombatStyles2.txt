@@ -1,0 +1,13 @@
+@summary
+make quick, light blows.
+
+@summary
+keep your lightsaber in close.
+
+@summary
+don't go for many acrobatics.
+
+@summary
+use this style for blast deflection.
+@article
+ Try to get in as many attacks in as short a space of time as possible., Don't reach out. This helps to increase your defense., Use them if you have to, but be as fast as you can., The Fast style shares a weakness with Makashi: it's very easy for a strong opponent to bash through your defense.

@@ -1,0 +1,13 @@
+@summary
+enter a raffle.
+
+@summary
+register yourself in the event.
+
+@summary
+wait for the winning draw.
+@article
+ Find a raffle that has an iPad as its prize.
+ Buy a ticket in order to join the draw.
+ Raffle competition results vary on what kind of raffle it is. Be sure to check your raffle's information.
+

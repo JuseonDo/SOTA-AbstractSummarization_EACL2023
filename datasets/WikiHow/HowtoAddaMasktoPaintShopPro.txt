@@ -1,0 +1,18 @@
+@summary
+open up the image in paint shop pro.
+
+@summary
+click on layers >> new mask layer >> from image.
+
+@summary
+,
+
+@summary
+make your selections.
+
+@summary
+apply your mask.
+
+@article
+ You can find them for free all over the Internet. The one used in the article was found at About.Com.;
+,, Try the various radio buttons depending on what you want. If you have various images open, you can select the appropriate one.

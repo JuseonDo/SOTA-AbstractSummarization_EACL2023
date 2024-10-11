@@ -1,0 +1,16 @@
+@summary
+start a new status update.
+
+@summary
+click the smiley face button to open the mood and activities list.
+
+@summary
+browse through the available moods and activities.
+
+@summary
+select the mood or activity you want to post.
+@article
+ You can set your mood or activity for your status update, which is usually accompanied by an emoticon. There are a variety of different mood and activity emoticons to choose from. You can do this from the Facebook website or from the mobile app., If you're on the mobile site, tap the More button then tap the Smiley Face.
+ Each item will have a special emoji attached to it.
+ The emoji and message will appear at the bottom of your status update.
+

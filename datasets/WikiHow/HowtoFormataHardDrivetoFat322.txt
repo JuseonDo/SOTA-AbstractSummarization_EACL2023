@@ -1,0 +1,31 @@
+@summary
+open the mac hard drive on the desktop.
+
+@summary
+look for the hard drive listing on the left of desk utility.
+
+@summary
+click erase.
+
+@summary
+select the ms dos(fat) file system for the volume format option.
+
+@summary
+click erase.
+
+@summary
+wait for the formatting to be completed.
+@article
+ Then:
+
+
+Open Applications
+Open Utilities
+Open Desk Utility.
+ You'll see both the size of the drive, with the volume shown just beneath it.
+ This is found at the top of the screen. Stop! Have you done your data back-up first?
+
+, If you want to change the drive's name, do so but this is optional.
+ This time click the Erase located at the base of the screen. Expect a warning and click Erase again.
+ The resulting drive will be FAT32.
+

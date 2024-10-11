@@ -1,0 +1,30 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll down and tap icloud.
+
+@summary
+tap your apple id.
+
+@summary
+sign in with your apple id password if necessary.
+
+@summary
+,
+
+@summary
+tap contact information.
+
+@summary
+scroll down and slide the apple music, new apps and more button to the off position.
+@article
+ It's an app showing gray cogs that can be found one of your home screens.
+
+
+It may also be in a folder that's labeled "Utilities.";
+, It appears in the fourth group of menu options.
+ It's at the top of your phone screen.
+, It's the first button below your Apple ID.
+ The bar should turn white. You will stop receiving emails from Apple about new releases and recommended products.
+

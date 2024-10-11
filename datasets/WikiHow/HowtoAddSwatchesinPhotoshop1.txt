@@ -1,0 +1,13 @@
+@summary
+go to "windows" in the top menu.
+
+@summary
+select "swatches" from the windows menu.
+
+@summary
+delete any swatches that you don't want in the swatches palette.
+@article
+;
+, This will open the Swatches palette in a pop-up window. There will be some predefined colors already in the Swatches palette.
+ You can do this by clicking on the swatch, dragging it to the bottom-right of the palette window and dropping it into the trash can icon.
+

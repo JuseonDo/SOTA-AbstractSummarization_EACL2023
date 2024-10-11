@@ -1,0 +1,27 @@
+@summary
+verify you’re at level 16 or higher in dragonvale.
+
+@summary
+tap on the market icon from the dragonvale home screen.
+
+@summary
+,
+
+@summary
+tap on “dragons.” a list of all unlocked dragons available for purchase will display on-screen.
+
+@summary
+,
+
+@summary
+scroll to and tap on the air dragon.
+
+@summary
+select the option to purchase the air dragon for 750,000 gold coins.
+@article
+ Your current level status is displayed at the top left corner of the DragonVale Home screen.
+
+
+To advance toward level 16, tap on “Goals” at the DragonVale Home screen and complete the list of featured goals. The game will promote you to level 16 after you’ve completed the list of required goals.
+,, The Air Dragon can only be purchased for 750,000 gold coins. The Market does not accept gems in exchange for the Air Dragon., The Air Dragon will now be available in your Dragonarium.
+

@@ -1,0 +1,21 @@
+@summary
+do an internet search for your destination and the keywords "packages" and "deals.",
+
+@summary
+research travel packages on more than 1 website.
+
+@summary
+search for budget travel packages on websites where you reap rewards.
+
+@summary
+search for vacation packages that start and end on tuesdays, wednesdays and saturday afternoons.
+
+@summary
+experiment with adding on services.
+@article
+ These are commonly used travel industry keywords.
+ Hotwire, Expedia, Travelocity and Kayak all offer a search method that pulls together results from many airlines, resorts, cruises and hotels. Make sure you click the "vacation package" button in the search box.
+ If you hold a mileage credit card, you may receive double miles for booking through your airline. United, Delta, Allegiant, Southwest and other airlines offer a vacation package search function.
+ These days of the week traditionally result in lower airfares.
+ Look at the bottom of the page to see if you can add airport transfers, a rental car or attractions for less than you would pay when booking separately.
+

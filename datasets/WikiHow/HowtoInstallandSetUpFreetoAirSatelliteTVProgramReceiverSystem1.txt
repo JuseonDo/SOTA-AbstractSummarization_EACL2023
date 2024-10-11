@@ -1,0 +1,54 @@
+@summary
+select a location with a direct line of sight in the direction of the satellite.
+
+@summary
+secure the dish in the selected position.
+
+@summary
+adjust the dish direction so it points 95° southwest and tilt it up slightly.
+
+@summary
+connect the satellite finder using the 6 foot (1.8 m) long coaxial cable.
+
+@summary
+start rotating the dish and use the beeping to get the horizontal position correct.
+
+@summary
+tighten the rotation control screw completely to fix this angle.
+
+@summary
+,
+
+@summary
+adjust the vertical angle in the same manner as the horizontal.
+
+@summary
+connect one end of the long outdoor coaxial cable to the satellite dish.
+
+@summary
+,
+
+@summary
+neatly staple the wire along the edge of the roof or balcony.
+
+@summary
+drill a hole in the wall to pass the wire from outdoor to indoor.
+
+@summary
+connect the wire to the receiver in the room where it is located.
+
+@article
+ Generally high locations such as a rooftop or balcony are used. Using an analog compass will make locating the angle easier. In the example, this would be a location facing 95° southwest.;
+, The dish must be fixed tightly at the mounting point as it must be able to resist wind force. Otherwise, it might fall and injure people passing by or damage property below.
+
+
+If the dish is mounted on a wood roof, caulk around the base to make it waterproof.
+ Tighten the screws controlling the direction adjustment, but do not tighten them completely.
+ Turn on the satellite finder and input the satellite name (Galaxy 3C) and downlink frequency number (11780 Hz). Continuous beeping with quiet intervals should be heard.
+ If the beeping interval gets shorter, you are moving in the correct direction. If it gets longer, rotate in the opposite direction.
+, The receiver dish will now be positioned to catch the satellite signals at the highest quality and strength.
+, Never leave the wire hanging freely. It could become a hazard or be damaged.
+
+
+
+WARNING: When drilling a hold in the wall, make sure there are no electrical wires or water pipes at the position you want to drill. Drilling through a live electrical wire can cause serious electric shock injury. Drilling through a water pipe can cause water damage to the building.

@@ -1,0 +1,16 @@
+@summary
+open launchpad.
+
+@summary
+select the app you wish to delete.
+
+@summary
+click the small x that appears in the corner of the app.
+
+@summary
+click delete when prompted to confirm the action.
+@article
+ Click the grey Launchpad icon in your dock to launch the interface.;
+, Click and hold the icon until it begins to jiggle.
+ If the "X" does not appear then either you are not logged in as the administrator or the app was not purchased from the Mac App Store., This will automatically delete the application from your computer.
+

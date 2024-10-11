@@ -1,0 +1,11 @@
+@summary
+find the small card inserted into the r4i.
+
+@summary
+download the game files.
+
+@summary
+remove the micro sd card from the adaptor and replace it into the r4i cartridge.
+@article
+ This is a micro SD card, and it'll be half of the brains for this project. For a start, you're going to need a Micro SD card adaptor; this will allow you to download files onto the Micro SD.
+ This really varies for different games. Some are homebrews, and some are slightly shady versions of copyrighted nintendo games- download at your own risk. So let's assume you have chosen your game. Follow the corresponding website instructions to download the files onto your computer, and drag them into the Micro SD card folder., Insert this into your DS/3DS and select it on the menu. You are now free to play your games!

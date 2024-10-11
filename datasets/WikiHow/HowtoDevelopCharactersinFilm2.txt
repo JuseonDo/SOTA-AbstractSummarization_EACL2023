@@ -1,0 +1,13 @@
+@summary
+what is the heroes goal?,
+
+@summary
+who is the opponent?,
+
+@summary
+what are the characters traits?
+@article
+;
+, opposition is an important part of a story so consider who your antagonist is and what powers/abilities they possess.
+ physical, sociological(married, homeless, class), psychological (fears, phobias)
+

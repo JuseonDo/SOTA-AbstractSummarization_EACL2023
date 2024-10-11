@@ -1,0 +1,12 @@
+@summary
+use the pause command to make the program wait for the user.
+
+@summary
+place the pause command where you want the program to wait.
+
+@summary
+hide the pause dialog.
+@article
+ This will cause the computer to wait for any key to be pressed. The key will not be printed to the screen. If you want to delay for a specific amount of time, see one of the following methods. , The user will be prompted to continue.
+ You can add >nul to the end of any command to send its output to the "Null Device" so it doesn't appear on the screen. Make sure you don't add >null to the end; that will create a new file called null and put the output there.
+

@@ -1,0 +1,9 @@
+@summary
+take a word, like cat.
+
+@summary
+for a word of which it does matter the gender, add ot for a girl and im for a boy.
+
+@article
+ A cat is a Khatul in Hebrew. This word is an example of one that does not differ by gender. All you do is add 'im' to the end. Khatulim is for male cats, and Khatulot is for female cats.;
+,

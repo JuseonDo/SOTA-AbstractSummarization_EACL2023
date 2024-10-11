@@ -1,0 +1,13 @@
+@summary
+hold the power button.
+
+@summary
+press and release the home button.
+
+@summary
+find the screenshot.
+@article
+ The button should be located on either the top or side of your iPhone, depending on your iPhone version.
+ Immediately after holding the Power button, press and release the Home button. The Home button is the circular button located on the bottom border of your iPhone.
+ The screenshot should be located in your Photos app. It may be under a certain folder.
+

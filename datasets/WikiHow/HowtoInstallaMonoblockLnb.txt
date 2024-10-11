@@ -1,0 +1,31 @@
+@summary
+first check if your dish is compatible with a monoblock.
+
+@summary
+mount the monoblock properly on to the dish.
+
+@summary
+now, set the correct dieqc settings in all connected receivers.
+
+@summary
+you should find these settings in the installation menu or under "dish settings" or "lnb settings" on your receiver.
+
+@summary
+,
+
+@summary
+now align the dish to hotbird 13° e. first set the right elevation for your location.
+
+@summary
+get the best signal as possible.
+
+@summary
+now, if you found the satellites and have enough signal, you can do a channel scan on both satellites.
+
+@article
+ You should have an 80 centimeter (31.5 in) dish without multi feed adaptor.;
+, It's very important that you mount the left device on the dish, if you stand behind the dish an look into the sky. The left eye should now be in the center of the dish. This points to HotBird 13°E
+
+, Most Monolock LNBs use DiEqC A/1 for Hotbird and DiEqC B/2 for Astra.
+, There are several websites to find out the proper elevation for your location. Then move the dish slightly from south to south-east until you have signal strength and signal quality on your receiver. You should find signal indicator in the same menu as you can set the DiEqC settings.
+ You should reach at least 80% signal strength and quality to get a good signal.

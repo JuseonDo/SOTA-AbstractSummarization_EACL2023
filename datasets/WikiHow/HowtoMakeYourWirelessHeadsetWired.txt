@@ -1,0 +1,73 @@
+@summary
+buy a dc-dc step-up step-down module.
+
+@summary
+cut the usb cable about 6" - 10" from the end that plugs into your pc or console.
+
+@summary
+use the utility knife to slice the insulation of the usb cable, about an inch down from where you cut it, on both sides.
+
+@summary
+cut away the other wires and excess insulation.
+
+@summary
+use your wire cutters to strip about half of the each exposed wire.
+
+@summary
+twist the bare stranded copper and insert them into the module.
+
+@summary
+adjust the voltage output of the module.
+
+@summary
+cut the other end of the usb cable off (the end that would plug into a phone or something).
+
+@summary
+,
+
+@summary
+use the utility knife and slice the insulation about 3" - 4" down from the cut.
+
+@summary
+cut away the excess wires and insulation.
+
+@summary
+remove the ear pad from the side that the batteries insert into.
+
+@summary
+,
+
+@summary
+use a small screwdriver (or t6 torx if you're working on the x42) to remove the screws and reveal the wires insides.
+
+@summary
+take off the cover for the batteries and insert the end of the usb cable in through the opening by the spring.
+
+@summary
+using the soldering iron, solder the red wire to the positive terminal.
+
+@summary
+solder the black wire to the negative terminal (the one with spring on the other side).
+
+@summary
+close it all back up and put the ear pad back on.
+@article
+ You can find them cheaply online. You'll need a few more tools, too, listed below.;
+, This is where we'll connect the step-up step-down module.
+ Pull out the tiny wires inside.
+ We only need the red and black wires in the cable.
+ Be careful not to use too much pressure. The wires are very small; too much pressure and you'll cut the wire instead of stripping it.
+ The end that goes into the PC/console gets screwed to the "IN" terminals and the other end for the headset gets screwed to the "OUT" terminals. Red wire for the positive and black wire for the negative.
+ To do this, plug in the USB cable into your PC or console. You'll be using the USB ports on the PC or gaming console as your power source, but really you could even plug it into a phone charger and use that as your power source. This particular module can take any input of 3.5-28V and give an output of 1.25V-26V. Once it's plugged in you'll need to use our 1.4mm screwdriver to adjust the small screw on the module. Using your multimeter to read the voltage, turn the screw until the output of the module reads 3V.
+, Pull out the wires.
+ Strip the ends of the red and black wires. Set the cable aside for now.
+, Be careful of the part with the speaker in it. It is only connected by two small wires that could pull out of their soldered joint.
+ (Alternatively, you can drill a hole through the side to insert the cable through. Use a bit slightly larger than you USB cable. Use silicone, or more preferably, a hot glue gun to keep the wire in place.)
+
+, There should be a speaker wire connected here.
+ Make sure you solder it to the one with speaker wire as well. Keep in mind you aren't soldering these wires to either of the terminals that has the red wire connecting the positive and negative terminals.
+ You've just turned your wireless headset into a wired headset!
+
+
+Just remember we aren't replacing any receiver, just the batteries, so don't throw it out!
+

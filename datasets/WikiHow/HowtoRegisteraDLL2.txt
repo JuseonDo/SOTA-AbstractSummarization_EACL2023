@@ -1,0 +1,25 @@
+@summary
+type “cmd” in the vista search box.
+
+@summary
+,
+
+@summary
+right-click on cmd.
+
+@summary
+type regsvr32 "path and filename.dll" after the prompt.
+
+@summary
+,
+
+@summary
+watch for error messages.
+@article
+, Choose Run As Administrator from the context menu.
+,
+
+
+If you receive a message stating that the attempt to register the DLL failed, double-check that you have spelled the DLL name correctly.
+In Windows Vista, you may need to tweak permission settings to allow the registration to go through.
+

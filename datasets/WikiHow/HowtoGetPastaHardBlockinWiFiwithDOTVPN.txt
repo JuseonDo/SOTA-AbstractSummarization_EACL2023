@@ -1,0 +1,29 @@
+@summary
+open up "google chrome".
+
+@summary
+if successful, you should be on the "google chrome store" with the "dotvpn - free and secure vpn" label on your screen.
+
+@summary
+once downloaded, open up the extension.
+
+@summary
+simply enter a few details to create an account!,
+
+@summary
+once your account is created, click on "connect" if you haven't connected already!
+@article
+ If you cannot find it, just search for it on the "Start Menu"! Once Chrome is open, search for "DOTVPN" on your search bar. Click the top result!;
+, Click on "Add Extension" in the top right corner!
+
+, Go to "Don't have an Account? Sign Up!" at the bottom of the extension.
+ All of these are required to make an account, so remember to be prepared!
+
+
+Your first Name
+Your last Name
+Your Email Address
+Your Password
+
+, You're all set! Enjoy your Block-Free tool! (No Email Verification Required!)
+

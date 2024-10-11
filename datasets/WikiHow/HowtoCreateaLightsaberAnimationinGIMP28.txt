@@ -1,0 +1,28 @@
+@summary
+http://registry.gimp.org/node/18522 .
+
+@summary
+now, open gimp.
+
+@summary
+,
+
+@summary
+create a selection slightly smaller than the desired with of the lightsaber 'blade'.
+
+@summary
+,
+
+@summary
+now, right-click on your selection.
+
+@summary
+wait for the script to do it's work - taa da!
+@article
+ <--- Download this File. Install it to the following folder: C:\Program Files\GIMP\share\gimp\2.0\scripts;
+,,, A menu will appear. Select Script-Fu > Blur > Lightsaber. Click on it.An options box will come up. Select the desired Colour and Width of the lightsaber, and click OK.
+ You will now have a lightsaber.
+
+
+Please Note: In some High Contrast photos, this effect won't always be visible. To fix this, simply undo the effect, open the options again, and tick the box "alpha mode".
+

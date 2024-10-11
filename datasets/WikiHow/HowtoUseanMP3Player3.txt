@@ -1,0 +1,16 @@
+@summary
+tap the "music" app.
+
+@summary
+tap the tabs at the bottom to browse your playlists.
+
+@summary
+tap a song to play it.
+@article
+ Look for the music note surrounded by an orange box.
+ "Artists" breaks down the songs you synced by performer, "Playlists" groups them by lists, and so on.
+
+
+Tapping "More" gives you more sorting options like "Albums" and "Genres".
+ Use the controls at the bottom of the screen to pause and skip forward or backward in the song.
+

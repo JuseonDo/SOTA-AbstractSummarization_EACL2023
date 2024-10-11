@@ -1,0 +1,19 @@
+@summary
+open your iphone’s settings.
+
+@summary
+tap general.
+
+@summary
+scroll down and tap reset.
+
+@summary
+tap reset network settings.
+
+@summary
+enter your iphone's passcode if prompted.
+
+@summary
+tap reset network settings.
+@article
+ This app is grey with gears on it. You'll usually find it on the Home Screen., This option is near the top of the "Settings" page., It's at the bottom of the page., This will be in the middle of your screen., You won't be able to use Touch ID for this step., It's at the bottom of the screen. This option will cause your iPhone to remove all of the stored Wi-Fi networks and passwords on your phone. From here, you can connect to your usual network from scratch.

@@ -1,0 +1,13 @@
+@summary
+find a real estate agent.
+
+@summary
+ask to change your house's portal location to brimhaven.
+
+@summary
+teleport to your house.
+@article
+ There are agents in Falador or Varrock, as well as a few other places.
+ This will cost money, so be sure to bring some.
+ You will arrive in front of the house portal in the middle of Brimhaven.
+

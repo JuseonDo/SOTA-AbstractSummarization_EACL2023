@@ -1,0 +1,45 @@
+@summary
+open the google translate app.
+
+@summary
+tap the ☰ button.tap offline translation.
+
+@summary
+scroll down to find the language you want to download.
+
+@summary
+tap the "download" button next to a language.
+
+@summary
+tap download to confirm.
+
+@summary
+monitor the download.
+
+@summary
+tap the ☰ button.tap offline translation.
+
+@summary
+browse the downloaded languages section.
+
+@summary
+tap update to update a downloaded language.
+
+@summary
+tap upgrade to download a higher-quality version.
+
+@summary
+tap the "delete" button to remove downloaded translation files.open the google translate app.tap the language in the upper-left corner.
+
+@summary
+tap the language you want to translate from.tap the language in the upper-right corner.
+
+@summary
+tap the language that you want to translate to.type or paste text to be translated.tap the microphone to speak and translate.tap the camera button to scan and translate written text.tap the squiggly line button to draw and translate characters.
+@article
+ You'll find this in your list of all apps, labeled "Translate.";
+, You'll find this in the upper-left corner.,, Note that not all languages that Google Translate supports are available for offline use., It looks like a down arrow pointing at a horizontal line., You'll be shown the size of the offline translation files before the download starts.
+
+Your device will need to have an internet connection in order to download language files for later use offline.
+ The language will be moved to the "Downloaded languages" section, and you'll see a progress circle., You can see which languages you have downloaded and if there are any updates available for them.,, Languages you've downloaded will be at the top of the list., This will make sure you have the latest version of the language for translating., Sometimes an improved version of an offline language will become available. Tap Upgrade to install it., This button looks like a trashcan. Removing offline translation files that you don't need can help free up space on your device.,,, If you're offline, this will need to be one of the languages that is downloaded to your device. Downloaded languages have a checkmark next to them.
+, This will also need to be a language that is available offline. English is available offline by default.,,,,

@@ -1,0 +1,44 @@
+@summary
+go to https://www.twitter.com in a web browser.
+
+@summary
+log in to twitter.
+
+@summary
+click on your profile image in the upper-right corner of the window.
+
+@summary
+,
+
+@summary
+click on settings and privacy.
+
+@summary
+scroll down and click on deactivate my account.
+
+@summary
+click on deactivate @(username).
+
+@summary
+,
+
+@summary
+enter your twitter password.
+
+@summary
+,
+
+@summary
+click on deactivate account.
+@article
+ Type https://www.twitter.com in the address bar and press ⏎ Return. Then click on Log in in the upper-right corner of the screen.
+
+
+You can't deactivate your account from the Twitter mobile app.;
+, Type your Twitter username or email, and your password into the labeled fields and click on Log in.
+, It's near the bottom of the drop-down menu.
+ It's at the bottom of the page.
+,,
+
+
+Twitter retains your account information for 30 days, so if you have a change of heart and want your account back any time before that, you just have to log in. If not, it will be gone forever.

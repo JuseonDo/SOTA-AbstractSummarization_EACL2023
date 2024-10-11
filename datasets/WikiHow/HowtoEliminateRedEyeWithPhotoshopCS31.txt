@@ -1,0 +1,27 @@
+@summary
+open up adobe photoshop cs3.
+
+@summary
+click and hold the bandage icon on the left side of the screen.
+
+@summary
+select the area you want to correct with the photoshop red eye tool.
+
+@summary
+release the area that you selected.
+
+@summary
+do the same for the other eye.
+
+@summary
+,
+
+@summary
+you're finished!
+@article
+;
+, Select the option Red Eye Tool that slides out as an extra feature.
+ This tool allows you to select the area that you want the red eye tool to look in for a circle object that represents the eye.
+ The program will cover the pupil with a darker color. From close up it may look a little weird but from the original zoom distance it looks good.
+, Enjoy your natural colored eyes on the photos.
+

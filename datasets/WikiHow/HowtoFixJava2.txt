@@ -1,0 +1,17 @@
+@summary
+consider using other methods to fix java if you don't want to completely remove the version that you already have installed.
+
+@summary
+make sure you don't have any software installed on your computer that is blocking java from running properly.
+
+@summary
+use the correct version of java that matches the software that you are trying to run.
+
+@summary
+consider reinstalling your operating system if other attempts to repair java fail.
+@article
+ There are many tools available such as Microsoft Windows Installer Cleanup Utility and Uniblue Registry Booster that can detect Java errors and repair them.
+ Some antivirus programs may misinterpret Java as a software that is threatening your system's security and consequently you will see a message saying that Java was not found.
+ You will not be able to run programs that require Java if the version of Java that you have installed on your computer is incompatible with the program that you wish to open. You can try to change the settings on other programs to make them compatible with Java or upgrade or downgrade your Java version.
+ You will have to format your hard drive, which will consequently delete all previous data stored on your computer including Java. You should then be able to install Java correctly from scratch after the operating system has been reinstalled.
+

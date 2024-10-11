@@ -1,0 +1,19 @@
+@summary
+go to inkscape and download the appropriate file.
+
+@summary
+install the software.
+
+@summary
+check out the documentation.
+@article
+
+
+
+The install uses 170+ megs.;
+, It is a fairly comprehensive program, so it will probably be a few minutes.
+
+
+If you have a particular place that you put your graphics software, this is the time to designate it.
+ As stated before, this is a pretty powerful program. It has a bit of a learning curve.
+

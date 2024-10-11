@@ -1,0 +1,50 @@
+@summary
+power down and unplug your ps3.
+
+@summary
+click the apple menu on your mac.
+
+@summary
+click system preferences.
+
+@summary
+,
+
+@summary
+click bluetooth.
+
+@summary
+click turn bluetooth on (if it isn't).
+
+@summary
+,
+
+@summary
+connect the ps3 controller to your mac via usb.
+
+@summary
+let the controller charge (if necessary).
+
+@summary
+press and hold the playstation button for 2 seconds.
+
+@summary
+unplug the controller and wait for it to sync.
+
+@summary
+enter 0000 as the passcode if prompted.
+
+@summary
+set up your controller in game.
+@article
+ If you have a PS3 nearby that you normally use your controller for, turn it off and unplug it to prevent accidentally turning it on while you pair the controller with your Mac.
+ You'll see this in the upper-left corner of the screen.
+, If you don't see this option, click the ⋮⋮⋮⋮ button to return to the main System Preferences menu.
+, You'll need a Mini-USB to USB cable. You can use the one that came with your controller or any other Mini-USB cable.
+ If the controller hasn't been charged for a while, you may want to let it charge for about 30 minutes before proceeding with setting up the Bluetooth connection.
+ You should see the lights start to flash on the top of the controller.
+ It may take a moment, but the PS3 controller will appear in the list as "Connected."
+
+, If your Mac prompts you for the device's passcode, type 0000 and click Pair. This usually isn't required on newer Macs.
+ Now that the PS3 controller is connected to your computer via Bluetooth, you can use it in any game that supports gamepads. You may have to manually set the controller buttons for game functions; this varies from game to game.
+

@@ -1,0 +1,30 @@
+@summary
+turn on the xbox one.
+
+@summary
+open the apps menu.
+
+@summary
+install the video app.
+
+@summary
+go to "settings" and navigate to the "preferences" section.
+
+@summary
+select a video file on your pc.
+
+@summary
+right-click the video file.
+
+@summary
+select xbox one on the drop-down list that will appear.
+@article
+ Locate the power button and press to turn on the console.;
+, You can find this on the "Start" screen.
+ Select the Xbox Video App. Select "Install."
+
+, Under the "System and App" section, enable the option labeled "Allow Play to Streaming."
+
+, This will be file you want to stream.
+ Select the "Play To" option.
+ The video will automatically play on your TV with the help of the Xbox One.

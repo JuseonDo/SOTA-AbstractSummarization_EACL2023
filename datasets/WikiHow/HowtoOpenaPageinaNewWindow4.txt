@@ -1,0 +1,22 @@
+@summary
+look for the "add new tab" icon at the top of your browser.
+
+@summary
+click the button.
+
+@summary
+enter the url of the page you want to see in the address bar.
+
+@summary
+,
+
+@summary
+click ↵ enter (windows) or ⏎ return (mac).
+@article
+ In general, this is near the URL text box and either looks like a small tab or has a plus sign, but the exact appearance will depend on your browser.
+
+
+In Chrome, it resembles a blank box, and in Safari and Firefox it has a plus sign on it.
+ You'll see a blank page.
+, You'll see the desired page load up.
+

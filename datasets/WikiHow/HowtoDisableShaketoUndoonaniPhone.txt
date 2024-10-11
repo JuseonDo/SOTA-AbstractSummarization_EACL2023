@@ -1,0 +1,25 @@
+@summary
+open your iphone's settings.
+
+@summary
+tap general.
+
+@summary
+,
+
+@summary
+tap accessibility.
+
+@summary
+scroll to the fourth group of options and select shake to undo.
+
+@summary
+,
+
+@summary
+slide the shake to undo button left to the "off" position.
+@article
+ Do so by tapping the grey gear icon on one of your Home screens (it might also be in a folder named "Utilities").;
+,, This is below the "Home Button" option.
+, It should turn grey. Your Shake to Undo feature should now be disabled--shaking your phone will no longer undo text.
+

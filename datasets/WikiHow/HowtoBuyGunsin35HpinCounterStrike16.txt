@@ -1,0 +1,29 @@
+@summary
+start counter strike 1.6;
+
+@summary
+,
+
+@summary
+press the console button "~" which is just bellow escape button.
+
+@summary
+,
+
+@summary
+write "bind f1 deagle" in the console (without speech marks).
+
+@summary
+join any map of which you are either sure that 35hp is going to be next map, or otherwise vote for 35hp yourself.
+
+@summary
+now while the map is loading, keep on pressing quickly f1.
+
+@summary
+you have got your gun.
+@article
+,, You can write any gun you want in place of deagle. Search on net for binding weapons for CS 1.6 and you'd get the specific names for the guns. Make sure you buy a gun with maximum ammo, without reload.
+ If it is already running, this trick won't work. The map MUST start from beginning.
+ Keep doing it even while you select you T/CT team and player. The time to buy the gun is VERY short. So make sure you press it quick. The time to buy weapon is just after the loading time, so keep pressing well before it i.e. during the load time.
+ But when the game commences, you will lose all your secondary ammo i.e. you will only have bullets that are in gun. No reload. This is a problem with this bug.
+

@@ -1,0 +1,9 @@
+@summary
+in battlefield 2 there's even a way to unlock all the weapons that were probably set to get unlocked later on or by completing some task.
+
+@summary
+first, create a backup copy of the file keep it safe (in case when we edit the file may be corrupt and the game may...
+@article
+ But you can easily gain access to all these weapons without moving a muscle. Now this procedure involves editing the game file so be aware.
+ BLAST!!!). Find the file "unlocks.py" (HINT : "\python\bf2\stats") and open it up with any text editor. Then go to line 44 and then change the "defaultUnlocks = " to "defaultUnlocks = ". And save the file and open up your game, you must have all the weapons unlocked.
+

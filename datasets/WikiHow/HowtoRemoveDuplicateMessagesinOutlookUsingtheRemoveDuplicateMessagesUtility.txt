@@ -1,0 +1,25 @@
+@summary
+download the free remove duplicate messages utility: .
+
+@summary
+install the remove duplicate messages outlook utility.
+
+@summary
+launch the utility.
+
+@summary
+configure the utility.
+
+@summary
+configure additional settings if needed.
+
+@summary
+run the utility.
+@article
+;
+, Do to this, execute the downloaded OutlookMessagesRemoveDuplicates.exe file.
+ Use OutlookFreeware.com Utilities shortcut on your Desktop or Windows' Start Menu -> OutlookFreeware.com Utilities.
+ Click the Configure button (1) to select the required Outlook profile (2), Outlook folders to search duplicates (3) and click the OK button (4).
+ You can delete duplicate emails permanently (1) or move them to the specified folder (2). If you duplicates were not recognized by the utility, try to set the advanced mode (3).
+ Click the Run button. The utility will find all duplicate messages and delete or move them to the specified folder.
+

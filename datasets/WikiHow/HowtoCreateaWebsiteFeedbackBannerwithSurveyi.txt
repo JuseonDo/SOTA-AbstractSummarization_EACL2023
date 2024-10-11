@@ -1,0 +1,165 @@
+@summary
+login to the surveyi website.
+
+@summary
+click sign in at the top of the page and enter your surveyi account details.
+
+@summary
+click the create survey button to begin defining what kind of feedback you would like from your website users.
+
+@summary
+,
+
+@summary
+click an appearance template for your survey from the icons available to select one, or pick one of your own if you have any saved templates.
+
+@summary
+,
+
+@summary
+enter a name for your survey and a display name which your website users will see as the title if they access it.
+
+@summary
+,
+
+@summary
+choose the feedback - website sample survey from the sample surveys list to get you started by clicking the select button.
+
+@summary
+,
+
+@summary
+on the survey options page click the questions icon if you wish to change the question content or add or remove questions.
+
+@summary
+it is always worth previewing your survey to make sure all is in order before you launch it because you cannot make further edits after launching.
+
+@summary
+if you are fully happy with your survey appearance and wish to make no further changes to the question content you can launch your survey by clicking on the launch icon at the top of the survey options page, and then click the launch button.
+
+@summary
+to set up the popup window for your website click on the access button on the survey options page.
+
+@summary
+on the new response group page type a name for your response group which is for your reference only and click the enabled check box.
+
+@summary
+click the popup banner button on the response group options page to configure your website popup banner.
+
+@summary
+,
+
+@summary
+configure your site popup behaviour on the popup banner page with the following options:
+
+@summary
+popup enabled - switch the popup on or off.
+
+@summary
+configure the size and position of your site popup banner:
+
+@summary
+popup width - control the width in pixels of your popup banner.
+
+@summary
+choose the colours of the popup banner here.
+
+@summary
+next choose the style of the buttons for your popup banner.
+
+@summary
+enter the content for your message using the editor section.
+
+@summary
+copy the code from the code window to the clip board by selecting it and typing ctrl - c or selecting copy from the edit menu of your browser.
+
+@summary
+,
+
+@summary
+paste the code copied in the previous step into your website html code, preferably just before the closing of the body tag, although if you would like to position it within a particular div or element within your site this is also possible.
+
+@summary
+congratulations, your banner should now be working!,to view your results click back to the survey options page
+
+@summary
+,
+
+@summary
+click on the view responses icon.
+
+@summary
+to view responses click on the icons to the right of each response in the list to view each response as it would have been seen in the original survey, or to view it in a printable pdf file.
+
+@summary
+,
+
+@summary
+to export individual responses for individual questions click on the export data button above the result listings.
+@article
+;
+,
+
+
+Or if you don't have a Surveyi account, visit Surveyi and register.
+,,,,
+
+
+You might want to change 'the website' for the name of your own website for example. To do so click the Edit button underneath the question you would like to alter.
+To change the text make sure the text tab is highlighted, modify the text and click Save at the bottom of the page.
+You can preview changes to your questions by clicking the Update Preview button below the editor.
+To navigate back to the Survey Options page click Back on the edit questions page, or click on Survey Options on the bread crumbs at the top of the page:
+
+, To preview your survey click the Preview button on the Survey Options page.
+
+
+When you click the preview button, your preview will appear in a new browser window or tab. To close your preview simply close the browser window or tab to get back to the Survey Options page.
+
+
+
+Note that your survey will still not be public until you enable at least one Response Group to collect data.
+ and at the bottom of the Survey Access page click the Add Group button.
+
+
+
+Ensure that the response group type is set to Private Group, which it is by default.
+You can optionally fill out restrictions underneath for if you only want the survey available for a certain time limit for example.
+Click the Save button at the bottom of the page when you are happy with your selections.
+,
+
+Block after your survey is accessed - stops the popup appearing for each of your website users after they have accessed your survey via your popup banner.
+
+Close survey window when complete - the popup loads in a new survey window which can be closed automatically when your survey is completed and your survey user will be back on your website.
+
+Show survey logo if applicable - shows your survey logo if you have uploaded one and you have the right account type.
+
+Trigger popup after visits - control the number of visits each of your website users makes to the page containing the popup code before triggering the popup banner.
+
+Trigger popup again after visits - control the number of visits to the page containing the popup code before triggering the popup again each subsequent time. This loops round repeatedly until the user responds to the popup banner. Enter 0 if you would only like the popup to appear once.
+
+Yes button text - the text shown on the button your website user clicks on to access the survey.
+
+No button text - the text shown on the button for your survey user to click if they would not like to access your survey right now.
+
+Never button text - the text shown on the button for your survey user to click if they would not like the popup to appear again for this response group.
+ Make sure the banner is big enough to fit in all of your content text.
+
+Popup height - configure the height in pixels of your popup banner. Again ensure it is big enough to contain the content.
+
+Border width - select the width in pixels of the border running around the edge of your popup banner. If you would not like a border enter 0.
+
+Position from top - choose the position from the top of the containing element on your website where you would like the popup banner to appear.
+
+Position of centre from left - set the distance from the centre of the popup window from the left side of the containing element on your website. You can specify this as a percentage of the containing element (generally the browser size), or a fixed number of pixels. 50% should place the popup banner right in the middle of your site depending on where you put the popup code.
+ You can click on the picker icon to bring up a window with a range of colours to select, or if you know the colour code you would like you can enter it in the text box.
+ There are a range of coloured buttons available, and also a browser standard button, the appearance of which will vary depending on which browser your website user is using.
+
+
+
+Click the HTML Code button if you would like to edit the HTML code which forms the popup invitation directly.
+Click the Update Preview button to view the content as it will appear on your website.
+, Note that the place you paste the Surveyi code into will have an impact on the position of the popup banner because the positions are relative to the containing element.
+ All you need to do is test it, and make adjustments where necessary.
+, Then click on the View All button.
+, Then click on the Excel icon to export to a CSV file in your spreadsheet application, or click the PDF icon to view a printable report of individual question results.
+

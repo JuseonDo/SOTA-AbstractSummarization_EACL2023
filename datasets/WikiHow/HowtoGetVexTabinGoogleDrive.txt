@@ -1,0 +1,15 @@
+@summary
+open google drive by going to drive.google.com;
+
+@summary
+,
+
+@summary
+look on the top sidebar for add-ons and drag your mouse over it.
+
+@summary
+search for vex tab in the search bar.
+@article
+,  You will see the option to add Add-Ons.  Click that.
+  When you click it you will see a detailed description for Vex Tab.  Click the price highlighted in green(free) and then the terms of use will pop up.  Read it and agree to the terms.  It will disappear and later will appear a sign that Vex Tab is done installing.  Just click on it to get started!
+

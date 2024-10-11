@@ -1,0 +1,27 @@
+@summary
+go to google images advanced search at https://www.google.com/advanced_image_search?hl=en.
+
+@summary
+select one of the following from the "usage rights" dropdown menu:
+
+@summary
+labeled for reuse - your results will only include images labeled with a license that allows you to copy and/or modify the image in ways specified in the license.
+
+@summary
+type in a keyword to search for at the top and click the "google search" button.
+
+@summary
+,
+
+@summary
+select an image to use.
+@article
+;
+,
+labeled for commercial reuse - Your results will only include images labeled with a license that allows you to copy the image for commercial purposes, in ways specified in the license.
+labeled for reuse with modification - Your results will only include images labeled with a license that allows you to copy and modify the image in ways specified in the license.
+labeled for commercial reuse with modification - Your results will only include images labeled with a license that allows you to copy the image for commercial purposes and modify it in ways specified in the license.
+, Before reusing content that you've found, verify that its license is legitimate and check the exact terms of reuse stated in the license.
+
+
+For example, most licenses require that you give credit to the image creator when reusing an image. Google has no way of knowing whether the license is legitimate, so there is no guarantee that the content is actually or lawfully licensed unless you check.

@@ -1,0 +1,41 @@
+@summary
+open photoshop and create a new file.
+
+@summary
+open the filter effects menu within photoshop.
+
+@summary
+apply the "clouds" filter to your blank image.
+
+@summary
+use the elliptical marquee tool to fit a circular selection onto the image.
+
+@summary
+right click your selection and select "refine edge".
+
+@summary
+right click your selection, click "select inverse", and press delete.
+
+@summary
+under "layers", right click your layer and press "flatten image".
+
+@summary
+in the filter effects menu, scroll down a bit.
+
+@summary
+play around with it!
+@article
+ The dimensions of the file don't matter much. You can set it to 600x600 if you want one continent or 1000x1000 if you want more than one continent. The resolution doesn't matter unless you plan to print your map.;
+, This menu is on the right-hand side, under Edit > Full > Effects > Filters. Make sure to hit the dropdown menu and select Show All, or you won't find the filters mentioned later in this guide.
+ This filter employs a pseudo-random number generation algorithm, meaning you get a different result each time you use it.
+ It doesn't have to fit perfectly, though if you want that, you can right-click your selection and click on "Transform Selection".
+ Set everything to 20; you don't have to be exact. Your image may not look any different. Hit "OK".
+ It should look something like this image. 
+
+,
+
+
+The green checkerboard is the customizable background appearance, so that part might look different.
+ Apply the "Note Paper" and "Smart Blur" effects (in that order). Optional step: press Ctrl to invert your image.
+ There are many ways to edit an image in Photoshop. Add towns, rivers, mountains, forests...
+

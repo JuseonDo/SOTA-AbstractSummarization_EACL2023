@@ -1,0 +1,16 @@
+@summary
+call 1-800-331-0500.
+
+@summary
+say "i would like to activate my iphone," when prompted.
+
+@summary
+say the phone number of your at&t account.
+
+@summary
+confirm the phone number.
+
+@summary
+talk with a representative.
+@article
+ From a separate working telephone, dial 1-800-331-0500 and wait until you are connected to AT&T's customer support line., When you call, an automated system will ask "How can I help you today?". Speak clearly and say that you would like to activate your iPhone., When asked "what number are you calling to activate," say your phone number clearly. This will help the automated system to access your account information., The automated system will say the phone number back to you and you can confirm "Yes" or "No" if it's correct., After confirming your number, you will be connected with an AT&T representative who will help you complete the activation process for your iPhone.

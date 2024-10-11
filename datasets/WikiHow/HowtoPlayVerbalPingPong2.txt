@@ -1,0 +1,52 @@
+@summary
+ping - basic shot.
+
+@summary
+pong - basic shot.
+
+@summary
+,
+
+@summary
+spin - must be responded to by "ping.",
+
+@summary
+bang - backhand.
+
+@summary
+slish - forehand slice.
+
+@summary
+blish - backhand slice.
+
+@summary
+twong - topspin.
+
+@summary
+bwong - backspin.
+
+@summary
+rwong - righthand spin.
+
+@summary
+lwong - lefthand spin.
+
+@summary
+swish - basic shot.
+
+@summary
+swoosh - basic shot.
+
+@article
+ Must be short.
+, Must be short.
+ Must be responded to by "pong."
+
+, Must be responded to by "blish." Must be short.
+ Must be responded to by "ping."
+
+, Must be responded to by "swoosh." Must be short.
+ Must be responded to by "swoosh." Must be long.
+ Must be responded to by "swish." Must be medium-length.
+ Must be responded to by "swish." Must be medium-length.
+ Must be responded to by "swoosh." Must be short.

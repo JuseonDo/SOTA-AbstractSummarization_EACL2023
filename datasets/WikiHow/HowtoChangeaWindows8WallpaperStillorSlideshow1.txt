@@ -1,0 +1,37 @@
+@summary
+find the wallpaper you want.
+
+@summary
+save your wallpaper as an image to your computer.
+
+@summary
+go to your desktop.
+
+@summary
+right click on your desktop (away from any icons) and press "personalize". 
+
+@summary
+,
+
+@summary
+on the bottom of the menu that just popped up, click "desktop background".
+
+@summary
+,
+
+@summary
+click "browse", somewhat towards the top of the menu.
+
+@summary
+search through the list for the folder/location you saved the image to.
+
+@summary
+click on your wallpaper.
+@article
+ You can try looking for good ones in Google images or other image websites.;
+, This can be done by right-clicking on the image and clicking "Save image as..." Then select the location you want it to be saved to, give it a title and press "Save".
+ If you're on the Start screen, click on the search button in the top right corner of your screen, and type "Desktop". Click on the purple icon with the white rectangles; it will likely be the first one on the list.
+,, Windows Explorer should open up.
+ When you've found the folder you want, click on it and press "Ok".
+ A checkbox should appear beside it. All that's left now is to click save changes.
+

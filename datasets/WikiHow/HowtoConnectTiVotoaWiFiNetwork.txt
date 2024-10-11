@@ -1,0 +1,37 @@
+@summary
+ensure your tivo is compatible with wireless access.
+
+@summary
+visit the tivo website for a list of compatible usb wifi adapters.
+
+@summary
+plug the usb wifi unit into the usb port on the back of your tivo.
+
+@summary
+,
+
+@summary
+using your tivo remote, go to messages & setup, then settings, then phone & network setup.
+
+@summary
+you will see a list of available networks.
+
+@summary
+if you have security turned on for your home network, you will now be instructed to enter a password/wep key.
+
+@summary
+select yes, connect via the network to instruct your tivo to dial-up over the internet rather than the phone line.
+
+@summary
+,
+
+@summary
+disconnect your pesky phone line!
+
+@article
+ Note that only Series 2 TiVo units are compatible. Note that any unit that is a DirecTivo (i.e. a unit that acts as your DirecTV control box) will not connect over the wireless network without heavy modification, because DirecTV has disabled the USB ports. Some companies will remove this block for you, but the service can be somewhat pricey.;
+, While probably just about any one will work, there are a few on the market that are not compatible. You will save yourself grief by getting one that is known to be compatible.
+, Select Edit Phone or Network Settings, then select Wireless Settings, then select continue to next step.
+ Hopefully, your home network is listed -- select it. If it is not listed, either you have set it up not to broadcast its SSID, your TiVo is out of range, or your network has a problem.
+ Do so.
+,

@@ -1,0 +1,9 @@
+@summary
+grounding the amp is extremely important and somewhat deceiving.
+
+@summary
+if the ground is not secured properly, the amp may be on, but produces a very dim power light and does not play bass.
+@article
+ Check the ground wire is secured to an unpainted metal part on the body or chassis of the car. It is important that this wire is not loose or flopping around.
+ There is a simple way to check if the ground is properly secured or connected to a true ground that leads to the chassis of the car, it will be explained in the warning section.
+

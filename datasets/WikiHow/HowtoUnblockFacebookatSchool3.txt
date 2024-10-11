@@ -1,0 +1,43 @@
+@summary
+open start
+
+@summary
+.
+
+@summary
+type command prompt into start.
+
+@summary
+click
+
+@summary
+command prompt.
+
+@summary
+type ping facebook.com into command prompt and press ↵ enter.open a browser.
+
+@summary
+type the ip address into the browser's address bar and press ↵ enter.
+
+@summary
+open spotlight
+
+@summary
+.
+
+@summary
+type terminal into spotlight.
+
+@summary
+double-click
+
+@summary
+terminal.type ping facebook.com into terminal and press ↵ enter.
+
+@summary
+look at the number to the right of "bytes from".open a browser.
+
+@summary
+type the ip address into the browser's address bar and press ⏎ return.
+@article
+ Click the Windows logo in the bottom-left corner of the screen, or press ⊞ Win., This will search your computer for Command Prompt., It's at the top of the Start window., You'll see a series of numbers and periods to the right of the "Pinging facebook.com" heading; this is Facebook's IP address.,, If the Facebook URL is blocked but the IP address isn't, this will take you to Facebook's page., It's in the top-right corner of the screen., This searches your computer for the Terminal app., It should be the top search result. Doing so opens Terminal.,, This is Facebook's IP address.,, If the Facebook URL is blocked but the IP address isn't, this will take you to Facebook's page.

@@ -1,0 +1,23 @@
+@summary
+press .⌘ command+⇧ shift+4.
+
+@summary
+click and drag to create a box.
+
+@summary
+find your screenshot.
+
+@summary
+take a screenshot of a specific window.
+@article
+ This will turn your cursor into a crosshair.
+ This box will determine what is captured for the screenshot.
+ After creating the box, the screenshot will be taken and the file will appear on your desktop. It will be in PNG format and labeled with the date and time it was taken.
+
+
+If you'd rather copy the screenshot to your clipboard instead of creating the file, press ⌘ Command+Control+⇧ Shift+4.
+ If you want to capture an entire window, but not your whole screen, press ⌘ Command+⇧ Shift+4 and press Space. The crosshair will turn into a camera. Click thew window that you want to capture.
+
+
+Like the other methods, this will create a file on your desktop.
+

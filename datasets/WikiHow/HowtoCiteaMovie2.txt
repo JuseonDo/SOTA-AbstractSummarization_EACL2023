@@ -1,0 +1,29 @@
+@summary
+begin with the full name of the film in italics.
+
+@summary
+type the director of the film.
+
+@summary
+follow with the year the film was released.
+
+@summary
+add the place the film was published.
+
+@summary
+give the name of the publisher or distributor.
+
+@summary
+add the year the film was distributed.
+
+@summary
+finish with the medium or format after the name.
+@article
+ Type a period (full stop) after the title.
+ Write "Directed by" and the name of the director, followed by a period.
+ Type a semi-colon after the year.
+ For example, "1956; Hollywood, CA." Use a colon after the location.
+ Place a comma after it.
+ Place a period at the end.
+ For example, you may use "DVD," "Film" or "Blu-Ray." Place a period after the medium. This may not be necessary in all instances.
+

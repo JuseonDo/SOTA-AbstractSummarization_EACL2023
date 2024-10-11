@@ -1,0 +1,43 @@
+@summary
+open mail, contacts, calendars.
+
+@summary
+add a new account.
+
+@summary
+select "other.",
+
+@summary
+add a caldav account.
+
+@summary
+enter the information for the new caldav account, then tap next.
+
+@summary
+open the calendar app.
+
+@summary
+select the google calendars you want to show on your iphone calendar, then tap done.
+
+@summary
+control the calendars available.
+@article
+ Tap "Settings" on your home screen, then scroll down and tap "Mail, Contacts, Calendars.";
+, From the Mail, Contacts, Calendars control panel, tap Add Account…
+
+, At the bottom of the Add Account control panel, tap the "Other" button.
+ In the Other control panel, scroll to the Calendars panel, then tap "Add CalDAV account.
+
+
+
+Server is google.com.
+User Name is your email login for Google.
+Password is your Google password.
+Description can be anything you like.
+When you tap Next, your setup is complete.
+ Unless you've moved it, you will find it on your home screen. At the top left of the calendar window, tap Calendars.
+ Within a few moments, the Google calendars you've will be displayed. Syncing is automatic.
+ To enable or disable multiple calendars in Google, navigate to https://www.google.com/calendar/syncselect and check the calendars you wish to show or hide in your Calendar settings on your iPhone. Click the Save button, and within a few moments, your new settings will take effect.
+
+
+Note that you can still show or hide multiple calendars within the Calendar app, as long as they are enabled in your Google Calendar sync settings.

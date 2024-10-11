@@ -1,0 +1,27 @@
+@summary
+go to the chrome webstore.
+
+@summary
+search for the adblock extension.
+
+@summary
+install the extension to chrome.
+
+@summary
+go to www.youtube.com to watch a video.
+@article
+
+
+
+From the address bar, type in chrome://apps/ and select the Web Store icon.;
+,
+
+
+From the Web Store's search bar, type in "adblock for youtube", and select Extensions to filter out results. Select the AdBlock for YouTube extension.
+
+
+
+Click Add To Chrome.
+A confirmation message will pop-up. Just click "add" to add the extension.
+ The extension installed will automatically skip the advertisements in any YouTube video.
+

@@ -1,0 +1,9 @@
+@summary
+add up what you spend in a year on oil changes, tires and other maintenance, car repair bills, and insurance.
+
+@summary
+add inspection and registration costs for a year and divide by 12.
+@article
+ Divide this total by 12 to get the monthly total. If the total is, for example, $1,890 per year, the monthly cost for maintenance, repairs and insurance is $157.50 per month.
+ If the total is $100 per year, the monthly cost is $8.33.
+

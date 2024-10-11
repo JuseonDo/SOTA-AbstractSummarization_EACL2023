@@ -1,0 +1,23 @@
+@summary
+plug your android smart phone/ tablet into your computer with the usb cable.
+
+@summary
+pull down the "notifications" menu and select "connected as a media device".
+
+@summary
+select "media device".
+
+@summary
+double click on your device to gain access to the "android system files".
+
+@summary
+,
+
+@summary
+enjoy.
+
+@article
+ If this is your first time plugging in to your computer, wait until your computer and Android phone sync. Once it is properly installed, you should receive confirmation.;
+, This will open the "USB computer connection" settings.
+ This will display a check mark beside it. This option will also let you transfer media files from your phone / tablet to your computer.
+,

@@ -1,0 +1,36 @@
+@summary
+get the google analytics tracking id.
+
+@summary
+read the google analytics terms of service agreement, and then click i accept.
+
+@summary
+copy your tracking id.
+
+@summary
+go to blogger and login to your account.
+
+@summary
+in the left sidebar, click settings.
+
+@summary
+in the analytics web property field, paste or type your google analytics tracking id.
+
+@article
+ Scroll down to the bottom of the page, and then click Get Tracking ID.
+ If you click I do not accept, you won't be able to use Google Analytics.
+ Find the alphanumeric code under Tracking ID, select it with your mouse, and then copy it.
+
+
+You can also write it down on a piece of paper.
+
+
+
+If you're already logged in to your Google account, you won't need to log in again.
+ If you don't see a sidebar with Settings, then you're using the Classic Template.
+
+
+
+Click here for instructions on adding the Tracking ID to the Classic template.
+
+Click here for instructions on updating Classic to the new template.

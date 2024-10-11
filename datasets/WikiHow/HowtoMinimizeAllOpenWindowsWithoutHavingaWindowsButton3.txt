@@ -1,0 +1,24 @@
+@summary
+click on an open window you want to minimize.
+
+@summary
+,
+
+@summary
+use alt+tab ↹ to minimize.
+
+@summary
+,
+
+@summary
+click on another window to select it.
+
+@summary
+bring back a minimized window with alt+tab ↹.
+@article
+,, To continue minimizing any open windows, select each window in turn and repeat the command Alt+Tab ↹ until all are minimized.
+ To maximize the window that was just minimized, use Alt+Tab ↹ before selecting a new window.
+
+
+The command Alt+Tab ↹ only works for minimizing/maximizing one window at a time.
+

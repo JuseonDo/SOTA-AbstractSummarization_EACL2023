@@ -1,0 +1,20 @@
+@summary
+download and install the flv importer plug-in.
+
+@summary
+start adobe premiere, and open the project in which you want to use flv files.
+
+@summary
+click on the "file" menu, then select "import.",
+
+@summary
+select the flv file you want to use, and click the "open" button.
+
+@summary
+successfully imported, the flash video can now be edited alongside other video files in the timeline.
+
+@article
+ Once the download is finished, complete the installation of the plug-in as prompted.;
+, To start a new project using FLV files, select "New" from the "File" menu. Or, to add FLV files to an existing project with other video or movie formats, select "Open Project" from the same menu.
+ In the "Import" dialog box, find the "Look in" drop down list to locate the saved FLV file you want to import.
+ This will close the "Import" dialog box, and open the FLV file in Adobe Premiere.

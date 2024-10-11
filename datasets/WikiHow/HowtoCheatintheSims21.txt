@@ -1,0 +1,15 @@
+@summary
+go into the game and hold down "control" + "shift" + "c" simultaneously.
+
+@summary
+close the cheat window by typing in exit in the cheat window.
+
+@summary
+shift click on the mailbox to access special features and shift click on your sim to access special features.
+
+@article
+ A white box at the top screen will come up. This is the box that you will type all of your cheat codes into. After this, press the "Enter" key. To expand the cheat box, type in expand and the cheat box will get bigger.
+
+
+
+For advanced cheats and game modifications, type in BoolProp testingCheatsEnabled when you're in the neighborhood screen. Keep in mind that this cheat may mess up your computer.

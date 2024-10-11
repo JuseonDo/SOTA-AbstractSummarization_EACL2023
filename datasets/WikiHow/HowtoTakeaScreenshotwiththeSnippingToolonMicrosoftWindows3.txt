@@ -1,0 +1,54 @@
+@summary
+open the snipping tool.
+
+@summary
+push esc.
+
+@summary
+open the menu you want to snip.
+
+@summary
+press ctrl+prtscn to launch the print screen function.
+
+@summary
+click on the downward pointing arrow next to "new".
+
+@summary
+,
+
+@summary
+choose a snip type.
+
+@summary
+click "new".
+
+@summary
+,
+
+@summary
+draw free-form around the object you want to capture.
+
+@summary
+release the cursor to take the snip.
+
+@summary
+draw a rectangle around the object you want to capture.
+
+@summary
+release the cursor to take the snip.
+
+@summary
+click on the window you want to capture.
+
+@summary
+,
+
+@summary
+release the cursor or stylus to take the snip.
+
+@summary
+capture a full-screen snip.
+@article
+ Windows 8, 7, and Vista allows users to capture cursor-activated objects too. To begin, click “Start”, followed by “All Programs”, “Accessories”, and finally “Snipping Tool”., Pressing Esc will remove the overlay from the screen. The Snipping Tool will remain visible.,, The overlay will appear again and the screen will freeze. The Snipping Tool window will remain visible.,, Options include: “Free-form snip”, “Rectangular snip”, “Window snip”, and “Full-screen Snip”.,, Click down on your cursor and hold as you draw free-form around the object you want to capture.
+ Once captured, the snip will open in the Snipping Tool’s Mark-up Window., Click down on your cursor and drag your cursor around the object to create a rectangle.
+ Once captured, the snip will open in the Snipping Tool’s Mark-up Window.,,, After selecting “Full-screen snip,” the screenshot is instantly captured. Once captured, the snip will open in the Snipping Tool’s Mark-up Window.

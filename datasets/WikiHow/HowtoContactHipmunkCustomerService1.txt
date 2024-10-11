@@ -1,0 +1,16 @@
+@summary
+sign into your e-mail account.
+
+@summary
+compose your message.
+
+@summary
+proofread and hit “send.” re-read what you just wrote to make sure you have entered all the required information regarding your query as clearly as possible so the customer service department can respond properly to you.
+@article
+ Open a web browser or your preferred e-mail client software (Microsoft Outlook, Mozilla Thunderbird), and log into your e-mail account.;
+, Once you’re inside your account, compose a new message stating your questions, suggestions, or comments. Summarize the reason for your e-mail in the subject line, and address your message to contact@hipmunk.com.
+ When you’re satisfied, click “Send.”
+
+
+Usually, a representative will reply to your e-mail within 24 hours.
+

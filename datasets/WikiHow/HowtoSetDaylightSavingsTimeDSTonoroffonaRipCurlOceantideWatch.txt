@@ -1,0 +1,12 @@
+@summary
+hold the "str/stp" button for 5 seconds.
+
+@summary
+notice that the watch beeps.
+
+@summary
+repeat as necessary.
+
+@article
+;
+, At this point you should have either turned off DST or turned it on. A plus sign should appear next to the time if DST has been turned on.

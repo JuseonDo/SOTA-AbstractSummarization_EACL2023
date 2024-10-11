@@ -1,0 +1,17 @@
+@summary
+launch the google play store.
+
+@summary
+open the play store menu.
+
+@summary
+open the settings menu.
+
+@summary
+clear the search history.
+@article
+ On your Android home screen, tap the Google Play store icon.;
+, Tap the Menu icon at the top-left corner of the screen. This will slide out the Menu from the side.
+ To do this, tap “Settings” from the Menu window.
+ Under the General section, tap the “Clear Search History” button. This will now remove all previous searches within the Google Play Store.
+

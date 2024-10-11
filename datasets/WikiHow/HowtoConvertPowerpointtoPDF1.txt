@@ -1,0 +1,15 @@
+@summary
+open the powerpoint presentation.click on file in the menu bar at the top of the screen.
+
+@summary
+click on export… in the drop-down menu.type a file name.
+
+@summary
+click on publish (windows) or export (mac).
+@article
+ Do so by opening the orange and white app with a "P," clicking on File in the menu bar, then clicking on Open.
+,
+
+In Windows, click on Create PDF/XPS Document, then click Create PDF/XPS.
+On Mac, click on the "File Format:" drop-down at the bottom of the dialog box, then click on PDF.
+, The PowerPoint presentation will be saved as a PDF document in the location you specified.

@@ -1,0 +1,9 @@
+@summary
+pay for your movie if you plan to download it.
+
+@summary
+download or stream the file by explicitly following the instructions given by the website or platform.
+@article
+ Alternatively, you can pay a monthly subscription fee to use a streaming site like Netflix.com or Lovefilm.com.
+ Make sure that you have storage space on your computer or mobile device if you plan to download a large file.
+

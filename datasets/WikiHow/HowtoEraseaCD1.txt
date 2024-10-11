@@ -1,0 +1,13 @@
+@summary
+put the cd you want to erase in your cd drive.
+
+@summary
+right-click on the drive in which the cd you want to erase is located.
+
+@summary
+click "next" when the "welcome to the cd writing wizard" window appears.
+@article
+ Click the "Start" button, and then click on "My Computer.";
+, Select "Open." Look for the "Erase this CD-RW" option under the "CD Writing Tasks" menu that appears and click it.
+ A progress will appear, showing the progress of the erasing of your CD. Wait for the process to finish; a confirmation message will appear when the CD has been fully erased.
+

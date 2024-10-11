@@ -1,0 +1,16 @@
+@summary
+tap the“settings” icon.
+
+@summary
+swipe the “all” tab.tap the app to disable.
+
+@summary
+tap the “disable” tab.tap “ok”.
+
+@summary
+tap the “clear data” tab.
+
+@summary
+tap the “clear cache” tab.
+@article
+ The Settings icon is located in your app drawer., Swipe over the “All” tab listed in the top center of the screen for a complete list of all the applications on your Android.,, A prompt will appear stating that other applications may be affected, however this is okay since you are not completely removing the app.,, This is located in the App Info section., This is located in the App info section. Now you have removed unnecessary software and increased your internal memory.

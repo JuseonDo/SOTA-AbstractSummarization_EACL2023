@@ -1,0 +1,20 @@
+@summary
+launch the google play store.
+
+@summary
+tap the menu icon.
+
+@summary
+go to settings.
+
+@summary
+add icon to home screen.
+@article
+ Tap on the Play Store icon on your home screen.;
+, At the top-left corner of the Play Store interface, the Menu icon is displayed. Tap it to reveal the slide Menu.
+ In the menu, select “Settings” to open Google Play’s Settings menu.
+ Under the General section of the Settings menu, you will see a check box labeled “Add icon to home screen.” Tap on it to tick the box.
+
+
+This will enable downloaded apps to be immediately shown on your home screen.
+

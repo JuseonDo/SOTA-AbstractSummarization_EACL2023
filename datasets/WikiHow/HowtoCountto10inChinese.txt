@@ -1,0 +1,50 @@
+@summary
+study how to count from 0 to 10 in chinese until you memorize it, and show it off to other people!,
+
+@summary
+0 零 : ling.
+
+@summary
+1 一 : ee.
+
+@summary
+2 二 : are.
+
+@summary
+3 三 : san.
+
+@summary
+4 四 : suh.
+
+@summary
+5 五 : woo.
+
+@summary
+6 六 : lee-yoo.
+
+@summary
+7 七 : chee.
+
+@summary
+8 八 : bah.
+
+@summary
+9 九 : jee-yoh.
+
+@summary
+10 十 : shure.
+@article
+;
+, You say it with an upward inflection.
+ You say it with a long "e" sound.
+ You say the letter "r" with a downward inflection.
+ You say it without an inflection.
+ This word is hard to be represented by using English letters, however it is closest to "suh" with a downward inflection.
+ You pronounce this word with a downward-up inflection.
+ When you say this, you partially omit the "y" so that the "ee" blends into the "oo". It sounds pretty similar to "Leo". It is pronounced with a downward inflection.
+ You say this without an inflection.
+ You say this without an inflection.
+ This is similar to saying 6, where the "ee" blends into the "oh". This is pronounced with a downward-up inflection
+
+, You say this with an upward inflection.
+

@@ -1,0 +1,17 @@
+@summary
+sign in to itunes.
+
+@summary
+click your name in the top bar.
+
+@summary
+click “manage devices”.
+
+@summary
+click “remove” next to a device to remove it.
+@article
+ You will need your Apple ID and password.
+ Select “Account Info” from the dropdown menu that appears. You will have to re-enter your password.
+ It is located in the “Cloud” section under “iTunes”. The associated devices will appear, along with information about when they were associated with the account.
+ Keep in mind that, once you associate a device with an iTunes account, you must wait 90 days before associating it with a different account.
+

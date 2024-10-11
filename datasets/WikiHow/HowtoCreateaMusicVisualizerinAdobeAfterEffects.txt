@@ -1,0 +1,25 @@
+@summary
+open adobe after effects.
+
+@summary
+,
+
+@summary
+import your music file.
+
+@summary
+create a new composition.drag your music file into the composition.
+
+@summary
+adjust composition duration.
+
+@summary
+add a new layer.select the new layer in your composition assets.click on "effect > generate > audio spectrum".
+
+@summary
+in the effect controls window, change the audio layer property to the name of your music file.
+
+@summary
+you are done!
+@article
+, Using a .mp3 file is recommended, but any audio file type will work., Click on "Composition > New Composition > OK" which is located at the top of your program screen. (Shortcuts: ⌘ Cmd+N or Ctrl+N),, Record how long your music file is. Click on "Composition > Composition Settings". Under "Duration", change the current duration to one second longer than your music file. (Shortcuts: ⌘ Cmd+Kor Ctrl+K), Click on "Layer > New > Solid > Ok". (Shortcuts: ⌘ Cmd+Y or Ctrl+Y),,, For example, if the name of my music file was "Toze - Jurassic Love (ft. Sarah Abad)" then you would select that file from the list., Play your composition to see the visualizer.

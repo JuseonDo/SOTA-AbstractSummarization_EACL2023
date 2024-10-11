@@ -1,0 +1,5 @@
+@summary
+fight a bunch of enemies.
+@article
+ Not only will you earn gold from fighting enemies, you can also get things to sell.
+

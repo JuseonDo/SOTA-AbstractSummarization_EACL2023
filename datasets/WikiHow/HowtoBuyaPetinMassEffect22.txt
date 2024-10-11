@@ -1,0 +1,31 @@
+@summary
+travel to llium.
+
+@summary
+head to the door near the stairs that leads to liara's office.
+
+@summary
+,
+
+@summary
+walk through the docking authority section to the next door.
+
+@summary
+,
+
+@summary
+go to the farthest kiosk on the left, located in the merchant's section.
+
+@summary
+,
+
+@summary
+speak to ereba, the asari next to the kiosk.
+
+@summary
+access the kiosk and choose the pet from the item list.
+@article
+ It is located in the Tasale System of the Crescent Nebula on the galaxy map. The galaxy map can be accessed on the CIC deck of the Normandy.
+,,, If you have enough points in either the Paragon or Renegade personality ranges, you can persuade her to deal with her boyfriend troubles. Both dialogue options lead her to give you the discount.
+ The only pet available is a Prejek Paddle Fish. It can be purchased for 8,000 credits, or 6,666 credits with a store discount.
+

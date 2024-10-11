@@ -1,0 +1,9 @@
+@summary
+plug the usb cord of the ipad into the usb port of the powerbank.
+
+@summary
+plug the other end of the usb cable into your ipad.
+@article
+ Locate the USB port in the powerbank - this is where you will plug in the USB end of the cable.
+ After plugging your iPad to the outlet, you will see a lightning icon on the top right of your screen, indicating that your battery is charging.
+

@@ -1,0 +1,25 @@
+@summary
+click the start menu, and then click run.
+
+@summary
+in the run dialog box, type cmd.
+
+@summary
+,
+
+@summary
+the command prompt window opens.
+
+@summary
+write down the bios version number.
+
+@article
+
+
+
+In Windows 8, right-click the Start menu, and then click Run. You can also access this menu by pressing the WIN + X keys.;
+,,
+
+
+The Command Prompt is a program lets you control your computer with text commands.
+Type wmic bios get smbiosbiosversion. The string of letters and numbers following SMBBIOSBIOSVersion is your BIOS version.,

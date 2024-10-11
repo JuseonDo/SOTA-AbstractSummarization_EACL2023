@@ -1,0 +1,28 @@
+@summary
+create a variable and initialize its value to the return value of the confirm() function.
+
+@summary
+use a set of if statements or conditional operators to determine the effect of clicking ok or cancel.
+@article
+
+
+
+
+
+var userChoice = confirm("Do you want to leave WikiHow?");
+
+
+
+;
+, When the user clicks OK, confirm() returns the value true.
+
+
+
+
+If userChoice ? (alert("Aw, bye!");window.location="https://www.google.com/") : 
+alert("Alright! Thanks for sticking around.");
+
+
+
+
+

@@ -1,0 +1,14 @@
+@summary
+get the office phone numbers or emails of the list of references you want to check.
+
+@summary
+leave the following voice mail or email for each person on the list: "i'm considering hiring john and i know you have worked with him in the past.
+
+@summary
+track the percentage of people who call you back.
+@article
+ Call them at night when you know they will not be answering the phone.;
+, I know you are an exceptionally busy person and I don't want you to spend unnecessary time on a reference check. So please only return this call if you think John is one of the most exceptional people you have ever worked with. My number is 212-555-1212. Thanks for listening."
+
+, If several people fail to call you back, you can safely decide that you should not proceed with hiring this candidate.
+

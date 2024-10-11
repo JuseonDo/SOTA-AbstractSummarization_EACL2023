@@ -1,0 +1,28 @@
+@summary
+exit all open programs.
+
+@summary
+,
+
+@summary
+open the command prompt as administrator.
+
+@summary
+execute the following two commands in the given manner.
+
+@summary
+microsoft directx setup program will initiate.
+@article
+,
+
+
+If you're using Windows 8.1/ 8, press Windows Key + X simultaneously and select "Command Prompt (Admin)".
+If you're using Windows 7/ Vista, click the Start button. Click All Programs | Accessories. Right click Command Prompt, select "Run as administrator".
+ Press ENTER at the end of every command.
+
+
+CD C:\Program Files (x86)\Steam\steamapps\common\Saints RowIV\_CommonRedist\DirectX\Jun2010\
+DXSETUP.EXE
+
+, Reinstall the DirectX and then restart your computer.
+

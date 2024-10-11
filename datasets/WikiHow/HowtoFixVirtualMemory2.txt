@@ -1,0 +1,35 @@
+@summary
+click the "start" button.
+
+@summary
+select "advanced system settings" from the menu on the left side.
+
+@summary
+press the "advanced" tab.
+
+@summary
+uncheck the box labeled "automatically manage paging file size for all drives.",
+
+@summary
+find the list of drives under the heading "drive .",
+
+@summary
+edit the number in the text boxes for "initial size (mb)" and "maximum size (mb).",
+
+@summary
+restart the computer if prompted.
+
+@article
+ Select the "Control Panel." If "System and Maintenance" is an available option, click it. Then click "System."
+
+, Click Settings button from performance option.Performance options will be displayed. If you are prompted for the administrator password, enter it and click "OK."
+
+, Find the "Virtual Memory" heading the click "Change."
+
+,
+
+, Click on the drive that contains the operating system, as this is the drive of which you will adjust the virtual memory. Click "Custom size."
+
+, (Same number for max and min) Click "Set" when you are finished. Click "OK."
+
+,

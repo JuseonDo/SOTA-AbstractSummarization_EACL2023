@@ -1,0 +1,9 @@
+@summary
+slide a bead onto the wire and center it at the bend.
+
+@summary
+repeat this step with all the remaining wires.
+@article
+ Cross the ends of the wire directly below the bead and twist the wires together tightly at least three times to secure the bead.
+ Varying the number of twists below each bead will make the tree less uniform and more interesting.
+

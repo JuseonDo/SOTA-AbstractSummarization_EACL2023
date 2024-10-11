@@ -1,0 +1,17 @@
+@summary
+open your web browser and visit wikihow.com.
+
+@summary
+tap on the menu icon at the upper-left corner of your screen.
+
+@summary
+at the bottom of the sidebar, tap the small 🖥 desktop site link.
+@article
+ You'll be taken to the mobile site automatically.;
+, It should pop out.
+
+
+
+To do this via your browser for Safari on iOS, hold down the ↻ refresh on the address bar. Tap on Request Desktop Site.
+To do this via your browser for Google Chrome on iOS and Android, tap on the ⋮ icon at the top-right of your screen and tap Request desktop site.
+

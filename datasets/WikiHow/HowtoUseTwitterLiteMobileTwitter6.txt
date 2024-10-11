@@ -1,0 +1,15 @@
+@summary
+go to your account.
+
+@summary
+tap on the 'settings and privacy'.
+
+@summary
+,
+
+@summary
+change your settings as desired.
+@article
+ Click on your profile picture to open your account, or go to https://mobile.twitter.com/account.
+, Tap on each option to change it.
+

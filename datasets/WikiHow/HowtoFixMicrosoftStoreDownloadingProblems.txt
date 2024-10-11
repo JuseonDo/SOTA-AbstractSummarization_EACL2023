@@ -1,0 +1,171 @@
+@summary
+open your computer's search bar.
+
+@summary
+type "date and time" into the search bar.
+
+@summary
+,
+
+@summary
+click the "date and time" option.
+
+@summary
+click "change the date and time".
+
+@summary
+adjust your date and time settings.
+
+@summary
+click "ok".
+
+@summary
+open your computer's search bar again.
+
+@summary
+,
+
+@summary
+type "store" into the search bar.
+
+@summary
+,
+
+@summary
+click the "store" icon when it appears.
+
+@summary
+,
+
+@summary
+click the downward-facing arrow to the left of the search bar.
+
+@summary
+,
+
+@summary
+review your downloads.
+
+@summary
+open the microsoft store.
+
+@summary
+,
+
+@summary
+click your profile icon.
+
+@summary
+click "downloads and updates".
+
+@summary
+,
+
+@summary
+click the "check for updates" button.
+
+@summary
+wait for the updates to apply.
+
+@summary
+return to the app download page.
+
+@summary
+make sure your store app is open.
+
+@summary
+,
+
+@summary
+click your account icon to the left of the search bar.
+
+@summary
+click your account name.
+
+@summary
+click your account name in the pop-up window.
+
+@summary
+,
+
+@summary
+click "sign out" below your name.
+
+@summary
+click your account icon again.
+
+@summary
+,
+
+@summary
+click "sign in".
+
+@summary
+,
+
+@summary
+click your account name.
+
+@summary
+enter your password or pin if prompted.
+
+@summary
+check your downloads tab.
+
+@summary
+close your microsoft/windows store app.
+
+@summary
+,
+
+@summary
+hold down the ⊞ win key and tap r. this will open the "run" app.
+
+@summary
+,
+
+@summary
+type "wsreset" into run.
+
+@summary
+click "ok".
+
+@summary
+,
+
+@summary
+wait for the command prompt window to close.
+
+@summary
+check your downloads tab.
+@article
+ For Windows 10, simply click the Start menu search bar.For Windows 8, hold down ⊞ Win and tap W.;
+,, This should be at the top of the search menu.
+
+
+For Windows 8, click "Change the Date and Time" below the search field.
+ You can find this option in the "Date and Time" menu.
+
+
+You must be an administrator to change these settings.
+ These should reflect the current date and time as they pertain to your time zone.
+
+
+You can also click "Change time zone..." to alter your time zone settings.
+ Your date and time should now be up to date!
+
+,,,,, If the date/time settings were the problem, your downloads should now be active!
+
+,, You can find this to the left of the search bar.
+, This should be in the top right corner of your app store.
+ Depending on how many apps you have in need of updates, this may take a few minutes.
+ If your current apps were backing up the download process, these apps should now be downloading.
+, If you have a picture associated with your Windows account, it will appear here; otherwise, this icon will be a person's silhouette., You can find this option at the top of the resulting drop-down menu.
+, This will sign you out of the Store app.
+,, You should see this at the top of the pop-up menu.
+ Doing so will sign you back into the Store app.
+ If signing out and back in fixed your problem, your downloads should have resumed!
+
+,,, You can also type this into the Start menu's search bar to access the "Windows Store Reset" program.
+, Once it does so, your store app should open with a clean cache., If the cache was the issue, your downloads should have resumed!
+

@@ -1,0 +1,23 @@
+@summary
+find any friends that might be werewolves.
+
+@summary
+get them to join a group with you.
+
+@summary
+ask them to travel to the werewolf shrine.
+
+@summary
+get bitten by your friend.
+
+@summary
+turn around and face the center of the shrine after you have been bitten.
+
+@summary
+select “yes.” you will then receive the werewolf skill tree and be able to transform into a werewolf in-game.
+@article
+ If they say yes, ask if they have their bite available. There is a skill called Bloodmoon that allows players to bite one person a week and turn them into a werewolf.
+ To invite them to a group, hit the Start button, go to “Social,” and select “Group.” You will be able to type their name in, and they can accept the invite and join your current group.
+ Since they are already a werewolf, they likely know exactly where it is. Once they travel there, fast travel to them by hitting “Start,” going to “Social,” “Group,” and then “Travel to player” underneath the player’s name.
+ Once you travel to the shrine, all you have to do is walk in front of it and stand there. Your friend will turn into a werewolf and bite you.
+ Hit the A button to activate the shrine, and a mysterious voice will start talking to you. The voice will ask if you are willing to accept the gift that has been given to you.

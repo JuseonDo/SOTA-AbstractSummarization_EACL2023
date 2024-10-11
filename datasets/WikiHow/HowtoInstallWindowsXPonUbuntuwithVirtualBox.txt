@@ -1,0 +1,56 @@
+@summary
+install oracle vm virtualbox.
+
+@summary
+extract an iso image from a windows xp cd you have, imgburn and k3b have this functionality.
+
+@summary
+,
+
+@summary
+click the "new" button (the first of the four below the menu).
+
+@summary
+,
+
+@summary
+use the wizard to create a virtual partition for windows xp.
+
+@summary
+choose the amount of ram to be allocated to this os (when it's in use).
+
+@summary
+create a new hard disk since you probably don't have one already.
+
+@summary
+review the summary it provides at the end and verify the information is correct.
+
+@summary
+mount the iso image by clicking on the settings button.
+
+@summary
+open the virtual media manager, depicted with an icon like a folder with an up arrow, next to cd/dvd device under "attributes".
+
+@summary
+,
+
+@summary
+add the disk image file by clicking add, then choosing the location of the windows xp iso image.
+
+@summary
+install windows.
+
+@summary
+install guest additions.
+@article
+ VirtualBox acts as a "computer" on which to host operating systems.;
+,,, Windows XP is the default OS selected, so all you have to do is name it. (Windows XP, for example, is a good name).
+ Don't allocate too much because there will be less RAM for your host system to run, which will crash your entire system.
+ Click Next to Continue. You will be taken through the Create New Virtual Disk wizard, which will allow you to choose hard disk size, dynamically expanding/fixed size, etc.
+ After that, the new Virtual Machine will be created.
+ Click the Storage section on the left hand side of the window. Click on the Empty CD medium in the Storage Tree.
+, Select it with "Select", then press OK in the Settings Window. Launch the VirtualBox by pressing "Start".
+ You should have the Windows installer running now. Remember that since you have not yet install the Guest Additions, you will have to press your Host key (normally Right-Ctrl)
+
+, While the machine is running, under the "Devices" menu, click "Install Guest Additions", which will launch a setup wizard inside Windows XP. Now you will have OS mouse integration, so you won't have to press the host key to switch between your host and guest. You also can copy and paste between the two operating systems. Now that you have Windows XP installed, you can install programs you use.
+

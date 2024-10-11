@@ -1,0 +1,33 @@
+@summary
+generate a "double" random number.
+
+@summary
+generate an "int" random number.change x to make number in the range of [0,x)
+
+@summary
+,change y to make number in the range of [y,x+y)
+
+@article
+
+
+double num=Math.random();
+
+
+
+ 
+
+
+This is generate a random number between [0,1)
+
+;
+,
+
+int num=(int)(Math.random()*x) + y;
+
+
+
+
+
+
+The (int) in front casts the number as an "int", since Math.random() is a "double" number.
+,

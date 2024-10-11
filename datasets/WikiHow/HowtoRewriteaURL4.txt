@@ -1,0 +1,16 @@
+@summary
+download either a free or paid application for extensionless rewriting for iis5 and iis6.
+
+@summary
+remove index pages from urls with the following method:
+
+@summary
+rewriterule (.
+@article
+ Explore all downloads before deciding on which option will work best for specific types of rewrites.
+
+
+Example:
+RewriteCond Host: (.*)
+RewriteRule (+) http\://$1$2/ ,*)/default.htm$ $1/ RewriteRule (.*)/default.aspx$ $1/ RewriteRule (.*)/index.htm$ $1/ RewriteRule (.*)/index.html$ $1/ RewriteCond %HTTP_HOST ^test\.com RewriteRule ^/(.*) https://www.wikihow.com/$1 RewriteCond Referer: (?!http://(?:www\.how\.com|www\.wiki\.com)).+
+RewriteRule .*\.(?:gif|jpg|jpeg|png) /images/block.jpg 

@@ -1,0 +1,25 @@
+@summary
+ensure you meet the requirements.
+
+@summary
+(optional) have a back up plan should things go wrong.
+
+@summary
+get a copy of a windows 7 iso file.
+
+@summary
+if you used a usb: go ahead and erase your hard drive, or if you want to make sure you can use your system even if it all messes up, just pop your usb in anyway, and start set up.
+
+@summary
+no matter what you did, you can't update windows xp to 7.
+
+@summary
+hopefully installation went smoothly.
+@article
+ Check RAM, HDD, video card, and more. Do this by going to the control panel.;
+, Puppy Linux is a very, very small operating system that can be installed directly through the .exe file. Because you don't need a USB, floppy disc, or disc tray to use this, it makes it perfect for netbook users to install. And, if everything goes wrong, it's a beautifully simple, and tiny, starting OS for you to use before you install another.
+ You can download it through Microsoft.
+ If you used DAEMON TOOLS: If you downloaded Daemon, load the ISO file into the utility, and the set up will appear quickly.
+ You have to use a custom install and remove whatever you had on your system. Make sure everything was backed up. And if you had any programs, make sure you can still get them, i.e from the download site. Let it install.
+ If it did, get a USB and download all your drivers from the internet on another computer if you aren't able to access the internet on the newly updated machine.
+

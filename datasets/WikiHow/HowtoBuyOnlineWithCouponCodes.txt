@@ -1,0 +1,38 @@
+@summary
+find a coupon code for the vendor and item you want to buy.
+
+@summary
+you can also find coupons codes on coupon-providing websites like retailmenot, savings.com, coupons.com, etc.
+
+@summary
+,
+
+@summary
+access the shopping website where you want to buy something.
+
+@summary
+start the checkout process as normal for the site where you are shopping.
+
+@summary
+go through the checkout process.
+
+@summary
+enter the coupon code from the deal you want to use in the appropriate box.
+
+@summary
+scan your shopping cart to confirm that the coupon code was properly entered and is reflected in your total price.
+
+@summary
+finish the order as normal.
+
+@article
+ Like physical coupons, there is a wide variety of deals available. Some common examples include a set amount or percentage off the regular price, buy 1 and get 1 free, or a discount if you buy a set value of merchandise.
+
+
+Some physical coupons now include a coupon code, also called a promotion code, printed on the coupon. This allows you to get the same deal at the company's online shopping site.
+You can sometimes find coupon codes via an Internet search. Type "coupon code", "promotion code", "promo code", "discount code" or "voucher code" in the search string, along with a description of the company you want to buy from and/or the item you want to buy.;
+,, Go through the process of selecting your items to buy just as you normally would. As with picking out items off a shelf, this part of the process is identical to shopping without a coupon code.
+ Confirm that you are buying what you want, and that it fulfills any requirements to qualify for the promotion code you want to use.
+ At each page, scan the page for a coupon code or promotion code option. The exact location of this option will vary from vendor to vendor.
+ Click the "OK" or similar button on the checkout page. Some vendor sites will make this part of the regular checkout page, while others will direct you to a separate page to confirm your promotion or coupon code.
+ If not, navigate back through the checkout process and try again.

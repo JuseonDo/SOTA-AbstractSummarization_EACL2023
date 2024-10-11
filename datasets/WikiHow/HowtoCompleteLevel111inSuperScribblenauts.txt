@@ -1,0 +1,40 @@
+@summary
+look at the given hint: "invaders are coming!,
+
+@summary
+tap on the notebook in the right hand corner.
+
+@summary
+,
+
+@summary
+tap on the letters to write solutions.
+
+@summary
+drag the object to a person.
+
+@summary
+,
+
+@summary
+repeat with the other three guys.
+
+@summary
+,
+
+@summary
+get the starite to complete the level.
+
+@article
+ Give the villagers weapons to make an army!";
+,,
+
+
+Use tear gas or a gun on a person to change them into a policeman
+Use a machine gun on a person to change them into a soldier
+Use pepper spray on a person to change them into a girlfriend
+Use a katana on a person to change them into a sensei
+Use spears or whips on a person to change them into a warrior
+Use a sword on a person to change them into a knight
+
+,,,

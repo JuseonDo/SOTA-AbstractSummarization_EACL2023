@@ -1,0 +1,19 @@
+@summary
+click on the smiley face on your player interface to call up the friends list screen.
+
+@summary
+,
+
+@summary
+add a friend to your list.
+
+@summary
+remove a friend.
+
+@summary
+do the exact opposite to add a friend to your ignore list: click on the sad face button on your player interface to call up the ignore list.
+@article
+, Click on the button marked Add Friends and type in the name of the player you want to add. You can also right-click on the name of a player in a Chat window and select the appropriate option.
+ Just click on the Del Friend button and type in the name of the player you want to remove.
+ To add a player, click on Add Name. Do this for people you hate, or if they are just plain annoying.
+

@@ -1,0 +1,19 @@
+@summary
+find your cable.
+
+@summary
+plug it into your computer's usb port.
+
+@summary
+,
+
+@summary
+wait for the battery to charge.
+@article
+;
+,,
+
+
+iPads require a significant amount of power to charge, so fully charging your iPad can take a few hours using this method.
+Avoid using your iPad while it's charging to increase charging speed.
+

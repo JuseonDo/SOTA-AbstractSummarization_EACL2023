@@ -1,0 +1,19 @@
+@summary
+if possible, snipe the skeleton with your bow.
+
+@summary
+catch up to it and spam.
+
+@summary
+collect the experience and whatever item(s) it may drop, like bones and arrows.
+
+@summary
+,
+
+@summary
+try running in a zigzag motion.
+@article
+ Otherwise, run towards it and do a critical hit. Walking in a straight line towards the skeleton will get you killed, and jumping doesn't make a difference. A zig-zag pattern is recommended.
+ Try to block (right mouse) the arrows when you're close, as the chances of dodging now are minuscule (Tiny). If you have a shield, you may also charge at them, letting the shield take damage.Try to determine what time the skeleton will fire based on how fast it was firing before.
+, The skeleton can't handle it.
+

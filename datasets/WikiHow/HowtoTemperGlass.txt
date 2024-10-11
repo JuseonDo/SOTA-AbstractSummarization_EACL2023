@@ -1,0 +1,25 @@
+@summary
+cut the glass into the desired shape first.
+
+@summary
+inspect the glass for imperfections.
+
+@summary
+sand the cut edges smooth.
+
+@summary
+wash the glass.
+
+@summary
+heat the glass in a tempering oven.
+
+@summary
+quench the glass to cool it.
+@article
+ This has to be done before the glass is tempered, as the tempering process will weaken the glass if it is cut or etched afterward and may increase the likelihood of breakage.;
+, Cracks or bubbles may cause the glass to break during tempering; if any are found, the glass cannot be tempered.
+ This removes any burrs created during cutting or etching.
+ This removes any tiny grains of glass deposited during sanding, as well as any dirt that may interfere with the tempering process.
+ Glass may be fed in batches or continuously. The oven reaches temperatures of over 600 degrees Celsius (1,112 degrees Fahrenheit), with the industry standard being 620 degrees Celsius (1,148 degrees Fahrenheit).
+ The heated glass is subjected to seconds of high-pressure blasts of air at various angles. The rapid cooling causes the outer surfaces of the glass to cool and contract faster than the center, giving the tempered glass its strength.
+

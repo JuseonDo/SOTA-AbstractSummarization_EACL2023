@@ -1,0 +1,22 @@
+@summary
+open file explorer.
+
+@summary
+click view in the ribbon at the top.
+
+@summary
+,
+
+@summary
+go to the right and click options, which is right under the help sign.
+
+@summary
+at the top, right under the general tab, it should say open file explorer to:.
+
+@summary
+save your settings.
+
+@article
+ If it is not already pinned to your toolbar, you can search it up, or ask Cortana to open File Explorer for you. On default, Windows 10 will open to Quick Access.;
+,, You should see the option Change folder and search options. Choose it.
+ Click on Quick Access to open the drop down list. There, choose This PC.

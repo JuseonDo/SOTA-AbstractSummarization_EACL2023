@@ -1,0 +1,141 @@
+@summary
+print one message with gmail.
+
+@summary
+navigate to your gmail inbox.
+
+@summary
+,
+
+@summary
+click on an email conversation that contains the message you would like to print.
+
+@summary
+,
+
+@summary
+scroll through the conversation and find the message you would like to print.
+
+@summary
+,
+
+@summary
+click on the more icon in the very top, right corner of the message.
+
+@summary
+select “print” from the drop-down menu.
+
+@summary
+click “print”.
+
+@summary
+export a google doc file to microsoft word to print.
+
+@summary
+select “file”.
+
+@summary
+hover your cursor over “download as” to view your download options.
+
+@summary
+select “microsoft word (.docx)”.
+
+@summary
+rename the file and select a location to save the file if you wish.
+
+@summary
+,
+
+@summary
+click “save”.
+
+@summary
+click on the downloaded file to open it.
+
+@summary
+,
+
+@summary
+use the options available in microsoft word to print the document.
+
+@summary
+print a single page of an email with apple mail or windows outlook.
+
+@summary
+,
+
+@summary
+open the email you would like to print.
+
+@summary
+,
+
+@summary
+click “file” then select print.
+
+@summary
+select “single” (mail) or “pages” (outlook).
+
+@summary
+select the page you would like to print.
+
+@summary
+click print.
+
+@summary
+print a range of pages of an email with apple mail or windows outlook.
+
+@summary
+,
+
+@summary
+open the email you would like to print.
+
+@summary
+,
+
+@summary
+click “file” then select print.
+
+@summary
+select “range” (mail) or “pages” (outlook).
+
+@summary
+enter in the range of pages you would like to print.
+
+@summary
+click print.
+@article
+ Instead printing out an entire email conversation, Gmail users can print one message from that thread.
+,,, Find this icon (downward facing arrow) next to the reply button.
+ A print dialog box will appear.
+ The selected email will print., If you need access to more printing options than Google Docs offers, transfer your Google Doc file to a word processor.
+ Mobile users, click on the More icon (three dots in a vertical row).
+ Mobile users, click “Share & export”.
+ A dialog box will appear. Mobile users, click “Save as Word”.
+, The file will start to download as a .docx.
+,,,, Alternatively, Mac users can use the shortcut ⌘ Command+P and Windows users can use the shortcut Ctrl+P.
+
+
+
+If you are using Mail, click on “All” next to pages to activate a drop down menu then select “Single”.
+If you are using Outlook, locate “Page Range” and select “Pages”.
+
+
+
+If you are using Mail, use the preview window to scroll to the page you would like to print.
+If you are using Outlook, click on the text box to the left of “Pages” and enter in the page number you would like to print.
+ The single page will print.
+,, Alternatively, Mac users can use the shortcut ⌘ Command+P and Windows users can use the shortcut Ctrl+P.
+
+
+
+If you are using Mail, click on “All” next to pages to activate a drop down menu then select “Range”.
+If you are using Outlook, locate “Page Range” and select “Pages”.
+
+
+
+If you are using Mail, enter the first page number in the text box to the left of “to” and enter the last page number in the text box to the right of “to”.
+If you are using Outlook, click on the text box to the left of “Pages” and enter in the page number you would like to print. Enter in the first page number, followed by a dash (-), then the last page number. For example: “1-3” or “4-5”.
+ The range of pages will print.
+

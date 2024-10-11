@@ -1,0 +1,37 @@
+@summary
+power on your device.
+
+@summary
+press the menu button.
+
+@summary
+use the 5-way controller to select "settings".
+
+@summary
+,
+
+@summary
+determine what setting you'll need to adjust.
+
+@summary
+press the home button, when you are finished using the settings menu.
+
+@article
+;
+, This will bring up a drop-down box in the upper corner of the device.
+, Whether this be your login, or you're sharing data, use the applicable article provided on wikiHow.
+
+
+Register a Kindle Keyboard to Your Amazon Account
+Manage Your Device Name on Your Kindle
+Activate Voice on Kindle
+Manage Parental Controls on a Kindle 2
+Put a Password on Your Amazon Kindle
+Readjust the Device Time on a Kindle 2
+Manage the Ability to Display Popular Highlights on a Kindle 2
+Manage the Ability to Display Public Notes on a Kindle 2
+
+Manage Annotations Backup on your device. Even though the name of the device of the title of this article is different, the method is the same, but the buttons are in different spots.
+Choose a Dictionary to Use on an Amazon Kindle Keyboard
+
+,

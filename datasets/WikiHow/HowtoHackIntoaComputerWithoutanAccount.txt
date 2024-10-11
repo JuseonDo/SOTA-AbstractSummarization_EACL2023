@@ -1,0 +1,72 @@
+@summary
+turn on the computer.
+
+@summary
+before it shows the windows logo, start repeatedly pressing the f8 key.
+
+@summary
+,
+
+@summary
+use the up/down keys to navigate your way to "safe mode with command prompt" and press enter.
+
+@summary
+notice there will be a new account called "administrator".
+
+@summary
+,
+
+@summary
+click on it and then you"ll go to "safe mode command prompt".
+
+@summary
+,
+
+@summary
+if you know how to change a password using cmd (command prompt), then do it.
+
+@summary
+after this, it will show all the accounts on that computer.
+
+@summary
+confirm the password.
+
+@summary
+find the account that you hacked and enter the new password.
+
+@summary
+,
+
+@summary
+congrats!
+@article
+;
+,, (After this the screen will appear dark and will show a bunch of computer codes. Don't be afraid, this will only go on for a little while. Just make sure no one else comes in when the screen is like that).
+
+
+Then it will go to the account/login screen
+
+,,, If not, then type in Net User.
+ Pick which one you want to hack.
+
+Let's say on that computer the accounts are named Bob, Nate, and Pat. If you pick Bob then simply type in:net user Bob *
+
+
+
+
+
+
+After this it will tell you to type a new password
+
+
+
+
+
+
+When you are typing, it will appear as if you aren't typing anything. Don't worry, this is for security reasons. Just make SURE that you spell it correctly.
+ After you are finished it will ask you to confirm the new password.
+
+
+After this shutdown the computer and then start it up again.
+, you have hacked a windows account! Have fun!
+

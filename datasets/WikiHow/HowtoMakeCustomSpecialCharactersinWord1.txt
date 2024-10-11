@@ -1,0 +1,32 @@
+@summary
+start with word open and the cursor in the position where the new symbol is to be inserted.
+
+@summary
+,
+
+@summary
+hit ctrl-f9 (pc) or cmd-f9 (mac) to insert a new field code.
+
+@summary
+between the curly braces, type eq \o(x1,x2).
+
+@summary
+remove any extra spaces!,
+
+@summary
+press shift-f9 (both pc and mac) to update the field code and display the new symbol.
+@article
+, Curly braces will appear.
+ In place of X1, type the letter/number/character that will appear on the bottom in the new symbol, and in place of X2 type the letter/number/character that will appear on the top.
+
+
+Note the space after EQ and before \o
+For any special characters (like the macron, or overline, in the picture) use the Windows character map or Mac Character Palette (see Method Two).
+ The only space between the curly braces should be between EQ and \o. Word inputs extra spaces that will have to be deleted manually.
+
+
+
+You must either have the entire field code highlighted or be clicked into the field code for this to work.
+If there are any problems, just highlight the character (or error message, or blank space, etc.) and press Shift-F9 to display the field code again. Proceed to edit it as needed.
+See the Troubleshooting Tips below for more information about problems you may encounter here.
+

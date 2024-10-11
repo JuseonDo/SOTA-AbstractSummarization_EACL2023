@@ -1,0 +1,47 @@
+@summary
+remove the battery pack from the laptop if you do not use your laptop for extended periods of time (a week or more).
+
+@summary
+do not expose the battery to high heat.
+
+@summary
+plug your laptop charger adapter into a ups and not directly into a power outlet or surge protector.
+
+@summary
+,
+
+@summary
+if you have a nickel-metal hydride battery, completely drain and recharge the battery once a month to maximize its capacity to hold a charge.
+
+@summary
+,
+
+@summary
+fully charge new battery packs before use.
+
+@summary
+for laptops that work as a desktop replacement, reinstall the battery every 3-4 weeks and allow it to discharge fully .
+
+@summary
+,
+
+@summary
+do not leave a battery in a laptop while using an electrical outlet for long periods of time.
+
+@summary
+adjust screen brightness.
+
+@summary
+program overload.
+
+@summary
+keep a spare battery: a good idea is to have a spare battery.
+@article
+;
+, Do not leave your battery in your car in the summer. Hot batteries discharge very quickly.
+,, A new battery needs to be fully charged and discharged (cycled) a few times before it can condition to full capacity.
+, This will keep the battery in a constant state of charging up and that will reduce the life cycle of the battery.
+ If you use Windows on your laptop, there is a Power Options option in Control Panel that helps you optimize power usage. You can set the laptop to become inactive when not in use for quite some time. It is also possible to adjust the display brightness on the laptop. This may allow prolonged battery life.
+ Run only the programs you are using at the time of use. Programs that run in the background use more system resources and drain laptop battery life.
+ Batteries are affordable these days and easily purchased online from electronics sites. Have at least one fully charged at all times for a quick battery change. Some laptops can run with two batteries. Some laptops are also compatible with external batteries that can be easily added when necessary.
+

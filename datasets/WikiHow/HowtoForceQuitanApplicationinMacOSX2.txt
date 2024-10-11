@@ -1,0 +1,16 @@
+@summary
+press ⌘+⌥ option+esc.
+
+@summary
+click on the app you want to quit.
+
+@summary
+click on force quit.
+@article
+ The "Force Quit" dialog box will open.
+
+
+
+The note "(Not Responding)" will appear next to frozen apps.
+ The app will quit and can be restarted.
+

@@ -1,0 +1,42 @@
+@summary
+start by opening your cd drive, and placing the disk in the holder.
+
+@summary
+go into windows media player, and click the rip tab.
+
+@summary
+push the e-drive in, and wait.
+
+@summary
+repeat these steps for every cd you want to rip.
+
+@summary
+,
+
+@summary
+insert a blank audio cd into the e-drive after you have finished ripping.
+
+@summary
+go to your documents and go into your music.
+
+@summary
+go back to windows media player.
+
+@summary
+wait; burning takes a while.
+
+@summary
+,
+
+@summary
+try your new cd out in a radio.
+@article
+ Do not shut the drive yet; you have to do a few things first.;
+, Select your options and then just click anywhere to get out of the menu.
+ You can listen to your CD's as you rip them by going to the play menu, and clicking play.
+, Don't insert a data CD because these don't work in most stereos and CD players. Do not push in the drive yet.
+ Click the files that you want to be burned onto the CD, with the right mouse button, and select add to burn list. (or something similar to that.)
+
+, You should see your list of songs. If you are satisfied, click the burn tab, and slide the drive in.
+, Make sure that it works.
+

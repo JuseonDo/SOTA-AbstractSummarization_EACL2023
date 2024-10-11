@@ -1,0 +1,9 @@
+@summary
+answer the surveys in the newspaper.
+
+@summary
+try alyssa's star challenge.
+@article
+ Go to the newspaper and click contact us, press comments and suggestions, and on the side there's a survey. You'll get a little KinzCash for it.
+ If you can get enough stars, you can win some pretty cool free prizes that you can sell for Kinzcash. And, if you get a star that you already have, you can sell it for Kinzcash.
+

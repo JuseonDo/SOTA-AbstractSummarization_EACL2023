@@ -1,0 +1,9 @@
+@summary
+press insert or ⌤ ins.
+
+@summary
+try typing again.
+@article
+ The "Insert" key on your keyboard activates/deactivates the "overtype" feature on your PC.;
+, If this method didn't work for you, try it again or try another method.
+

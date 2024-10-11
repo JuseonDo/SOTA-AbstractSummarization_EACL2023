@@ -1,0 +1,45 @@
+@summary
+enable the android bitmoji keyboard.
+
+@summary
+open whatsapp.
+
+@summary
+select a contact.
+
+@summary
+tap type a message here.
+
+@summary
+pull down the menu bar from the top of the screen.
+
+@summary
+tap choose input method.
+
+@summary
+select bitmoji keyboard.
+
+@summary
+tap the bitmoji you want to send.
+
+@summary
+tap the person to whom you want to send a bitmoji.
+
+@summary
+tap the green icon with a white check mark.
+
+@summary
+tap the send icon.
+@article
+ Before you can use Bitmoji with WhatsApp, you’ll need to install Bitmoji and set up the Bitmoji keyboard. See Get the Bitmoji Keyboard on Android to learn how.;
+, It’s the green icon with a white phone in the app drawer.
+ A conversation will open with that contact.
+ It’s the white box at the bottom of the screen. Your keyboard will appear, as will a small keyboard icon at the top-left corner of the screen.
+ This is the bar where the keyboard icon appears.
+ A list of keyboards will appear.
+ Now you’ll see a list of Bitmoji, separated by category.
+ This brings you back to the main screen of WhatsApp.
+ This is the same name you selected before.
+ It’s at the bottom-right corner of the screen. Now you’ll see the Bitmoji on the “Send Photo” screen.
+ It’s the round green icon with a white paper airplane at the bottom-right corner of the screen. This sends the Bitmoji to your desired recipient.
+

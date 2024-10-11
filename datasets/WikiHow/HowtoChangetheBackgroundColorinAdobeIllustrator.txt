@@ -1,0 +1,23 @@
+@summary
+start by opening any graphic file.
+
+@summary
+hide artboards.
+
+@summary
+edit the document setup.
+
+@summary
+edit the top grid color.
+
+@summary
+you now have changed the background color of your graphic file.
+
+@article
+ For this tutorial we're using a screwdriver.;
+, Go to the View menu, then select Hide Artboards. Alternately, you can use the shortcut Shift + Command + H (PC: Shift + Ctrl + H).
+ From the File menu, choose Document Setup... or press Option+Command+P(PC: Ctrl + Alt + P).
+ In the resulting Document Setup dialog, set the top grid color as desired.
+
+
+After choosing the colors, enable the Simulate Colored Paper checkbox, then click OK.

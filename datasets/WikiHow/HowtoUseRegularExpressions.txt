@@ -1,0 +1,49 @@
+@summary
+get software that supports regular expressions.
+
+@summary
+learn quantifiers to match several characters.
+
+@summary
+learn special characters.
+
+@summary
+learn character classes.
+
+@summary
+learn grouping and alternatives.
+@article
+
+
+
+DOS and Bash are command-line interfaces that support regular expressions.;
+,
+
+Wildcard.
+
+
+
+
+
+
+Question mark.
+
+
+
+
+
+
+Plus sign.
+
+
+dot will match any single character.
+
+
+
+
+
+
+\n matches a newline character.
+ Square brackets.
+ Parentheses.
+

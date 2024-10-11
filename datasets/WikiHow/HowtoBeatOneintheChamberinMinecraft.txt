@@ -1,0 +1,21 @@
+@summary
+keep moving.
+
+@summary
+move left and right instead of a straight line.
+
+@summary
+save your arrow.
+
+@summary
+practice your aim.
+
+@summary
+jump while using your sword, as you may get a critical hit and do more damage, whilst also making yourself a harder target.
+
+@article
+ Nearly everyone uses the arrow, which is insta-death, and if you are still you are an easy target. Keep on the move!;
+, This will make you a harder target.
+ You only have one shot with your arrow, make it count!
+
+, If you "misfire" when you use your arrow, you'll have to kill someone with the sword to get it back. Try shooting bats in Survival or a moving mob.

@@ -1,0 +1,12 @@
+@summary
+with the ladder in your hand, right click to place a ladder where you want it.
+@article
+ Bear in mind the following though:
+
+
+Ladders can only be placed on sides of other blocks
+A ladder will occupy one block from the side on which it is placed
+Ladders cannot be placed on glass, ice, leaves or glowstone blocks.
+Ladders will resist water and create an air pocket.
+Ladders will resist lava; if used instead of glass, this can allow lava light to shine through a ceiling.
+

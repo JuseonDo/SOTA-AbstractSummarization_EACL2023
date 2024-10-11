@@ -1,0 +1,42 @@
+@summary
+create a standard layout using a doctype, a style, and a div with two nested divs.
+
+@summary
+name your divs so that they can be worked on.
+
+@summary
+tell css how to manipulate these divs.
+
+@summary
+add some content at this point.
+
+@summary
+preview the page.
+
+@summary
+make some changes to fix this.
+
+@summary
+make sure the two nested divs are now treated as table cells.
+
+@summary
+look at the difference that's made.
+
+@summary
+,
+
+@summary
+add more text into one of the cells.
+@article
+;
+, The first DIV is going to use "id", while the nested DIVs are going to use "class".
+ You make these style changes within the style tags. Make sure of the "#" and "." in front of the tags. These are important, and without them, everything breaks.
+ It will give you some idea as to how things are going to look as you progress. Add some content to the left and right DIVs.
+
+
+
+Not only is this pretty bland, but the DIVs are not properly aligned either. You'll notice that "Right" is under "Left", not to the side of it.
+ Change the CSS beginning with the ID, which needs to be treated as a table. Set a width of 80% of the screen and centre align the whole box.
+ Create a border around the two, so that you can see how this is all going to pan out.
+, You'll see that no matter how big the box on the left gets, the box on the right retains the same size as the left one.
+

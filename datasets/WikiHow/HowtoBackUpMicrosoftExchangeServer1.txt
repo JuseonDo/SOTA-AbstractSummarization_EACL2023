@@ -1,0 +1,17 @@
+@summary
+make sure the exchange system manager is installed on the backup server.
+
+@summary
+left-click on the start key and choose "run.",
+
+@summary
+click on the prompts to the next screen.
+
+@summary
+wait for the backup to finish running.
+@article
+;
+, Type in "NTBACKUP" on the command line.
+ Choose a folder to save the backed up files to. Name the backup. Choose whether to verify the data after the backup. This will take longer, but ensures a successful backup.
+ The percentage completed will display on the screen. Once finished, check the event log to see if it was there were any errors during the process.
+

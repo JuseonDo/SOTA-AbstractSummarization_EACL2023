@@ -1,0 +1,23 @@
+@summary
+know what version of windows that you have.
+
+@summary
+go to file >> preferences >> file locations.
+
+@summary
+,
+
+@summary
+find the plugins option and note the exact location of the plugins.
+
+@summary
+make a plugin folder specific to the one that you are installing.
+
+@summary
+open up paint shop pro and use it.
+@article
+;
+,, If you have a lot of programs that can potentially use the *.8BF filters, create a central one, as in this screenshot. It is under My Documents.
+ This will help with your general 'housekeeping'. Otherwise, it can get quite cluttered.Be sure that you know the name of the filter so that you know what you are looking for in the program.
+ Most often, it will be under Effects >> Plugins.
+

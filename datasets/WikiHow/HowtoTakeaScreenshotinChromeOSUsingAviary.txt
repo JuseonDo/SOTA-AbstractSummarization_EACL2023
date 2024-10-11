@@ -1,0 +1,32 @@
+@summary
+go to the google's chrome extension galley and install aviary screen capture.
+
+@summary
+click the blue a in the top of your browser to open aviary.
+
+@summary
+,
+
+@summary
+click "capture visible portion of page" to grab a screenshot of what you can see in your browser window.
+
+@summary
+manipulate the image as desired in the basic image editor.
+
+@summary
+save the page.
+@article
+ ;
+,,  Alternatively click "Capture Entire Page" to capture everything on the page including what may be hiding below the fold.
+  Some of the possible options include:
+
+
+Cropping the image
+Adding arrows, text and highlights to the image.
+Resize, rotate and flip the image.
+Grab color information to reuse elsewhere.
+ Aviary allows you to save the file to your computer locally or to host the file on Aviary's website.
+
+
+When you save the image online on Aviary's servers it offers a variety of options to share the image such as direct links to the page, the image editor, HTML embed code, or forums embed code.
+

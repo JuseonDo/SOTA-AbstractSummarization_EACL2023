@@ -1,0 +1,12 @@
+@summary
+open the facebook messenger app and tap the gear button.
+
+@summary
+scroll down to find the "location" option.
+
+@summary
+uncheck the "location" box.
+@article
+ You'll find this button at the top of the screen.
+ When this is enabled, Messenger will include your location with every message.
+ This will disable the location included in every message you send. This is disabled by default in newer versions of the app..

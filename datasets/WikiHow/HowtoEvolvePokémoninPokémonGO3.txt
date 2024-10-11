@@ -1,0 +1,30 @@
+@summary
+open the app.
+
+@summary
+click the pokémon button.
+
+@summary
+,
+
+@summary
+view your list of pokémon.
+
+@summary
+click on the pokémon you want to transfer.
+
+@summary
+,
+
+@summary
+scroll all the way down his profile screen until you see a green button that says transfer.
+
+@summary
+,
+
+@summary
+press the transfer button and say that yes, you are sure that you want to transfer.
+@article
+ Click on the red and white Pokéball in the bottom center of your screen.
+, Assess which ones you have duplicates of and which ones you want to evolve. For example, if you have two Pikachus, and one has 21 CP and the other has 11 CP, you would probably want to keep/evolve the one with 21 CP and transfer the one with 11 CP. The one with more CP and HP will be more powerful in the battlefield.This strategy works best for Pokémon that you can collect a lot of (like Pidgey or Rattata). If you get two rarer Pokémon, you might want to save them and not transfer them to Professor Willow.
+,, Transferring a Pikachu to Professor Willow will give you Pikachu Candy. You cannot undo a transfer. Do not transfer the Pokémon if it is your last Pokémon; you won’t have one left to evolve!You will get one Candy for each Pokémon you transfer to Professor Willow.

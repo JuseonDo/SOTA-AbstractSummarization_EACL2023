@@ -1,0 +1,43 @@
+@summary
+open google chrome.
+
+@summary
+click ⋮.
+
+@summary
+click settings.
+
+@summary
+,
+
+@summary
+check the "show home button" box.
+
+@summary
+click change.
+
+@summary
+click the radio button next to "open this page".
+
+@summary
+,
+
+@summary
+type in the url of your preferred site.
+
+@summary
+click ok.
+
+@summary
+,
+
+@summary
+click the home button.
+@article
+;
+, This is in the top right corner of your Chrome window.
+, You can find this under the "Appearance" section.
+ This is beneath the Home Button checkbox.
+, You can also check the "Use the New Tab page" box here.
+, It's the house-shaped icon in the top left corner of your browser window; doing so should take you to your selected Home page!
+

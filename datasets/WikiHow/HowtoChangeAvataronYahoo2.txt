@@ -1,0 +1,31 @@
+@summary
+launch yahoo messenger.
+
+@summary
+sign into yahoo.
+
+@summary
+on your device, press the menu button then tap "options.",
+
+@summary
+tap display image.
+
+@summary
+,
+
+@summary
+change the avatar.
+
+@summary
+tap “done” on the top right corner of the screen to make your change.
+@article
+ Look for the app and tap on it. It has an app icon of a yellow smiley on purple background.
+ Enter your Yahoo ID and password on the fields provided then tap “Sign In” to continue.
+
+
+,, Tap Take a photo, Choose from photo gallery, or choose one of your previously used photos. Tap on the photo you'd like to use as your display image.
+ When you go back to the main screen, you will see your new avatar displayed at the top of your Messenger List.
+
+
+This same avatar will be used across your Yahoo account.
+

@@ -1,0 +1,13 @@
+@summary
+open the pandora channel on your roku player.press the options button on the roku remote control.
+
+@summary
+choose “manage subscription.” only choose this option if you’re already paying for your pandora one subscription.
+
+@summary
+select “cancel subscription,” then confirm the change.
+@article
+ You can cancel your Pandora account right from your Roku. Have your Roku remote control ready.,, If you’re canceling a trial subscription, select “Cancel Pandora One free trial” instead., Your subscription is paid through the end of the current billing cycle, so you’ll be able to use it through then.
+
+If you have trouble canceling your Pandora subscription through Roku, call Roku support at 1-888-600-7658.
+

@@ -1,0 +1,47 @@
+@summary
+press the home button.
+
+@summary
+tap the apps button.
+
+@summary
+open your android’s settings.
+
+@summary
+tap the wi-fi option.
+
+@summary
+slide the wi-fi slider to the on position.
+
+@summary
+tap the network you want to connect to.
+
+@summary
+,
+
+@summary
+tap search to refresh the list of available networks.
+
+@summary
+,
+
+@summary
+type the network’s password when prompted.
+
+@summary
+tap connect.
+
+@summary
+,
+
+@summary
+open your web browser to finish signing in if prompted.
+@article
+ This will close whatever app is open and display your Home screen.;
+, This button looks like ⋮⋮⋮ and can be found at the bottom of your Home screen.
+ The Settings app looks like a cog and can be found alphabetically in your Apps list.
+ You’ll find this at the top of the Settings menu.
+ You’ll see the slider at the top of the screen. The slider button will be on the right side of the slider when Wi-Fi is active. This will allow you to connect to wireless networks.
+,, Most wireless networks are secured and will require a password to connect.
+, Some networks, such as hotels or schools, may require you to complete the sign in process in your web browser. This is where you may need to enter your room number or your student ID.
+

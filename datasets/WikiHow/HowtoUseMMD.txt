@@ -1,0 +1,55 @@
+@summary
+open mmd.
+
+@summary
+locate the interpolation curve.
+
+@summary
+load your model.
+
+@summary
+get familiar with the camera.
+
+@summary
+learn about light manipulation.
+
+@summary
+once you have loaded your model, i chose haiku, this is what will happen, you will have a 3d model on the area of your screen.
+
+@summary
+,move your model around by pressing select and moving the bones around,
+
+@article
+
+
+
+When you open it, it will bring you to this screen.
+
+
+
+
+
+
+This is what it should look like now.
+
+
+
+
+
+;
+, It controls how fast and smooth your models actions are.
+ You can do this by pressing 'load' in the 'modal manipulation' area (red).
+ The slider is difficult to explain. It puts you into different views, follow bone is when the camera follows the model you choose,
+
+, This controls the shadows and lighting, it changes the lighting colors and stuff like that
+
+
+Accessory manipulation is loading accessories basically, pretty easy, the bottom half is basically moving it around the area on the screen.
+
+
+
+
+
+
+Loading your model, this is the easiest of all the steps, when you press on load or go to model it will bring you to a model screen, these are all the models you should have.
+,

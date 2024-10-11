@@ -1,0 +1,38 @@
+@summary
+click the link to the channel.
+
+@summary
+go to the channel's "about" page.
+
+@summary
+,
+
+@summary
+click the flag and click "report user" from the drop down menu.
+
+@summary
+,
+
+@summary
+click the radio button next to the issue that you want to report when the dialog box appears, and then click the blue "continue" button.
+
+@summary
+select the videos.
+
+@summary
+give detail.
+@article
+ If you want, you can also open it in a new tab by right-clicking and selecting "Open link in new tab".;
+,,,
+
+
+Select the reason why that channel is inappropriate or spamming.
+ Select up to 5 videos that will be used to determine whether the channel is a violation or not.
+
+
+Choose the ones that you feel are the most violated and are an obvious violation.
+ Write in the box your reason why that channel is a violation.
+
+
+ie. "There is almost constant adult fighting, bad language, etc."
+

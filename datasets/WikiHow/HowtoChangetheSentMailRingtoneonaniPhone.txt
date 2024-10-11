@@ -1,0 +1,22 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll to the third group of options and tap sounds & haptics.
+
+@summary
+scroll to the "sounds and vibration patterns" section and tap sent mail.
+
+@summary
+,
+
+@summary
+select a sound.
+@article
+ Do so by tapping the grey gear icon on one of your Home screens (or in a folder named "Utilities").;
+, On some phones, this may just be Sounds.
+, Doing so will set it as your new outgoing mail ringtone.
+
+
+For example, you might select Apex to set the "Apex" ringtone as your sent mail sound.
+

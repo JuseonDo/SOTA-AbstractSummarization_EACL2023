@@ -1,0 +1,22 @@
+@summary
+go to the settings menu and create a new project parameter called “limiting ht” to assign the maximum height of a particular wall type.
+
+@summary
+add values to template wall types according to their structure via type properties.
+
+@summary
+query the maximum height of a wall instance.
+
+@summary
+begin a new wall schedule (view-new-schedule/quantities) and add the fields: type, length, area and the custom parameter limiting ht.
+
+@summary
+set the filter for the wall schedule to values where height check is greater than 0’-0”.
+@article
+ Make sure the parameter Type is set to "Length" and you check the box in the Categories list for Walls.;
+, For example, the limiting height on a wall using 20 gauge 4” metal studs spaced 16" on center is 17'-3". Walls taller than their limiting height may buckle, causing an unsafe condition.
+ This is the real trick in the current release of Revit. The average height of a wall segment can be calculated by dividing the area of the segment by the length, but this is affected by openings and edited profiles.
+ Create a calculated value named Height, which is a function of "Area / Length." Create another calculated value named Height Check, which is a function of "Height – Limiting Ht"
+
+, The resulting wall segments in the schedule are the ones that exceed the limiting height in the type parameters.
+

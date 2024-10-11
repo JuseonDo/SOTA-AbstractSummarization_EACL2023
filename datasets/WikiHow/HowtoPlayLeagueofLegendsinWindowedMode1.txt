@@ -1,0 +1,13 @@
+@summary
+start the game.
+
+@summary
+click the “video” tab.
+
+@summary
+resume play.
+@article
+ Press “Esc” to bring up the Settings window.;
+, Select “Windowed” rather than “Fullscreen” or “Borderless.”
+
+, You can toggle between fullscreen and windowed modes while playing by using the shortcut Alt+Enter.

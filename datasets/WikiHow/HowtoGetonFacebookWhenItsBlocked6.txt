@@ -1,0 +1,31 @@
+@summary
+open your finder app.
+
+@summary
+type "terminal" into the finder search bar.
+
+@summary
+click on the terminal program.
+
+@summary
+type $ sudo nano /etc/hosts into the terminal window.
+
+@summary
+tap ⏎ return.
+
+@summary
+look for a line of text with "facebook" in it.
+
+@summary
+delete the "facebook" line.
+
+@summary
+hold down ⌘ command and tap o.
+
+@summary
+restart your computer.
+@article
+ This is the blue face icon on your Mac's dock., The search bar is in the top right corner of the Finder window., It should appear as a result at the top of the Finder window. Clicking on it will open Terminal., Make sure you don't add any extra spaces or formatting., Your computer's System Host file contents will open in Terminal., If you can't find one, Facebook is being blocked elsewhere and cannot be unblocked with this method., Doing so will remove Facebook from the list of locally blocked websites on your computer., Doing this will save your System Host file settings.
+
+The letter you type here is an "O", not a zero.
+ When your computer finishes rebooting, you should be able to access Facebook.

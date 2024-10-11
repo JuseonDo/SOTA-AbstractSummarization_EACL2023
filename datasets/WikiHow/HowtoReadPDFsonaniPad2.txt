@@ -1,0 +1,13 @@
+@summary
+click the link and open the pdf file.
+
+@summary
+tap the square icon in the top-right corner.
+
+@summary
+tap 'open in ibooks' or 'open in adobe reader'.
+@article
+ Whether you Google the PDF or find it while in while surfing, simply click & open it within Safari.
+ Tap anywhere on the document and this will give you the square icon at the top of the screen (on the same panel as the document's title).
+ Both apps are free from the App Store and offer additional functionality not found in the Safari quick-view.
+

@@ -1,0 +1,13 @@
+@summary
+create your content for the banner.
+
+@summary
+now, add your actionscript code to the button to open your webpage.
+@article
+ Start by making a button and putting your content there.;
+, Something like this will do:
+
+on (press) { this.getURL("https://www.wikihow.com/"); }
+
+This code means "Open www.wikihow.com in the same window."
+

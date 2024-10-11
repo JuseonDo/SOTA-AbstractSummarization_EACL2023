@@ -1,0 +1,20 @@
+@summary
+launch the play store.
+
+@summary
+search for couchsurfing.
+
+@summary
+tap the couchsurfing icon once the search gives you results.
+
+@summary
+,
+
+@summary
+tap the “install” button at the right side of the app description page.
+@article
+ Tap the Play Store icon from your home screen.
+ Tap the search icon at the top-right corner of the Play Store and type in “Couchsurfing.”
+
+,, The app will now be installed to your Android device, and you can access the Couchsurfing icon on your home screen or the app menu.
+

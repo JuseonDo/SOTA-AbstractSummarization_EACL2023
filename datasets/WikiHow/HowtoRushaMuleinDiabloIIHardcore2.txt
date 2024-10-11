@@ -1,0 +1,27 @@
+@summary
+do claw viper quest for arcane wp (waypoint).
+
+@summary
+,
+
+@summary
+go into a public game and just party with a group and hang out and get the duriel quest; you are counting on them doing the quest.
+
+@summary
+get the staff of kings, and the amulet.
+
+@summary
+get near summoner, tp for mule.
+
+@summary
+find the right tomb.
+
+@summary
+make sure the mule talks to tyreal first, because if you don't, it will say you can't complete quest.
+@article
+, This is for just you solo.
+ The mule needs to get the amulet, but it's not a problem. Your high level character will kill everything. TP and mule just comes in, open the casket and get the amulet and the quest. The mule will use the cube to merge the King of Staffs and the Claw Viper amulet to get the Horadric Staff. High level character goes to arcane.
+ Make sure Summoner is near. This gets really tricky, but timing is important. It helps to kill everything except Summoner, bring in the mule and kill Summoner within screen level of mule.
+ Bring in the mule to open Duriel's cave. You can kill Duriel with the mule safely in town.
+ Talking to Tyreal makes the game think you were there when Duriel died.
+

@@ -1,0 +1,23 @@
+@summary
+right click on your screen.
+
+@summary
+scroll down to 'basic and high contrast themes'.
+
+@summary
+,
+
+@summary
+select the high contrast black.
+@article
+ Scroll down to 'Personalize'.;
+,,
+
+You can also select High Contrast #1 for yellow text on black background or # 2 for green text on black background.
+
+
+
+
+
+
+

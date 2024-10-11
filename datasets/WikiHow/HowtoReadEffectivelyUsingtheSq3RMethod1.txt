@@ -1,0 +1,17 @@
+@summary
+go through the following:
+
+@summary
+title
+
+@summary
+heading and first line of each paragraph.
+@article
+
+Extra information given in boxes, sidebars, etc.
+Introduction
+Conclusion
+
+This will help you acquire the basic understanding of the text. Surveying also helps you know what to expect when you read the text in more detail.
+
+;

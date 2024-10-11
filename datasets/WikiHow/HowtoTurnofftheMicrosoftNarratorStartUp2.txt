@@ -1,0 +1,16 @@
+@summary
+hold down the alt and tab keys simultaneously.
+
+@summary
+let go of the alt and tab keys.
+
+@summary
+click or tap on exit.
+@article
+ This action will bring up the Microsoft Settings window.
+ Once you've released the keys, you'll be presented with several Narrator categories. Scroll down until you see the Exit option.
+ You'll be asked to confirm your selection to exit Microsoft Narrator. Click or tap on Yes.
+
+
+Microsoft Narrator is now disabled on your Surface device.
+

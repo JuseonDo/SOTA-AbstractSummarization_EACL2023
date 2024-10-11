@@ -1,0 +1,47 @@
+@summary
+open snapchat.
+
+@summary
+tap and hold the large circle icon to take a video.
+
+@summary
+release your finger when your video is complete.
+
+@summary
+,
+
+@summary
+swipe right or left to add special effects.
+
+@summary
+hold one finger down and swipe another to combine filters.
+
+@summary
+tap the “send” icon.
+
+@summary
+tap on a recipient.
+
+@summary
+,
+
+@summary
+tap the “send” icon again.
+
+@article
+ It's the yellow icon with a white ghost.;
+, Videos can last up to 10 seconds.
+,
+
+
+If you haven't turned on filters, tap Enable Filters to access the special effects.
+The snail plays your video in slow motion, while the rabbit speeds it up.
+The three backwards arrows plays your video in reverse.
+Some filters change the color or brightness of the screen.
+Other filters add effects such as your current speed, location, or time.
+
+
+
+Some filters, such as the snail and rabbit, cannot be combined.
+ It's the white right-pointing arrow at the bottom right of the screen.
+,

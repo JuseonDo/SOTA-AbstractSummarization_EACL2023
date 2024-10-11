@@ -1,0 +1,7 @@
+@summary
+tap the “settings” icon.tap on “storage”.tap on “cached data”.
+
+@summary
+tap “ok” to clear cached data for all apps.
+@article
+ The “Settings" icon is located in the app drawer of your Android.,,, You now have successfully removed cookies and pages will begin to load faster.

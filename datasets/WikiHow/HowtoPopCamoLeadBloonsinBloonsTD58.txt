@@ -1,0 +1,4 @@
+@summary
+use this upgrade on the second path, "signal flare".
+@article
+ This upgrade allows the Mortar Tower to pop camo bloons and remove camo from Bloons that were hit in its radius.

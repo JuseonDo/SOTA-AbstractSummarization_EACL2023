@@ -1,0 +1,19 @@
+@summary
+obtain the service manual from the hp web site, see "sources and citations".
+
+@summary
+,
+
+@summary
+flip to the section titled "system board" on page 68.follow the instructions carefully and remove the items accordingly until you have removed the system board.
+
+@summary
+this particular laptop uses a fan to blow cooler air across a heat exchanger to get rid of the heat which comes through a cold finger from the processing elements.reassemble the laptop.
+
+@summary
+recharge the laptop.
+
+@summary
+reconfigure the bios if you had changed it for linux or another os.restart the computer.
+@article
+, You'll have to get this far down into the computer, essentially fully disassembled, to get to the fan and heat exchanger.,, Simply blow canned air backwards through this heat exchanger, toward the fan, to free the dust. Blow the fan as well with air, and blow backwards through the inlet vent holes on the bottom case cover. Although using air without dis-assembly may work, doing this may blow the dust into other components such as the speaker which is right next to the fan.,, Since the CMOS was cleared, the system will not start until it thinks it has been recharged. Be patient and wait a couple of hours before trying to start it., Do this by pressing F10 just after turning it on. Set the hardware date and time so that there are no conflicts during booting with dates found on the disk.,

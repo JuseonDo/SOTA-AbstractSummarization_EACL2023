@@ -1,0 +1,25 @@
+@summary
+draw an oval for the head.
+
+@summary
+draw two ovals for the eyeballs and two thin ovals for the pupils.
+
+@summary
+draw the body.
+
+@summary
+draw a set of two thin ovals for the legs.
+
+@summary
+sketch in his clothes.
+
+@summary
+color and outline your drawing.
+@article
+ Add in guidelines for facial features, crisscrossing all over like a chessboard.;
+, Add in curved triangles for the ears and two lines for the nose. Draw a line for his mouth.
+ Draw a thin rectangle for his neck. Draw two circles for the body. Add in his thin arms and hands with three fingers.
+ Add triangles for the feet.
+ Include the gloves and belt. His boots end in inverted "V" shapes and he has very slight shoulder pads--don't forget these details.
+ Make sure no excess guidelines remain.
+

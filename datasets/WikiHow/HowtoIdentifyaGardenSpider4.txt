@@ -1,0 +1,5 @@
+@summary
+let the bite heal on its own.
+@article
+ If you feel discomfort, try putting some ice on the spot to numb it until the discomfort subsides.
+

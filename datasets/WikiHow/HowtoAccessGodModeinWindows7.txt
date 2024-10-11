@@ -1,0 +1,24 @@
+@summary
+create a folder.
+
+@summary
+name the folder with a sequence.
+
+@summary
+the folder should change.
+
+@summary
+this folder is your gateway to the god mode of windows 7.
+
+@summary
+the name god mode is not mandatory.
+
+@summary
+you can even delete this folder or move the folder to any other location on your computer.
+
+@article
+ Right click the Desktop, click New, and then Folder.;
+, Copy God Mode.{ED7BA470-8E54-465E-825C-99712043E01C}, then right click the folder you created, select Rename, and replace its name with that by pasting over the original name. Press Enter on your keyboard to confirm the change.
+ The name should automatically change to God Mode, and the icon should change to the Control Panel icon.
+ Double click it to access its features.
+ You may change it to your preference.

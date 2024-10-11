@@ -1,0 +1,29 @@
+@summary
+open google play from your android device’s applications page.
+
+@summary
+,
+
+@summary
+type "twitter" into the search box.
+
+@summary
+,
+
+@summary
+click on the first application to pop up.
+
+@summary
+click on "install.",
+
+@summary
+open the app.
+
+@summary
+log in to your twitter account.
+@article
+,, This will be the official Twitter application.
+ The application is also free on Android devices.
+ If you haven’t left the Twitter install page of Google Play, you can just tap on Open. If not, go to your list of applications and look for the icon there.
+ If you don’t have an account, you will need to create one.
+

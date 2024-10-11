@@ -1,0 +1,60 @@
+@summary
+log in to your wordpress blog.
+
+@summary
+click on "my account" on the left side of the tool bar at the top of the page.
+
+@summary
+,
+
+@summary
+select the word "pages" on the dashboard.
+
+@summary
+make a page, if you have not already done so.
+
+@summary
+create another page that you would like to be a subpage, or child page to your parent page, if you have not already done so.
+
+@summary
+go back to your page list by clicking on "pages" on the dashboard.
+
+@summary
+click on the page name that you want to turn into a subpage.
+
+@summary
+,
+
+@summary
+this will bring you to the "edit page" screen that allows you to change anything on the page.
+
+@summary
+click on the drop down menu under the word "parent.",
+
+@summary
+you can choose to use the default listing of subpages that came with the template of your blog, or you can use the drop down menu below the "parent" menu to choose to list pages as a site-map, an archives page or at full-width.
+
+@summary
+view your page to see the hierarchy of your pages.
+
+@summary
+repeat with any other pages you would like to place in a hierarchy.
+@article
+
+
+
+If you do not have a WordPress blog, go to their home page and click on the orange button that says "Get Started Here." It will take you through the sign up process.;
+,, The dashboard is the vertical list of words running down the left side of the page.
+ You will need a parent page under which you can list your subpage. On the "Pages" screen, select "Add New," to the right of the word "Pages."
+
+
+When the page form appears, type a title and any content that you want to be posted to your page. Then click the "Publish" button on the right to post it to your site. You can also click "Save Draft" or "Preview" if you are not ready to post it to the site.
+ You will need to go through the same process of typing a title and including content that you want under that page. Then you can publish, save a draft and/or preview your WordPress subpage.
+ There you will see a list of all the pages you have created.
+, Look for a box on the right hand side of your page that says "Page Attributes."
+
+, This will list all the pages that you have created. Choose the page that you want your subpage to be listed under. Then click the blue "Update" button.
+ Experiment to see which look you prefer.
+ Go to your Pages screen to see how your pages are listed in a hierarchy.
+ The links to those pages will reflect that they are under your WordPress parent page.
+

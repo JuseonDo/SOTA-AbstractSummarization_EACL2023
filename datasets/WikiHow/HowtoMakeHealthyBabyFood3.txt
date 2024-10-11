@@ -1,0 +1,13 @@
+@summary
+peel the avocado.
+
+@summary
+peel the banana.
+
+@summary
+combine the pastes in a food processor.finished
+
+@article
+ Take the pit out. Then, use a fork to mash into a paste.
+ Use a fork to mash into a paste.
+ Puree until mixture is smooth and free of chunks.

@@ -1,0 +1,25 @@
+@summary
+navigate to the google timeline website at https://www.google.com/maps/timeline.
+
+@summary
+click on “today” at the top left corner of google timeline.
+
+@summary
+scroll to the bottom of the timeline to identify the last reported location of your iphone.
+
+@summary
+,
+
+@summary
+review the timeline’s location data to verify whether the iphone is moving or lying still.
+
+@summary
+use the map displayed on-screen to locate your iphone.
+@article
+ Google Timeline maps out all location data collected from your iPhone so you can track its location.
+
+
+This method only works if location reporting and history are enabled on your iPhone. Locate your iPhone using a different method in this article if these features are not enabled.
+ Your iPhone’s most recent timeline will display in the left sidebar.
+, This helps determine whether your iPhone is simply lost and misplaced, or on the move.
+ Google Maps uses GPS technology to identify the approximate location of your iPhone.

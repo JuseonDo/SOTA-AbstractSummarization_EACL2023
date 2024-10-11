@@ -1,0 +1,44 @@
+@summary
+memorize ohm’s law (v=ir) and joule’s law (p=iv);
+
+@summary
+,learn the meanings of “v”, “i”, “r” and “p” v= voltage, i= amperage, r= resistance, p= power
+
+@summary
+,
+
+@summary
+solving for “i” using ohm’s law.
+
+@summary
+solving for “r” using ohm’s law.
+
+@summary
+solving for “i” using joule’s law.
+
+@summary
+solving for “v” using joule’s law.
+
+@summary
+inserting ohm’s law into joule’s law.you can also manipulate step 8 (p=i^2r) using the same method as step 3 and get r=p/i^2 and i^2=p/r
+
+@summary
+,
+
+@summary
+inserting step 3 of ohm’s law into joule’s law.you can also manipulate step 9 (p=v2/r) by multiplying both sides of the equation by “r” you eliminate the “r” on one side and get pr=v^2 (see diagram 5) and by using the same method as step 3 you can get r=v^2/p
+
+@article
+,, To solve for “I” using Ohm’s law all you have to do is divide both sides of the original equation by “R” by doing this you eliminate “R” on one side of the equation and you are left with V/R=I (See Diagram 1)
+
+, To solve for “R” using ohm’s law all you have to do is divide both sides of the original equation by “I” by doing this you eliminate “I” on one side of the equation and you are left with V/I=R (See Diagram 2)
+
+, To solve for “I” using Joule’s Law all you have to do is divide both sides of the original equation by “V” by doing this you eliminate “V” on one side of the equation and you are left with P/V=I (See Diagram 3)
+
+, To solve for “V” using Joule’s Law all you have to do is divide both sides of the original equation by “I” by doing this you eliminate “I” on one side of the equation and you are left with P/I=V (See Diagram 4)
+
+, To insert V=IR into P=IV you replace the V in the power dissipation rule with IR and get P=IIR which simplifies to P=I^2R
+
+,, To insert I=V/R into p=IV you replace “I” in power dissipation rule with V/R and get P= (V/R) V which simplifies to P=V^2/R
+
+,

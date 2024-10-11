@@ -1,0 +1,28 @@
+@summary
+go to settings on your iphone, ipad or ipod.
+
+@summary
+in change passcode, enter your old pin.
+
+@summary
+in the bottom left corner you will see a button that says 123.
+
+@summary
+re-enter your new passcode.
+
+@summary
+,
+
+@summary
+turn off your ipod/iphone/ipad, and now you can input a multi-digit passcode!
+
+@summary
+,
+
+@summary
+finished.
+@article
+ If you have iOS 8 or later, go to Passcode > Change Passcode. If you have iOS 7, go to General>Passcode Lock in Settings. Turn Simple Passcode off.;
+, Select Next and you will see a keyboard (since you don't have Simple Passcode activated, this is where you will input numbers).
+ Click on that to see your numbers, punctuation, etc. Input your new passcode with the numbers, but only numbers.
+,, This guarantees that nobody will know exactly the number of your numbers (haha). You can have 7 numbers or 2 numbers, and nobody will know - or be able to guess.

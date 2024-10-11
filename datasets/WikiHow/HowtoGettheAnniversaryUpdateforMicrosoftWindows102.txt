@@ -1,0 +1,10 @@
+@summary
+download the iso (disk image) file.
+
+@summary
+use an iso burner tool to mount the image.
+
+@summary
+install the windows 10 update.
+@article
+ Search for Windows 10 Anniversary Edition ISO Download using your search engine. You may try downloading using this link., Tools like Daemon Tool are helpful in creating virtual drives and installing software., Open the virtual drive and click on setup.exe to start the installation procedure.

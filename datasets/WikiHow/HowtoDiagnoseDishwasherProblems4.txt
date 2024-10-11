@@ -1,0 +1,9 @@
+@summary
+check for kinked drain hoses.
+
+@summary
+inspect the drive belt and hoses for damage or tears.
+@article
+ Other damage should also be visible. You should also check the motor and pump for any obstructions.
+ Test the resistance of the drain valve and the continuity of the timer motor.
+

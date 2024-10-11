@@ -1,0 +1,204 @@
+@summary
+log in to your google drive account.
+
+@summary
+create a new form.
+
+@summary
+change the title of your form.
+
+@summary
+create a category.
+
+@summary
+use the correct question type.
+
+@summary
+add another item.
+
+@summary
+repeat steps 4, 5 and 6 for each category that you want to track.
+
+@summary
+finish form.
+
+@summary
+send it to yourself.
+
+@summary
+continue to spreadsheet.
+
+@summary
+open the responses spreadsheet in google drive.
+
+@summary
+make a new sheet to keep track of totals.
+
+@summary
+rename the sheet.
+
+@summary
+create a column for each category from your form.
+
+@summary
+,
+
+@summary
+add two more columns: total expenses and balance.
+
+@summary
+enter a sum function for each category.
+
+@summary
+select the values to sum from the responses sheet.
+
+@summary
+end with a right end parenthesis and hit "enter".
+
+@summary
+add a sum function in the total expenses column.
+
+@summary
+select the totals from each category.
+
+@summary
+,
+
+@summary
+end with a right end parenthesis and hit "enter".
+
+@summary
+,
+
+@summary
+calculate the balance by subtracting the "total expenses" column from the "income" column.
+
+@summary
+it can be helpful to look at how much of your income you are spending on each expense category.open the totals sheet in your responses spreadsheet.
+
+@summary
+label a row “percent of income”.
+
+@summary
+,
+
+@summary
+enter a formula for each category, dividing the expenses from that category by total income.
+
+@summary
+convert these decimals to percent formatting.
+
+@summary
+you can use conditional formatting to alert you when your balance has reached a certain limit.
+
+@summary
+,
+
+@summary
+right-click the cell you want to have conditional formatting in the “balance” column.
+
+@summary
+,select “conditional formatting” from the drop-down list to open the conditional formatting window.
+
+@summary
+click on the rule button that says “text contains”.in the drop-down list, select “less than”.
+
+@summary
+in the text box, type in the value of your limit.
+
+@summary
+check the box for “background color”.
+
+@summary
+select a color for the background.
+
+@summary
+click “save rules”.
+
+@summary
+access your email.
+
+@summary
+,
+
+@summary
+view the email sent from your created form.
+
+@summary
+,
+
+@summary
+follow the link in the email.
+
+@summary
+,
+
+@summary
+click on the upload icon as shown above.
+
+@summary
+click the "add to homescreen" icon.
+
+@summary
+,
+
+@summary
+name the icon and click "add.",
+
+@summary
+access your budget.
+
+@summary
+view the email sent from your created form.
+
+@summary
+,
+
+@summary
+follow the link in the email.
+
+@summary
+,access the screen's menu by pressing the lower left icon of your phone.
+
+@summary
+choose 'add to homescreen'.
+
+@summary
+,
+
+@summary
+exit to your phone's homepage, and place your icon on the desired screen.
+@article
+ Go to Google Drive and log into your Google drive account. If you don't have an account, it will prompt you to create one.
+ Inside your drive account, select the ‘CREATE’ button, followed by ‘Form’ on the drop-down options. If your drive account is empty, select the ‘NEW’ button and you’ll find forms in the ‘More’ section.
+ Click and highlight ‘Untitled form’ and replace it with the what you wish to call your form. We'll go ahead and call ours 'School Budget'.
+ Replace the Question Title with a financial category you want to track. (ex. Rent, Gas, Groceries, etc.)
+
+, Make sure the Question type is changed from the default ‘Multiple choice’ to ‘Text’ in the dropdown menu.
+ To add another item to your form, click ‘Add item’.
+ Each one of these items will be tracked by your form when you either spend or earn money. The finished product will resemble the image below:, After you have added all desired categories, click the ‘Send form’ button.
+ After pressing ‘Send form’, this box should appear. Under ‘Send form via email’, type in the email address that you have access to from your phone.
+ Select ‘View responses’ in the top menu bar to go to your spreadsheet where all the responses will be stored.
+ The spreadsheet will be divided into columns, one for each category. The "Timestamp" column shows exactly when you submitted each entry., Click on the "Add Sheet" button on the bottom of the page.
+ Right-click on the "Sheet2" button and click Rename. Type in the name you would like, for example, Totals.
+, Total Expenses will keep track of how much you've spent from all the categories. Balance will keep track of how much money you have left.
+ Type =sum(
+
+, Click on the Form 1 Responses button at the bottom of the page. Click on the column header cell for the category you want to sum.
+ Using this process, make a sum function for each category in the totals sheet.
+ Type =sum(
+
+,,, Type =. Select the Income total. Type -. Select the Total Expenses total. Hit Enter.
+Congratulations! You have now finished the creating the sum functions. The spreadsheet will now keep track of your total income and expenses for you.
+ You can do this using formulas and percent formatting.
+,, For example, in the “School Expenditures” column, type =B2/A2, in the “Groceries” column, type =C2/A2, and continue this format for all of your categories. In this example, A2 is the total income, and B2, C2, etc. are category totals.
+ Select the cells you want to change. Click on the “Format as percent” button in the toolbar (represented by the symbol %). The selected cells will now use percent formatting. These cells describe the percent of your total income that you spent on each expense category for the month.
+,,, This opens the drop-down list for the kinds of rules you can use.
+, For example, type 100.
+ This will open the color palette for the background color., For example, choose red.
+ The cell you selected will now change color when the balance is below the limit you set.,,,, This will put the form on the homepage of your iOS device.
+,
+
+, It is now accessible on your phone's home screen. Whenever you make a purchase, you can input the amount of the purchase on your phone and the values will be instantly updated to your form.
+,,,, You can now access your form quickly to input expenditures and income.
+

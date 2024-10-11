@@ -1,0 +1,38 @@
+@summary
+click the apple icon.
+
+@summary
+click “system preferences.” you’ll see a new window with four categories, including “internet & wireless.” this section has a “sharing” folder.
+
+@summary
+click “sharing”.
+
+@summary
+check the “file sharing” box.
+
+@summary
+,
+
+@summary
+click the “+ button” under “shared folders:”.
+
+@summary
+click the folder you’d like to share.
+
+@summary
+click “add.” you should see the folder you added under the “shared folders:”.
+
+@summary
+exit the window.
+@article
+ The icon is at the top-left of your screen. ,
+
+
+If you don’t see these categories, click the button with 12 dots located at the top of the window. This button will take you to the main “System Preferences” page on macOS.
+ The icon displays as a blue folder with a person walking inside a yellow sign. You’ll see a new window with several options at the left, including “File Sharing.”
+
+,, You’ll see a new window allowing you to find a folder to share.
+ Find it by navigating the “Places” option on the left, which includes a “Desktop” folder, “Documents” folder, etc.
+ Now you can exit.
+ Your folder has been shared and is available to other computers on your wireless network. Shared files and folders can be found under “Shared” in the Finder window sidebar.
+

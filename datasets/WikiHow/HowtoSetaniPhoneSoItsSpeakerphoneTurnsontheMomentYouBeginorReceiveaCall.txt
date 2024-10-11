@@ -1,0 +1,45 @@
+@summary
+update your ios device to at least version 8.0.
+
+@summary
+open the settings app on your device.
+
+@summary
+,
+
+@summary
+touch the general option.
+
+@summary
+,
+
+@summary
+tap accessibility.
+
+@summary
+scroll the page of options all the way to the bottom, so a few options are listed from the bottom of the page.
+
+@summary
+,
+
+@summary
+tap call audio routing.
+
+@summary
+tap the speaker setting.
+
+@summary
+,
+
+@summary
+save your settings.
+
+@summary
+try out your settings.
+@article
+ If you are stuck on iOS 7 or earlier, you'll only get the speakerphone to turn on when you receive the call and not when you are making an outbound call.;
+,,, This option should give you a whole list of choices.
+, Once you get in, you'll see that this setting is set to Automatic, don't worry.
+, Tap the left arrow with the word Accessibility, then general from the top left to save.
+ Make an outbound call first, then try receiving a call on your device. Both times you should end up with the speakerphone turned on the moment you make or receive a call.
+

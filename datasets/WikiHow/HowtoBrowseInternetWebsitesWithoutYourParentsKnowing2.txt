@@ -1,0 +1,19 @@
+@summary
+download another internet browser such as firefox or safari.
+
+@summary
+,
+
+@summary
+do not make this browser your default browser.
+
+@summary
+clear all evidence of the installation.
+
+@summary
+use this browser to surf the internet privately.
+@article
+, When you install it make sure to not set as your default browser.
+ If you are using Windows, delete the quick launch shortcut and move it to some safe location.
+ Now, you can use the other browser for stuff you don't want your parents to know about. The favourites, history, cache, and cookies will be separate from your normal browser. Your parents will continue to use the other browser normally, and even if they check the history they won't find anything, but make sure they don't notice the other browser.
+

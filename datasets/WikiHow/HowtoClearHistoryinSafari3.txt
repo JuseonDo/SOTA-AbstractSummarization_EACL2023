@@ -1,0 +1,18 @@
+@summary
+open the settings app.
+
+@summary
+scroll down and tap "safari".
+
+@summary
+,
+
+@summary
+scroll down and tap "clear history and website data".
+@article
+ If you want to delete all of your browsing history, you'll need to do it from the Settings app instead of Safari.
+
+
+If you want to delete a single entry, click here.
+, Tap "Clear History and Data" to confirm. All of your history, cookies, and other browsing information will be deleted.
+

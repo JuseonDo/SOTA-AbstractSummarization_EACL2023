@@ -1,0 +1,36 @@
+@summary
+get the 5 pieces.
+
+@summary
+if you plan to use the "appropriate engine", "library engine" or "underdog engine", skip to the tips section.
+
+@summary
+,
+
+@summary
+add cards to search exodia.
+
+@summary
+add plenty of drawing cards.
+
+@summary
+include some deck thinning cards.
+
+@summary
+add in stall cards like "swift scarecrow", "battle fader", "swords of revealing light", "nightmare's steelcage", "defense draw", or "messenger of peace".
+
+@summary
+include a few ways to recover exodia from the graveyard.
+
+@summary
+if your exodia pieces are getting banished often, you may consider adding a card to retrieve them.you can fill in the rest of your deck with whatever you want, but recommended cards are "deep diver", "jar of greed", "legacy of yata-garasu", 3 "toon table of contents", "monster reincarnation", "magical stone excavation" and "a feather of the phoenix"
+
+@article
+ Each one is Limited to 1 per deck.;
+,, Emissary of the Afterlife, Where Arf Thou?, Legion the Fiend Jester, and Blue Dragon Summoner can search the limbs, and Deep Diver, Vampire Dragon, and Lavalval Chain can search all pieces, including the head.
+ Upstart Goblin, Pot of Duality, Dark World Dealings, Reckless Greed, One Day of Peace, Reload, and Magical Mallet are all helpful. Do not use Pot of Greed, as it is forbidden.
+ These help get cards out of your deck so it is easier to draw Exodia. Use three copies of Thunder Dragon or Toon Table of Contents to search themselves.
+ This will protect your life points, as well as your monsters
+
+, Otherwise, if your opponent manages to discard one, you will be unable to win. Good cards are Jar of Avarice, Monster Reincarnation, Dark Eruption, Backup Soldier, and Dark Factory of Mass Production. The latter two only work on the limbs. Don't use too many of these; you priority should be getting the Exodia pieces before your opponent can do anything.
+ Trance Archfiend, Dimensional Alchemist, and Necroface are good for this.

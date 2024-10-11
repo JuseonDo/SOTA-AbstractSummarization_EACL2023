@@ -1,0 +1,5 @@
+@summary
+determine how many guests you will need gift bags for.
+@article
+ You'll need to make enough, plus some spares for those last-minute guest changes.
+

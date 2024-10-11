@@ -1,0 +1,13 @@
+@summary
+grab your cable remote while the cable box is turned on.
+
+@summary
+release the buttons and wait for three to five minutes.
+
+@summary
+turn on your tv and then your cable box using the remote or the buttons on the box itself.
+@article
+ Press the volume up, volume down and info buttons simultaneously. Hold them down till the power goes off on your cable box., Allow the cable box to scroll through alphanumeric codes and information without interrupting until it says “Turn on.”
+
+, There may be a delay while the cable box reloads.
+

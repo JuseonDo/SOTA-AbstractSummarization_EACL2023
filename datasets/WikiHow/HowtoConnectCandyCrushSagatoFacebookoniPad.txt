@@ -1,0 +1,35 @@
+@summary
+download and install candy crush saga from itunes app store.
+
+@summary
+launch the game from your ipad’s home screen.
+
+@summary
+,
+
+@summary
+tap on the "connect" button on the welcome screen.
+
+@summary
+,
+
+@summary
+accept permission.
+
+@summary
+wait while the game tries to connect to your facebook account.
+
+@summary
+,
+
+@summary
+synchronize.
+
+@summary
+click on “ok” to proceed.
+@article
+;
+,,, A small prompt will appear asking for permission to access your Facebook information. Click on "OK" to proceed.
+, Once the game has successfully connected to Facebook, you’ll return to the app’s welcome screen with a prompt notifying you that it has successfully connected and all progress made will be synchronized to your account.
+ Candy Crush Saga is now connected to your Facebook! You can now requests Lives and Tickets from your Facebook friends!
+

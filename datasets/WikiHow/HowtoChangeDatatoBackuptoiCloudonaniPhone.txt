@@ -1,0 +1,23 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll to the fourth group of options and select icloud.
+
+@summary
+,
+
+@summary
+scroll down to backup and tap it.
+
+@summary
+slide the icloud backup switch right to the "on" position.
+
+@summary
+tap ok to confirm your choice.
+@article
+ Do so by tapping the grey gear icon on one of your Home screens (it might also be in a folder named "Utilities").;
+,, If you aren't already signed in with your Apple ID, you'll need to tap Sign In and do so with your Apple ID credentials first.
+ It should turn green.
+ Your information will now back up to iCloud automatically when your iPhone is plugged in, locked, and connected to wifi--no need to manually back up to iTunes.
+

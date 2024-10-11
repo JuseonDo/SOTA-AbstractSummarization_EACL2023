@@ -1,0 +1,20 @@
+@summary
+determine the special features you want in your forum.
+
+@summary
+decide whether you want your forum to be shared with social networking sites.
+
+@summary
+determine if you want your forum to rank high in search engine results.
+
+@summary
+decide if you want a public or private forum.
+
+@summary
+click on the "quick online tips" website listed in the sources section of this article to view a chart that displays features of various wordpress forum plugins.
+
+@article
+ Each forum plugin will provide users with different features. For example, some plugins will allow your community members to receive email notifications about certain discussions, whereas other plugins will allow community members to embed videos, photos, and other media into discussions.;
+, Some forum plugins will allow your forum community members to publish topics to their Twitter and Facebook accounts, which can potentially help bring additional exposure to your blog and forum.
+ If you want your blog and forum to rank high in search engines, use a forum plugin that assigns each page in your forum a high-ranking uniform resource locator (URL).
+ A public forum will allow guests to post comments and discussions in your forum; a private forum will require forum participants to become members of the forum before they can post any comments.

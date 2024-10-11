@@ -1,0 +1,8 @@
+@summary
+if you know the root password for your mysql server, the mediawiki setup script can automatically create a database and an account to access it.
+
+@summary
+if you don't know the root password for your mysql server, you need to create a mysql database and a user before installing mediawiki.
+@article
+ Skip to the "Run the installation script" section below., You can do this using various control panels such as . See the corresponding documentation. Most web hosting services provide a MySQL database along with your hosting account. If that is the case, use the MySQL credentials provided by your host along with the database name, and then specify something like mw_ as table prefix. This will allow MediaWiki to tell what tables belong to it. Alternatively, ask your hosting service to create an account for, then proceed as above.
+

@@ -1,0 +1,13 @@
+@summary
+for this project, you will need to be familiar with the following stitches and abbreviations.
+@article
+
+
+Chain (ch)
+Stitch (st)
+Double Crochet (dc)
+Slip Stitch (sl st)
+Single Crochet (sc)
+Half Double Crochet (hdc)
+Triple Crochet (tr)
+Skip (sk);

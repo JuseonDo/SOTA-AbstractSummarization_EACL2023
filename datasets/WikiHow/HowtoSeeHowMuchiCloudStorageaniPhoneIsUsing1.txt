@@ -1,0 +1,21 @@
+@summary
+open the settings app.
+
+@summary
+tap icloud.
+
+@summary
+,
+
+@summary
+tap storage.
+
+@summary
+,
+
+@summary
+review the results.
+@article
+;
+,,, Subtracting the "Available" storage value from your "Total Storage" value will tell you how much iCloud space your iPhone is using.
+

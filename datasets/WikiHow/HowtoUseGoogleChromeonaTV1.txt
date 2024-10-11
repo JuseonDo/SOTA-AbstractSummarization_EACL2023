@@ -1,0 +1,52 @@
+@summary
+connect your chromecast to your television.
+
+@summary
+connect to the same wi-fi network as the chromecast.
+
+@summary
+open chrome on your computer.
+
+@summary
+visit any website in chrome.
+
+@summary
+click the ⋮ icon at the top right side of chrome.
+
+@summary
+click “cast.” chrome will search for a chromecast or cast-enabled television.
+
+@summary
+click the arrow next to “cast to.” this will bring you to the “select source” menu.
+
+@summary
+select “cast tab.” otherwise, you’ll be sharing your entire computer screen (and not just chrome).
+
+@summary
+,
+
+@summary
+click the arrow next to “select source.” this will take you back to the “cast to” menu.
+
+@summary
+select your chromecast from the list.
+
+@summary
+stop casting.
+@article
+ To use Google Chrome on your television, you’ll need have a Chromecast already hooked up to your television.
+
+
+This method will work for the Windows, Mac, and ChromeOS versions of the browser.;
+, If your computer is not already connected to Wi-Fi, connect now., Chrome has a built-in “Cast” feature that allows you to send a Chrome tab to your TV.
+ Load up a website, such as wikiHow.com, so you’ll have something to cast to the TV.
+ The Settings menu will expand.
+, You’ll see two options—“Cast tab” and “Cast desktop.”
+
+,, Depending on the amount of Google Cast-supported devices on the network, you may see several devices listed.
+ In a few seconds, the site you loaded in the browser will appear on your television screen.
+
+
+You can browse to other websites while casting to the TV—just be sure you’re staying in the correct browser tab.
+ When you’re ready to stop using Chrome on your TV, either close the browser tab or click “Stop.”
+

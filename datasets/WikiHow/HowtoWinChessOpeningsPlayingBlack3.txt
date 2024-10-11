@@ -1,0 +1,24 @@
+@summary
+d4 d5
+
+@summary
+d4 - opening by moving the queen pawn two spaced forward is widely thought to be the more aggressive alternative to e4 lines.
+
+@summary
+c4 dxc4
+
+@summary
+c4 - this is the defining move of queen's gambit lines.
+
+@summary
+e4
+
+@summary
+e4 - as grandmaster chris ward stated, "if the qga is to be refuted, then 3 e4 is probably the place for white to look."
+@article
+
+d5 - Copying whites move is the logical response to this attack, and is likely to happen in a game scenario.
+ White has placed black in an uncomfortable position; either take the hanging pawn and accept the positional disadvantage or decline and stay materially equal.
+dxc4 - Black has chosen to accept the Queens Gambit; in continuations of this line black struggles to protect the weak pawn on c4.
+ This is because White now completely dominates the center leaving black with closed center and a hanging pawn.
+

@@ -1,0 +1,5 @@
+@summary
+write a business plan.
+@article
+ Your business plan should include details about your philosophy, operational plans, budget, funding and your educational plans.
+

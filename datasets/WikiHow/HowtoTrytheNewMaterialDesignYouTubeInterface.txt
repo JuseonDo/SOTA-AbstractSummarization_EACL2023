@@ -1,0 +1,19 @@
+@summary
+open your web browser and visit youtube.com/new.
+
+@summary
+click or tap the try it now button.
+
+@summary
+,
+
+@summary
+provide feedback as you use it.
+
+@summary
+return to the regular design if you'd like.
+@article
+;
+,, To provide feedback, press the menu button ⋮ at the top right of your page and select Send feedback.
+ If you don't like the new interface, simply press the menu button ⋮ and then click or tap Restore classic YouTube.
+

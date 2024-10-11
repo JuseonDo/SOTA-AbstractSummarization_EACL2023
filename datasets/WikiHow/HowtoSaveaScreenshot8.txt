@@ -1,0 +1,35 @@
+@summary
+setup a dummy twitter account.
+
+@summary
+press and hold the share button when you want to take a screenshot.
+
+@summary
+select "upload screenshot" and then select the screenshot you want.
+
+@summary
+select twitter from the list of services.
+
+@summary
+upload the image.
+
+@summary
+open your twitter account on your computer.
+
+@summary
+click the image to open it.
+
+@summary
+right-click on the image and select "copy image url".
+
+@summary
+paste the address in your address bar.
+
+@summary
+save the image to your computer.
+@article
+ The PS4 only allows you to upload screenshots to Twitter or Facebook, and constantly posting your screenshots here can tick off your friends. Creating a dummy account and setting it to Private will allow you to upload your screenshots and then download them to your computer without having to bother anyone.Click here for instructions on creating a Twitter account.
+ Your game will pause, and the Share menu will open.
+
+You can adjust your controller settings so that tapping the Share button opens the menu instead of having to hold it. Press the Options button while in the Share menu to change these settings.
+Not all content supports screenshots. You may not be able to take screenshots when playing movies or during video game cutscenes., You can only upload a single screenshot at a time., Sign in with your dummy Twitter account if you're not already., You can add a post to it if you'd like., After posting the screenshot, you can download the full-quality version by opening your Twitter account., The image will pop-out in a separate window., This will copy the address for the image to your clipboard., Change large to orig at the end of the URL and press ↵ Enter. This will load the full-size image in your browser., Press Ctrl+S or click "Save" in your browser's menu to save the image to your computer.

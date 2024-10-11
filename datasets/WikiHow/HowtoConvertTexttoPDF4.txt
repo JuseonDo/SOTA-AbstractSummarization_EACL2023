@@ -1,0 +1,13 @@
+@summary
+open the document that you want to convert to a pdf.
+
+@summary
+click the "file" menu and select "download as" → "pdf document".
+
+@summary
+copy text into a blank drive document to quickly create pdfs.
+@article
+ You can convert any text documents on Google Drive to PDF through the Google Drive interface.
+ The PDF copy will begin downloading immediately.
+ Because of how quickly you can create PDFs in Drive, it makes it one of the most efficient ways to create PDFs from text you have in other locations.
+

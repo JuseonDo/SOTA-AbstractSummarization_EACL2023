@@ -1,0 +1,16 @@
+@summary
+download openoffice.org 2.1.
+
+@summary
+open office writer.
+
+@summary
+pen it in notepad.
+
+@summary
+be extra sure that the links bring you to the folders/file you put in myportal.
+
+@article
+ Create a folder on your PSP called "myportal". No caps or quotations.;
+, Type the words that you want, and, save it as index.html.
+ create links like <a href="myportal/photo/eyecandy.gif">click me, add songs like you do in PSPTunes, etc.

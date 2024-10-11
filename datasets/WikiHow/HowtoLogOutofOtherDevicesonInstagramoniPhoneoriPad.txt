@@ -1,0 +1,33 @@
+@summary
+open instagram.
+
+@summary
+tap the profile icon.
+
+@summary
+tap the gear.
+
+@summary
+tap change password.
+
+@summary
+,
+
+@summary
+type your current password into the first blank.
+
+@summary
+,
+
+@summary
+type a new password into the bottom two boxes.
+
+@summary
+tap done.
+@article
+ It’s the red, purple, and orange camera icon. You’ll typically find it on your home screen.;
+, It’s the outline of a person’s head and shoulders at the screen’s bottom-right corner.
+ It’s at the top-right corner of the screen.
+,, The passwords in the bottom two boxes must match.
+ It’s at the top-right corner of the screen. This signs you out from all devices on which you’re logged in to Instagram.
+

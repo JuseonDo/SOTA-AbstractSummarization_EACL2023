@@ -1,0 +1,28 @@
+@summary
+insert your installation disk.
+
+@summary
+shut down and boot up/restart your mac.
+
+@summary
+the screen should start showing weird things.
+
+@summary
+after a bit, apple hardware test will display.
+
+@summary
+if no random numbers and letters are displayed, there are no hardware faults, but if there are, there is at least one fault.
+
+@summary
+,
+
+@summary
+if you have a fault, call apple and tell them your fault code.
+
+@article
+ This should be the one of the discs from your Mac accessories. If it isn't there, use the latest operating system disc, such as the Snow Leopard installation disk. In OS X Lion, the hardware test is usually stored on the Hard Drive. If it is not found, your Mac will attempt to download the test over the internet.;
+, Before you hear the chime, hold down D. After the chime, hold it for maybe 2-5 seconds. Then, release it.
+ This is normal.
+ Click start. The fans may start speeding up and slowing down. This is also normal
+
+,,

@@ -1,0 +1,19 @@
+@summary
+open internet explorer.
+
+@summary
+tap the "tabs" button.
+
+@summary
+tap the "..." button at the top of the tabs frame and select "new inprivate tab".
+
+@summary
+use the tabs frame to switch between your inprivate and regular tabs.
+@article
+ This method is for the Metro version of Internet Explorer 11 that comes with Windows 8.
+ This can be found at the bottom of the screen, to the right of the address bar. This will open the Tabs frame., This will open a new private tab in the browser.
+ Your InPrivate tabs will be marked in the Tabs frame so that you can easily identify them.
+
+
+InPrivate Browsing will not prevent your employer or network administrator from seeing the sites that you've visited.
+

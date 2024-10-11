@@ -1,0 +1,9 @@
+@summary
+if you can't locate an equalizer on your tv or stereo, or just can't be bothered fiddling with it, try using your tv's treble sound control.
+
+@summary
+try adjusting your speakers if you have a surround sound system.
+@article
+ Locate the treble control, and turn the treble sound down as far as is possible. Doing this should reduce the vuvuzela sound enough to be bearable.
+ Try lowering the volume of the speaker that brings out the crowd noise and raise the volume of the one with the commentator's voices. Keep adjusting until you get the balance right.
+

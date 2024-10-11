@@ -1,0 +1,31 @@
+@summary
+find out if the two plants are in the same botanical species.
+
+@summary
+cut a male flower off of one variety of the plant.
+
+@summary
+,
+
+@summary
+rub the pollen on a female flower of another plant that's within the same botanical species.
+
+@summary
+,
+
+@summary
+wait for the fruit to mature and ripen.
+
+@summary
+save the seeds.
+
+@summary
+,
+
+@summary
+plant them.
+@article
+ For example, zucchini, Howden Field pumpkin, acorn squash, spaghetti squash, small decorative gourds, and Jack-Be-Little miniature pumpkins are all members of the same botanical species, C. Pepo. But Butternut squash, Small Sugar pumpkin, White Cushaw pumpkin, and Big Max pumpkin are not in the same botanical species, so they cannot be crossed with this method.;
+,,, The results of cross-pollination will not be expressed in this generation; they will show up in the next.
+, They will grow into plants which make hybrid vegetables.
+

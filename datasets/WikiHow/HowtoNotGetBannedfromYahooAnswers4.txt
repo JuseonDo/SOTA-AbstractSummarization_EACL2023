@@ -1,0 +1,9 @@
+@summary
+do not give answers on things you have no knowledge on.
+
+@summary
+do not give unhelpful and one-worded answers.
+@article
+ As previously mentioned, if you do not know about a topic, don't bother answering.
+ If somebody asked a question, and you replied "Okay." or "I don't know, Google it.." or "Dunno." or "Thanks for the two points." you could be risking account termination.
+

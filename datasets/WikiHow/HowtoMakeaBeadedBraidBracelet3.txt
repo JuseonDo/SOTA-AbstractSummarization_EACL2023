@@ -1,0 +1,44 @@
+@summary
+thread the first bead onto the first string.
+
+@summary
+finish adding beads until approximately half of the bracelet is left.
+
+@summary
+tie a small knot after the last bead to hold it in place.
+@article
+ Loop over for the first step of the braid.
+
+
+
+
+
+
+
+
+
+Add the next bead and loop the string over itself.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Continue adding beads and then make the next step for braiding.
+ You will be braiding the remaining portion of the bracelet.
+ Make sure the knot is larger than the bead so it doesn’t slide forward.
+
+
+
+
+
+
+
+

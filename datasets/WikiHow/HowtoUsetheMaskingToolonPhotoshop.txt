@@ -1,0 +1,40 @@
+@summary
+open the image you would like to change the background on.
+
+@summary
+to convert the image to a layer, right click on it and click ‘layer from background’.
+
+@summary
+,
+
+@summary
+duplicate the layer by pressing ctrl+j so you have three versions of the image (this is so you don’t lose the original if you go wrong).
+
+@summary
+make your changes.
+
+@summary
+make the top layer visible again so you can make the changes.
+
+@summary
+wait for a white box to pop up next to the selected layer.
+
+@summary
+,
+
+@summary
+reveal the background from the middle layer.
+
+@summary
+flatten the image, if you're done.
+
+@summary
+enjoy your image and keep up the good work!
+@article
+;
+,, Then select the middle layer.
+ This example will adjust the Hue/Saturation of the middle layer. If you cannot see your changes, this means that the top layer is visible. If this is the case then click on the eye next to the top layer to remove it from view.
+ To add a mask go to the bottom of the layers pane and click on ‘Add Layer Mask’.
+, To do this, click on the paint brush tool and make the colour black. This will erase the background from the top layer. If you go wrong you can either undo the mistake or go over it in white. If you would like a partial view then make the colour a tone of grey.
+ You have now successfully replaced the background of your image. If you are happy with your changes then you can flatten the image to make one layer. However, this will mean you cannot adjust it again. To do this click on the menu button in the top right corner of the layers pane and select ‘Flatten Image’.
+!

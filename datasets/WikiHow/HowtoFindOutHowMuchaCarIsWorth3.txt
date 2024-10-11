@@ -1,0 +1,25 @@
+@summary
+on the kelley blue book site, click “what should i pay for a new car?” under the "car values” tab.
+
+@summary
+,
+
+@summary
+enter the make and model of the vehicle.
+
+@summary
+select the year.
+
+@summary
+enter additional details.
+
+@summary
+look at the results.
+@article
+, Then, click "next."
+
+, Sometimes, you'll be able to choose between the current year's model and the previous year's model to buy new. You may also have to choose a style.
+ Customize the car by clicking on the options you desire. This will help you get the most accurate price of the car. When you're done, click "See Fair Purchase Price."
+
+, You will see an MSRP (Manufacturer’s Suggested Retail Price) and a “New Car Blue Book Value.”
+

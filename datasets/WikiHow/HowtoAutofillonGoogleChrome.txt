@@ -1,0 +1,39 @@
+@summary
+click on the chrome menu button located at the top right corner of the browser.
+
+@summary
+click on “settings” on the pop-up window.
+
+@summary
+,
+
+@summary
+click “show advanced settings.” this is located at the very bottom of the settings page.
+
+@summary
+,
+
+@summary
+scroll down to the passwords and forms section.
+
+@summary
+,
+
+@summary
+click “manage autofill settings” under the passwords and forms section.
+
+@summary
+add an address and/or credit card number.
+
+@summary
+use autofill.
+@article
+ A pop-up window will appear.;
+,,,, The autofill settings pop-up will show.
+ On the pop-up window, click “Add new street address” and enter the address you would like to save.
+
+
+To add a credit card, click on “Add new credit card” and enter the card information on the small pop-up window that will appear.
+Click the “Done” button when you are finished.
+ The next time you are filling up something online, simply click on the address field or credit card information field and enter the first few words or letters of the details to bring up your entered information. Click the complete address or credit card number that will appear on-screen to autofill the fields.
+

@@ -1,0 +1,34 @@
+@summary
+get access to an admin account.
+
+@summary
+open the system preferences from the apple menu and choose “parental controls”.
+
+@summary
+,
+
+@summary
+click the lock icon and authenticate as usual.
+
+@summary
+select the user account you want to disable parental controls for.
+
+@summary
+,
+
+@summary
+click the gear icon near the bottom of the preference panel and choose “turn off parental controls for ‘username'”.
+
+@summary
+,
+
+@summary
+exit out of system preferences.
+@article
+ Disabling Parental Controls on an OS X account is easy either directly from the account they are actively set on, or with another Mac login that has administrative access. If you’re disabling the account restrictions from the account that currently has them enabled, you will need to enter an administrator login username and password - that is an obvious security precaution to prevent someone from disabling the restrictions without proper access.;
+,, This allows for changes to be made to the restrictions.
+,, Disable Parental Controls for a user in Mac OS X.
+
+
+This instantly disables all parental controls and restrictions that were set for that Mac login, so there’s no need to manually tweak settings for individual restriction options. At this point the Mac account will have whatever default access it was set to beforehand, whether that’s a full guest user account, normal login, or administrative user.
+

@@ -1,0 +1,26 @@
+@summary
+visit oracle's java se download page and download the correct package for your platform: typically windows, linux, or solaris.
+
+@summary
+learn to use a basic, "clean" editor like notepad (windows), vim or emacs or notepad++ (windows) or sublime text or gedit (linux).
+
+@summary
+learn the basic edit-compile-test cycle (or build cycle):
+
+@summary
+create or edit the program source file(s).
+
+@summary
+compile and run a simple hello world!,
+
+@summary
+when you run into a snag, a large number of problems and their solutions can be found with a search engine, like yahoo!
+@article
+ Macintosh users will find they already have the J2SE installed. Alternatively, use an open-source or other third-party compiler such as gcj or jikes, and compile to a native executable or run it with the Java JRE.;
+, These don't taint your program source with formatting information as does, for example, Microsoft Word or Libreoffice Write. Whatever editor you use must have the option to save as "plain text".
+
+Compile to .class files.
+Run the program with the Java executable, or as an applet in a browser. If the functionality isn't correct, or you want to add more features, start again at step 1.
+ application to get familiar with the process.
+ and Google. Make good use of this extraordinary resource.
+

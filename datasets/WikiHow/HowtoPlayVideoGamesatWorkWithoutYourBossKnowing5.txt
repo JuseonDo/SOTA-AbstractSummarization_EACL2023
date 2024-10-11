@@ -1,0 +1,13 @@
+@summary
+remove any evidence that you’ve gamed at work.
+
+@summary
+remove the flash drive from your work computer.
+
+@summary
+place flash drive in your purse, pocket or briefcase.
+@article
+ Check the history in your browser and erase any game URLs by selecting the URL and hitting delete.
+ If you forget and leave it in the computer, you open yourself up to being discovered.
+ Be sure you completely remove the flash drive from the premises.
+

@@ -1,0 +1,21 @@
+@summary
+understand what a benzene derivative is.
+
+@summary
+don't use numbering if there's only one substituent.
+
+@summary
+learn benzene naming conventions.
+
+@summary
+if your benzene molecule has three substituents, name it as you would a normal cyclic hydrocarbon.
+
+@article
+ A benzene derivative is based on a benzene molecule, C6H6, which three evenly-spaced double bonds.
+ As with other cyclic hydrocarbons, there's no need to use a number if the ring only has one substituent.
+ It's possible to name your benzene molecule as you would any other cyclic hydrocarbon, starting alphabetically with the first substituent and assigning numbers going around. However, there are some special designations for substituent positions on benzene molecules:
+
+
+Ortho, or o-: The two substituents are located at 1 and 2.
+Meta, or m-: The two substituents are located at 1 and 3.
+Para, or p-: The two substituents are located at 1 and 4.

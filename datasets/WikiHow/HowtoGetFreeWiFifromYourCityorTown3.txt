@@ -1,0 +1,25 @@
+@summary
+find out if your city has a public wifi network.
+
+@summary
+download a free wifi finder program.
+
+@summary
+make or buy an inexpensive directional wireless booster cantenna and connect it to your computer's wifi card, pcmcia card, or your access point.
+
+@summary
+scan the horizon with your cantenna.
+
+@summary
+connect and set up your antenna in the position that gives you the best signal strength.
+@article
+ Check Wi-FiHotSpotList.com to see if your area makes the list. They're becoming more and more common.
+ Listed in the steps above, WiFi finder programs find even hidden networks. There is an app for virtually every set up. NetStumbler.com works for Windows.
+
+
+
+A cantenna is literally made from a can. If you're interested in this but don't want a tin can hanging off your laptop, buying one may be your best route.
+ Use your WiFi finding program and look for the free network you found in the directory. It is best to point the cantenna out a high window with a clear line of sight to the public network
+
+, This may take a bit of meandering, but your efforts will pay off shortly.
+

@@ -1,0 +1,36 @@
+@summary
+use finder on your macintosh computer to locate, and navigate to, your provision files.
+
+@summary
+delete every provision file located in the provisioning files folder.
+
+@summary
+empty the provision files from the trash to remove them from your computer permanently.
+
+@summary
+open the itunes application from where it is stored on your computer.
+
+@summary
+,
+
+@summary
+attach your ios device to your computer and sync it as you normally would.
+@article
+
+
+
+Finder is represented by a square, happy-face icon located in your toolbar, also known as the Dock, on your Desktop.
+Your provision files can be accessed by opening the Library folder, followed by the MobileDevice folder, and are located in the Provisioning Files folder.
+
+
+
+You may also choose to remove just the provision files that are being affected.
+
+
+
+The Trash icon is located in the Dock on your Desktop and resembles a wastebasket.
+,
+
+
+This process will clear out cache files from iTunes that may still contain the provision files you no longer want.
+

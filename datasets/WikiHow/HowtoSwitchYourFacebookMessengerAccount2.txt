@@ -1,0 +1,24 @@
+@summary
+open messenger.
+
+@summary
+tap the profile button.
+
+@summary
+tap switch account.
+
+@summary
+tap the name of the account.
+
+@summary
+tap ok in the pop-up window to continue with the account you’ve chosen.
+@article
+ It’s a white app with a blue speech bubble.
+ It’s a blue circle with the outline of a person in the top left corner. This will open your profile page.
+ It’s toward the bottom of the page.
+ A window will pop up.
+ You’re now logged in with the other account.
+
+
+If this is the first time you’ve switched to this account, Messenger will ask whether you want to require a password in order to switch. Tap Don’t Require or Require to continue.
+

@@ -1,0 +1,34 @@
+@summary
+visit blogger.com.
+
+@summary
+click sign in at the top-right of the page.
+
+@summary
+,
+
+@summary
+type your username or email address.
+
+@summary
+press next.
+
+@summary
+,
+
+@summary
+type your password and press sign in.
+
+@summary
+,
+
+@summary
+use blogger.
+@article
+;
+,, If you don't have one, you can get a Google account for free.
+
+
+If your email address is john6@gmail.com, then your username is john6. If it's easier to type your entire email address in, go for it.
+,, You can start a blog if you haven't already.
+

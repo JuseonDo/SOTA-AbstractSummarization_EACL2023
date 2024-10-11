@@ -1,0 +1,29 @@
+@summary
+inquire with your high school and college to see if they have signed up for microsoft dreamspark for academic institutions.
+
+@summary
+create an individual account, if you are a student and your institution isn't part of the dreamspark program.
+
+@summary
+apply at dreamspark student default.
+
+@summary
+sign into your account on the dreamspark website.
+
+@summary
+,
+
+@summary
+choose the programs you want to download.
+@article
+ It's a program for getting professional level software products into academic settings. If your school has not started a program, check out What is Dreamspark?.
+
+
+If they have, request a free copy of developer, design and software tools under the Academic Alliance program. This package is likely to include Microsoft Windows 7 Professional.
+ You will need a valid educational email address and information about your schooling.
+ Verify your identity as a student using your email address.
+
+
+The program requires you to prove you are a student, because Microsoft suspects some fraudulent downloading by professionals who are not part of academic programs.
+, A professional version of a Windows OS should be 1 of the options.
+

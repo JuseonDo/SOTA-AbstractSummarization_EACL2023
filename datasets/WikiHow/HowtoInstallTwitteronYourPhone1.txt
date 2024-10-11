@@ -1,0 +1,28 @@
+@summary
+open the apple itunes store.
+
+@summary
+type in "twitter" in the search bar at the top of the screen.
+
+@summary
+,
+
+@summary
+click on the first application to pop up.
+
+@summary
+click on "install.",
+
+@summary
+open the twitter app from your home screen.
+
+@summary
+log in to your twitter account.
+@article
+ Find the icon in your list of applications and tap it.;
+,, This will be the official Twitter application.
+ The app will download afterward, and it’s complete free!
+
+, Or you can open the app from the applications section of your cell phone.
+ If you don’t have an account, you will need to create one in order to use your newly downloaded app.
+

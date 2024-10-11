@@ -1,0 +1,28 @@
+@summary
+you can allocate as much memory as you want in a partition by stretching your the hard drives resources and keeping separate documents and programs in it to organize yourselves.
+
+@summary
+if you have three partitions and done it in such away that you have allocated the same amount of memory to all three partitions (50 gb each), and use one to store music, one to store documents and one to store pictures.
+
+@summary
+,
+
+@summary
+if you want you could also install separate operating systems on separate partitions.
+
+@summary
+,
+
+@summary
+follow below steps:
+
+@summary
+you need to decide what file system to use on the partition you are about to make.
+@article
+;
+,,, A file system is a way of organizing files, like on the standard hard drive partition.
+Download Super Fdisk partition manager.
+This free software will allow you to easily create, rename or format your own partitions. If your hard drive has a maximum memory (storage capacity) of 100 GB, you can create a second partition and subtract 50GB from your original one and allocate it to your newly created one, thus having 50GB of space on each partition.
+Install the software. Do not run any software while using Super Fdisk partition manager, as it could result in software disturbance while it performs the required tasks at hand. This also includes any applications that may be running in the background, in other words, any other software running in the system tray.
+Open Super Fdisk. On the user bar, you are given many options. Simply click on "Create", to create your own partitions. Once you have done this, follow the Partition wizard and all of its instructions, and create your very own partition in a matter of minutes.
+

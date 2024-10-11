@@ -1,0 +1,78 @@
+@summary
+log into the game.
+
+@summary
+click on the third button.
+
+@summary
+find the square button that says, "invite a friend.",
+
+@summary
+review the menu.
+
+@summary
+click on the facebook logo and it will open a new browser tab with your facebook.
+
+@summary
+,
+
+@summary
+share the link on your facebook and your friends and/or family can click it to start playing the game.
+
+@summary
+,
+
+@summary
+find the symbol of an envelope on the menu.
+
+@summary
+follow the instructions on the menu.
+
+@summary
+afterwards, click send email and it will reach your friend soon!
+
+@summary
+,
+
+@summary
+click on the twitter logo from the "invite a friend" menu.
+
+@summary
+like with facebook, it will open up a new browser tab.
+
+@summary
+scroll down in the "invite a friend menu" to see the google logo.
+
+@summary
+wait for it to open a new tab.
+
+@summary
+go back to your friends list by clicking on the friends tab.
+
+@summary
+,
+
+@summary
+click on the 'add friends' tab.
+
+@summary
+,
+
+@summary
+insert the player's username into the search bar.
+
+@summary
+,
+
+@summary
+click on the orange button next to it with a magnifying glass on it.
+@article
+ Click 'play' and click on one of the worlds you play in. Then, at the bottom of the screen, where all your neighbors are, there are 3 little buttons with symbols on them: the first one is your neighborhood list, the second one is for your guild and the third one is for your friends.;
+, It will load up the friends list. It should be empty if you are doing this for the first time.
+ Click on it and it will load up the invitation menu.
+ The first page of the menu tells you what you can get if your friend reaches a certain age/era. Click on the 'Invite friends' tab; there you can see multiple ways of sending your friend an invite!
+
+,,, Click on it and unlike the Facebook method, it won't open up a new tab on your browser. Instead, it will appear like this.
+ Type in the full name of your friend at the top, insert your friend's email address and then insert your full name (not your Forge of Empires username).
+, You might need to scroll down to see it., Simply Tweet it and your followers and friends can see the link and click on it if they are interested., Click it., Below the link is a bar where you enter your friend's email addresses and it will send emails with the link on them from there instead of from the game.,,,, The player's username, their profile picture and other information will appear below it.
+

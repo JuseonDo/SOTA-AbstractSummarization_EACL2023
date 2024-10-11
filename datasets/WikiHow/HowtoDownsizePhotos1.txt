@@ -1,0 +1,27 @@
+@summary
+right-click on an image and click on open with….
+
+@summary
+click on paint.
+
+@summary
+click on home.
+
+@summary
+click on resize.check maintain aspect ratio.
+
+@summary
+set a new size for the image.click on ok.click on file in the menu bar, then click on save as….
+
+@summary
+type a name for the image in the "file name:" field.
+
+@summary
+click on save.
+@article
+ It's in the pop-up menu.
+ Paint automatically ships with most versions of Windows., It's a tab near the top of the window., This will open the "Resize and Skew" dialog box.,, To do so:
+
+Click on Percentage to enter a percentage in either the "Vertical" or "Horizontal" field and reduce the image size by a certain proportion.
+Click on Pixels to enter specific dimensions in the "Vertical" or "Horizontal" field.
+,,, The image will be saved with the dimensions you specified.

@@ -1,0 +1,9 @@
+@summary
+find out what other games your computer has.
+
+@summary
+explore all the options.
+@article
+ To see a list, go to Finder, hold Cmd+Shift+G, and type "/usr/share/emacs/22.1/lisp/play".
+ To play a game, follow the basic instructions above, typing its name in the Terminal to play.
+

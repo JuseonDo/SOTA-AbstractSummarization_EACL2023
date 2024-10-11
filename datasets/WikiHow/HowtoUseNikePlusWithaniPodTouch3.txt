@@ -1,0 +1,16 @@
+@summary
+look for the nike plus logo on the insole of the shoe.
+
+@summary
+pull out the insole.
+
+@summary
+insert the nike plus sensor into the space and replace the insole.
+@article
+ This is the shoe that will contain the space to put the sensor in.
+
+
+
+You should see the small space where the sensor goes.
+ Now that you have everything set up, you can now run using Nike Plus!
+

@@ -1,0 +1,25 @@
+@summary
+right-click anywhere in the free space present on your desktop.
+
+@summary
+look for a new window asking you to browse the location of the file for which you want to create the shortcut.
+
+@summary
+click next option present somewhere at the right-bottom of the working window.
+
+@summary
+,
+
+@summary
+type a name for the shortcut.
+@article
+ Point to New option from the dialog box.
+
+
+This will redirect you to another dialog box. From there, choose the Shortcut option.;
+, You must choose the browse option and browse the file location. As soon as you choose the location, the box will be filled itself by the location.
+
+
+You can also type the address of the file but it is always better to choose the location as it minimizes the probability of mistakes.
+, If a Finish button appears at the bottom of the dialog box, click it. If a Next button appears at the bottom of the dialog box, click it, choose the icon you want to use for your shortcut, and then click Finish.
+

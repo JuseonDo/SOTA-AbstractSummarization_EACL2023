@@ -1,0 +1,9 @@
+@summary
+click your username from the bottom right hand panel containing the active members of the chatroom.
+
+@summary
+enter the new guest username you would like to use in the input field next to "don’t have one?"
+@article
+ Your username will be the first name in the list.;
+, Click the “Go” button to save your changes. Note: If you are currently logged into TinyChat using Myspace, Twitter, or Facebook, your username will be selected based on your account information. If you wish, you can sign out of the linked service and choose a guest username using the instructions we’ve just described.
+

@@ -1,0 +1,117 @@
+@summary
+make sure you have the correct door: if you are replacing your door (instead of simply removing it for better access) make sure the door that you’ve procured is correct by physically checking it against the door you are replacing.
+
+@summary
+find the appropriate size wrenches for your car door: check the bolts on the doors hinges and door holder (see step 4) to find the correct size.
+
+@summary
+,
+
+@summary
+door wiring: most new vehicles have a lot of wiring in their doors.
+
+@summary
+door holder: the door holder is a small plastic stick that slides in and out of the door as the door opens and closes.
+
+@summary
+unbolt the hinges.
+
+@summary
+remove the door.
+
+@summary
+check the new door for hinges.
+
+@summary
+line up the new door
+
+@summary
+have your helper hold the door up in an approximation of where the old door was when open.
+
+@summary
+bolt on the new door to the hinges
+
+@summary
+place the hinge bolts into their bolt holes and spin the bolts in with your fingers.
+
+@summary
+bolt the door holder in place.
+
+@summary
+,
+
+@summary
+reconnect the door wiring.
+
+@summary
+push the rubber wiring tube into it’s recess in the new car door.
+
+@summary
+,
+
+@summary
+test the new door electronics.
+
+@summary
+check the fit of the door to the car.
+
+@summary
+adjust door fit: hinge bolts are the only way to adjust the door fit without serious body work.
+
+@summary
+apply a thread locking fluid: thread locking fluid will prevent the door hinge bolts from loosening due to vibrations in the car.
+@article
+;
+,, That wiring is connected to the control computers in the car. In order to prevent the wiring from getting damaged or corroded, manufacturers enshroud the wiring that travels from the car body to the door in a rubber tube.
+
+
+Pull the rubber tube out of it’s recess in the door or car body, and push it back until you reveal an electrical connector (try not to tear the rubber).
+Pull the connector apart: Depress the tab and separate the door connector half from the car body connector half.
+Some connectors are more complicated. If your connector appears to have two tabs on it, try pulling the centermost tab out of the connector (it may not come all the way out) and then push in the other tab and pull them apart. Be careful, especially if your car is older.
+ The door holder is only intended to keep the door from opening and closing by itself and is very weak. You do not want the weight of the door on the door holder.
+
+
+Unbolt the door holder from the body of the car.
+Note: In some vehicles the door holder is an integrated piece on one or both of the door hinges. If you find this is the case, skip to the next step.
+
+
+
+Have a friend hold the door to prevent it from falling while you are trying to work on it
+Unbolt the hinges from the door.
+
+
+
+With the bolts removed, the door should basically fall away from the car body.
+Stand the car door upright against a wall, the window can break easily, so try not to stress it more than necessary.
+ If they are still attached, remove them. Don’t throw them away, they may be useful if something ever happens to the hinges still on the car.
+
+While your helper holds the door, guide the door up to the hinges and line the bolt holes on the hinges up to the bolt holes on the door.
+
+Once you’ve tightened the bolts a few turns with your fingers, tighten them the rest of the way down with the wrench.
+Do not use the wrench to position the bolts, they can cross-thread and do damage to the new door if positioned incorrectly.
+,
+
+
+Plug the new door connector into the car body connector (if your door connector involved more than one tab, make sure to push both tabs into position).
+,
+
+
+Turn the car on and actuate all of the switches on the door to make sure they are all working.
+Roll the window all the way up and all the way down. Make sure the new window has the entire range of motion that the original window had.
+
+
+
+Close the door, if it looks like it fits, skip ahead one step.
+
+
+
+Loosen the door hinge bolts slightly, just enough to shift the door, try to move the door in the hinge bolt holes. (Not every car will be able to move the door within the bolt holes. If this is the case, bodywork may be needed to get a perfect fit).
+
+
+
+Unbolt each bolt one at a time (do not remove all of the bolts at once).
+Paint a thin film of thread locker onto the bolt thread.
+Re-position the bolt and tighten it down.
+Repeat this process with each bolt that you had to remove during the door replacement.
+You should be able to start driving the car right away once the tightening process is finished.
+

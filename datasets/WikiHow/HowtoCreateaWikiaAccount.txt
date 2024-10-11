@@ -1,0 +1,25 @@
+@summary
+type http://www.wikia.com into the address bar of your browser.
+
+@summary
+mouseover sign in and click on sign up.
+
+@summary
+fill out the form.
+
+@summary
+confirm your email.
+
+@summary
+enter your username and password and click confirm and log in to your new wikia account.
+
+@summary
+congratulations!
+@article
+ This should bring you to the welcome page (as shown in the photo).;
+, This should bring you into a page with a form with text fields for the information you need to enter to sign up.
+ Make sure to verify that you are not a robot and Click Create Account. This should now tell you to go to your email and verify your account.
+ Go to your email and click on the link in the email. The link should start with http://www.wikia.com/...This should bring you to an account confirmation page.
+ Make sure to use the same login credentials that you entered into the signup form.
+ You now have a Wikia account.
+

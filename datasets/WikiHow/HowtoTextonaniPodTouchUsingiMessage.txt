@@ -1,0 +1,39 @@
+@summary
+make sure your ipod has been updated to ios 5 or later.
+
+@summary
+connect to the internet wirelessly.
+
+@summary
+,
+
+@summary
+set up imessage with your existing apple id.
+
+@summary
+go to contacts (located at the bottom of the screen) and add your friend's number or email address.
+
+@summary
+tap the "messages" app at the bottom of your ipod to open it.
+
+@summary
+,
+
+@summary
+type in somebody's name (or number) and tap the number/email address you want to message.
+
+@summary
+,
+
+@summary
+tap the text field and start typing your message.
+@article
+ Connect to iTunes and install the update. Once you've done that, you will automatically get the iMessage app.;
+,, This will enable others to use your email address to message you.
+ You can add their name, the company they work for, their email address and a lot more.
+,, It can be as long as you like. After you're done typing, hit send.
+
+
+To send a picture or video, tap on the Camera icon on the left of the text field. You can choose to take a picture with the camera or pick one from your photo album. Sending multimedia generally take longer to send than text messages.
+Your message will be in a blue speech balloon on the right side of the screen, while the recipient's message will be in a grey balloon on the left side of the screen.
+

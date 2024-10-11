@@ -1,0 +1,17 @@
+@summary
+go to the super mario maker bookmark website.
+
+@summary
+log in with your nintendo network id.
+
+@summary
+go to the level that you want to bookmark.
+
+@summary
+click the "bookmark" button.
+@article
+;
+, If you have not already created one, this article will explain how to do so.
+ The home page will give some suggestions for levels to bookmark; you can also find levels via the Course Search system.
+ If you wish to unbookmark the level after doing so, click "Unbookmark."
+

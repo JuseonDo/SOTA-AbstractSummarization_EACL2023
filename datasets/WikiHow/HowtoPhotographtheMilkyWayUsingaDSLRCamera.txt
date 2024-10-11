@@ -1,0 +1,79 @@
+@summary
+drive away from any lights.
+
+@summary
+make sure the sky is clear and dark with no moon whatsoever.
+
+@summary
+,
+
+@summary
+use your smartphone astronomy app to locate and find the milky way.
+
+@summary
+set your camera on a sturdy tripod.
+
+@summary
+,
+
+@summary
+turn on your camera and set it to manual mode.
+
+@summary
+,
+
+@summary
+use manual single auto focus point.
+
+@summary
+search for the brightest star in the sky.
+
+@summary
+,
+
+@summary
+focus on the brightest star using single af point.
+
+@summary
+once focused, turn off the lens auto focus mode and set it to manual focus so the camera won’t focus again when you press the shutter button.
+
+@summary
+set the drive mode to 2 or 10 seconds self-timer.
+
+@summary
+set your lens aperture to the widest aperture opening.
+
+@summary
+set your camera shutter speed from 25 to 30 seconds.
+
+@summary
+set your camera iso from 600 to 6400.
+
+@summary
+find a good composition for your photo.
+
+@summary
+press the shutter button and wait for 25-30 seconds until the shutter closes.
+
+@summary
+add lighting effects if desired.
+
+@summary
+congratulation, you have taken perfect photos of the milky way.
+
+@article
+ Photographing the Milky Way or the stars at night is not possible in heavy light pollution city. The city light reflects to the sky which causes the night sky to glow and the stars disappear. You have to drive at least 50 miles away from the city to photograph the Milky Way.;
+,, The App can shows the time it appears and its location in the cardinal directions.
+,, You must use the middle single AF point because it’s the most sensitive AF point to light.
+, Make sure your lens is set to Auto Focus mode to get an accurate focus of the star.
+ Do not touch the focus rim. Also turn off the image stabilizer as it causes blurry images when the camera is on tripod.
+ Because even if your camera is on a tripod, when you press the shutter button it causes some movements which may result in a blurry image. You can also use a remote control to press the shutter or use a release shutter cable to prevent any movements from pressing the shutter button.
+ The aperture is how wide your lens will open and gather lights. Lenses with aperture of F2.8 or lower is preferable.
+ The shutter speed is how long your lens will open and gather lights. Some cameras are capable of opening the shutter speed for more than 30 seconds.
+ The ISO is how sensitive your camera to lights. You might need to play around with the ISO numbers to find the best ISO number that gives the perfect lighting for your image.
+ Use wide angle lens and place the Milky Way in the middle of the frame with some interesting foreground such as a tree or a car.
+ This is dependent on how long you set your camera shutter speed.
+
+
+You can also set the shutter speed to BULB, where you have more control of the shutter length. In BULB mode you'll both open and close the shutter by hitting the button or clicking the camera remote.
+ While the shutter is open, you can create some interesting images using a torch light. You can light the foreground to separate it from the background using a torch light, or you can make light trails by moving the light in motions in front of the camera.

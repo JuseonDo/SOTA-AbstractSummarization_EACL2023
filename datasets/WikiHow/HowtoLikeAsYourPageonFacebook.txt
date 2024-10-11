@@ -1,0 +1,28 @@
+@summary
+go to https://www.facebook.com in a web browser.
+
+@summary
+go to the page you want to like.
+
+@summary
+click ⋯ on the page.
+
+@summary
+click like as your page.
+
+@summary
+select your page from the drop-down menu.
+
+@summary
+click submit.
+@article
+ If you see the sign-in screen, type your Facebook username and password into the blanks and click Log In.
+
+
+It’s not possible to like a Page as another Page on a mobile device.;
+, You can find it by typing its name into the search box at the top of the screen.
+ It’s beneath the cover image, next to the “Share” button. A menu will appear.
+ A pop-up window will appear.
+ This menu displays a list of all Pages you manage.
+ The owner of the Page will receive a notification that your Page clicked “Like” on their page.
+

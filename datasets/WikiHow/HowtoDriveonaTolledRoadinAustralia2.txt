@@ -1,0 +1,12 @@
+@summary
+if using a tag, make sure your tag is correctly mounted on the windscreen.
+
+@summary
+drive through under the toll gantry (all lanes).
+
+@summary
+listen for a beep (if using a tag).
+@article
+ Most tags for passenger cars mount on the top of the windscreen horizontally. Tags on trucks or buses should usually be mounted at the bottom of the windscreen, sometimes vertically. Use the holder provided to hold the tag. Extra holders are generally provided for free so you can use the tag in any other cars you may own.;
+, Avoid lane changes. You do not need to slow down., One beep normally means all is well. Check your manual for other beep sounds.
+

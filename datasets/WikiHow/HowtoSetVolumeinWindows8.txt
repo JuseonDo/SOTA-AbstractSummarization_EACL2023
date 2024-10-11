@@ -1,0 +1,16 @@
+@summary
+search for "volume" in windows 8 start menu.
+
+@summary
+click on the "change system volume" option under the "settings" area.
+
+@summary
+click on the speaker icon when it appears on-screen.
+
+@summary
+adjust the volume up or down to the level where you want it.
+@article
+;
+, You can also open the side charms bar in Windows by moving your cursor down to the bottom right.
+ The icon will also tell you the current volume score out of 100.
+ Some keyboards will also have a volume up and volume down function that will allow you to adjust the system volume directly. The icon looks just like the one on-screen.

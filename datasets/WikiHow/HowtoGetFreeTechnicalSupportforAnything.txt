@@ -1,0 +1,41 @@
+@summary
+think about your problem.
+
+@summary
+try to define it as concisely and precisely as possible.
+
+@summary
+,
+
+@summary
+include the exact product name, model, version number of the device or software that you are having trouble with.
+
+@summary
+,
+
+@summary
+type this into a web search engine.
+
+@summary
+wash, rinse, repeat until you find the help you are looking for.
+
+@summary
+,
+
+@summary
+if you are still lost, add the word 'forum' along with your product's name.
+
+@summary
+the manufacturer's online technical support may be free.
+@article
+;
+,,,
+
+
+Skim through the results, read document titles that look promising.
+If you could not find help, rephrase what you typed in.
+If the results are too generic, add more information to the search, or put quotes around sets of words that must appear together.
+If there aren't enough results, delete some words\\\.
+, There may be a group on the web who does nothing but discuss your product. You may have seen hits from your previous searches for such forums. You can make an account and ask people there.
+ They will usually at least have a FAQ that describes a solution, but you would probably have seen that with your web searches.
+

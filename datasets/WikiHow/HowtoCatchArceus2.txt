@@ -1,0 +1,64 @@
+@summary
+obtain an action replay.
+
+@summary
+add the code to get the azure flute.start your diamond, pearl, or platinum rom file in desmume.
+
+@summary
+open the "tools" menu and select "cheats".select "list" from the “cheats” submenu.
+
+@summary
+click the “action replay” button.
+
+@summary
+paste the code into the field:
+
+@summary
+94000130 fcff0000
+
+@summary
+b21c4d28 00000000
+
+@summary
+b0000004 00000000
+
+@summary
+0000aa3c edb88320
+
+@summary
+2000aa68 0000000a
+
+@summary
+d2000000 00000000
+
+@summary
+,
+
+@summary
+click “add”.
+
+@summary
+press the l + r buttons when playing the game.
+
+@summary
+enter any pokemart and talk to the green man.
+
+@summary
+take the azure flute to mt.
+
+@summary
+play the azure flute to gain access to the hall of origin.
+
+@summary
+fight and capture arceus.
+@article
+ If you don't have anyone to trade with, your only other option is to cheat. You can purchase an Action Replay that works with your physical Nintendo DS system, or you can use an emulator with built-in Action Replay support like DeSmuME., This is the item required to access Arceus. If you are using an Action Replay cartridge, add the necessary codes to the cartridge.
+
+Cartridge users will not need to use the following steps.
+, This will open another submenu.,, A window will appear to enter an Action Replay code.,,, This will activate the cheat., He will give you the Azure Flute., Coronet. Climb all the way to the top until you reach the Spear Pillar. You will be given the option to play the flute., You will see a staircase appear when playing the flute. This will allow you to enter the Hall of Origin, where Arceus can be found.
+
+It'll be helpful to save your game before fighting Arceus so you can easily retry if you accidentally knock it out during the battle.
+ Use a Pokémon with the False Swipe ability to lower Arceus's health without knocking it out. Once the Arceus's health bar is red, put it to Sleep and then throw Ultra Balls until it is captured.
+
+Arceus will be Level 80, so you're going to be in for a tough fight. Make sure that your party is strong enough to handle it.
+

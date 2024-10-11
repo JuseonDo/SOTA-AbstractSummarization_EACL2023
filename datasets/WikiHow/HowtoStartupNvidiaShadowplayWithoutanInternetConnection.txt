@@ -1,0 +1,23 @@
+@summary
+right click anywhere on your desktop.
+
+@summary
+type in gfexperience.exe location with a parameter -shadowplay.
+
+@summary
+type a name for your shortcut.
+
+@summary
+,
+
+@summary
+enjoy using shadowplay without an internet connection!
+
+@article
+ Go to > New > Shortcut.;
+,
+
+
+For x64 systems, the default will be: "C:\Program Files (x86)\NVIDIA Corporation\NVIDIA GeForce Experience\GFExperience.exe" -shadowplay.
+For x32 systems: "C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\GFExperience.exe" -shadowplay.
+,

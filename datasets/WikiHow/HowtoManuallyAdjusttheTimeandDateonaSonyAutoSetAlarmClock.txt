@@ -1,0 +1,20 @@
+@summary
+press and hold the "time" button, until you hear 2 beeps.
+
+@summary
+press the time button again until the selected portion you'd like to adjust is blinking.
+
+@summary
+use the plus and minus keys to advance forward and backward the individual entries, depending on how much off the item really is.
+
+@summary
+save your settings.
+@article
+ Release the "Time" button, when you hear those 2 beeps.;
+, It will allow you to adjust the following items in the following order by pressing the Time button successively: the year, the month, the day,the hour (AM or PM) and finally the minute portion.
+
+
+
+Adjusting the AM to PM setting can be done, by increasing or decreasing the hour portion of the time, so it extends over the noon or midnight hour.
+ Press the Time button again, to save your settings.
+

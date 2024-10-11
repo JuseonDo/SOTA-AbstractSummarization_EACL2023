@@ -1,0 +1,77 @@
+@summary
+navigate to the laragon site.
+
+@summary
+press download laragon.
+
+@summary
+navigate to wherever you downloaded the file to (most probably "downloads").
+
+@summary
+if a dialogue box opens to confirm whether or not you would like to run the application, press yes.
+
+@summary
+,
+
+@summary
+wait for another dialogue box will open, wanting you to grant administrative rights to the program.
+
+@summary
+press next.
+
+@summary
+once the installation is complete hit finish!,
+
+@summary
+run laragon.
+
+@summary
+,
+
+@summary
+press start all.
+
+@summary
+,
+
+@summary
+press the settings cog and navigate to services and ports and check php server.
+
+@summary
+go to menu > laravel > create project > laravel 5 and give your project a name.
+
+@summary
+,
+
+@summary
+wait for a terminal window to open up.
+
+@summary
+once you are greeted by this screen, exit the command prompt.
+
+@summary
+,
+
+@summary
+open a browser window and navigate to yourprojectname.dev.
+@article
+ This is where you will find and download the installer for Laragon.;
+, There will be some numbers afterward the word "Laragon"; don't worry if they are different to what is shown here, just hit that button!
+
+
+You will be taken to a site called Sourceforge and a timer will start before the download starts. If the download does not start after 15 seconds press "direct link" and the download should start.
+
+
+
+Double click the installer you just downloaded to start the installation process.
+, This is important and is needed for both the installation process and to run Laragon.
+ Then either leave the installation directory at default or choose a custom one (only recommended for advanced users) and hit Next again. Read the information on this screen, leave the box checked and press Next once more. Read over the settings to confirm and then hit Install.
+ Well done, you have successfully installed Laragon!
+
+,,, Leave all other setting default and exit the settings window.
+, An automated installation of Laravel 5 and all of its dependencies should start.
+,
+
+
+Well done! If you followed all the above steps correctly, you have just installed Laravel
+

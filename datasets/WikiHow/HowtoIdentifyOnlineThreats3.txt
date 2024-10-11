@@ -1,0 +1,23 @@
+@summary
+these are applications that have been especially designed to cause havoc to your pc.
+
+@summary
+avoid sharing storage disks, e.g.
+
+@summary
+avoid sharing of folders and drives on your network.
+
+@summary
+,
+
+@summary
+avoid downloading files and applications whose sources you do not know.
+
+@summary
+,install and update an effective antivirus software
+
+@article
+ This may range from erasing files, corrupting installed applications or formatting your hard disk. The moment that viruses are present in you PC they save themselves in selected drives or folders where they replicate into the system. Viruses may result in software crash, slow system speeds and hindering applications from loading. To ensure that you do not fall prey to viruses, follow the steps bellow:
+
+, flash disks.
+,,

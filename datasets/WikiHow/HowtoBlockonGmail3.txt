@@ -1,0 +1,32 @@
+@summary
+open gmail.
+
+@summary
+select an email you wish to filter.
+
+@summary
+click the "more" option.
+
+@summary
+click "filter messages like these".
+
+@summary
+click "create filter with this search".
+
+@summary
+,
+
+@summary
+click the checkbox next to "delete it".
+
+@summary
+,
+
+@summary
+click "create filter".
+@article
+ You will need to use a computer for this process.
+ You can do this by clicking the box on the far left side of the email.
+ This is above your inbox's contents and on the right side of your Gmail toolbar.
+ Gmail will automatically add your sender's email address to this form.,,, Any incoming emails from your filtered sender will now be deleted automatically.
+

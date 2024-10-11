@@ -1,0 +1,25 @@
+@summary
+install the projectred mod.
+
+@summary
+if you have projectred, use a timer for the lamp to flash.
+
+@summary
+build the lamps how you want, either 1 lamp style or 2 lamp styled, or uk styled.
+
+@summary
+,
+
+@summary
+connect the part of the timer or clock which activates it to the pressure plate of the track.
+
+@summary
+,
+
+@summary
+test the system to see if they flash.
+@article
+ Why? Because it has colored lights. If you decide to play unmodded, then use normal lamps. It is recommended that you build this in creative mode. If you do it in survival, it will take a long time to collect all the needed stuff.;
+, If you do not have ProjectRed, then build a redstone clock that is activated by the pressure plate of the train.
+,, Do not forget to add repeaters so it will stay on until the train clears the crossing.
+

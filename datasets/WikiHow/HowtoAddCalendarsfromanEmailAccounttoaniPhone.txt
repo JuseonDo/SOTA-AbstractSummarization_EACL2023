@@ -1,0 +1,160 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll down and tap calendar.
+
+@summary
+,
+
+@summary
+tap accounts.
+
+@summary
+,
+
+@summary
+tap add account.
+
+@summary
+,
+
+@summary
+tap the service you use.
+
+@summary
+enter your email account login information.
+
+@summary
+,
+
+@summary
+ensure the calendars switch is enabled.
+
+@summary
+,
+
+@summary
+tap save.
+
+@summary
+,
+
+@summary
+press the home button.
+
+@summary
+tap the calendar app.
+
+@summary
+,
+
+@summary
+tap calendars at the bottom of the screen.
+
+@summary
+,
+
+@summary
+ensure your newly-added account is visible and enabled.
+
+@summary
+open the calendar that you want to add to your iphone.
+
+@summary
+open the settings for the calendar.
+
+@summary
+find the ical option.
+
+@summary
+copy or write down the ical address.
+
+@summary
+open the iphone's settings.
+
+@summary
+scroll down and tap calendar.
+
+@summary
+,
+
+@summary
+tap accounts.
+
+@summary
+,
+
+@summary
+tap add account.
+
+@summary
+,
+
+@summary
+tap other.
+
+@summary
+tap add subscribed calendar.
+
+@summary
+,
+
+@summary
+type or paste the ical address.
+
+@summary
+tap next.
+
+@summary
+,
+
+@summary
+enter your login information (if prompted).
+
+@summary
+tap save.
+
+@summary
+press the home button.
+
+@summary
+,
+
+@summary
+tap the calendar app.
+
+@summary
+,
+
+@summary
+tap calendars at the bottom of the screen.
+
+@summary
+,
+
+@summary
+find your newly-added calendar.
+@article
+ You'll find the Settings app on one of your Home screens. It may be in a folder labeled "Utilities.";
+,,,, If your service is not listed, tap "Other" to add a calendar subscription.
+,,, This will return you to your iPhone's Home screen.
+,, It may take a while for all of your calendar's events to appear on your iPhone.
+ Use your computer or iPhone's web browser to open the web calendar that you want to add to your iPhone. You'll need to do this for any calendar service that is not listed in the Add Account menu on your iPhone.
+ The process for this varies depending on the service you are using, but generally you'll find the Settings option in the upper-right corner.
+ This may be listed in a section called "Calendar Address" or "Share Calendar." Clicking the iCal option will display the address for your calendar.
+
+
+If you're having difficulty finding the iCal address for your calendar, check the Help and Support pages.
+ You'll be entering his address into your iPhone's Settings menu. If you're already using your iPhone, select and copy the address. If you're using a different device, write the address down or leave it open so that you can type it on your iPhone.
+
+
+iCal addresses end with the ".ics" extension.
+ You can find the Settings app on one of your Home screens, and it may be in a folder labeled "Utilities."
+
+,,,, This option is for email services that are not listed in the Add Account menu.
+, Make sure you include the entire address.
+, If your calendar requires account access, you'll need to enter your email's account name and password.
+ Your calendar will be added to your Calendar app.
+,,, You should see your new calendar in the list of added calendars. It may take a while for all of the calendar's events to sync with your iPhone, so don't be alarmed if they don't show up immediately.
+

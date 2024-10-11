@@ -1,0 +1,40 @@
+@summary
+make sure your document is open.
+
+@summary
+click "save as".
+
+@summary
+under "save as", decide on your save location.
+
+@summary
+double-click your save location.
+
+@summary
+in the "file name" field, type in your preferred file name.
+
+@summary
+,
+
+@summary
+find the "save as type" field and click on it.
+
+@summary
+click "save" to save your file.
+
+@summary
+,
+
+@summary
+verify that your file was saved before closing your document.
+@article
+ You can open MS Word by double-clicking the Word icon or by double-clicking a Word document.
+ If you've never saved this specific document before, choosing "Save" will still direct you to "Save As".
+ Typical locations include "This PC" and OneDrive, but you can also click "Browse" to select a specific location.
+
+
+If you select "This PC", you will have to pick a subfolder--your desktop, for example.
+ This will take you to the file name screen.
+, From here, you can choose which file type to save your document as.File types include PDF, Web Page, and compatibility-geared previous versions of Word (e.g., 1997-2003).
+, If your file is in your chosen save location and your specified format, your file was correctly saved!
+

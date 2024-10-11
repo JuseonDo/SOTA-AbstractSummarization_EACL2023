@@ -1,0 +1,23 @@
+@summary
+get your footage on the timeline.
+
+@summary
+click on the fx tool at the bottom right of the video.
+
+@summary
+look for a list of effects and plugins.
+
+@summary
+choose the colour you want to get rid of.
+
+@summary
+exit the tab and you'll see the effects.
+
+@summary
+boom!
+@article
+;
+, It looks like a symmetrical icon of two arrowheads pointing towards a rectangle.
+ Go to the one called 'Sony Chroma Keyer'.
+ Do this by selecting the colour from the video preview with an eyedropper, it doesn't have to be green., You can play around with the other settings like threshold and blur.
+ You're done.

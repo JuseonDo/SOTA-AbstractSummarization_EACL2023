@@ -1,0 +1,17 @@
+@summary
+complete the first venom and sandman duel, after which you face venom again.
+
+@summary
+go on and start destroying more boxes.
+
+@summary
+repeat.
+
+@summary
+fight back.
+@article
+;
+, Punch Venom and hurt him.
+ Once you whittle his health down, Venom will lunge at you, starting a cut scene.
+ The order of buttons is up, jump, left, jump, jump, web, reflexes, quick attack, reflexes, strong attack, swing. Hopefully at this point, you have won the game!
+

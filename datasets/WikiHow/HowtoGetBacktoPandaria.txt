@@ -1,0 +1,68 @@
+@summary
+go to stormwind, the main capital city of the alliance.
+
+@summary
+walk, ride or fly to the eastern earthshrine.
+
+@summary
+go just west of there to the island with all of the tushui pandaren on it.
+
+@summary
+click the mage portal being cast by ang the wise.
+
+@summary
+go to orgrimmar, the main capital city of the horde.
+
+@summary
+walk, ride or fly to the valley of honor.
+
+@summary
+go to the camp of the huojin pandaren.
+
+@summary
+click on the portal that is being cast in front of ji firepaw.
+
+@article
+
+
+
+If you are in Ironforge, you can take the Deep run Tram found in Tinker Town.
+
+
+
+
+
+
+If you are in Dalaran, you can use the portal inside the Silver Enclave.
+
+
+
+
+
+;
+, It is floating on an island, outside of Stormwind’s walls, northwest of Stormwind Keep.
+ There is also a large Pandaren-style arch and an orange hot air balloon to help you find it.
+ When you mouse of the portal, a tooltip pops up that says, “Portal to Paw’don Village.”
+
+,
+
+If you are in the Undercity, you can take a zeppelin directly to Orgrimmar.
+
+
+
+
+
+
+If you are in Dalaran, you can use the portal inside the Sunreaver’s Sanctuary.
+ It is the easternmost sector of Orgrimmar.
+
+
+
+Look for the large hot air balloon anchored by a rope.
+
+
+
+
+
+
+The camp is almost in the exact center of the Valley of Honor.

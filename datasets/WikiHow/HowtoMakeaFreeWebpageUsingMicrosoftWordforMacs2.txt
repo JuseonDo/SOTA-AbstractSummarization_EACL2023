@@ -1,0 +1,9 @@
+@summary
+to publish it, go to file>save as webpage.
+
+@summary
+click save, and it will save your document to your designated file .
+@article
+ A window will pop up allowing it to save. As long as you clicked on Save As Webpage, it will already have the default save format for publishing it to the web.
+ Safari should also open up and take you to your webpage. If not, open it through the file you saved it to.
+

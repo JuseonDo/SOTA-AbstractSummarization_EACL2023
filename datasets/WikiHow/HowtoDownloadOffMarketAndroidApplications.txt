@@ -1,0 +1,97 @@
+@summary
+unlock the android device to be granted access to the home screen.
+
+@summary
+locate and click the app-drawer icon.
+
+@summary
+scan through installed applications, look for “settings” and click on it.
+
+@summary
+within settings, locate “general” settings and click on it.
+
+@summary
+,
+
+@summary
+within “general” settings list, locate “security” settings and click on it.
+
+@summary
+,
+
+@summary
+look for “unknown sources” and make sure that the checkbox is marked beside it.
+
+@summary
+return to home screen by clicking ‘home” button.
+
+@summary
+,
+
+@summary
+scan through home screen for “browser” and click on it.
+
+@summary
+find an appropriate application source website.
+
+@summary
+scan through the application source website for desired application.
+
+@summary
+download the application once application preview page loads up.
+
+@summary
+wait for download.
+
+@summary
+click the notification which alerts you about the completion of download.
+
+@summary
+click “install” on bottom right when the “are you sure you want to install?” screen appears.
+
+@summary
+wait for installation of app and click “open” on bottom left corner once “app installed” screen appears.
+@article
+ Being able to access the Android device is one of the most vital steps. As you will later see in the tutorial, this is one of the more basic permissions which the Android device must be able to grant you.;
+,
+
+
+Usually located in the bottom application shelf, in the center.
+Generally, it's a round button.
+Upon pressing this button, menu of most applications installed on phone will show up with their respective icons.
+ The "Settings" may also be located on the home screen, depending on user preference.
+
+
+If you can't locate “Settings”, click the Search bar above the app-drawer and input “Settings”.
+,, By marking this checkbox, you are now allowing your device to install applications which are downloaded from sources outside of the Google Play Store.
+, In this intermediate step, you are initiating the search for a good application source website.
+
+
+
+To find reliable application source website, find reviews on Google and look for application ratings. Websites with no comments and user ratings are usually unreliable.
+
+
+
+View Icons of applications.
+
+
+
+In this page, you can view the user-interface of application.
+This page will also inform you about the storage needed to download the application.
+
+
+
+Download may take longer if wireless internet connection or cellular network is weak.
+Download will stop if browser is cleared from multitasking.
+
+
+
+The notification appears within the status bar.
+In order to access the status bar, you must swipe downwards from the top of your phone screen to the bottom.
+ This screen displays the many permissions which the application requires to be able to fulfill its functions. By clicking“Install”, you are approving the application's permissions.
+
+
+
+Application will not appear on home screen after exiting.
+To access application afterwards, find within the app-drawer menu.
+

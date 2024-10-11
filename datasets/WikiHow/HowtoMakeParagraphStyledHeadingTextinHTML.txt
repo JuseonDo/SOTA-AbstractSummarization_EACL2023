@@ -1,0 +1,54 @@
+@summary
+open up a new document in a text-editing program such as notepad or wordpad in windows, or textedit in macintosh.
+
+@summary
+type all the data that comes before the section heading text.
+
+@summary
+try to understand some things about these types of html tags.
+
+@summary
+type the level "h" tag that you'd like to place on a separate line below the <body> tag in the document.
+
+@summary
+type the text that you want to be made as a heading-line/header line.
+
+@summary
+,
+
+@summary
+type the end-tag to the h tag you placed before the text you mentioned.
+
+@summary
+make sure to partner these headings with other text that this heading element is associating it to.
+
+@summary
+end the document with the final </body> and </html> tags.
+
+@summary
+,
+
+@summary
+save your document as an html file.
+
+@summary
+,
+
+@summary
+preview the html file in your web browser.
+@article
+;
+, This should include the <html>, <head> (and accompanying end-tag) and <title>
+
+,
+
+
+Recognize that these tags work well, when they are partnered with regular text without much formatting. Although they aren't centered by default, with a little work they can be, but they form a backbone that symbolizes something looking like a title to a paragraph or other text in the HTML page.
+Realize that these tags have certain levels of headings that can be formed ranging from <h1> to <h6> although the h1 level and potentially h2 level should be all that you should really need in the long run.
+Recognize that as the number gets larger, the text size will get smaller, but will start out pretty big.
+Recognize that these tags already are shown in boldface, so there should be no reason to have to manually boldface them. However, these tags are also deprecated in the current version of HTML, so they are not widely used anymore.
+ With nearly 10 "h" levels, there are nearly endless choices on how many levels down you'll need to cast your heading into the document. An example would be <h1> for a top-level heading/header.
+, In this earlier case, it's the <h1> tag, which has an accompanying </h1> end-tag.
+ Explain your heading.
+,, Open it to see what it will look like as an end result.
+

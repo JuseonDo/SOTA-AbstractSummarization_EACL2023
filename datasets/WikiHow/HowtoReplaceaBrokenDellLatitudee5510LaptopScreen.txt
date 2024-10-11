@@ -1,0 +1,47 @@
+@summary
+remove the battery.
+
+@summary
+remove the front panel.
+
+@summary
+remove four screws and drop the back panel.
+
+@summary
+,
+
+@summary
+remove four screws on the sides and drop the screen to the front.
+
+@summary
+,
+
+@summary
+unplug the cable.
+
+@summary
+place your new screen on and slowly plug it back in.put everything back together in the order you undid it.
+
+@summary
+test it out.
+@article
+
+
+
+Don’t forget this step, other components can get damaged due to power leakage.;
+,
+
+
+
+Remove the two rubber pieces and screws underneath them.
+Using the plastic opener tool or your hand, slowly pull out the front panel.
+Make sure you don’t break any clips.
+,,
+
+
+Be careful in this step. Slowly peel out the tape and pull out the cable.
+ Make sure it’s in properly.
+, If you did everything right, the screen should be working perfectly.
+
+If not, go back and tighten up the cable, and try it again; this should fix if you were having any issues.
+

@@ -1,0 +1,17 @@
+@summary
+boot up linux.
+
+@summary
+go to a terminal screen.
+
+@summary
+create an iso from a cd.
+
+@summary
+make an iso of a directory.
+@article
+;
+, You can usually right-click on the desktop and choose this option from the drop-down menu. Ctrl+Alt+T will usually open the Terminal as well.
+ Type dd if=/dev/cdrom of=~/cdrom_image.iso. This will create an ISO from the inserted CD.
+ Type mkisofs -o /tmp/cd.iso /tmp/directory/ to make an ISO from files on your hard drive.
+

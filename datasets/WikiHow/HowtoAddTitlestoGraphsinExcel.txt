@@ -1,0 +1,52 @@
+@summary
+click on the chart that needs a graph title in order to select it.
+
+@summary
+notice several additions to the main toolbar when the graph is selected: design, layout and format.
+
+@summary
+select the layout tab in the main toolbar.
+
+@summary
+choose "chart title.",
+
+@summary
+move your mouse and click inside the generic chart title to change the name of the chart to something more descriptive.
+
+@summary
+,
+
+@summary
+click "chart title" on the toolbar again and select "more title options" at the bottom of the drop-down menu.
+
+@summary
+change the font and character spacing of your graph title by right-clicking on the title.
+
+@summary
+click axis titles to add these elements to your chart in excel.
+@article
+ A currently selected graph will have a shaded outline.;
+, These options are under a new header entitled "Chart Tools."
+
+, The Labels section of this tab holds the commands for working with titles and labels.
+
+
+
+"Centered overlay title" will place a tiled object containing a generic title on the graph that will not resize it.
+"Above chart" will resize the chart and make room for a centered generic title above the graphical image.
+,
+
+
+Here you can add other elements such as a border, fill color or 3-D format to your title.
+You can also add additional rules to the alignment of your title to manipulate the vertical alignment, text direction and custom angle.
+
+
+
+You can change the font style, size and color of your title.
+You can also add many different effects like strike-through, subscript, superscript and small caps.
+
+
+
+The Primary Horizontal Axis Title option places that title below the horizontal axis.
+The Primary Vertical Axis Title menu includes several options for the display of the vertical axis title.
+

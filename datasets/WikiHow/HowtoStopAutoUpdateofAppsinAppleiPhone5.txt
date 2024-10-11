@@ -1,0 +1,27 @@
+@summary
+tap the “settings” icon on your iphone 5.;
+
+@summary
+,
+
+@summary
+scroll down to locate the “itunes and app store” option and then tap on it.
+
+@summary
+,
+
+@summary
+locate the “update” option.
+
+@summary
+,
+
+@summary
+turn it off.
+
+@summary
+set your apps to update only through wifi.
+@article
+,,, If the option is “on” you have to turn it off by touching it. If you do so, auto updates will be turned off and your apps will not be updated automatically.
+ If you want your apps only to be updated through the Wifi network (not with cellular data) then turn off the “Use Cellular Data” option. This option will be found just below the “Updates” option. You can turn this option back on if you want to in future.
+

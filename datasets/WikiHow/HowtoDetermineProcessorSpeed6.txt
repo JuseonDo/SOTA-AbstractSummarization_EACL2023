@@ -1,0 +1,17 @@
+@summary
+click start, click run.
+
+@summary
+,
+
+@summary
+type dxdiag, and then click ok.
+
+@summary
+,
+
+@summary
+click the system tab.
+@article
+,, CPU information is displayed in the Processor line. The DirectX Diagnostic Tool uses the CPUID to retrieve CPU speed information.
+

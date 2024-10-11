@@ -1,0 +1,39 @@
+@summary
+open your iphone or ipad’s settings.
+
+@summary
+tap your apple id.
+
+@summary
+scroll down and tap icloud.
+
+@summary
+,
+
+@summary
+tap storage.
+
+@summary
+,
+
+@summary
+tap manage storage.
+
+@summary
+,
+
+@summary
+tap whatsapp.
+
+@summary
+tap edit.
+
+@summary
+tap delete all.
+@article
+ It’s the gray gear icon typically found on the home screen.;
+, If you’re using iOS 10.3 or later, you’ll see it at the top of the screen. If you’re using an earlier version of iOS, you can skip this step.
+,,, Look for the white phone receiver in a green chat bubble.
+ It’s at the top-right corner of the screen.
+ All of your backed-up WhatsApp data will now be removed from iCloud.
+

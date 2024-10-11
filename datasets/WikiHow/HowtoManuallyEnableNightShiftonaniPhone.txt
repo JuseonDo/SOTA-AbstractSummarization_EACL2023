@@ -1,0 +1,26 @@
+@summary
+open your iphone's settings.
+
+@summary
+tap display & brightness.
+
+@summary
+select night shift.
+
+@summary
+,
+
+@summary
+slide the scheduled switch left to the "off" position.
+
+@summary
+slide the manually enable until tomorrow switch right to the "on" position.
+@article
+ Do so by tapping the grey gear icon that's on one of your Home screens or in a folder named "Utilities.";
+, It's in the third group of options.
+, It should turn grey, meaning that Night Shift will no longer automatically enable or disable itself.
+
+
+If this switch is already grey, skip this step.
+ It will turn green, and your display will shift to a softer brown color.
+

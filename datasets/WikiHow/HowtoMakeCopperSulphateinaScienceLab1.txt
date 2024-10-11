@@ -1,0 +1,64 @@
+@summary
+gather all of your supplies.
+
+@summary
+copper oxide
+
+@summary
+sulphuric acid
+
+@summary
+eye protection
+
+@summary
+glass beaker
+
+@summary
+conical flask
+
+@summary
+spatula
+
+@summary
+glass stirring rod
+
+@summary
+evaporating dish
+
+@summary
+bunsen burner
+
+@summary
+tripod
+
+@summary
+filter paper
+
+@summary
+filter funnel
+
+@summary
+,
+
+@summary
+set up your work station.
+
+@summary
+pour the sulfuric acid into the glass beaker.
+
+@summary
+add small pieces of copper oxide to the hot solution.
+
+@summary
+use the glass stirring rod to stir lightly.
+
+@summary
+continue to heat the solution after the last piece of copper oxide has been added.
+
+@summary
+turn off the bunsen burner.
+
+@summary
+set the beaker aside.
+@article
+ Place the items together in one area. Having all of the equipment you need in one place will prevent you from having to stop in the middle of a task to look for a missing item.,, Place the glass beaker on top of the tripod over the Bunsen burner. Put on your eye protection., Heat the solution until it is almost boiling., Make sure to use the spatula to avoid burning yourself., You do not want to stir too vigorously and splash the hot solution onto your skin. Stir for up to 30 seconds after each new addition. , You want to ensure that the chemical reaction has occurred. This may take 1 to 2 minutes. The solution will look cloudy with a black powder., You may want to use a litmus paper to make sure no acid remains in the solution. If acid does remain, fumes will appear after the solution has been filtered., It is okay to allow the beaker to cool while you prepare for the filtration process.

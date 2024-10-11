@@ -1,0 +1,20 @@
+@summary
+train your dog to sit.
+
+@summary
+leash your dog and ask the dog to sit beside you at the door.
+
+@summary
+slowly open the door.
+
+@summary
+repeat the last step once the dog is again sitting beside you.
+
+@summary
+continue to repeat the opening/closing exercise till the dog figures out that the door only opens when the bum is on the ground.
+
+@article
+;
+, Allow enough room for you to open the door without forcing your dog to move. This is very important.
+ Your dog will likely get up and try to charge through it. When this happens quickly shut the door and wait till the dog sits down. It is best to ignore your dog at this time. If the dog takes too long to sit you can gently encourage the dog to sit the first few times.
+ Slowly open the door. If the dog raises from the sit again close the door quickly.

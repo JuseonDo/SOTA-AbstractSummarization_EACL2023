@@ -1,0 +1,22 @@
+@summary
+create and save a c file.open up the terminal or command prompt
+
+@summary
+,
+
+@summary
+change the directory to the c file.
+
+@summary
+,
+
+@summary
+compile the c code.
+
+@summary
+run the program.
+@article
+ Do something simple like printing "Hello wikiHow".;
+,,, Type tcc -o hello hello.c in the terminal or command prompt. This will generate a program called hello in the same directory. The -o parameter specifies the name and location of the output file.
+ From the terminal type ./hello or in the command prompt type hello.exe.
+

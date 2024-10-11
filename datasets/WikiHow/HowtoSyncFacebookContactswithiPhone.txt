@@ -1,0 +1,19 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll down and tap facebook.
+
+@summary
+sign into facebook if prompted.
+
+@summary
+,
+
+@summary
+slide the "contacts" button to the "on" position.
+@article
+ This is the icon with gray cogs located either on your home screen or in the Utilities folder.;
+, It's in the second section from the bottom of the menu.
+, All of your Facebook contacts are now in your Contacts app.
+

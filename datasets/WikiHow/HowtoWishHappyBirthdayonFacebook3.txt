@@ -1,0 +1,13 @@
+@summary
+visit www.facebook.com.log into your account if prompted.
+
+@summary
+click events.
+
+@summary
+click see all.click inside the text box to write a message.type in your message.
+
+@summary
+hit ↵ enter.
+@article
+,, It's the calendar icon on the left side of your screen under "EXPLORE." Doing so will show you all upcoming events. Upcoming birthdays will appear at the top-right corner of your screen., It appears at the top-right corner of the "BIRTHDAYS THIS WEEK" box.,,, Doing so will post your birthday message to your recipient's timeline.

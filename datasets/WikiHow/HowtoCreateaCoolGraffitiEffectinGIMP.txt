@@ -1,0 +1,54 @@
+@summary
+create a blank image with the dimensions of 850 by 320 pixels.
+
+@summary
+fill in a desired color.
+
+@summary
+bump map this brick texture over the pink layer.
+
+@summary
+apply some "graffiti" brushes.
+
+@summary
+choose the color that you want and choose your font.
+
+@summary
+right click on your text layer and click on "alpha to selection".
+
+@summary
+go to select >> grow.
+
+@summary
+create a new layer and put it below your text layer.
+
+@summary
+apply a gaussian blur of 5 pixels each on both the text layer and the color layer.
+
+@summary
+,
+
+@summary
+merge both your text and color layers together.
+
+@summary
+click on "select none".
+
+@summary
+that being done, you are finished.
+@article
+;
+, Pink is used here.
+
+
+
+Place the brick layer above the pink layer. Select the pink ––go to filters map-bump map, select your brick layer, and choose the settings that are shown in this image. Now you can delete the brick layer.
+ Create a new layer and apply some desired ones. If you don't have them, download them and install them.
+ Type in the name of the person you're creating it for (or any other message).
+ This will select your text.
+ Grow your selection by 7 pixels.
+ Fill it with any desired color––click on "Select None".
+, Open the brick texture again and apply a bump mapped texture to your text layer. To do that, place your brick texture over your text layer, select the text layer and right click and hit on alpha to select. Select the texture layer, press "ctrl+i" on your keyboard (it's a shortcut for invert), then hit your delete key. You should now see something like the image shown here.
+ As you did previously, add a bump mapped texture to your text layer.
+ You can merge all the layers and save it to your desired format in your desired location. Check the image at here for a finalized example.
+

@@ -1,0 +1,23 @@
+@summary
+make the face outline.
+
+@summary
+add the face and head features.
+
+@summary
+draw the body.
+
+@summary
+color pochacco.
+
+@summary
+,
+
+@summary
+erase any pencil marks.
+
+@article
+ Apply small curves and indents to avoid making a wide or long shaped face.;
+, Add the dog-shaped ears and rabbit-like eyes and nose.
+ Draw the shirt first to make everything easy. Go down and create a curved rectangle for the legs. Make an indent about halfway on the legs and draw a curve to separate the legs. Add the two arms on each side of the shirt.
+,

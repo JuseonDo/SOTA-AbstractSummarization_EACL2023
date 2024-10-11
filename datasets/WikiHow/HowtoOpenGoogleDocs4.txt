@@ -1,0 +1,23 @@
+@summary
+sign up for a google account.to use google docs, you must have a google account.
+
+@summary
+click the app menu icon (9 square boxes) at the top right corner of the screen of google.com, then select “drive”.
+
+@summary
+click “new, then select “google docs.” now you’ll see a brand new google docs file open in the program.
+@article
+ If you do not have one, sign up now.
+
+
+If you’re using a mobile device, you should also install the Google Docs app. iPhone and iPad users can get it from the App Store. On Android, grab it from the Play Store.
+ You are now viewing your Google Drive.
+
+
+In the mobile app, tap the “+” icon.
+
+
+
+Mobile users, tap “New Document” instead.
+Google Docs files save automatically, so there’s no need to press Save when you’re done.
+

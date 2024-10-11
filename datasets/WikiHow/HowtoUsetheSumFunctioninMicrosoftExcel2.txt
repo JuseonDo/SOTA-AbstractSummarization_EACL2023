@@ -1,0 +1,20 @@
+@summary
+if you have a complete column or row of numbers in a row to add, use autosum.
+
+@summary
+confirm that the highlighted cells are the ones you want to add up.
+
+@summary
+,
+
+@summary
+press enter for the result.
+
+@article
+ Click into the cell at the end of the list you want to add (below or next to the given numbers).
+
+
+In Windows, press Alt and = at the same time.
+On a Mac, press Command and Shift and T at the same time.
+Or on any computer, you can select the Autosum button from the Excel menu/ribbon.
+,

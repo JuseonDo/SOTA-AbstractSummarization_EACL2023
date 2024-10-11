@@ -1,0 +1,22 @@
+@summary
+find a good spot.
+
+@summary
+place 3 to 6 blocks high (depending on your choice).
+
+@summary
+make a small glass box but keep the top open.
+
+@summary
+,
+
+@summary
+bring lava using a bucket and pour it in the hole.
+
+@summary
+cover the hole with a glass block.
+
+@article
+ This is a basic beacon, unlike the method listed above. Used as a homing beacon, it will give off less light so don't make the beacon on low land. Make it on a mountain so you can spot it from far away.
+ Use any material you want (other than water or wood).
+, Lava is found underground or occasionally in lakes.

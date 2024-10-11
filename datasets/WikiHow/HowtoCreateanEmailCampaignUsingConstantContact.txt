@@ -1,0 +1,152 @@
+@summary
+visit the constantcontact website.
+
+@summary
+click the “log in” button in the top right hand corner of the page.
+
+@summary
+enter the user name and password associated with your constantcontact account and click “login”.
+
+@summary
+click the “email marketing” tab at the top of your account.
+
+@summary
+,
+
+@summary
+click the “create” sub-tab to begin the process of creating an email for your campaign.
+
+@summary
+,
+
+@summary
+enter a name for your email in the “email name:” input field.
+
+@summary
+click “next”.
+
+@summary
+,
+
+@summary
+select a template by browsing through the categories of provided templates.
+
+@summary
+click the “next” button once you have selected your template.
+
+@summary
+,
+
+@summary
+enter a subject line for your email.
+
+@summary
+enter a “from name”.
+
+@summary
+select a “from email address” and “reply email address” from the drop down menus.
+
+@summary
+select “on” or “off” to either activate or disable the permission reminder section.
+
+@summary
+click the checkbox to enable a webpage version of your email.
+
+@summary
+click the checkboxes under the “forward email to a friend” heading to include a “forward email” link to your email and a “subscribe me!” link in your forwarded email.
+
+@summary
+,
+
+@summary
+click “next”.
+
+@summary
+,
+
+@summary
+you can edit your email by rearranging the sections or headings, which are referred to as “blocks”, selecting fonts and colors, and editing text.
+
+@summary
+click “save & continue” once you are happy with the layout of your email.
+
+@summary
+,
+
+@summary
+click “create a new list” to create a list of recipients that will receive your email.
+
+@summary
+enter a name for your new list and click "save".
+
+@summary
+,
+
+@summary
+type or copy and paste contacts into the text input field, clicking enter after every email address.
+
+@summary
+click the checkbox next to the contact lists you want to use.
+
+@summary
+,
+
+@summary
+click “next”.
+
+@summary
+,
+
+@summary
+select whether to make your email a draft to be sent later, to send now, or enter a date for scheduled delivery.
+
+@summary
+click “finish”.
+@article
+;
+,
+
+
+If you do not have an account with the service yet, you can get one by visiting the ConstantContact sign-up page and following the onscreen instructions.
+ You will be taken immediately to the “Home” tab of your account page.
+,, This name will only be for you to identify it and will not be displayed to those receiving the email. You will be able to select a title or name that users will see later on. It is often a good idea to use the date the email was created or a descriptive title in order to quickly find it among a long list of emails you may ultimately create using the service.
+, Keep in mind that all templates have several image choices. You can also browse for templates by category by clicking the category links on the left hand side.
+
+
+Alternatively, you can upload your own template by clicking the “Use My Own Code” link on the left and following the onscreen instructions. Supported template formats include HTML and XHTML.
+
+Clicking the “Let us create it!” link at the top of the template section will provide you with details for ConstantContact’s template design service. The company’s designers will design a custom template for you with an approximate turnaround time of 4 weeks. Of course this service will cost you, depending on exactly what you want done.
+, This is what your readers will see in the email subject line when they receive your email in their inbox.
+ This is the name that the email will appear to have come from in your recipients inbox.
+ Your from email address will be where your email appears to have been sent from. The reply email address is where replies to your email will be sent.
+
+
+You can add and verify more email addresses to use by clicking the “Verify more email addresses” link underneath the drop down menus.
+ If turned on, you can enter your text in the text input field. This is essentially a short message that will be displayed at the top of your email. You can use this section to remind readers why they have subscribed to your email or simply request an action, such as asking the reader to add you to their contacts. This is optional but has become an industry standard practice and can be quite effective.
+ This will add the default text “Having trouble viewing this email? Click here” to your email. Readers that can't view your message for whatever reason can alternatively link to the webpage version. Once your email has been sent, a webpage version will automatically be created and remain active for 30 days. You can change the default text and link text if you wish.
+,,
+
+
+To rearrange a block, click the heading or title bar and drag and drop it into your desired location.
+
+You can edit text for any given block by clicking the pencil icon.
+
+Copy a block by clicking the layered page icon in any given block title bar.
+
+Delete a block by clicking the trashcan icon from its title bar.
+
+Add new blocks by clicking the “Add Blocks” link on the left and selecting from available block styles.
+
+Change colors and fonts from under the “Global Colors & Fonts” link on the left.
+
+You can edit edit style sheet and text version by clicking the links underneath “Advanced Features” on the left.
+,
+
+
+If you have already created a contact list, you can check the checkbox next to it to use it. If you select more than one list, contacts included in more than one of the selected lists will only receive one email.
+, After you have added addresses, click “Save Address”.
+,,
+
+
+You can also click the checkboxes under the Tweet and Share heading to share your email via a link on Twitter, Facebook, or LinkedIn.
+ Your email will now be sent using the delivery options you have selected.To further edit your email, you must revert the email back to Draft status from within the "My Emails" tab. You will also be able to access detailed info and stats by clicking the email from within your list of currently created emails.

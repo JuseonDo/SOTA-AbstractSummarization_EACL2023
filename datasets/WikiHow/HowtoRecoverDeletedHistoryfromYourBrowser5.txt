@@ -1,0 +1,12 @@
+@summary
+consider the other options that you can resort to.
+
+@summary
+perform regular backups.if you do follow the guidelines given here, make it a point to remember every step you take, so it becomes easier to retrace them, if need be.
+@article
+ Depending on how important the data is, and what lengths you are prepared to go to in order to recover it, there are two things you can try.
+
+
+Install professional recovery software, which may cost a bit, but stands a better chance of recovering any lost data.
+Opt for professional data recovery services. Not only does this option cost a lot, it also means that you will have to send your hard disk to them.
+ Regular backups is always the best option to avoid a scenario where recovering deleted data becomes too difficult or impossible.

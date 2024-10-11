@@ -1,0 +1,55 @@
+@summary
+choose your image that you want to apply the tool to.
+
+@summary
+be sure that the entire image is in the screen.
+
+@summary
+click on the selection tool.
+
+@summary
+go to the selection dialog boxes at the near top of the screen.
+
+@summary
+pick a starting point, click on it and keeping along the edge of your subject, find another point and select it.
+
+@summary
+continue this until your subject is completely surrounded.
+
+@summary
+refine the image.
+
+@summary
+click on selections >> invert.
+
+@summary
+go to selections >> edit selection.
+
+@summary
+select a brush to edit the mask with.
+
+@summary
+if you want to check your progress, go to selections >> edit selections and click on it again.
+@article
+ For your first attempt, you probably want it to have some solid defined lines until you are more familiar with it.;
+, Having to scroll around with the mouse when trying to make the selection creates a lot of difficulties.
+ You may see a wand, a lasso, or the 'marching ants' icon. Select the lasso. It's the 'Freehand Selection' option.
+ Go to Selection Type and then click on Smart Edge.
+ As long as you stay somewhat close to the edge of the subject, the lasso tool will maintain it. It's OK if it isn't perfect. It can be fixed later.
+ Double click on the beginning/end point.
+ Sometimes, vague color separations cause your 'lassoing' to be less than accurate. To fix that, do the following., This inverts the selection.
+ What you will see then, is, the mask that is covering everything but the strawberry.
+
+
+
+
+
+
+Your strawberry should now look like this.
+ You will want to have two colors for your background and foreground; black and white. What you are trying to accomplish is making the strawberry with its mask look cleaner.
+ Then you will be able to see what your actual selection looks like.
+
+
+
+
+

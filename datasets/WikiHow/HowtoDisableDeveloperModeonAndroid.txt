@@ -1,0 +1,22 @@
+@summary
+open your android’s settings.
+
+@summary
+scroll down and tap developer options.
+
+@summary
+slide the switch to the off (gray) position.
+@article
+ Look for a
+
+
+
+
+
+or wrench icon labeled “Settings.” You’ll find it on the home screen or in the app drawer.;
+, It should be under the “System” heading.
+
+
+If you don’t see this option, Developer Mode is not enabled on your Android.
+ This is the switch at the top of the screen. This switch may be labeled “Developer Mode.” When the switch turns gray, your Android will no longer be in Developer Mode.
+

@@ -1,0 +1,23 @@
+@summary
+put your psp in usb mode.
+
+@summary
+then plug in the cord that came with the psp.
+
+@summary
+when you're there you should see a box that has the folders: psp, music, video, picture, and mp_root.
+
+@summary
+,
+
+@summary
+then just drag and drop your files to the right folder.
+@article
+;
+, You should see a box that says open files. Click it.
+, For instance if you have a game click PSP, then game and drop your folder in.
+
+
+Common file is what is stored in your internet browser.
+If you have Safari in your common folder you type in your internet browser, file/psp/common/safari/index.html or whatever it is listed as.
+

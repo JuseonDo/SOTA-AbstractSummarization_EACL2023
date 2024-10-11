@@ -1,0 +1,33 @@
+@summary
+open microsoft edge.
+
+@summary
+click ….
+
+@summary
+click settings.
+
+@summary
+click the box below the "open microsoft edge with" heading.
+
+@summary
+click a specific page or pages.
+
+@summary
+type yahoo's home page url into the "enter a url" box.
+
+@summary
+click the floppy disc icon.
+
+@summary
+restart microsoft edge.
+@article
+ This browser's icon is dark-blue with a white "e" on it.
+ It's in the top-right corner of the Edge window.
+ This option is near the bottom of the pop-out window.
+ It's near the middle of the Settings section.
+ You'll find this option in the "Open Microsoft Edge with" drop-down menu.
+ Yahoo's home page URL is https://www.yahoo.com/. You should see the white "Enter a URL" box below the "Open Microsoft Edge with" section.
+ It's to the right of the URL box. Doing so will save your changes.
+ When it opens, you should arrive at Yahoo's home page rather than your previous home page.
+

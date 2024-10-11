@@ -1,0 +1,52 @@
+@summary
+go to the audio shop and buy some wiring adequate for the amperage of your audio amplifier.
+
+@summary
+disconnect the negative battery terminal before any wiring modifications to your vehicle.
+
+@summary
+,
+
+@summary
+install the positive wire.
+
+@summary
+install the negative.
+
+@summary
+put in your rca and rem.
+
+@summary
+hook up the solid blue rem wire.
+
+@summary
+hook up your amp with the provided instructions (make sure your negative battery terminal is disconnected) and tell your radio to turn on the subs or just turn on the radio.
+
+@summary
+hook up the sub wires to the subs and amplifier with the car off.
+
+@summary
+,
+
+@summary
+pray a lot, turn on the car and get ready to bump!
+@article
+ The wiring kit you get should include: large amounts of positive and ground wiring, battery terminal adapters, blue remote turn-on wire, RCA interconnect cable, speaker wire, fuse holder with fuses, connectors & wire ties.;
+,, You need to run it from the battery to the amplifier. Since the wires are thick and there is no tool big enough to strip them, the best way is to use a straight edge razor blade. Make cuts on 4 sides down the wire then carefully connect the 4 slits with a slit in the middle all the way around the wire. Then the insulation will come off easily.
+
+
+Make sure you install a fuse in the positive wire to prevent damage to the amp, your car, yourself and others, in case of an electrical fault.
+
+
+
+
+
+
+After the fuse has been fitted, run the wire though the car to your amp. Since wires go to your trunk anyway (if that's where your amp is) find them with a repair manual and follow those with your new wires.
+ Sometimes any bare metal works. but to be sure it's a good ground. Connect your positive and with a multimeter switch it to 12v dc and touch one end to the end of your positive and the other to your ground. If it reads 12v then it's ok. If it reads OL or 0, you'll need to find somewhere else for the ground.
+ The RCA is the wire with two connectors on either end and they plug in to your head unit. They usually go to wires sticking out of the unit labeled sub out or output. the White is always negative. Run the RCA in the same place your negative is going to your amp
+
+, This tells your amp to turn on. You will need to pull the radio and connect it to the wire label System Remote. You can find it in a wiring diagram for your radio or sometimes its blue with a white stripe or solid blue.
+ If the power light come on on the amp then you did good. If your going to do this right you should secure the amp with screws. you can do this with a mounting bracket but this take time and fabrication and is not really necessary.
+, If it doesn't work, check your fuse on the positive wire. You did put a fuse in didn't you? If it blew you screwed up the wiring. go back and check it out!
+

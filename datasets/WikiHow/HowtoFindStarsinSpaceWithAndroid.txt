@@ -1,0 +1,25 @@
+@summary
+click the "search" tool in the top right of the play store app.
+
+@summary
+type in "sky map".
+
+@summary
+click "install.",
+
+@summary
+angle your phone up so that it's right under the star you're trying to identify.
+@article
+
+
+
+
+ ;
+, Select the icon with the spyglass and star.
+ Then, click "Open" to open Sky Map on your phone.
+ You'll see a list of stars and constellations on the Sky Map app. Once you've got it lined up properly, you should see the label for the star you're looking at in Sky Maps.
+
+
+
+
+

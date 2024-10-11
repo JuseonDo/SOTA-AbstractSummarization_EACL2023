@@ -1,0 +1,13 @@
+@summary
+use fences to make a wall around your house.
+
+@summary
+use ladders to get inside your house.
+
+@summary
+make a fence wall on top of your house.
+@article
+ It protects you from most mobs but not from spiders. A good starter defense but not the best of the best.;
+, Don't place a door. Not really an obvious method of defense but you won't have zombies banging up your door.
+ This prevents spiders from climbing up your wall.
+

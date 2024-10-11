@@ -1,0 +1,19 @@
+@summary
+make sure your battery pack is charged.
+
+@summary
+plug in your ipad using the usb cable.
+
+@summary
+,
+
+@summary
+wait for it to charge.
+@article
+ Portable battery packs allow you to charge your devices on the go and without plugging into a wall.
+,
+
+
+External battery packs have different power ratings, and the charging time for devices varies accordingly.
+Use only Apple certified accessories for your iPad to avoid any electrical damage.
+

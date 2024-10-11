@@ -1,0 +1,40 @@
+@summary
+open facebook.
+
+@summary
+tap ☰.
+
+@summary
+scroll down and tap friends.
+
+@summary
+,
+
+@summary
+select the friend you want to add to the close friends list.
+
+@summary
+tap friends.
+
+@summary
+tap edit friend lists.
+
+@summary
+,
+
+@summary
+select close friends.
+
+@summary
+tap done.
+@article
+ It’s a blue icon with a white “F,” typically found on the home screen.
+
+
+If you’re not signed in, type your account information and tap Log In.;
+, It’s at the bottom-right corner of the screen.
+, This opens that user’s profile.
+ It’s beneath the person’s name on their profile.
+, A blue check mark will appear next to the list’s name.
+ Your friend is now a member of the Close Friends list.
+

@@ -1,0 +1,21 @@
+@summary
+create a new shortcut on your desktop.
+
+@summary
+input the web address in the empty field provided.
+
+@summary
+name the shortcut you just created.
+
+@summary
+click on "finish.",
+
+@summary
+double-click on the shortcut to try it out.
+@article
+ Right-click on an empty space on your desktop, select "New," and then select "Shortcut.";
+, After creating a new shortcut, a window will prompt up asking you for the location of the shortcut. Just type in www.hotmail.com.
+ You can name this anything you want, like simply Hotmail or Hotmail Login.
+
+
+, It should take you to the Hotmail login page.

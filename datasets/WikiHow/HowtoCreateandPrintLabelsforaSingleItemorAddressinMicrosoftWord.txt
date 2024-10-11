@@ -1,0 +1,68 @@
+@summary
+click on "mailings" tab and then select "labels".
+
+@summary
+in the address box, do one of the following:
+
+@summary
+if you are creating mailing labels, enter or edit the address.
+
+@summary
+under print, do one of the following:
+
+@summary
+to print a single label, click single label.
+
+@summary
+in the envelopes and labels dialog box, do one of the following:
+
+@summary
+to print one or more labels, insert a sheet of labels into the printer, and then click print.
+@article
+;
+,
+
+
+
+
+
+
+If you want to use a return address, select the Use return address check box, and then edit the address.
+
+
+
+
+
+
+If you are creating another type of label, such as a book plate, type the text you want.
+ Then, type or select the row and column number on the label sheet for the label you want to print.
+
+
+
+
+
+
+To print the same information on a sheet of labels, click Full page of the same label.
+
+
+
+
+
+
+To select the label type, and the type of paper feed, click Options.
+
+
+
+
+
+
+If the type of label you want to use is not listed in the Product number box, you might be able to use one of the listed labels, or you can click New Label to create your own custom labels.
+
+To save a sheet of labels for later editing or printing, click New Document.
+
+
+
+
+
+
+

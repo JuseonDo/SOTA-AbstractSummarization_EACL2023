@@ -1,0 +1,37 @@
+@summary
+find a windows installation disc.this method should only be performed by advanced users.
+
+@summary
+download dban (darik’s boot and nuke).
+
+@summary
+burn dban to a cd or dvd.
+
+@summary
+insert the burned dban cd/dvd and restart the computer.the computer will reboot into dban, which will walk you through formatting your hard disk.
+
+@summary
+,
+
+@summary
+press enter for “interactive mode.” this will allow you to specify how dban formats the drive.
+
+@summary
+,
+
+@summary
+press the spacebar to select the drive to be formatted, then press f10 to begin.
+
+@summary
+eject the dban cd or dvd when you see the word “pass.” when you see “pass,” the wipe is complete.
+
+@summary
+insert the windows installation disc and reboot the computer.
+@article
+ Formatting the hard drive erases everything on the computer, including Windows. You’ll need an installation disc to reinstall the operating system after you format the drive. You can borrow one from a friend, as long as it’s the same version you have installed currently.
+ The only way to completely wipe your hard drive clean is to use a third-party “nuke” tool. Experts recommend DBAN, which is free.This will download an ISO image of DBAN to your computer.
+ See Burn ISO Files to DVD for tips on properly burning an ISO file to disc.
+,, This process will take several hours. The actual length depends on hard disk size and speed. Look at the “Remaining” time in the top right corner of the screen to keep track of your progress.
+ Your drive has been erased and re-written.
+ Now you’ll begin the process of installing Windows on your freshly-formatted hard drive. Rebooting the computer will boot directly into the Windows installer. Click “Install” or “Next” to begin the installation, then follow the screens to select your installation options.
+

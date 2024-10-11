@@ -1,0 +1,48 @@
+@summary
+find out what frequency you want (for wi-fi you are using 2.45ghz = 2,450,000,000hz).
+
+@summary
+get a good conductor.
+
+@summary
+work out the length you need the wire to be.
+
+@summary
+cut the wire a little bigger than you need, about 6.5 centimeter (2.6 in) or so.
+
+@summary
+form a "ground-plane".
+
+@summary
+drill a hole in the center of the plate just big enough for the co-axial cable to fit through.
+
+@summary
+,
+
+@summary
+pare the co-ax cable to reveal it's ground , which can be pulled back to reveal the inside insulator.
+
+@summary
+,
+
+@summary
+push the cable through so that the start of outer insulation is flush with the hole.
+
+@summary
+pare the inside insulation back to reveal the signal conductor.
+
+@summary
+,
+
+@summary
+solder the copper wire to the signal conductor of the co-ax.
+
+@article
+ This is needed because this determines the length of your antenna.;
+, For the example we can use a copper wire and a piece of copper plating. Also you will need a co-axial cable (75 ohm is better than 50 ohm, for Wi-Fi 50 ohm is better than 75 ohm).
+ This is done by using the frequency value from step 1 to find the wavelength of the signal. To do this you simply need to divide the speed of light (c = 299 792 458 m/s) by the frequency (f). In the case of 2.45GHz the wavelength is 12.236 centimeter (4.8 in). Usually monopole antennas are quarter-wavelength structures, so the length of the wire should be 12.236/4 = 3.0509cm
+
+, This way you can pare it back based on performance.
+ This is basically used to form a theoretical mirror image of the antenna. Simply use the copper plate that you picked up earlier. It should be at least half a wavelength square.
+,, The ground conductor is now above the ground-plane. Fold the ground conductor back and solder it to the copper ground plane.
+,

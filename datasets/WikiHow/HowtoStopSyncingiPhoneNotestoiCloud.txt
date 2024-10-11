@@ -1,0 +1,21 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll to the fourth group of options and select icloud.
+
+@summary
+,
+
+@summary
+scroll to the notes option.
+
+@summary
+,
+
+@summary
+slide the notes switch left to the "off" position.
+@article
+ To do this, tap the grey gear icon that's either on one of your Home screens or in your "Utilities" folder.;
+,,, It should turn grey. Doing this doesn't delete your notes from your iCloud account, but it does prevent your iCloud notes from appearing in your Notes app.
+

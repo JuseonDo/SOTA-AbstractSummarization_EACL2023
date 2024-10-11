@@ -1,0 +1,25 @@
+@summary
+open snapchat.
+
+@summary
+swipe up on the camera screen.
+
+@summary
+tap a snap or story.
+
+@summary
+tap edit & send.
+
+@summary
+tap the trash can icon.
+
+@summary
+tap delete.
+@article
+ It's a yellow app that contains a ghost icon.
+ Doing so opens the Memories page.
+ Select the saved Snap or Story you want to delete.
+ It's at the bottom of the screen below a caret (^).
+ It's in the lower-left corner.
+ The selected Snap or Story has been deleted from Memories.
+

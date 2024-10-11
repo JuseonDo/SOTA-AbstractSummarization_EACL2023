@@ -1,0 +1,28 @@
+@summary
+open ubuntu software center.
+
+@summary
+search for mumble.
+
+@summary
+select the program.
+
+@summary
+,
+
+@summary
+click on the install button.
+@article
+ Go to Dashboard and search for, then click on, Ubuntu software center.
+ Type mumble in the top right search bar.
+,
+
+
+Enter your password, should you be prompted.
+
+
+
+
+
+
+

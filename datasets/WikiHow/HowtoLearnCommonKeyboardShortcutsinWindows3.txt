@@ -1,0 +1,22 @@
+@summary
+make text bold with ctrl+b , italicized with ctrl+i , and underlined with ctrl+u (these do not work in notepad).
+
+@summary
+,
+
+@summary
+use ⇱ home or ⇲ end to go the beginning or end of a line of text, respectively.
+
+@summary
+change the font size.
+
+@summary
+save a document by pressing ctrl+s.
+@article
+, Add Ctrl to either of these keys to go the beginning or end of the document.
+ You can change font size by selecting the text and pressing either Ctrl+> or Ctrl+< . Note that this font sizing tip does not work in Notepad.
+ This is common in just about any application, including Microsoft Word and Notepad.
+
+
+Or you may press F12 for the Save-As selection on most applications. This also applies for most applications.
+

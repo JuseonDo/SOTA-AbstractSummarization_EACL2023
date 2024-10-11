@@ -1,0 +1,12 @@
+@summary
+open the messages program.
+
+@summary
+select a conversation.
+
+@summary
+scroll up through the conversation's contents.
+@article
+ This is the blue speech bubble icon in your dock.
+ You can do so from the left side of your Messages program., As long as your messages haven't been deleted, you can review the conversation's history!
+

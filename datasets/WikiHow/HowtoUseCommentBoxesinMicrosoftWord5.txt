@@ -1,0 +1,9 @@
+@summary
+right-click the comment you wish to delete.
+
+@summary
+select delete comment from the popup menu.
+@article
+ This displays a pop-up menu.
+ The comment balloon disappears, and the sequence numbers of the comments following it are each decreased by 1.
+

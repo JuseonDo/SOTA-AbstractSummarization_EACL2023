@@ -1,0 +1,79 @@
+@summary
+swipe right on your ipad's screen.
+
+@summary
+enter your passcode.
+
+@summary
+,
+
+@summary
+open your "settings" app.
+
+@summary
+find the "touch id & passcode" tab and tap it.
+
+@summary
+enter your passcode again.
+
+@summary
+tap "add a fingerprint".
+
+@summary
+,
+
+@summary
+touch the center portion of your chosen finger to the home button.
+
+@summary
+when your ipad vibrates, lift your finger off of the home button.
+
+@summary
+repeat steps 7 and 8 until your ipad moves to the next screen.
+
+@summary
+when the "adjust your grip" screen comes up, hold your ipad as you normally would while unlocking it.
+
+@summary
+touch the edge of your finger to the home button.
+
+@summary
+when your ipad vibrates, lift your finger off of the home button.
+
+@summary
+,
+
+@summary
+repeat steps 11 and 12 until your ipad tells you your fingerprint has been accepted.
+
+@summary
+lock your ipad.
+
+@summary
+tap the home button once to turn on the screen.
+
+@summary
+,
+
+@summary
+touch your scanned finger to the home button.
+@article
+ You'll need to have a passcode set in order to create a Touch ID passcode.,, This is the grey gear app on your home screen.
+ The "Touch ID" section will only appear for iPads with a Touch ID-enabled home button.
+ This will open the Passcode settings, from which you can set a new Touch ID.
+, Make sure you aren't pressing the home button--you only need to lightly touch it.
+ Your iPad may also prompt you to remove your finger with on-screen text., You will have to scan your finger eight times., You'll need to scan different parts of your finger in order to complete the Touch ID process.
+ The edge you use will vary depending on how you normally tap your home button.
+
+
+For example, if you normally use the outside of your right thumb to tap the home button, you would repeatedly touch that edge to the home button here.
+, Your Touch ID is now active!
+
+, You'll need to verify that your Touch ID works.
+, This should unlock your iPad after a second or so.
+
+
+If your chosen finger doesn't work, try using a different finger.
+You can save up to five fingerprints.
+You can also use your Touch ID to make purchases or verify downloads from the app store.
+

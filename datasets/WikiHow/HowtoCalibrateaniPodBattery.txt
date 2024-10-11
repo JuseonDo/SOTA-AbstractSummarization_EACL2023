@@ -1,0 +1,32 @@
+@summary
+charge the battery to full capacity.
+
+@summary
+completely drain the ipod to empty.
+
+@summary
+wait 5-10 minutes before doing anything else to your ipod.
+
+@summary
+,
+
+@summary
+charge the battery to full again.
+
+@summary
+drain the battery once again.
+
+@summary
+,
+
+@summary
+recharge the battery another time.
+
+@summary
+repeat a few times until you have revitalized as much power to your ipod as possible.
+
+@article
+ Simply plug in the iPod until the battery icon is full. Depending on model, age, use, and other factors, this may take a few hours to a day or more.;
+, This will rid the battery of any "old" power still left in it from the last time you charged it.
+, There *may* be a slight difference in the amount of time it took to fully charge last time.
+, There should be a significant change in the amount of time it takes to charge you iPod. This means you are essentially putting more power in to your iPod.

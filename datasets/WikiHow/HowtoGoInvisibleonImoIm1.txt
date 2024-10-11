@@ -1,0 +1,33 @@
+@summary
+open the imo.im app.
+
+@summary
+tap chats.
+
+@summary
+select a conversation with the person you want to block.
+
+@summary
+,
+
+@summary
+tap the person’s name.
+
+@summary
+scroll down and tap block.
+
+@summary
+,
+
+@summary
+tap yes to confirm.
+@article
+;
+, It’s at the top right corner of the screen.
+, It’s at the top left corner of the screen, next to the “back” arrow.
+, This person can no longer see when you are active.
+
+
+When you want this person to be able to contact you again, tap the ☰ at the bottom left corner of Imo, select Settings, Blocked Contacts, then tap Unblock.
+You’ll have to repeat this method for everyone you want to block/unblock.
+

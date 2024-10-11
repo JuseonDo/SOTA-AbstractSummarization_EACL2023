@@ -1,0 +1,10 @@
+@summary
+remove the browser cache contents periodically.press windows key + r.
+
+@summary
+type "inetcpl.cpl.",click the general tab.
+
+@summary
+click the delete button under browsing history category.
+@article
+ Cache is a location that stores your most frequently accessed web pages copies. The cache may become corrupt over a period of time. Deleting the same will be helpful.,, Click OK. Internet Options dialog will open.,, When you’re prompted to confirm in a subsequent prompt, check-up all the checkboxes and then click the Delete button.

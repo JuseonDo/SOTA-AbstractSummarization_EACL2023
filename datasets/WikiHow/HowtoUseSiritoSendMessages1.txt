@@ -1,0 +1,34 @@
+@summary
+press and hold the home button to activate siri.
+
+@summary
+say “send a text.” siri will ask “to whom would you like to send this message?”
+
+@summary
+,
+
+@summary
+say the person’s name or phone number.
+
+@summary
+say the contents of the text message.
+
+@summary
+say “send.” the message will be delivered to the recipient.
+@article
+ If your phone supports it, you may also launch Siri by saying “Hey Siri.”
+
+
+If you don’t hear two quick beeps (or see “What can I help you with?” on the screen), open your iPhone’s Settings, tap Siri, and slide the “Siri” switch to the On (green) position.;
+,, Siri should respond with, “What do you want to say?”
+
+
+If Siri doesn’t recognize the name, she will say “I couldn’t find <name> in your contacts. To whom shall I send it?” Try a different name, or say a phone number., When you stop speaking, Siri will display the message and ask, “Ready to send?”
+
+
+If you aren’t satisfied with the message, say “Change it” to start again, or “Add <whatever you want to add>” to add another line.
+
+
+
+You can also combine these steps into one statement. For example, you could say “Text Sarah I’m on my way.”
+

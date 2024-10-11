@@ -1,0 +1,38 @@
+@summary
+open the facebook app.
+
+@summary
+tap ≡.
+
+@summary
+tap "settings.",
+
+@summary
+tap account settings.
+
+@summary
+tap language.
+
+@summary
+tap the top link.
+
+@summary
+tap your preferred language.
+
+@summary
+tap save.
+@article
+ If you're not logged in automatically, enter your credentials.;
+, It is in the lower right of the screen.
+
+
+, It is at the top of the pop-up menu.
+ It is at the bottom of the menu's second section, next to a globe icon.
+ It reads "What language do you want stories to be translated into?"
+
+, You may need to scroll down to find it.
+
+
+Once selected, a blue checkmark will appear to the right of your preferred language.
+ It appears at the top of the screen. Your language settings have now been changed for Facebook.
+

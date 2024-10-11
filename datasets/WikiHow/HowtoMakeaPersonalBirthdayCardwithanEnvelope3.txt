@@ -1,0 +1,4 @@
+@summary
+write a message for the recipient.
+@article
+ You could write something sweet, something funny, or you could try making a poem.

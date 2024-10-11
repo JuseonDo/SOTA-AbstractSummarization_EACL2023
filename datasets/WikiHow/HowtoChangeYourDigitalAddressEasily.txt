@@ -1,0 +1,24 @@
+@summary
+apply for a transfer to the gaining registrar.
+
+@summary
+receive an authorization code from the administrator by unlocking the domain.
+
+@summary
+,
+
+@summary
+wait for the email and check your inbox for it.
+
+@summary
+confirm the transfer through the link by using the id and key code from the email.
+@article
+ He will then further validate the transfer request from the administrator. (In case there is no reply within 5 days, the request for domain transfer is rejected.);
+,, You are sent an email by the gaining registrar to confirm the transfer that contains a link for the transfer as well as a Key Code and an ID number.
+
+
+
+The administrator releases the domain.
+You receive an email notifying you that the transfer is successful.
+You now have full control over the new domain.
+

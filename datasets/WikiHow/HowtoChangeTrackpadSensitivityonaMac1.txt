@@ -1,0 +1,32 @@
+@summary
+click the apple icon.
+
+@summary
+click system preferences.
+
+@summary
+,
+
+@summary
+click the "trackpad" icon.
+
+@summary
+click point & click.
+
+@summary
+,
+
+@summary
+click on the "tracking speed" bar's cursor.
+
+@summary
+drag the cursor back and forth.
+@article
+ It's the Apple logo on the left side of the menu bar at the top of your screen.;
+,,
+
+
+If you can't see the main menu, click the three rows of dots at the top left corner of the window, which displays as Show All in earlier versions of Mac OS X.
+, It's the little white notch.
+ Doing so will increase or decrease how quickly your cursor moves across the screen while using your trackpad.
+

@@ -1,0 +1,24 @@
+@summary
+microsoft corporation freely provide software for indian typing.
+
+@summary
+go to microsoft's download site.
+
+@summary
+make sure your system supports the software.
+
+@summary
+wait for the software to download and install.
+
+@summary
+choose a hindi language from the bar.
+@article
+ It is easy to install the software.;
+,
+
+
+Make sure you've selected Hindi as your language and then click on Install Desktop Version.
+ If so, click on Install now button which is at the bottom of the software page to download the software.
+ If the software is successfully installed in your system than it will create a "Language Bar" in the task bar.
+ Then you can type in Hindi in Microsoft Word.
+

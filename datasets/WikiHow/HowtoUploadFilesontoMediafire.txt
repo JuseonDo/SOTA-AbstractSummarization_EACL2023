@@ -1,0 +1,45 @@
+@summary
+navigate to the mediafire site.
+
+@summary
+click the "sign up" button.
+
+@summary
+choose a plan.
+
+@summary
+enter your account details.
+
+@summary
+click the “i agree to the terms of service” box.
+
+@summary
+,
+
+@summary
+click "upload.",
+
+@summary
+click the + symbol.
+
+@summary
+upload a file.
+
+@summary
+click “begin upload.” this will begin the process.
+
+@article
+ Go to http://www.mediafire.com.;
+, You can find it at the top of the screen.
+ You can choose the basic, pro, or business.
+
+
+The basic service is free and allows you to store up to 10GB.
+The pro version costs $2.49 a month and will allow you to store up to 1TB worth of files.
+The business version costs $24.99 a month and will allow you to store 100TB.
+ On the given fields, enter your first and last name, e-mail address, and password.
+, A window will pop up.
+ It is located on the bottom left.
+ Go to the folder where the file you are uploading is kept. Select the file and then click “Open.”
+
+,

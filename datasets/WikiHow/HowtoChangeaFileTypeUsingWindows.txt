@@ -1,0 +1,34 @@
+@summary
+find the file you wish to change, and then using your mouse right click onto the file.
+
+@summary
+find ms paint (or a comparable program).
+
+@summary
+look on the toolbar of the paint program and find the option "file" and click it.
+
+@summary
+look at the bottom of the popup.
+
+@summary
+look for the line in the options that says .jpg.
+
+@summary
+now look at the top of the popup and make sure you are saving this file in the same place it was at originally, or if you want to make a new folder to place it in .. now is the time to do that too.
+
+@summary
+,
+
+@summary
+once you are sure of the destination your new file will be going to... then simply click the "save" option on the line above the one you placed your preferred new file type into.
+
+@article
+ It will highlight the file and a drop down menu will appear. Look down the list of options you see there and find " OPEN WITH" and click it.;
+, A list of programs will be offered to you as well as an option to "BROWSE". Look on the list and see if the option "PAINT" is listed there. If it is not, then click the "BROWSE" option and it will open up a popup where you can search your computer for the "PAINT" program. Once you find it, then click it to put it into the list of programs you can send your file to. Once it is in the list, click it and it will send your file to "Paint" program and open it up for you.
+ A drop down menu appears and you will see the option "SAVE AS", click on it.
+ There are two lines that will be used to change the file type. The last line is the one that will be used first. At the end of it is the dark space to click to get the file type options you need. Click it and a drop down menu appears and you will see different types of file types you can choose there.
+ It might include other letters there as well but don't let that confuse you. if .JPG is in the line with the rest of them, that is the one you need. Click it.
+
+
+It will place that choice you made into the blank line.
+,

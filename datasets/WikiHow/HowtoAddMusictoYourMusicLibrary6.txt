@@ -1,0 +1,29 @@
+@summary
+make sure you are connected to the internet.
+
+@summary
+,
+
+@summary
+open itunes.
+
+@summary
+,
+
+@summary
+enter a song or artist name into the "search store" bar.
+
+@summary
+select a track in the results screen.
+
+@summary
+click the "buy" link located next to track.
+
+@summary
+enter your apple id and password at the prompt and complete the transaction.
+@article
+,, The bar appears in the upper-right corner of the menu.
+ You can filter the type of media you're looking for by clicking on "music" to have the search engine only display music results. You can also listen to a 30-second preview of each song.
+ You will have to register with iTunes, giving basic information like name, address, credit card information, and email, before being able to purchase songs. This includes creating an Apple ID and password as well.
+ The song will automatically be added to your iTunes library.
+

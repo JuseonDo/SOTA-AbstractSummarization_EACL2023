@@ -1,0 +1,9 @@
+@summary
+select the tab of the settings you want to change.
+@article
+ You can choose from General, Content, Connections, Programs and Advanced.
+
+
+You can change the browser's appearance, select your homepage and default programs and delete browsing history.
+You can also modify other Explorer settings with the "Advanced" tab.
+

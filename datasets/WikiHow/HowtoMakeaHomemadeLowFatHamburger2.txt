@@ -1,0 +1,19 @@
+@summary
+turn on the oven on maximum level.
+
+@summary
+put the hamburger on a hamburger bun.
+
+@summary
+put on toppings if desired.
+
+@summary
+,
+
+@summary
+serve.
+
+@article
+ Let heat for a few minutes, then place the hamburger in the oven. It takes about 20 minutes until it gets cooked completely.
+ You can purchase them from a local supermarket.
+,

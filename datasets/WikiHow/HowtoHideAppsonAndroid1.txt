@@ -1,0 +1,32 @@
+@summary
+open the settings app.
+
+@summary
+tap applications.
+
+@summary
+tap application manager.
+
+@summary
+,
+
+@summary
+tap the "all" tab.
+
+@summary
+,
+
+@summary
+tap the app you want to hide.
+
+@summary
+,
+
+@summary
+tap disable.
+@article
+;
+, If your Settings menu has headings above it, you'll first have to tap the "Devices" heading.
+,,, Doing so should hide your app from your Home screen.If the app in question is not a pre-installed app, this option may say "Uninstall" instead.
+You can find your disabled apps in the "Disabled" section of the Apps menu.
+

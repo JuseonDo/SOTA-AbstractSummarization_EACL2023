@@ -1,0 +1,120 @@
+@summary
+step 0: is this legal?,
+
+@summary
+in short, i don't know if it's legal or not, but consider the following.a discman from sony ,a wall-mounted cd player from muji ,a dp-470 dvd player from kiss technology ,my linux box from dell ,
+
+@summary
+it turned out the cd contained ‘copy control technology,’ which prevented it from working on the players listed above.
+
+@summary
+to solve this problem, i created a copy of the cd as described here.
+
+@summary
+because i don't usually copy cds, i found it a little ironic that the ‘copy control technology’ required me to make a copy of the album in order to use it.
+
+@summary
+in the meantime, i hope this guide will help people who are in a similar situation.
+
+@summary
+step 1: download isobuster
+
+@summary
+,
+
+@summary
+the first step is to download and install isobuster, a program used to salvage data from damaged cds and dvds.
+
+@summary
+step 2: create a folder for the audio tracks
+
+@summary
+,
+
+@summary
+the idea is to use isobuster to extract the hidden audio tracks from the protected cd and burn them to a normal cd, so the first thing to do is create a folder somewhere to store the audio tracks.
+
+@summary
+step 3: open the copy-protected cd with isobuster
+
+@summary
+,
+
+@summary
+first, start up isobuster and hold down your shift key while inserting your copy-protected cd.
+
+@summary
+,
+
+@summary
+i recommend that you hold down the shift key because it blocks the windows ‘autorun’ feature, i.e. prevents the cd from launching programs automatically.
+
+@summary
+after inserting the cd, you should now see something like the following:
+
+@summary
+,
+
+@summary
+as you can see, the cd has two sessions, unlike a normal audio cd, which only has one.
+
+@summary
+to get at the audio tracks with isobuster, click on session 1 on the left in the isobuster window.
+
+@summary
+step 4: extract the audio tracks
+
+@summary
+,
+
+@summary
+use your mouse to mark all the audio tracks in the right part of the window, then right click and choose ‘extract objects’ from the menu:
+
+@summary
+,
+
+@summary
+isobuster will ask you for a destination directory; choose the one you created previously:
+
+@summary
+,
+
+@summary
+now wait for the files to copy...
+
+@summary
+,
+
+@summary
+when the copy has finished, you can shut down isobuster.
+
+@summary
+,
+
+@summary
+step 5: burn the audio tracks onto a blank cd
+
+@summary
+,
+
+@summary
+now open your favourite cd burning software and use it to create an audio cd.
+
+@summary
+enjoy!
+
+@article
+;
+, After buying a music CD called 80s Alternative: The Darker Side of the Decade for €9.99 in Tower Records in Dublin, I discovered that it only played in two of the four CD players I use on a regular basis:
+
+,,,,, In all fairness, the CD was clearly marked ‘COPY CONTROLLED’ but I failed to notice this when I picked it up. I buy CDs quite often but I find they are actually quite resistant to scratches, so I rarely make copies. However, it was a problem that the 80s Alternative CD only worked in two of the four players. Also, the songs couldn't be MP3-encoded.
+ The copy plays in all of the four players listed above, and will also allow the songs to be MP3-encoded. In short, the copy is a completely normal audio CD. Since creating the copy, I haven't taken the original out of its case, except to write this guide.
+ Since my experience with the 80s Alternative album, I have bought many other CDs, and the ones with copy control technology are the only ones I have copied. To figure out whether this was legal or not, I wrote an open letter to EMI, who are the publishers of the 80s Alternative album. In the letter, I pointed out this paradoxical situation and asked EMI if they would consider what I had done fair use of the album. I also sent the letter to a couple of newspapers, but I don't think they published it. All of this was in March 2004. As of February 2008, I have still to hear from EMI, but I will update this page with details as soon as they get back to me.
+ Until I hear from EMI, I suggest you make up your own mind about whether you think following these instructions is legal or not.
+, IsoBuster is a commercial program, but you can run it in freeware mode, where it has limited functionality, which is fine for our purposes. I used IsoBuster 1.6 for this guide.
+, I suggest your Windows desktop.
+,, The reason this is necessary is that some copy-protected CDs (for example Contraband by Velvet Revolver) automatically install suspicious Windows drivers, which people have reported cause problems when you later want to play normal CDs. If you don't want to hold down the shift key every time you insert a copy-protected CD, there is also a way to disable autorun altogether.
+, The actual audio tracks are stored in session 1. Session 2 contains files, which are used when you insert the CD into a Windows box or a Macintosh. For our purposes we are only interested in the audio tracks, so we'll ignore session 2 completely.
+ You should now see the audio tracks displayed on the right:
+
+,,,,,,, Drag the tracks from the folder where IsoBuster placed them into your Audio CD project, make sure they appear in the right order, and then burn. When you are finished, the resulting CD will contain all the tracks from the original copy-protected CD, but in a non-protected format. It should play on all players and can be MP3-encoded for use on your portable MP3 player.

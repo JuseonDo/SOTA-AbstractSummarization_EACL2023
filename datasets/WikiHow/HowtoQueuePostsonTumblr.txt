@@ -1,0 +1,17 @@
+@summary
+access the post you want to queue.
+
+@summary
+click on the "queue post" button at the bottom of the page.
+
+@summary
+scroll down the page.
+
+@summary
+change your queue settings to suit your preferences.
+@article
+ This can either be reblogged from someone else or an original post by you, but it cannot be published yet. Select "Add to queue" from the list of posting options.;
+, You will be redirected to the dashboard, where you'll click on your blog title to retrieve your queued posts.
+ Click on the "Queue" bar (which should be located on the right side of the screen).
+ Save by clicking on the button on the top right. You're done!
+

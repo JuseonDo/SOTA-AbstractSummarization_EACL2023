@@ -1,0 +1,21 @@
+@summary
+gather your ingredients and needed items.
+
+@summary
+mix in ice cubes, peanut butter, and milk.
+
+@summary
+add sugar.
+
+@summary
+blend the ingredients.
+
+@summary
+serve your finished product as you like it.
+@article
+;
+, Mix well.
+ Taste and test as you go to decide how much you think you need.
+ Feel free to add and change your product; it's not finished until you like it.
+ Feel free to top it off with some whipped cream or a cherry.
+

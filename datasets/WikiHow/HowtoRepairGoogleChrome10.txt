@@ -1,0 +1,14 @@
+@summary
+ensure that your antivirus is up to date.
+
+@summary
+,
+
+@summary
+run an anti-adware scanner.
+@article
+, Two of the more popular scanners are Malwarebytes and Spybot.
+
+
+See this guide for detailed instructions on removing viruses and other malware.
+

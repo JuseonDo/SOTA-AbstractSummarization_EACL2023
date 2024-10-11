@@ -1,0 +1,17 @@
+@summary
+understand cyber crimes and your company's vulnerability.
+
+@summary
+keep all of your data and intellectual property protected.
+
+@summary
+hire an it expert to perform a risk assessment and recommend additional measures.
+
+@summary
+keep your intellectual property in your own hands.
+@article
+ Hackers often target small businesses because they have less computer security than large corporations.
+ Use antivirus software and install a firewall for your network.
+ A data breach could be damaging for your small business, especially if a hacker can access your financial information, or that of your customers.
+ File for intellectual property (IP) protection through the U.S. Patent and Trademark office.
+

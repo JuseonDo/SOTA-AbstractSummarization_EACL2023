@@ -1,0 +1,17 @@
+@summary
+equip a fusion rifle from the character menu.
+
+@summary
+wait for it to materialize in your hands, and check to see if it has ammo.
+
+@summary
+charge the fusion rifle.
+
+@summary
+aiming at an enemy, let go of "rt".
+@article
+;
+, If it doesn't, pick some up (in story mode, pick up ammo from fallen enemies. In the Crucible, there are ammo crates placed throughout the map).
+ You can charge it by pressing and holding "RT".
+ The blast will do a significant amount of damage.
+

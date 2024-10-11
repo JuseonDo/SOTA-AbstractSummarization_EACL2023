@@ -1,0 +1,29 @@
+@summary
+visit raloco.com to create a qr code.
+
+@summary
+provide your data.
+
+@summary
+apply some style.
+
+@summary
+click on "stickers" tab above and scroll down the page.
+
+@summary
+,
+
+@summary
+fill out the qr-code application.
+
+@summary
+make sure radio buttons "raloco url", "black-white", "small" are selected.
+
+@summary
+click "order" to make your free stickers sent to you.
+
+@article
+, To store such information as your Web address fill it in the text field, exactly as the image above displays. The QR-code is being generated automatically while you type.
+ Click on "Design" tab above and change color or shape, like on the image above.
+, You will see various input fields like Full name, Email address, Postal address etc. You need to fill it accurately as this information is going to be used during delivery.
+ This will insure your stickers will be free of charge.,

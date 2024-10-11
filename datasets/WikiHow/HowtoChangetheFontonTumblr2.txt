@@ -1,0 +1,38 @@
+@summary
+go to the tumblr website.
+
+@summary
+select the blog you want to edit.
+
+@summary
+click the "customize theme" link.
+
+@summary
+click the "edit html" button on the left.
+
+@summary
+press ctrl+f (cmd+f on mac os x) to access your web browser's find feature.
+
+@summary
+locate the “font-size" code for the element you want to change.
+
+@summary
+change the number next to “font-size” to change the font size of that particular element.
+
+@summary
+click the "save" button at the top of your screen to save your changes.
+@article
+ Log in using the email address and password associated with your account. (If you don't already have an account, go ahead and create one).
+ Do this by clicking on its title at the top of the page.
+ This should be located on the right side of your dashboard.
+ If you have already selected this option, you will see your HTML code under the “Theme” tab rather than Premium theme options.
+ This will allow you to locate specific words in the HTML code.
+
+Enter “font-size” into the “Find" search bar to locate the font settings within the HTML code.
+ For example, if you want to change the font of your title, locate “font-size” code under the “#wrapper #title” heading within the code.
+ Type of the number of pixels followed by “px”. A font size of 15px is used in this example.
+
+
+Click the “Update preview” button in the bottom right corner of the HTML editor to see a preview of your changes.
+ Then click the "Close" button and check your Tumblr to make sure the font has changed.
+

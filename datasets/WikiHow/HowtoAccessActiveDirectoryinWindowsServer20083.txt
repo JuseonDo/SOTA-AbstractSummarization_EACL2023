@@ -1,0 +1,21 @@
+@summary
+access the active directory using microsoft exchange whenever exchange server is installed on your network.
+@article
+
+
+
+Click Start to open the Start menu from the desktop.
+
+
+
+
+
+
+Point to All Programs from the Start Menu and select Exchange Server from the list of programs.
+
+
+
+
+
+
+

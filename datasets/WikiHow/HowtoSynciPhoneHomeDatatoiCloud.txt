@@ -1,0 +1,21 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll to the fourth group of options and select icloud.
+
+@summary
+,
+
+@summary
+scroll to the home option.
+
+@summary
+,
+
+@summary
+slide the home switch right to the "on" position.
+@article
+ You can do this by tapping the grey cog icon either on one of your Home screens or in your "Utilities" folder.;
+,,, It should turn green, meaning that your Home app settings and history will be shared across all of your devices (provided the Apple ID is the same on all of them).
+

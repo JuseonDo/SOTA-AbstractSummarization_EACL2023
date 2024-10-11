@@ -1,0 +1,20 @@
+@summary
+open the settings app.
+
+@summary
+tap general.
+
+@summary
+,
+
+@summary
+tap date & time.
+
+@summary
+,
+
+@summary
+tap the 24-hour time slider.
+@article
+ You can find this on one of your Home screens.;
+,,, This will change your clock to the 24-hour time format. You'll notice the AM or PM indicator next to your clock disappear.

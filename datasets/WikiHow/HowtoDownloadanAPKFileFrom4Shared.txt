@@ -1,0 +1,27 @@
+@summary
+create a 4shared account.
+
+@summary
+type the name of the apk file in the search bar.
+
+@summary
+find your app in the search results and click on its link.
+
+@summary
+click on the download button.
+
+@summary
+select your choice.
+
+@summary
+wait for the 20 second timer to countdown to zero.
+
+@summary
+install the apk file in your android device using the package installer.
+@article
+ Creating an account is mandatory to download files from 4Shared. You can do so by clicking the 'login' link and the top right corner and then clicking on the link marked 'Register'.;
+, Click the ↵ Enter key to search.
+ This will take you to its download page.
+ This will throw up two boxes showing you the available download options.
+ You can opt for a free download, which is a bit time consuming, or a premium (paid) download, which is comparatively faster ., Your download will start automatically.
+ Select the downloaded APK file to start the installation process.

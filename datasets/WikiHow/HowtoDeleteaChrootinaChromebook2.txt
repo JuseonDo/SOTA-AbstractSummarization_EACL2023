@@ -1,0 +1,17 @@
+@summary
+use crosh with caution.
+
+@summary
+open up crosh.
+
+@summary
+enter shell.
+
+@summary
+type sudo delete-chroot precise into crosh.
+
+@article
+ It is one of the most efficient ways to delete a chroot, but it's also risky if you don't know what you're doing. If you don't want to do this method, try Powerwash instead.
+ You can do this by pressing Crtl+Alt+T
+
+, Type shell. If you're in developer mode this should work.

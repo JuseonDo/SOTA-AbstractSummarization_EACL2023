@@ -1,0 +1,23 @@
+@summary
+be sure that you have the pro edition.
+
+@summary
+find the plugins that you want.
+
+@summary
+extract them using an unzipping program.
+
+@summary
+,
+
+@summary
+tell zoner photo studio where to find the files.
+@article
+ Plugins can't be used in the Home edition.;
+, You can do a search for "Zoner Photo Studio" and plugins. Download them onto your computer.
+,
+
+
+Click on Settings >> Preferences and then click on the Plugin option.
+Add the location of the folder or folders.
+

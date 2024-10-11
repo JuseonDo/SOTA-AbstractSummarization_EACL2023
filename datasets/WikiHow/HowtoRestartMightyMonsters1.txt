@@ -1,0 +1,20 @@
+@summary
+press the “home” or “back” button on your device.
+
+@summary
+force-close the mighty monsters app.
+
+@summary
+restart your ios or android device.
+
+@summary
+uninstall and reinstall the mighty monsters app.
+@article
+ This closes Mighty Monsters temporarily, and sometimes helps resolve freezing issues.;
+, This forces Mighty Monsters to end all its processes so you can relaunch the game.
+
+
+Android: Go to Settings > Applications > Application Manager, select “Mighty Monsters,” then tap “Force Close.”iOS: Tap on the Home button two times quickly, swipe left to view all apps, then swipe up on the Mighty Monsters app preview., This force-closes all apps, reboots your device, and ends freezing problems associated with the Mighty Monsters app., This helps resolve freezing problems related to a corrupt install, and deletes all game progress by default.
+
+
+Android: Go to Settings > Application Manager, tap on “Mighty Monsters,” then tap “Uninstall.”iOS: Tap and hold the Mighty Monsters app icon until all icons start wiggling, then tap “x,” followed by “Delete.”

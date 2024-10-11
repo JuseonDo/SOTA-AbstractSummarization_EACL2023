@@ -1,0 +1,35 @@
+@summary
+acquire a level 11 farming.
+
+@summary
+travel to one of the flower patches.
+
+@summary
+rake the patch.
+
+@summary
+add compost to the patch.
+
+@summary
+plant 1 rosemary seed.
+
+@summary
+water the patch, when needed.
+
+@summary
+harvest the rosemary after 20 minutes of planting.
+
+@article
+;
+,
+
+
+South of Falador
+North of Catherby
+North of East Ardougue
+Between Port Phasmatys and Canifis
+
+, Allow your character to rake all the weeds out of the patch.
+ Supercompost achieves a higher successful yield and helps the item from plant disease.
+ Use the seed from your inventory on the treated patch.
+ Use a watering can on the patch during the growth intervals (5 minutes each).

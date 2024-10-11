@@ -1,0 +1,24 @@
+@summary
+click on the apple icon on the upper-left corner of the screen.
+
+@summary
+,
+
+@summary
+scroll down and select system preferences.
+
+@summary
+,
+
+@summary
+click network.
+
+@summary
+select your connection.
+
+@summary
+click the tcp/ip tab.
+@article
+,, This should be on the third row.
+ You can select the connection that you want the IP address for in the Show dropdown menu. If you have a wired connection, choose Built-In Ethernet. If you have a wireless connection, choose AirPort.
+ Your IP address will be listed in the settings window.

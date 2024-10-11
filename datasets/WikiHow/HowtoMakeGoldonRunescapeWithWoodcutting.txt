@@ -1,0 +1,42 @@
+@summary
+purchase will need a hatchet.
+
+@summary
+make your way to the grand exchange.
+
+@summary
+talk to the grand exchange clerk and tell him/her that you would like to access the grand exchange.
+
+@summary
+your logs should sell for about 76gp and your offer should be completed very quickly.
+
+@summary
+keep repeating this if you want to earn even more gold.
+
+@summary
+,
+
+@summary
+for those who's woodcutting levels are between 1-49 and are members, cutting achey trees are the way to go.
+
+@summary
+for those who's woodcutting levels are 50-59 and are members, cutting mahogany trees are the to go.for those who's woodcutting levels are 60-74,( free players also can do this )
+
+@summary
+,
+
+@summary
+cutting yew trees are the way to go.they require lv 60 woodcutting and are worth 515gp each.they are located south of camelot, south of falador edgeville, seers' village and behind varrock castle.
+
+@summary
+finally for those who's woodcutting levels are 75 or higher then magic trees are definitely right for you!
+@article
+ Get a bronze hatchet for free from Bob's axe shop in Lumbridge.
+ Once you are there start chopping down normal trees that are scattered all over the Grand Exchange. Do this until your inventory is full.
+ When you've done that click sell and offer your logs.
+ When you sell the average amount of 26 logs, you should earn a grand total of 1976gp.
+, They require level 1 woodcutting and are worth around 200gp. They are located at Castle Wars and Feldip Hills. Cut about 5348 achey logs and sell them at the Grand Exchange for 1 mill. Keep repeating the process until desired amount is meet.;
+, They require lv 50 woodcutting and the quest jungle potion. They are currently worth 412gp a log( which is only 101gp less than a yew log ). They are located in Tai Bwo Wannai's Hardwood grove, East Kharazi Jungle south of Shilo Village, Mos Le'Harmlessand and on Miscellania and Etceteria. Cut about 2428 mahogany logs and sell them at the Grand Exchange for around 1 mill. Keep repeating the process until desired amount is meet.
+, Cut about 1942 yew logs and sell them at the Grand Exchange for about 1 mill. keep repeating the process until desired amount is meet.
+ magic trees require level 75 woodcutting and are worth 1,383gp! They are located in the Tree Gnome Stronghold, south of Seers' Village, near the Ranging Guild, in the Mage Training Arena and southwest of Lletya. Cut about 724 magic logs and sell them for about 1 mill. Keep repeating the process until desired amount is meet.
+

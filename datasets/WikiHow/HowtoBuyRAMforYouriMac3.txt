@@ -1,0 +1,9 @@
+@summary
+buy ram in the proper memory size.
+
+@summary
+purchase ram with specifications that will work with your imac.
+@article
+ The late 2006 model can have up to 4 GB of extra memory installed; whereas the other 2006 models can only support up to 2 GB of additional memory.
+ The RAM features compatible with all 2006 iMacs are: 200-pin, unbuffered, non-parity, PC2-5300, and 667 MHz DDR3 SDRAM.
+

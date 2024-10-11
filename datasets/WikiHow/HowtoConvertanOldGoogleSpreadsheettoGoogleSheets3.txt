@@ -1,0 +1,64 @@
+@summary
+launch your browser.
+
+@summary
+log in.
+
+@summary
+locate your old spreadsheet, and click on it to open.
+
+@summary
+click “file” from the top menu, above the toolbar.
+
+@summary
+,
+
+@summary
+hover your mouse over “download as.” this is the fifth item from the bottom of the menu.
+
+@summary
+choose any of the file types, and your spreadsheet will download.
+
+@summary
+go back to your google drive tab.
+
+@summary
+choose “spreadsheet.” this is the fourth item from the top.
+
+@summary
+click “file” from the file menu above the toolbar of the new google sheet.
+
+@summary
+,
+
+@summary
+click “import.” this is the sixth item from the top of the file menu.
+
+@summary
+click “upload.” this is the last choice to the left of the dialog box.
+
+@summary
+,
+
+@summary
+locate the downloaded file (usually in a folder called downloads).
+
+@summary
+choose “replace spreadsheet.” this is the third option from the top.
+
+@summary
+,click the blue “import” button at the bottom of the dialog box.
+@article
+ To get started, open your favorite web browser (Internet Explorer, Mozilla Firefox, Google Chrome, etc.) by tapping on its icon on your desktop, and go to https://www.google.com/drive.
+ If you are not already logged in, Google Drive will ask you to sign in with your Google account information. If your account name is already indicated on the page, just enter your password; otherwise, type in your username and password on the fields provided.
+ The spreadsheet should open in a new tab or window of your browser.
+, A list of file types should appear.
+ Pay attention to where the file downloads to because you will need it.
+ Click the red “Create” button near the top left corner of the tab. The Create menu will appear.
+ A new Google Sheet will open in a new tab or window.
+, A dialog box should appear asking what you want to import.
+, Once located, drag the file on top of the middle of the page where it says “Drag file here.” Once the file uploads, the dialog box will change to ask you what you want to do with the imported spreadsheet.
+
+
+If dragging does not work, click the blue “Select a file from your computer” button at the bottom center of the dialog box. Use the file window to locate your file and click “Okay” or “Open.” Once the file uploads, the dialog box will change to ask you what you want to do with the imported spreadsheet.
+,

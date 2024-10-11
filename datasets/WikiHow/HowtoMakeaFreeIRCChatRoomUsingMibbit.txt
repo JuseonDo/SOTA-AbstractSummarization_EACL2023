@@ -1,0 +1,28 @@
+@summary
+go to the mibbit home page (see the sources section below) and click the sign up button.
+
+@summary
+enter your email address, your desired username, and your desired password.
+
+@summary
+,
+
+@summary
+go to the mibbit home page and click the "launch app" link (or click the chat button that appears after you sign up).
+
+@summary
+you will now connect to the irc server.
+
+@summary
+after you have registered your nick, you can now register your channel (chat room).
+
+@summary
+finally, set the topic for your room, especially if you want to draw in new people.
+@article
+;
+,, Enter a nickname (it does not necessarily have to be your username, but it should be recognizable to your friends). Enter what you want the name of the chatroom to be in the Channel box.
+ After you are connected, your very own chat room will appear. Now you need to register your nick and the channel if you want to keep them (your Mibbit username and your nick are separate). To register your nickname, enter/ns register password youremailaddress. A confirmation code will be sent to your email address. Follow the instruction in it to complete the registration.
+ Enter/cs register #yourchannelname password "A description of your chatroom" The room is now yours!
+
+, You can do this by entering/topic "Whatever you want the topic to be"
+

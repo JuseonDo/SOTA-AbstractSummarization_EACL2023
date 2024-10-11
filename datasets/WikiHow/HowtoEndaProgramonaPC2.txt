@@ -1,0 +1,20 @@
+@summary
+press alt+ctrl+del keys simultaneously, and keep them pressed until you see a window open.
+
+@summary
+select the program from the list of open tasks.
+
+@summary
+with the unresponsive task highlighted, click on the 'end process' button at the bottom of the window.
+
+@summary
+the program is closed.
+@article
+ This is called the Task Manager.
+
+
+Note: In the new OS, Windows 7, a screen comes up with a number of options. Just click on 'Start Task Manager'.
+ Also understand that although the name of the task may be unclear, there is also a description column through which you may identify your hanging program.
+ When prompted, click 'Yes'.
+ Please note that unsaved changes to most programs will be lost.
+

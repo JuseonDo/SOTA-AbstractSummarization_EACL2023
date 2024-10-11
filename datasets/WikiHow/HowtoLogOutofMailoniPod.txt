@@ -1,0 +1,17 @@
+@summary
+tap on settings.
+
+@summary
+tap on “mail” on the settings menu.
+
+@summary
+tap on the e-mail service provider under the account section.
+
+@summary
+tap “delete account” at the bottom of the screen.
+@article
+ On your home screen, tap on the Settings icon. This is the icon that shows an image of a gear. You will be brought to the Settings menu.;
+, Scroll down the Settings menu until you come across the “Mail” button. Tap it.
+ If you are using Gmail, you will see a “Gmail” button there. If you are using Yahoo, you will see a “Yahoo” button instead.
+ By tapping on this button, you will be logged out of your e-mail account on your iPod.
+

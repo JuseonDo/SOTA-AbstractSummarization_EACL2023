@@ -1,0 +1,32 @@
+@summary
+achieve the following requirements for each ability:
+
+@summary
+fletching level of 20 (to make the bow)
+
+@summary
+woodcutting level of 15 (to cut oak trees)
+
+@summary
+ranging level of 10 (to wield the bow);
+
+@summary
+,
+
+@summary
+cut down an oak tree.
+
+@summary
+use a knife on the logs.
+
+@summary
+get bow string.
+
+@summary
+make the completed bow.
+@article
+, Use the best hatchet available to you cut it down quickly. At level 15 Woodcutting, you can at least use a black hatchet.
+ Choose the option to create an "unstrung oak shortbow".
+ Bow string can be purchased from the Grand Exchange or created by spinning flax on a spinning wheel.
+ Use the unstrung oak shortbow with the bow string to make an oak shortbow.
+

@@ -1,0 +1,28 @@
+@summary
+install 4 aa batteries in the battery chamber.
+
+@summary
+mount the speedlite 420ex on the camera by loosening the locking collar on the bottom of the flash unit, sliding the unit's mounting foot completely on to the camera's hot shoe and tightening the locking collar.
+
+@summary
+,
+
+@summary
+choose your wireless setting.
+
+@summary
+turn on the power by setting the main switch to "on.",
+
+@summary
+adjust the flash head according to where you want the light directed.
+
+@summary
+compose your shot and take the picture.
+@article
+;
+,, For normal flash operation, set the wireless selector to "off." For wireless flash operation, set the wireless selector to "slave."
+
+, The flash is ready for use when the "pilot" light is lit. The energy saving mode will automatically take effect after 90 seconds of idleness.
+ By directing the flash upwards toward the ceiling you will softly illuminate the subject and its immediate surroundings. Directing the flash straight at the subject will result in a stronger illumination on the subject and little of the background.
+ Your 420EX should automatically fire. The flash exposure confirmation light on the back of the flash will light for three seconds to signal the correct exposure has taken place.
+

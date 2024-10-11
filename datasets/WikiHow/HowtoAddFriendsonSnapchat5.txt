@@ -1,0 +1,18 @@
+@summary
+swipe down anywhere on the snapchat camera screen.
+
+@summary
+tap "add friends.",
+
+@summary
+tap "add nearby.",
+
+@summary
+instruct your friend to open the same screen on his or her device.
+
+@summary
+tap "+" or "+add" next to your friend's username.
+@article
+ This will display your Snapcode and profile information., This will display the Add Friends menu., Your device will wait to detect other nearby devices.
+ Have your friend navigate to the same "Add Nearby" screen. You'll see their username appear in your Add Nearby screen.
+ This will add them to your friends list. Have your friend do the same so that you can both start sending and receiving Snaps from each other.

@@ -1,0 +1,71 @@
+@summary
+open the play store app.tap the search bar.type moon+ into the search field.
+
+@summary
+tap the free moon+ reader app.tap install.
+
+@summary
+tap open.
+
+@summary
+tap the ⋮ button.tap import books.tap the current path.
+
+@summary
+navigate to the folder where your book files are located.tap ok to scan the folder for book files.tap the books that you want to import.
+
+@summary
+tap the ☰ button.tap net library.tap one of the free e-book distributors.
+
+@summary
+browse the available books.tap the download button for a book you want.
+
+@summary
+tap the format you want to download.return to the my shelf view.tap the ⋮ button.tap import books.tap the path that is displayed.
+
+@summary
+navigate to /sdcard/books/moonreader.tap ok.
+
+@summary
+tap outside the list to confirm.tap the ☰ button.tap my shelf.scroll up and down to view all of your books.tap the all books menu to change your view.
+
+@summary
+tap the view you want to use.
+
+@summary
+tap the filter button.
+
+@summary
+tap a sort by option.
+
+@summary
+tap a read filter option.
+
+@summary
+tap a shelf type option.tap a book to open it.
+
+@summary
+swipe to change pages.tap the center of the screen to open the reader controls.tap the rotate button to change the screen orientation.tap the contrast button to switch between day and night.
+
+@summary
+tap the auto-scroll to enable automatic scrolling.
+
+@summary
+tap the bookmarks button to manage your bookmarks.tap the table of contents button to open the book's table.press and hold on text to select it.tap a highlighter color to highlight selected text.tap note to add a notation to your selected text.
+
+@summary
+purchase moon+ reader pro.tap the ☰ button in moon+ reader pro.tap options.tap the gear button next to the service you want to use.sign in with your account credentials.
+
+@summary
+enable sync reading positions.tap the checkbox next to the service to enable it.
+
+@summary
+find your synced books.
+@article
+ You'll find this in your list of apps, and it looks like a shopping bag with the Google Play logo on it.
+,, You can try the free version and decide later if you want to upgrade to the paid version to remove ads and get Google Drive/Dropbox support.,, This button appears after installation is finished., You'll see this button in the upper-right corner of the My Shelf screen.,,, This could be your Downloads folder if you downloaded your books on your Android, or whatever folder you transferred them to from your computer.,,, You'll see this in the upper-left corner of the My Shelf screen.,,, The process will be different depending on which service you selected.,, You will typically be offered several formats to download. EPUB, MOBI, and PDF are all open formats that are completely compatible with Moon+ Reader.
+
+The differences between the formats are negligible for most users. As you start reading lots of e-books, you may find yourself gravitating more towards a specific format.
+,,,, The path will say /sdcard/ even if you don't have an SD card inserted.,, You'll see your downloaded books appear in your My Shelf list.,,,,, You can sort by authors, view books you've marked as your favorites, browse by tags, and view your device storage folders., This looks like a funnel, and can be found at the top of the My Shelf view., This will change the order that the books will be displayed in., This will allow you to display only unread books, only books you're currently reading, or only books you've finished., This will change how books are displayed. You can select between List and Grid views.,, You can swipe right to left or down to up to move to the next page. Swiping left to right or up to down will return to the previous page.
+
+You can also change pages by tapping the top or the bottom of the screen.
+,,, This will open a new menu where you can configure your auto-scrolling options., You can use the Bookmarks screen to add a bookmark to your current location and quickly jump between them.,,,,, You'll need the paid version of Moon+ in order to link your Dropbox or Drive account. Once linked, any e-books that you add to your cloud storage will automatically sync with Moon+ reader.,,,,, This will save your current position to your Google Drive or Dropbox account and allow you to easily resume on another device.,, Any e-book files in your Google Drive or Dropbox account will be added to your My Shelf view.

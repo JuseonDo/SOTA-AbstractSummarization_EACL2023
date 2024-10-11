@@ -1,0 +1,63 @@
+@summary
+understand how css works with html.
+
+@summary
+to change text font, use css'
+
+@summary
+font-family
+
+@summary
+for example:
+
+@summary
+<span style="font-family:times;">text</span>
+
+@summary
+will cause "text" to use the times font.
+
+@summary
+,
+
+@summary
+to set an order of preference, in case a particular font is not on a person's computer, use commas to separate font names.
+
+@summary
+to set text color, use css'
+
+@summary
+font
+
+@summary
+for example:
+
+@summary
+<span style="font:red;">text</span>
+
+@summary
+will cause "text" to be red.
+@article
+ For example:
+
+<span style="(css)">Text</span>
+
+Almost any HTML tag can include "style," such as
+
+p
+
+or
+
+div
+
+What goes in between the quotes is the CSS part.;
+,, For example:
+
+<span style="font-family:times, georgia, serif;">Text</span>
+
+will cause "Text" to use the Times font. If times is not available, Georgia will be used. If neither Times nor Georgia are available, a generic serif font will be used.
+ You can use any valid HTML color name in the place of "red." You can also use a hex code. For example:
+
+<span style="font:#FFFFFF;">Text</span>
+
+will cause "Text" to be white.
+

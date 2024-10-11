@@ -1,0 +1,40 @@
+@summary
+click the apple menu.
+
+@summary
+click system preferences.
+
+@summary
+,
+
+@summary
+click the notifications option.
+
+@summary
+,
+
+@summary
+click and app that you want to adjust notification settings for.
+
+@summary
+,
+
+@summary
+click the show in notification center box to uncheck it.
+
+@summary
+disable additional apps.
+
+@summary
+check individual apps for notification preferences.
+@article
+ This is located in the upper-left corner of the screen.;
+,,,, This will disable that app from sending notifications to the Notification Center.
+
+
+Some versions of the Mac operating system also give you the option of adjusting the number of items shown in the Notification Center.
+ You can continue cleaning out your Notification Center by removing any apps you don't care about from it.
+ Some apps may have additional notification preferences that can help limit the number of notifications you receive.Click the app's name in your menu bar.
+Click the Preferences option.
+Look for any notification options. You'll usually find these in the General tab.
+

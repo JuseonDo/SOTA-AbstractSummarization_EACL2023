@@ -1,0 +1,12 @@
+@summary
+find the user’s network code.
+
+@summary
+add a “+” symbol between the country code and the mobile code.
+
+@summary
+anticipate further fees if you call from a cell phone.
+@article
+ Mobile numbers do not have an associated area code or city code. To call a Ukrainian mobile number, dial in the following format: exit code – 380 – XX– xxx – xxxx. Network codes are 2-digit numbers, and are different depending on the mobile service provider.Some of the common mobile network codes in Ukraine are 39, 50, 63, 66, 67 and 68.
+ If you are calling from a cell phone, you may need to add this additional symbol in order for the call to connect., Many American cell-phone providers add charges to international calls.Contact your own provider to ask about their charge policy.
+

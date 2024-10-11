@@ -1,0 +1,12 @@
+@summary
+get your ammo.
+
+@summary
+kill the demon at the wizards tower.
+@article
+ Armor is not required, although it will help.
+
+
+Bring telegrab. This is optional, requires level 33 magic. With the telegrab, you can take the drops they drop.;
+, Telegrab the drop, if you want it (this uses law runes and air runes). The demon will respawn in seconds.
+

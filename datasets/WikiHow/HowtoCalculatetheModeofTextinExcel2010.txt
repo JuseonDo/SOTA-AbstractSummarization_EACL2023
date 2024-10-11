@@ -1,0 +1,46 @@
+@summary
+have a basic understanding of excel.
+
+@summary
+insert the following function into a blank cell where you would like your end result to appear:
+
+@summary
+=index(range,match(max(countif(range,range)),countif(range,range),0))
+
+@summary
+,
+
+@summary
+to make this formula work, press ctrl+shift+enter once you have entered in the above formula with your values in for the "range".
+
+@summary
+the way the formula works is the index function picks out how many different words are used.
+@article
+ The following tips will help you navigate the formula.
+
+"Range" refers to the cells you would like to include when finding the mode (most common) text. For example, if the names I am using are in cells A1 to A20, I would type in A1:A20 everywhere the word "Range" appears in the formula.
+
+
+
+ 
+
+
+Blank cells cannot be used. If needed, set aside a column solely for the text you intend to include.
+
+
+
+
+
+
+Merged cells cannot be used for this formula.
+
+
+
+
+
+;
+,,
+
+The most common text will appear.
+ Next, the MATCH function matches up numerical values with each different string of text. Thirdly, the COUNTIF function determines how many times each word is used, and the MAX function determines the most commonly occurring word. There needs to be ONE most commonly occurring word, as two evenly popular words will give you an error message.
+

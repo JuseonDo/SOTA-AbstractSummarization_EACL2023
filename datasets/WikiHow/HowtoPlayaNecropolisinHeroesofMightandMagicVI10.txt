@@ -1,0 +1,4 @@
+@summary
+the necropolis hero ability is the ability to revive killed units during combat.
+@article
+ Primarily use this on vampires, lamasus, or if a fate spinner/weaver or archlich had been significantly damaged.

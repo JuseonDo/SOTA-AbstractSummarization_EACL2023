@@ -1,0 +1,78 @@
+@summary
+click on the apple menu.
+
+@summary
+click on system preferences.
+
+@summary
+click on icloud.
+
+@summary
+click on create apple id….
+
+@summary
+enter your birth date.
+
+@summary
+click on next.
+
+@summary
+enter your first and last name.
+
+@summary
+enter an email address.
+
+@summary
+enter a password and confirm it.
+
+@summary
+click on next.
+
+@summary
+create three security questions.
+
+@summary
+click on next.
+
+@summary
+check the box next to "i have read and agree….",
+
+@summary
+click on agree.
+
+@summary
+check your email.
+
+@summary
+open the email message from apple.
+
+@summary
+click on verify now >.
+
+@summary
+enter your password.
+
+@summary
+click on continue.
+
+@summary
+go to the icloud website.enter your apple id and password.
+
+@summary
+click on ➲.
+@article
+ It's the  icon in the upper-left of your screen., It's in the second section of the drop-down menu., It's on the left side of the window., It's below the "Apple ID" field in the dialog box., Use the drop-down menus in the dialog box to do so., It's in the lower-right corner of the dialog box., Do so in the fields at the top of the dialog box., This email address will become the Apple ID you use to sign in to iCloud.
+
+If you'd like an @iCloud.com email address, click on Get a free iCloud email address... beneath the password field.
+ Do so in the fields near the bottom of the dialog box.
+
+Your password must have at least 8 characters (including a number and an uppercase and lowercase letter) with no spaces. It also shouldn't have three consecutive characters (222), be your Apple ID, or a previous password you've used in the last year.
+ It's in the lower-right corner of the dialog box., Use the three drop-down menus in the dialog box to select the security questions, then type the answers in the fields beneath the drop down menus.
+
+Choose questions that you'll remember the answers for.
+Answers are case-sensitive.
+ It's in the lower-right corner of the dialog box., It's in the lower-left part of the dialog box., It's in the lower-right corner of the dialog box., Check for a message that was sent to the email address you entered for your Apple ID., The subject line will likely be "Verify your Apple ID.", It's a link in the body of the email message., Type the password you created for your Apple ID in the "Password" field in the browser window., It's near the bottom-center of the browser window.
+
+You should see an "Email address verified" message on your screen.
+Follow onscreen prompts to configure iCloud on your Mac.
+ Do so from any browser.,, It's on the right side of the password field. You can now use your iCloud account.

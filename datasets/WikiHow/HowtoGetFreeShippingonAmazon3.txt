@@ -1,0 +1,17 @@
+@summary
+go to amazon.com.
+
+@summary
+find the link at the bottom of the product description that says “5 new from $35.99” or something similar.
+
+@summary
+view the list of sellers and find one, either amazon or a third-party seller, that offers free shipping.
+
+@summary
+add the product with free shipping to your cart.
+@article
+ Search for the product you want. Click on the desired product when you’ve found it.
+ You can also find this link at the bottom of the “Other Sellers on Amazon” section in the right hand column.
+ This chart compares prices and shipping for you.
+ Complete your purchase with this seller. You will not be required to have a minimum purchase; however, other products that you choose to add to your cart will not be eligible for free shipping by a third-party seller.
+

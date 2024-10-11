@@ -1,0 +1,28 @@
+@summary
+visit the goodreads website and sign in with your goodreads credentials.
+
+@summary
+access the feature.
+
+@summary
+look for and click the "add a quote" link.
+
+@summary
+type your quote without any quotation marks into the quote box.
+
+@summary
+click into the "author" box and type the author of the book you are taking the quote from.
+
+@summary
+find the book from the author.
+
+@summary
+click the button labeled save to save and submit your quote.
+
+@article
+;
+, Open the drop-down list button next to the Community tab at the top of the page and click "Quotes".
+ This link should be to the right of the "Popular Quotes" textbox on the page over near the right-hand side of the page.
+ Type the quote directly from the book. Goodreads will automatically place you into this box so all you'll need to do at first is to begin typing the quote.
+ Wait for the Goodreads auto-complete box to pop-up. If it finds your author, you'll need to give the user more details.
+ Although this is optional, completing this drop-down box can help clarify who wrote it and avoid any plagiarism concerns.

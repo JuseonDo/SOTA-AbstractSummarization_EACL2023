@@ -1,0 +1,9 @@
+@summary
+meals
+
+@summary
+breakfast: french toast,pancakes,waffles,and milk or juice.
+@article
+
+Lunch: sandwich with a veggie or fruit,and fruit juice.
+Dinner:Tacos(be sure they aren't hard),pizza,or you could order something\take them out to eat.;

@@ -1,0 +1,27 @@
+@summary
+go to the google delicious to google bookmarks page to sign into your delicious account.
+
+@summary
+sign in to your delicious account on the right of the page using the username and password associated with your account and click the “export to google bookmarks” button.
+
+@summary
+select the check boxes next to the bookmarks you want to import and click the “import” button to complete the process.
+@article
+
+If you aren’t already signed into a Google service, you will be prompted to sign-in using the username/email and password associated with your account. If you don’t already have an account, learn How to Make a Google Account.
+
+
+
+ 
+
+;
+,
+
+
+
+
+
+
+Alternatively, click the “Export to Google Bookmarks” button on the left to sign in using your Yahoo! ID and password. You may be prompted to agree to authorize access to Delicious. This sign-in option is for users that have merged or signed up for a Delicious account with their Yahoo! ID.
+ Your delicious bookmarks will now be accessible from your Google Bookmarks account.
+

@@ -1,0 +1,22 @@
+@summary
+join a server.
+
+@summary
+make sure you have a weapon that you sort of drag around, like ak-47, flamethrower, minigun, etc.
+
+@summary
+,
+
+@summary
+while walking (w, a, s, or d), click space and take our you gun at the same time.
+
+@summary
+keep trying.
+@article
+ You'll need to be in the game to get started!;
+,,
+
+
+So in your inventory, if your weapon was number 1, you would press 1 and Space and the same time, simultaneously, many times.
+ This may not work very well at first, but it takes lots of practice. It becomes quite easy, very soon.
+

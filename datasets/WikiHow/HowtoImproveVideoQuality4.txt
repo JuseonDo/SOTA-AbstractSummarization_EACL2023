@@ -1,0 +1,5 @@
+@summary
+apply a warpsharp filter, typically found in the filters and effects menu.
+@article
+ The warpsharp feature makes video appear sharper by identifying the edges in a video image and shrinking them.
+

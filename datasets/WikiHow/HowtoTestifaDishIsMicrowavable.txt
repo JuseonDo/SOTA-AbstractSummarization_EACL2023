@@ -1,0 +1,22 @@
+@summary
+fill a glass of water.
+
+@summary
+place the glass of water and the dish into the microwave oven.
+
+@summary
+,
+
+@summary
+cook on high for 30 seconds to one minute.
+
+@summary
+remove from the oven.
+@article
+;
+,,, Test the water in the glass:
+
+
+Cool water and a warm or hot dish suggests that you should not use the dish in the microwave
+Warm water and cool dish suggests that the dish will be fine in the microwave
+

@@ -1,0 +1,15 @@
+@summary
+beat night 6.
+
+@summary
+enter 1/9/8/7 into the ai settings.
+
+@summary
+,
+
+@summary
+press "ready."
+@article
+ You have now unlocked the Custom Night, go into the menu.
+, This will cause Golden Freddy's kill screen to appear and, once again, crash/freeze your game.
+

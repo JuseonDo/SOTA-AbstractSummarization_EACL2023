@@ -1,0 +1,29 @@
+@summary
+open notes.
+
+@summary
+,
+
+@summary
+tap notes under “icloud”.
+
+@summary
+,
+
+@summary
+tap a shared note.
+
+@summary
+tap the sharing icon.
+
+@summary
+tap the person you want to remove.
+
+@summary
+,
+
+@summary
+tap remove access.
+@article
+,, You can tell a note is shared if you see a person’s head icon next to its name in the folder view.
+ It’s at the top right and looks like a person’s head with a checkmark.,, That user can no longer view or edit the note.

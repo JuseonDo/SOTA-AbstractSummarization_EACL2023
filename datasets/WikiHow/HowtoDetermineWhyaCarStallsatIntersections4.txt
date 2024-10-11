@@ -1,0 +1,9 @@
+@summary
+look for the engine code error (ege) p1406.
+
+@summary
+try cleaning the excess carbon out of the egr valve first.
+@article
+ If the EGR valve is stuck open, the car will run sluggish at lower RPMs. If the valve is stuck closed, the car won't run well at higher RPMs (on the highway).
+ It may just need to be cleaned and not need replacing. If cleaning the EGR valve does not work and you are still getting code P1406, the EGR valve needs to be replaced.
+

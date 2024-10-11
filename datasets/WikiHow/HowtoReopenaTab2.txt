@@ -1,0 +1,13 @@
+@summary
+tap the chrome menu button (⋮).
+
+@summary
+select "recent tabs".
+
+@summary
+tap a tab to reopen it.
+@article
+ You may have to pull the screen down to see the menu bar.
+ This will open the recent tabs list in your current tab. If you are logged in with your Google account, you'll see the tab history from your other devices as well.
+ The tab you select will reopen in the current tab.
+

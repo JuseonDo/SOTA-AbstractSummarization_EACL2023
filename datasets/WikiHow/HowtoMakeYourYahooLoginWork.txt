@@ -1,0 +1,25 @@
+@summary
+check to see if your caps lock is on.
+
+@summary
+check whether you changed your password and then forgot it and typed the old one.
+
+@summary
+see if you are typing your user name or password wrong, or if you have any misspelled words.
+
+@summary
+consider the possibility of interference.
+
+@summary
+consider what hurry you're in.
+
+@summary
+get help from yahoo.
+@article
+ If so, turn it off.;
+, You may have written down the new password somewhere.
+ This is the most common problem people have.
+ Do you think someone might have hacked into your account and changed your password? This can potentially become dangerous. Create a new account at once.
+ Is it urgent? If not, you might just consider getting a new account.
+ Yahoo should have a link where you can get help. Click on that and be patient.
+

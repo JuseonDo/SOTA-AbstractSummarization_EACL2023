@@ -1,0 +1,10 @@
+@summary
+look at your map and get to the center.
+
+@summary
+follow it as closest as possible.
+
+@summary
+once they die, quickly collect their mass.
+@article
+ On the way there, pick up any dots you can find. Once this is done and you are at the center of the map, find the biggest snake., This can mean traveling with them along their side or following their tail.  Either way, you wait for them to die., Don't let anyone get in front of you, this method is dangerous. Collect as much as you can then find another huge snake. Do this as many times as you want to until you are the biggest snake, then try another method.

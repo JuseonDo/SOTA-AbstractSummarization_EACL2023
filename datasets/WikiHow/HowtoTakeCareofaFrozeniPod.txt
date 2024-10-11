@@ -1,0 +1,24 @@
+@summary
+make sure the "hold" button (and thus the key lock) is not on.
+
+@summary
+from here, it depends on the type of apple device you have.
+
+@summary
+get ready to listen to all of your music again!
+
+@summary
+,
+
+@summary
+alternatively, try plugging the ipod into the computer.
+
+@article
+ The screen should be black.;
+,
+
+
+For a shuffle, turn the iPod off and then on again.
+For an iPhone, hold the "Menu" and the "Sleep" button down together for about ten seconds.
+For an iPod, hold the "Menu" and the "Sleep" button down together for about ten seconds. Hold the "Menu" and the "Center" button down for ten seconds for iPods over 4Gs, and the "Menu" and "Play/pause" button down for iPods with less than 4G of memory.
+,

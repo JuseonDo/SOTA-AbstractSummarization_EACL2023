@@ -1,0 +1,16 @@
+@summary
+gather the ingredients needed to make the rice dish.
+
+@summary
+choose your seasoning.
+
+@summary
+confirm your counter decision.
+
+@summary
+choose your ingredients.
+
+@summary
+confirm your decision.
+@article
+ Follow the mandatory ingredients from the basic recipe., Click on the Seasonings Set and select the "salt", "sugar" and "soy sauce"., Press the "Start" button, then the "A" button again., Select the specific ingredients you wish to use from your rucksack. Press the "Start" button., If you are satisfied with what you have chosen, start cooking.

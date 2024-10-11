@@ -1,0 +1,37 @@
+@summary
+draw an outline of the house.
+
+@summary
+draw a horizontal line and a vertical line to create a roof and a partition.
+
+@summary
+,
+
+@summary
+draw two chimneys.
+
+@summary
+draw two windows on the lower roof.
+
+@summary
+draw a triangular shape below the roof.
+
+@summary
+,
+
+@summary
+make the door slightly opened.
+
+@summary
+a haunted house would not be complete without dead trees.
+
+@summary
+now we can add colors to our outline.
+@article
+ Make the structure to appear bulging.
+, One should be in front (erase horizontal line overlapping the chimney in step two) and one at the back of the pointy roof.
+ Make the upper portion of the window curvy. Draw a circular window for the attic and draw rectangular windows on the lower part of the house. Remember to make the two windows in front larger. This will create an illusion that these windows are nearer to the viewer.
+, This adds mystery to our drawing.
+ Make the trees pointy and crooked.
+ The windows could also be colored white but coloring it yellow creates a spooky feel which makes it perfect for a haunted house. Now the haunted house is complete. Boo!
+

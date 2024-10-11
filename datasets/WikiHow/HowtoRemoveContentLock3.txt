@@ -1,0 +1,13 @@
+@summary
+locate the nearest ee store location.
+
+@summary
+bring an approved photo id with you to the nearest ee store.
+
+@summary
+inform an ee representative that you want content lock removed from your device.
+@article
+ For help with finding the nearest EE location, go to http://storefinder.ee.co.uk/ee/stores.html and enter your postcode.
+ You can bring a passport, full driver’s licence, EU card, or citizen card.
+ The representative will review your photo ID, and process your request to disable Content Lock.
+

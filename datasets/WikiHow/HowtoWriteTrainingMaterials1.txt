@@ -1,0 +1,9 @@
+@summary
+determine whom the audience will be for your training materials.
+
+@summary
+think about the market for the training materials you plan to write.
+@article
+ Writing training materials for children is very different than writing training materials for adults. You should also factor in the cultural backgrounds of the readers.
+ If you plan a global outreach for your training materials, make sure you write in a vernacular that’s easy to translate into other languages.
+

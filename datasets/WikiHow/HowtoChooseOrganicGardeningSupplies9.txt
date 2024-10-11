@@ -1,0 +1,9 @@
+@summary
+use a rain barrel to gather water naturally.
+
+@summary
+water plants in the morning or evening.
+@article
+ Harvest rainwater in a rain barrel and use it to water plants. Rain barrels are available commercially, or you can reuse an existing container to gather rain.
+ Evaporation is slower when the air is cool, so water plants in either the morning or the evening to conserve water.
+

@@ -1,0 +1,25 @@
+@summary
+select an image that you want to have a background transparent.
+
+@summary
+merge visible.
+
+@summary
+click save as... (this is how you get to the options to set the transparency).
+
+@summary
+,
+
+@summary
+click options >> run optimizer.
+
+@summary
+,
+
+@summary
+select the transparency tab and make the appropriate selections.
+@article
+ If you are creating it, be sure that you create a transparent background. This article will be using a flower.;
+, If your image has multiple layers, be sure to Merge Visible. This is found under Layers >> Merge >> Merge Visible.
+,, In the screenshot, the selections are Single Color Transparency and Existing Transparency (Basically, what is transparent stays transparent).
+

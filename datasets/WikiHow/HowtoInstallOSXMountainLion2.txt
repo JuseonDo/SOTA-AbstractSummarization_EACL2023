@@ -1,0 +1,28 @@
+@summary
+open the mac app store.
+
+@summary
+,
+
+@summary
+click on the mountain lion button, or search for "mountain lion".
+
+@summary
+,
+
+@summary
+click the price button in the upper left corner of the page.
+
+@summary
+you will be prompted to sign in to the app store, and then to authorize your purchase.
+
+@summary
+monitor the download from the "purchases" tab of the app store.
+@article
+,, The cost of Mountain Lion is $19.99. After clicking the button, it will change to a green color and read "Buy App." Click on this "Buy" button.
+
+
+
+If you don't have broadband internet to download Mountain Lion, you can visit any Apple Retail Store and they can help upgrade your operating system for you.
+ You can minimize the app store and "Mountain Lion" will continue downloading in the background. It has to be fully downloaded in order to install, and this can take quite some time depending on your internet speed.
+

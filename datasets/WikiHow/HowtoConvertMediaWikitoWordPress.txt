@@ -1,0 +1,36 @@
+@summary
+decide on which method you'll choose for your site data transfer.
+
+@summary
+prepare for your wordpress migration, to make everything properly.
+
+@summary
+install new wordpress website and activate all the necessary plugins.
+
+@summary
+inform your site visitors about the switching and when finished, start converting your mediawiki content to wordpress.
+
+@summary
+,
+
+@summary
+redesign the site.
+
+@summary
+set up 301 urls redirects from old mediawiki to wp.
+
+@article
+ There are three of them - the manual copy/pasting conversion, hiring a programmer, or migrating MediaWiki to WordPress with an automated converter.
+
+
+Among other ways of data transfer, using an automated converter has no specific requirements and fits both techies and the average Internet use.;
+, First of all backup your MediaWiki site data.
+ So, you should find a hosting provider for your future site. The are various of them, such as:
+
+
+Bluehost
+DreamHost
+Laughing Squid
+Web hosting hub
+
+,, When the transfer is done, you should redesign your new website.

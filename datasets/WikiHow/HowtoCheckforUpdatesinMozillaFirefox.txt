@@ -1,0 +1,57 @@
+@summary
+open the firefox app.
+
+@summary
+click on help in the upper-left corner of the screen.
+
+@summary
+,
+
+@summary
+click on about firefox.
+
+@summary
+click on restart firefox to update in the dialog box.
+
+@summary
+open the firefox app.
+
+@summary
+click on ☰ in the upper-left corner of the screen.
+
+@summary
+,
+
+@summary
+click on options.
+
+@summary
+,
+
+@summary
+click on advanced.
+
+@summary
+click on update.
+
+@summary
+select a "firefox updates" setting.
+
+@summary
+close the tab by clicking on "x" next to the tab for "options".
+@article
+ It's a round icon depicting a fox curled around a globe.;
+,, Firefox will open a dialog box, then automatically check for and download any available updates.
+ The updates will be installed when Firefox relaunches.
+ It's a round icon depicting a fox curled around a globe.
+,, It's at the bottom of the menu on the left side of the window.
+ It's a tab at the top of the window.
+ Click on the radio button next to one of the following:
+
+
+"Automatically install updates (recommended: improved security)"
+"Check for updates, but let you choose whether to install them"
+"Never check for updates (not recommended: security risk)
+
+, Your update settings are now configured.
+

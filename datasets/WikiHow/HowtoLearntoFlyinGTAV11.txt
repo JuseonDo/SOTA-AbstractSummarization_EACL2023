@@ -1,0 +1,16 @@
+@summary
+step up your sky diving game for this challenge.
+
+@summary
+jump off the aircraft and let yourself free fall.
+
+@summary
+activate precision landing once you are around 400 or so feet from the ground, and steering yourself to intersect the path of the truck.
+
+@summary
+take care of your speed when you get close to the truck.pat yourself on the back if you manage to land exactly on the target.
+@article
+ This is another sky diving lesson, but this time around you will be attempting to land on a dynamic target. There is a truck circling the airport runway, and you will have to land on top of it. Note that this is not timed either, but instead gives points for how close you land to the target., You should be able to see the highlight of the truck on the ground even from a high altitude. Allow yourself to freely fall close to the ground, and then pull your chute.,
+
+It is best to fly parallel to the direction of where the truck is handing to make it easier for you to land on the target. Cross landing is very difficult even though the truck is moving slowly.
+ Allow yourself to speed up by getting out of precision mode to catch up with the truck if required. If you feel you are going to overshoot, reenter precision mode and slightly pull up, and then resume chasing the truck.,

@@ -1,0 +1,76 @@
+@summary
+open youtube and locate a song or video you want in your playlist.
+
+@summary
+play the song and find the "add to" button.
+
+@summary
+,
+
+@summary
+create a youtube channel if you haven't already.
+
+@summary
+open the playlists tab from your channel page, then click "new playlist".
+
+@summary
+,
+
+@summary
+name your playlist and adjust the settings.
+
+@summary
+find other videos you want to add to your playlist.
+
+@summary
+decide how much view ability the world will have with your playlist.
+
+@summary
+click the "create" button.
+
+@summary
+,
+
+@summary
+look for the playlist folder in your login page.
+
+@summary
+when you've gotten to the playlist folder, click the playlist in order to play it.
+
+@summary
+,
+
+@summary
+click the "playlist settings" button in order to edit it.
+
+@summary
+,
+
+@summary
+fine-tune the options that are associated to your playlist.
+
+@summary
+click the "save" button to save your work thus far.
+
+@summary
+,
+
+@summary
+edit your playlist as you see fit.
+@article
+;
+,, If you have, skip to the next step. Name your YouTube channel.
+, Give your playlist a name that you'll remember, and enter it in the "Playlist title" box.
+
+
+Set whether you want your playlist to be private or public.
+Select whether you want videos added to your playlist to be added to the top of the playlist. Click the button on top of the "Add to" feature.
+ Search for other videos that you want in your playlist and follow the same steps. When a video is successfully added, a green bar will show up indicating that the playlist has been updated.
+ Use the drop-down box in the lower left hand corner to select either the "Public", "Unlisted" or "Private" options.
+, It should be on the left hand side of the website.
+,, Change it's title, it's playability options, along with it's ordering of videos, and a few other options.
+, Add or delete videos or drag the videos from one line to another to change the order of the videos.
+
+
+If you want to add a video to the playlist, simply input its URL here, or follow the instructions listed above.
+

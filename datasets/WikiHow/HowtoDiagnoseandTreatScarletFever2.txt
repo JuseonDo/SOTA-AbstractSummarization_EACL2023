@@ -1,0 +1,13 @@
+@summary
+see your physician.if you have a severe sore throat without a cough and white exudate on your tonsils, you should definitely book an appointment to see your doctor as soon as possible.
+
+@summary
+obtain a throat swab.if your doctor agrees that your sore throat is worrisome for group a strep, she will perform a throat swab right then and there in the office.
+
+@summary
+see your doctor immediately if you have developed the characteristic rash of scarlet fever.
+@article
+ A sore throat that presents in this way is likely to be caused by Group A Strep. Your doctor will perform diagnostic tests to confirm it and will offer you treatment as needed.
+ It is a procedure that does not take more than a few minutes. A sample is taken from the back of your throat and sent into the lab to test for the presence of streptococcal bacteria. If the test comes back positive, you will need to proceed with antibiotic treatment.
+ Your doctor will perform a physical exam to evaluate the rash and the potential signs of scarlet fever in more detail. If enough signs and symptoms are present, he will offer you immediate antibiotic treatment.
+

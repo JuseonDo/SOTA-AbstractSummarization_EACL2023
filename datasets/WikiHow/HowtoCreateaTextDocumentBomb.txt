@@ -1,0 +1,37 @@
+@summary
+open notepad by going to start -> all programmes -> accessories -> notepad.
+
+@summary
+copy the following code:
+
+@summary
+for /l %%n in (1,1,10) do echo ur screwed!!!!,
+
+@summary
+go to file -> save as.
+
+@summary
+the "(1,1,10)" part is how many documents the file will create.
+
+@summary
+the "do echo ur screwed!!!",
+
+@summary
+the "screwed%%n.txt" part denotes the name of the file.
+@article
+ Vista and 7 users can just type "notepad", without quotes, into the start menu and hit enter.
+ >> SCREWED%%n.txt
+
+,
+
+Change the "Save as type" box to "All Files".
+
+
+
+
+
+
+Type "anything.bat" into file name and click "Save".
+ It stands for 1x1x10, meaning the programme will create 10 files. This can be customised to any amount you want.
+ part denotes what the text document will contain. This can be customised. Don't change the "do echo" part otherwise it won't work.
+ This can also be customised. Don't change the "%%n.txt" part otherwise it won't work.

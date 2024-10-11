@@ -1,0 +1,37 @@
+@summary
+create a new powerpoint presentation and select a slide format that is appropriate.
+
+@summary
+click inside the text box on your slide and enter your text.
+
+@summary
+,
+
+@summary
+place the cursor on the text line where you want to add a bullet point.
+
+@summary
+,
+
+@summary
+open the "bullets and numbering" dialog.
+
+@summary
+use the arrow keys to move to the powerpoint bullet formats that you want to use.
+
+@summary
+determine whether you need to change the size of the bullet point.
+@article
+;
+,,, The process to do this will vary depending on which version of the program you use. When you find the dialog box, it will show 8 preset PowerPoint bullet formats.
+
+
+In PowerPoint 2003, the dialog is under the "Format" menu.
+In PowerPoint 2007 and 2010, the bullet point dialog window is under the "Paragraph" menu in the "Home" ribbon.
+ Press "Enter" or click "OK" to choose a bullet point.
+ Depending on your PowerPoint presentation, you may need larger bullets.
+
+
+You can change PowerPoint bullet format by clicking the up or down arrow next to the "Size" field or by clicking the "Color" button to select a different color for your bullet point.
+Creating bullet points that are a different color than your text color can enhance your PowerPoint presentation. For example, use green bullets for items that are on schedule, yellow bullets for items that require monitoring and red bullets for items that need immediate attention.
+

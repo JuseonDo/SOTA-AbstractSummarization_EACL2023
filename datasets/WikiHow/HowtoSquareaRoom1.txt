@@ -1,0 +1,9 @@
+@summary
+measure the diagonals from all four corners of the room.
+
+@summary
+know that if the measurements equal one another, your room is square.
+@article
+ Take a tape measure and measure the distance from one corner to its diagonal, and then measure the diagonal between the remaining two corners. If you were to string lines across the corners you measured, they would form an "X".;
+, That's all there is to it! If your measurements do not equal one another, adjust the assembly until the diagonals equal one another.
+

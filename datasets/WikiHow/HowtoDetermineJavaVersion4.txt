@@ -1,0 +1,22 @@
+@summary
+start a terminal window with the terminal window open type in "java -version"
+
+@summary
+this should return something like java(tm) 2 runtime environment, standard edition (build 1.6) if it returns
+
+@summary
+-bash: java: command not found
+
+@summary
+this means that either it is not installed or you haven't set up your paths properly
+
+@summary
+,
+
+@summary
+use freely available internet testers go toand click the test java version button.
+@article
+, Go to With Firefox 3 go to Tools Add-ons button and go to the Plug-ins tab.
+With Firefox 2 or 3: In Firefox versions 2 and 3, enter in the address bar: about:plugins. If Java is installed there will be multiple Java entries.
+With Internet Explorer 7 or 8 go to Tools select Internet Options in the General tab click on the Browsing History Settings button and select the View Objects button right click on an ActiveX control and get its properties. Each ActiveX control has a "code base" and for each of the Java entries it will display the version number.
+

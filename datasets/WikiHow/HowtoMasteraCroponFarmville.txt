@@ -1,0 +1,13 @@
+@summary
+choose which crop to master.
+
+@summary
+plant your crop of choice on every plowed plot there is on your farm.
+
+@summary
+harvest the crop, re-plow the land, and plant the crop again.
+@article
+ If this is your first crop mastery, it is good to pick an easy crop to master (see Tips for some easy crops).;
+, To do this, you might have to take in to consideration the price of the crop, if you don't have very many coins.
+ Do this until you have gotten all 3 mastery stars for the crop.
+

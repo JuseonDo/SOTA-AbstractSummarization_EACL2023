@@ -1,0 +1,51 @@
+@summary
+connect your android device to your pc using a usb cable.
+
+@summary
+open windows explorer or "my computer" on your pc.
+
+@summary
+,
+
+@summary
+go to computer and open 'local disk (c:) - it has the windows logo attached to it.
+
+@summary
+,
+
+@summary
+open the 'windows' folder.
+
+@summary
+,
+
+@summary
+open the 'fonts' folder in this location.
+
+@summary
+select and copy your desired fonts.
+
+@summary
+go back to windows explorer and open your android device (device storage).
+
+@summary
+,
+
+@summary
+open the folder with the name 'fonts' and paste your copied fonts files.
+
+@summary
+,
+
+@summary
+disconnect you android device.
+@article
+
+
+
+When a pop-up appears, select 'Connect as USB mass storage' / 'Media device' (depending on what your device lists out) to enable you to transfer files from PC to phone and vice versa.
+If a pop up doesn't appear, draw your notifications up and select from there - for example, the notification you get if your PC successfully installs your Android device.;
+,,,, This folder has the letter A in blue and bold attached to it.
+ Please note that you might not be able to copy from local disk (C:) directly to phone storage so, what you'll have to do is to copy from local disk (C:) to local disk (D:) or a flash drive then, from that location to your phone storage.
+,, You can now open WPS Office on your mobile and check your fonts out.
+

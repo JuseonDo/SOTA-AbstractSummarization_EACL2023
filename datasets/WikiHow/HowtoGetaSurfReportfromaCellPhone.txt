@@ -1,0 +1,20 @@
+@summary
+consider the traditional option of calling a telephone surf report.
+
+@summary
+use a web browser enabled mobile phone to get a report on surf conditions.
+
+@summary
+choose your region.
+
+@summary
+drill down through the menus to your local break.
+
+@summary
+read the brief text description of surf conditions which should give you enough information to decide whether to go surfing or stay at home.
+
+@article
+ Many surf shops offer a free numbers with recorded reports of surf conditions. Pay services such as 976-SURF or 976-WAVE are also available. Unfortunately these traditional voice surf reports cost a few dollars, take a few minutes to check, and cannot be done discreetly in a meeting.;
+, Cingular, Sprint, newer Verizon phones and other mobile phone users should use http://www.surfline.com/wml. Old Verizon phone and Nextel users should point their handset browsers to www.surfline.com/slwl. These sites are not viewable on a standard PC web browser.
+ Options include Summary, East, West, Hawaii, and Far Away.
+ You can press continue by pressing back to view multiple breaks.

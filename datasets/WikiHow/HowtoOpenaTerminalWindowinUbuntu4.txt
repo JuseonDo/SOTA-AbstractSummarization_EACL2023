@@ -1,0 +1,13 @@
+@summary
+click the applications button.
+
+@summary
+click "accessories.",
+
+@summary
+click "terminal."
+@article
+ This can be found in the Launcher bar in older versions of Ubuntu.
+ In Xubuntu, click "System" instead.
+
+

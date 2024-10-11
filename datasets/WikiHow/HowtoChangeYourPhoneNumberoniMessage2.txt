@@ -1,0 +1,33 @@
+@summary
+open the settings app.
+
+@summary
+,
+
+@summary
+tap messages.
+
+@summary
+,
+
+@summary
+tap send & receive.
+
+@summary
+,
+
+@summary
+tap "use your apple id for imessage".
+
+@summary
+,
+
+@summary
+enter your apple id credentials.
+
+@summary
+tap your apple id email in the "start new conversations from" section.
+@article
+,,,, This will add various iterations of your Apple ID email address to the "You Can Be Reached By iMessage At" section.Make sure at least one of these email addresses has a checkmark next to it.
+ This should remove the checkmark from your phone number and place it next to your new email. Now when you send an iMessage, your email address--not your phone number--will display in the "Sender" section.
+

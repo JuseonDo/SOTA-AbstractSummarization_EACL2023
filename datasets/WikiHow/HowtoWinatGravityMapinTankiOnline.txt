@@ -1,0 +1,22 @@
+@summary
+get some mines from the garage.go to the map.
+
+@summary
+lay the mines on ramps.watch players go boom!,
+
+@summary
+ask some players to defend flag.
+
+@summary
+put some players on vulnerable spots e.g.. the spot where no-one goes.
+
+@summary
+get players in large groups to pick up the dropped flag when the player carrying it dies.
+
+@summary
+get some players to snipe with long range weapons e.g.. rail gun, vulcan.
+@article
+ When you are playing, on the top right there are some symbols. Click on Garage.
+
+This is done by clicking on 'Supplies'.
+, Do not place them randomly because your wasting and also you may be placing them where nobody ever goes.(Do not waste them.),, (if playing 'Capture the Flag' mode)., The enemies may try to take advantage of these places and swarm you with more enemy players., This is called an escort. (assuming you are playing in CTF)., This is like a long range artillery, when the rest go to fight close-up and the "artillery" picks off or weakens the opponents, noticeably giving you advantage.

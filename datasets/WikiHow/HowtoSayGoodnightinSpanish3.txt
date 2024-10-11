@@ -1,0 +1,21 @@
+@summary
+state "que duermas bien.
+
+@summary
+change the verb conjugation depending on who you say it to, and noticing that "dormir" is an irregular verb.use duermas for the tú form.
+@article
+"This is a polite command used to tell someone, “Sleep well.”
+
+
+
+Que introduces the command.
+
+Duermas is derived from dormir, meaning to sleep.
+
+
+Bien is an adjective meaning well.
+
+Use duerma for the usted form.
+Use durmáis for the vosotros form.
+Use duerman for the ustedes form.
+

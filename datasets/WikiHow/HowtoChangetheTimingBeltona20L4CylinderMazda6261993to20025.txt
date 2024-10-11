@@ -1,0 +1,71 @@
+@summary
+readying to remove the timing belt, you need to turn the timing belt-tensioner pulley toward "counter-clockwise" with an allen "el-shaped" hex tool that fits in a hole in the pulley to rotate it to be able to slip the belt off little by little.
+
+@summary
+,
+
+@summary
+turn (pivot) the timing belt tensioner pulley toward "clockwise" with the allen hex wrench enough to take the tension off of the timing belt tensioner spring, and then remove the spring with very long-nose-pliers.
+
+@summary
+,
+
+@summary
+remove the tensioner pulley by one bolt in the middle (14mm).
+
+@summary
+,
+
+@summary
+remove the "idler" pulley of the timing belt system by one bolt in the middle (14mm).
+
+@summary
+,
+
+@summary
+remove the 4 or 5 water pump bolts which are hard to see -- (12mm) socket -- and a medium size ratchet (called 3/8 inch drive in the usa).
+
+@summary
+clean the engine block surface carefully where the water pump gasket will make contact for sealing well -- so carefully scrape off any pieces of stuck-on old gasket material corrosion, rust, or dirt to bare metal but not gouging or roughing the metal.
+
+@summary
+put on the "new water pump"; follow instructions that came with it.
+
+@summary
+install the "new timing tensioner" pulley and tighten its mounting bolt securely.
+
+@summary
+install the new "idler pulley" and tighten the mounting bolt securely.
+
+@summary
+,
+
+@summary
+put on the "new timing belt"; follow instructions that came with it.
+
+@summary
+press the timing belt onto place while keeping the tensioner pulley out of the way enough, using the allen hex wrench toward counterclockwise for the pulley to be as far backed off as possible to allow the belt to slide onto the sprockets.
+
+@summary
+with the allen wrench in the hole in the tensioner pulley for that purpose press it toward clockwise against the belt and press it in for a little tightening of the belt, and then release it slowly for the spring to bring it back into position.
+
+@summary
+,
+
+@summary
+remove the "stopper block" from the cams -- before you put on the top half-cover on the timing belt area.
+@article
+,,,, Be careful because one bolt that is easier to see looks like it may be one to remove but its to the left of the correct one). Then loosen the pump from the block by tapping it with a wooden block and a mallet/hammer, but if it does not come loose pretty easily -- check again for another bolt.
+ If your water pump used a metal gasket and it is still secure to the engine and in good shape, do not remove it. Just clean it up and mount your new water pump to it. The metal gasket is better than any new fiber gasket that might have come with your new pump.
+ To tighten 12mm bolts securely without over-tightening, breaking one off: Start the bolts by hand; first just barely snug them, then gradually tighten them evenly, in two for three passes, in a star pattern, back and forth across, from side-to-side to minimize any possible warping. Seal the new gasket only onto the new pump with "gasket cement." Do not cement it onto the block. Put anti-seize grease on bolts. You can put an even coating of marine grease on the gasket after it is cemented onto the pump so it will not stick to the engine block.
+
+
+Or if you prefer to use a silicone gasket maker, then apply a small even bead but not an excessive amount that could squeeze out and cause plugging/blockage of coolant passage-ways in the engine or radiator.
+ Hook the new spring in the hole of the tensioner ear/tab and use the Allen wrench in the hole that is in the front surface of the tensioner pulley for that wrench to bring the spring clockwise to get the spring near and then hooked onto the pin that protrudes from the engine block just above the pulley. Be sure the spring is hooked into the groove on the engine pin.
+, (Like a 1 inch (25.5 ~ 26mm) open end wrench on special hex-part of cam along the middle length of the cam can be used to budge the cam just slightly to get a cam timing mark back aligned while keeping the the stopper "jammed" in (to hold the sprockets/cams) in place until you get the belt on and the tension spring on correctly. So, starting at the crankshaft sprocket place the belt a little more than halfway onto the sprocket and then going counter-clockwise making sure the belt is tightly against the idler pulley/roller as you slip the belt onto the cam sprockets and tight across between the cam sprockets when on both of them.
+ While holding that hex wrench, begin to work the belt in steps farther onto each sprocket until it is on all the way.
+,
+
+
+Hand rotate the crankshaft two times around, using a wrench on the crankshaft sprocket bolt, then check to see that when the crankshaft key is aligned, then the two cam timing marks are still aligned as described earlier. Be sure one or both isn't off by one notch or something. If it is not aligned properly then remove the belt, carefully realign all 3 marks and reinstall the belt, and double-check it again.
+

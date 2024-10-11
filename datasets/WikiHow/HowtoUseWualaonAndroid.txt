@@ -1,0 +1,57 @@
+@summary
+launch google play.
+
+@summary
+search for “wuala.” in the results, tap the first one on the list made by lacie.
+
+@summary
+,
+
+@summary
+download the app.
+
+@summary
+launch wuala.
+
+@summary
+allow permissions for "auto upload.",
+
+@summary
+select a file.
+
+@summary
+tap on "wuala.",
+
+@summary
+tap "upload" when finished.
+
+@summary
+,
+
+@summary
+tap on the video file.
+
+@summary
+select the default player you want to use.
+
+@summary
+,
+
+@summary
+watch and enjoy.
+
+@article
+ Do this by tapping on the app menu icon in your home screen, then look for the "Google Play Store" app. Tap it to open.;
+,, Tap the "Install" button.
+ After installing, tap the "Open" button.
+
+
+Alternatively, you can go through your app drawer and find the app there.
+ Upon entering the main app screen, the app will request your permission to enable auto uploading. Enable or disable it according to your preference.
+ On either a gallery app or a file browser app, select a file or picture you wish to upload.
+
+
+Tap on the file or picture, and share.
+ Choose the folder you where you want to upload the file.
+, If you’ve uploaded a video to Wuala, tap on it in the "Wuala" file browser.
+,

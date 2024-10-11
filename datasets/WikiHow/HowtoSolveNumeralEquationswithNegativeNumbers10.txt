@@ -1,0 +1,13 @@
+@summary
+divide two numbers.
+
+@summary
+the quotient is your answer!
+@article
+  Remove the negative signs.
+
+Example:-12/-4 becomes12/4=3.
+ The two negative signs meeting means the result is positive.
+
+Example:-12/-4=3.
+

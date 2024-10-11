@@ -1,0 +1,71 @@
+@summary
+purchase your flash template or find one for free online.
+
+@summary
+save the template and associated files to the proper location on your computer.
+
+@summary
+,
+
+@summary
+install font files, if necessary.
+
+@summary
+,
+
+@summary
+open flash.
+
+@summary
+,
+
+@summary
+open your .fla file.
+
+@summary
+,
+
+@summary
+identify the text you would like to change.
+
+@summary
+save your work.
+
+@summary
+,
+
+@summary
+open the "library" panel in your flash file.
+
+@summary
+save your work.
+
+@summary
+,
+
+@summary
+preview your site on multiple web browsers to ensure it is displaying correctly.
+
+@summary
+,
+
+@summary
+upload your edited flash template and all associated files to your server.
+
+@article
+ Your template will typically be part of a zipped folder that includes the Flash file as well as its associated components, such as pictures and animation files. Your zipped folder may also include fonts that you will need to install on your computer for the template to work properly.;
+,,,,, Do this by sliding the small pink triangle on the Timeline, which is located at the top of the screen.
+
+
+Once you have located the text, select the black arrow from the Tool Bar.
+Use your cursor to click on the text you wish to edit. A blue box will appear around the text. Be sure the text you have selected is identified as "Static Text" in the Properties panel located at the bottom of your screen.
+Select the text tool from the Tool Bar. Highlight the text you wish to change. You may now begin typing your new text.
+You may change your font and font color using the appropriate menu in the Properties panel.
+, Double click on the tree icon located next to the file name of the photo you wish to replace.
+
+
+Click the "Import" button in the pop-up box that appears.
+Locate the new image you want to include and click the "Import" button.
+Click "OK."
+
+,,,

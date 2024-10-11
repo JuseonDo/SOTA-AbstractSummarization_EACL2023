@@ -1,0 +1,36 @@
+@summary
+open up wiseftp.
+
+@summary
+click on the connect icon.
+
+@summary
+click on new site.
+
+@summary
+,
+
+@summary
+get the information that you will need from your ftp server.
+
+@summary
+fill in the information into the appropriate boxes.
+
+@summary
+press connect.
+
+@summary
+if it doesn't work, check your password.
+
+@summary
+look at the screen now.
+@article
+ The 'Local System' is your hard drive. The 'Remote System' is your domain.;
+, This will take you to the Site Manager.
+, You will need to have set up an FTP account in advance of adding it to your FTP program.
+ You will want to put
+
+, Even if you don't want to do anything right at the moment, you want to make sure you got all of the info correct.
+ Most often, that is what is incorrect.
+ You should be connected.
+

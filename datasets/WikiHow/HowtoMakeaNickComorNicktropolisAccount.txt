@@ -1,0 +1,21 @@
+@summary
+go to nick.com or nick.com/nicktropolis.
+
+@summary
+if on nick.com, click need a nickname?,
+
+@summary
+after clicking need a nickname, a new page will show up.
+
+@summary
+when finished, click continue.
+
+@summary
+login to nick.com!
+@article
+;
+, on the left of the screen. If on Nick.com/nicktropolis, click Need a NickName? under the password box.
+ Fill out everything on the form on the page.
+ If there are any errors, such as an incorrect birthdate, or a taken NickName, it will only take you back, to re-fill out the wrong sections.
+ Type in your username/NickName, and the password you just finished creating, and click login. You're done!!
+

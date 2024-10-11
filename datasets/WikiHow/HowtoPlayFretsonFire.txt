@@ -1,0 +1,28 @@
+@summary
+ 
+
+@summary
+open the program and select "play game" with your "enter" key.
+
+@summary
+,
+
+@summary
+select the song that you want to play.
+
+@summary
+,
+
+@summary
+select the song difficulty.
+
+@summary
+crack your knuckles and enjoy playing!,
+
+@summary
+look at your score at the end of the song.
+@article
+,, Note that "super easy" and "easy" will use the first 3 keys, "medium" will use 4 keys (depending on the song, "easy" will also use the fourth key), and "amazing" will use all 5 keys.,
+
+To hit a note with your keyboard, you will need to hit the key and the "Enter" key at the same time. The "Enter" key (on default) is your pick. You can change your keys and pick in the Game Settings.
+ Depending on your game settings, it will save the top 5 scores of each song level. It will also show the number 1 score for each level in the song list.

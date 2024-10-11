@@ -1,0 +1,34 @@
+@summary
+tap on your home button to return to the home screen.
+
+@summary
+tap the "voice memos" app.
+
+@summary
+,
+
+@summary
+tap on the large red button to start recording.
+
+@summary
+press the stop button to pause your recording.
+
+@summary
+press the stop button when you are finished recording.
+
+@summary
+select a recording on the list to listen to it.
+@article
+;
+,,
+
+
+The iPhone will record using microphones at the bottom of the phone. Set the phone in a place where the microphone isn't blocked or hold it from the sides.
+ Press it again to continue recording where you left off.
+ Tap "Done" to save the recording.
+ Press the Play button in the expanded details to being playing the memo.
+
+
+Tap "Edit" to trim the recording.
+To label your recording, tap on the recording title.
+

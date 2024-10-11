@@ -1,0 +1,12 @@
+@summary
+please note, that this is only a simple example which shows you how it works.
+
+@summary
+viewing the page source of any website will enable to see and examine the code that builds it.
+@article
+ To illustrate what it looks like on website we included a screenshot of our web page containing a table:;
+, Below is the screenshot of part of the code that formed the table above. It shows the firs three rows of the table \9highlighted yellow on the picture above).
+
+
+You can notice some HTML elements we have used to polish our table, however there are some more...The table has also been styled with CSS (Cascading Style Sheets). Due to extensive formatting and necessity to repeat some actions for many times, styling table with CSS might be a quicker and simpler way. About that - next time!
+

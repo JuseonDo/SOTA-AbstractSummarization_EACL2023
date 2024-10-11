@@ -1,0 +1,47 @@
+@summary
+diabetes mellitus is an endocrine disorder of the pancreatic tissue which is manifested as deficient secretion of the hormone insulin by the islet cells of langerhans which are parts of the pancreas.
+
+@summary
+glucose is a type of sugar that is required by the body cells in order to generate energetic molecules that are called atp.
+
+@summary
+all these processes occur within the liver cells that are called hepatocytes.
+
+@summary
+this polar structure does not allow this compound to penetrate the phospholipid bilayer of the liver cells freely.
+
+@summary
+one is due to a genetic defect in the coding process of the hormone translational process at the dna molecule or it can be due to an autoimmune disorder that causes the destruction of the islet cells of langerhans by circulating auto antibodies in the blood.
+
+@summary
+the destruction of the islet cells of langerhans by the circulating antibodies causes permanent destruction of the islet cells with no possibility of regeneration of the function of the pancreas.
+
+@summary
+this type of diabetes mellitus can be treated by increasing the responsiveness of the receptors of insulin at the cellular membranes of hepatocytes.
+
+@summary
+the immediate and most convenient molecules that can serve as an alternative fuel to glucose are the class of fatty acids that are present in the blood.
+
+@summary
+their structure is mostly hydrophobic which allow them to easily penetrate the cellular membrane of hepatocytes.
+
+@summary
+an immediate consequence to the use of fatty acids as a source of fuel instead of glucose is the formation of ketones in the blood as metabolic products of the oxidation of fatty acids.
+
+@summary
+,
+
+@summary
+these ketones are of the type of ketonic acids that can be passed in the urine giving it acetone like smell.
+@article
+ This disorder is also manifested as hyperglycemic state in the blood of affected individuals. This hyperglycemia is also referred to as excess glucose level in the body.;
+, These molecules are obtained in several oxidation processes of glucose molecules that include the metabolic process of glycolysis and the Krebs cycle in addition to the process of oxidative phosphorylation.
+ For these processes to occur efficiently the glucose molecules must be transported from the blood to the hepatocytes efficiently. This is usually accomplished using transport mechanisms that involve the hormone insulin. Insulin is usually required for the transport of glucose into the cells of the liver. Glucose has a polar chemical structure due to its content of many hydroxyl groups that are attached to its cyclohexyl ring.
+ This is so due to the hydrophobic nature of the cellular membrane which repels polar compounds. For these reasons the entry of glucose into the liver cells is not possible without the assistance of the insulin molecule. The disorder of Diabetes Mellitus is usually caused due to deficiency of the insulin molecule that is caused by one of two possibilities.
+ This autoimmunity can arise for example due to a disorder in the thyroid gland which can secrete autoantibodies that can in turn attack the pancreatic tissue at the level of the islet cells of langerhans.
+ This type of Diabetes usually requires the administration of insulin by an exogenous manner through infusion. The other type of Diabetes Mellitus is due to the lack of response of the specific insulin receptors on the cellular membrane of the liver cells.
+ This type of Diabetes is the more common disorder of the two diseases. The clinical manifestations of this disorder are primarily due to its associated complications that are the main reasons of making this disorder a serious and progressive disease. The fact that the body is unable to process glucose molecules as a source of fuel leads the body to search for other sources of fuel.
+ Fatty acids do not enter the liver cells in the same mechanism by glucose.
+ For this reason fatty acids are a good alternative source of molecular fuel that can be used by hepatocytes in order to generate ATP molecules.
+, Also these ketone bodies can accumulate in the blood. The disorder of Diabetes Mellitus can have several complications that are associated with its progressive nature but these will be discussed in a separate article.
+

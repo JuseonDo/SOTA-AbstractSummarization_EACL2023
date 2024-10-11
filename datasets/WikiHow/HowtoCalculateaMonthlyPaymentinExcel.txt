@@ -1,0 +1,78 @@
+@summary
+launch microsoft excel and open a new workbook.
+
+@summary
+save the workbook file with an appropriate and descriptive name.
+
+@summary
+create labels in cells a1 down to a4 for the variables and result of your monthly payment calculation.
+
+@summary
+enter the variables for your loan or credit card account in the cells from b1 down to b3 to create your excel formula.
+
+@summary
+select cell b4 by clicking on it.
+
+@summary
+,
+
+@summary
+click the function shortcut button at the left edge of the formula bar.
+
+@summary
+search for the "pmt" excel formula if it is not shown in the list.
+
+@summary
+,
+
+@summary
+highlight the "pmt" function and then click the "ok" button.
+
+@summary
+,
+
+@summary
+create references to the cells in which your details have been entered for each field in the "function arguments" window.
+
+@summary
+leave the "fv" and "type" fields blank in the "function arguments" window.
+
+@summary
+,
+
+@summary
+complete the process by clicking the "ok" button.
+
+@summary
+finished.
+
+@article
+;
+,
+
+
+This will help you find your work later on if you need to refer to it or make changes to the information.
+
+
+
+Type "Balance" in cell A1, "Interest rate" in cell A2 and "Periods" in cell A3.
+Type "Monthly Payment" in cell A4.
+
+
+
+The outstanding balance due will be entered in cell B1.
+The annual interest rate, divided by the number of accrual periods in a year, will be entered in cell B2. You can use an Excel formula here, such as "=.06/12" to represent 6 percent annual interest that is accrued monthly.
+The number of periods for your loan will be entered in cell B3. If you are calculating the monthly payment for a credit card, enter the number of periods as the difference in months between today and the date you would like to have your account paid in full.
+For example, if you would like to have your credit card account paid off 3 years from today, enter the number of periods as "36." Three years multiplied by 12 months per year is equal to 36.
+, It will be labeled "fx."
+
+,,,
+
+
+Click inside the "Rate" field window and then click cell B2. The "Rate" field will now pull the information from this cell.
+Repeat for the "Nper" field by clicking inside this field and then clicking cell B3 to force the number of periods to be pulled.
+Repeat once more for the "PV" field by clicking inside the field and then clicking cell B1. This will force the balance of your loan or credit card account to be pulled for the function.
+,
+
+
+Your calculated monthly payment will be shown in cell B4, next to the "Monthly Payment" label.

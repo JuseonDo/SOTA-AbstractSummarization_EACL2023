@@ -1,0 +1,28 @@
+@summary
+open wechat on your android.
+
+@summary
+open wechat on your computer.
+
+@summary
+click ☰ (on the computer).
+
+@summary
+click backup and restore.click restore on phone.
+
+@summary
+select the conversations you want to restore.
+
+@summary
+click ok.tap restore on your phone or tablet.
+
+@summary
+tap done.
+@article
+ It’s a green icon with two white speech bubbles. You’ll find it in the app drawer or on the home screen.
+
+If you’re not already signed in, enter your account information to sign in now.;
+, Be sure you’re using the computer on which you made your WeChat backup.
+
+To sign in on the computer, click Log In, then tap Enter on your phone or tablet.
+ It’s at the bottom-left corner of WeChat., Two options will appear.,, You can select all of them or just choose specific dates., This is the last step you’ll complete on the computer.,, The selected conversations are now restored from the backup you made on the computer.

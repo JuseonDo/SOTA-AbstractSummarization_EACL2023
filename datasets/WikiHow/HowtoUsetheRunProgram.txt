@@ -1,0 +1,17 @@
+@summary
+click on the green button called the "start" button and look for the program called "run..." click on it and the program will open.
+
+@summary
+decide on which link or script that you want to type with.
+
+@summary
+another way that you can run a program is to put an execution file.
+
+@summary
+ok, now you know what you need to now know about the "run!"
+@article
+;
+, Here are some examples of links like https://www.wikihow.com, or http://www.wikipedia.com but here are some examples of the scripting. If you want to check or configure your settings, type the program "MSCONFIG" and it will automatically go to the Configure Settings window.
+ To put on the iTunes execution file. You need to put itunes.exe so that the program will start up in no time! If iTunes does not open up, go to the Windows task manager and find the "itunes.exe" file. Open it up again.
+ program. There are many popular manuals that explain how to run the "Run" program in further detail. Have fun with the new program.
+

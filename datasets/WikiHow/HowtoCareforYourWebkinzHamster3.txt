@@ -1,0 +1,5 @@
+@summary
+give your hamster a friend.
+@article
+ Your hamster may get lonely without one.
+

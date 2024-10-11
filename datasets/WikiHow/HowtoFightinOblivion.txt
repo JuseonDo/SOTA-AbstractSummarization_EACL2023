@@ -1,0 +1,44 @@
+@summary
+decide what kind of fighter you want to be.
+
+@summary
+purchase a weapon (for example a sword, axe or club) and a bow equipped with arrows, although bows can be easily substituted with long range destruction spells.
+
+@summary
+poison your arrows and enchant your bow, armour and weapons if they aren't already.
+
+@summary
+roam the countryside for a creature to slay.
+
+@summary
+shoot your target, twice if you can manage.
+
+@summary
+wait for your target to reach your location and attack them first - make sure your first hit is a power attack, which is done by holding down the attack button.
+
+@summary
+,
+
+@summary
+block when the enemy counter-attacks.
+
+@summary
+strike back soon after your enemy has hit your shield whilst you were blocking as they will have been knocked back a bit, providing a perfect opening for an attack.
+
+@summary
+,
+
+@summary
+re-poise your weapon if needed to give you the upper hand.
+
+@summary
+continue to attack and counter attack and poison you weapons until your opponent is dead.
+
+@article
+ Although there are several classes to choose from, each benefiting certain types of fighting styles more than others, developing your skills will enable you to become whatever fighter you wish to be. The tutorial at the beginning will help you to decide what kind of fighting style suits you the most - be aware though, after you choose what race, class and birth sign you will be for the second time before exiting the sewers, you will not be able to change these attributes again. Fighting styles can include spell casting, using bows, swords, axes or numerous other weapons, or even no weapon at all or a mix of all. However, deciding early on what path you would like to take will help you be a better fighter later on.;
+, Poison should also be bought or preferably self-created, so that you can coat your weapons with it. Spells such as fortify strength or magika are handy to have whilst fighting also.
+ Poisoned weapons and enchantments are an effective combination.
+ Enemies tend to be more active at night, but deep forest is usually dangerous no matter what time of day it is.
+ If the enemy hasn't spotted you first, it may be advisable to sneak whilst you are shooting to give an extra attack modifier to your bow shots.
+, You may be knocked back or temporarily stunned, but usually you have enough time to block again before your opponent's next attack.
+, Try using different types of poisons depending on the situation; a heavily armed opponent can be subdued with a burden potion and a spell caster can be defeated with a silence potion, rendering them unable to cast spells.

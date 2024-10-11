@@ -1,0 +1,24 @@
+@summary
+disconnect one end of your standard usb cable.
+
+@summary
+hook the male end of the standard usb cable into the female end of the extension cable.
+
+@summary
+,
+
+@summary
+connect the male end of the extension cable to the device that is furthest away.
+@article
+ This end is typically connected to your computer. This end is called the "A" connector. The almost square end is called "B". It looks kinda like a B.;
+,, The male ends of both the standard and extension cables are interchangeable.
+
+
+USB extension cables are typically suitable to support connections that are 9.8 feet (3 m) or less in distance. Extension cables come with single and multiple USB port support, depending on your need.
+
+
+
+
+
+
+

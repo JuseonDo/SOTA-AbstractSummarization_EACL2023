@@ -1,0 +1,37 @@
+@summary
+ 
+
+@summary
+put the cd into your computer.
+
+@summary
+,
+
+@summary
+open aperture.
+
+@summary
+,
+
+@summary
+go to the import page.
+
+@summary
+change any import settings if you like, and then press "import checked".
+
+@summary
+,
+
+@summary
+wait for the photos to import all the way.
+@article
+,, Near the bottom of the screen, there will be a place to browse for where to import the images from.
+
+
+
+
+
+ KODAKCD --> PICTURES
+
+Most likely the name/type of your computer will be automatically selected, but right below that, it should say "KODAKCD". Click on this, then select "PICTURES".
+, You're now done!

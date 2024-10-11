@@ -1,0 +1,20 @@
+@summary
+make sure you're using windows 8 or 8.1.
+
+@summary
+go to the new start in windows 8 or 8.1 with the tiles.
+
+@summary
+right click an empty space on the start desktop.
+
+@summary
+once you've done that, you'll see a pop up.
+
+@summary
+once you've seen them, you can right click them to pin it to the taskbar or the start.
+
+@article
+ If you are then you are set and ready to go.;
+, There you'll see all your default apps and manually installed apps.
+ Make sure you don't click any tile and you don't cause the search device's start share to slide out. Just right click an empty space on the screen.
+ Look on the lower right corner and you'll see an icon titled All apps. Just left click it and all your Windows default apps will be displayed along with your tiles. Look through carefully and you see the CMD and RUN.

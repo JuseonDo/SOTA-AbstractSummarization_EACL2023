@@ -1,0 +1,9 @@
+@summary
+use the sleep command to make the program wait the specified number of seconds.
+
+@summary
+place the sleep command where you want to program to wait.
+@article
+ SLEEP is deprecated; if possible TIMEOUT should be used instead.
+ Add the number of seconds you want it to wait after the SLEEP command. The SLEEP command cannot be interrupted by the user.
+

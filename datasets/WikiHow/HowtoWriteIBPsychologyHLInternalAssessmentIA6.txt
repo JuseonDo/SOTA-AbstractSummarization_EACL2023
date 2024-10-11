@@ -1,0 +1,9 @@
+@summary
+person, a. & person, b.
+
+@summary
+person, c. (year).
+@article
+ (year). The title of journal entry. The name of Journal , volume-number, page-range.
+ Name of the book . Place: publisher.
+

@@ -1,0 +1,9 @@
+@summary
+look at the main impress window.
+
+@summary
+if required, remove the slides pane or tasks pane from view by clicking the x in the upper right corner.
+@article
+ The main Impress window has three parts: the Slides pane, the Workspace, and the Tasks pane. Additionally, several toolbars can be displayed or hidden during the creation of a presentation.
+ You can also show or hide these panes using View > Slide Pane or View > Task Pane.
+

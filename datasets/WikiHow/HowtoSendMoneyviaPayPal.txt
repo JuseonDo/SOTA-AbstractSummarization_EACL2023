@@ -1,0 +1,44 @@
+@summary
+log in to your paypal account and click on the "send payment" tab.
+
+@summary
+type in the email address or the mobile phone number of the person you want to send money to.
+
+@summary
+enter the amount of money you want to send, then use the scroll-down list to select your payment's currency.
+
+@summary
+select the "purchase" or "personal" tab, depending on which describes the nature of your payment.
+
+@summary
+click the "continue" button and wait for the payment review page to load.
+
+@summary
+if your paypal account balance is less than the amount of your payment, paypal will apply the balance towards the payment and take the remainder from whichever account you linked to your paypal account to as a funding source.
+
+@summary
+click "send money" at the bottom of the payment review page after you are sure all the information is accurate.
+
+@article
+;
+,
+
+
+Confirm that you have the email address or phone number correct before sending money so you don't accidentally send it to the wrong person.
+Click on the field instead of typing the information if you have sent money to this person in the past. A scroll-down list will appear that shows everyone you have recently sent money to.
+ As of 2010, PayPal does business in over 150 countries and offers 16 currency choices.
+ Further classify your purchase by selecting among the following:
+
+
+Under the purchase tab, the options are "Goods," "Services" or "eBay auction."
+Personal categories include "Gift," "Payment Owed," "Cash Advance," "Living Expenses" and "Other."
+
+,
+
+
+Read through the payment information, making sure there are no errors in the payment amount and payee information.
+If the balance of your PayPal account is great enough to cover the payment, the money will automatically come out of your PayPal account.
+
+
+
+Click "Change" on the payment review page where PayPal lists your funding source if you wish to send the money from different source. The site will then direct you to choose the credit or debit card, or other linked account, where PayPal can withdraw money.

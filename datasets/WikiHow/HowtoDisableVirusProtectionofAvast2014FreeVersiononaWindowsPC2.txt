@@ -1,0 +1,23 @@
+@summary
+open avast 2014.
+
+@summary
+click or hover your mouse over “avast!,
+
+@summary
+choose the length of time you want to disable the shield.
+
+@summary
+,
+
+@summary
+click on “yes”.
+
+@summary
+reactive all the shields at the same time.
+@article
+ Do this by right-clicking on the Avast icon on your taskbar, located on the lower-right corner of the screen, right beside the system clock.
+ Shield Controls.” This will reveal more options.
+, This will confirm your decision.
+ Repeat steps 1 and 2, and choose “Enable All Shields” to set the virus protection again.
+

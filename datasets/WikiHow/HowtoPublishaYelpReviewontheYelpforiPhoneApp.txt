@@ -1,0 +1,72 @@
+@summary
+download, install and open the yelp for iphone app from the apple appstore (if you haven't done so already).
+
+@summary
+login to your yelp account, if you haven't already done so.
+
+@summary
+,
+
+@summary
+search for the business from the search tab on the black bar at the bottom of the screen.
+
+@summary
+tap the "add review" button from the business' profile page.
+
+@summary
+,
+
+@summary
+follow the same guidelines that were suggested in write a business review on yelp, keeping in mind the locations of the buttons may be slightly off, but still on the review page.
+
+@summary
+tap the next button to get you out of the edit within the text box, which can be found at the top right corner of the screen.
+
+@summary
+,
+
+@summary
+publish your review by tapping the post button at the top right corner to publish your review.
+
+@summary
+,
+
+@summary
+tap the "close" button on the next page, to get back out to repeat the process for other companies.
+
+@article
+;
+,, Tap the when you've found the business you'd like to review and publish directly from the app.
+, Fill in the review's data, including the text review and rating.
+
+
+Tap the rating that best describes the review you are about to write, in the scale they give you (ratings range between 1 star and 5 stars). The submissions will not let the review be posted, without a rating. To help you out, as you hover over the rating box, there will be several words that will help you explain your rating. Click the star-rating you believe should best match the conditions of your upcoming review. Don't be too harsh, but be firm in your belief.
+
+
+
+
+
+
+1-star: Eek! Methinks not! (verbatim)
+2-star: Meh! I've experienced better. (verbatim)
+3-star: A-Ok.
+4-star: Yay! I'm a fan.
+5-star: Woohoo! As good as it gets!
+
+
+Don't be too easy, as there is always room for improvement.
+There have been several companies that only have 5-star ratings, but don't let the 5-star rating be the only rating you give the companies you review.
+If you have written a review for the company before, this label will now be called the "Add a Review Update" field.
+This box does have two paragraphs of example-text in this box, that, when tapped into, disappears in lieu of your response.
+Good things to think about depend on business type, but most answer the overall questions:
+
+'How was the overall experience?
+How was the atmosphere?
+Were the waiters cleanly dressed and well-mannered?
+Were the ticket booths adequately stocked?
+Were the restrooms clean?
+For transportation items (bridges and tunnel systems leading up to the business), were the road you traveled on, well maintained?
+
+
+As you read other reviews, you'll find that experienced writers get good "compliments" on these key points, as well as many other things that may not appear on the list at all.
+,,

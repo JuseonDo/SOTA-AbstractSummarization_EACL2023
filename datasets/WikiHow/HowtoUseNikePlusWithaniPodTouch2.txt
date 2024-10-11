@@ -1,0 +1,16 @@
+@summary
+navigate to the nike plus settings window in the settings app.
+
+@summary
+tap sensor.
+
+@summary
+tap "done".
+
+@article
+;
+,
+
+
+You will hear a voice saying "Walk around to activate your sensor".
+You don't need to walk about, just shake the sensor for a few seconds until "Linked to sensor" appears.

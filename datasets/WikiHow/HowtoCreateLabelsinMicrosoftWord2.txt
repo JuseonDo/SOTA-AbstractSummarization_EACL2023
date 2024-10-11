@@ -1,0 +1,48 @@
+@summary
+create your labels:
+
+@summary
+start microsoft word.
+
+@summary
+type and format the content of your labels:
+
+@summary
+turn on table gridlines (borders) so that you can see the outline of your labels: from the table menu, choose show gridlines.
+
+@summary
+duplicate information (text and/or photos) copy and paste:
+
+@summary
+select and highlight the text and/or photos you want to duplicate.
+
+@summary
+save your labels:
+
+@summary
+from the file menu, select save.
+
+@summary
+preview your labels:
+
+@summary
+from the file menu, select print preview.
+@article
+
+Click the New Document button.
+From the Tools menu, select Envelopes and Labels.
+Select the Labels tab, click Options, select the type of labels you want to create and then click OK. Click on "new document" button.
+You will need to select the Avery ® template located on the product page of the item that you have. If there is not an Avery ® template available for the configuration you will have to setup a custom template.
+To create a new template click on the "new label" button and then type in your label dimension then select OK.
+
+If you’re creating a page of labels that will all look the same, type and format one label, then use copy and paste to create the rest of the labels (see step 3 for details on copy and paste).
+
+From the Edit menu, select Copy.
+Place your cursor in a label where you want to place the information.
+From the Edit menu, select Paste.
+
+In the Save As window, locate and open the folder where you want to save the labels. Type a name for your labels, then click Save.
+
+Click the Print Preview button.
+When you are done previewing, click Close to close the preview window.
+

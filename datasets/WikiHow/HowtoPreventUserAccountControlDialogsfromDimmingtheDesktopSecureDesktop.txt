@@ -1,0 +1,21 @@
+@summary
+recognize that the following option is only available to users running either windows 7, 8 or 8.1.
+
+@summary
+open the start menu.
+
+@summary
+open the user account control settings.
+
+@summary
+disable desktop dimming.
+
+@summary
+allow the settings change to occur.
+@article
+ Windows Vista users do not have to option to disable desktop dimming.
+ Click the Start button.
+ Type User Account Control to search for User Account Control and click the first result, which will open Control Panel.
+ In Control Panel, drag the slider to the second level and click OK.
+ In the User Account Control dialog that appears, click Yes.
+

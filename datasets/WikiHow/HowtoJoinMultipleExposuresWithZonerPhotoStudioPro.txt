@@ -1,0 +1,95 @@
+@summary
+take the pictures that you want to stitch.
+
+@summary
+open up zoner in the manager tab and select the images that you want to use.
+
+@summary
+,
+
+@summary
+select the images for your stitch.
+
+@summary
+click on create >> join multi-exposures.
+
+@summary
+choose your source pictures.
+
+@summary
+try different images.
+
+@summary
+select the pictures that you want to use and select create >> join multi-exposures >> moving objects....
+
+@summary
+you will be using it to include multiple copies of a moving object.
+
+@summary
+also align pictures by adding “nodes” by hand.
+
+@summary
+once you have your pictures aligned, click next to the following option.
+
+@summary
+you want to be sure that it includes all copies of the moving object instead of removing it completely.
+
+@summary
+now click next to make the program create the final picture at full size and save it or open it in the editor.
+
+@summary
+,
+
+@summary
+if you didn't use a tripod, you are liable to have 'ghosts' in the image.
+
+@summary
+,
+
+@summary
+to get rid of the ghosts, click the button with a rectangle icon and the bubble tip "manually correct regions in the picture".
+
+@summary
+select the particular rectangular area in the picture to work with, and then click the version of that area, out of all the versions in your source pictures, that the program should use for the final picture.
+
+@summary
+,
+
+@summary
+select next and wait for zoner to process your photographs.
+
+@article
+ Either use a tripod or be sure your hands are VERY steady.
+
+
+
+ 
+
+
+Be sure that your exposure doesn't change. You will be able to see that in the final result. Find out if there is a way to lock the exposure. Usually called Exposure Lock or something similar.
+Take a burst of photographs to show an action. You will need to have your camera on its sport mode, or have your shutter speed moving pretty fast.;
+,, You want to make sure that they don't overlap each other as far as subject matter goes.
+ From there, select what you want to do. Your choices are as follows:
+
+
+Remove Noise...
+Remove Moving Objects...
+Align Pictures.
+ You don't want to pick every one. Even though you have already done this, you are offered the opportunity to change your selection if you need to. Click Next.
+
+
+The software will work on aligning the images. If they can't be aligned, you will get a message on the screen telling you so.
+ If all of the images don't work, try removing one of the selections. Keep doing this until you have tried all the combinations.
+
+
+Be aware that sometimes, you won't be able to line up the images just right.
+ If you didn’t take the shots from a tripod, the wizard will try to align them so they’re not tilted relative to each other. Without this, they can’t be joined together.
+In case of problems (your pictures have differing dimensions, alignment fails, etc.), take another look at your choice of source pictures and make sure that you did not include a picture from another series by mistake.
+ The column running along the left side of the wizard shows the set of source pictures being used. The first one in the set is the baseline against which others are compared. To fine-tune alignment, click one of the remaining pictures and then the Edit Shared Points button. The pictures are displayed beside each other and colored squares are shown atop them, marking the shared points detected on the two photographs. Click and move them, if needed, on each picture in the set.
+
+
+If you didn't get the shots right the first time, don't fret. Get out there and it again until you get it right. Try slower moving objects instead.
+ The program does the work automatically.
+ To do this, turn on Duplicate objects. If you had a steady hand when you took the pictures, there should be no overlap between the images (from a wobbly camera).
+,, The cursor changes to a crosshairs.
+,

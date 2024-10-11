@@ -1,0 +1,20 @@
+@summary
+obtain an hdmi cable.
+
+@summary
+connect the hdmi cable.turn on your tv
+
+@summary
+,
+
+@summary
+select the input to hdmi.
+@article
+ All new HDTVs have an HDMI port. Mac Minis made in 2010 or later have an HDMI port.;
+, Be sure to connect it to both ports!
+
+,, If you have multiple HDMIs, then you should select the the option matching the port you plugged the cable into.
+
+
+There you have it! You have your Mac Mini on TV!
+

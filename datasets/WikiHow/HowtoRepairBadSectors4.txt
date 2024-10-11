@@ -1,0 +1,49 @@
+@summary
+move the mouse cursor to the upper-right corner of the screen, move the mouse pointer, and then click search.if you're using the touch interface, swipe in from the right edge of the screen, and then touch search.
+
+@summary
+in the search field, type this pc, and then click or touch this pc.
+
+@summary
+,
+
+@summary
+right-click the drive you want to repair, and then click properties.
+
+@summary
+select the tools tab.
+
+@summary
+,
+
+@summary
+under error checking, click or touch check.
+
+@summary
+review the scan results.
+
+@summary
+click scan and repair drive.
+
+@summary
+,
+
+@summary
+choose when to repair the file system.
+
+@summary
+wait for windows to scan and repair the hard drive sectors.
+@article
+
+For these steps to work, you will probably need an admin account and password.
+,
+
+
+If you're using touch, press and hold the drive you want to repair, and then touch Properties.
+,
+
+
+You may be asked for an admin password. Enter your admin password. If you don't have one, contact the person who has the admin account.
+ The error checking scan will tell you either that there are errors or there aren't errors. You can still repair the drive, even if there are no errors, but you don't need to.,, In the Restart your computer to repair file system errors dialog box, click Schedule on next restart to repair your hard drive the next time you start the computer. Click Restart to repair the hard drive now.
+ Do not try to use your computer or interrupt the sector scan while it's happening.
+

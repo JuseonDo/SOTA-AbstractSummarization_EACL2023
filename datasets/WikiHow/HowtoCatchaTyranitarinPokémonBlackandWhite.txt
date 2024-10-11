@@ -1,0 +1,23 @@
+@summary
+beat the elite 4, then beat ghetsis.
+
+@summary
+go to route 15.
+
+@summary
+go to an area of grass.
+
+@summary
+,
+
+@summary
+run in that area until there's a patch of shaking grass.
+
+@summary
+go into the patch of shaking grass, and you'll encounter a wild pokémon.
+@article
+ You need to beat this part of the game before doing anything else.;
+, It's located east of Nimbasa City.
+, If it's not at the tip of the grass, use a Repel to avoid running into another wild Pokémon.
+ If it's a Tyranitar, catch it. If not, repeat steps 3 and 4 until you find one.
+

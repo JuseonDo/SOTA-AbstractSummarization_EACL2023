@@ -1,0 +1,42 @@
+@summary
+use this method if you have vlc player installed on your computer.
+
+@summary
+copy the url of the video you want to download.
+
+@summary
+open vlc player.
+
+@summary
+click the "media" menu and select "open network stream.",
+
+@summary
+paste the youtube video's url into the field.
+
+@summary
+click "play" to start streaming the video.
+
+@summary
+click "tools" and select "codec information.",
+
+@summary
+right-click the text in the "location" field at the bottom and click "select all.",
+
+@summary
+copy the selected text.
+
+@summary
+open a new browser tab and paste the copied text.
+
+@summary
+right-click the video in your browser and select "save video as.",
+
+@summary
+give the video a name and select a location.
+
+@summary
+save the video.
+@article
+ VLC Player is a popular media player, and there's a good chance that you already have it installed. You can use VLC Player to access the actual video file on YouTube's servers, allowing you to download it directly to your computer.You can install VLC Player for free from videolan.org. The program is open-source and free, and no one profits from you installing it.
+This method is recommended if you don't want to have to deal with ads, extensions, or the command line. The video will also download in the highest possible quality.
+ Go to the YouTube website and copy the address of the video you want to download. Make sure to copy the entire URL., Once you have the URL copied, launch VLC Player., This will open a new window., Make sure the entire URL got copied., The video will begin playing in VLC., You can also press Ctrl/⌘ Command+J., This will select everything in the field., Either right-click the selection and choose "Copy," or press Ctrl/⌘ Command+C., This will load the video directly in your browser., This will open the Save As window., By default, video will be named "videoplayback." You can change this to whatever you'd like and select where you want to save it., The video will be downloaded to your computer at the highest quality and saved to the location you specified.

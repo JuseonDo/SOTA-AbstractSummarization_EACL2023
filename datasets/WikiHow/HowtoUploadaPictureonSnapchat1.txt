@@ -1,0 +1,36 @@
+@summary
+open snapchat.
+
+@summary
+tap the chat button.
+
+@summary
+tap the chat you want to share a picture to.
+
+@summary
+,
+
+@summary
+tap the photo icon.
+
+@summary
+tap the photo you want to share.
+
+@summary
+tap edit (optional).
+
+@summary
+tap the send button.
+@article
+ If prompted, enter your username and password and tap Sign in.;
+, This is the chat bubble in the lower left corner.
+
+
+You can also swipe right on the screen to access this page.
+, This is to the left, below the text field.
+ You can select more than one photo to share at once.
+ You can add text, stickers, or draw on your photos.
+
+
+If you select multiple photos at once to share, you cannot use the Edit option., This is the blue arrow in the lower right corner. This will share your photo(s) and any edits you made to the selected chat.
+

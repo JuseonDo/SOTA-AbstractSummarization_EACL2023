@@ -1,0 +1,61 @@
+@summary
+assume for the purposes of this tutorial that you're trying to find a new icon for the "imovie" icon.
+
+@summary
+go to the search bar.
+
+@summary
+click enter.
+
+@summary
+drag the icon onto your desktop.
+
+@summary
+,
+
+@summary
+click on the desktop photo of the icon.
+
+@summary
+click on the solid background of the chosen icon.
+
+@summary
+click on command, a.
+
+@summary
+click on command, c. this will copy the image.
+
+@summary
+,
+
+@summary
+go to your spotlight facility.
+
+@summary
+click on the icon's original picture.
+
+@summary
+quit out of the app.
+
+@summary
+,
+
+@summary
+click on it again to see the new image appear.
+@article
+;
+, Type in "iMovie Icons" (or whatever the name of the icon you wish to change is, such as "iPhoto Icons", or "Photo Booth icons," and so on.
+ Browse through all of the icon choices.
+, Go to the "Instant Alfa" Tool. This tool allows your icon to have a solid background, so that it can float.
+ Once you have a red surface on top of the blank solid background, click Enter, and then "Convert".
+ This will select all of the icon.
+, Search and type in the icon by typing in "iMovie". Do not click on it.
+
+
+While your mouse is hovering over the highlighted blue app, click on Command, I, which will send it to the information about the icon.
+ Press Command, V, which will paste the new image on.
+,
+
+
+It might not appear on the first time, so just keep quitting and re-opening the icon.
+

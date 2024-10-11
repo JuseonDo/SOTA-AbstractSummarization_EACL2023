@@ -1,0 +1,78 @@
+@summary
+open your iphone’s settings.
+
+@summary
+scroll down and tap icloud.
+
+@summary
+tap on your apple id.
+
+@summary
+sign in with your apple id account if prompted.
+
+@summary
+,
+
+@summary
+tap contact information.
+
+@summary
+tap birthday.
+
+@summary
+answer the two security questions and tap verify if prompted.
+
+@summary
+,
+
+@summary
+tap birthday.
+
+@summary
+,
+
+@summary
+select a new birth month, date and/or year.
+
+@summary
+,
+
+@summary
+tap done.
+
+@summary
+press the home button.
+
+@summary
+tap on the mail icon.
+
+@summary
+tap inbox on the upper left if you don't see it.
+
+@summary
+,
+
+@summary
+tap the email from apple.
+
+@summary
+make sure the email confirms you made a change to your apple id birthday.
+
+@article
+ It’s the app showing a gray cog that can be found on one of your home screens.
+
+
+Settings may also be in a folder labeled “Utilities.”;
+, It’s in the fourth set of menu options.
+ It’s at the top of your screen.
+, It’s the first option below your Apple ID.
+ It’s located near the middle of your screen.
+,,, It’s in the upper-right hand corner. Your Apple ID birthday has been updated.
+ It's the big circle button at the bottom of your phone screen.
+ It's one of the apps on the bottom row of your phone screen.
+
+
+Note, if your primary Apple ID email account is not your iPhone's default Mail account, tap Settings+Mail, Contacts, Calendars + your primary Apple ID email account.
+, It should have been sent right after you changed your Apple ID birthday. The subject line should read: "Your Apple ID Information has been updated."
+
+,

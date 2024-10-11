@@ -1,0 +1,10 @@
+@summary
+make sure your xbox one is on.
+
+@summary
+press the eject button.
+@article
+
+
+You can either turn on the Xbox One by pressing the Xbox logo button on a wireless controller, or by pressing the Xbox logo button on the far right side of the console.;
+, The eject button on an Xbox One console is located on the right side of the disc slot. Doing so should eject the disc inside the console.

@@ -1,0 +1,43 @@
+@summary
+go to the articles for deletion page.
+
+@summary
+click the link at the top of the page to go to the day's articles for deletion log.
+
+@summary
+,
+
+@summary
+scroll down to the discussion you want to participate in.
+
+@summary
+,
+
+@summary
+click on "edit" at the side of the article's name.
+
+@summary
+,
+
+@summary
+make your comment below the most recent one.
+
+@summary
+preview your comment to make sure there's no errors.
+
+@summary
+,
+
+@summary
+write an edit summary so that other users know what your edit is doing.
+
+@summary
+,
+
+@summary
+click on "save page" to post your comment.
+
+@article
+;
+,,,, Include what you want the result to be (delete, keep, etc.) and why you want it to happen. For example, you could want an article about a film to be deleted because it doesn't meet the site's notability guidelines for films. In addition to delete and keep, you can also vote for other outcomes such as redirecting the article to another one, merging the article to another one, having the article be speedy deleted or speedy kept (if it's obvious the article shouldn't be deleted and the discussion should be ended early), or moving the article to user space. Make sure to sign your comment with four tildes (~).
+,,

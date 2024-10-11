@@ -1,0 +1,37 @@
+@summary
+open your android's settings.
+
+@summary
+scroll down and tap personalization.
+
+@summary
+tap fingerprint scanner.
+
+@summary
+tap fingerprint manager.
+
+@summary
+tap ok.
+
+@summary
+swipe your finger across the home button.
+
+@summary
+tap ok when prompted.
+
+@summary
+tap fingerprint.
+@article
+ The Settings app is a grey, gear-shaped icon that you'll likely find in the App Drawer.
+ This option is near the middle of the page.
+ It's a blue icon with a white fingerprint image on it.
+ This option is near the top of the screen.
+ It's at the bottom of the screen.
+ The Home button is at the bottom of the screen. As you swipe, you should see the bar in the middle of the screen fill up.You'll have to swipe your finger a minimum of eight times.
+ Doing so will take you to the "Screen lock" page.
+
+
+You may first be prompted to enter a backup password or PIN to ensure that you don't get locked out of your device. If so, enter a password or PIN twice to continue.
+If the "Screen lock" page doesn't open, tap Screen lock.
+ This option sets your fingerprint as your Samsung Galaxy's default unlock option.
+

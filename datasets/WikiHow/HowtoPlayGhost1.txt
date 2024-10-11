@@ -1,0 +1,16 @@
+@summary
+get a paper and a pencil.
+
+@summary
+pick some random word, and you say the first letter.
+
+@summary
+catch their mistakes.
+
+@summary
+have fun and get great!
+
+@article
+;
+, Then have your opponent say the next letter. It goes back and forth like that. Whoever finishes the word first loses that word. Say, "Ghost!" When someone finishes the word. You get a point when your opponent finishes the word.
+ like, "To".

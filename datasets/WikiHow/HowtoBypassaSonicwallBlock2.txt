@@ -1,0 +1,26 @@
+@summary
+visit the google translate page.
+
+@summary
+copy and paste the blocked url into the left box.
+
+@summary
+,
+
+@summary
+select "english" (or your preferred language) above the right box.
+
+@summary
+click "translate".
+@article
+ Visit translate.google.com.
+
+
+If Google Translate is blocked, try another translation service such as Babelfish.
+, Make sure that the language over the left box is not set to the same language, or you will get an error.
+ The website will load in a Google Translate window.
+
+
+You will not be able to log into secure sites using this method.
+Translate services may be blocked.
+

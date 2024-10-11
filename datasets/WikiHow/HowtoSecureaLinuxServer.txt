@@ -1,0 +1,74 @@
+@summary
+learn to use linux from the shell (command line).
+
+@summary
+using lsof or a similar tool, find out on which ports your computer is listening for connections:
+
+@summary
+ns003:~# lsof -i
+
+@summary
+command pid user fd type device size node name
+
+@summary
+named 17829 root 4u ipv6 12689530 udp *:34327
+
+@summary
+named 17829 root 6u ipv4 12689531 udp *:34329
+
+@summary
+named 17829 root 20u ipv4 12689526 udp ns003.unternet.net:domain
+
+@summary
+named 17829 root 21u ipv4 12689527 tcp ns003.unternet.net:domain (listen)
+
+@summary
+named 17829 root 22u ipv4 12689528 udp 209.40.205.146:domain
+
+@summary
+named 17829 root 23u ipv4 12689529 tcp 209.40.205.146:domain (listen)
+
+@summary
+lighttpd 17841 www-data 4u ipv4 12689564 tcp *:www (listen)
+
+@summary
+sshd 17860 root 3u ipv6 12689580 tcp *:ssh (listen)
+
+@summary
+sshd 17880 root 3u ipv6 12689629 tcp *:8899 (listen)
+
+@summary
+sshd 30435 root 4u ipv6 74368139 tcp 209.40.205.146:8899->dsl-189-130-12-20.prod-infinitum.com.mx:3262 (established)
+
+@summary
+,
+
+@summary
+if in doubt, hack it out!,
+
+@summary
+don't allow root logins on your primary sshd port 22 (set permitrootlogin to "no"); many automated tools run brute-force attacks on that.
+@article
+ Every layer of software added on to make your system administration "easier" actually adds more methods for crackers to gain access to your machine and also reduces performance. All the further steps will assume your familiarity with using a shell.;
+,, Shut down any unknown or unneeded services, using the appropriate tools for your Linux distribution, such as update-rc.d on Debian systems, or in some cases editing the /etc/inetd.conf or /etc/xinetd.d/* files. Along with this, get rid of any tools your server provider added for system administration, such as Plesk.
+ Set up a secondary port for root access that only works by shared keys, disallowing passwords:
+
+Copy the sshd_config file to root_sshd_config, and change the following items in the new file:
+
+
+Port from 22 to some other number, say 8899 (don't use this! make up your own!)
+
+PermitRootLogin from "no" (you were supposed to set it to "no" for port 22, remember?) to "yes"
+
+AllowUsers root add this line, or if it exists, change it to allow only root logins on this port
+
+Challenge Response Authentication no uncomment this line if it's commented out, and make sure it says "no" instead of "yes"
+
+
+Test this command: 
+sshd -D -f /etc/ssh/root_sshd_config and see if it works correctly -- try logging in from another computer (you must have already set up shared-key authentication between the two computers) using: 
+ssh -p8899 root@my.remote.serverand if so, control-C at the above (sshd) command to stop the sshd daemon, then add this to the end of /etc/inittab: 
+rssh:2345:respawn:sshd -D -f /etc/ssh/root_sshd_config
+
+Restart the init task: # init q This will run your "root ssh daemon" as a background task, automatically restarting it in case of failure.
+

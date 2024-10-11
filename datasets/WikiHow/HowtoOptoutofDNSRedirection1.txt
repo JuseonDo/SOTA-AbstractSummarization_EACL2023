@@ -1,0 +1,9 @@
+@summary
+run a recently updated spyware utility and remove any spyware that is detected.
+
+@summary
+if the problem persists, and cannot be attributed to any spyware problem on your end, then it is likely coming from your isp.
+@article
+ This behaviour is sufficiently similar to that of several spyware programs that it is worth confirming whether it is coming from locally installed malware or your ISP.
+ There are several solutions listed below. The best solution depends on your ISP, your needs, and your technological aptitude.
+

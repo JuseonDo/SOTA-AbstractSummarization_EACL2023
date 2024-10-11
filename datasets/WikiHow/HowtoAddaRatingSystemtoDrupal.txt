@@ -1,0 +1,33 @@
+@summary
+download the jrating module from from the drupal website.
+
+@summary
+download the votingapi and views modules.
+
+@summary
+extract these files to your drupal modules directory.
+
+@summary
+,
+
+@summary
+install the modules in the admin/modules section of drupal.
+
+@summary
+,
+
+@summary
+navigate to admin/settings/content-types.
+
+@summary
+navigate to admin/access.
+
+@summary
+navigate to admin/settings/jrating.
+@article
+ Select the version that is appropriate for your version of Drupal.;
+, You will need these to ensure that jRating works correctly. Again, select the respective files for your version of Drupal.
+,, Configure whether the rating form should be displayed for each content type.
+ Set which roles should be allowed to rate content.
+ Set whether the rating form should be displayed for teasers, whether it should be displayed for anonymous users, and whether to display the average rating.
+

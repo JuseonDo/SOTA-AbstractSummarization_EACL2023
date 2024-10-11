@@ -1,0 +1,12 @@
+@summary
+go to click2mail.comand click on 'create account'.
+
+@summary
+choose what you want to mail.
+
+@summary
+create a list.
+@article
+;
+, Click2Mail has postcard, letter, flier, booklet, or certified mail templates to use.
+ If you have a mailing list that you want to send to, use Click2Mail to create, or contact them if you need one.

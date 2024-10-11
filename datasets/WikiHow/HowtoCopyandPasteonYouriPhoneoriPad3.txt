@@ -1,0 +1,19 @@
+@summary
+tap and hold on a picture.
+
+@summary
+tap copy.
+
+@summary
+tap and hold the location where you want to paste the image.
+
+@summary
+tap paste.
+@article
+ The picture can be from a message you received, a website, or a document. Doing so opens a pop-up menu.
+ If the image can be copied, Copy will be one of the menu options.
+
+
+Images from many websites, documents, and social media apps can be copied, but not always.
+ Do so in an app that allows you to paste images, such as Messages, Mail, or Notes.
+ Now you've pasted the copied image into the selected location.

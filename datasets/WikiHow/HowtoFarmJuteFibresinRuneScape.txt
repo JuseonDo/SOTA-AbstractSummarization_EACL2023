@@ -1,0 +1,35 @@
+@summary
+acquire a level 13 farming.
+
+@summary
+travel to one of the hops patches.
+
+@summary
+rake the patch.
+
+@summary
+add compost to the patch.
+
+@summary
+plant 3 jute seeds.
+
+@summary
+water the patch, when needed.
+
+@summary
+harvest the jute fibres after 50 minutes of planting.
+
+@article
+;
+,
+
+
+North of Lumbridge's farm
+Yanille
+North of McGrubor's Woods
+Entrana (make sure you bank any weapons/armour prior to travelling)
+
+, Allow your character to rake all the weeds out of the patch.
+ Supercompost achieves a higher successful yield and helps the item from plant disease.
+ Use the seeds from your inventory on the treated patch.
+ Use a watering can on the patch during the growth intervals (10 minutes each).

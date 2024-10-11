@@ -1,0 +1,31 @@
+@summary
+make sure find my iphone is turned on.
+
+@summary
+sign into find my iphone.
+
+@summary
+,
+
+@summary
+click all devices.
+
+@summary
+,
+
+@summary
+click on your phone that should appear in the drop down list.
+
+@summary
+,
+
+@summary
+turn on lost mode or lock.
+
+@summary
+erase your cards.
+@article
+ This must be done from your phone, so it is best to double check when you set up Apple Pay. To do this, go to Settings --> iCloud --> Find My iPhone and make sure that it is on.;
+,,,, This will prevent people from being able to use Apple Pay with your phone.
+ If you do not expect to be able to get your phone back, go to iCloud settings and choose Remove all Cards.
+

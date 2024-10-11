@@ -1,0 +1,24 @@
+@summary
+find a nice area to build in.
+
+@summary
+lay down a half slab.
+
+@summary
+place redstone torches around the slab.
+
+@summary
+splash a mundane potion on the contraption.
+
+@summary
+drop the sand on the slab.
+@article
+ The elimination of passive mobs is unnecessary.;
+, Wooden is best, but stone will do fine.
+ It must be a direct touch. Diagonal will not work in PE.
+
+
+The slab needs this power charge to float the sand.
+ This is the potion to make things float.
+ Remove the torches and the sand will float.
+

@@ -1,0 +1,28 @@
+@summary
+decide what you are looking for.
+
+@summary
+search for what you need on a search engine.
+
+@summary
+filter the search results.
+
+@summary
+if you want only downloadable study material, you need to include the keyword "download" in your search query.
+
+@summary
+if you want an answer for a particular question or doubt, you can review websites like quora or yahoo answers.
+
+@summary
+you can either read online on the website or can download the material to read it on your personal smartphone or tablet.
+
+@article
+ Is it a book you want to download or just some kind of information on a particular topic or answer for a particular question? Your search query depends on what you need.;
+, Search results depend on the keywords you use in search query.
+
+
+If you are looking for a pdf book, you can use the operator filetype:pdf along with your keywords.
+If you want information from a particular site like wikipedia, you can use operator site:wikipedia.org along with the keywords.
+ For example, if you search for "aptitude study online", you will see websites who may provide aptitude online study material. The top ranked website will most likely be the best. If you find your desired study material or information there, you can read further. If not, you can browse other search results.
+ It will show only websites, which allow users to download study material.
+ There are also many online forums, which can help you in this.

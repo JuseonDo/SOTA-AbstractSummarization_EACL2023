@@ -1,0 +1,23 @@
+@summary
+open a new microsoft word document.
+
+@summary
+on the toolbar, click on tools > language > set language.
+
+@summary
+scroll down to the spanish languages.
+
+@summary
+determine which accented character you need.
+
+@summary
+,
+
+@summary
+type a spanish word that has an accent in it.
+@article
+;
+, A box pops up.
+ There are several options to choose from, depending on what country's dialect you are using. Click on the one that applies.
+, Microsoft Word should automatically change the word to include an accent, or underline the word and suggest an included accent. (See Tips.) Once the accented character appears, simply copy and paste it into your Spanish text.
+

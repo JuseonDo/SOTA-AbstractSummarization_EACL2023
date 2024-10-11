@@ -1,0 +1,25 @@
+@summary
+loosen the 13/16" locking nut on the bottom of the jet assembly with a deep well spark plug socket wrench.
+
+@summary
+,get out your 5/8” socket and unscrew the mixture nut just below it.pull out the jet and remove the mixture tension spring.
+
+@summary
+replace the mixture nut and the jet.
+
+@summary
+remove the two securing screws on the piston cap, because it can bind the piston.
+
+@summary
+seat the needle in the piston so that its shoulder is flush with the piston body.
+
+@summary
+place the piston cap on, don’t forget the spring.
+
+@summary
+back off the mixture screw, pull out the jet, noting its orientation, and replace the tension spring, mixture nut and then push in the jet.
+
+@summary
+screw the mixture nut up tight then back it out 12 flats or two turns.
+@article
+,,, Screw the nut up as far as it will go and push up the jet as far as it will go. You are now ready to center the jet., Notice that it will fit by rotating it 180 degrees. The cap will also fit on either carburetor. If you get them mixed up, this will also be a factor in whether the piston rides freely. That is if they were centered correctly before you pulled your carbs apart., Screw it down tight. Place the piston in its keyed passageway. Check to see if it is sliding freely and drops with the ‘click’., Seat it and press down on the top of the cap. Lift the piston and drop it. Click? Probably not. You can rotate the cap and the jet or try the other cap till you get the click. Start tightening down the mixture assembly 13/16’ locking nut along with the piston cap screws, continuously checking for the almighty click. Thoroughly cleaning carbs and shining the inside of the piston cap will do you no harm., Again, check for the click., You are now ready to begin setting up your carbs.

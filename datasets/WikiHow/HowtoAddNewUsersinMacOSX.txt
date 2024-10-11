@@ -1,0 +1,47 @@
+@summary
+open system preferences, either from the dock or the apple menu, then click the accounts icon to display the accounts pane.
+
+@summary
+click the new user button.
+
+@summary
+click the new account pop-up menu and specify the account level status.
+
+@summary
+type the name you want to display for this account in the name text box.
+
+@summary
+click create account.
+
+@article
+;
+, It looks like a plus sign at the bottom of the accounts list next to a minus sign.
+
+
+If the New User button is greyed out, your Accounts pane is locked.
+
+
+
+
+
+
+Click the padlock icon to make changes to the Accounts pane.
+
+
+
+
+
+
+When your mac asks you for your admin account password, enter it.
+
+
+
+
+
+
+Click OK.
+
+
+
+Choose from Administrator, Standard, or Managed with parental controls.
+ Press Tab to move on to the next field.

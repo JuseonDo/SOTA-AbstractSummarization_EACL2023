@@ -1,0 +1,41 @@
+@summary
+remove the center and rear dash sections.
+
+@summary
+if you have a vag-com tool, now would be a good time to check if your blower motor and various temp/position flaps are functioning.
+
+@summary
+you may notice debris on the passenger side carpet once the glove box comes out.
+
+@summary
+,
+
+@summary
+these came from the recirculation flap located above glovebox.
+
+@summary
+disconnect the left/right footwell vents as well as the rubber center section from the airbox.
+
+@summary
+,
+
+@summary
+driver side footwell duct.
+
+@summary
+now that the heater box is free from the interior ducting, it can be removed.
+
+@summary
+the heater core is located inside this box.
+
+@summary
+this is the heater core inlet/outlet.
+
+@summary
+heater box disassembled.
+
+@summary
+old heater core out.
+@article
+ The entire dash does not need to come out. Simply remove the center consoles, the driver side lower panel, and the glovebox. This will expose the ducts that need to be separated from the airbox.
+ Go to the HVAC control section of the VAG-Com software and run a full test. You should hear the various flaps and motors working.,, Now is a great time to clean it out. Open the flap by hand and clean out any debris. Mine was clogged full of leaves and Kleenex.,, these just snap out., I used a few broom sticks to slowly pry the box out. Be sure to remove all wiring, vac lines, and the large hose clamp holding the rubber sleeve on., Remove all the screws and clips. Many screws are hidden, so be careful, and don't force anything., Remove all the sealant before removing the core. Use 100% silicone when re-sealing the new core., Clean it out before reassembly. Now would be a great time to replace the blower motor. These fail often, and you don't want to repeat this job., Re-assemble. See note warnings section.

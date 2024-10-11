@@ -1,0 +1,21 @@
+@summary
+arrange all the players except one on chairs or a bench.
+
+@summary
+start the game.
+
+@summary
+describe the statue pose.
+
+@summary
+stay still!,
+
+@summary
+choose the winner.
+@article
+ The player not seated is the leader and she stands on the floor in front of the other players.;
+, Beginning at one end of the row, she pulls each player from the bench, letting her remain in whatever position she falls.
+ Sometimes the leader can tell the other players how to pose, for instance, she will say "Like an angel," and that player will fold her hands and look upward. Another might be "cross school-teacher," and this player may pretend to be scolding someone.
+ Each player remains perfectly still, posed in the attitude suggested, until all the players are on the floor.
+ Have the leader select the player she thinks has posed the best and that one takes the leader's place and the game goes on as before.
+

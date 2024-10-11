@@ -1,0 +1,20 @@
+@summary
+open the start menu and click on the user name for the user account being used.
+
+@summary
+,
+
+@summary
+click "home group," located in the column on the left, to open the list computers installed on the network.
+
+@summary
+,
+
+@summary
+open the shared files folder.
+@article
+,, Click on the account name assigned to the computer containing the files sought to open the shared files folder. If the correct permissions have been assigned and file sharing is enabled on the network, access to the files will be granted.
+
+
+Contact the network administrator to resolve issues with accessing shared files and folders on a networked computer.
+

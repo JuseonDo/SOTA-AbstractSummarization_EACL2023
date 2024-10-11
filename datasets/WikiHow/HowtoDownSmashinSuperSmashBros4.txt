@@ -1,0 +1,9 @@
+@summary
+wait until your opponent is up in the air.
+
+@summary
+follow their di and hold shield below where they will land.
+@article
+ When an opponent is knocked into the air, their highest priority is to land back on the ground. A down smash is one of the best options to punish a bad landing.
+ Punish a poor or unsafe landing with a down smash.
+

@@ -1,0 +1,25 @@
+@summary
+make sure the ink cartridge is empty.
+
+@summary
+follow manufacturer's directions to remove the canon ink jet cartridge.
+
+@summary
+,
+
+@summary
+look to see if the ink reservoir is empty.
+
+@summary
+if the cartridge is empty, refill the canon ink jet cartridge.
+
+@article
+
+
+
+Many Canon ink jet cartridges have an electronic device that counts down with every character printed.
+When the counter reaches 0, you will get an error message on your printer.;
+,,
+
+
+If there is still ink in the reservoir, reinstall the cartridge, and when you receive another error message, push the "OK" button to continue printing.

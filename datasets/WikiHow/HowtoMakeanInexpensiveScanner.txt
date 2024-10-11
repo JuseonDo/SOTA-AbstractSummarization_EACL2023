@@ -1,0 +1,50 @@
+@summary
+take a sheet and divide it into four equal parts.
+
+@summary
+call each part a column and insert light bulbs into each column.
+
+@summary
+,
+
+@summary
+place a hard, transparent sheet.
+
+@summary
+place your paper to be scanned.
+
+@summary
+,
+
+@summary
+grab the double convex lenses and stick all four of them in a sheet, as shown in the diagram.
+
+@summary
+,
+
+@summary
+have 5 motors, a rubber wheel and its circular track, wires and set up as shown in diagram.
+
+@summary
+,
+
+@summary
+make a holder.
+
+@summary
+if you want to scan a paper, you will have to insert the paper inside and rotate the dial completely.
+
+@summary
+cover your scanner and decorate it.
+
+@summary
+connect your camera to pc either by data cable or through bluetooth.
+
+@summary
+when you want to scan a paper, just switch on the bottom bulbs, insert the paper,adjust the focus and rotate the dial.
+@article
+;
+,, For example: a glass sheet.
+,,, As soon as your camera will move along with your motor, it will stop for a moment at each viewing point in order to take picture. Then, after pressing the button (which captures each picture), it will proceed to next site.
+ Stick a little conductor at the starting site of dialer (at its resting position) and it will conduct to the touching arc of wire (as seen in circuit)., Mark the area where your screen of camera can be seen (only at its resting position; refer to diagram) to check if focus is acceptable., It is recommended that you use Bluetooth as it is wireless and easy. However ,data cable may have better connectivity. It doesn’t suit here, as then you will have to make way for your cable to move along camera and also prevent from making of knots of the cable!, After scanning, four equal images of the paper will be sent to PC. Then you will have to arrange all the four images and combine them in a picture editing software. Your scanner is ready.
+

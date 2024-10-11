@@ -1,0 +1,27 @@
+@summary
+launch prison architect.
+
+@summary
+once the game has started, open up the 'main menu.',
+
+@summary
+select 'options.
+
+@summary
+,
+
+@summary
+select 'game.',
+
+@summary
+edit the frequency.
+
+@summary
+click the 'apply' button to save your changes.
+
+@article
+ You can use the shortcut on your desktop, launch it via Steam, or however you usually start up the game.;
+, You can usually open it by using the Esc button on your keyboard.
+,
+
+, You can put in 5 minutes, or even 50 minutes! The default setting is every 10 minutes.

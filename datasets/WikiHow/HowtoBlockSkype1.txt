@@ -1,0 +1,63 @@
+@summary
+open the control panel.
+
+@summary
+select "system and security" and then "windows firewall".
+
+@summary
+click the "advanced settings" link in the left frame.
+
+@summary
+select the "outbound rules" in the left frame.
+
+@summary
+,
+
+@summary
+click "new rule..." in the right frame.
+
+@summary
+,
+
+@summary
+select "program" and click .next >.
+
+@summary
+,
+
+@summary
+click .browse... to search for the skype program.
+
+@summary
+,
+
+@summary
+navigate to the skype program directory.
+
+@summary
+select the "skype" application and click .open.
+
+@summary
+select "block the connection" if it is not already selected.
+
+@summary
+ensure that the "domain", "private", and "public" boxes are checked.
+
+@summary
+give the new rule a name and description.
+
+@summary
+ensure that the computer users don't have administrator access.
+@article
+ You can find the Control Panel in the Start menu. If you're using Windows 8.1, right-click on the Start button and select "Control Panel".;
+, This will open the Windows Firewall utility.
+ You may be prompted for the administrator password.
+,,,, The default location is C:\Program Files\Skype\Phone.
+ Click Next > to move on.
+ Click Next > to move on.
+ This will ensure that Skype is blocked on all network types.
+ This is for your own reference, so enter whatever you'd like. Once you give it a name, the rule will be applied.
+
+
+This rule will not prevent someone from opening Skype, but it won't be able to connect.
+ Blocking Skype, along with a host of other computer security functions, require administrator access. If you're blocking someone from using Skype but they know the administrator password or their account is an administrator account, they can easily revert your changes.

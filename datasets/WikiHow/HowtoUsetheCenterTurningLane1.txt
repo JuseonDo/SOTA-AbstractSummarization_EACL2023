@@ -1,0 +1,10 @@
+@summary
+look for a center lane bordered by two sets of yellow lines.
+
+@summary
+look for a “center lane only” sign.
+
+@summary
+don’t confuse a dedicated turn lane for a center turn lane.
+@article
+ The outer yellow lines are solid, while the inner yellow lines are dashed. , The sign will have two curved arrows indicating left turns. , Dedicated turn lanes occur at intersections and may only be used by one direction of traffic. Center turn lanes run down the entire road and may be used by both directions of traffic. 

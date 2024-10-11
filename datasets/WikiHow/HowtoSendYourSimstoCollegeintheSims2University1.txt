@@ -1,0 +1,13 @@
+@summary
+first, you'll need a college.
+
+@summary
+choose which college you want: sim state university, la fiesta tech, or academie le tour.
+
+@summary
+you have a college now!
+@article
+ In neighborhood view, at the top left corner of your screen should be a college button. Click on it to add a new college.
+ OR, make your own (I wouldn't recommend this for first-time Sim players) by clicking on the rocket.
+ Read below to find out how to move your Sim to the new college.
+

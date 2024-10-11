@@ -1,0 +1,23 @@
+@summary
+go to the download url.
+
+@summary
+select the country language of the product you purchased.
+
+@summary
+enter your pin code.
+
+@summary
+click “submit.” you will be prompted to log into your account.
+
+@summary
+,
+
+@summary
+log into your mcafee account.
+@article
+ At the back of your retail card, you will see a download URL for your download. Enter this URL on your web browser.;
+, There will be a drop-down list at the middle of the screen. Click it and select your language.
+ The PIN code is located at the back of the retail card; it is at the bottom-most part. Type this below the “Select language” field.
+, Enter your username/e-mail and password on the fields provided. Hit Enter on your keyboard when you’re done. You will be directed to your user page.
+

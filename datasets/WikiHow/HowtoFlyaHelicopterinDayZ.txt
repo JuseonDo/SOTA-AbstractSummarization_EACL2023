@@ -1,0 +1,52 @@
+@summary
+find a helicopter.
+
+@summary
+jump into the helicopter.
+
+@summary
+,
+
+@summary
+press q.
+
+@summary
+get to a height that is comfortable for you.
+
+@summary
+,
+
+@summary
+turn on auto-hover.
+
+@summary
+learn the main controls.
+
+@summary
+turn off the auto-hover.
+
+@summary
+get used to the controls.
+
+@summary
+hold down z and slowly land.
+@article
+;
+,, Let the rotors spin for awhile. When the rotors are at full speed, hold down Q.
+, Just look around.
+ They are:
+
+
+W= Forward
+A= Bank left
+S= Bank right
+D= Backwards
+Z= Land
+
+, It's now time to control the helicopter manually.
+
+
+Hold W and Q. Remember to always hold Q.
+ When comfortable, turn on auto-hover again.
+ Well done––you just did the most dangerous thing in DayZ!
+

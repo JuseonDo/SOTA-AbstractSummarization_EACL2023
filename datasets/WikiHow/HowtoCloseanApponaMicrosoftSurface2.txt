@@ -1,0 +1,13 @@
+@summary
+open any app, so that you see a screen.
+
+@summary
+swipe in another of the apps you have open (or the app you'd like to close) but don't release the app, making sure the complete preview of the app shows up on the screen.
+
+@summary
+drag the app off the dock of open apps until it's completely off and not touching the dock at all, then drag it downward until it's off the screen.
+@article
+ Whether it's the Desktop app, another Windows app or some other third-party app, one app (besides the app you want to close) must be open. You could do this from the Start screen too, if you'd like.
+ If this is the app you'd like to close, fine; continue on. If not, make it retreat back to the left side of the screen and drag out the right one BUT don't release the app.
+ You can release your hand from screen when it is no longer being shown. Make sure the entire preview of the app's screen is showing on the screen, and drag the app preview downward off the screen with a quick flick downwards.
+

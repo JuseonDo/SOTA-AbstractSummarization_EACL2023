@@ -1,0 +1,12 @@
+@summary
+be aware that some apps come with notifications that will send you a text message, a sound alert, or display a numbered badge on the app icon if new information related to the app is available.
+
+@summary
+turn on/off all notifications.
+@article
+ This is usually turned on by default, but you can turn if off if desired.
+ Tap the Settings icon, then the Notifications icon, then turn off Notifications. If Notifications are already turned off, then you can click the switch to turn them on.
+
+
+You can also turn off Notifications for individual apps by choosing an app from the list in Notifications.
+

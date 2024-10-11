@@ -1,0 +1,18 @@
+@summary
+log into your youtube account.
+
+@summary
+go to "settings.",
+
+@summary
+remove google+.
+
+@summary
+save your changes.
+@article
+ Go to https://www.youtube.com and log in using your username and password..;
+, Click on your username and then click "YouTube Settings."
+
+, Click the option to disconnect Google+ underneath your e-mail address.
+ Clicking on "Okay" will save the changes you made.
+

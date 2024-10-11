@@ -1,0 +1,49 @@
+@summary
+download a third-party tool if you want to remember your name and password.
+
+@summary
+install ai roboform.
+
+@summary
+click setup form filling on the roboform toolbar to setup your identity.
+
+@summary
+you will be prompted for your name and country to appropriately set up your identity.
+
+@summary
+,
+
+@summary
+go through the various tabs and enter your information in the appropriate fields.
+
+@summary
+click on save & close button.
+
+@summary
+go to any online registration or check-out form and click on <your identity name> on the roboform toolbar.
+@article
+ The good news is that Ai Roboform works well, has a number of other excellent features, and is free and easily installed.
+
+Some browsers like Firefox have built-in form filling functions. But they can be weak and others are not easily used.
+
+
+
+ 
+
+
+All the browsers have "Remember password" function. We do not recommend to use the "Remember password" functions of your browser as it lacks security.
+
+
+
+
+
+;
+, Once it's installed, a new set of tools appears in your Internet Explorer and Firefox toolbars.
+ This information can later be used to fill forms with one click.
+,
+
+
+RoboForm will warn you when you are filling in sensitive information such as credit card and bank numbers.
+ Your identity set-up is complete.
+ RoboForm will fill the forms automatically.
+

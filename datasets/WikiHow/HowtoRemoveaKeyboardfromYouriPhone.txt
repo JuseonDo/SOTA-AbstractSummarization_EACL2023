@@ -1,0 +1,35 @@
+@summary
+open your iphone’s settings.
+
+@summary
+scroll down and tap general.
+
+@summary
+scroll down and tap keyboard.
+
+@summary
+tap keyboards.
+
+@summary
+,
+
+@summary
+tap edit.
+
+@summary
+tap the red - next to a keyboard in the list.
+
+@summary
+,
+
+@summary
+tap delete.
+@article
+ This is the grey icon with cogs on one of the home screens.
+
+
+This may also be in the “Utilities” folder on one of your home screens.;
+, This is in the third set of options.
+ This is in the seventh set of options.
+, This is in the upper right corner of the screen.
+, The keyboard will be removed from the phone and will no longer appear listed when switching between keyboards.

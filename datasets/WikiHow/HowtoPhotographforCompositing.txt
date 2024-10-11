@@ -1,0 +1,41 @@
+@summary
+choose a location for your photograph.
+
+@summary
+determine where you want your camera to be, set up the tripod, and lock the camera down.
+
+@summary
+set the aperture at f8 or more to ensure you get a pretty decent depth of field.
+
+@summary
+remember that the camera cannot move during this.
+
+@summary
+shoot your first shot.
+
+@summary
+be sure that the lighting and lighting angle does not change from one shot to the other.
+
+@summary
+,
+
+@summary
+open up the images in your photo editor of choice.
+
+@summary
+when making edits to your images, make sure that you are making the same edits to all of them.
+
+@summary
+start compositing your shots.
+
+@article
+ You will want something that has no (or very few) moving parts. Shooting on a wide seamless background is an optimal solution.
+
+
+If you are going out on location, for adding the images to later, shoot from various heights and angles.;
+, You don't want it to have any kind of movement. That is why you want some kind of remote triggering option.
+ There is a lot less margin for error at faster apertures.
+ The tripod and camera must stay stationary.
+ This will be a 'reference' shot and around which your shot will be created. You will want all of the elements that will be added later, to be missing from this shot. This will be your 'base layer'.
+, Gimp, Paint Shop Pro, and Photoshop are all good ones.
+ This will help keep the lighting and look the same and give you a more cohesive image.

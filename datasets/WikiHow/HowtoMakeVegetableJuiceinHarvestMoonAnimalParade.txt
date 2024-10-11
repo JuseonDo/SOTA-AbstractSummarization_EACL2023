@@ -1,0 +1,20 @@
+@summary
+acquire a mixer.
+
+@summary
+gather the ingredients needed to make the juice.have the ingredients in your rucksack.
+
+@summary
+walk to the mixer on your kitchen counter.
+
+@summary
+choose the ingredients that you need for the recipe.
+@article
+ If you don't have it, you can go to the General Store and pay 1,200 G for it.
+
+
+Cabbage: can be grown during the spring
+Green Pepper: can be grown during Autumn
+Spinach: can be grown during Autumn
+
+,, Press the "A" button., Press the "A" button again and "Start" to make the dish.

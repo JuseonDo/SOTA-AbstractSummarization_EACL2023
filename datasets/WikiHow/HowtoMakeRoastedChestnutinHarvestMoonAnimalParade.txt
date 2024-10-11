@@ -1,0 +1,17 @@
+@summary
+acquire matches.
+
+@summary
+get 1 chestnut.
+
+@summary
+have the chestnut in your rucksack.
+
+@summary
+start a bonfire.
+
+@summary
+choose the chestnut that you need for the recipe.
+@article
+ If you don't have it, you can go to the General Store and pay 480 G for it.
+ Chestnut trees can be grown and forged during Autumn., Ensure that your rucksack is not full, or else you cannot grill the chestnut., Use your matches on a wood stack. Press the "A" button., Press the "A" button again and "Start" to make the dish.

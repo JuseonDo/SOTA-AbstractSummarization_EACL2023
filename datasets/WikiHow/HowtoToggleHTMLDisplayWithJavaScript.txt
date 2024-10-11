@@ -1,0 +1,49 @@
+@summary
+wrap the content you want to toggle display with in a container.
+
+@summary
+insert javascript code to change the display.
+
+@summary
+use an event handler to trigger the function.
+@article
+
+
+
+
+
+<div ID="content" style="display:block;">This is content.</div>
+
+
+
+;
+,
+
+
+
+
+<script type="text/javascript">
+function toggleContent() {
+  // Get the DOM reference
+  var contentId = document.getElementById("content");
+  // Toggle 
+  contentId.style.display == "block" ? contentId.style.display = "none" : 
+contentId.style.display = "block"; 
+}
+</script>
+
+
+
+
+
+,
+
+
+
+
+<button onclick="toggleContent()">Toggle</button>
+
+
+
+
+

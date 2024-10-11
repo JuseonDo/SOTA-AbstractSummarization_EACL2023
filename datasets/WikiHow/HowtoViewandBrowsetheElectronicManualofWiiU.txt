@@ -1,0 +1,25 @@
+@summary
+press the home button on the wii u gamepad.
+
+@summary
+press the green question mark icon at the right side of the home menu.
+
+@summary
+head to a specific topic.
+
+@summary
+flip through the pages.
+
+@summary
+press the b button to return to the table of contents.
+
+@summary
+exit the manual.
+@article
+ The Home button is at the bottom of the touchscreen area of the Wii U gamepad.;
+, This is the electronic manual icon of the Wii U.
+ Once in the manual’s table of contents, you’ll see a list of topics. Tap on the topic of interest to go to that specific page of the electronic manual.
+ To do this, just tap on the Left or Right arrows.
+ If ever you need to go back to the table of contents to scroll through topics again, just press B.
+ Press the Home button to exit the electronic manual of the Wii U when you are done reading.
+

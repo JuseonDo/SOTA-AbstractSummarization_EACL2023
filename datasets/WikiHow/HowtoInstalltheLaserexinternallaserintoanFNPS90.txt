@@ -1,0 +1,49 @@
+@summary
+field strip the weapon
+
+@summary
+,
+
+@summary
+the stock must be disassembled by removing the cross-bolts.
+
+@summary
+place the front laser "cap" on the end of the stock to mark its position.
+
+@summary
+after inserting the "laser hood", place some folded newspaper behind it to hold it in place and reassemble the stock.
+
+@summary
+open the stock and placed the laser inside to determine the placement for the "power setting selector.",marked the locations for the laser actuator button and battery casing.
+
+@summary
+approximate the exact location for the button by studying the p90 lv photos found on the internet.reassemble the stock,
+
+@summary
+carefully drill the button hole and battery casing hole (again increasing bit size gradually).open the stock again,insert the laser components,reassemble the stock
+@article
+,
+
+Notice the strengthening ribs in the stock, which were not present in the earlier P90 LV photo.
+The stock already has slots in place for the laser wires.
+
+
+When drilling on the seam, use a very small drill bit and increase the size gradually to prevent binding.
+Increase the bit size until the laser "lens hood" can just fit through the hole.
+
+
+With the hood held firmly in place, press the laser "cap" on the hood to determine the position of the three cap mounting screws which thread directly into the laser inside the stock.
+
+
+Mark the location
+Reassemble the stock
+Drill the seam (again increasing bit size gradually) until the appropriate size is achieved.
+See (tips) section, below
+
+,,
+
+The battery casing mount slides on one of the bolt guides so just line it up and mark it.
+,
+
+The battery casing hole is quite large and you may not feel comfortable using that large of a bit on the seam. So, you may want to slightly increase the size of the hole with a half round file until the casing fits snugly.
+,,

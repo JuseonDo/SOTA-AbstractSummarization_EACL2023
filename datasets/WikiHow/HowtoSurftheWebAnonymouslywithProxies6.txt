@@ -1,0 +1,13 @@
+@summary
+look for web-based proxies online.
+
+@summary
+open the given proxy service in your browser.
+
+@summary
+enter the url you want to visit anonymously.
+@article
+ While the selection of online proxies is constantly changing, a quick search online should help you to find a good currently available option.
+ You don’t need to use proxy settings in your browser.
+ The web-based proxy should have a clear interface for doing this. When you enter and confirm your desired URL, it should allow you to browse that site anonymously.
+

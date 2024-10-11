@@ -1,0 +1,5 @@
+@summary
+this is the simplest method and requires that the program you wish to close be open and on the screen.
+@article
+ Simply pull your finger or your mouse from the top edge of the screen down to the bottom of the screen. The app windows will become smaller. When this happens, let go to close the app.
+

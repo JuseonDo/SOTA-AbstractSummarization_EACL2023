@@ -1,0 +1,47 @@
+@summary
+tap the uber app.
+
+@summary
+tap the menu (☰) button.
+
+@summary
+tap "settings.",
+
+@summary
+tap "emergency contacts.",
+
+@summary
+tap "add contacts.",
+
+@summary
+tap the contacts that you want to add.
+
+@summary
+tap "add.",
+
+@summary
+return to the uber map.
+
+@summary
+drag the map to set your pickup location.
+
+@summary
+choose the type of ride you want to request.
+
+@summary
+tap "set pickup location.",tap the "destination required" box.enter your destination.review the price.tap "request uber" to order your ride.swipe up on the uber screen.
+
+@summary
+tap "share my eta.",
+
+@summary
+enter contacts you want to send the status to.copy and paste the link if you want to manually share.
+@article
+ You can only share your Uber destination and status if you have requested a ride and a driver has accepted., You can set up to five contacts as your "Emergency Contacts" that you can quickly send your trip status and location to.
+
+Adding emergency contacts is optional but makes sharing your status easy if you share often with someone.
+
+,
+,
+, You can select up to five contacts., The contacts will be added to your emergency contacts list., Once you've set your contacts, you can order your ride from the main Uber screen., You can tap the crosshair button to center the pin on your current location., The estimated wait time will be displayed on the "Set Pickup Location" button on the map., This will confirm the pickup location and ride type.,,,,,,
+, Contacts that you've added to your Emergency Contacts list will be automatically notified.,

@@ -1,0 +1,34 @@
+@summary
+tap on the messages app.
+
+@summary
+tap the new message icon.
+
+@summary
+type in a recipient.
+
+@summary
+tap on the recipient's name in the results below.
+
+@summary
+tap on the message bar.
+
+@summary
+type in your message.
+
+@summary
+,
+
+@summary
+tap the blue or green send arrow.
+@article
+;
+, It's at the top right corner of the screen and looks like a pencil on paper.
+ It can be a name from your address book, a phone number, or an email address.
+
+
+Alternatively, you can tap + to add a contact directly from your address book.
+ If the person isn't in your contacts book, their number will appear with no name attached.
+ It appears above the keyboard.
+, Your new message will be sent!
+

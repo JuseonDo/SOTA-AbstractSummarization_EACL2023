@@ -1,0 +1,43 @@
+@summary
+download jsn uniform from any credible source.install the zip file in joomla back-end
+
+@summary
+,
+
+@summary
+in the back-end, go to components -> jsn uniform -> forms.
+
+@summary
+,
+
+@summary
+click button new-> blank form.
+
+@summary
+choose the tab form design to setup your contact form.
+
+@summary
+continue to choose the fields for your form.
+
+@summary
+in the tab form action, you choose the action you want to after the form submission.
+
+@summary
+when you finish your contact form, click save & show button.
+@article
+;
+,,, Input the title and the description of the form. You can use Captcha to prevent spammers or not. 
+
+, You can choose to present your form in single page or multiple pages. In this article I will build a single-page form with vertical layout. Click add field to choose the suitable field. Here I choose field Name.
+ A normal contact form often has below fields: Name, Address, Email, Websites, File Upload and Message. For message field, you can choose Paragraph text and change the title to Message field.
+ You can choose one of below actions:
+
+
+No Action
+Redirect to URL
+Redirect to menu item
+Show article
+Show Custom message
+
+, You can show the contact form via menu item, In module position or Inside article
+

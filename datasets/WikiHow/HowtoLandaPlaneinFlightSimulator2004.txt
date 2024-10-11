@@ -1,0 +1,49 @@
+@summary
+figure out at which airport you plan to land at.
+
+@summary
+get your plane into a position that the runway you are landing at is directly ahead of you and the tip of the runway is facing you.
+
+@summary
+pull back on your throttle and gently push forward on the stick.
+
+@summary
+get near the runway you can adjust your angle of descent.
+
+@summary
+be very close to the runway, then even out your plane and pull back on the throttle gently, bringing it to idle.
+
+@summary
+slow down.
+
+@summary
+be proud of yourself because you have landed a plane which is very difficult.
+
+@summary
+,
+
+@summary
+there is a certain procedure for executing a normal landing.
+
+@summary
+figure out the nav frequencies of your runway and tune it.
+
+@summary
+hope for good luck.
+
+@summary
+,
+
+@summary
+now you should be on the runway.
+
+@article
+ Then choose the runway on which you plan to land.;
+, You may not be able to see the runway just yet. If that's the case, then check your flight analysis to make sure you are in the right position. This position may take a lot of time and effort to get into but everything is easy after that.
+ You should be going down at an angle less than five degrees but you should make your speed go down which will cause your plane to descent.
+ If you are to low, then descent slower. If you are to high, then descent at a greater rate.
+ The back tires are supposed to lick the ground (softly.!).
+ After you are going slow, apply the brakes and finally the parking brake. Now you have stopped.
+, The basic difference is a Visual Approach and ILS Instrument Landing System.
+ Press NAV in Autopilot for it to guide you through the Glide Slope & Localiser. At decision Height (200 ft generally for the ILS) disengage autopilot, Idle Thrust, arm auto brakes and flare. Engage reverser after the nose wheel touches the runway and apply Speed Brakes '/' key.
+,

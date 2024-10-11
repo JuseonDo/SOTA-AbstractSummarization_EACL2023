@@ -1,0 +1,17 @@
+@summary
+open nintendo 3ds sound at the main menu.
+
+@summary
+at the menu, go to an empty voice box.
+
+@summary
+you can copy the noise by hitting the copy button.
+
+@summary
+tap the edit button to distort he sound.
+
+@summary
+manage nintendo 3ds sound with the settings.
+@article
+ Wait for it to load.
+ Tap "Record". Tap the button, or let the noise start the recording automatically. Tap "OK" to save the recording. Hover it to play the sound., Select another empty voice box to copy it to., There are various filters to use on your sounds. Once you have edited it to completion, hit "Save"., Here you can change the basic audio and usage.

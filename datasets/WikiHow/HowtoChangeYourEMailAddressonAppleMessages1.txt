@@ -1,0 +1,38 @@
+@summary
+tap the settings icon.
+
+@summary
+tap messages.
+
+@summary
+,
+
+@summary
+tap send & receive.
+
+@summary
+,
+
+@summary
+tap the email address(es) you wish to be reached by.
+
+@summary
+tap the email you want to start conversations from.
+
+@summary
+,
+
+@summary
+send an imessage.
+@article
+;
+,,,
+
+
+If the email address you want to use isn't there, tap Add Another Email….
+Type in your email.
+Tap Return. Apple will send you a validation email to that address.
+Verify your email following the instructions in the email.
+Once verified, tap the new email from the list to select it. A check mark will appear next to it.
+, Your contact info should appear as designated in step 5.
+

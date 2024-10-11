@@ -1,0 +1,5 @@
+@summary
+sometimes redstone dust can be found outside of caves and mines.
+@article
+ It can be traded for, dropped by dead witches, or used as wiring for traps in jungle temples.
+

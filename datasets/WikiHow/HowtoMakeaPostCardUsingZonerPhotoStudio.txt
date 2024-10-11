@@ -1,0 +1,42 @@
+@summary
+open zoner photo studio in the manager tab.
+
+@summary
+click on create >> postcard, but don't make any selections.
+
+@summary
+look at the various options that you have for your postcard in the upper right hand corner of the dialog box.
+
+@summary
+select the layout that you want to use.
+
+@summary
+move the images around.
+
+@summary
+if you don't like the image that is auto-populated, then click on it and press delete.
+
+@summary
+,
+
+@summary
+now that you have selected your images, you can change the design of the postcard if you want to.
+
+@summary
+add an 'envelope' if you want.
+@article
+;
+, The reason you don't want to make any selections here is because you want to have the full selection of images to choose from. If you select anything, then you lose the option of selecting from all of the images in the folder.
+ Keep in mind that your layout and your images will need to 'mesh'. If you don't select them with an eye towards your final product, it may look odd.
+ Zoner will populate it automatically. Don't worry, you can remove the ones you don't want to use.
+ It is likely that your images won't be in the right position to start with, so simply click on them to move them around.
+, (You can also keep the default design as well.) Here, the following dimensions are used:
+
+
+Default width of 1024
+Default height of 768
+Grid thickness of 3
+Grid color of blue
+If desired, add a border around the entire card.
+ This adds a mask or frame around your postcard.
+

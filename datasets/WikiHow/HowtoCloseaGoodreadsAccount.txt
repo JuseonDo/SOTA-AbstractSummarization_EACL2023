@@ -1,0 +1,43 @@
+@summary
+open up goodreads.
+
+@summary
+look for drop-down arrow in the top right corner of the goodreads page (near your profile picture you chose), and click "edit profile".
+
+@summary
+click the settings tab right next to the default tab.
+
+@summary
+,
+
+@summary
+scroll down to the bottom of the page and click the "delete my account" link.
+
+@summary
+,
+
+@summary
+review the information on what will happen once you delete your account.
+
+@summary
+click the "delete my account" button to delete the account.
+
+@summary
+,
+
+@summary
+agree to the dialog boxes.
+
+@summary
+give the browser a few moments.
+@article
+ Log into the account you'd like to close.;
+,
+
+
+You might be asked to sign in once more. Don't worry. Just log in with your Goodreads credentials once again and click the "Confirm" button. This is done if you haven't checked your settings in a few days.)
+
+,,, Deleting your account will remove from Goodreads all the associated content, including the ratings and reviews you've posted, your comments, writing, events, friends list.You shouldn't need to worry about unchecking the "keep all my discussion posts", as these posts become anonymous and any discussion they've created or replied to should stay for continuity with the discussion.
+, Click OK to close the account.
+ When your account has been closed, the browser will return you to the Goodreads home page after it signs you out.
+

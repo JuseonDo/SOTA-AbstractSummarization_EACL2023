@@ -1,0 +1,93 @@
+@summary
+fold a square piece of paper in half diagonally.
+
+@summary
+fold the triangle’s bottom two corners of up to its point.
+
+@summary
+fold each previous fold backwards halfway.
+
+@summary
+expand the triangles you folded in the previous step.
+
+@summary
+turn the paper over.
+
+@summary
+,
+
+@summary
+tuck in the triangular point sticking out on the left side.
+
+@summary
+repeat with the triangular point on the right side.
+
+@summary
+,
+
+@summary
+turn the paper over again.
+
+@summary
+,
+
+@summary
+fold the left- and rightmost corners inward along the creases that already exist.
+
+@summary
+glue the top of the folded flaps where indicated by the image.
+
+@summary
+bring the folded flaps together, fastening them in place.
+
+@summary
+make four more of these.
+
+@summary
+,
+
+@summary
+apply glue to the central seam of each piece.
+
+@summary
+begin pressing the pieces together.
+
+@summary
+continue adding pieces until you’ve assembled the entire flower.
+
+@summary
+use paperclips to hold the petals together.
+
+@summary
+,
+
+@summary
+wait for the glue to dry completely before removing the paperclips.
+@article
+ It should now look like a triangle.
+
+
+
+
+
+
+;
+, You should now have formed a square.
+ The back-folded back edges should line up with the edges of the “square” underneath.
+ Lift one side triangle, insert a finger to open the pocket inside, and re-flatten it along the crease so that it is expanded into a diamond. Repeat on the other side. If you're feeling confused, take a look at the image for further guidance.
+, If you open the left area of the folded paper slightly, you’ll see that, underneath the top sheet of paper, there’s a fold that half-covers the diamond underneath. Simply fold the point of the diamond into the body of the shape below the piece of paper that is half-covering it.
+,, The resulting outline should once again be a square.
+ Using a glue stick may be a good idea because it dries so quickly, but you can also use white liquid glue as shown here.
+ Squeeze the flaps together so that the glue takes, then pinch the creases together tightly so that the folds protruding into the cone stay somewhat centered. To hold the glued pieces together, secure them with a paperclip.
+, This seam is where the folded edges meet (where they were glued together previously). Spread out the glue so that the centers of the pieces can stick together securely.
+ The five cones will make the Kusudama flower’s five petals.
+ Glue everything together in a circular formation.
+, Otherwise, the petals risk slipping apart.
+
+
+
+
+
+
+
+

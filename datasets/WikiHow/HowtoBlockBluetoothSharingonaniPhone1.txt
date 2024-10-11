@@ -1,0 +1,24 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll to the third group of options and tap privacy.
+
+@summary
+,
+
+@summary
+select bluetooth sharing.
+
+@summary
+,
+
+@summary
+slide the switches next to any authorized apps left to the "off" position.
+@article
+ Do so by tapping the grey cog icon on one of your Home screens (or in a folder named "Utilities").;
+,,, After you've disabled all apps with Bluetooth Sharing enabled, your phone will no longer automatically share data via Bluetooth.
+
+
+If you don't see any apps here, your iPhone isn't sharing app data. You can still disable your Bluetooth completely if you want to be thorough.
+

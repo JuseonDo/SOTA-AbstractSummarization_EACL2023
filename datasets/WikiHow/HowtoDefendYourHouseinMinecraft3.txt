@@ -1,0 +1,8 @@
+@summary
+place lava two blocks down from the ground in front of your door.
+
+@summary
+place glass on top of the lava.
+
+@article
+ How many blocks of lava depend on how long your trap is. The lava block should be 1 block above and 1 block to the left and right of your pistons.

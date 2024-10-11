@@ -1,0 +1,20 @@
+@summary
+use the methods described above to obtain the ip number you wish to check.
+
+@summary
+,
+
+@summary
+go to a website that will allow you to look up ip address information.
+
+@summary
+understand what you can and cannot learn from the ip address:
+
+@summary
+which internet service provider (isp) the user is using.
+@article
+, Google "IP Lookup" or "IP Geolocation" for a large list of sites that will freely offer this service.
+ In some cases this may be the user's company (e.g. Ford.com). In other cases it may be just one of the large ISPs such as ATT or Comcast.
+The approximate physical location of the user (e.g. Palo Alto, California.)
+Recognize that usually you will not learn the actual name of the person doing at that IP address (e.g. Joe Smith). ISPs will typically only release such information under a court order.
+

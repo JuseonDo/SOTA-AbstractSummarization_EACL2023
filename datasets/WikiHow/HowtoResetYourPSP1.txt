@@ -1,0 +1,15 @@
+@summary
+hold the power switch up for 30 seconds.
+
+@summary
+wait for a little bit.
+
+@summary
+flip the power switch to turn on the psp as you normally would.
+
+@article
+ In most cases, this will force the PSP to shutdown.
+
+
+If this doesn't work, try holding the Right Shoulder button and then hold the Power switch for about 5 seconds. This should power your PSP down.;
+, It's a good idea to wait about 30 seconds before starting your PSP up again.

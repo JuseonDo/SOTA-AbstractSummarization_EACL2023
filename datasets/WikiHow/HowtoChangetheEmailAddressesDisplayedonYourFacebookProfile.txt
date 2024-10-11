@@ -1,0 +1,34 @@
+@summary
+go to the facebook website and log in using the email and password associated with your account.
+
+@summary
+go to the about page of your own profile.
+
+@summary
+,
+
+@summary
+scroll down to your "contact info" section.
+
+@summary
+a box will pop up with all of the email addresses associated to your account.
+@article
+;
+,, You'll see email addresses displayed for your account. Click on the "Edit" to change what's listed.
+ Each email address has its own row with two buttons to set whether anyone can see the email.
+
+The first column of buttons sets who can see the email address, if you have chosen to display it on your profile. Choose between "Public" (anyone with Internet), "Friends," "Only Me," or a custom grouping.
+
+
+
+
+
+
+The second column of buttons sets whether the email address is visible on your profile. An open circle indicates that it's shown on your timeline, and a gray circle with a line through it indicates that it's hidden.
+
+
+
+
+
+
+

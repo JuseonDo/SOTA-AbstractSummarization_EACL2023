@@ -1,0 +1,27 @@
+@summary
+open the cover of auto level by unscrewing the top, bottom, left and right screws.
+
+@summary
+set the auto level in the center of 2 staff (having approx length of 60m) and get the reading of backsight (bs)-point a and foresight (fs)-point b.
+
+@summary
+shift the auto level to point d which is l/10 (l is the length of point a to point b).
+
+@summary
+,
+
+@summary
+read the nearest staff and write down the value.
+
+@summary
+now use screw to loose and tighten bottom and up screw.
+
+@summary
+after your auto level calibration is done, get back the alignment.
+@article
+ If you only want to collimate (adjust accurately the line of sight) auto level, then you have to adjust only top and bottom screw.;
+, Ensure that the instrument is well leveled before reading. This difference of BS and FS you get by doing this is without collimation and the reading should be taken as benchmark for adjustment.
+, Add this value with the difference of BS and FS which you got in the step 2.
+ Adjust slowly- if you loose top screw then tighten bottom screw and read the staff to get the “Actual value”. This way your calibration is complete and you get the perfect value or a value that has a difference of 1 mm.
+ Go back to center of point A and B. Check the reading again. Now you should get the perfect reading.
+

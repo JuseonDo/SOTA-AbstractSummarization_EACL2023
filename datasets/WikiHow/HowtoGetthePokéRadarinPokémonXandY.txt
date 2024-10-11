@@ -1,0 +1,17 @@
+@summary
+beat the elite 4.
+
+@summary
+go to lumiose city.
+
+@summary
+go to professor sycamore's laboratory.
+
+@summary
+go to 2f.
+@article
+ You have to beat the Elite 4 and Champion before you can get the Poké Radar.;
+, If you have a Pokémon with Fly, use it to get there quickly if you're not near the city.
+ It's located near the Pokémon Center on South Boulevard.
+ Speak to the scientist there, and he will give you the Poké Radar.
+

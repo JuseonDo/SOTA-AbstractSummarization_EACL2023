@@ -1,0 +1,62 @@
+@summary
+create a sim family named the ramsey family.
+
+@summary
+create a male adult sim for this family and call him john.
+
+@summary
+create a female adult sim who is john's wife, and call her janice.
+
+@summary
+create a female adult sim who is john's sister, and call her cecelia.
+
+@summary
+create a female teen sim who is john and janice's daughter, and call her jessi.
+
+@summary
+create a female child sim who is john and janice's daughter, and call her becca.
+
+@summary
+create a male toddler sim who is john and janice's son, and call him squirt (this is usually the only name by which this person is known in the books).
+
+@summary
+move this family into a relatively big house.
+
+@summary
+put toys for both becca and squirt in this house.
+
+@summary
+,
+
+@summary
+delete the playground equipment, if any, outside the house.
+
+@summary
+,
+
+@summary
+if you have pets installed, put a rodent terrarium in the house.
+
+@summary
+get john a job in the business or political career track, and janice a job in the business or journalism track.
+
+@summary
+,
+
+@summary
+do not get cecelia a job.
+
+@summary
+play and enjoy!
+
+@article
+ All members of this family must have dark skin and black hair. Also, except for the family members listed in steps 4 and 7, all members of the family must be skinny with both body modifiers.;
+, Give him short curly hair and either stubble or no facial hair. Dress him in business casual attire. Set his voice to as deep as you can get it. Use the traits Family-Oriented, Good, Friendly, Handy, and Workaholic.
+ Give her any stereotypical African-American hairstyle. Dress her in casual clothes. Use no makeup. Use the traits Family-Oriented, Good, Natural Cook, Lucky, and Light Sleeper (for explanation on the last, see book 16 in the series).
+ Give her an average build. Give her short hair and business casual clothing. Make her lips look as if she has just been eating a lemon. Give her glasses (not sunglasses, but ordinary glasses). Use the traits Natural Cook, Neat, Perfectionist, Unflirty, and No Sense of Humor.
+ (Even though Jessi is eleven years old in the books, we are going to make her a teenager in order to get four traits.) Put her hair in a style that, if she were real, would not fall over her face. Give her jeans and a T-shirt as her everyday outfit. If you have Pets installed, make her as under-endowed as possible - remember, she is only eleven years old. Use the traits Athletic, Artistic, Good, and either Party Animal or (if you have Pets installed) Animal Lover. Set her favorite food to autumn salad, sushi, fruit parfait, ratatouille, or one of the foods whose recipes can be found in the Egyptian cookbook.
+ Hair in this case is up for grabs, as long as it is by no means tomboyish. Give her a very girly everyday outfit. Use the traits Loner, Couch Potato, and Artistic.
+ Make him a little chubby. Give him curly hair and dress him in overalls. Nothing he wears should be pink. Traits are up for grabs, except do not use Can't Stand Art.
+ You may need to use the "motherlode" cheat several times for this.
+,, Stock this terrarium with a Womrat (this substitutes for a hamster). Give it the name Misty. Have Jessi and Becca take care of this Womrat, for the most part.
+, She will stay home to take care of Squirt.

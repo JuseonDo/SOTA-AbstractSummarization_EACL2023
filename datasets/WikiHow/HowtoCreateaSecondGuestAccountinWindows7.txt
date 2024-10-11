@@ -1,0 +1,19 @@
+@summary
+open the advanced user accounts control panel.
+
+@summary
+add the account.
+
+@summary
+click other, then from the list, choose guests.
+
+@summary
+,
+
+@summary
+finally, press finish.
+
+@article
+ Click on Start, and in the searchbox, type in "netplwiz" (without the quotation marks). Click on "netplwiz".;
+, Click on "Add...", enter a name for the guest account (ex. Guest2), and click "Next" 2 times.
+,

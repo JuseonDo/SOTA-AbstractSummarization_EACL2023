@@ -1,0 +1,31 @@
+@summary
+try system restore first.
+
+@summary
+open a command prompt window.
+
+@summary
+change directory into the system32 folder.
+
+@summary
+open notepad window.
+
+@summary
+highlight and copy the three lines above to the clipboard.
+
+@summary
+,
+
+@summary
+paste the contents of the clipboard to command prompt.
+@article
+ If you have only just installed Windows Genuine Advantage notifications, simply using the system restore function will remove the program. Then refuse to accept the WGA update next time Windows updates. Otherwise, proceed as detailed below.
+ Click on Start, then Run. Type CMD and press OK.
+ Type "cd \windows\system32" (without quotation marks).
+ Type the following lines:
+taskkill -IM wgatray.exe
+del wgatray.exe
+del wgalogon.old
+
+,, This should kill the wgatray.exe process from the Taskbar and immediately delete both files wgatray.exe and wgalogon.dll.
+

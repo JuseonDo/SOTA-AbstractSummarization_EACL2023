@@ -1,0 +1,69 @@
+@summary
+download the newest installation of software from netgear's website.
+
+@summary
+open up my computer.
+
+@summary
+select ok. next open the software folder that you just downloaded by double clicking on the folder named “wg111v2 software version 4.0.0”.
+
+@summary
+,
+
+@summary
+double click “setup” to install usb wireless adapter software.
+
+@summary
+,
+
+@summary
+wait for the welcome window to pop up.
+
+@summary
+accept the  license agreement by clicking on “accept”.
+
+@summary
+select the folder in which you would like the software to be stored in by selecting the “browse” button.
+
+@summary
+wait for the window to say  “software installation complete” .
+
+@summary
+insert the wireless usb adapter into your laptop or desktop usb port.
+
+@summary
+select the country in which you will primarily use the wireless usb adapter.
+
+@summary
+,
+
+@summary
+wait for the usb adapter to scan available wireless networks in your area and come up with a wireless network ssid list.
+
+@summary
+select an encryption type.
+
+@summary
+enter the wpa2-psk password.
+
+@summary
+,
+
+@summary
+check you're connected.
+
+@summary
+test your network connection by going to any website.
+@article
+ From windows explorer go to http://support.netgear.com/product/WG111v2.  Click on “Software Version 4.0.0 for Windows”.;
+, Under downloads, you should see the file WG111v2 Software Version 4.0.0.zip. Uncompress the zipped file.
+,, Then click “Next”.
+ You can view the agreement by scrolling down the page; you must accept the agreement in order to install the adapter.
+ Or install the software in the default destination folder and click “Next”.
+ You have just successfully completed the first part of the installation process. Click “Next” to continue with the hardware installation.
+ Click “Next” to continue.
+, SSID is short for service set identifier. SSID is also referred to as a network name because essentially it is a name that identifies a wireless network. Select your own wireless network’s SSID.
+ Most wireless routers have several options available when it comes to security. You can typically choose between WEP, WPA-PSK (Personal), or WPA2-PSK. If you can, select WPA2 because it is the most secure form of encryption available for wireless networks. Some older routers don't have this option. Manually enter the Hidden SSID (eg. mywifissid) and select WPA2-PSK as the method of Pre-Shared Key.
+, At this time, you have successfully installed the software into your computer.  The USB adapter scans the wireless network and joins the network with SSID and password you just configured. If you see  in the Wireless Assistant panel, you have connected to your wireless network successfully. You will see your SSID, wireless speed (54MBPS), signal strength information as well.
+ You can also do this by issuing C:\user\myname>ipconfig /all command under the CMD prompt to verify the USB adapter has successfully joined the wireless network and received the IP address, gateway and DNS IP address from your wireless router. Do this by going into search and typing Command Prompt.
+

@@ -1,0 +1,8 @@
+@summary
+uncompress the file.
+
+@summary
+open the new folder to find the application.
+
+@article
+ If you have a file that ends in .zip you only have to double-click on the file and OSX will uncompress it into a new folder.

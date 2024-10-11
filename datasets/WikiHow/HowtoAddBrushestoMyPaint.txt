@@ -1,0 +1,27 @@
+@summary
+to see the brushes that you have, open up the software.
+
+@summary
+go to the mypaint brushes wiki.
+
+@summary
+download the brushes that you want.
+
+@summary
+click on brush >> import brush package...
+
+@summary
+,
+
+@summary
+navigate to where your downloaded zipped files are.
+
+@summary
+check out your new brushes.
+@article
+ Don't be disconcerted if you don't see much. It is primarily a drawing software so there isn't much there but a screen, a color wheel, and brushes.;
+, The ones that you will probably see on your installed software are Deevad, Ramon, Tanda, classic, experimental, favorites, and Lost and Found.
+ Don't unzip the files.
+, Click on the one that you want to import. You will get a screen that explains about the brushes and asks you if you are 'sure'. Click OK.
+ If you look at the list of brush packages, you will see that there are a lot more than there were before.
+

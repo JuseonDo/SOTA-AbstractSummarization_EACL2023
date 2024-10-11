@@ -1,0 +1,32 @@
+@summary
+open the facebook messenger app.
+
+@summary
+tap the gear button.
+
+@summary
+tap "people.",
+
+@summary
+tap "block.",
+
+@summary
+tap "+ add someone.",
+
+@summary
+tap the person that you want to block.
+
+@summary
+toggle "block all messages.",
+
+@summary
+tap "block name"' on facebook" to completely block someone.
+@article
+ You can't filter who can send you messages in Facebook Messenger, but you can block people so that they can't send you messages in the future. This is the only way to control who can send you Facebook messages.
+ This will open the Messenger settings menu.
+ This will open your contact settings.
+ This will display all of the users you currently have blocked.
+ A list of your Facebook contacts will appear.
+ You can scroll through the list or tap the magnifying glass to search for someone specific.
+ This will prevent the person from sending you messages in Messenger. This will not block them in Facebook., This will unfriend you with the person and prevent them from seeing your Facebook posts. You'll be taken to the Facebook mobile site to confirm.
+

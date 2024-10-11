@@ -1,0 +1,40 @@
+@summary
+click "start.",
+
+@summary
+select "control panel.",
+
+@summary
+select "regional and language options.",
+
+@summary
+click on the "languages" tab.
+
+@summary
+click on "details.",
+
+@summary
+select "add" to add the spanish keyboard.
+
+@summary
+,
+
+@summary
+choose a spell-checker.
+
+@summary
+click "ok".
+
+@summary
+restart your computer.
+@article
+ Click the start option on your menu bar. This will bring up a list of options.
+ This will also bring up several options.
+
+
+, You should find this option at the top of the new window.
+ This will bring up a large white box with a list of languages and keyboards that you've already installed.
+, You'll be given a list of Spanish spell-checkers. "Spanish (International Sort") may be the most standard, but any one will be helpful.
+ When you finish, this will allow you to exit the control panel.
+ Once you do this, you'll see a small square near your system tray, which is the lower right row of icons on the task bar at the bottom of the screen. Clicking on this tray will give you the choice of moving back and forth between your Spanish and your standard keyboard. Your Spanish/accented keyboard is ready to go!
+

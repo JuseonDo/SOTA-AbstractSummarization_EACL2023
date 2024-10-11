@@ -1,0 +1,24 @@
+@summary
+play to receive crates in the game.
+
+@summary
+purchase a 'mann co. supply crate key' from the in-game store.
+
+@summary
+with your new key purchased, open your account's backpack by clicking 'items' and 'backpack'.
+
+@summary
+,
+
+@summary
+click on your key and click the 'use with' button.
+
+@summary
+,
+
+@summary
+click the crate you'd like to open.
+@article
+ Supply crates drop randomly depending on time spent playing Team Fortress 2. They contain a random item from a small set of hats, weapons etc.
+ Click on 'Shop' from the main menu to open the store. The Key can be found under the 'Items' tab.
+,, You'll be prompted to confirm that you do want to open the crate after all. Click 'Yes, I'm sure.' and, with any luck, you'll receive a new hat!

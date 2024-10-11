@@ -1,0 +1,27 @@
+@summary
+obtain a pickaxe that can be used at your current mining level.
+
+@summary
+find a copper and tin mining spot.
+
+@summary
+mine equal amounts of copper and tin.
+
+@summary
+go to a furnace.
+
+@summary
+use the furnace to create bronze bars.
+
+@summary
+,
+
+@summary
+if desired, use the bronze bars on the anvil to create weapons or armor.
+@article
+ If you have a bronze pickaxe, you may want to add it to your tool belt.;
+, There are rocks for both copper and tin in the southeast area of the Lumbridge Swamp, among other places.
+ If there is room in your inventory for only 22 rocks, for example, then mine 11 copper ore and 11 tin ore.
+ There is a furnace in northern Lumbridge, and also one north of the bank in Al Kharid.
+, You will need a hammer, which can be obtained as a free item from the Lumbridge General Store, or the crate of hammers at the Lumbridge furnace. It is advisable to have a hammer in your tool belt, as well.
+

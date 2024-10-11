@@ -1,0 +1,42 @@
+@summary
+open your web browser and head to http://www.uniqueskins.com/.
+
+@summary
+click on the words 'browse by device' and when the new page loads, select your device category.
+
+@summary
+choose your brand.
+
+@summary
+choose your model.
+
+@summary
+you are now in the editor.
+
+@summary
+the image will most likely need to be re-sized.
+
+@summary
+once you are done with this image click on the button labeled 'back', on the left side of the editor.
+
+@summary
+now we are going to add text.
+
+@summary
+if you want to change the color of the text click on the color square and select a new color from the pallet.
+
+@summary
+once you are happy with your work, click on the 'add to cart' button.
+@article
+;
+, If you are skinning an iTouch choose MP3 players. If you are skinning an iPhone choose cell phones.
+ In this case it will be Apple.
+ This will be based on the model of device you have. Once the page loads click on the words 'Design now'
+
+, Let's upload the image you want for the front of your screen. Click on the camera button and then on 'continue'. Choose a photo from your hard drive and upload it.
+ You can do this with the double sided arrows on the edge of the image. If you need to rotate, you can use the circular arrow found in the same area. To use either function, simply click and drag. Release when you are done.
+ This will take you to the back of the case. This is the most open space on the case, so it is ideal for more complex images. Repeat the image you used to place and re-size that you used for the front.
+ If you do not want text on your skin then you can skip this step. To insert text click on the button with a 'T' on it. This will generate a text box. Where you see the words "Enter text here" click and begin to type your text.
+ You can also change size with the slider below.
+ You can then check out, and your skin will ship.
+

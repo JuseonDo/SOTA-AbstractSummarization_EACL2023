@@ -1,0 +1,40 @@
+@summary
+go into your cpanel for your domain.
+
+@summary
+scroll down to the bottom of your many options.
+
+@summary
+click on fantastico de luxe.
+
+@summary
+,
+
+@summary
+find your chosen wiki.
+
+@summary
+put in the name of your directory; in this case, it will be wiki.
+
+@summary
+click on install tikiwiki cms/groupware.
+
+@summary
+,
+
+@summary
+read the next screen.
+
+@summary
+finish installation.
+@article
+;
+, It should be almost all the way down at the bottom.
+, The images in this article will be showing Tiki.
+ Be sure not to put the /' in front of it. This is what will create your directory for it.
+
+
+It is recommended that you use 'tiki_root' as your name. That is commonly referred to in the setup instructions. This will eliminate confusion later.
+, It is just telling you what is going on at that point.
+ This will tell you what directories were made, your new website/wiki address, admin details.
+

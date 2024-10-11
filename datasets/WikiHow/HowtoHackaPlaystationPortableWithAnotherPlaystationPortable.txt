@@ -1,0 +1,40 @@
+@summary
+download the following files to your computer (all files are safe and contain no harmful software):
+
+@summary
+,
+
+@summary
+save all your psp data to your pc to be able to recover your data after un-bricking/downgrading.
+
+@summary
+format entire memory stick by right-clicking on "removable disk x:" (x is your psp's or memory stick's drive letter).
+
+@summary
+go to the file "pandora3.80m33" and inside copy the psp folder onto your memory stick.
+
+@summary
+press r+x.
+
+@summary
+exit it and connect your psp to your computer.
+
+@summary
+go to game on the psp and choose "despertar del cementerio".
+
+@summary
+(for downgrading): take out your psp battery then re-insert it.
+
+@summary
+(for un-bricking): take out your memory stick and your battery (pandora) and insert it into the psp your un-bricking.you now have cfw 3.80 m33-5!,
+
+@summary
+normalize your battery and memory stick.
+
+@summary
+here all you have to do is take out the battery and memory stick, then plug-in your charger (this is what i do) and when your charger is plugged in, turn your psp on, now you can re-insert your memory stick and battery.
+
+@summary
+congratulations and enjoy your cfw 3.80 m33-5!!
+@article
+, Just go to your PSP device, open it and everything just copy and paste onto somewhere on your Computer where you can come back to it later., Check the "Quick Format" Box then click Format or Start. Now your PSP's ready., Now go to your PSP and start the Pandora Installer., Then accept by pressing L+R+X. This formats your memory stick then re-partitions it to make it ready for the Pandora., You'll notice that your PSP or Memory Stick has a different name like this "PANDORA X:" now from the folder "PANDORA3.80m33" Copy everything in it to your PSP., Press X to start the Installation. After Installation is done, the PSP will turn off. Now to the Pandora Installer and in the program, press L+X to save the msipl.bin file onto your memory stick. Now press O (circle) to make your battery into a Pandora battery., The downgrading will now start. When the screen pops up press X to install CFW 3.80 M33., (Notice this won't work for semi-bricked PSPs so don't even try!) Do the same steps from Step 1 from downgrading.,, This step is important., Now go to Game and Start the Pandora Installer. Here there says to press [] to Normalize your Battery.Now your Battery is Normalized. Now to return your Memory Stick back to Normal, just go to Setting, then to system settings, and then to "Format Memory Stick". Now connect your PSP via USB then Format the memory stick as done before on Section "Getting Started" on step 2.,!

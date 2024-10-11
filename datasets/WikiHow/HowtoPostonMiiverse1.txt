@@ -1,0 +1,13 @@
+@summary
+to use miiverse, you have to create a nintendo network id account.
+
+@summary
+go through the process of creating an account.
+
+@summary
+you'll get a confirmation e-mail to the e-mail address you used.
+@article
+ On the Wii U, at the screen you get at boot-up, click on "New User." On the 3DS, go to "System Settings," go to "Nintendo Network ID," and select "Create a New ID.";
+, You'll be asked to read and agree to the Network Services Agreement, fill out personal information (date of birth, gender, country, region, and time zone), create a username and password, and give an e-mail address.
+ Follow the instructions in the e-mail to create your Nintendo Network ID.
+

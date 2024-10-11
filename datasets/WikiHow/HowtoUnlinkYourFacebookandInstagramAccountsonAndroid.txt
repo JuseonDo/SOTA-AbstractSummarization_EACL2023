@@ -1,0 +1,38 @@
+@summary
+open instagram.
+
+@summary
+tap the profile icon.
+
+@summary
+tap ⁝.
+
+@summary
+scroll down and tap linked accounts.
+
+@summary
+tap the check mark next to facebook.
+
+@summary
+tap not now.
+
+@summary
+,
+
+@summary
+tap unlink.
+
+@summary
+tap unlink again to confirm.
+@article
+ It’s the purple, red, and orange camera icon typically found on your home screen. If you don't see it there, tap the Apps icon (usually 6 to 9 squares inside of a circle) to find it in the app drawer.
+
+
+If you haven’t yet signed in to Instagram, do so now.;
+, It’s the gray silhouette of a head and shoulders at the bottom-right corner of the screen.
+ It’s at the top-right corner of the screen.
+ It’s under the “Settings” header.
+ A pop-up will appear.
+, A confirmation window will appear.
+ Your Facebook account is no longer linked to Instagram.
+

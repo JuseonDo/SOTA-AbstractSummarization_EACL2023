@@ -1,0 +1,32 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll to the fifth group of apps and tap safari.
+
+@summary
+,
+
+@summary
+scroll to the third group of options and tap block cookies.
+
+@summary
+,
+
+@summary
+review your cookie-blocking options.
+
+@summary
+select your preferred block option.
+@article
+ This is the grey gear icon on one of your Home screens (or in a folder named "Utilities").;
+,,, These include the following choices:
+
+
+Always Block
+Allow from Current Website Only
+Allow from Websites I Visit
+Always Allow
+
+, Blocking cookies will prevent websites from collecting data--such as your location, frequently-used passwords, and other contact information--from your browsing sessions. Disabling cookies also means you'll need to log into your accounts each time you restart your phone's browser since the sites won't remember your login information.
+

@@ -1,0 +1,78 @@
+@summary
+catalog your organization's assets as they relate to the it department.
+
+@summary
+determine what threats each asset may face.
+
+@summary
+estimate the cost of managing each foreseeable threat.
+
+@summary
+anticipate the occurrence of such threats, and calculate the foreseeable cost of each, considering how often it might occur.
+
+@summary
+,
+
+@summary
+determine controls which could mitigate each risk.
+
+@summary
+,
+
+@summary
+estimate the cost of each control.
+
+@summary
+compare the costs of each risk and its corresponding control in a cost-benefit analysis.
+
+@summary
+,
+
+@summary
+implement the risk controls that are cost effective.
+
+@summary
+,
+
+@summary
+educate all users of the it system on new controls, policies, and procedures that have been put in place to mitigate risk.
+
+@summary
+,
+
+@summary
+create a system to track how risk-management controls are being implemented, who is checking on them, and how vulnerabilities have been addressed.
+
+@summary
+set up a monitoring process to review all risks, and evaluate how controls and costs have balanced out.
+
+@summary
+revisit your risk-management policy on a regular basis.
+@article
+
+
+
+Consider your servers, computers, data, smart phones, routers, software, emails, files, networks, and website.;
+,
+
+
+Common or newly identified vulnerabilities can often be identified with the help of online forums and IT networking sites.
+Consider threats from humans (hackers, competitors, user errors), technical systems (crashes, overloads, viruses), and the environment (natural disasters like floods, hurricanes, and earthquakes).
+
+
+
+Consider the loss of access, confidentiality, and reputation in connection with potential breaches. Any interruption in commerce, lawsuit, or breach of trust can be quantified as a cost.
+,, Multiply that figure by the estimated occurrence rate to come up with the long-term cost of each control.
+,,,
+
+
+Designing a form for all users to fill out will ensure that the same data are collected on each evaluation and incident for future planning and evaluation purposes.
+
+
+
+Appointing one department or job position to head up the evaluation process can ensure timeliness and accountability.
+ Evaluate its effectiveness, revising and editing the plan as necessary, particularly in response to any changes in business processes or to the risk environment..
+
+
+Risk management should be talked about and viewed as a continuous process that underlies all decisions and practices throughout the organization.
+

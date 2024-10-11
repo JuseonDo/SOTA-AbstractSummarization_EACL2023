@@ -1,0 +1,15 @@
+@summary
+log in to the windows os on your mac.
+
+@summary
+use your windows internet browser to navigate to the website from which you want to download pc games.
+
+@summary
+,
+
+@summary
+download the pc games to your mac.
+@article
+ If your computer defaults to booting up in the Mac OS, hold down the "Option" key upon startup, then select "Windows" from the options provided.
+, After the PC games have been downloaded, you can play them from your Mac while logged into the Windows OS.
+

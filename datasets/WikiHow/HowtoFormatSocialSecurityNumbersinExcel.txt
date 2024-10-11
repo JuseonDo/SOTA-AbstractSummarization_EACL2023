@@ -1,0 +1,18 @@
+@summary
+click on the column in which you are entering one or more ssns.
+
+@summary
+right-click and review the dropdown menu that appears.
+
+@summary
+in the format cells menu box, select the special category from the left sidebar.
+
+@summary
+click on social security number, then press ok.
+@article
+ Make sure to select the column letter (at the very top) to highlight the entire section, in which you want to apply this special formatting.;
+, Select "Format Cells..."
+
+, Several different types of special information fields will appear in the middle, from which you can select.
+ The highlighted column will now format SSNs properly, which includes adding dashes between the digits and not omitting any numbers.
+

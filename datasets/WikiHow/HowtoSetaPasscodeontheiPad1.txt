@@ -1,0 +1,38 @@
+@summary
+swipe right on your ipad's screen to unlock it.
+
+@summary
+open your "settings" app.
+
+@summary
+scroll until you find the "passcode" option, then tap it.
+
+@summary
+tap "turn passcode on".
+
+@summary
+enter a passcode of your choosing.
+
+@summary
+confirm your passcode by typing it in again.
+
+@summary
+press your lock button to lock your ipad.
+
+@summary
+swipe right on your ipad's screen, then enter your passcode.
+@article
+ Once you enable your passcode, this is the screen on which you'll enter it.;
+, This is the grey gear app on your home screen.
+ If this is your first time enabling a passcode, "Turn Passcode On" will be the only selectable option.
+
+
+If your iPad supports Touch ID, this option will be called "Touch ID & Passcode".
+ Your iPad will prompt you for your desired 6-digit passcode., You'll need to enter it again exactly the same way on the next screen to verify.
+ If both your new passcodes match each other, you'll be taken back to the "Passcode Lock" screen.
+ You still need to confirm that your passcode is active.
+ Your iPad is now passcode-protected!
+
+
+You can change or remove your passcode at any time in the "Passcode" menu.
+

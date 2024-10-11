@@ -1,0 +1,29 @@
+@summary
+talk to marco before you go.
+
+@summary
+go to the steelyard.
+
+@summary
+enter the steelyard.
+
+@summary
+slowly progress through the steelyard.
+
+@summary
+pick up steel ingots when you find them.
+
+@summary
+navigate your way through.
+
+@summary
+go back to the mill once you have collected enough steel ingots.
+@article
+ He will give you an auto axe, which will make a huge difference against the Trogs.;
+, Talk to the foreman about the steel ingots.
+ As soon as you enter, go for the AK-47 dropped near the dead slave.
+ Wait for Trogs to come to you, then kill them.
+ They are located all over, so you should have no problem finding them.
+ Make mental notes of your surrounding and landmarks. Use them to find your way out.
+ Give them to the foreman and leave.
+

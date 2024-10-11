@@ -1,0 +1,53 @@
+@summary
+the first thing that needs to be done is to turn off new email notification.
+
+@summary
+make the calendar your default view in outlook.
+
+@summary
+to include your tasks in the default window, pull down the file menu and select view, then select task pad.
+
+@summary
+,
+
+@summary
+to view only tasks due today, pull down the file menu and select view, then select "task pad view", then select "today's tasks".
+
+@summary
+,
+
+@summary
+schedule a specific time each day to view your emails.
+
+@summary
+whenever you read emails, always clear out your inbox.
+
+@summary
+if you have dealt with the email, delete it.
+
+@summary
+,
+
+@summary
+to defer an e-mail, create a task by dragging the email onto the task button in the bottom left corner of outlook.
+
+@summary
+to delegate an email, create a task and assign the task to another individual or forward the email to another individual.
+
+@summary
+,
+
+@summary
+the last choice is do whatever the task is that the email requires.
+
+@summary
+to block off time in your calendar, drag and drop an email onto the calendar button in the bottom left corner of outlook.
+@article
+ To do this, Pull down the File menu, select Tools, then select Options. The options window will open. On the Preferences Tab click on the "E-mail Options" button. In the options window that opens, click on the "Advanced E-mail Options" button. In the options window that opens, look in the "When new items arrive in my inbox" section. De-select all the options.;
+, It will provide you with a view of scheduled work for the day. To set calendar as your default view, pull down the File menu, select Tools, and then select Options. In the Options window, select the "Other" tab, then click the "Advanced Options" button. In the "Advanced options" window, looking in the "General settings" section and click on browse. The select folder will open. In the "Select Folder" window, select "Calendar" and click OK three times.
+,, Set 2 to 3 times a day to work with your emails, and don't look at them at any other time. Emails are a distraction and keep you from getting real work done.
+ There should never be anything left at the end of the email session. To clear out your inbox, you must decide what to do with each email. You have four choices: Delete, defer, delegate, or do.
+, A task will automatically be created; select a start date and time, and a due date and time, then save it.
+, If you do it, delete it from your inbox or move it to a personal folder where you keep old dealt-with emails.
+ A meeting notice will open. Enter the time and date you want to block off, then save it. A copy of the email will be included with the meeting notice. Delete the email from the inbox or move to a personal folder.
+

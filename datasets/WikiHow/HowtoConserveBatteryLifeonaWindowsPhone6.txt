@@ -1,0 +1,19 @@
+@summary
+consider how bright your phone is.
+
+@summary
+head over to settings > brightness option.
+
+@summary
+,
+
+@summary
+set automatically adjust option to off (not available on all devices) and set the brightness level to low.
+@article
+ Brightness setting play a very important role in the battery consumption of the device. In case of devices with Auto Brightness, the device automatically recognizes the brightness level through Ambient Light Sensors. The optimal brightness settings are as follows,
+
+,,
+
+
+This should help the battery live a bit longer.
+

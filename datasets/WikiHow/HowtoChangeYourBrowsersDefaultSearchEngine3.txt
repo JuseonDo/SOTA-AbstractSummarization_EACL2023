@@ -1,0 +1,27 @@
+@summary
+open the settings app.
+
+@summary
+,
+
+@summary
+tap "safari".
+
+@summary
+,
+
+@summary
+tap "search engine".
+
+@summary
+,
+
+@summary
+select your desired search engine.
+
+@summary
+search in safari.
+@article
+,,, You cannot add search engines to this list.
+ Once you've changed your search engine, any searches you perform in the address bar will use the chosen engine.
+

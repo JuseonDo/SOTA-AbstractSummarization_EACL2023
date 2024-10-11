@@ -1,0 +1,25 @@
+@summary
+open powerpoint and create a new presentation.
+
+@summary
+draw the first frame of your animation.
+
+@summary
+duplicate the slide, and make a very slight change in this slide for the progress of the animation.
+
+@summary
+do not duplicate the new slide and keep going.
+
+@summary
+preview your presentation constantly, changing anything you think needs to be changed.
+
+@summary
+add in sounds and other details, then make a beginning and ending slide, maybe even an opening sequence.
+
+@article
+ Make a blank slide and set the transition to advance after .1 seconds. Click Apply to all.;
+, this one is important - it is the frame that all of the other frames in this scene will be based on. Take your time with it.
+ If you had a ball falling, make it go down one or two places. (Note: Powerpoint doesn't use actual pixels, but a slightly larger placement system. Think of it as an invisible graph.)
+
+, For things like gravity, make the motion stronger each time, eg, changing it more and more. The most catastrophic thing is to make things go too fast, so don't be afraid to take a lot of slides to do one thing - you can always delete them later.
+ Erase unneeded slides and such, add or delete details until your presentation is perfect.

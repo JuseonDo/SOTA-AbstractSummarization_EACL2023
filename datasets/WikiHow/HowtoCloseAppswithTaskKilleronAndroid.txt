@@ -1,0 +1,17 @@
+@summary
+things you need: need an android marketplace account.
+
+@summary
+launch android marketplace app from your phone desktop.
+
+@summary
+install task killer app.
+
+@summary
+select all the apps you want to kill by tapping next to the check box.
+@article
+;
+, Login to your Android Marketplace account. Type Task Killer on the search field. Locate the free Task Killer app and download and install it.
+ Press and hold the Task Killer App icon and this will place a shortcut in your phones desktop. This help launching Task Killer app easily next time. Launch it. Now you will see all the app that are running in the background as well as in the foreground. You want to take a note of all background apps you want to close.
+ Click Kill App. This will close all the apps you selected to kill.
+

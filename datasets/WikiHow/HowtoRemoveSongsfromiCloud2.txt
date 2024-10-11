@@ -1,0 +1,35 @@
+@summary
+open itunes.
+
+@summary
+click library.
+
+@summary
+click on the drop-down menu.
+
+@summary
+select music.your music library will appear.
+
+@summary
+,
+
+@summary
+click songs.
+
+@summary
+ctrl + click on a song.
+
+@summary
+click delete from library.
+@article
+ It's the icon with a musical note.
+ It's located at the top of iTunes.
+ It's located in the upper-left corner of iTunes.
+, It's located on the menu pane on the left-hand side of iTunes.
+ Doing so will reveal a menu of pop-up options.
+
+
+If you're using a Windows computer, right-click on the song instead.
+Songs with the a cloud icon next to their name are songs that exist in your iCloud library but not on your computer's hard drive.
+ The song will be deleted from your iCloud Music Library.
+

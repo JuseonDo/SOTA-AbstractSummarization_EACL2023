@@ -1,0 +1,24 @@
+@summary
+open up tux paint to the initial screen.
+
+@summary
+you can simply start with the screen that is displayed, or you can click on 'new' and look at the many options.
+
+@summary
+for this article, a castle will be used.
+
+@summary
+once you have the image on the screen, there are many ways to 'color'.
+
+@summary
+click on 'lines' on the left, and then look at all of the tools/brushes on the right.
+
+@summary
+see your finished product!
+
+@article
+ You will have to use the Tux Paint configuration utility if it doesn't look like you think it should.;
+, There are different colors of screens to choose from as a background and quite a few things to actually color.
+ From the screen shown above, select the castle.
+ Click on 'Magic' and check out the many options under there. Sometimes, when you use the 'Fill' command, it will go where it shouldn't. When that happens, you have to be a little more careful.
+ To use these, you click on one spot, drag a straight line, and take it to the end of where you want it. That is only when you want some type of precision. When you are just 'coloring in a spot', pick the paintbrush and just color away.

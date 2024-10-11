@@ -1,0 +1,17 @@
+@summary
+launch the terminal application.
+
+@summary
+type in the following command and hit return.
+
+@summary
+into the applications directory, type in a final command.
+
+@summary
+type in your admin password.
+@article
+ Go to Finder → Applications → Utilities → Terminal.
+ Into Terminal, type "cd /Applications/" and hit Return. This should route you automatically to the Applications directory.
+ Type in "sudo rm -rf iTunes.app/" and hit Return.
+ This will confirm your deleting of iTunes. The program and its associated folders should now be removed from your computer.
+

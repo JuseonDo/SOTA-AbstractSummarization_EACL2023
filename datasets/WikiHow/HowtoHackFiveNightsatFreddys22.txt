@@ -1,0 +1,74 @@
+@summary
+close any open games you may have running.
+
+@summary
+open run ({{keypress{win|r}}) and type %appdata%.
+
+@summary
+open the "roaming" folder.
+
+@summary
+find the file "freddy2" and right click on the file.
+
+@summary
+erase the contents of the file and type in or paste the following code to unlock the game:
+
+@summary
+beatgame=1
+
+@summary
+beat6=1
+
+@summary
+cine=1
+
+@summary
+level=5
+
+@summary
+turn=2
+
+@summary
+c10=1
+
+@summary
+c9=1
+
+@summary
+c8=1
+
+@summary
+c7=1
+
+@summary
+c6=1
+
+@summary
+c5=1
+
+@summary
+c4=1
+
+@summary
+c3=1
+
+@summary
+c2=1
+
+@summary
+c1=1
+
+@summary
+,
+
+@summary
+save the file and then open the game to play.
+@article
+ This won't work if FNAF2 is open.
+ This will bring you to a folder that contains the app settings and data files that are associated with the apps on your computer., There will be a lot of files in this folder--the one you want is a folder called "MMFApplications." Find it by scrolling through the files or press Ctrl+F and type "MMFApplications" in the search bar.
+
+
+When you find MMFApplications, open the folder.
+ Select "Open with" from the pop-up menu and choose Notepad.
+, You will now have access to "Custom Night" and "Night 6." You will also have all the "Plushies" and all three stars.
+

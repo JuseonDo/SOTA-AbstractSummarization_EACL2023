@@ -1,0 +1,20 @@
+@summary
+navigate to facebook in your browser.
+
+@summary
+click chat.
+
+@summary
+enter your friend's name into the chat field.
+
+@summary
+look for a green circle next to their name.
+@article
+ If prompted, enter your username and password and click Log in.
+ This is in the lower right of the page and will open a small popup window.
+ Search results will appear in the chat box.
+ This indicates that they are online and available for chat.
+
+
+Friends can disable their online status in the chat settings. If they do, you will not be able to see if they are online.
+

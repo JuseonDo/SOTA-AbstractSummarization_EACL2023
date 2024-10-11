@@ -1,0 +1,44 @@
+@summary
+create an account.
+
+@summary
+read wikipedia's page about vandalism to find out what vandalism is and how you can spot it.
+
+@summary
+,
+
+@summary
+during your first few days on the site, use the recent changes page to find edits that are vandalism and click "undo" to revert them.
+
+@summary
+,
+
+@summary
+you'll become an autoconfirmed user after 4 days and having made at least 10 edits.
+
+@summary
+continue using the recent changes page to find edits that are vandalism and reverting them, only this time, revert them with twinkle's rollback function.
+
+@summary
+go to the rollback request page.
+
+@summary
+,
+
+@summary
+click on the "edit" button at the top of the page and follow the instructions in the edit page to make your request.
+
+@summary
+preview your request to check for errors, then click "save page" to post your request.
+
+@summary
+,
+
+@summary
+wait.
+@article
+ You need to be a registered user in order to get rollback.;
+,,, With this, you'll have access to the Twinkle gadget. Twinkle allows to revert edits by a rollback-like function that allows you to revert multiple edits by the same user at once. Turn this tool on by going to "Preferences," clicking on "Gadgets," checking "Twinkle, a set of tools that automates common tasks such as reporting vandalism, warning vandals, requesting deletion, welcoming users, and tagging articles," and clicking "Save" at the bottom of the page.
+ You'll also have access to other tools that will make finding and reverting vandalism easier, which you can find on this page. Do this until you've been on the site at least 3 months and have over 200 edits.
+, You'll have to include a short message that explains why you want the rollback right. Be sure that you sign your message by putting four tildes (~) at the end of it.
+, It can take anywhere from a few hours to a few days for an administrator to answer your request. If all goes well, you'll be granted the right.

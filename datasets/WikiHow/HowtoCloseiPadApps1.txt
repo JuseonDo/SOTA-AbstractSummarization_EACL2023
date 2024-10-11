@@ -1,0 +1,15 @@
+@summary
+double-tap the home button.
+
+@summary
+find the app you want to close.
+
+@summary
+swipe up on the app that you want to close.
+
+@summary
+press the home button when finished.
+@article
+ This will display your recently-used apps., Swipe left and right to see the apps in the list.
+ You can also use two fingers to swipe two apps at once.
+ This will return you to the Home screen.

@@ -1,0 +1,30 @@
+@summary
+open the terminal.
+
+@summary
+without any preparation needed, copy in the following phrase: "defaults write com.apple.screencapture location".
+
+@summary
+press the spacebar once.
+
+@summary
+press enter.
+
+@summary
+,
+
+@summary
+force a reset.
+
+@summary
+make a screenshot to test the solution.
+@article
+ You can get to the Terminal by going up to Spotlight in the very top right hand of your screen (the magnifying glass icon), and simply typing "terminal".
+
+
+Alternatively, go through your Applications folder and find it.;
+, Do not use the quotation marks though.
+ Then drag the folder that you'd like your screenshots to save to, into the Terminal.
+, In order to force the settings to reset, type "killall SystemUIServer" (again, without quotations) into the Terminal and press Enter.
+ You should now notice that your screenshots are saving to your designated folder.
+

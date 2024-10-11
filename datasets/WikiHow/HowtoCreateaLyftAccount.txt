@@ -1,0 +1,64 @@
+@summary
+open the lyft app.
+
+@summary
+tap get started.
+
+@summary
+,
+
+@summary
+enter your phone number.
+
+@summary
+,
+
+@summary
+tap next.
+
+@summary
+open the text from lyft.
+
+@summary
+,
+
+@summary
+enter the code in the spaces on your screen.
+
+@summary
+enter your first and last name.
+
+@summary
+,
+
+@summary
+enter your preferred email address.
+
+@summary
+read the terms of service and tap accept.
+
+@summary
+,
+
+@summary
+decide whether or not you want lyft to send notifications to you.
+
+@summary
+schedule your first lyft ride.
+@article
+ It's a pink app with the word "lyft" in bold, white text.
+
+
+If you haven't downloaded Lyft, do so from your iPhone's App Store or the Google Play Store on your Android device.;
+,,, Doing so generates an SMS (text) message with a verification code.
+,
+
+
+If you didn't receive a text or the code expired, tap Resend code to get a new one.
+, Lyft sends email receipts after each ride.
+
+
+You can also upload a profile picture, if you wish to do so.
+, Tap Not now to enable them later or OK to start receiving notifications right away.
+ To do so, set your location on the map, tap Set pickup, then tap Request Lyft.
+

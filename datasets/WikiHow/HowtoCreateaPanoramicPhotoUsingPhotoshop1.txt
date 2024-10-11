@@ -1,0 +1,16 @@
+@summary
+leave the camera in one place.
+
+@summary
+take the pictures.
+
+@summary
+include half of the previous picture in your next picture.
+
+@summary
+check to make sure you took pictures of the whole scene before leaving.
+
+@article
+ If possible, use a tripod.;
+, Start at the left side.
+ It will make the stitching process easier. Though any overlap will do. Note: When taking the pictures, check your exposure. If exposures are off from one photo to the next there will be a stitch line in the panorama.

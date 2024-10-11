@@ -1,0 +1,34 @@
+@summary
+select your icon.
+
+@summary
+open up aim 6, 6.8, whatever.
+
+@summary
+at the top, click on edit, and there should be a pull-down menu.
+
+@summary
+a window will pop up.
+
+@summary
+follow this step carefully.have both the window with your selected icon open or minimized, and have the settings/expressions window open.
+
+@summary
+open aim 7.
+
+@summary
+,
+
+@summary
+where your screen name and status message are shown, there should be a large version of your current buddy icon.
+
+@summary
+a small menu will appear to the left of your icon.
+@article
+ Make sure it's an ICON, not a photo because it has to be within a certain dimension. A really good site is http://expressions.aim.com/browseExpressions.jsp;
+, This should be indicated by a small bubble near the time display, if you are using Windows.
+ At the bottom of it, click on settings.
+ There will be a list of options on the side, so click on Expressions. It's the 7th one down. At the right hand top corner, your current icon/picture will appear.
+ On the window with your icon, click and drag the icon over the picture in the Expressions window. You will get a message telling you to make sure you aren't using copyrighted material. Click OK, and then you have your icon!,, Click on it once.
+ Select what you want to change. If you're uploading an icon, refer to the steps above, but there is a new option where you can crop the icon to fit.
+

@@ -1,0 +1,16 @@
+@summary
+run command prompt.
+
+@summary
+type the word 'tracert'.
+
+@summary
+,type the website's domain name.
+
+@summary
+hit 'enter.
+@article
+;
+,, The domain name is the website's URL, minus the 'http://' 'www' part.
+ The first number that is revealed is the website's IP address.
+

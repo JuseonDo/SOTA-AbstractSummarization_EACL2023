@@ -1,0 +1,23 @@
+@summary
+route markers tell you the number of the interstate highway.
+
+@summary
+cardinal direction auxiliaries tell you whether the highway you are about to enter leads to the north, south, east or west directions.
+
+@summary
+,
+
+@summary
+alternate route signs come in three flavors.
+
+@summary
+directional auxiliaries tell you of the possible directions you can proceed towards.
+@article
+ They are blue with white text and a red stripe on top that reads "INTERSTATE." They come in the shape of a shield.
+, White signs inform you of alternate routes and whether you need to bypass anything. Orange signs warn you of a detour and point towards the alternate direction you should take. Green signs tell bicyclists of the beginning and end of auxiliary paths.
+ They are white with black arrows.
+
+
+
+Directional auxiliaries for bicycles are green with white arrows, and function in the same way.
+

@@ -1,0 +1,21 @@
+@summary
+press the home button.
+
+@summary
+place your finger on the home button to scan your fingerprint.
+
+@summary
+,
+
+@summary
+tap end.
+
+@summary
+slide the “guided access” switch to the off position.
+@article
+ It’s the large round button at the bottom of the screen.
+
+
+This method will only work if you’ve set up Touch ID on your iPhone and enabled it your Guided Access settings.,, It’s at the top left corner of the screen.
+ Guided Access is now disabled.
+

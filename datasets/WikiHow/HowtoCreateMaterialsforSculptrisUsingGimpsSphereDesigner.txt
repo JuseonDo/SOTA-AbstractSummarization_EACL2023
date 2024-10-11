@@ -1,0 +1,30 @@
+@summary
+start a new project in gimp.
+
+@summary
+click on filter >> render >> sphere designer...
+
+@summary
+,
+
+@summary
+start changing things in the dialog box.
+
+@summary
+using the magic wand, click on the background of the image that is not the sphere.
+
+@summary
+click on select >> shrink.
+
+@summary
+click on image >> crop to selection.
+
+@summary
+save the sphere as a png and in the materials folder under sculptris.
+
+@article
+ Ctrl N or File >> New... Make it square. 640 X 640 is a good size. If you want, you can make the background a pretty bright color using the bucket fill. This will make it easier to separate the sphere from the background later.;
+,, Make your changes and play around. Once complete, click on OK. Note, in this sphere, there is a small area around it. You will need to get rid of that for the sphere to work properly in Sculptris.
+ Then click on Select >> Invert.
+ Shrink down the selection. 10 is a good amount.
+ This will get rid of the extra.

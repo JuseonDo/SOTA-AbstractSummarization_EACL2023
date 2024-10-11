@@ -1,0 +1,46 @@
+@summary
+turn on your android’s gps.
+
+@summary
+open instagram.
+
+@summary
+tap the new post button.
+
+@summary
+select a photo or video and tap next.
+
+@summary
+,
+
+@summary
+edit your photo (if desired) and tap next.
+
+@summary
+,
+
+@summary
+tap add location.
+
+@summary
+start typing a location.
+
+@summary
+select your location from the results.
+
+@summary
+,
+
+@summary
+tap share.
+@article
+ Pull down the notifications bar from the top of the screen, then tap Location or GPS. You may have to pull down twice to see this option.;
+, It’s the red, orange, and purple camera icon. You’ll typically find it on your home screen.
+ It’s the plus sign button at the bottom of the screen.
+,, It’s right beneath the caption box.
+
+
+If you see the location you want to add beneath this button, you can simply tap that instead.
+ Instagram will display possible location matches as you type.
+, It’s at the top-right corner of the screen. Your photo or video now appears in the feed with its location.
+

@@ -1,0 +1,29 @@
+@summary
+keep an eye on your actual sanity meter.
+
+@summary
+for enemies that drain your sanity by looking at you, slash off their heads before finishing them off.
+
+@summary
+notice some of the effects that happen when your sanity is low.
+
+@summary
+cast a spell to heal your sanity.
+@article
+ Go to your inventory every once in a while to check on it.;
+, When they are on the ground, doing a finishing shot or slash will regain some of your sanity.
+ These include;
+
+
+Bleeding walls
+Flying books in the mansion
+Paintings change to be weird in the mansion
+Distant sounds of many voices screaming or crying
+Ground starts titling
+Character says things like "this can't be happening"
+You start actually losing health
+Screen appears turning down volume, and also "mute"
+You continue playing as normal, but it turns out your character just imagined it
+
+, Luckily, your magick returns just as you run around.
+

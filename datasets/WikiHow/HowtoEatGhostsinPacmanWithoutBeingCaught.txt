@@ -1,0 +1,38 @@
+@summary
+the ghosts go in different directions, so try to remember their movement patterns.
+
+@summary
+the place where you have started, go the opposite direction and don't go down(instead go up).
+
+@summary
+,
+
+@summary
+keep going up until you have reached the top aisle on the drawing.
+
+@summary
+,
+
+@summary
+the red ghost will be the last one to chase you, and the blue one will be the first because you are at the very top.
+
+@summary
+go down and eat the fruit in the middle because you have time before they regrow.
+
+@summary
+,
+
+@summary
+whenever you see the pink or blue ghost coming for you, go into the tunnels or just eat all the small dots on the bottom of the screen.
+
+@summary
+to escape orange ghosts, you have to always eat the fruit in the middle to make him stunned and he won't chase after you.
+
+@summary
+to escape red ghost, just eat the power pellet, because even if they have regrown, they run away for 8 seconds, and start chasing you again.
+
+@article
+ The Red ghost always goes around the whole screen from right to left to make its way to you. The Pink Ghost always goes after you by going from any direction except the bottom. The Light Blue Ghost comes from sides of you and will always go through the tunnels that take you to the opposite direction (if the Pac-Man you are playing has tunnels) The Orange ghost also goes any direction, but except the right side of you, and most likely to catch you from the left.;
+,,, Eat the Power Pellet for the points, so go after all the ghosts, because by then all the ghosts are close to you.
+, This way, the Pink and Blue ghosts will take at least 15-20 seconds to chase you again. When you have eaten all the bottom dots, and go through the tunnel, they both go around the screen and they don't chase you for a period of time.
+ Note that the Orange ghost will start chasing you quick because they go buy the points, and divide the number of the 1st number on your score=that's how much time they don't chase you(eg. you have 500 points=2.5 seconds they don't chase you.)so it is only on luck because low points can be good or bad and high points can be good or bad.

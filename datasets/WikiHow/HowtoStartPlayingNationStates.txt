@@ -1,0 +1,35 @@
+@summary
+visit the nation states website.
+
+@summary
+click the link "create a nation" at the left, near the top of the page.
+
+@summary
+,
+
+@summary
+choose the right settings.
+
+@summary
+click continue.
+
+@summary
+,
+
+@summary
+answer the questions.
+
+@summary
+wait until your nation has been created and enjoy your new dominion.
+
+@summary
+,
+
+@summary
+finished.
+
+@article
+;
+,, Decide on the name of your nation and other things such as your nation currency, animal, motto and flag. Give your active email address and choose an easy-to-remember password. Remember that some of this information (the name of your nation, for instance) cannot be reversed.
+, Each one has a bearing on what kind of nation you will start as, and could mean the difference between Anarchy and a Psychotic Dictatorship.
+,

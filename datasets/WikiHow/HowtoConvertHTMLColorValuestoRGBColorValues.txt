@@ -1,0 +1,25 @@
+@summary
+locate the html color code you wish to convert.
+
+@summary
+search the web for a html color code conversion page.
+
+@summary
+click the page for the link.
+
+@summary
+type the hex code into the box labelled "hex (hexadecimal) notation:".
+
+@summary
+click the submit or "send" (or similar) button.
+@article
+
+
+
+
+ ;
+, Use the search term (convert hex to RGB).
+ One of the included links might be this page.
+ Make sure to include the number/pound sign (#) or this will not work.
+ On the page described above, the box will be labelled "RGB --> to CMYK", and that should be located to the right of this entry box. You will happily be returned the RGB code for the color value you need.
+

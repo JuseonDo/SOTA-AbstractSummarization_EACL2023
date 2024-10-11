@@ -1,0 +1,90 @@
+@summary
+keep track of your income and spending for 1 or 2 months before creating your excel budget.
+
+@summary
+evaluate your income at the end of the first or second month to determine your average monthly earnings.
+
+@summary
+look at what you have spent money on during the 1 or 2 month period, and make categories for your budget based on that.
+
+@summary
+open excel, and create a new spreadsheet.
+
+@summary
+,
+
+@summary
+save the spreadsheet.
+
+@summary
+type the name of each month in the top row of the budget spreadsheet, and start in column b.
+
+@summary
+,
+
+@summary
+type the word "income" in column a of the second row.
+
+@summary
+type =sum(b#:b#2) in the box next to the box containing "total income.",
+
+@summary
+type =sum(letter#:letter#2) for the remaining columns of months.
+
+@summary
+add a final column to total your income for the year.
+
+@summary
+type the word "expenses" in the next row underneath the income section in column a.
+
+@summary
+,
+
+@summary
+choose a category to insert underneath expenses.
+
+@summary
+list any expenses for housing in the rows below.
+
+@summary
+type "total" in the final row of the "housing" category, then type the =sum formula in each column for each month.
+
+@summary
+type "anticipated" or "estimated" in column a of the row below "total," and then type in what you expect to spend on housing during each month based on your previous tracking.
+
+@summary
+continue to set up sections on the excel spreadsheet for each category of your personal budget.
+
+@summary
+type "total expenses" in column a in the row beneath all your budget sections.
+
+@summary
+type "over/short" in the row beneath "total expenses" in column a.
+@article
+;
+, Unless you are self-employed, it may be easier to use your take-home pay instead of your gross income.
+ You may want to set up broad categories, such as housing, food, and debt repayment, and then set up sub-categories within them, such as mortgage or rent, utilities, and repairs under the housing category.
+, Name it "Budget" or something similar.
+,
+
+
+Under the word "Income," list all your sources of income for each month, including your paycheck, your spouse's paycheck, any bonuses or commissions you receive, interest or dividends, and any other sources of income.
+Under the list of income, type the words "Total Income."
+
+, The # sign represents the first row of income, and #2 represents the final row of income. "B" is the column you are totaling. It should be for January.
+ The formula will automatically add up your income for each month. Instead of "letter," type the corresponding letter of the column (C, D, E, etc.).
+ Type this next to the column for December. Type the =sum formula into each box in that column to total your entire income for the year.
+, For example, type the word "Housing" in the row under "Expenses" in column A.
+ Include items such as repairs, the cost or rent of your mortgage, utilities, telephone and Internet service, furnishings, and landscaping.
+ The formula will calculate how much you've spent for housing during each month.
+
+
+
+You'll be able to compare your spending with what you would like to spend by looking at the "Total" number compared to the "Estimated." Adjust the "Estimated" number as needed.
+ Use the =sum formula to total the amount of each category and compare it to your estimated amounts.
+ In the next column over, type =sum(B#:B#2), where # is the first row number of the list of expenses and #2 is the final row number of the list of expenses. Repeat in the remaining columns.
+ In column B, type =sum(B#-B#2), where # is the row number of your total income and #2 is the row number of "Total Expenses."
+
+
+The formula will subtract your expenses from your income and allow you to see whether you've spent more than you've earned. Repeat with the remaining columns.
+

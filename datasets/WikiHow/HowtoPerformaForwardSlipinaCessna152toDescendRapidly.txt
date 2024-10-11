@@ -1,0 +1,18 @@
+@summary
+when executing a forward slip to lose altitude, power to idle, and slow the plane to 80 knots before starting the slip.
+
+@summary
+pick a point far in front of you and make it your heading or target.
+
+@summary
+,
+
+@summary
+bank into the wind.
+
+@summary
+to recover from the slip, simultaneously release the rudder pedal and level the plane with the ailerons.
+
+@article
+ Typically flaps are not used in this situation, but consult your Pilots' Operating Handbook (POH) before deciding whether flaps are necessary.;
+,, As soon as your target starts moving, apply opposite rudder in order to keep moving towards your target. (Ex. Left rudder, right aileron) Make sure the nose of the plane is low enough to keep your airspeed up. Do not apply too much aileron because you can become inverted. Do not allow the airspeed go above 80 knots because that will stress the plane. Do not allow the airspeed to drop below 60 knots because you can get into a cross-control stall and induce a spin.

@@ -1,0 +1,25 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll to the fourth group of options and select icloud.
+
+@summary
+,
+
+@summary
+tap icloud drive.
+
+@summary
+scroll to the bottom of the page.
+
+@summary
+,
+
+@summary
+slide the use cellular data switch left to the "off" position.
+@article
+ Do so by tapping the grey gear icon on one of your Home screens (it might also be in a folder named "Utilities").;
+,, If your iCloud Drive is disabled, your data isn't being used for transfers.
+, It should turn grey, signifying that iCloud will only transfer your documents and data when your phone is connected to wifi.
+

@@ -1,0 +1,34 @@
+@summary
+tap the gear icon on your iphone’s home screen.
+
+@summary
+tap the general option.
+
+@summary
+go to keyboard.
+
+@summary
+tap on "add shortcut" or "text replacement".
+
+@summary
+tap on the "plus" sign or "edit" to add a new word.
+
+@summary
+,
+
+@summary
+type in the word you want to add in the "phrase" box.
+
+@summary
+finished.
+@article
+ The Settings menu of your device will open up.;
+, This will open up the General Settings menu.
+ In the General Settings menu, scroll down a bit and tap “Keyboard” to open the Keyboard Settings menu.
+
+
+When you enter the Keyboard Settings menu, check that these are enabled: Auto Correction, Check Spelling, and “.” Shortcut.
+ This will depend on the iOS version on your iPhone.
+, You can leave the "shortcut" box empty. Click on "Save" when you're done.
+ You can see and use your inputted word without autocorrect interfering.
+

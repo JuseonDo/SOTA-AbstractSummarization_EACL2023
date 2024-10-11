@@ -1,0 +1,15 @@
+@summary
+catch a graveler.
+
+@summary
+go to the nearest pokémon center with your friend.
+
+@summary
+,
+
+@summary
+trade your graveler.
+@article
+ You can find these in the Safari Zone, at or around level 16. You can also catch a Geodude and evolve it into Graveler at level 25.;
+,, Once it reaches the other game, it will evolve into Golem.
+

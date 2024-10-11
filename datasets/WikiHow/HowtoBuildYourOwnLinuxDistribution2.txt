@@ -1,0 +1,64 @@
+@summary
+create an account at suse studio.
+
+@summary
+choose your desktop template.
+
+@summary
+click on create your appliance to get started.
+
+@summary
+,
+
+@summary
+click on the software tab on the "welcome page" that appears after you select a template.
+
+@summary
+,
+
+@summary
+select the software you want in your new linux distro.
+
+@summary
+click on the configuration tab.
+
+@summary
+,
+
+@summary
+click the personalize button below the configuration tab.
+
+@summary
+click on desktop in the configuration menu after you have finished personalizing.
+
+@summary
+,
+
+@summary
+click the build tab from the main menu.
+
+@summary
+,
+
+@summary
+select a format to store your new system.
+
+@summary
+,
+
+@summary
+click the build button.
+
+@summary
+test drive your new linux distro.
+
+@summary
+click on download (next to testdrive) after confirming your new os is performing as expected.
+
+@article
+ SUSE Studio is graphical and browser-based, and is a relatively easy way to create your own custom Linux distro.Note that you will need to verify your new account via the email message you receive from Suse Studios.
+ Consider your needs when choosing your Desktop template. Minimal X is a truly "bare bones" set up. If you are looking for a fast, highly functional system with few bells and whistles, then consider Just Enough OS. GNOME is another popular choice that adds a good bit of extra functionality (control panel similar to Windows), but is still relatively spare. KDE4 is highly configurable with a broad range of features, and is designed to allow users to create custom systems.
+,, Keep in mind you are going to want at least a browser, graphics software such as GIMP and some type of multimedia utilities such as Flash Player or gstreamer and a text processing app (Libre Office is very popular).
+, Choose your background and logo using the images provided or upload your own.
+,,, Note that it may take as long as 15-20 minutes to build your new system (depending on connection speed).
+ Click the Test Drive link toward the bottom of the page, and the system will begin to boot. Press Enter when you see the OS logo on the monitor.

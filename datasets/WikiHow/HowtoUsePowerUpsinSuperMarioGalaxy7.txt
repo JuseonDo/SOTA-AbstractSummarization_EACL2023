@@ -1,0 +1,17 @@
+@summary
+find a red mushroom with stars on it to increase your health.
+
+@summary
+be careful with this, this is a one time per mario event unless if the level is complicated.
+@article
+ Your health will grow to 6 at maximum health.
+
+Can be found in Luma Shops for only 30 star bits
+
+
+
+
+
+
+
+, If your health drops below 4, then you will return to normal. The only events that will instantly drop your Life Meter to 0 (even with the Life Mushroom power-up) include falling off, getting crushed by a Thwomp or Tox Box, falling into poison/quicksand, and running out of time (if a Speedy Comet is in orbit).

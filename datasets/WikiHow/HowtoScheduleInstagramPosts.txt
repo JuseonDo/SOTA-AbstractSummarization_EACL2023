@@ -1,0 +1,52 @@
+@summary
+go to later.com.
+
+@summary
+,
+
+@summary
+click create account with instagram.
+
+@summary
+click authorize.
+
+@summary
+enter the required information on the page.click next >.on your device, download the later app through the app store or play store.open the later app.tap connect later account.enter the email and password that you used to create your later account.tap sign in.
+
+@summary
+tap allow.
+
+@summary
+tap add new media.
+
+@summary
+tap ok.
+
+@summary
+add media by taking a new photo or choosing a photo from your library.once you have added the media you want to schedule, tap the photo (or video) from the media screen.tap create post.format your post as desired, adding text or cropping the photo.tap next.enter the time you wish to schedule the post for.
+
+@summary
+tap set time.
+
+@summary
+tap schedule.tap post now for a post that is ready to publish.tap open in instagram.ensure that the correct account is being used, and tap yes, i’m logged in correctly.
+
+@summary
+tap copy to instagram.tap next.tap next.in the “write a caption…” field, tap twice.
+
+@summary
+tap paste.
+
+@summary
+tap share.
+@article
+, This is a large green button on the front page of the website. This will direct you to Instagram’s website.
+
+If you are not already logged in on Instagram’s website, you will be prompted to do so.
+ This gives Later permission to access your Instagram account.
+
+All third-party apps will require this access to schedule posts. If you’re uncomfortable with providing access to a third-party (who can use your data), you can always revoke access through Instagram’s access section (located on your profile page).
+ This completes your Later profile.,,,,,,, This will allow the Later app to send you notifications. This will be necessary to publish your Instagram posts., This is the button with a plus sign near the bottom of the screen., This will give Later access to your photos.,
+
+Taking a new photo will require you to allow the Later app access to your Camera.
+,,,,, Once a post has reached its scheduled time, the Later app will send you a notification that the post is ready, This is the middle icon of the calendar at the bottom of the screen. This shows your scheduled posts, and posts that have reached their scheduled time and are ready to publish.,,,, This will open the post in Instagram.,,,, This will insert the caption you wrote for this post in the Later app., This is in the top right of the screen. This will publish the post.

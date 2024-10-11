@@ -1,0 +1,19 @@
+@summary
+open a text editor.type your bio or comment as you want it to appear.copy the text.
+
+@summary
+open instagram.navigate to the post on which you want to comment.
+
+@summary
+tap the comment button.
+
+@summary
+tap and hold the comment box.
+
+@summary
+tap paste.
+
+@summary
+tap the check to post your comment.
+@article
+ This can be any text editor on your phone, such as Google Keep.,,, It’s an app with a camera icon, typically found on your home screen (iPhone) or in the app drawer (Android).,, It’s the text bubble icon just below the post., You’ll now see an option to paste the copied text., The copied comment should now appear in the comment box., Your comment now appears with the line break in the correct place.

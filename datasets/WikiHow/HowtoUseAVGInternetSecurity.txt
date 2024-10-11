@@ -1,0 +1,44 @@
+@summary
+open scan whole computer – the setting is found in scan options.
+
+@summary
+return to main menu.
+
+@summary
+select web to open web browsing protection.
+
+@summary
+ensure identity protection.
+
+@summary
+open email scanner settings.
+
+@summary
+open scans on the menu bar.
+
+@summary
+for shell extension scan and removable device scan, you will want check each box except for the first one if you want to be notified when a virus is removed.
+
+@summary
+,
+
+@summary
+ensure the definition update schedule is set to automatic.
+
+@summary
+ensure that the program update schedule runs when the computer starts up and updates when a connection is available.
+
+@summary
+ensure that the user is notified if a computer restart is required.
+@article
+ Click on the check boxes next to scan for tracking cookies, scan inside archives, and enable thorough scanning. Select save the current settings.;
+, Select Computer, open AntiVirus settings. Click on the check boxes next to Report enhanced set of potentially unwanted programs, scan files on close, and enable thorough scanning. Click OK and return to the main menu.
+ Ensure the Link Scanner is enabled. This will protect you from threats by scanning web links that may take you to harmful sites.
+ Link Scanner is enabled. it will display a green check-mark to show that they are running.
+ Click on the check-boxes under Scanning Properties and Email Attachment Reporting. Select Apply
+
+, Select Whole Computer Scan and Click on all check-boxes under Scan Settings. Do the same for Specific Files or Folders Scan.
+, It is located under Schedules.
+ This is also located under Schedules.
+ This is found by clicking on 'Update'.
+

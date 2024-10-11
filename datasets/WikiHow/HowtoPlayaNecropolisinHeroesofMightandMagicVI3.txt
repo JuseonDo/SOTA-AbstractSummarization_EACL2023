@@ -1,0 +1,7 @@
+@summary
+get the reinforcements ability.
+
+@summary
+don't focus too much on tactics.it is worth noting that tactics abilities become far more useful when playing a might character.
+@article
+ Reinforcements are very useful., Tactics (especially once upgraded to second tier) can occasionally be very helpful. Other than that, you usually won't find the tactics type abilities to be particularly helpful for a magic Necropolis army.,

@@ -1,0 +1,69 @@
+@summary
+bulgarian: "обичам те".
+
+@summary
+korean: "당신을 사랑합니다".
+
+@summary
+croatian: "volim te".
+
+@summary
+danish: "jeg elsker dig".
+
+@summary
+estonian: "ma armastan sind".
+
+@summary
+finnish: "rakastan sinua".
+
+@summary
+galacian: "quérote".
+
+@summary
+gregorian: "მე შენ მიყვარხარ".
+
+@summary
+greek: "σ 'αγαπώ".
+
+@summary
+hindu: "मैं तुमसे प्यार करता हूँ".
+
+@summary
+hungarian: "szeretlek".
+
+@summary
+indonesian: "aku mencintaimu".
+
+@summary
+macedonian: "те сакам".
+
+@summary
+norwegian: "jeg elsker deg".
+@article
+ This is pronounced, "Obicham te";
+, This is pronounced, "Dangsin-eul salanghabnida"
+
+, This is pronounced, "Vol-eem teh"
+
+, This is pronounced, "Yag elsker dai-g"
+
+, This is pronounced, "Mah Ah-rmah-stahn sind"
+
+, This is pronounced, "Rah-kah-stahn see-noo-ah" (You can roll the R is you are capable)
+
+, This is pronounced, "Keh-roteh"
+
+, This is pronounced, "Meh shen mik-varkhar"
+
+, This is pronounced, "Sig-MAHga-po"
+
+, This is pronounced, "Maiṁ tumasē pyāra karatā hūm̐-- Mahm-tuhmseh-pee-ah-rah-kah-rah-tah-hm"
+
+, This is pronounced, "Seh-reh-t-leh-k"
+
+, This is pronounced, "Ah-kuh Mehn-see-tahimuh"
+
+, This is pronounced, "Teh sah-kahm"
+
+, This is pronounced, "Yah-i El-skehr-Dah-ig"
+

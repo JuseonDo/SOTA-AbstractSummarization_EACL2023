@@ -1,0 +1,15 @@
+@summary
+go to settings.
+
+@summary
+find usage in general.
+
+@summary
+,
+
+@summary
+delete the apps that you no longer use.
+@article
+ After that go to General.;
+,, After you delete these, the size of the free space should increase. Check the storage amount again, as outlined above.
+

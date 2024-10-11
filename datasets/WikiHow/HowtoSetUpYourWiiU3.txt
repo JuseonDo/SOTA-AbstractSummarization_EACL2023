@@ -1,0 +1,40 @@
+@summary
+find the right input on your tv (hdmi or component) then press the power button on your wii u.
+
+@summary
+open the little compartment on the front of the wii u and press the red sync button.
+
+@summary
+press the symbols on the gamepad in the order they appear on screen.
+
+@summary
+click the country you live in.
+
+@summary
+your display has automatically been set by the console.
+
+@summary
+you will need to setup the sensor bar if you are using wii remotes.
+
+@summary
+agree to health and safety and terms of use.
+
+@summary
+select your internet connection, enter the security key, and wait for it to test the connection.
+
+@summary
+update the wii u.
+
+@summary
+add a new user.
+
+@summary
+create a mii character.
+
+@summary
+if you haven't already, set up a nintendo network id by following steps on screen.
+
+@summary
+if you are setting up your child's wii u, set up some parental controls.enjoy your wii u!
+@article
+  Next, press the power button on your GamePad.,  Then press the red sync button on the GamePad.,  Then select your language that you want to use on the console.  Any start up settings you input incorrectly can be changed later.,  Then select the date and time that it is currently.  It is vital that this is set to the real time as close as possible as games such as Animal Crossing use real-time, and won't work if not set correctly.,  Press X to change if it did not set up properly.  This step is optional:  You can use the GamePad as a TV remote for most modern TVs.  Select whether it is a direct TV remote or a cable TV remote.  Then follow on screen prompts.,  Complete the calibration steps shown on screen.,  It is very important that you read these documents carefully.,  If you do have an internet connection, use it.  You can also buy Ethernet adapters sold separately if necessary.,  You should do this, as the loaded update when shipped to the store would not be the not recent update, so you should update.,  If you do not have a Nintendo Network account, press the "Add New User" option, otherwise click the button below that.  Follow the steps on screen.,  You can create a Mii either from parts you pick or from your photo.  Go nuts with this step!  You can also import from your 3DS or Wii.,  You need this to access the shop, online multiplayer and other features.,  You can set up different ones for each child.  For example, John, who is 12/13 years old, will be able to play games with a moderate content rating or lower, and Fred, who is 15/16 may be able to play games that are strong in impact, but not adult only games.,

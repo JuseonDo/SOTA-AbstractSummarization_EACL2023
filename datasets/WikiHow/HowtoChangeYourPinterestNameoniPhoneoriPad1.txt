@@ -1,0 +1,44 @@
+@summary
+open pinterest.
+
+@summary
+tap the profile icon.
+
+@summary
+tap the gray bolt.
+
+@summary
+tap edit profile.
+
+@summary
+,
+
+@summary
+tap name.
+
+@summary
+,
+
+@summary
+tap first name to add your first name.
+
+@summary
+,
+
+@summary
+tap last name to add your last name.
+
+@summary
+tap done.
+
+@summary
+,
+
+@summary
+tap save.
+@article
+ The app has a round red icon containing a white “P.” You’ll typically find it on your home screen.;
+, It’s the gray silhouette of a person’s head and shoulders at the top-right corner of the screen.
+ It’s at the top-right corner of the screen.
+,,, Pinterest requires a first name, but your last name is optional.,, Your updated name will now appear in your Pinterest profile.
+

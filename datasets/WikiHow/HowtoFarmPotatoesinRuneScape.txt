@@ -1,0 +1,35 @@
+@summary
+know that you only need a level 1 farming.
+
+@summary
+travel to one of the allotment patches.
+
+@summary
+rake the patch.
+
+@summary
+add compost to the patch.
+
+@summary
+plant 3 potato seeds.
+
+@summary
+water the patch, when needed.
+
+@summary
+harvest the potatoes after 40 minutes of planting.
+
+@article
+;
+,
+
+
+South of Falador (the only non-member patch)
+North of Catherby
+North of East Ardougue
+Between Port Phasmatys and Canifis
+
+, Allow your character to rake all the weeds out of the patch.
+ Supercompost achieves a higher successful yield and helps the item from plant disease.
+ Use the seeds from your inventory on the treated patch.
+ Use a watering can on the patch during the growth intervals (8 minutes each).

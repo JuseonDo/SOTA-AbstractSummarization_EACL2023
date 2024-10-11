@@ -1,0 +1,16 @@
+@summary
+open firefox's manage search engine list.
+
+@summary
+click the firefox title for menu options.
+
+@summary
+click the firefox title again.
+
+@summary
+restart firefox for the above modifications to take effect.
+
+@article
+ Find the MySearchDial entry and launch the "Remove" option. Reset your default/ preferred search engine to Google or one of the others in the list. Click OK.
+ Select the Add-ons Manager and then Extensions. Find the MySearchDial 7.0 option and click "Remove".
+ Choose Options and restore the homepage settings in that section to your desired homepage.

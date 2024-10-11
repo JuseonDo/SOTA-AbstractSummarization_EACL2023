@@ -1,0 +1,41 @@
+@summary
+decide if you want to create a mirrored drive on your existing hard drive or on a separate, external drive.
+
+@summary
+download or purchase the necessary software.
+
+@summary
+if you want to create a mirrored drive on your existing hard drive, you will first need to partition your hard drive.
+
+@summary
+from management console, select "disk management" in left pane.
+
+@summary
+after creating partition format your partition.
+
+@summary
+load and run your mirror software.
+
+@summary
+choose the drive you want to mirror from the list of available drives.
+
+@summary
+select a location to save your mirror copy.
+
+@summary
+click the “start” button to begin the mirroring process.
+
+@summary
+test the new drive to ensure your files are successfully copied.
+@article
+;
+, There are many inexpensive software solutions that will streamline the process down to just a few clicks. Choose a software program that provides a reliable backup and disaster recovery of systems, applications, settings and personal files.
+ Right click the ‘computer’ icon on desktop and Choose "Manage".
+ It will display all disks. Click appropriate disk to create partition and follow the prompts.
+ This will enable the partition for copying data. (Usually when you partition with Disk management" option, It gives you an option to format created partition automatically or to leave partition without formatting.
+ The software provides a user-friendly interface that will guide you through the installation and set-up process.
+ In most cases, you will want to select the C drive.
+ This location will either be your newly-partitioned hard drive or an external drive.
+ Depending on the size of your files and the write speed of your hard drive, the mirroring process may take anywhere from a few minutes to several hours.
+ If you mirrored your entire drive, you can test the new drive by removing the old drive. Your computer should successfully boot up from the new drive.
+

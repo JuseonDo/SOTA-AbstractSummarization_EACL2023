@@ -1,0 +1,51 @@
+@summary
+choose one of the following block types.
+
+@summary
+dig a trench in the ground in the shape of your path that is 1 block deep and at least 3 blocks wide.
+
+@summary
+place half slabs in the middle of the trench to build the main pavement.
+
+@summary
+place stairs to make the border of the pavement.
+
+@summary
+place fences to an equal distance to each other on one side of the path.
+
+@summary
+,
+
+@summary
+add mode fence and make sure that the height is at least 5 fences.
+
+@summary
+place two fences horizontally to hold the light source.
+
+@summary
+,
+
+@summary
+place a light source under the fence.
+
+@summary
+add fences around the path to prevent mobs from crossing it.
+@article
+ You can choose another block, instead, if you prefer, but be sure that a stair and a slab of this block exists.
+
+
+Wood planks
+Cobblestone
+Brick
+Stone brick
+Nether brick
+Quartz
+Sandstone;
+, If you want to build a bigger path, make the hole wider, but make sure that the width of the hole is odd (for example, 3, 5, 7 and so on.)
+
+, To climb a hill just place stairs instead of half slabs. The stairs, avoid the player to jump.
+ If the path goes up or down a hill, the stairs can be placed next to the other stairs, like this.The result should look like this.
+, If you want to use the path with your horse, it's recommended to build a 6 block high street light. This height avoids you to hit the block if you jump.
+, You can use glowstone, or other light source like a jack o lantern.
+ Additional protection from light sources is not necessarily because mobs can't spawn on half slabs and stairs.
+

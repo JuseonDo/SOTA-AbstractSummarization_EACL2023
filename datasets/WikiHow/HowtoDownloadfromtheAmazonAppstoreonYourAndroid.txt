@@ -1,0 +1,69 @@
+@summary
+launch an internet browser on your android device.
+
+@summary
+visit http://www.amazon.com/getappstore in the browser.
+
+@summary
+tap on “download the amazon appstore.” this will begin downloading the application on your android device.
+
+@summary
+tap the settings (gear) icon on your android device.
+
+@summary
+select “security.” this will open different security options available on your device.
+
+@summary
+,
+
+@summary
+tick the “unknown sources” check box.
+
+@summary
+go back to the home screen and swipe down on the screen.
+
+@summary
+tap on “amazonapps-release.apk.” this is the amazon appstore application that you downloaded from the amazon website.
+
+@summary
+,
+
+@summary
+tap on “install” to begin installing amazon appstore on your android.
+
+@summary
+tap on “open.” this will launch the app.
+
+@summary
+sign into your amazon account.
+
+@summary
+select any application that you want to download.
+
+@summary
+tap on “free.” this will install the application on your device.
+@article
+ Just tap on a browser’s icon in your app drawer or home screen to open the browser.
+
+
+You can use the Android browser, which is the globe icon, or any other browser you have installed on your device.;
+, You’ll be taken to the Amazon Appstore app download page.
+
+
+
+Once it has finished downloading, you’ll see a message in your notification panel. DO NOT open it just yet.
+ You’ll find this icon on your home screen, app drawer, or notification panel. Tapping it will open the device’s Settings menu.
+, This will allow you to install applications from sources other than the Google Play Store.
+ This will open the notification panel.
+, You’ll know when it has finished installing when you see two buttons at the bottom of the screen: Open and Done.
+ Once launched, you’ll be shown the login screen.
+ Just enter your email address and password on the fields provided, and then tap “Sign in” to begin enjoying thousands of Android applications.
+
+
+Once you successfully logged into the application you will see a list of available application. You can find several free and paid applications.
+ Once you tap on the app, an app overview page will appear.
+
+
+
+Once the app has finished installing, you’ll find it either on your home screen or app drawer.
+

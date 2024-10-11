@@ -1,0 +1,11 @@
+@summary
+go to your friends list.
+
+@summary
+,
+
+@summary
+click "edit".
+@article
+, A box will appear next to each of your friends that says "top friend". Check or uncheck this box.
+

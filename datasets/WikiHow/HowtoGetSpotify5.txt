@@ -1,0 +1,24 @@
+@summary
+go to the spotify mobile overview page.
+
+@summary
+launch the marketplace on your windows phone.
+
+@summary
+,
+
+@summary
+search for “spotify”.
+
+@summary
+,
+
+@summary
+press “install” to download the spotify app to your phone.
+
+@article
+ Scroll down the page to the interactive compatibility comparison chart.
+
+
+Make sure Spotify is compatible with your device by selecting the platform from the left side pane and browsing for your device in the grid of compatible devices.
+,,

@@ -1,0 +1,23 @@
+@summary
+click the safari menu and select "preferences".
+
+@summary
+,
+
+@summary
+click the security tab.
+
+@summary
+,
+
+@summary
+check the "block pop-up windows" box.
+
+@summary
+run adwaremedic if you suffer from constant pop-ups.
+@article
+,,, If you get a lot of pop-ups, even with the pop-up blocker enabled, you may have an adware infection. There are several tools available on OS X to deal with adware, but AdwareMedic is one of the most popular due to the fact that its free and very capable.
+
+
+You can download AdwareMedic from adwaremedic.com.
+

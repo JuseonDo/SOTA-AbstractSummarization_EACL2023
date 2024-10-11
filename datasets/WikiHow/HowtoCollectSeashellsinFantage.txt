@@ -1,0 +1,33 @@
+@summary
+go to the island and click the seashell costumes stand.
+
+@summary
+on the left side of the screen, you will see 2 costumes.
+
+@summary
+exit out of the stand and go to your inventory.
+
+@summary
+know what seashells you can collect.
+
+@summary
+find seashells at the island and the beach.
+
+@summary
+once you have collected all the shells you need to combine an item, go back to the island and click the stand that says "shell inventory".
+
+@summary
+read the instructions for creating what you need, right there on the screen.
+
+@summary
+there you go!
+@article
+;
+, Those are the Seashell costumes. There is one for premium members and one for non members. Click the buy button under which costume is suitable for you.
+ Click the clothes section and then click the costumes section to put your costume on.
+ There are only 3 seashells non members can collect, while premium members can collect all of them. The picture above shows which shells non members can collect.
+ Every time you collect a shell (that you can collect) your shell collection will pop up, telling you which shells you have and which shells you still need to get an item.
+ There will be a row for the item and shells you needed. If the combine button is blue, that means you are ready to get the item.
+ Just follow those instructions and when your done, click done under step 3.
+ You have received your prize!
+

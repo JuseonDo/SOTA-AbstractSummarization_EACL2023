@@ -1,0 +1,13 @@
+@summary
+open the wii shop channel.
+
+@summary
+browse for the channel that you want to add.
+
+@summary
+download the channel.
+@article
+ Click Start then Start Shopping. Select Channels from the main Shop screen.
+ These include Netflix, Hulu, and more. Most of the channels are free, but many require paid membership with their respective companies.
+ After confirming the storage space used and Wii pints spent, the channel will download. This could take a few minutes. Once the download is finished, it will appear on the main Wii menu.
+

@@ -1,0 +1,8 @@
+@summary
+once you have launched the app, you will be looking at the “back” of the camera.
+
+@summary
+to snap a photo, select the small yellow button next to the viewfinder.
+
+@article
+ This is the screen where you will see your viewfinder and will be able to take pictures. You can switch from the back to the front of the camera and vise versa by tapping the small arrow icon in the bottom right hand corner.

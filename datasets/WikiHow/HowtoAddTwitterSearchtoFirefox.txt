@@ -1,0 +1,24 @@
+@summary
+go to the twitter search page.
+
+@summary
+click on firefox's search box menu (see the image).
+
+@summary
+,
+
+@summary
+click "add twitter search".
+@article
+ It is at: https://twitter.com/search-home.;
+,,
+
+
+Twitter will now be added as one of your Firefox browser's search engines. That's it, nothing more to this!
+
+
+
+
+
+
+

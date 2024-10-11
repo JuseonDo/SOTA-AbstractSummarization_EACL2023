@@ -1,0 +1,28 @@
+@summary
+open the apple menu.
+
+@summary
+click system preferences.
+
+@summary
+click network.
+
+@summary
+select the "ethernet" connection.
+
+@summary
+click advanced.
+
+@summary
+click the tcp/ip tab.
+
+@summary
+make sure the "configure ipv4" box says "using dhcp".
+
+@summary
+click renew dhcp lease.
+
+@summary
+click ok.
+@article
+ To do so, click the apple-shaped icon in the top-left corner of the screen., You'll see this option in the Apple Menu drop-down window., This will open the Network window., It's in the left-hand pane., It's in the lower-right area of the window., This tab is near the top of the Advanced window., If it doesn't, click the box to the right of "Configure IPv4" at the top of the screen and select Using DHCP., It's on the right side of the page. This will ensure that you're able to access the Internet while connected to Ethernet., It's in the bottom-right corner of the screen. Your Ethernet connection should now be live.

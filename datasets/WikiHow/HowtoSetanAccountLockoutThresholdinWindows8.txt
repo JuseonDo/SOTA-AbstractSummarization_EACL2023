@@ -1,0 +1,25 @@
+@summary
+use a run command to open local group policy editor.
+
+@summary
+allow the program to make changes to the computer.
+
+@summary
+find and open account lockout threshold.
+
+@summary
+set a specific value in the account lockout threshold properties window.
+
+@summary
+confirm the suggested value changes.
+
+@summary
+exit the local group policy editor.
+@article
+ Press Windows+R hotkeys to open Run dialog box, type gpedit.msc in the empty box and click OK.;
+, In the User Account Control window, choose Yes.
+ The Account lockout threshold is located in Local Computer Policy/Computer Configuration/Windows Settings/Security Settings/Account Policies/Account Lockout Policy. And you can open it by double-clicking it.
+ In this step, please note that the value must be between 0 and 999. For example, if you input 6 as the threshold and tap OK, the account will lock out after six failed logon attempts.
+ That is, in the next window, tap OK to affirm other value changes suggested by the system and finish the setting.
+ You can either tap the close button or press Alt+F4 hotkeys to exit it.
+

@@ -1,0 +1,45 @@
+@summary
+open the “contacts” app.
+
+@summary
+tap on a contact.
+
+@summary
+,
+
+@summary
+tap edit.
+
+@summary
+tap add photo.
+
+@summary
+tap choose photo.
+
+@summary
+tap on a photo album.
+
+@summary
+,
+
+@summary
+tap a photo.
+
+@summary
+,
+
+@summary
+adjust the size and orientation of the photo.
+
+@summary
+tap choose to confirm the selection.
+@article
+ The icon looks like a grey silhouette of a human male and is located on the home screen.;
+,, This button is located on the top right corner of the screen.
+ This button is located over a grey circle to the left of the contact’s name.
+
+
+If a picture already appears over the grey circle, the contact already has a picture assigned. Tap Edit under the photo to change the picture.
+ The Photos directory will appear where you can select photos from the Camera Roll, Screenshots, or personal albums.
+,, You can select the specific portion of the photo to be displayed.
+ Once you select a photo, it will appear in the grey circle next to the contact’s name.

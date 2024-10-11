@@ -1,0 +1,13 @@
+@summary
+make an iron door by using 6 iron ingots.
+
+@summary
+arrange the iron ingots in the same shape as the wooden planks, filling two vertical columns.
+@article
+ To get iron ingots, you have two options:
+
+
+Crafting: craft iron ingot from a single block of iron.
+Smelting: smelt iron ingot from a block of iron ore.
+ You now have an iron door.
+

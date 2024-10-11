@@ -1,0 +1,102 @@
+@summary
+open your "app store" app.
+
+@summary
+tap search.
+
+@summary
+type in "youtube".
+
+@summary
+,
+
+@summary
+tap "youtube".
+
+@summary
+tap "youtube".
+
+@summary
+,
+
+@summary
+tap get.
+
+@summary
+tap install.
+
+@summary
+,
+
+@summary
+enter your apple id and password if prompted.
+
+@summary
+,
+
+@summary
+wait for youtube to finish downloading.
+
+@summary
+,
+
+@summary
+open the "youtube" app.
+
+@summary
+,
+
+@summary
+tap the magnifying glass.
+
+@summary
+type in a search query.
+
+@summary
+,
+
+@summary
+tap search.
+
+@summary
+,
+
+@summary
+tap a video you want to watch.
+
+@summary
+tap the share button.
+
+@summary
+tap a sharing option.
+
+@summary
+follow your option's provided steps.
+@article
+;
+, This is the magnifying glass icon on the bottom of your screen.
+, It should be the first result in the drop-down menu.
+, This is in the top right corner of your screen.
+
+
+If you've downloaded YouTube before, this will be a cloud icon with an arrow facing down.
+,,,, This is in the top right corner of your phone screen.
+,, It should start automatically!
+
+
+Tap anywhere on the video to pause it. Click again to un-pause.
+ This is the right-facing arrow below your video.
+ Your options are:
+
+
+Copy link
+Share on Facebook
+Share on Gmail
+Share on Twitter
+Share through email
+Share in a message
+Share through WhatsApp
+More (share through your phone's messaging app}
+
+, You have successfully viewed and shared a YouTube video!
+

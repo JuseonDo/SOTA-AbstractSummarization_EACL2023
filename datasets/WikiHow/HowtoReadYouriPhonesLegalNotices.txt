@@ -1,0 +1,29 @@
+@summary
+open your iphone's settings.
+
+@summary
+tap general.
+
+@summary
+tap about.
+
+@summary
+,
+
+@summary
+tap legal.
+
+@summary
+tap legal notices.
+
+@summary
+,
+
+@summary
+review your iphone's legal notices.
+@article
+ The settings icon looks like gray cogs and can be found either on one of your home screens or under a folder labelled "Utilities.";
+, It's the gray icon with the white cog listed under the third section of menu options.
+, It's one of the last menu options towards the bottom of the list.
+, You can scroll down to read Apple's entire Legal Notices document, which includes information about trademarks, privacy policies, software agreements, and more.
+

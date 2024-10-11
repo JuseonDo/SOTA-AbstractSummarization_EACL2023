@@ -1,0 +1,15 @@
+@summary
+remove the old hard drive you want to destroy from the computer or external enclosure (such as the outer case around a usb hard drive).
+
+@summary
+,
+
+@summary
+unscrew all the screws holding the top on.
+
+@summary
+destroy the platters.
+@article
+, You will need the T-9 sized wrench for most hard drives. Sometimes there's an air seal. You will need to remove this.
+ Once you get the top off you will see two or three stacked, silver disks (called platters). Put scratches on the surface of the platters with the Torx wrench. Now start smashing it with the hammer. Do this outside on a hard surface (such as concrete). Be sure to wear safety glasses to protect against flying debris. Glass platters (found on newer drives) will shatter. If you have a large hammer (a 10 lb sledge for instance): you can forgo opening the drive - a few good hits with a big hammer can split open the metal casing and mangle the platters, even on old full height 5.25" drives with metal (rather than glass) platters.
+

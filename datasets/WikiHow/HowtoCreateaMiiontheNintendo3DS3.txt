@@ -1,0 +1,16 @@
+@summary
+choose 'start from scratch.
+
+@summary
+,
+
+@summary
+select the mii's gender.
+
+@summary
+fill in the mii's information.
+@article
+, From there, use the side panel buttons to navigate the Mii Maker. When you are done creating the Mii, tap 'Next.'
+
+, When you are complete, click on 'Save' and then 'Yes.'
+

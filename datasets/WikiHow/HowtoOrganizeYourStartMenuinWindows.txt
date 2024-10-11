@@ -1,0 +1,26 @@
+@summary
+right click on the start menu, then click explore.
+
+@summary
+double click the programs folder.
+
+@summary
+right click to add folders.
+
+@summary
+exit windows explorer.
+
+@summary
+click the start menu and then click all programs.
+
+@summary
+drag your application folders into the categories you made.
+@article
+ This will bring you to a list of folders and program shortcuts.;
+, All of your program's shortcuts listed in the Start Menu are stored here.
+ Name them the desired category. (E.G. Utilities, Music Players, Commonly Used, etc.)
+
+, Your settings have automatically been saved.
+ Your folders should be present.
+ Your Programs are now placed in those folders, lessening the time necessary to find certain applications.
+

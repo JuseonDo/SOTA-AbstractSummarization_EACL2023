@@ -1,0 +1,36 @@
+@summary
+backup any data that you want to keep.
+
+@summary
+insert the installation disc for the replacement operating system.
+
+@summary
+reboot your computer.
+
+@summary
+,
+
+@summary
+rapidly press your bios setup key.
+
+@summary
+open the boot menu.
+
+@summary
+reboot your computer again after resetting your boot order.
+
+@summary
+follow the prompts to install your operating system over your existing windows 7 installation.
+@article
+ When deleting Windows 7, you will lose all of the data that is stored on the same drive. Make sure that you backup any important files so that you can restore them after installing your new operating system.;
+, Make sure that you have the Product Key handy as well, as you will need it during the installation process.,, This varies depending on the system, but is usually F2, F10, or Delete.
+ This menu allows you to change the boot order for your installed devices. Change the order so that your optical drive boots first. This will allow you to boot from your installation disc.
+ You will now be prompted to boot from your inserted installation disc.
+ The process varies depending on the operating system you are installing:
+
+
+Windows 8
+Ubuntu Linux
+Windows 7
+Linux Mint
+

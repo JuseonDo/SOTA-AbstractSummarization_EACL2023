@@ -1,0 +1,33 @@
+@summary
+go down the pipe towards the end of the level.
+
+@summary
+go into the cave with mario and hit the m blocks to make a bouncy appear.
+
+@summary
+near the goal ring you will find a wind blowing into the air.
+
+@summary
+in the second area there is rotating spikes.
+
+@summary
+midway through the level, follow the diagonal winds.
+
+@summary
+after you fly up with peach in the beginning, you will see m blocks.
+
+@summary
+there will be one area with many vines.
+
+@summary
+this one is a puzzle.
+@article
+ MARIO.;
+, Then go back for princess peach at a stork stop and bounce up to the coin. PEACH.
+ Use baby Peach to glide up and collect the coin. PEACH.
+ Hop along the platforms up to get to the top. MARIO.
+ They will take you to the coin. PEACH.
+ Switch to Mario, hit them, and a sunflower will grow. climb it for the coin! MARIO.
+ Climb with DK until you see the gold! DONKEY KONG.
+ You will reach an area with one locked door and one unlocked. Enter the unlocked and you will see large stones. Shoot down the first wall. Next, jump onto that wall. Shoot down the third wall and jump onto that one. Now, shoot the second one and from that wall, shoot down the fourth wall to create homogeneous "steps." PEACH.
+

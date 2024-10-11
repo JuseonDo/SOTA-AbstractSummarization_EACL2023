@@ -1,0 +1,10 @@
+@summary
+many problems with loading web pages can be resolved by clearing firefox's cookies and cache.
+@article
+ Open the "Tools" menu, then select "Clear Private Data". Select the following items, then click "Clear Private Data Now":
+
+
+Download History
+Cache
+Cookies
+

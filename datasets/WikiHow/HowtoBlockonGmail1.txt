@@ -1,0 +1,17 @@
+@summary
+tap the "gmail" app.
+
+@summary
+tap an email to open it.
+
+@summary
+,
+
+@summary
+tap the android menu button.
+
+@summary
+tap "block (sender)".
+@article
+;
+,, This is the three horizontal dots icon in the top right corner of your opened conversation., Doing this will both blacklist this sender's email address and send any future email from this recipient to your "Spam" folder!

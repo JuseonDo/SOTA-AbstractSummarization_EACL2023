@@ -1,0 +1,36 @@
+@summary
+click the location in the document where you want to place the clip art.
+
+@summary
+,
+
+@summary
+go to the "insert" tab.
+
+@summary
+,
+
+@summary
+find the "pictures" group.
+
+@summary
+,
+
+@summary
+select the "clip art" option.
+
+@summary
+search your clip art for an image for what you have in mind.
+
+@summary
+close the clip art task pane, and save your document.
+
+@article
+,,, The clip art task pane will appear.
+ You can limit your search to a specific clip art collection by entering a category in the "Search In" box; enter a word such as "holidays," "sports," "business," and so on. Click an image to insert it.
+
+
+If some clip art files on your computer are not appearing in the task pane, click "Organize clips�" to import them.
+If you don't have any clip art for what you have in mind, click "Clip�art�on�Office�Online" to search the Microsoft Office database. When you find one you like, double-click and select "Copy." Then go to your document and select "Paste."
+
+,

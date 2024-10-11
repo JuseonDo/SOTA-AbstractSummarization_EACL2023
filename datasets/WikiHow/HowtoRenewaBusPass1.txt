@@ -1,0 +1,25 @@
+@summary
+go to the bus company/authority’s website.
+
+@summary
+sign in with your account.
+
+@summary
+check through the options for your bus pass.
+
+@summary
+look for an option to automatically renew or fill your card when it expires.
+
+@summary
+enter your credit card details.
+
+@summary
+use your card, which will now be reloaded, if the process is automatic.
+@article
+ If you originally bought or filled your bus pass/card online, you likely have used this process before.;
+, If you don’t remember your password, use the “forgot password” link to recover your account.
+ Select the one you want. Click the link to buy the pass or check out.
+ Check that box if you desire.
+ Complete your secure payment. Remember to log out if you are on a public computer.
+ You may have chosen an option to receive the card by mail. If so, it may take a week or two to arrive.
+

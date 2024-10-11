@@ -1,0 +1,21 @@
+@summary
+move to thin client computing.
+
+@summary
+,
+
+@summary
+a thin client is a device that depends on the main server for processing.
+
+@summary
+turn your computers and equipment off.
+
+@summary
+,
+
+@summary
+plug your computer into a power strip that can be shut off when it is not in use.
+@article
+, A thin client has several advantages such as decreasing the need for technical support, being less susceptible to viruses, being smaller and less costly, and storing data more safely. Thin clients do not "wear out" or become outdated like personal computers. Feeling even more frugal? You can use any old workstation as a thin client without any upgrades at all.
+, So-called "Vampire power" (power used even when the device is turned off) can consume up to 10% of your electric bill.
+

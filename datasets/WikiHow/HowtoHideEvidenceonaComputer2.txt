@@ -1,0 +1,5 @@
+@summary
+use the program ccleaner (freeware) from piriform ltd.
+@article
+ It removes files like windows logs, temporary folder data, old prefetch data. Not even Bill Gates himself will recover anything. Set the secure erasing to Gutmann, in the preferences page.
+

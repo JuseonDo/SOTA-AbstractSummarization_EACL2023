@@ -1,0 +1,12 @@
+@summary
+make the chest as for the single chest above.
+
+@summary
+place two chest blocks adjacent to each other.
+@article
+ You can't craft a large chest.
+ You now have a large chest.
+
+
+Note that large chests cannot be created right beside each other.
+

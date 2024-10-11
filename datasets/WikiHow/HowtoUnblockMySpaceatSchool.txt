@@ -1,0 +1,24 @@
+@summary
+check the sites that are blocked on your local computer.
+
+@summary
+lower the settings for your internet security.
+
+@summary
+install a filter removing program.
+
+@summary
+use a dummy proxy to bypass a block of the myspace.com site.
+
+@summary
+link to one of the free proxy servers and link to myspace.com from this new site.
+@article
+ Open Internet Explorer, select "Tools", "Internet Options". Click the "Sty" tab and choose "Restricted Sites". The "Sites" button will become available. Be sure that Myspace is not listed, if it is, highlight and delete it.;
+, This is not recommended for long periods of use, as this is how viruses and copycat programs infiltrate computers.
+ Many of these programs bypass the filter that is stopping you from accessing Myspace.com. Installing and using these programs may get you in serious trouble with your school or employer.
+ There are several of these listed on the Web. These sites are usually blocked in your school.
+ The idea is to go through the proxy to the blocked site without the site address in the address bar. This process can get you into serious trouble too. These sites might be blocked too.
+
+
+Since proxies get blocked often you should join a proxy mailing list to keep getting fresh proxies daily. You can find these online, but beware of out of date sites and links, since the services provided often change.
+

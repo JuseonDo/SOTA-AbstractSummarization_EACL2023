@@ -1,0 +1,36 @@
+@summary
+open your windows movie maker program on your pc.
+
+@summary
+click on the "import video" option underneath the "capture video" title in the column along the left hand side.
+
+@summary
+select the avi video file you want to compress by clicking on the file to highlight it.
+
+@summary
+click the "import" button.
+
+@summary
+select all of the video file components that have just been imported into windows movie maker.
+
+@summary
+drag the video components into the "timeline" feature.
+
+@summary
+select "save to my computer" located in the column on the left hand side.type in a file name in designated field in order to differentiate your original avi video file from the newly compressed video file; then click "next"
+
+@summary
+,
+
+@summary
+select the new size you want your avi video file to compress down to from the video size dropdown menu.
+@article
+ An icon located on your desktop typically designates this program; if not, you can also locate the program by going to the "Start" menu, selecting "All Programs" and searching for the program.;
+, This will prompt a window to open allowing you to browse through the video files you want to compress.
+ This will automatically put the file name of the AVI to be compressed into the "File Name" field in the video file selection window.
+ This will then bring up a window showing the video file's importing progress.
+ Do so by holding down the left mouse button and dragging your cursor over every video file component to highlight it.
+ Do this by continuing to hold down the left mouse button and dragging the highlight components into the "Timeline" section located at the bottom of the Windows Movie Maker screen.
+ This will prompt a "Save Movie Wizard" window to pop up.
+, Click "Next." Your AVI video file will then compress to a smaller bit size. After video compression, the "Save Movie Wizard" will prompt you to finish the video compression and view your movie. To do so, simply press the "Finish" button.
+

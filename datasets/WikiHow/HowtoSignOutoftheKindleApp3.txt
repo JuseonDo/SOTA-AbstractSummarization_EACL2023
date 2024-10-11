@@ -1,0 +1,43 @@
+@summary
+navigate to .
+
+@summary
+log into your account.
+
+@summary
+press “hello, (insert name) your account”.
+
+@summary
+scroll down to the “digital content” section and click “your apps and devices”.
+
+@summary
+,
+
+@summary
+click “your devices” find “your devices” in the “manage” section of the left-hand sidebar.
+
+@summary
+,
+
+@summary
+press “actions”.
+
+@summary
+,
+
+@summary
+select “deregister device”.
+@article
+ Android users may register their devices through the Amazon Appstore App. When you download and sign into the app, your device is automatically registered and appears on the “Your Devices” list. If your device is lost or stolen, this feature allows you to deregister your device from your Amazon account.
+
+
+This app is only compatible with Android devices.
+
+
+
+Enter your email or mobile number.
+Enter your password.
+Click Sign In.
+ Find this to the right of “Gift Cards & Registry” and to the left of “Try Prime”.
+,,, You will be “signed out” of your account. (In reality, your device’s connection to the Amazon account it was registered under is severed).
+

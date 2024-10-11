@@ -1,0 +1,11 @@
+@summary
+open the settings app.
+
+@summary
+select privacy from the category listing.
+
+@summary
+choose your privacy settings.
+@article
+ Press the Start button in the lower-left corner of your screen and select the settings gear.
+ This category collects all of the Windows 10 privacy settings in one place., By default, you will be taken to a bunch of general privacy settings. To access specific privacy settings, select the desired category from the left pane.

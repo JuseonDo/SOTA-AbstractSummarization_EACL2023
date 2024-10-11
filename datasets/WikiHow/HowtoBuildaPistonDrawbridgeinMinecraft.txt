@@ -1,0 +1,45 @@
+@summary
+first, in front of your castle/tower of power or whatever, dig a 4 long by 4 to 6 wide hole.
+
+@summary
+craft 6 sticky pistons.
+
+@summary
+place blocks on top of the pistons.
+
+@summary
+now it gets complicated.
+
+@summary
+make a staircase shape and place a lever at the top.
+
+@summary
+test your contraption.
+
+@summary
+craft some buckets (craft by 3 iron ingots in a bowl/bucket shape on pc) and fill them with water or lava/magma.
+
+@summary
+,
+
+@summary
+if it works, turn on the bridge.
+
+@summary
+inside those two indentations, pour the lava/water bucket in, then refill the bucket and pour the contents into the opposite side.keep pouring in the buckets until the holes are full, but not overflowing.
+
+@summary
+,
+
+@summary
+now you have a drawbridge!
+@article
+ Make it 4 blocks deep.;
+, Place them 2 blocks away from the width edge. Make sure that it's 1 away from the long edge, too.
+ Connect redstone trails to the pistons.(but not the side center ones) Then, connect the 2 separate redstone trails together. Now take a redstone repeater and place it in between where the 2 separate trails connect.
+ Take 2 redstone repeaters and place them 1 block away from where the side center pistons are.
+ Connect redstone trail to the lever.
+ If it works, cover it all up and prepare for the next step. If not, try repeating the steps again, or toy around with it.
+, If you covered the hole, then next to the bridge, dig 2 3x1 holes and cover the bottom of that. That will make a pasture shape if done correctly.
+, Make sure it works, and if you don't understand the instructions, watch Paul Soares Jr's Survive and Thrive Season 2 video on YouTube.
+

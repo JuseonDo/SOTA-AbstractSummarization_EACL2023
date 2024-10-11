@@ -1,0 +1,20 @@
+@summary
+find an online validation program.
+
+@summary
+upload your code to the validation program.
+
+@summary
+examine the results of the program.
+
+@summary
+correct any errors and save the changes to your files.
+@article
+ You’ll want to read any terms and conditions regarding the use of the site before you use it.
+ In some cases, you may just need to copy your XML code into the box provided and click the “Validate” or “Continue” button.
+ Most will mark or identify issues with the program.
+
+
+If you don’t see any errors, your code works as it should. In some cases, you may get a message saying your code passes validation.
+ If you had errors to fix, you may want to validate the files after you make corrections.
+

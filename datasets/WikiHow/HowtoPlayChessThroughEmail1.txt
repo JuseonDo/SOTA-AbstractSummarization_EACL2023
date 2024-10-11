@@ -1,0 +1,38 @@
+@summary
+learn the algebraic notation.
+
+@summary
+ensure you've got access to your email.
+
+@summary
+set up your chess board.
+
+@summary
+decide who will play as white.
+
+@summary
+,
+
+@summary
+have that player make their move on the board and write the move in algebraic notation in an email their opponent.
+
+@summary
+,
+
+@summary
+have the receiving player make the move from the email on his board, on behalf of the first player.
+
+@summary
+,
+
+@summary
+have the second player reply to the email with another move.
+
+@summary
+continue game play in this manner, one turn at a time through email.
+@article
+ Both players need to understand this way of writing your moves in Chess. It can be learned within a few minutes. Ideally, learn the full algebraic notation for the ease of understanding it provides., Both players will need an email account. If you don't have one, then create it. Without it you won't be able to play.
+ Both players will need a board. The game will last a long while, so place the board somewhere it is easily accessible but still does not get disturbed.
+,,, He/she must also make that move on his\her board.
+ If you're in doubt about the boards being the same at any given point, snap a picture and send it to your opponent to make sure they match up.
+

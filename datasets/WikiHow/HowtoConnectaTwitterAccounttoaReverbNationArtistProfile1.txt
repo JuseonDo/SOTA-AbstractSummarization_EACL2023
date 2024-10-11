@@ -1,0 +1,20 @@
+@summary
+log into your reverbnation artist profile.
+
+@summary
+click on the “dashboard” button.
+
+@summary
+click on “sync with twitter.
+
+@summary
+click “authorize app.” after this, twitter and reverbnation will be synced up!
+
+@article
+ Have your username and password ready to enter. If you don't have an account create one now.;
+, This should be in the menu at the top of the page.
+ This button should be in the middle of the page, toward the top. A dialog box will pop up.
+
+
+If you’re logged into your Twitter account, it will ask you to authorize the app (ReverbNation).
+If you’re not logged into Twitter, it will ask you to log in and then to authorize the app.

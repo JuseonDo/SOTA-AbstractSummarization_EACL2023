@@ -1,0 +1,32 @@
+@summary
+open your iphone’s settings.
+
+@summary
+tap on general.
+
+@summary
+tap on accessibility.
+
+@summary
+,
+
+@summary
+tap on voiceover.
+
+@summary
+,
+
+@summary
+scroll down and tap on audio.
+
+@summary
+slide the “audio ducking” button to the “on” position.
+@article
+ It’s an app that looks like a gray gear and can be found your home screen.;
+, It’ll be in the 3rd section of Settings.
+,, It will be in the 3rd section of menu items.
+ Doing so will make background audio quieter when Siri speaks.
+
+
+The slider will turn green.
+

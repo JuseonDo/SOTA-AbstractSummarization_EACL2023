@@ -1,0 +1,13 @@
+@summary
+un-equip what you're holding to increase your running speed.
+
+@summary
+run up to the regenerator but keep your distance.
+
+@summary
+repeat step 2 until one of its legs falls off.
+@article
+;
+, Walk close then once the Regenerator does its move where it strikes with only one arm, run forward, slash its legs once then run to the other side. Repeat.
+ Start slashing it's body while it's on the floor. Hold (X) until it's dead.
+

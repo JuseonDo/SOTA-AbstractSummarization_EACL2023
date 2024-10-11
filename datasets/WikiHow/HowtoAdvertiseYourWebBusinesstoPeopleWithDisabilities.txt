@@ -1,0 +1,39 @@
+@summary
+create or redesign your business' website to make it accessible.
+
+@summary
+use evaluation tools and ask people with disabilities to test your new website.
+
+@summary
+find statistics for people with disabilities if possible.
+
+@summary
+have people with disabilities join or support your company's marketing team.
+
+@summary
+feature actors or employees with disabilities in your ads, whether on television, print, radio, or online video or audio.
+
+@summary
+,
+
+@summary
+place ads for your web business in print and/or online publications targeted to people with disabilities.
+
+@summary
+have your business show support for making projects in its community accessible to people with disabilities.
+
+@summary
+contribute regularly to a national or local disability organization.
+@article
+ Incorporate ways to make a website accessible to people with disabilities by looking at information on the World Wide Web Consortium (W3C) site.
+
+
+Plan and develop accessibility features into your site from the start. This makes it easier to change things in the future. An example of such a feature is adding alternate or "alt" text to images in your HTML code to have a text description of images available for blind people. Another example is providing captions to accompany audio recordings for hearing-impaired people.
+If you are redesigning an existing site, seek input from people with disabilities who have used your business' website before on how you can improve their experience.;
+, Get feedback on what can be changed or works well. 2 examples of accessibility evaluation tools are A-Checker, which checks a site against accessibility guidelines and is available in English or Italian, and AccessColor, used to test and analyze a website's colors.
+ Try to use the statistics to help you target and advertise to your chosen market. Open Doors Organization, for example, has compiled statistics related to the frequency and experiences of people with disabilities who travel.
+ Ask them to participate on advertising projects or to give their opinions on how to attract people with disabilities to your online business.
+, Examples include Able-ezine and New Mobility.
+ By aligning your web business with these goals or tasks, it can show you are committed to helping people with disabilities.
+ Encourage your employees to volunteer for the organization or donate part of the profits from your business to the organization. The local or national organization may recognize your contributions and help advertise your business through its own website.
+

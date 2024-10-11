@@ -1,0 +1,33 @@
+@summary
+click on the arc tool and create an arc.
+
+@summary
+click on the line tool and make a very short straight line.
+
+@summary
+,
+
+@summary
+add a second arc.
+
+@summary
+again with the arc tool, create a slight arc.
+
+@summary
+,
+
+@summary
+create the final arc for your pawn.
+
+@summary
+use the circle tool and create a path by creating a circle underneath the profile.
+
+@summary
+click on the circle to select it, click on the follow me tool, then click on the profile.
+@article
+ If, after you created it, the arc isn't exactly flat on the screen, use the Orbit tool until it is.;
+,, Note the difference in the screenshot. You need to have the rest of the design be slightly off center. This accomplishes that. An eraser can take care of that small line.
+, Using the Line tool and inference, draw two lines to create the path. One from the bottom and then one from that line to the top.
+ It doesn't really matter the size, but larger than the profile helps.
+ This will complete the pawn.
+

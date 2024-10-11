@@ -1,0 +1,50 @@
+@summary
+open “waze”.
+
+@summary
+tap on the search icon.
+
+@summary
+tap on the search bar.
+
+@summary
+,
+
+@summary
+type in your destination.
+
+@summary
+tap on the destination.
+
+@summary
+tap the “go” button.
+
+@summary
+,
+
+@summary
+tap “go now”.
+
+@summary
+tap on the route’s directions.
+
+@summary
+tap on the “reports ahead” tab.
+@article
+;
+, It’s in the bottom left corner of the screen and looks like a magnifying glass.
+,
+
+
+Tap on the red microphone to verbally add a destination.
+ It will be listed under the search bar.
+
+
+Tap on the magnifying glass at the bottom of the list to see more results if your destination isn’t listed.
+,
+
+
+You can review details about your route while it loads.
+ They're listed at the top of the screen above the next step in your route.
+ Doing so will show a full list of reports you may encounter during your journey. The reports are listed with nearby encounters at the top and range from gas prices, traffic, and close by police.
+

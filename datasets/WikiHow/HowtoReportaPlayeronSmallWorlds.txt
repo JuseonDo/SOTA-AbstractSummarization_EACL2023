@@ -1,0 +1,28 @@
+@summary
+log in to smallworlds.
+
+@summary
+,
+
+@summary
+ 
+
+@summary
+click on the player's avatar and select "manage.",
+
+@summary
+select "report.",
+
+@summary
+fill in the reason for why you are reporting the online player.
+@article
+,,, It is important to include as much information as possible so the moderators can make the most informed decision. There are multiple reasons for why to report a player:
+
+Scamming / Phishing
+Sexual / Racial Abuse and Behavior
+Bad Language
+Exploiting / Cheating
+Spamming
+Underage user
+Other
+

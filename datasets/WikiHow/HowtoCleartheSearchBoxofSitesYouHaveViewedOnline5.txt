@@ -1,0 +1,20 @@
+@summary
+click or tap the "..." button in the upper-right corner of the edge window.
+
+@summary
+select the "choose what to clear" button.
+
+@summary
+check the "form data" box.
+
+@summary
+click or tap the "clear" button to delete the selected items.
+@article
+ This will open the Settings sidebar.
+ The sidebar will change to show what will be deleted.
+ This will set Edge to delete entries you've typed into fields on websites.
+
+
+If you don't want previously-visited websites appearing in the address bar, check the "Browsing history" option as well.
+ Anything you've typed into search fields or forms on websites will be deleted.
+

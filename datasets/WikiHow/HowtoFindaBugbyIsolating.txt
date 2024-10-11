@@ -1,0 +1,17 @@
+@summary
+make a backup of your source.
+
+@summary
+erase a small section, and put in the small something instead.
+
+@summary
+see the result.
+
+@summary
+go smaller.
+@article
+ You will want a checkpoint that you can go back because you will go back later.;
+, Like a message box, a white space, a constant number variable (to erase an algorithm), etc. Sometimes, the placeholder will have to have the same size as the part you took out. You can do anything to it, because you have the backup.
+ Does it work perfectly now? The bug was in the erased part, so go to the next step. Does it work even funkier than before? Undo the erased part and try again. Does it give the same results as last time? At least you know it isn't there.
+ Undo the erased part, put markers around it, and try to find the exact place of the bug by the same method, in the markers.
+

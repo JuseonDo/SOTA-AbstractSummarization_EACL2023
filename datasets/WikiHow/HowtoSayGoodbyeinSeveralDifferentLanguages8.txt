@@ -1,0 +1,70 @@
+@summary
+say "goodbye" in tagalog.
+
+@summary
+say "goodbye" in pangasinan.
+
+@summary
+say "goodbye" in malay.
+
+@summary
+say "goodbye" in indonesian.
+
+@summary
+say "goodbye" in malagasy.
+
+@summary
+say "goodbye" in hawaiian.
+
+@summary
+say "goodbye" in papiamentu.
+@article
+
+
+
+"Paalam na"
+
+Meaning: "Goodbye, now."
+Pronunciation: puh-AH-lam-nah
+
+
+"Aalís na ako"
+
+Meaning: "I'm leaving now."
+Pronunciation: uh-ah-LISS-na-a-KOH
+
+
+
+,
+
+
+"Sige la"
+
+,
+
+
+"Selamat jalan"
+"Selamat tinggal"
+
+,
+
+
+"Sampai Jumpa"
+"Sampai Bertemu Lagi"
+"Daag" (non-formal)
+
+,
+
+
+"Veloma"
+
+,
+
+
+"Aloha"
+
+,
+
+
+"Ayo"
+

@@ -1,0 +1,32 @@
+@summary
+locate izip in the app store or play store.
+
+@summary
+tap “get” or “install”.
+
+@summary
+tap the izip icon to launch the app.
+
+@summary
+,
+
+@summary
+tap “local files” to locate the 7z file.if the 7z file is in the cloud, choose “icloud drive” or “google drive” instead.
+
+@summary
+,
+
+@summary
+long-press the name of the 7z file.
+
+@summary
+tap ok.
+@article
+ A 7z file is a compressed archive of one or more files. To access the files inside the archive, you’ll need an app that can extract them. iZip is recommended across the web for being able to handle this particular file type for free., The app will download and then install to your device.
+,, Hold your finger down on the file until you see a box that says “Would you like to unzip all files?”
+
+, The contents of the 7z file will be extracted to a folder of the same name.
+
+
+When the progress bar disappears, you can open the files by tapping them right inside of iZip, or by navigating to the folder which contains them.
+

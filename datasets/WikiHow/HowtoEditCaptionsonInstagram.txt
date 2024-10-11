@@ -1,0 +1,39 @@
+@summary
+update instagram.
+
+@summary
+open the photo or video you want to edit the caption for.
+
+@summary
+tap the "..." button underneath the photo or video.
+
+@summary
+,
+
+@summary
+tap the "edit" button that appears.
+
+@summary
+,
+
+@summary
+edit the caption to your liking.
+
+@summary
+,
+
+@summary
+add a location to the image by tapping "add location".
+
+@summary
+tap "done" to save your changes.
+@article
+ In order to edit captions, you will need to have the latest version of Instagram. You can update Instagram from your device's app store.
+
+
+iOS - Version 6.2
+Android - Version 6.10.0;
+, It must be a photo or video that you uploaded yourself.
+,,, You can change the existing location by tapping the location name.
+ The word "Edited" will appear above the caption whenever someone taps the Comment button.
+

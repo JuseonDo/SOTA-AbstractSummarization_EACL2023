@@ -1,0 +1,33 @@
+@summary
+build a square to keep the mobs in.
+
+@summary
+spawn 100 creepers into the square.
+
+@summary
+spawn an ocelot into the square.
+
+@summary
+break the top block of the barrier connecting the rectangle and the square.
+
+@summary
+trap as many creepers in water as possible.
+
+@summary
+explode your creepers.
+@article
+ Next build a rectangle near it. A 5x5 with a 3x29 connected is a good choice for size.;
+, They should be crowded.
+
+
+If it is hard for you to spawn that many, build a little overhang and spawn from there.
+ The creepers should give him some space!
+
+, Watch what the creepers do!
+
+, Do you really want creepers everywhere?
+
+
+You must trap them in water, or else the following step will ruin your city.
+ They explode and grief you, so who wouldn't want to get them back!
+

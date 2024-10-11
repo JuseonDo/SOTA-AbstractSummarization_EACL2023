@@ -1,0 +1,55 @@
+@summary
+open flash.
+
+@summary
+draw a shape.
+
+@summary
+select the shape you have created with the "selection tool" and press "ctrl + f8".
+
+@summary
+,
+
+@summary
+the "convert to symbol" dialogue will appear, and you should select "graphic".
+
+@summary
+now click ok.
+
+@summary
+,
+
+@summary
+go to the timeline and click on frame 10.
+
+@summary
+,
+
+@summary
+now right click frame 10 and select "insert frame".
+
+@summary
+,
+
+@summary
+click on a frame between frame 1 and frame 10.
+
+@summary
+now, go back to frame 10 and select it.
+
+@summary
+to test your animation, go back and select frame 1 press "enter" on your keyboard or by selecting control > test movie.
+@article
+ If it is not on the start menu or on the desktop, you can find it on Computer at Boot drive\Program Files\Macromedia\Flash 8.;
+, This will be what you animate.
+, You can name it, but that is not necessary.
+,,,
+
+
+Right click on that selected frame and select "Create Motion Tween".
+ Change your "Graphic Symbol" in anyway you feel like. You can use the Free Transform tool to make it smaller, larger, or drag it to a different place on the stage.
+
+
+Now, if you look at the timeline, a blue arrow should be in the empty frames between Frame 1 and 10. This means that a "Motion Tween" has been created and it will animate your symbol from the position in Frame 1 to the position in Frame 2.
+ Either way, the animation will appear and your symbol should change the way you wanted it, by size, position or shape.
+

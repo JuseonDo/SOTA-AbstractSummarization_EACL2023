@@ -1,0 +1,28 @@
+@summary
+go to victory road.
+
+@summary
+carry a pokémon with you that has status-affecting moves such as thunder wave or hypnosis.
+
+@summary
+carry some ultra balls or dusk balls.
+
+@summary
+carry some potions as well.
+
+@summary
+once you come across one, try using false swipe to lower it's hp down and then putting it to sleep.
+
+@summary
+once you have your deino, start leveling!,
+
+@summary
+zweilous doesn't evolve until level 64, at which point, you will have your pseudo-legendary!
+
+@article
+ You must first catch a Deino, which can be found on the 1st and 3rd floors of Victory Road by walking, and it has a 20% of showing up. The location of Deino is the same in both Black and White.;
+, It would also be wise to have a Pokémon who knows the move False Swipe. No matter how strong your Pokémon is, the move False Swipe will always leave the target with at least 1 hp.
+ Dusk Balls are very effective at night, or in dark places such as caves.
+ Wild Pokémon may surprise you by having high-damage dealing attacks.
+ Beware of moves that burn or poison, as they will drain the Deino's life, possibly before you can capture it.
+ Deino doesn't evolve into Zweilous until level 50.

@@ -1,0 +1,18 @@
+@summary
+the cd/dvd player setup:
+
+@summary
+turn on dvd/cd player.
+
+@summary
+the cassette tape recorder set-up:
+
+@summary
+open recording deck (the side where recording can take place, usually the right side deck).
+@article
+
+Insert disc you want to copy from.
+Close player and press the "Stop" button on the player (or on remote if available).
+
+Insert blank tape or old tape that you want to record over. (No longer than 90 minutes due to magnetic strips being too thin and wearing out easily during playback).
+

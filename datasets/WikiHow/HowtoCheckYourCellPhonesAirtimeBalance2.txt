@@ -1,0 +1,13 @@
+@summary
+dial #646.
+
+@summary
+press your phone’s “send” button.
+
+@summary
+wait for a confirmation message.
+@article
+ On your Verizon mobile phone, open your phone’s keypad (either on-screen or physically), and dial the #646 (#MIN) code on the call screen.
+ Afterwards, wait for the voice recording on the other end of the line to state the details of your current usage and your remaining number of minutes.
+ After a few seconds, you will receive a text message containing the same information you heard from the voice recording to serve as your reference.
+

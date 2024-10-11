@@ -1,0 +1,42 @@
+@summary
+understand what it means to find the length of a string.
+
+@summary
+invoke the length() method on the string object and store the result in an integer variable.
+
+@summary
+give it a go.
+@article
+ The length of a string is the number of characters that the string contains. For example, the length of the string "Hello!" is 6 because it has 6 characters.,
+
+
+
+
+
+
+int strLength = str.length();
+
+
+
+
+
+, Here is a sample program that finds the length of a string.
+
+
+
+
+
+
+public class StringManipulation {
+    public static void main(String[] args) {
+        String str = "Hello!";
+        int strLength = str.length();
+        System.out.println("The length of \"" + str + "\" is "
+                + strLength + ".");
+    }
+}
+
+
+
+
+

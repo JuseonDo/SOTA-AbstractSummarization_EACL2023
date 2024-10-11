@@ -1,0 +1,20 @@
+@summary
+understand that most agp video cards have a standard 4-pin molex connector.
+
+@summary
+to plug this type of connector in correctly, be sure that the molex connector is oriented with the beveled edges facing the correct way.
+
+@summary
+]recognize that there are other types of connectors as well.
+
+@summary
+follow the same installation for the pci-express.
+
+@summary
+gently push it into position until the locking tab secures the connector in place.
+
+@article
+ This is the same type of connector found on most home IDE/ATAPI CD-ROM and Hard Disk Drives.;
+, These are here to prevent a user from inverting or putting the plug in backwards by mistake. Do not force the plug, just apply gentle pressure (sometimes a slight wiggling motion is necessary) and press the connector into the receptacle until it is firmly seated.
+ More recently, another connector for PCI-Express video cards requires more power than the 4 pin Molex can provide. As a result, this expanded Molex in the photo is required.
+ Orient the connector so that the tab is facing the same direction as the receptacle. As you can see in the above image, there is a locking tab that keeps this connector in place.

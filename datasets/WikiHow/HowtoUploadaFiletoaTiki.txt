@@ -1,0 +1,22 @@
+@summary
+click on list galleries.
+
+@summary
+click on upload file.
+
+@summary
+upload multiple files by clicking on add file.
+
+@summary
+,
+
+@summary
+look at your file or files.
+@article
+ This will show your list of galleries (one in this case).;
+, This takes you to a screen where you name the file, assign it to whoever it belongs to, (if admin is uploading it) and categorize it if needed. You also choose the gallery for it to go to.
+
+
+Note that your file size can only go to 16 megs.
+, You will see the shot that you have just uploaded with some information about it.
+

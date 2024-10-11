@@ -1,0 +1,35 @@
+@summary
+to write a citation, start a new line with the name of the sparknotes author.
+
+@summary
+place a period after the author’s name, skip a space, then add “sparknotes on <topic>” where <topic> is the subject of the sparknotes entry you are citing.
+
+@summary
+supply the date you accessed the sparknotes online, or the date you downloaded and printed the sparknotes, in the format <day> <month> <year> with no commas in between.
+
+@summary
+include the full url for the sparknotes in question within angled brackets, <>.
+
+@article
+ List the author’s last name, follow by a comma and a space, then the author’s first name and, if provided, middle initial.
+
+
+Locate the author information for any given SparkNotes on the bottom of the title page (if printed) or in a gray bar at the bottom of the table of contents (if viewed online).
+
+
+
+
+
+;
+, This occupies the same place that a book or magazine title would in a more conventional citation. Add a period after this.
+
+
+Italicize this text if possible, as you would when citing a magazine entry.
+
+
+
+
+
+
+Find the exact subject name for the SparkNotes in question at the top of every SparkNotes page or at the top of the table of contents.
+ Add a period at the end. If you’re working from a professionally printed copy of SparkNotes purchased from a major bookstore, use the publication date of that copy.

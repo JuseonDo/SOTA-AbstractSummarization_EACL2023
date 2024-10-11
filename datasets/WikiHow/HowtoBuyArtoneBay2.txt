@@ -1,0 +1,16 @@
+@summary
+move your mouse over the "collective and art" link on the left menu.
+
+@summary
+,
+
+@summary
+select "art" from the pop-up menu.
+@article
+, This will take you to the Art page with 3 browsing links labeled as follows.
+
+
+Art from Dealers and Resellers.
+Direct from the Artist.
+Wholesale Lots.
+

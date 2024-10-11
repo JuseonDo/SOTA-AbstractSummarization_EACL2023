@@ -1,0 +1,54 @@
+@summary
+connect your ipod touch's charge/sync usb cable to your computer.
+
+@summary
+open itunes.
+
+@summary
+,
+
+@summary
+press and hold the home button on your ipod touch.
+
+@summary
+,
+
+@summary
+continue holding the home button and connect the cable to the ipod touch.
+
+@summary
+continue holding the home button until the itunes logo appears on the ipod touch's screen.
+
+@summary
+click.ok when itunes informs you that a device has been detected.
+
+@summary
+,
+
+@summary
+click.restore ipod.... click restore to confirm.
+
+@summary
+,
+
+@summary
+wait for the restore process to complete.
+
+@summary
+load a backup (if available).
+
+@summary
+sign back in with your apple id.
+@article
+ Do not connect it to the iPod Touch.
+,, Make sure that the other end of the cable is already plugged into the computer.
+ This may take a few seconds.
+,, This may take several minutes. You can monitor the progress at the top of the iTunes window.
+ If you had previously backed up your iPod Touch to either iCloud or the computer you are connected to, you will be given the option to restore the backup to your device. If you don't have a backup available, you will have to setup your iPod Touch as new.
+ After restoring your iPod Touch, you will need to log in with your Apple ID in order to download your App Store purchases.
+
+
+Open the Settings app.
+Tap the "iTunes & App Store" option.
+Enter your Apple ID information and tap "Sign In".
+

@@ -1,0 +1,24 @@
+@summary
+click the apple menu.
+
+@summary
+click system preferences.
+
+@summary
+click trackpad.
+
+@summary
+,
+
+@summary
+click the scroll & zoom tab.
+
+@summary
+,
+
+@summary
+click the scroll direction: natural checkbox.
+@article
+;
+, If a submenu opens instead of System Preferences, click the Show All button at the top of the window.
+,, When this is enabled, swiping down on the trackpad with two fingers will scroll up and vice-versa. When this is disabled, swiping down will scroll down.

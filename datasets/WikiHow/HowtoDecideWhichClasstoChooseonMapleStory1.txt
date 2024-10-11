@@ -1,0 +1,128 @@
+@summary
+decide the type of skills you would like your character to have.
+
+@summary
+identify the skill set of each class.
+
+@summary
+the following is a complete list of each possible class:
+
+@summary
+explorers
+
+@summary
+fighter/crusader/hero (warrior)
+
+@summary
+page/white knight/paladin (warrior)
+
+@summary
+spearman/berserker/dark knight (warrior)
+
+@summary
+fire/poison wizard (magician)
+
+@summary
+ice/lightning wizard (magician)
+
+@summary
+cleric/bishop (magician)
+
+@summary
+hunter/ranger/bowmaster (archer)
+
+@summary
+crossbowman/sniper/marksman (archer)
+
+@summary
+bandit/chief bandit/shadower (thief)
+
+@summary
+assassin/hermit/night lord (thief)
+
+@summary
+gunslinger/outlaw/corsair (pirate)
+
+@summary
+brawler/marauder/buccaneer (pirate)
+
+@summary
+cannoneer(pirate,must pick from character select screen)
+
+@summary
+dual blade (thief - bandit that wields katara as well as dagger)
+
+@summary
+cygnus knights
+
+@summary
+dawn warrior (warrior - fighter)
+
+@summary
+blaze wizard (magician - almost fire/poison, without poison)
+
+@summary
+wind archer (archer - hunter)
+
+@summary
+night walker (thief - assassin)
+
+@summary
+thunder breaker (pirate - brawler)
+
+@summary
+mikhail/milhile (dawn warrior, kms and gms)
+
+@summary
+resistance
+
+@summary
+battle mage (magician - unlike anything, uses staff)
+
+@summary
+wild hunter (archer - crossbowman, but mounted)
+
+@summary
+mechanic (pirate - gunslinger technically, very unlike pirates, unique, mounted)
+
+@summary
+demon (warrior - comes in 2 paths: demon slayer and demon avenger.
+@article
+ Make your decision based on the skills that you will enjoy using the most in the game. Think about whether you most enjoy stealth, creating damage or cruising through the game in an even-handed manner.
+ Obviously, each of the classes carries a different way of playing. Read through the following for details before you make your choice.
+ Demon Slayers use HP and DP for attacks, and use 1 handed axes and maces. Demon Avengers uses a special sword and HP consuming moves.)
+Xenon (Thief/Pirate hybrid - uses Energy Sword, uses STR + DEX + LUK, bonus Surplus Supply system)
+Blaster(Warrior, uses hand cannons)
+
+
+Hero
+
+Aran (Warrior - uses Polearm, exclusive combo system)
+Evan (Magician - unlike anything, uses a dragon)
+Mercedes (Archer, uses dual crossbows)
+Phantom (Thief, uses cards and a cane)
+Luminous (Magician, uses a shining rod, orb, unique attack system that is different in KMS then some others)
+Shade (Pirate - Uses mainly knuckles as primary weapon and Fox Marbles as second weapon, The only character who could go through the Middle Door at the Temple of Time, also known as EunWol)
+
+
+Nova
+
+Kaiser (Warrior - Aran, uses a two handed sword, Dragon's Soul, a combo system and can transform into a dragon)
+Angelic Burster (Pirate - uses a cannon/gun hybrid weapon and a soul system)
+
+
+Sengoku
+
+Hayato (Warror - Samurai class who uses two handed swords, currently unavailable in KMS)
+Kanna (Magician - Shrine Maiden class who also can summon foxes,currently unavailable  in KMS )
+
+
+Exclusive Classes
+
+Jett (Pirate - Gunslinger with a science fiction twist, available in some servers only)
+Dragon Warrior (Pirate - Similar to Jett but with different animal-themed animations and also uses summons. CMS only)
+Beast Tamer- Chase (Magician- of the beast tamer class, powers from several animal creatures: Cat, Snow Leopard, Bear and Hawk)
+Zero (Warrior/Magician Hybrid - Child of Rhinne, The Transcendence of time, separated in to two by the Black Mage: Alpha(male), Beta(female) and imprisoned into the mirror world. Instead of using Mana, Zero uses Time Force (TF))
+
+
+

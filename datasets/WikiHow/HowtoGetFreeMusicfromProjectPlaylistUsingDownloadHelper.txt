@@ -1,0 +1,40 @@
+@summary
+download and install downloadhelper from this link.
+
+@summary
+go to "view" located on the top of your internet browser.
+
+@summary
+ 
+
+@summary
+configure your preferences.
+
+@summary
+go to project playlist's website: http://www.playlist.com/ .
+
+@summary
+search for the artist or title of the song that you want.
+
+@summary
+,
+
+@summary
+double check on the information and listen to the song to see if it's the correct one.
+
+@summary
+click on the icon and choose the most bottom item on the list.
+
+@summary
+get a pop-up of where you want the download to go to.
+
+@summary
+,
+
+@summary
+note that you can change the file name after it's been downloaded.
+
+@article
+ If you don't want frames, you can also get it through the main Firefox's Add-On page from here.
+ Click on "Toolbars" and then "Customize". Drag your "DownloadHelper" icon (it looks like an atom) to your toolbar. It can go anywhere you desire to your convenience., Enable the "Icon Animation" (the icon will "turn on" and animate when media is capable of downloading) and choose a download directory to place all of your media while using DownloadHelper.,,, Some people use the wrong links with the song you're looking for. When the song starts to play, watch as the DownloadHelper icon starts to animate.
+ This is the most current song that you are listening to. If you happened to listen to more than one song on a page, the most current will still be on the bottom.,,

@@ -1,0 +1,49 @@
+@summary
+type/copy/paste: sudo -s /usr/local/eclipse/eclipse
+
+@summary
+this will install the adt plugin tool for all users on the system
+
+@summary
+,
+
+@summary
+install the adt plugin for eclipse, the adt is a plugin for the eclipse ide.
+
+@summary
+type/copy/paste: https://dl-ssl.google.com/android/eclipse/
+
+@summary
+click ok
+
+@summary
+note: if you have trouble acquiring the plugin, try using "http" in the location url, instead of "https" (https is preferred for security reasons)
+
+@summary
+,
+
+@summary
+in the available software dialog, select the checkbox next to developer tools and click next.
+
+@summary
+when the installation completes, restart eclipse.
+
+@summary
+for the sdk location in the main panel, click browse... and locate your downloaded sdk directory, which should be /opt/android-sdk-linux
+
+@summary
+click apply, then ok.
+
+@article
+, Before you can install or use ADT, you must have a compatible version of Eclipse installed on your development computer. Start Eclipse, then select Help > Install New Software. Click Add, in the top-right corner. In the Add Repository dialog that appears, enter "ADT Plugin" for the Name and the following URL for the Location
+
+,, In the next window, you'll see a list of the tools to be downloaded and Click Next. Read and accept the license agreements, then click Finish.
+
+
+Note: If you get a security warning saying that the authenticity or validity of the software can't be established, click OK.
+ Configuring the ADT Plugin, after you've successfully downloaded the ADT as described above, the next step is to modify your ADT preferences in Eclipse to point to the Android SDK directory:
+
+
+Select Window > Preferences... to open the Preferences panel
+
+Select Android from the left panel. You may see a dialog asking whether you want to send usage statistics to Google. If so, make your choice and click Proceed. You cannot continue with this procedure until you click Proceed.

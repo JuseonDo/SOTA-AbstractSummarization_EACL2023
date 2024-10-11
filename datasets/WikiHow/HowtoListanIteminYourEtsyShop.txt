@@ -1,0 +1,90 @@
+@summary
+go to the etsy home page and click on more and then go to "sell on etsy" on the right hand side of the page.
+
+@summary
+make sure you're allowed to sell the item.
+
+@summary
+you will see a “open an etsy shop” button to press on top.
+
+@summary
+,
+
+@summary
+log in or create an etsy account if necessary.
+
+@summary
+choose a name for your shop and click save, if the name already exists, you will be prompted to choose another name.
+
+@summary
+,
+
+@summary
+click "list a new item" to add an item to your shop.
+
+@summary
+,
+
+@summary
+fill the item form:
+
+@summary
+fill in information about the item, it's category and the item type.
+
+@summary
+once you preview your listing and are satisfied, click on "save & continue.
+
+@article
+;
+, Etsy only allows you to sell:
+
+
+Handmade items - Anything made, assembled, or altered by your own hands. Just tailoring, restoring or repairing an item isn't enough; the design needs to be significantly changed.
+Vintage goods - Items that are at least 20 years old. The items still qualifies as a vintage good if it was restored to its original condition, but if it was significantly changed, it should be listed as handmade, not vintage.
+Crafting supplies - Yarn, beads, instructional books, patterns, tools.
+,
+
+To sign in, just enter your username and password and click "Sign In".
+
+
+
+
+
+
+If you are not currently a member of Etsy, click the “Register” button and follow the onscreen instructions to create an account.
+,,
+
+
+
+
+
+
+Fill in information about item variation, example if your product has varying color options or styles. Note, if you choose digital file in the previous menu, then you will not get this menu.
+
+
+
+
+
+
+Add the item's title, photos of the item and it's description.
+
+
+
+
+
+
+Add search tags and list the materials that were used to make the item. Potential buyers can search by tags or materials using the Advanced Search feature and listing all materials will thus allow them to find your listing easier.
+
+
+
+
+
+
+Add the price of the item. This price is what buyers will pay per item and does not include shipping charges associated with the sale. Also enter the quantity for your item. If you have multiples of the item, enter the number of items you have for sale. This number will of course decrease automatically after selling an item. Each quantity carries a fee of $0.20 per item.
+
+
+
+
+
+
+Finally fill in all the shipping details and you can then preview the listing.

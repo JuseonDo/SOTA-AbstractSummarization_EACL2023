@@ -1,0 +1,12 @@
+@summary
+find the reminder you want to close.
+
+@summary
+click the done button that appears when you hover over a reminder.
+@article
+ You can find pinned reminders in your inbox, or you can open the Google Inbox menu (☰) and select "Reminders".
+
+
+Reminders that you have previously marked as Done can also be found in the Reminders section.
+ You can also click the button at the top of an open reminder. This will remove the reminder from your inbox.
+

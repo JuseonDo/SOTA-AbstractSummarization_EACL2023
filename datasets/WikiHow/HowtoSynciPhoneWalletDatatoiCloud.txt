@@ -1,0 +1,61 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll to the fourth group of options and select icloud.
+
+@summary
+,
+
+@summary
+scroll to the wallet option.
+
+@summary
+,
+
+@summary
+slide the wallet switch right to the "on" position.
+
+@summary
+open your iphone's wallet.
+
+@summary
+tap +.
+
+@summary
+tap next.
+
+@summary
+place your debit or credit card face-up on a flat surface.
+
+@summary
+,
+
+@summary
+scan your card with your iphone.
+
+@summary
+tap next.
+
+@summary
+,
+
+@summary
+type in your card's security code.
+
+@summary
+tap next.
+@article
+ Do this by tapping the grey gear icon that's either on one of your Home screens or in a folder named "Utilities.";
+,,, It should turn green, meaning that your iPhone's Wallet data (e.g., credit/debit card numbers) is now available on any other iOS or Apple devices that are signed into the same iCloud account as your iPhone.
+ The Wallet icon looks like a wallet and should be on one of your Home screens.
+ This should be in the top right corner on the same level as the "Pay" heading.
+ It's in the top right corner of your screen.
+, You'll do this by centering the card within the rectangular outline provided in the Wallet app. Once the card has been recognized, its data will be automatically uploaded to your Wallet.
+
+
+To do this, you may need to stand and hold your iPhone directly above your card.
+You can also select Enter Card Details Manually at the bottom of the screen to input your card's number and other information by hand.
+, This is typically a three-digit code on the back of your card.
+ This will confirm your card's information. You'll need to wait for a minute or so while Wallet confirms your card's identity with its bank branch.
+

@@ -1,0 +1,19 @@
+@summary
+open your android’s camera app.
+
+@summary
+pinch your fingers outward.
+
+@summary
+pinch your fingers together.
+@article
+ Most Androids use different camera apps, so its icon will vary.;
+, This motion is basically the opposite of a pinch. Start by your thumb and pointer finger together on the screen, then move them away from one another in opposite directions. As you move your fingers, the image on the screen will grow larger.
+
+
+Repeat this motion until you’re zoomed in as far as you want to be.
+ Start with your thumb and pointer finger a couple of inches apart, then pinch them together. As you pinch, the camera will zoom out, making the image on the screen much smaller.
+
+
+Repeat this motion to zoom out more.
+

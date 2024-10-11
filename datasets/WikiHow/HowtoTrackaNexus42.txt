@@ -1,0 +1,12 @@
+@summary
+go to the website for the third-party tracking application you downloaded prior to losing your device.
+
+@summary
+follow the on-site instructions to locate your nexus 4 using the application.
+
+@summary
+wait for the application to provide you with location results based on gps readings.
+@article
+ For example, if you downloaded the “Where’s My Droid?” application, go to http://wheresmydroid.com/., In most cases, you will be required to log in to the app’s tracking system with a username and password you set up at the time you initially downloaded the application to your phone.
+ In some cases, you may be able to select the option to either make your phone ring so you can find it nearby, or wipe the personal data from your phone if it has been stolen.
+

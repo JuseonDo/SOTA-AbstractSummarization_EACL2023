@@ -1,0 +1,31 @@
+@summary
+open snapchat.
+
+@summary
+swipe left on the camera screen.
+
+@summary
+tap ⋮.
+
+@summary
+tap a snap.
+
+@summary
+tap the trash can icon.
+
+@summary
+tap delete.
+@article
+ It's a yellow app that contains a ghost icon.;
+, Doing so opens the Stories page.
+ It's in the upper-right corner next to My Story.
+ Select the Snap you want to delete from your Story.
+ It's in the lower-right corner of the screen.
+
+
+If you want to save the Snap to your phone before deleting it, tap the Save button (∨) in the lower right corner of the screen.
+ Your Snap has been deleted from your Story.
+
+
+Someone could take a screenshot or picture of your Snap before you delete it. The quicker you delete embarrassing photos from your Story, the better.
+

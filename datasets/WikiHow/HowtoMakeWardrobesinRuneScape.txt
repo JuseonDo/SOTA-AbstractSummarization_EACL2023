@@ -1,0 +1,69 @@
+@summary
+acknowledge what comes in each wardrobe.
+
+@summary
+achieve a certain level of the construction skill to make the kind of wardrobe you want.
+
+@summary
+gather the necessary items to make the wardrobe you want:
+
+@summary
+shoe box: 2 planks and 2 nails
+
+@summary
+oak drawers: 2 oak planks
+
+@summary
+oak wardrobe: 3 oak planks
+
+@summary
+teak drawers: 2 teak planks
+
+@summary
+teak wardrobe: 3 teak planks
+
+@summary
+mahogany wardrobe: 3 mahogany planks
+
+@summary
+gilded wardrobe: 3 mahogany planks and 1 gold leaf
+
+@summary
+,
+
+@summary
+visit your house.
+
+@summary
+right click on the "ghost" space designated for the wardrobe.
+
+@summary
+,
+
+@summary
+choose the appropriate wardrobe in the menu to build.
+
+@article
+ The more advanced a wardrobe is, the more customizations it has.
+
+
+Shoe box: Players can change their shoe color for free
+Oak drawers: Players can change their shoe color or hand type for free
+Oak wardrobe: Players can change their shoe color, sleeve, and hand type for free
+Teak drawers: Players can change their shoe color, sleeve, and hand type for free
+Teak wardrobe: Players can change their shoe color and type, torso, sleeve, and hand type for free
+Mahogany wardrobe: Players can change their shoes, torso, tops, sleeve, and hand types and colors for free.
+Gilded wardrobe: Players can change their shoes, torso, leg, tops, sleeve, and hand colors and types for free.;
+,
+
+
+Shoe box: 20
+Oak drawers: 27
+Oak wardrobe: 39
+Teak drawers: 51
+Teak wardrobe: 63
+Mahogany wardrobe: 75
+Gilded wardrobe: 87
+
+,, Enter your house in the "Build Mode".
+,

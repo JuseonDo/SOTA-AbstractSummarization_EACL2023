@@ -1,0 +1,17 @@
+@summary
+find out if he/she has any favorite flowers.
+
+@summary
+find out if there are any flowers he/she has an allergy to.
+
+@summary
+ask about his/her favorite colors.
+
+@summary
+discover whether or not he/she wants a certain type of corsage.
+@article
+ Try to get a corsage that uses a flower he/she likes.
+ The last thing either of you want is for your date to have an allergic reaction during the evening.
+ Look for flowers that naturally blossom in those hues, or consider flowers that can be dyed, like carnations.
+ Traditional corsages are tied around the wrist, but other popular options include pinned-on corsages and hand-held nosegays, a type of small bouquet. Find out if she has a preference amongst the three.
+

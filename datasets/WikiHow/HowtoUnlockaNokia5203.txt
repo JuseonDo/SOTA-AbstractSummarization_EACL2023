@@ -1,0 +1,19 @@
+@summary
+power off your nokia lumia 520.
+
+@summary
+press and hold the volume down button for about eight seconds, or until an exclamation point displays on-screen.
+
+@summary
+press the volume up key, then press volume down, followed by the power button, then the volume down key once again.
+
+@summary
+release all buttons when the phone reboots.
+@article
+,
+
+If using a Windows 7 Nokia 520, press and hold the Power button, Camera key, and Volume Down button until the phone begins to vibrate.
+ This keystroke pattern will unlock your device, and reset the security passcode along with factory settings.
+
+If using a Windows 7 Nokia 520, release the Power button, while continuing to press and hold the Camera key and Volume Down buttons.
+ The welcome screen will display, and your phone will be unlocked and restored to the original factory settings.

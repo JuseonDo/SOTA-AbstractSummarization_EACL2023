@@ -1,0 +1,14 @@
+@summary
+recall the rule that when -  and - meet, it becomes +.
+
+@summary
+add those numbers!
+@article
+ Therefore, the two negative sign becomes one positive sign.
+
+Example:9-(-28)=9+29
+
+,
+
+Example:9+29=38
+

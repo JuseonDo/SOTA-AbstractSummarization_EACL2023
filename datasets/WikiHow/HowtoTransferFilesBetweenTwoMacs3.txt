@@ -1,0 +1,9 @@
+@summary
+insert a usb drive into the computer you want to transfer the files from.
+
+@summary
+plug the usb drive into the mac you wish to transfer the files too.
+@article
+ Open finder and move the files to the USB Drive. Unplug and eject the USB drive when complete.
+ Drag and drop the files from the USB drive to the target computer as desired on your new Mac. Unplug and eject the USB drive.
+

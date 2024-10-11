@@ -1,0 +1,8 @@
+@summary
+turn on screen sharing.
+
+@summary
+give all users or specific users permissions to connect.
+
+@article
+ On the computer you wish to control, go to System Preferences. Click on "Sharing" and make sure "Screen Sharing" is checked. If it is not checked, check it.

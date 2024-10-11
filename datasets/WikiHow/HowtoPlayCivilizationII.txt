@@ -1,0 +1,60 @@
+@summary
+insert the civilization ii cd into the cd drive.
+
+@summary
+follow the instructions given to you by the installation process.
+
+@summary
+when the installation process is complete, you can then play the game.
+
+@summary
+,
+
+@summary
+a menu should come up with some options.
+
+@summary
+choose your map size and follow the instructions on the next dialogues.
+
+@summary
+,
+
+@summary
+you should start in an area with a settlers unit.
+
+@summary
+in the city window, build a combat unit to defend your city.
+
+@summary
+when you close the window, a screen with a list of advances should come up.
+
+@summary
+an emissary from another civilization may eventually negotiate with you.
+
+@summary
+when your city grows large enough, you can build settlers found new cities like you did in the beginning.
+
+@summary
+if you find a weaker civilization, you can declare war on them if you want.
+
+@summary
+make allies with stronger civilizations.
+
+@summary
+when you discover trade, you can build caravans to trade with other civilizations.
+@article
+;
+, Choose your installation option.
+
+
+If you chose Custom Install, it will give you two categories of files: Required and Recommended. You have to install the required files for the game to function.
+, Choose "Start a New Game".
+, This is usually a good spot to build a city, as the dialogue that comes up usually says. Build a city by selecting the option from the "Orders" menu or pressing "b".
+ This is very important. If you don't your city may be captured by barbarians or an other civilization. When you get it, fortify it in the city. It is usually good to have two units in your city. When you have enough, you can start building city improvements.
+ Usually there will be a window to right suggesting what to research. Its advice is often correct in the early stages of the game.
+ Try to make peace with other civilizations in the early parts of the game.
+ This is important to increase your power.
+ This can give you new advances, more money, and more territory.
+ Alliances mean you are safe from being attacked by them, and you can help each other out. They will also usually declare war on civilizations that attack you.
+ This increases the amount of trade in the exporting city and a small amount of revenue.
+

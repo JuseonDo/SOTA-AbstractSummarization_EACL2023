@@ -1,0 +1,25 @@
+@summary
+find any item in your home or almost any store of your choosing.
+
+@summary
+look for the barcode on the package.go to the barcode scanner
+
+@summary
+,
+
+@summary
+find where the barcode scanner's (most often times red) laser hits the barcode.
+
+@summary
+,
+
+@summary
+place the item underneath the laser.
+
+@summary
+remove the item from the scanner area, once the scanner has beeped at you.
+
+@article
+ All products (with the exception of fruits will have barcodes, if they are able to be sold on store shelves, no matter where you are scanning them at/from.;
+, The barcode will have several sets of various weighted lines.
+,, Wait for the scanner to make a semi-deep 'Beep'. If it doesn't make a beep sound, make sure that the package is straight, the barcode is clean and free of dust particles or dirt) and that nothing else obstructs the laser's area.

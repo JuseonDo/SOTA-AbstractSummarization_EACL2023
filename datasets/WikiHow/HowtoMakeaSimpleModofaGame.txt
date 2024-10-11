@@ -1,0 +1,18 @@
+@summary
+locate the game folder, which is usually in "c:\program files", and find common file types to replace.
+
+@summary
+use notepad or another text editor to modify an .ini file (e.g.
+
+@summary
+use paint or another graphics editor to modify image files.
+
+@summary
+replace .wav (wave), .mp3 (mpeg3), and .ogg (ogg vorbis) sound and music files with your own.
+@article
+;
+, gunAmmo(26) to gunAmmo(255)). Some .dat * .cfg files can also be modified, but don't try it if you see a bunch of funny symbols
+
+, These include files with the extensions .bmp (bitmap), .gif (Graphics Interchange Format), .png (portable network graphics), and .jpeg (Joint Photographic Experts Group), among others. Usually these image files are textures to be mapped to certain surfaces or pictures to be used on the game's intro or setup screens.
+ These are audio files that are used for music tracks or sound effects inside a game.
+

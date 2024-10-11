@@ -1,0 +1,52 @@
+@summary
+open the discord app on your device.
+
+@summary
+tap the three horizontal lines icon.
+
+@summary
+tap on a server icon on the navigation panel.
+
+@summary
+find the "text channels" or "voice channels" heading.
+
+@summary
+tap the + icon next to text channels or voice channels.
+
+@summary
+tap on the channel name field.
+
+@summary
+,
+
+@summary
+enter a channel name.
+
+@summary
+select who can access your chat channel on this server.
+
+@summary
+tap the save button.
+@article
+ The Discord icon looks like a blue circle with a white game controller in it.;
+, This icon is located in the upper-left corner of your screen. It will open your navigation menu.
+
+
+Alternatively, you can swipe right from the left edge of your screen to open this menu.
+ You will see a list of all your servers on the left-hand side of your screen. Tap on the server you want to use for your channel.
+ These sections will list of all the text and voice chat channels on this server.
+ It will open the Create Channel page. This button will let you create a text or voice chat channel on this server.
+
+
+You have to be a server admin to create a channel. If you don't have administrator privileges, you won't see the "+" icon here.
+, This will be the name of your new channel on this server.
+ Under the "WHO CAN ACCESS THIS CHANNEL" heading, tap and check the box next to all the members you want to add to your channel.
+
+
+If you don't have any contacts on this server, this option will appear as @everyone.
+ It looks like a white floppy disk icon in the lower-right corner of your screen. It will create your text or voice chat channel.
+
+
+If you create a text channel, Discord will automatically open your channel on your screen after you tap the white floppy disk icon.
+If you create a voice channel, Discord will open your navigation menu after you tap the white floppy disk icon. Tap on your channel name under the VOICE CHANNELS heading to access your voice channel.
+

@@ -1,0 +1,15 @@
+@summary
+select the element you want to put padding on.
+
+@summary
+,
+
+@summary
+use the padding: ;command.
+@article
+, It can be used with 2 or 4 variables:
+
+
+padding: top/bottom left/right;
+padding: top right bottom left;
+

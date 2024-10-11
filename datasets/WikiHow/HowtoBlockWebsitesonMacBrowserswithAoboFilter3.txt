@@ -1,0 +1,5 @@
+@summary
+you can block any sites you want on mac by modifying the host file.
+@article
+ However, we do not suggest this way if you are not proficient at Mac as it is really difficult and complicated.
+

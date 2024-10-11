@@ -1,0 +1,29 @@
+@summary
+open your iphone’s settings.
+
+@summary
+scroll down and tap safari.
+
+@summary
+slide the white safari suggestions switch to the “on” position.
+
+@summary
+open safari.
+
+@summary
+tap on the search box.
+
+@summary
+type in an url or search term.
+
+@summary
+tap on a suggestion.
+@article
+ The icon will appear as a set of grey gears and is located on the Home Screen.;
+, It is about a third of the way down the menu.
+ It will turn green. Safari will now show you previews of apps, news, music, and other content when you type into the browser’s search box.
+ It looks like a giant, blue compass somewhere on the home screen.
+ It is located at the top of the screen.
+ The suggestion will appear between the search box and general search results as you type. You may see suggestions from places like the iTunes Store, Wikipedia, the App store, or general news and weather.
+ The suggestion will be directly under the search box. This will lead you directly to the suggestion’s app or website.
+

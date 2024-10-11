@@ -1,0 +1,21 @@
+@summary
+start equipping some of your potions.
+
+@summary
+get behind your opponent and get a few first strikes.
+
+@summary
+start using critical hits and strafe (circle around) your opponent.
+
+@summary
+get to a place your opponent would find hard to reach, then attack them with a bow.
+
+@summary
+finish them off and collect their stuff.
+@article
+ Golden apples will also work.
+ This gives you an advantage, as they have already taken some damage.
+ Also try hitting them while sprinting, as it will knock them back.
+ If the server allows it, try placing some blocks in a "nerd pile", a large stack of blocks.
+ They might have things that will refill your stock, or items with more durability. Get to a safe area, arrange yourself, and you're ready for the next battle!
+

@@ -1,0 +1,57 @@
+@summary
+open up a large file of yours with lots of graphics.
+
+@summary
+create a new impress document.
+
+@summary
+,
+
+@summary
+navigate to tools-->options-->libreoffice-->memory.
+
+@summary
+,
+
+@summary
+survey your existing settings; you will be adjusting these.
+
+@summary
+adjust libreoffice's memory settings.
+
+@summary
+restart your computer (this just makes sure that libreoffice is completely closed down.
+
+@summary
+open up your large impress file with lots of graphics.
+
+@summary
+right-click on the image.
+
+@summary
+,
+
+@summary
+select "compress graphic".
+
+@summary
+,
+
+@summary
+click the "calculate" button to see how much you'll be saving.
+
+@summary
+,
+
+@summary
+tweak any settings, perhaps click the "calculate" button again to see changes, and finally click the ok button.
+
+@article
+ Move between pages in editing view. Then switch to Slide Show view and transition between slides. Make a mental note of the speed and smoothness of images loading.;
+,,, Consider how much memory your computer has (2GB? 4GB? 6GB? a whopping 8GB??) If you are not sure how much memory your computer has, locate System Properties (usually by right-clicking My Computer for WinXP, for example) and read where it says x GB of RAM.
+ Change it to whatever seems appropriate.
+ Sometimes a background process will hang around longer if you don't restart the computer.)
+
+, Move between pages in edit view. View the Slide Show. Do you see any difference? If LibreOffice's memory settings were quite low and you adjusted them much higher, you should see a noticeable difference because images are "preloaded" in the background. This should make everything much smoother!
+
+,,,,

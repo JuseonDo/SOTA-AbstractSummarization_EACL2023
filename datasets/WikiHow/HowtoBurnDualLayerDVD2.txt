@@ -1,0 +1,5 @@
+@summary
+install a software that is capable of burning a dual layer disc.
+@article
+ Some programs that are capable of dual layer burning include Nero StartSmart and PgcEdit.
+

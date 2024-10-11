@@ -1,0 +1,13 @@
+@summary
+get a porn blocker or parental control tool with porn blocking feature.
+
+@summary
+normally you can get an installer and a guide file in the download package, which may be named variously.
+
+@summary
+you may need to configure the porn blocker to make it more suitable for you.
+@article
+ You can download from some trustworthy download centers like CNET, MacUpdate, Softpedia, FileGuru or TuCows. Search "Filter for Mac" or "Parental Control" you may get a lot of results.;
+, Open the guide file and follow the instructions to install the Porn Blocker.
+ Some parental control tools don't allow users to modify blocking list but others do.
+

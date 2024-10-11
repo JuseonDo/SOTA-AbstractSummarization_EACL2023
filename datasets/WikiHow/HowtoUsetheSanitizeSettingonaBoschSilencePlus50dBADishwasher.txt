@@ -1,0 +1,20 @@
+@summary
+turn on your dishwasher.
+
+@summary
+using the left and right arrows, choose either the heavy wash, normal wash, auto wash, or half load cycle.
+
+@summary
+press the sanitize button.
+
+@summary
+from a nearby tap, let the hot water run for 10 seconds.press the start button.once the cycle is complete, the sanitized light should be lit up.
+@article
+  This can usually be done by pressing the On/Off button.
+
+
+It will not work with the Delicate and Express Wash cycles.  This is because the high bacteria killing temperatures could damage delicates and it takes a while for the sanitization to complete.
+ The Sanitize light should light up.
+
+If this doesn't happen, you should refer to the original appliance manual for specific instructions.
+  This makes the water in the pipes to the dishwasher already hot so the dishwasher can begin the cycle immediately.,,

@@ -1,0 +1,5 @@
+@summary
+search the abandoned page.
+@article
+ When someone breeds a dragon, they might abandon it, or a newbie might abandon the egg.
+

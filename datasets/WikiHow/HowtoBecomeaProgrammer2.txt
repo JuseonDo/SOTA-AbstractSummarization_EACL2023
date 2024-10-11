@@ -1,0 +1,99 @@
+@summary
+know what web programming entails.
+
+@summary
+browse many diverse websites to learn about how they usually look.
+
+@summary
+learn at least one brainstorming technique/method and a software that is used to implement that method.
+
+@summary
+get familiar with website structuring.
+
+@summary
+take a crash course on graphics design.
+
+@summary
+learn the basics of the internet infrastructure.
+
+@summary
+learn the html and css languages.
+
+@summary
+learn xml and xml related technologies, such as xsl and xpath (optional but recommended).
+
+@summary
+,
+
+@summary
+create simple static websites until you are familiar with and comfortable around html.
+
+@summary
+,
+
+@summary
+learn a client-side scripting language.
+
+@summary
+familiarize yourself with the client-side scripting language you learned.
+
+@summary
+learn at least one server-side programming language.
+
+@summary
+create a pilot project for yourself after you finish learning the server-side programming language.
+
+@summary
+,
+
+@summary
+obtain your own website and start experimenting online within your own page.
+
+@article
+ Web applications are software components designed to work on top of the internet architecture. This means that the applications are accessed through a web browser software such as Firefox or Internet Explorer. Being built on top of the Internet architecture does not necessarily require an active connection to the internet. It means that Web applications are built on top of standard web technologies such as:
+
+
+HTTP
+FTP
+POP3
+SMTP
+TCP
+
+IP protocols
+HTML
+XML
+Coldfusion
+ASP
+JSP
+PHP
+ASP.NET;
+, (Right click, then click View Source or press F12.) Look for diversity in the type/content of the website, not the quantity of websites visited. Generally, you will need to visit at least one of each of the following types of websites:
+
+
+Corporate presence sites (commercial corporations, not-for-profit corporate/organizations, governmental organizations)
+Web indexing engines (search engines, meta search sites, specialized search engines, directories)
+Data mining sites
+Personal sites
+Informational/encyclopedic pages (wikis, data sheets, technical specifications, and manuals listing directories, blogs and journals, news and news agencies sites, yellow pages, etc.)
+Social sites (social portals, bookmarking sites, note-taking sites)
+Collaborative sites (this includes other categories mentioned above, such as wikis and blogs)
+
+, For example: brainstorming diagrams and MS Visio.
+ This is creating conceptual web diagrams, site-maps, and navigation structures.
+ Try to learn at least one graphics editing/manipulation software package (optional, but strongly recommended)
+
+, This includes getting a basic idea about:
+
+
+Base Web services protocols (HTTP, FTP, SMTP, and POP3 or IMAP4)
+
+Web server software (preferably, one for the platform you will be working on mostly)
+Web browsing software.
+
+Email server and client software
+
+, You might also want to get the "What You See Is What You Get (WYSIWYG)" software package for editing HTML.
+,, Most users learn JavaScript. Some learn VBScript, but this isn't compatible with most browsers.
+ Try to reach your potential using only that language. Only go to the next step after you've at least become familiar with your client-side scripting language.
+ If you choose to restrict yourself to one server software, learn one of the programming languages supported by that software. If not, learn at least one programming language on each server software.
+,

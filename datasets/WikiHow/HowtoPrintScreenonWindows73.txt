@@ -1,0 +1,22 @@
+@summary
+open the "start" menu.click on search.type snipping tool in the "search" bar.
+
+@summary
+click on snipping tool.
+
+@summary
+click on mode.click on rectangular snip to create a rectangle-shaped image.
+
+@summary
+click and drag the pointer to outline a rectangular area of the screen.
+
+@summary
+click on save snip.
+
+@summary
+click on save.
+@article
+ It's in the lower-left corner of the screen.,,, Doing so opens a dialog box, It's in the menu bar of the dialog box.,, This takes a screenshot of the section of the screen you outlined and shows you the resulting image., It's the icon that looks like a purple floppy disc. This will open the "Save As" window and you can enter a filename for the screenshot and choose where to save it.
+
+The default image file type for the snipping tool is JPEG. You can change this by clicking on the "File Type" drop-down menu in the dialog box.
+ The selected portion of the screen will be saved as an image to your computer.

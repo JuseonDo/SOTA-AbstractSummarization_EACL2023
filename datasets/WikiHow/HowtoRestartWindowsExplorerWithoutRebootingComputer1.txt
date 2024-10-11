@@ -1,0 +1,29 @@
+@summary
+press .ctrl+⇧ shift+esc.
+
+@summary
+click the .processes tab.
+
+@summary
+click the "image name" column header to sort the processes alphabetically.
+
+@summary
+select .explorer.exe from the list.
+
+@summary
+click .end process button.
+
+@summary
+click "file" and select "new task (run...)".
+
+@summary
+type .explorer and press ↵ enter.
+@article
+ This will open the Task Manager.;
+, This will display a list of all of the processes currently running on your computer.
+ This will make it easier to find explorer.exe
+
+, It's easiest to find if the list is in alphabetic order.
+ Confirm that you want to end the process. Windows Explorer will be closed. Your task bar and desktop will disappear, and any open Explorer windows will be closed.
+ This will open the Run window.
+ The Windows Explorer interface will restart. Your task bar will return, as well as your desktop and icons. Any Explorer windows that were previously opened will not be reopened.

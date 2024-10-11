@@ -1,0 +1,11 @@
+@summary
+tap in the location where you want to insert the symbol.
+
+@summary
+tap ?123.
+@article
+, It's to the left of the spacebar:
+
+Type :) for 🙂 .
+Type :, then tap ABC and type D for 😄 .
+

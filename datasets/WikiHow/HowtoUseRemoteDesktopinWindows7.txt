@@ -1,0 +1,85 @@
+@summary
+double-check the version of windows on the target computer.
+
+@summary
+open the system control panel.
+
+@summary
+click “remote settings.” this will open the system properties panel.
+
+@summary
+,
+
+@summary
+allow connections from other computers.
+
+@summary
+click “select users.” you’ll be brought to a screen where you can add a new user account.
+
+@summary
+,
+
+@summary
+click “add.” you can select any of the computer’s existing user accounts by typing a username and clicking on “check names.” select the account you wish to use and click “ok.”
+
+@summary
+if you want to create a new user account, see create a new user account in windows vista and 7 and create a new user for windows 8.
+
+@summary
+,
+
+@summary
+click “ok.” remote desktop is now enabled on the target system.
+
+@summary
+,
+
+@summary
+connect the target computer to the network.
+
+@summary
+open a command prompt.
+
+@summary
+type “ipconfig” and press enter.
+
+@summary
+from the control panel, click “system and security.” this will open the system and security control panel.
+
+@summary
+,
+
+@summary
+click “allow a program through windows firewall.",
+
+@summary
+put a check in the box next to remote desktop.
+
+@summary
+on the windows 7 computer connecting to the target, open the start menu and type “remote desktop” in the search box.
+
+@summary
+enter the ip address of the target computer.
+
+@summary
+enter your login credentials.
+
+@summary
+control the target computer remotely.
+@article
+ The computer receiving the connection from your Windows 7 computer should have one of the following operating systems installed: Windows 10, Windows 8.1 (Professional or Enterprise), Windows 7 (Professional, Home Premium Ultimate or Enterprise). , Open the control panel and select “System and Security.” Click “System.”
+
+,, Toward the bottom of the panel, you’ll see several options for Remote Desktop.
+
+
+Select “Allow connections from computers running any version of Remote Desktop” if you’re not sure of the version of Windows installed on the system that will be making a connection. Select “Allow connections only from computers running Remote Desktop with Network Level Authentication” if both computers are running Windows 7. You’ll only see this option on a Windows 7 computer, so don’t panic if you don’t see it in another version.
+,,, The two computers will need to be able to reach each other over a network in order for Remote Desktop to work. The following steps will work for both a local network and the Internet.
+ Open the Start menu and type “command prompt” in the search box, then click “Command Prompt” when it appears in the search results.
+ This will display the target computer’s IP configuration. Write down the address next to “IPV4 Address.” The connecting computer will need this address to connect.
+, Choose “Change Settings" to specify which program you want to allow.
+ Click “OK” to save and exit. If you want to reverse these firewall settings at any time, navigate back to this location and remove the check from Remote Desktop.
+ When "Remote Desktop Connection" appears in the search results, click on it.
+ This is the IPv4 address you previously collected from the other system. Press “Connect.”
+
+, Enter the username and password of the account you configured in the target computer’s Remote Desktop settings. Click “OK.” , You are now logged in to the target computer from your Windows 7 workstation.
+

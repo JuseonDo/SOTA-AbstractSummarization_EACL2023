@@ -1,0 +1,17 @@
+@summary
+go to the foreground color and click on the leftmost icon and then select the gradient option.
+
+@summary
+click on the gradient now showing.
+
+@summary
+select the type of gradient that you want to create.
+
+@summary
+look around.
+@article
+;
+, When you select the gradient option, a gradient will show in your toolbar. Click on that to get the gradient dialog.
+ In the screenshot, there is a sunburst gradient selected. Also, decide whether or not to invert the gradient. This will make a big difference in the way it looks.
+ Although you can make your own gradient, PSP comes with quite an array of gradients for you to choose from.
+

@@ -1,0 +1,13 @@
+@summary
+create a sim.
+
+@summary
+enable cheats by pressing and holding down "cmd" "shift" and "c".
+
+@summary
+go into the sim's needs panel.
+
+@summary
+get ready to take a picture (screenshot or tap the camera icon in the bottom left corner of the screen).
+@article
+, Then type into the blue box on the top of your screen "testingcheatsenabled true". Press "Enter"., Drag the hunger bar down to nothing (to the left). The Sim will now die., When the body goes golden, that's your cue to snap a picture. You will take an image of a golden sparkle on the floor.

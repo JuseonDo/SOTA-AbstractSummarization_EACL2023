@@ -1,0 +1,20 @@
+@summary
+dial 8.
+
+@summary
+dial 10.
+
+@summary
+dial 36 after 00.
+
+@summary
+dial 1 after 36.
+
+@summary
+dial the phone number after 1.
+
+@article
+ Wait for a new dial tone.
+ Dial 10 after 8 when you hear the new dial tone.
+ 36 is the country code for Hungary.
+ 1 is the area code for Budapest.

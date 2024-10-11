@@ -1,0 +1,9 @@
+@summary
+using a blank cd (or an empty >1gb flash drive, if you have one) create an ophcrack livecd (download , guide to burning the iso file to a cd is .
+
+@summary
+if you have a spare flash drive (maybe an older (512mb or so) one that you've since replaced), set it up to run common programs.
+@article
+ Ophcrack is a program which cracks Windows passwords using LM hashing and Rainbow tables. In short, it can find out a forgotten Windows password in minutes - very useful, since if you forget your Windows password the only option is usually to format the drive.
+ It's very useful to be able to use your own favorite, customized web browser instead of IE6 on a library computer, or to boot up a school terminal using Damn Small Linux (a portable Linux build which takes up less than 50MB). Try putting your favorite browser and DSL on the drive, but if you have space left over you could run other software as well.
+

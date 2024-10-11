@@ -1,0 +1,42 @@
+@summary
+tap the settings app.
+
+@summary
+tap messages.
+
+@summary
+,
+
+@summary
+tap the mms messaging slider.
+
+@summary
+tap the group messaging slider.
+
+@summary
+tap the messages app.
+
+@summary
+,
+
+@summary
+tap the new message button.
+
+@summary
+tap the "+" to add people from your contacts.
+
+@summary
+type your message.
+
+@summary
+,
+
+@summary
+tap the ↑ button to send the message.
+@article
+ You'll find this on one of your Home screens.;
+,, If you don't see this, your carrier or current plan does not support MMS messages.
+ When this is enabled, you'll be able to send and receive MMS group messages. This option is only visible if MMS Messaging is enabled.,, It looks like a paper and pencil. You'll need to close any open conversation to see it.
+ You can also type the name of someone or type a phone number.
+, If everyone in the group message is using iMessage, the text bubbles will be blue. If you are using MMS, the messages will be green.
+

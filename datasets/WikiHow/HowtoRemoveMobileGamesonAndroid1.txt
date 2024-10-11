@@ -1,0 +1,37 @@
+@summary
+tap the settings app.
+
+@summary
+tap "apps" or "application manager.",
+
+@summary
+open the "all apps" list.
+
+@summary
+scroll to find the game you want to uninstall.
+
+@summary
+,
+
+@summary
+tap the game.
+
+@summary
+,
+
+@summary
+tap "uninstall.",
+
+@summary
+tap "ok" to delete the game.
+
+@article
+;
+,
+
+, The process for this varies depending on your Android:
+
+
+You may be able to swipe from right to left to switch tabs.
+You may be able to select "All apps" from a drop-down menu at the top of the screen.
+,, If you don't see an "Uninstall" button, see the next section.

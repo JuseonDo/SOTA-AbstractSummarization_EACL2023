@@ -1,0 +1,25 @@
+@summary
+note the probabilities of the outcomes of a single die.
+
+@summary
+in the column for 2 dice, use the formula shown.
+
+@summary
+likewise, for three or more dice, the same formula still applies, using the now known probabilities for each given sum on one die fewer.
+
+@summary
+the spreadsheet shown computed "number of ways" not "probability", but converting between them is easy: probability = number of ways / r^n where r is number of sides on each die and n is the number of dice.
+@article
+ Record them in a spreadsheet. The example shown uses 6-sided dice. The blank rows for negative sums are treated as zeros and allow the same formula to be used in all rows.
+ That is, the probability of 2 dice showing any sum k equals the sum of the following events. For very high or low values of k, some or all or these terms might be zero, but the formula is valid for all k.
+
+
+First die shows k-1 and the second shows 1.
+First die shows k-2 and the second shows 2.
+First die shows k-3 and the second shows 3.
+First die shows k-4 and the second shows 4.
+First die shows k-5 and the second shows 5.
+First die shows k-6 and the second shows 6.
+ Thus, the formula entered in step two can be filled both down and across until the table includes as much data as required.
+ Alternatively, the spreadsheet can be modified to compute probability directly.
+

@@ -1,0 +1,17 @@
+@summary
+connect your iphone to your computer.
+
+@summary
+click on your iphone icon.
+
+@summary
+click on apps.
+
+@summary
+drag an app on top of another app.
+@article
+ Use the USB cable that came with your iPhone.
+ It's in the bar at the top of the window.
+ It's in the left pane of the window.
+ Use the cursor to move apps and create folders ↓ on the image of your iPhone's screen in the left pane of the window.
+

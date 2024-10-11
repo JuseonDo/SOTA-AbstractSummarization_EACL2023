@@ -1,0 +1,20 @@
+@summary
+register at disqus.com.
+
+@summary
+select "tumblr" from the install options on the page.
+
+@summary
+,
+
+@summary
+follow the instructions on the disqus page.
+
+@summary
+you're done!
+@article
+ Enter all the information the site asks for, including your Tumblr URL, the name of your blog, a shortname and a username for Disqus, a password, and your email address.;
+,, Make sure you're logged in to the correct Tumblr before you put in your Disqus shortname!
+
+, Save and open up your blog in a new window--it should say "0 Comments" underneath all your posts. You and all your followers can click on this text to comment on your blog using Disqus.
+

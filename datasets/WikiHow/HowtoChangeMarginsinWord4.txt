@@ -1,0 +1,22 @@
+@summary
+click the format tab at the top of your screen.
+
+@summary
+select "document".
+
+@summary
+type in how big you want your top, bottom, left, and right margins to be.
+@article
+ It's the third tab from your left.
+ It's the third tab from the top.
+ The Gutter margin is extra space for the side of the document that is going to be bound.
+
+
+Click "OK" when you're done.
+
+
+
+
+
+
+

@@ -1,0 +1,54 @@
+@summary
+log in to your gmail account in a web browser.you can set up a different e-mail client (e.g. outlook, thunderbird, imail) to send and receive messages from your gmail account.
+
+@summary
+click the gear icon at the top right of your inbox, then select “settings”.
+
+@summary
+,
+
+@summary
+click the “forwarding and pop/imap” tab.
+
+@summary
+,
+
+@summary
+select “enable imap”.
+
+@summary
+click the “configuration instructions” link.
+
+@summary
+navigate to the mail client’s account settings page.
+
+@summary
+(if you’re using imail), click “mail” and then “add account.”
+
+@summary
+choose “google,” then sign in with your google username and password.
+
+@summary
+(if you’re using outlook or another program) click “tools,” then “e-mail accounts.” other programs should have similar menus—you’ll need to dig around a little.
+
+@summary
+open the gmail troubleshooting page if you experience problems with mail client setup.
+
+@article
+ First, you will need to set up Gmail to allow connections from other programs.
+,, Gmail recommends using IMAP so you can check your Gmail more than one location. This is helpful if you use a mail client but also want the ability to use the web interface or mobile app if necessary.
+
+
+Another option is POP. Select “Enable POP for all mail” if you don’t want to save copies of your Gmail messages on Gmail’s server. When your e-mail client retrieves messages through POP, the messages on the Gmail server will be deleted.
+ You will find this link under POP or IMAP (whichever service you chose). This will launch Google’s official support page that contains up-to-date server addresses that you’ll need to input into your e-mail app.
+
+
+Some clients may not require this information, but you should open it just in case.
+ The location is different depending on your mail client.
+
+Follow the prompts to start receiving your Gmail on your Mac.
+ This is where you’ll configure your Gmail settings.
+
+
+Select “Add New Account,” then select “IMAP” or “POP” from the options, depending on what you chose previously. Click “Next” to proceed.
+Enter the information from the “Configuration Instructions” into the appropriate blanks.

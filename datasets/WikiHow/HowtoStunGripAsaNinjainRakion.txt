@@ -1,0 +1,15 @@
+@summary
+slash (left click) to stun the opponent once.
+
+@summary
+click both left and right click at same time a half second after you stun, otherwise you will mess up doing the load up special.
+
+@summary
+,
+
+@summary
+it takes a lot of practise not to mess up a stun grip.
+@article
+;
+,, To do that create a new stage game (1st stage). When you enter do not go through the door. Stay where you are. You have 9mins to practise before game ends. Do the following thing: Left click (wait one second) left+right click. This will produce a slash and invincible jump attack if done right. When you do the same fluently on an opponent you will stun grip him/her.
+

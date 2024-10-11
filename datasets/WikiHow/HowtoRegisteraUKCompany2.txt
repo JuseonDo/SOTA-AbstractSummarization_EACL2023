@@ -1,0 +1,38 @@
+@summary
+complete the necessary documents to be sent to companies house.
+
+@summary
+access the companies house website.
+
+@summary
+,
+
+@summary
+click on "start a company" from the top of the menu on the left hand side of the homepage.
+
+@summary
+,
+
+@summary
+choose the link under point number 1 that says "access the business link/companies house web incorporation service.",
+
+@summary
+read the information on the page, and then select the box that reads "incorporate with companies house now" to proceed.
+
+@summary
+,
+
+@summary
+pay the necessary fee of £18 to submit your application and documents through the website.
+@article
+
+
+
+Fill out the IN01 application form. The form will allow you to register your company, and asks you to provide the location of the company's office, names and addresses of directors and a statement of shareholdings and capital.
+Submit a memorandum of association by providing the names of those who have consented to be members of your company.
+Submit articles of association explaining the details of how you will run your company, shareholders rights that are permitted and restricted, and information about the director's powers.
+Provide any other additional information that will help to explain or expand upon any information already provided in the other documents.
+,,
+
+,, Filing your documents online is the fastest way to register your limited company.
+

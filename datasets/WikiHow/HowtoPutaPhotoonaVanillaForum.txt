@@ -1,0 +1,24 @@
+@summary
+go to the vanilla forum you want to put the image into and enter html code into the comment box.
+
+@summary
+click 'preview'.
+
+@summary
+,
+
+@summary
+click 'submit'.
+
+@article
+ (Do not use the BB code common on other forum systems.)
+
+
+For example, some common HTML image formats might look like any of the following examples which will all produce the same image:
+
+<code><img src="http:</code>
+<code><img src="http:</code>
+<code><a href="http:<img src="http:</a></code>
+
+;
+,,

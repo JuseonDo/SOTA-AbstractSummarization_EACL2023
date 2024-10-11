@@ -1,0 +1,23 @@
+@summary
+put the hard-boiled egg in the microwave.
+
+@summary
+microwave the egg for about 20 seconds.
+
+@summary
+remove the egg and peel it.
+
+@summary
+finished.
+
+@article
+
+
+
+
+
+
+
+;
+, The slight microwave energy will cause the membrane under the shell to lift easily from the egg surface. (See Warnings below for discussion of timing.) Wait at least a full minute to remove the egg from the microwave.
+ It should be easy.

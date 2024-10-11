@@ -1,0 +1,26 @@
+@summary
+start black ops iii.
+
+@summary
+press start.
+
+@summary
+scroll through available weapons.
+
+@summary
+plan out your design.
+
+@summary
+begin adding emblem pieces.
+
+@summary
+alter emblem pieces as you see fit.save the paint job once you finish it.
+
+@summary
+go to create a class.
+
+@summary
+select the paint job under "personalize".
+@article
+ Go to the Multiplayer menu.
+ Go to the Paintshop., Select the one you want to customize., You can add a total of 64 emblem pieces to the top or sides of your weapon., The Paintshop is similar in nature to the emblem editor., You can distort the shape and change the colors to create patterns. Think creatively while you're making it.,, Select the weapon you designed the paint job for and equip it., Your weapon will now bear whatever design you created.

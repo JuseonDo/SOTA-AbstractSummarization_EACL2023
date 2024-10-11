@@ -1,0 +1,31 @@
+@summary
+open the settings app.
+
+@summary
+go to the personalization category.
+
+@summary
+,
+
+@summary
+navigate to the lock screen settings.under "background", click or tap the dropdown and choose "picture".
+
+@summary
+choose one of the default/recent images, or another one by clicking browse.
+
+@summary
+,
+
+@summary
+choose to have a lock screen slideshow, if you want.
+@article
+ Go to Start and select the settings gear in the lower left corner.
+
+
+You can also do this by opening the Action Center and selecting the "All Settings" tile.;
+,, Click or tap the Lock screen tab from the left pane of the window.
+,, Select "Slideshow" from the dropdown.
+
+
+Press + Add a folder to choose a folder with pictures. You might want to prepare a folder of images exclusively for the lock screen slideshow.
+

@@ -1,0 +1,320 @@
+@summary
+go with the latest version, unless you have a specific reason not to.
+
+@summary
+look at the starter kit options.
+
+@summary
+prepare to set up your operating system.
+
+@summary
+know when to use this option.
+
+@summary
+look for a "noobs" kit.
+
+@summary
+purchase a mircosd card preloaded with noobs.
+
+@summary
+know why this is preferable.
+
+@summary
+navigate to https://www.raspberrypi.org/downloads/noobs// in your web browser.
+
+@summary
+click “download zip”.
+
+@summary
+make sure our microsd card is ready.
+
+@summary
+go to http://www.sdcard.org in a web browser.
+
+@summary
+click "downloads".
+
+@summary
+,
+
+@summary
+click "sd formatter for (windows or mac) download".
+
+@summary
+scroll to the bottom of the page and click "accept".
+
+@summary
+install the sd formatter.
+
+@summary
+plug your microsd card into your card reader on your computer.
+
+@summary
+open sd formatter.
+
+@summary
+click "format.",
+
+@summary
+open the zip file by double clicking on it.
+
+@summary
+drag and drop the files directly to the microsd card to copy them to the microsd card.
+
+@summary
+,
+
+@summary
+once the files have been copied, safely eject the microsd card.
+
+@summary
+remove the sd card from the reader.
+
+@summary
+know when to use this option.
+
+@summary
+go to https://www.raspberrypi.org/downloads/raspbian/ in your web browser.
+
+@summary
+click "download zip" and select a folder to save it to.
+
+@summary
+go to https://www.etcher.io/ in a web browser.
+
+@summary
+,
+
+@summary
+select 'download for (windows or mac)' on the green button.
+
+@summary
+install etcher.
+
+@summary
+insert your microsd card into the card reader on your computer.
+
+@summary
+open the rasbian zip file once it downloads.
+
+@summary
+open etcher.
+
+@summary
+click "select drive".
+
+@summary
+click "flash".
+
+@summary
+safely eject the microsd card.
+
+@summary
+plug the microsd card into the raspberry pi.
+
+@summary
+plug in the rest of the components, leaving the power adapter for last.
+
+@summary
+plug in the power adapter.
+
+@summary
+in the top right corner, click the internet connection icon with the two red x’s and select “turn on wifi.",
+
+@summary
+review the resulting options.
+
+@summary
+select your network.
+
+@summary
+once connected, find the blue icon on the top bar showing your network’s signal strength in blue.
+
+@summary
+,
+
+@summary
+open the terminal by clicking on the terminal icon on the top bar.
+
+@summary
+,
+
+@summary
+wait for the command prompt to open.
+
+@summary
+,
+
+@summary
+type “sudo raspi-config” and the press "enter.",
+
+@summary
+review the software configuration tool.
+
+@summary
+using your arrow keys, select “1: expand file system” then press “enter.”,
+
+@summary
+wait for it to display a message that says “root partition has been resized.
+
+@summary
+with the arrow keys, select “3: boot options” and press “enter”,
+
+@summary
+select “b4: desktop autologin desktop gui, automatically logged in as ‘pi’ user” and press “enter.” this will ensure that every time the raspberry pi starts up, it will boot up into the desktop environment, logged in as the user “pi” which is the default user.
+
+@summary
+use the arrow keys to select “5: internationalization options” and press “enter”,
+
+@summary
+select “t2 change timezone” and press enter.
+
+@summary
+,select the correct timezone for your area, then press enter.
+
+@summary
+while back in the “internationalization options” menu, select “change wifi country” and press “enter”.
+
+@summary
+,
+
+@summary
+select the country you are in, then press “enter.”,
+
+@summary
+go back to the main menu, use the side arrow keys to select “finish” and then press “enter”.
+
+@summary
+,
+
+@summary
+reboot.prepare to check for updates after your raspberry pi reboots.
+
+@summary
+open the terminal again by pressing the terminal icon on the top bar.
+
+@summary
+,
+
+@summary
+type “sudo apt-get update” then press “enter.” this will update your system’s package list.
+
+@summary
+once that has finished, type "sudo apt-get dist-upgrade" and press “enter.” this will upgrade all your installed packages with their newest versions.
+@article
+ Unless you know exactly what you will use your Raspberry Pi for and exactly what capabilities your project requires, it is recommended you purchase the latest version and model of the Raspberry Pi. This way you can ensure that you have the most up-to-date hardware and all the capabilities it offers. Not only will this give you more options to experiment with, but the price difference shouldn't be very significant.;
+, The Raspberry Pi is available in stores and online from several different companies in many different packages, so it can be a little overwhelming at first. Oftentimes they are bundled with a wide range of accessories in various Starter Kits. The standalone base model can also be purchased by itself without any accessories. But not all ‘Starter Kits’ are alike; some might not come with everything you actually need to get started, whereas others might have far more than needed.
+
+If you have already purchased a Raspberry Pi, take notice of what was included in the box as you may need to acquire a few more items.
+If you have not yet purchased a Raspberry Pi, take stock of what you already own as you might find you don’t need everything in a starter kit. Some people might find they already have plenty of HDMI cables or 5 volt MicroUSB Power Adapters leftover from old smartphones and TV's and may not need a Starter Kit.
+ If you were to simply hook up all the components together and plug in the power . . . nothing will happen. That’s because there’s no operating system (OS) on the Raspberry Pi yet, meaning there's no software to tell the hardware what to do. Fear not, for there are many operating systems you can use and installing them is easy! This guide will cover Raspbian, the official operating system designed for the Raspberry Pi. There are 3 methods to do it!
+
+, This is the easiest option if:
+
+You don’t already have a micro SD card
+You don't have an SD card reader
+You don't have access to the internet
+
+, NOOBS is an acronym for “New Out Of the Box Software” and is also internet slang for “newbie.” And that you are! It is a program that will make it easy to install the Rasbian operating system onto the Raspberry Pi from the microSD card. Online sellers like Amazon and Adafruit sell microSD cards with operating systems already loaded on them. Most of these microSD cards come with “NOOBS” preloaded on them, which is a program that allows you to pick from several selected operating systems and install the one of your choice.
+
+It's important to note that there may be no way of knowing when the SD card was preloaded with NOOBS, so it could be an older version of the operating system that is not up to date. Generally, this won’t be a problem if you plan to connect your Raspberry Pi to the internet, since you can always upgrade it later, but those without internet access should be aware of this possibility.
+ That's it! Once it arrives, you're ready to Boot Up the Raspberry Pi., This is the best option if:
+
+You already have a suitable microSD card
+You have an SD card reader
+You can access the internet
+
+, Find the section that says “NOOBS (Offline and network Install)” on the left side of the page., Then select what folder to save it to. This is a large file and will take a while to download., If the microSD card was previously used in a camera or smartphone or some other device, the card needs to be formatted to ensure there is nothing else on it. Just deleting the old files manually could cause errors., This is the official website of the SD Association and they have a free tool called SDFormatter for formatting SD cards.,, Select the option for the operating system you are currently using., This accepts the terms and conditions and the download should start right away. Then select which folder to save it to, and wait for the download to finish.,
+
+
+Double click the zip file to open it. Then double click the file "setup" to start installation.
+
+
+
+
+
+
+
+Double Click the installer package to begin installation.
+ Check to see what drive letter your computer assigns your microSD card., Make sure the correct drive letter of your microSD card is selected. You may have to click ‘refresh’ to see the correct drive letter appear. Here you can also assign your microSD card a new name in the "Volume Label" box, if you choose. In the provided example, the new microSD card name will be "BOOT" after formatting., Wait for the SD card to finish formatting., Select all the files.,,
+
+
+Right click on the microSD card drive and select "Eject."
+
+
+
+
+
+
+
+Drag the microSD card drive to the trash bin.
+ You did it! Don't you feel alive!? You can now proceed to Boot Up the Raspberry Pi., In this method, instead of installing the operating system from an installer package (such as NOOBS), you will copy over the entire operating system to the SD card, already installed and unpacked. This is the best option if:
+
+You don’t want to have to wait for the OS to install
+You want to boot directly into the desktop environment
+You want to improve your “nerd cred”
+
+, Find the section that says “RASPBIAN JESSIE WITH PIXEL” on the left side of the page.,
+
+This is a large file and could take a long time to download. While that's downloading, let's grab Etcher, a free program that will write the image file to the microSD card.
+, Make sure you've selected the operating system that you are currently using. Select a folder to save it to.,
+
+
+Click the install file and then click "Install."
+
+
+
+
+
+Click on the install file and then drag the Etcher icon into the Applications folder.
+ Take note of the drive letter your computer assigns to it., Drag and drop the image file somewhere easy to access, like the desktop., Click "Select Image". Select the image file you just extracted from the Raspbian zip file on the desktop., Select the drive letter of your microSD card.
+
+If the wrong drive letter is selected, click "change" and pick the correct one.
+ Wait for Etcher to finish writing the image file to your microSD card.,
+
+
+Right click on the microSD card drive and select "Eject."
+
+
+
+
+
+
+
+Drag the microSD card drive to the trash bin.
+ If you are looking down onto the Raspberry Pi board from above, the gold contacts of the SD card should be facing up towards you, as pictured.
+
+It will slide into place securely and can only be plugged in the correct way.
+
+
+Keyboard (USB)
+Mouse (USB)
+Display/TV/Monitor (HDMI)
+
+, It's alive! It's alive!
+
+If you have NOOBS preloaded on your SD card, it will load up an installation menu asking which OS you’d like to install. To install Raspbian, simply check the box next to it and click “Install” and this will start the installation process.
+
+
+
+
+
+
+When it has finished, it should reboot and startup Pixel, Raspbian’s new desktop environment. If, for some reason, you are still looking at a command prompt like the one pictured, simply type “startx” and then press "Enter" on the keyboard and it will load up the desktop environment.
+
+
+
+
+
+
+
+
+If you have the Rasbian image flashed to your SD card instead of NOOBS, it should boot you straight into the desktop on startup. What a beautiful sight!
+
+
+
+
+
+
+
+,, Once Wifi is enabled it will display a list of available networks., Enter the password, then click “OK.",,,,, For those familiar with PC’s this is similar to changing the BIOS settings. Once you have it the way you want it, you shouldn’t need to fuss with it much again.,, The file system will be enlarged upon the next reboot.” This is important because by default, the Raspberry Pi only uses as much of the SD card as the operating system requires. This setting will now let us use the rest of the SD card as free space. Press “Enter” to go back to the raspi-config menu.,,,,,,,,, It will ask “Would you like to reboot now?” Select “Yes” and press “Enter”,,,,

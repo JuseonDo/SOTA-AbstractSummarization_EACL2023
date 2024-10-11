@@ -1,0 +1,53 @@
+@summary
+go to www.snapchat.com.
+
+@summary
+,
+
+@summary
+scroll down and click support.
+
+@summary
+click my account and settings.
+
+@summary
+click account information.
+
+@summary
+click delete my account.
+
+@summary
+click on the link to delete your account.
+
+@summary
+enter your snapchat username and password.
+
+@summary
+click the “i am not a robot” box.
+
+@summary
+click log in.
+
+@summary
+enter your snapchat password.
+
+@summary
+click continue.
+@article
+, You can find this under the “Community” heading at the very bottom of the page.
+ This will be third selection in the menu options on the left side of the page.
+ This is the first selection on the menu. A new menu will appear after you select this.
+ A new page will load on the right side of your screen.
+ It should be in blue on top of the word "Page.” If you can’t find the link, click here to access the account deletion page.
+
+
+
+If you forgot your password, select the “Forgot My Password” option and follow the instructions sent to your email.
+ This will be under your login information. After checking the box, follow the verification prompt.
+ This will load the account deletion page.
+ You will need to re-enter your password to verify the termination of your account.
+ You will receive verification that your Snapchat account has been deactivated. Your Snapchat account will be deactivated for 30 days. After 30 days, the account will be deleted.
+
+
+Log into your account anytime during the 30 day period to reactivate your account.
+

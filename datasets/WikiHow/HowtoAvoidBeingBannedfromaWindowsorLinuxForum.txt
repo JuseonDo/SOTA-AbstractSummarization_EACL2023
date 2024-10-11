@@ -1,0 +1,44 @@
+@summary
+read the rules and terms of service first.
+
+@summary
+stay on the topic.
+
+@summary
+learn what constitutes trolling on your particular forum.
+
+@summary
+do not post links to other web sites unless the forum allows it.
+
+@summary
+do not use profanity or post obscene content on the forum.
+
+@summary
+,
+
+@summary
+do not type in all capital letters (like this).
+
+@summary
+keep some opinions to yourself.
+
+@summary
+do not copy content online and post it on the forum, as this could also get you banned.
+
+@summary
+,
+
+@summary
+if you get banned from the forum, do not sign up on the site again with a different user name and e-mail address.
+
+@summary
+if you have been banned from another forum, do not post about it on the forum, or you will be banned from that forum as well.
+
+@article
+ By doing this, you will know what is allowed and what is not, keeping you out of trouble with the moderators.;
+, While this can be difficult, off-topic posting can get you a warning from moderators. Make sure that you understand what a thread is about before posting in it, and think before you post. Does your post, question or answer relate to the topic? If you are not sure, then do not post it.
+ General guidelines would be to avoid arguments and spamming. Also posting to get attention or making too many posts in one day could be mistaken for trolling. Also, if you encounter a troll, do not give them attention or try to talk with them. This is considered “feeding a troll”, and if the moderators are strict, this can get you into trouble as well.
+ Many forums prohibit this, because it is seen as using the forums for self-promotion. If you want to link to your Web site, check the rules to see if it is allowed first. If you are not sure, then do not do it.
+, You may get banned for it.
+ While you may have your own ideas about how you run your computer, some Windows forums are so strict that they will ban you for posting comments such as (“I don’t run anti-virus software” or “Windows sucks”). If you have such ideas, do not post them on the forum. Avoid starting disputes about what is colloquially known as the “OS Wars”.
+, Moderators will have the records of your IP address, and they will know that it is you. If you get caught again, you will get an IP address ban which may prevent you from visiting the site again.

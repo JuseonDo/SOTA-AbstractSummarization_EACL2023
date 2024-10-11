@@ -1,0 +1,9 @@
+@summary
+open the message you want to forward.
+
+@summary
+fill in the "to" line.
+@article
+ Open Gmail in a browser, then scroll to the bottom of the message, where you will see a right-pointing arrow. Tap that.
+ Add any additional notes to the email, then tap "Send" in the top right corner of the message.
+

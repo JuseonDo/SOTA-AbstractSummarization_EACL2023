@@ -1,0 +1,29 @@
+@summary
+draw the center of the wing.
+
+@summary
+do some of the wing around the center.
+
+@summary
+finish the wing.
+
+@summary
+,
+
+@summary
+time to add the cockpit.
+
+@summary
+now for the other wing.
+
+@summary
+finish up the shading as shown in the picture.
+@article
+ Perspective makes it a trapezoid rather than a rectangle.;
+, This can be tough, but don't get frustrated!
+
+,, This one of the hardest parts, so if you can do this, the rest won't be all that bad.
+ Also, add some smaller versions of the shapes on the wings facing you inside the bigger ones. See picture for more clear instructions. Almost done!
+
+, You're done!
+

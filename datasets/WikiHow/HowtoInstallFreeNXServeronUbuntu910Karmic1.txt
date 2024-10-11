@@ -1,0 +1,55 @@
+@summary
+add the repository.
+
+@summary
+update.
+
+@summary
+install freenx server.
+
+@summary
+set up freenx.
+@article
+
+
+
+
+
+
+sudo add-apt-repository ppa:freenx-team
+
+
+;
+,
+
+
+
+
+
+sudo apt-get update
+
+
+
+
+,
+
+
+
+
+
+sudo aptitude install freenx
+
+
+
+
+,
+
+
+
+
+
+sudo /usr/lib/nx/nxsetup --install
+
+
+
+

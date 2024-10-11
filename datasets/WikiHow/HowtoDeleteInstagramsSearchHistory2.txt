@@ -1,0 +1,33 @@
+@summary
+tap the instagram app to open it.
+
+@summary
+tap the magnifying glass icon on the bottom of the screen.
+
+@summary
+tap the "search" bar.
+
+@summary
+tap the "top" ("recent" on android) tab beneath the search bar.
+
+@summary
+tap and hold a specific search item.
+
+@summary
+tap "hide" when prompted.
+
+@summary
+repeat this process for as many searches as you care to hide.
+@article
+ You'll want to find the toolbar, which is located at the bottom of the screen.
+ This takes you to your search bar.
+ This is at the top of the screen.
+ The "Top"/"Recent" tab holds all of your recent and most-searched users, tags, and places. Other search categories include the following:
+
+
+People, which covers other users for whom you've searched.
+Tags, which cover hashtags for which you've searched.
+Places, which covers locations for which you've searched.
+ This can include a person, a hashtag, a location, etc.
+ A menu with this option should appear after holding down the search for a couple of seconds., Hidden search results won't reappear in your search history.
+

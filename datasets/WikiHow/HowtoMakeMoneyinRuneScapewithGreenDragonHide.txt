@@ -1,0 +1,13 @@
+@summary
+buy green dragonhide at the grand exchange in varrock.
+
+@summary
+go to al kharid and find the tanner at ellis' tanning shop.
+
+@summary
+repeat steps 1 and 2 until you have no money left and only tanned dragonhide.
+@article
+ Buy them for the lowest price as possible. Spend most of your money on this step.;
+, He is north of the bank. Pay him to tan all of your Green Dragonhides. You should run back and forth.
+ Sell the Dragonhides at the Grand Exchange for as much as possible. Then repeat the process.
+

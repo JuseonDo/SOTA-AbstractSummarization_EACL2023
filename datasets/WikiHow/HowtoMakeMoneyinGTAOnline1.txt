@@ -1,0 +1,14 @@
+@summary
+find an appropriate vehicle.open the interaction menu by holding down the select button (ps3), the touchpad (ps4), the view button (xbox) or m (pc).select mod shop (also known as los santos customs) and confirm the selection.
+
+@summary
+make your way over to the waypoint and drive into the garage.select sell vehicle and confirm.
+@article
+ Since Rockstar has restricted the selling of vehicles, you'll have to find one that meets the following requirements:
+
+The car has to cost under $50.000, if stolen from street/driving NPCs.
+If you want to sell a bought vehicle, it has to come from legendarymotorsport.net, southernsanandreassuperautos.com, or warstock-cache-and-carry.com, as long as the vehicle can be stored in a garage.
+You cannot sell vehicles obtained from Warstock Cache and Carry if they require Pegasus for delivery, or ones obtained through glitches or exploits.;
+,,,
+
+If your vehicle is damaged, there are no options shown to modify it.

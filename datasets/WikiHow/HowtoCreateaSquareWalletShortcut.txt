@@ -1,0 +1,19 @@
+@summary
+open the square wallet app and sign in.
+
+@summary
+select "wallet" from the drop-down menu that appears.
+
+@summary
+,
+
+@summary
+click on a store you want from the wallet menu, such as "plymouth gardens.",
+
+@summary
+go to your home screen and look for the shortcut there.
+@article
+ Select where it says "Directory" next to the multi-color square icon in the top left.;
+,, Hit the house icon with the "+" symbol in it in the top right of the screen. Select "Add Shortcut" from the pop-up window.
+ In this example, it should say "Plymouth Gardens." Swipe through all your home screens to find it, since it could've been added anywhere. You can now click that shortcut and go straight to the store page.
+

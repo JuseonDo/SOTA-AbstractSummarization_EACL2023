@@ -1,0 +1,33 @@
+@summary
+if the gate is notorious, such as high sec to null sec jump, hang around the safe side with a normal cloak.
+
+@summary
+check local and d scan with narrow range.
+
+@summary
+when you see a shiny ship heading for your gate, make sure you are close to the gate.
+
+@summary
+wait on the other side.
+
+@summary
+when the first jumper de-cloaks, the campers will target him or her, and deploy their alpha and tackle.
+
+@summary
+align to the planet or other far away body that is closest to your current heading.
+
+@summary
+be ready to bounce from planet to planet, as hungry campers will watch which way you warp, and chase you down in fast tackle.
+@article
+ Wait.
+ Find others who are jumping towards the gate where you are at. You will know because if you point right at a station or other gate with minimum spread on the D scan, their ship will stay in view but the range will decrease rapidly.
+ Right after the shiny ship has started to jump, de-cloak and jump yourself.
+ Remember that the first jumper must decal before you, even if he or she waits out the gate cloak timer.
+ This is your chance!
+
+, Spam warp like there is no tomorrow. Do not touch MWD or AB modules. They will drastically reduce your warp away time.
+ You are not safe in a camped system until cloaked or in a safe spot. If you have no safe spot, make one as you bounce around the planets.
+
+
+Never warp directly between gates in null sec. Bounce around, and be careful.
+

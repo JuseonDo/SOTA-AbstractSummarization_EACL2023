@@ -1,0 +1,18 @@
+@summary
+open your iphone’s settings.
+
+@summary
+scroll down and tap facetime.
+
+@summary
+tap the apple id: (your apple id) button.
+
+@summary
+,
+
+@summary
+tap sign out.
+@article
+ The icon will appear as a set of grey gears located on the Home Screen.;
+, It is located in the fifth set of menu options.
+, You have successfully logged out, and will now be prompted to sign in again any time you try to use FaceTime on your iPhone.

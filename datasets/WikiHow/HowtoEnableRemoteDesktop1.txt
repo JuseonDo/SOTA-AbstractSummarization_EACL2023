@@ -1,0 +1,23 @@
+@summary
+click the "start" button.
+
+@summary
+choose the "remote" tab.
+
+@summary
+navigate back to the "control panel" and the "pick a category" screen.
+
+@summary
+select the "exceptions" tab and check the "remote desktop" box.
+
+@summary
+leave your computer running and leave it connected to the internet.
+@article
+ Choose "Control Panel." Click "Performance and Maintenance." Click the icon labeled "System.";
+, Check the box labeled "Allow users to connect remotely to this computer" and click "OK."
+
+, Choose "Security Center" and then click "Windows Firewall." Uncheck the "Don't allow exceptions" box.
+ Click "OK."
+
+, Your computer is now ready to be accessed remotely.
+

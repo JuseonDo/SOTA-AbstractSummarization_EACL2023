@@ -1,0 +1,41 @@
+@summary
+open google chrome on a computer that can access the network printer.
+
+@summary
+,
+
+@summary
+click the chrome menu button (☰) and select settings.
+
+@summary
+,
+
+@summary
+click the "show advanced settings" link.
+
+@summary
+,
+
+@summary
+click the "manage" button in the google cloud print section.
+
+@summary
+click the "add printers" button.
+
+@summary
+check the box next to the printer you want to print to.
+
+@summary
+print from your android device.
+@article
+,,,
+
+
+You will need to sign in with your Google account if you aren't already.
+ Chrome will scan your computer for available printers.
+ Click "Add printer(s)" to confirm.
+ You can select "Print" from the menu in many Android apps. You can then select your Google Cloud Print printer and print from anywhere as long as the computer that you setup the printer on is turned on.
+
+
+If you don't see your printer, try restarting it and ensure that your computer is turned on and logged in.
+

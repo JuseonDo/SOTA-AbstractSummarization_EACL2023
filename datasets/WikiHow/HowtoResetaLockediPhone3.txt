@@ -1,0 +1,29 @@
+@summary
+connect your iphone to a computer using a usb cable.
+
+@summary
+,
+
+@summary
+launch the itunes application.
+
+@summary
+press and hold the “sleep / wake” and “home” buttons on your iphone at the same time until the recovery mode screen displays.
+
+@summary
+click on “restore” when itunes informs you a problem was detected with your device.
+
+@summary
+wait for itunes to finish resetting your iphone, then follow the on-screen instructions to set up your device as new.
+@article
+, iTunes will take a few moments to recognize your iPhone.
+
+
+If iTunes is not installed on your computer, navigate to Apple’s website at https://www.apple.com/itunes/download/ to download and install the latest version of iTunes.
+ The recovery mode screen will display after the Apple logo disappears.
+ iTunes will download and install any existing software updates, which may take up to 15 minutes to complete.
+
+
+If your iPhone takes longer than 15 minutes to install updates, your iPhone may have exited recovery mode. Repeat steps #3 and #4 before proceeding.
+ Your iPhone will now be reset and unlocked.
+

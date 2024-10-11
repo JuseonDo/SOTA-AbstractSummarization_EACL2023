@@ -1,0 +1,19 @@
+@summary
+open facebook.scroll to a post from the group.
+
+@summary
+tap
+
+@summary
+ 
+
+@summary
+on the post.
+
+@summary
+tap hide all from (group name).
+@article
+ Look for the blue icon with a white “f” on your home screen. If you don’t see it, check the app drawer.
+
+Use this method if you want to stop seeing posts from a group in your news feed.;
+,, It’s at the post’s top-right corner., You will no longer see posts from this group in your news feed.

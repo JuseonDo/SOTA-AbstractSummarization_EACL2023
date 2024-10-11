@@ -1,0 +1,10 @@
+@summary
+check out the google pacman game.
+@article
+
+
+
+Go to regular Google.
+Type in "Google Pacman".
+Hit "I'm feeling lucky".
+

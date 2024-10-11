@@ -1,0 +1,16 @@
+@summary
+open your mozilla firefox browser.
+
+@summary
+select the "bookmarks" button from the file bar.
+
+@summary
+select the star icon.
+
+@summary
+click on the box titled "remove bookmark."
+@article
+;
+, From here, go to the page that you wish to delete.
+ This is the icon in the upper right-hand corner of your browser to the right of your search bar. A menu entitled "Edit your Bookmarks" will appear., To determine if the bookmark was deleted reopen your browser and look under your "Bookmarks" icon in your toolbar.
+

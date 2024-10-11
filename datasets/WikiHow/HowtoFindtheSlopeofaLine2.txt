@@ -1,0 +1,44 @@
+@summary
+get a line of which you want to know the slope.
+
+@summary
+pick any two coordinates that the line goes through.
+
+@summary
+pick which point's coordinates are dominant in your equation.
+
+@summary
+set up the equation using the y-coordinates on top and the x-coordinates on bottom.
+
+@summary
+,
+
+@summary
+subtract the two y-coordinates from one another.
+
+@summary
+,
+
+@summary
+subtract the two x-coordinates from one another.
+
+@summary
+,
+
+@summary
+divide the y-coordinate's result with the x-coordinate's result.
+
+@summary
+double-check to see that your number makes sense.
+@article
+ Make sure that the line is straight. You can't find the slope of a line that isn't straight.
+ Coordinates are the x and y points written as (x, y). It doesn't matter which points you pick, as long as they're different points on the same line.
+ It doesn't matter which one you pick, as long as it stays the same throughout the calculation. The dominant coordinates will be x1 and y1. The other coordinates will be x2 and y2.
+,,, Reduce the number if at all possible.
+
+
+
+Lines that go up from left to right are always positive numbers, even if they're fractions.
+Lines that go down from left to right are always negative numbers, even if they're fractions.
+
+

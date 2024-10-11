@@ -1,0 +1,40 @@
+@summary
+download flashpoint and install it.
+
+@summary
+launch microsoft powerpoint 2003 or 2007 after installation, and you will find flashpoint button on powerpoint menu bar.
+
+@summary
+,
+
+@summary
+open an existing powerpoint file.
+
+@summary
+,
+
+@summary
+click flashpoint to launch the application, import the existing powerpoint presentation.
+
+@summary
+,
+
+@summary
+select a publish mode.
+
+@summary
+select a layout design.
+
+@summary
+click publish to start conversion.
+@article
+;
+,,,, FlashPoint enables user to convert PowerPoint to 4 modes based on different needs.
+
+
+Create a single flash
+Create an executable Macromedia Flash file.
+Create individual flash files for each PowerPoint slide
+Turn PowerPoint into a screensaver.
+ FlashPoint has rich custom features to enable user enhance their final flash movie and have more fun. Check the corresponding options to enable a navigation bar at the bottom of the output flash or show Flash slide in thumbnail. Try it out!
+, The output Flash is in extremely reduced file size. Ideal for web distribution.

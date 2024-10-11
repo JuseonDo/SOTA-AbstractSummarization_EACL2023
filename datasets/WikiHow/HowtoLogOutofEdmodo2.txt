@@ -1,0 +1,16 @@
+@summary
+go to edmodo.com.
+
+@summary
+tap the ☰ button at the upper left of the page.
+
+@summary
+tap logout at the bottom of the menu.
+@article
+ You need to be on the Edmodo website to log out of your account.
+
+If you're already on the Edmodo website, don't worry about this step.
+ This will prompt a menu with a bunch of options including the ability to Logout.,
+
+Still appears that you're logged in? Try clearing your web browser's cache and cookies.
+

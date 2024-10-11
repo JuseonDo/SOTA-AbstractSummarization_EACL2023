@@ -1,0 +1,13 @@
+@summary
+open the local group policy editor.
+
+@summary
+find and access the policy called "accounts: administrator account status".
+
+@summary
+enable or disable the administrator account according to your specific need.
+@article
+ If you forget how to open it, you can go to the Search panel by Windows+F hotkeys, enter group policy in the empty search box, choose Settings, and tap Edit group policy on the result page.;
+, FYI, it is located in Computer Configuration/Windows Settings/Security Settings/Local Policies/Security Options.
+ That is, choose Enabled or Disabled, and then tap OK in the edit window.
+

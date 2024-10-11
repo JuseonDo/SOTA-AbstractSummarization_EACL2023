@@ -1,0 +1,50 @@
+@summary
+click on the apple menu.
+
+@summary
+click on system preferences.
+
+@summary
+,
+
+@summary
+click on internet accounts.
+
+@summary
+click on google.
+
+@summary
+type the email associated with your google account.
+
+@summary
+,
+
+@summary
+click on next.
+
+@summary
+,
+
+@summary
+type the password associated with your google account.
+
+@summary
+,
+
+@summary
+click on next.
+
+@summary
+,
+
+@summary
+click on checkboxes next to applications.
+@article
+ It's the black, apple-shaped icon in the upper-left of your screen.;
+,, It's the blue "@" icon near the center of the Preferences window.
+ It's listed in the pane on the right side of the dialog box.
+,,,, Select the Mac applications with which you'd like to use your Google account. Your Google account has now been added to your Mac.
+
+
+Your Google account will now be accessible via any of the apps you selected. For example, if you checked Mail, Calendar, and Contacts, your Google email, calendar data and contact information will be synced with the corresponding Mac apps.
+

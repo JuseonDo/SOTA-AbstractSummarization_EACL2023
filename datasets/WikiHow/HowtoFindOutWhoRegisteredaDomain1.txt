@@ -1,0 +1,20 @@
+@summary
+visit the whois search section of the internic website.
+
+@summary
+locate the section that allows you to search for domain information.
+
+@summary
+,
+
+@summary
+type in the domain name you want information about.
+
+@summary
+read the results.
+@article
+ There are many sites with similar names and services, but they don’t offer the same service as Whois, so you want to make sure you have the correct website.;
+,, Make sure you select the “Domain” radio button. Click on “Submit.”
+
+, Either it will tell you who registered the domain, or it may list the registrar's name instead.
+

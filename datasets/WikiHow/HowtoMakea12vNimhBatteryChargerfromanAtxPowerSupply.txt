@@ -1,0 +1,4 @@
+@summary
+car booster packs may be suited for recharging via the small tabletop type automotive battery chargers.
+@article
+ These chargers are probably cheaper than many computer PSU's, and are designed specifically for automotive type batteries. Determine the cell or battery technology (if unable to transport) and consult a battery specialist (such as Battery Plus or Interstate Battery stores) for the suitability to task for this charger.

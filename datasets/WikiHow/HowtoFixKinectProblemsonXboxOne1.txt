@@ -1,0 +1,14 @@
+@summary
+make sure the kinect is plugged in and is switched on.
+
+@summary
+position the console right.
+
+@summary
+play in a well-lit area.place the kinect as close to the edge of the surface it is standing on as you can.if you are having trouble with a specific game or app, calibrate the kinect within that game or app.
+
+@summary
+know that voice commands only work with a kinect.
+@article
+ Make sure that the connecting cables are not loose.
+ Some games may require the Kinect to see your whole body, for example, in a soccer game. Make sure nothing is obstructing the Kinect's view of certain parts of your body. If it is not possible to move any obstructing objects, move the system to a different room., The Kinect may not be able to see you if there is not enough light. If no lights are available, move the system to a different room.,,, You cannot use a headset to give voice commands.

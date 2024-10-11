@@ -1,0 +1,20 @@
+@summary
+open the start menu.
+
+@summary
+click ⚙️.
+
+@summary
+click family & other people.
+
+@summary
+click the "manage family settings online" link.
+
+@summary
+click web browsing.
+
+@summary
+click the "block inappropriate websites" switch.
+@article
+ To do so, either click the Windows logo in the bottom-left corner of the screen or press the ⊞ Win key on your computer's keyboard.
+ You'll see this icon near the bottom-left corner of the Start menu., This tab is on the left side of the Settings page., You'll see this option below a restricted user's name on this page., This link is to the right of a restricted account's name and profile image., It's below the "Web browsing" heading near the top of the page. Doing so will prevent the restricted account from accessing adult websites on Microsoft Edge and Internet Explorer, as well as on any connected devices (e.g., Xbox One).

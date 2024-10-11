@@ -1,0 +1,33 @@
+@summary
+reset your ipod.
+
+@summary
+press and hold the center and rewind buttons before your ipod turns back on (when the apple logo is still on the screen).
+
+@summary
+,
+
+@summary
+listen to your ipod make a small sound through its internal speaker.
+
+@summary
+press menu to perform a manual test.
+
+@summary
+explore your options at this point:
+
+@summary
+if you just want to return your ipod to normal, scroll to the bottom option labeled "reset."
+@article
+ To do this, hold the center and menu buttons until you see the Apple logo.;
+,, You should see a plain white menu labeled "SRV Diag Boot" at the top. Any of your friends watching this process will be impressed over your technological prowess.
+ You will see a new menu.
+ This just resets your iPod like normal. All of your settings, songs, files, etc. will remain the same.
+
+
+
+
+
+
+If you want to run some tests, click through the various menus. They are for the most part self-explanatory, and you can move through them just like the regular iPod menus.
+

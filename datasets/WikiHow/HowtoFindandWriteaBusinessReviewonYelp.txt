@@ -1,0 +1,24 @@
+@summary
+plan on which business you will be searching for.
+
+@summary
+search for the business.
+
+@summary
+click the item that is the unique identifier for that location of that business.
+
+@summary
+start creating your review.
+
+@summary
+write your review on the yelp website.
+@article
+ To do much good at Yelp, this is the least bit of information you'll need to do/know.
+
+
+Figure out the exact city name of the business for your upcoming search.;
+, You'll probably find it.
+ Then click the "Write a Review" button on the page.
+ While there are other items you can do to make your viewing experience more pleasurable, (like creating your own personalized reviews-address and adding/editing other information), this information is the most you'll ever need to start creating good reviews.
+ With the thousands-upon-thousands of business's to choose from, the list of possibilities to choose from is endless.
+

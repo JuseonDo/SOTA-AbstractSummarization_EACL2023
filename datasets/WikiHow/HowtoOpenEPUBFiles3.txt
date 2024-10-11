@@ -1,0 +1,32 @@
+@summary
+download an epub reader app for your computer.
+
+@summary
+double-click the calibre installer.
+
+@summary
+click the “add books” icon.
+
+@summary
+select “add books from a single directory.” if your epub files are all in the same folder (or you only want to add one epub file), choose this option.if your epub files are organized into sub-folders, choose the “add books from directories, including sub-directories” option that best fits your organizational structure.
+
+@summary
+select the epub files to add them to your library.
+
+@summary
+double click on a book's title to read it in calibre.
+@article
+ There are many possible readers available for all computer platforms. Calibre is a widely-recommended free option for Windows, Mac, and Linux.It’s also of the few free readers can also convert EPUB files to other formats.
+
+
+You can use Calibre to convert EPUB files to work on a Kindle.
+Some other alternatives to Calibre are FBReader, Adobe Digital Editions (Mac and Windows), and iBooks (Mac only).
+ Follow the prompts to install Calibre on your computer.
+ A menu will appear.
+ For example, if you have more than one e-book in various directories and each is a different e-book, choose “Multiple books per directory, assumes every ebook file is a different book.”
+
+, Click the file to select it, then click “Open” to add it to your library.
+
+You can select more than one EPUB file at once by holding down ⌘ Cmd (Mac) or Ctrl (Windows) as you click.
+ The text will appear in the application.
+

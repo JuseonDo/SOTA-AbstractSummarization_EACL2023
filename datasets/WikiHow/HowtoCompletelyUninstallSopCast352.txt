@@ -1,0 +1,20 @@
+@summary
+launch uninstall/change option for the unwanted program.
+@article
+
+
+Start > (Settings) > Control Panel > Programs and Features / Add or Remove Programs.
+
+
+
+
+
+
+Click OK on that Uninstall info box.
+
+
+
+
+
+
+

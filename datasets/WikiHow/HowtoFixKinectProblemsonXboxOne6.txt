@@ -1,0 +1,27 @@
+@summary
+see if your kinect is turned on in settings.
+
+@summary
+power cycle your console by holding down the power button until the xbox turns off, then turn it back on again.
+
+@summary
+calibrate your kinect's microphone.
+
+@summary
+if all else fails, you will need to get your kinect repaired.
+@article
+
+
+From the home screen, Go to Settings > Kinect.
+Select "Kinect on" if it is off.
+ (Do not plug out the Xbox),
+
+Before beginning the calibration process, read the following information.
+
+Appliances, fans, people and other background noise may interfere with the hearing ability of the microphone. Make the room as quiet as possible before beginning.
+Make sure your TV volume is loud. If you have a home cinema system, turn the volume up on that as well.
+
+
+Go to Settings > Kinect > Kinect doesn't hear me.
+Select "Start audio check". If prompted, reduce background noise, then try again.
+ Follow the instructions on this page.

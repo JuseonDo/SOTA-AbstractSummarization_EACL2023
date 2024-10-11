@@ -1,0 +1,17 @@
+@summary
+open the appdata folder.
+
+@summary
+in the search box, type "".
+
+@summary
+type again in the search box.
+
+@summary
+copy and paste to another folder.
+@article
+ It is located at "C:\Users\\AppData".
+ Windows will search files containing the DCR extension. These are flash games.
+ Type "". Windows will search files containing the SWF extension. These are also flash games.
+ Play the games offline.
+

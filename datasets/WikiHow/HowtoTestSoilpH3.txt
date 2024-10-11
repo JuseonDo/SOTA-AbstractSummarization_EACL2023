@@ -1,0 +1,24 @@
+@summary
+take a cup of soil from your garden.
+
+@summary
+add vinegar to one container.
+
+@summary
+add water to the other container of soil.
+
+@summary
+check both soil samples again.
+@article
+ Put a few spoonfuls of it into two separate containers.
+ If it fizzes, it means your soil is alkaline. In that case, you do not need to proceed to the next step.
+ You want enough that it becomes very wet and muddy. Pour baking soda into this cup; if it fizzes, it means your soil is acidic.
+ If neither sample began fizzing, it means you probably have a neutral pH of 7. This is good, as this is the pH most plants need to grow in.
+
+
+
+
+
+
+
+

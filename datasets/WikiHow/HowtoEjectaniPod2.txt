@@ -1,0 +1,17 @@
+@summary
+press alt + ⌘ command + space.
+
+@summary
+click on your ipod.
+
+@summary
+click file.
+
+@summary
+click eject.
+@article
+ Doing so will bring up the Finder window.
+ It appears under the "Devices" section on the left side of the Finder window.
+ It's in the left corner of the menu bar along the top of your Mac.
+ It's located towards the bottom of the menu. Doing so will allow you to safely unplug your iPod from your computer.
+

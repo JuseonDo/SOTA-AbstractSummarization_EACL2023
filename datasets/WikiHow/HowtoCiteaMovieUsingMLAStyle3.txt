@@ -1,0 +1,41 @@
+@summary
+list the movie's title in italics followed by a period.
+
+@summary
+add the name of the director, prefaced by "dir.",
+
+@summary
+if desired, add the name of any key performers, prefaced by “perf.” and followed by a period.
+
+@summary
+add the name of the film studio or distributor, followed by a comma, then the release year, followed by a period.
+
+@summary
+add the medium of publication – film, dvd, vhs, laser disc – followed by a period.
+@article
+
+
+
+Jacob’s Ladder.
+ and followed by a period.
+
+
+
+Jacob’s Ladder. Dir. Adrian Lyne.
+ This is not required but can be useful if you reference the performers in the essay.
+
+
+
+Jacob’s Ladder. Dir. Adrian Lyne. Perf. Tim Robbins, Elizabeth Peña, and Danny Aiello.
+
+
+
+
+Jacob’s Ladder. Dir. Adrian Lyne. Perf. Tim Robbins, Elizabeth Peña, and Danny Aiello. TriStar Pictures, 1990.
+ “Film” is used when the movie is seen in a theater.
+
+
+
+Jacob’s Ladder. Dir. Adrian Lyne. Perf. Tim Robbins, Elizabeth Peña, and Danny Aiello. TriStar Pictures, 1990. DVD.
+
+

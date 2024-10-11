@@ -1,0 +1,37 @@
+@summary
+tap the "app store" app.
+
+@summary
+tap search.
+
+@summary
+type in "whatsapp".
+
+@summary
+,
+
+@summary
+tap "whatsapp".
+
+@summary
+tap get.
+
+@summary
+tap install.
+
+@summary
+,
+
+@summary
+enter your apple id and password.
+@article
+;
+, This is on the bottom of your screen.
+, It should be the first result in the drop-down menu.
+ This should be to the right of "WhatsApp Messenger."
+
+,, After doing so, your WhatsApp download will begin.
+
+
+Your download may begin without needing your Apple ID credentials.
+

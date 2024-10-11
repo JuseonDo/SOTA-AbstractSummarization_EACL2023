@@ -1,0 +1,30 @@
+@summary
+click the apple menu.
+
+@summary
+click system preferences.
+
+@summary
+click sound.
+
+@summary
+,
+
+@summary
+click the output tab.
+
+@summary
+,
+
+@summary
+click your speakers, headphones, or other output device.
+
+@summary
+,
+
+@summary
+click and drag the balance slider.
+@article
+;
+, If the System Preferences menu doesn't open to the main selection of options, click the Show All button at the top of the window. It has an icon of 12 dots in a grid.
+,,, Dragging it to the left will raise the volume of your left speaker and lower the volume in the right, and vice-versa.

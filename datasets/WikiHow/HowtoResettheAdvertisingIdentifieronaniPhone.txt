@@ -1,0 +1,23 @@
+@summary
+open your iphone's settings.
+
+@summary
+tap privacy.
+
+@summary
+tap advertising.
+
+@summary
+tap reset advertising identifier.
+
+@summary
+,
+
+@summary
+tap reset identifier to confirm your reset.
+@article
+ The Settings icon has grey gears on it. It's located on your Home Screen.;
+, It's the icon with a hand on it at the bottom of the third section of menu options.
+ It's found in the third section of menu options at the bottom of your screen.
+, Doing so will wipe all the data that Apple has previously collected based on your information and searches, and the data collected from this point onward will affect the types of ads you receive.
+

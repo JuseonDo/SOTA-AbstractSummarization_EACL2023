@@ -1,0 +1,11 @@
+@summary
+decide all what you're selling.
+
+@summary
+,
+
+@summary
+inspect the items.
+@article
+, If they're in good condition and cost a lot make the price higher. If they're in bad condition make the price low or free
+

@@ -1,0 +1,33 @@
+@summary
+open up pd howler and locate your sidebar.
+
+@summary
+on the bottom right hand side, you will see some bars.
+
+@summary
+add rulers.
+
+@summary
+click on visible grid.
+
+@summary
+decide if you want your drawings to 'stick' to the grid lines.
+
+@summary
+select artist's grid if you want.
+
+@summary
+do your work using the grid.
+@article
+ Depending on how you set it up, it could be on the right or the left.;
+, One of them is called Grids. Click on the plus sign.
+ They will be on the top and the left of your screen. You can choose inches or metric measurements.
+ This will create a grid. The screenshot is 50 by 50.
+ If you do, select Drawing Grid as well.
+ This will allow you a little more precision in your work.
+ When done, save it. You won't see the grids in your work.
+
+
+
+
+

@@ -1,0 +1,30 @@
+@summary
+press the home button on your wii u gamepad.
+
+@summary
+tap on the miiverse icon on the gamepad.
+
+@summary
+tap on “user menu.” the user menu button is on the top-left corner of the screen.
+
+@summary
+,
+
+@summary
+tap on “profile” once in the user menu.
+
+@summary
+select the friends tab on the profile page.
+
+@summary
+select the person you want to remove.
+
+@summary
+remove the friend and save.
+@article
+ It is the button below the touchscreen area.;
+, This icon is the second from the left (all those green people). You will be brought to the Miiverse interface.
+, This is the first option in the list.
+ This tab will show you the friends who haven’t accepted your requests and those who have already accepted.
+ To do this, tap on the “Friends” button beside the name of the user you want to remove.
+ Tap “Remove” to remove that person from your Miiverse list, and then “OK” to save the action.

@@ -1,0 +1,5 @@
+@summary
+replace the ht leads and the spark plugs.the ignition system is what ignites the fuel in the engine.
+@article
+ If the spark plugs do not function properly, it will reduce the engines ability to ignite fuel making it run poorly. Replacing the HT leads and the spark plugs will make sure the engine can ignite fuel.
+

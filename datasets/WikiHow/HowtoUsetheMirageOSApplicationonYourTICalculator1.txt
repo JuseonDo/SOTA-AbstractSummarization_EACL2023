@@ -1,0 +1,4 @@
+@summary
+to get to mirage press the apps button.
+@article
+ After you first access Mirage you can from then on access it by just pressing APPS and the ON button.

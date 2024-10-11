@@ -1,0 +1,21 @@
+@summary
+install the greasemonkey add-on.
+
+@summary
+,
+
+@summary
+click on “add to firefox” and “allow”.
+
+@summary
+,
+
+@summary
+click on “install now” to restart your browser.
+@article
+,,
+
+
+Alternatively, you can download the NoDoFollow plugin for Firefox.
+To use the plugin, right-click and select “NoDoFollow”. It will automatically highlight all the links on the page in either red (nofollow) or blue (dofollow).
+

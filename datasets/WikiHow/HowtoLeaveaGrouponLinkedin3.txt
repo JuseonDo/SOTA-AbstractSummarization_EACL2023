@@ -1,0 +1,34 @@
+@summary
+sign in to your linkedin account using your web browser.
+
+@summary
+click the inbox icon (two overlapping chat boxes) at the top right of the screen.
+
+@summary
+,
+
+@summary
+select the group conversation you want to leave.
+
+@summary
+,
+
+@summary
+click the three dots (…) in the top right corner of the message.
+
+@summary
+select “leave conversation.” you will no longer receive messages to this group conversation.
+
+@article
+ A group conversation is a thread of messages that arrives in the inboxes of multiple recipients. All recipients can also send messages to the conversation. It’s easy to remove yourself from the conversation if you don’t wish to participate.
+
+
+Leaving a group conversation will not remove you from any LinkedIn groups. If you want to remove yourself from a LinkedIn group, you’ll find this option on the group’s homepage.
+
+When you leave a group conversation, the remaining recipients will be notified.
+,, This will launch a menu with several options.
+
+
+If you want to remain a recipient of a group conversation but no longer want to receive alerts, you can choose to “mute” the conversation.To do this, select “Mute conversation.”
+
+,

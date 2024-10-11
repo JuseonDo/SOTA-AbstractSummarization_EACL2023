@@ -1,0 +1,29 @@
+@summary
+sign in to blogger.
+
+@summary
+click on the settings option from the side bar.
+
+@summary
+,
+
+@summary
+select other from the settings list.
+
+@summary
+,
+
+@summary
+back up your contents.
+
+@summary
+download the backup file.
+
+@summary
+restore your content using your backup.
+@article
+ Go to blogger.com and sign in with your email address.;
+,,, Just click on the Back up content to do that.
+ Click on the Save to your computer button to download it.
+ If you want to restore your data, just click on Import content and import the backup file from your computer.
+

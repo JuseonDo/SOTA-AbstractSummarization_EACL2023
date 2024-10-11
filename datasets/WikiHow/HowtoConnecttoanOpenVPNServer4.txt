@@ -1,0 +1,20 @@
+@summary
+download the openvpn connect app.
+
+@summary
+download the configuration files and certificates for your vpn.
+
+@summary
+tap the downloaded configuration file.
+
+@summary
+enter your credentials.
+
+@summary
+tap "connect" to connect to the vpn.
+@article
+ This is the official OpenVPN client for Android. It can be downloaded for free from the Google Play Store. It does not require root access for your device.
+ You should be able to find these files on the VPN service's support page. You may need a File Manager app to open the ZIP file and extract the files.
+ Select OpenVPN Connect when prompted which app you want to open the file with.
+ You'll need to enter your username and password into the login screen. Tap the "Save" box to log in easier next time.
+ Your Android device will use the configuration file to connect to the VPN server. You can verify that the process worked by checking your public IP address. It should be that of the VPN server instead of your real IP.

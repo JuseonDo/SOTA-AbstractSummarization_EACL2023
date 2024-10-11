@@ -1,0 +1,30 @@
+@summary
+open yahoo mail.
+
+@summary
+press and hold an email.
+
+@summary
+tap other spam emails.
+
+@summary
+tap ….
+
+@summary
+tap mark as spam.
+
+@summary
+tap ☰.
+
+@summary
+scroll down and tap the trash icon to the right of spam.
+
+@summary
+tap ok. all emails in the "spam" folder will be deleted.
+@article
+ It's a purple app with a white envelope and "YAHOO!" written below it. If you're logged into Yahoo, this will take you to the inbox.
+
+If you aren't logged in, first enter your Yahoo email address and password.
+ Doing so will select it after a moment., They will be selected as you tap them., It's in the bottom-right corner of the screen., This option is at the bottom of the screen. Doing so will move your selected emails to the "Spam" folder., It's either in the top-left corner of the screen (iPhone) or on the left side of the "Inbox" search bar (Android), This option will prompt a pop-up window.
+
+If you don't see the trash icon, tap Spam, select any emails in the folder, and tap the trash can icon.

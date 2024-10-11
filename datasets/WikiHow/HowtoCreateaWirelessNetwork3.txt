@@ -1,0 +1,12 @@
+@summary
+choose your router (usually the manufacturer name aka ssid), the security method and enter the passkey in order to connect to it.
+
+@summary
+this should find the wireless router (click refresh until it does) and connect to the network through the new router.
+@article
+ Use Auto DHCP, unless otherwise instructed.
+
+
+
+Use all your wireless devices to make them communicate with each other on your new wireless network.  For example, if you have a PlayStation and want to stream your music to it using DLNA, you can as long as you have a Wireless Network setup using the above steps. Test it out and have fun!
+

@@ -1,0 +1,7 @@
+@summary
+swipe up on your screen from the bottom.
+
+@summary
+slide the brightness slider to the left.
+@article
+ This opens the Control Center., This reduces the brightness, overriding previous settings and potentially saving battery.

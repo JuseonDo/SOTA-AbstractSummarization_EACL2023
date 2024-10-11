@@ -1,0 +1,4 @@
+@summary
+go to the dropbox mobile site in your mobile device’s internet browser.
+@article
+ Note: If you navigate to the regular Dropbox website, you should automatically be redirected to the mobile site.;

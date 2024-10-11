@@ -1,0 +1,16 @@
+@summary
+obtain an ink refill kit at an office supply store or online.
+
+@summary
+place the ink container on newspaper or paper towels.
+
+@summary
+select the ink.
+
+@summary
+put the needle on the yellow ink container.
+
+@article
+ To refill ink cartridges, you will require a 30 cc syringe with a needle, a thumb drill and printer ink.
+ When refilling Canon cartridges, you may have some ink leakage.
+ For instance, if you are refilling your yellow ink cartridge, you will need yellow ink.

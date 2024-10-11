@@ -1,0 +1,9 @@
+@summary
+pick the domain side: first decide whether you are on the client side or on the server side.
+@article
+
+
+
+Client side domain will send a request for some resource.
+Server side domain will generate a response for the requested resource.
+

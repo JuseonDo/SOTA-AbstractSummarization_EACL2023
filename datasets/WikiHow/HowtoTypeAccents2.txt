@@ -1,0 +1,4 @@
+@summary
+you can use a few simple keys on your keyboard to create accents if you have a mac.
+@article
+ Just note that any symbols connected by a "+" sign need to be hit at the same time and any symbols after a comma need to be hit in order, one after the other. For example, if you see "Control + e, a" it means that you should hit "Control" and "e" at the same time, followed by "a". Here are the codes you'll need to know:

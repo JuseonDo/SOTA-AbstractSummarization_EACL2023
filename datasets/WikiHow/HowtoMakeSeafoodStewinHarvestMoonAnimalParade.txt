@@ -1,0 +1,21 @@
+@summary
+acquire a pot.
+
+@summary
+gather the ingredients needed to make the stew.have the ingredients in your rucksack.
+
+@summary
+walk to the pot on your kitchen counter.
+
+@summary
+choose the ingredients that you need for the recipe.
+@article
+ If you don't have it, you can go to the General Store and pay 2,000 G for it.
+
+
+Milk: can be acquired from your cow
+Butter: You can process milk in a butter maker (purchased from the General Store for 3,800 G).
+Shrimp: You can fish for rock lobster, freshwater prawn, or crawfish
+Shellfish: You can fish for clams, mussels, or oysters
+Fish: You can fish anything except for the food in the shrimp category, such as shark, tuna, etc.
+, Press the "A" button., Press the "A" button again and "Start" to make the dish.

@@ -1,0 +1,9 @@
+@summary
+sign up for a pinterest account.
+
+@summary
+use polyvore, boutine or stylebook to collage fashion items on the internet.
+@article
+ This collage-based social media account allows you to post websites, photos and items you are interested in. The app/website arranges it in a visually pleasing way.
+ These websites are aimed at creating custom styles in magazine-style collage layouts.
+

@@ -1,0 +1,46 @@
+@summary
+launch the paypal app on your mobile device.
+
+@summary
+enter your sign-in credentials and tap “log in.”
+
+@summary
+,
+
+@summary
+tap “see activity.” before you start digging around, you’ll want to make sure you’re seeing all of the data for the correct period of time.
+
+@summary
+,
+
+@summary
+tap the calendar icon to specify a date range.
+
+@summary
+tap “show” to view your activity.
+
+@summary
+tap “money in” to view only incoming payments.
+
+@summary
+tap “money out” to view payments you’ve sent.
+
+@summary
+select any transaction to view its details.
+@article
+ Once you install the PayPal app from the App Store (iOS) or Play Store (Android), you can use it to keep track of all of your transactions.If you want to export account statements for use in other applications, you’ll need to use a web browser instead.;
+,,, To display all activity between two dates, enter the first date in the range into “From” field, and the last into the “To” field.
+
+
+If you prefer, click one of the preset date options, such as the “2016” or “Last 90 days.”
+
+, If you choose one of the presets, you’re already at the Activity screen. Now you’ll see a list of all PayPal activity in a single location.
+ You’ll see this link at the top of the Activity screen. Choose this option if you only want to see payments that were sent to you by others.
+ This link is also on the top of the Activity screen. Here you’ll find only payments you’ve made to others from your PayPal account.
+ This is how you can view more detailed date information, as well as names and addresses.
+
+
+If you’re not seeing as much detail as you’d like, try viewing your PayPal activity in a web browser.
+
+To return to the Activity screen, tap the back arrow at the top left corner of the screen.
+

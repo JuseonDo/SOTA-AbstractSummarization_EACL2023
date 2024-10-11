@@ -1,0 +1,85 @@
+@summary
+learn how to change the pitch of the sound or music.
+
+@summary
+learn how to change the decibels.
+
+@summary
+learn how to fade in and out.
+
+@summary
+learn how to reverse a part of the song.
+
+@summary
+insert silence.
+
+@summary
+learn how to change the audio format.
+
+@summary
+compress the audio as follows:
+
+@summary
+click save as.
+
+@summary
+make a remix as follows:
+
+@summary
+open the songs you want to remix.
+
+@summary
+learn about some of the other options available to you in sound forge:
+
+@summary
+to make a mark, click m.
+
+@summary
+to mark a region, select the part of the song and click r.
+
+@summary
+to undo, use ctrl z.
+@article
+
+
+
+Go to effect and find Pitch.
+Click Shift and change the semitones and cents as much as you want.
+As you are editing, click preview to hear what you are doing.;
+,
+
+
+Go to Process and find Volume, which is the last option.
+Click on volume and change the decibels.
+
+
+
+Go to process and find fade.
+Select fade in or fade out.
+  
+
+
+Select the part of the song.
+Mark it if you want to.
+Go to Process, find Reverse and click it.
+
+
+
+Go to Insert and find silence.
+Add the amount of seconds you want there to be silence.
+
+
+
+Click Save As.
+Below the box where you edit the name of the file, there is another box that says Save as Type.
+Click the format you want.
+
+Find the template.
+Select the compression size.
+
+Open a new file.
+Copy the parts of the songs you want.
+Press Ctrl M, then OK.
+
+To redo, use Ctrl Y.
+

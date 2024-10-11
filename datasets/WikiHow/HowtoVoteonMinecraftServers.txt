@@ -1,0 +1,20 @@
+@summary
+type /vote in the chat.
+
+@summary
+click one of the links that appear in the chat.
+
+@summary
+choose how you want to access the website.
+
+@summary
+fill in the necessary information.
+
+@summary
+click the send my vote button.
+
+@summary
+return to your minecraft game.repeat for the other links if there are other links.
+@article
+ There is no need to open up the chat first, the chat open automatically if you type / (slash).
+ There will usually be two or more links to choose from, but if that isn't the case, just click the one., Once have clicked the link you should get multiple option. You could open it directly into your default browser, or copy the link to your clipboard to access the page later., The page will usually ask for your Minecraft username, and a CAPTCHA., It probably doesn't have that exact name, but it will look very similar., Check if you have received the reward you were promised (if any).,

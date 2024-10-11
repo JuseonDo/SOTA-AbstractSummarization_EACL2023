@@ -1,0 +1,45 @@
+@summary
+open the settings app.select update & security from the list of categories.navigate to recovery from the left pane.
+
+@summary
+start the reset process.
+
+@summary
+choose whether to keep your files or not.
+
+@summary
+wait for the next part to load.
+
+@summary
+if you've decided to remove everything, select whether to perform a secure erase of your files.click or tap next if you are warned that you just upgraded to windows 10 and won't be able to roll back to the previous operating system.wait for the next part to load, which will usually take less than a minute.
+
+@summary
+read the overview and press reset when you are ready to proceed.
+
+@summary
+when "choose an option" comes up, select → continue.
+@article
+ Press the Start
+
+
+
+ 
+
+button which is located on the bottom-left of your screen and choose the settings gear
+
+
+
+
+
+.
+,, Under the "Reset this PC" heading at the top, click or tap on the Get started button.,  After the reset, you can sign in to your Microsoft account. Any Windows Store apps purchased under this account will reinstall.
+
+
+Keep my files removes your apps and settings, but keeps all of your personal files.
+
+Remove everything erases your apps, settings, and personal files. If you don't have a backed up copy of your files, you may want to press Cancel, back them up, and begin this process again. Note: This can extend the reset process by a few hours.
+ This should take under 30 seconds., This will only show if you selected "Remove everything" in the previous step.
+
+Choose Just remove my files if you are keeping the computer.
+Opt to Remove files and clean the drive if you are selling or getting rid of your PC.
+,,  Windows will prepare to reset your device., Windows will restart and begin resetting. Your PC may reboot several times as the reset is occurring.

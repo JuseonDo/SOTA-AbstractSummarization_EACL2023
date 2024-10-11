@@ -1,0 +1,48 @@
+@summary
+open the youtube video you wish to download.
+
+@summary
+click the video's url.
+
+@summary
+right-click the url.
+
+@summary
+,
+
+@summary
+click "copy".
+
+@summary
+,
+
+@summary
+navigate to this mp3 converter.
+
+@summary
+right-click the "convert" field.
+
+@summary
+click "paste".
+
+@summary
+,
+
+@summary
+click convert.
+
+@summary
+,
+
+@summary
+click continue.
+
+@summary
+click download.
+@article
+;
+, The URL is the site address in the bar at the top of the page.
+,, As of October 2016, this MP3 converter is the only conversion site that doesn't attempt to spam your computer., This is the box beneath the "insert video link" text.
+,, If you want to customize your MP3's name and artist information, you can do that on this page.
+ Your download should commence!
+

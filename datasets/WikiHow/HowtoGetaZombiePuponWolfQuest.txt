@@ -1,0 +1,31 @@
+@summary
+download wolf quest.
+
+@summary
+start a new game at amethyst mountain.
+
+@summary
+,
+
+@summary
+find a mate and save the game.
+
+@summary
+click single player and go to slough creek.
+
+@summary
+find a den.
+
+@summary
+pick up a pup and walk around away from the den.
+
+@summary
+look at your pup.
+@article
+ Go to wolfquest.org if you don't have it yet.;
+,, Then click New Game after you have saved.
+ Find the game you had saved from Amethyst Mountain.
+ Mark you territory and what not, then you will get pups. Name them if you can.
+ Keep walking until you find a stranger wolf. Walk to it with the pup in your mouth. Beat the wolf.
+ Your pup is now a zombie!
+

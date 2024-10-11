@@ -1,0 +1,20 @@
+@summary
+drag itunes into the trash.
+
+@summary
+launch the activity monitor.
+
+@summary
+verify the removal.
+
+@summary
+delete the itunes and apple mobile device service folders.
+
+@summary
+restart you computer.
+@article
+ Take the desktop icon and drag it into the trash, and follow this by emptying the trash. If the program does not seem to be completed deleted after doing this, take the next steps.
+ Locate the iTunes helper, and delete it from your Login items list.
+ Go to the library/preferences folder and remove all items that are listed with com.apple.itunes at the beginning.
+ These can be found in your library and deleted by dragging to the trash. Be sure to empty the trash after this.
+ Once you have deleted every trace of any iTunes software or downloads on your computer, restart it. You can now begin the reinstall process.

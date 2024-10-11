@@ -1,0 +1,32 @@
+@summary
+open gmail in the browser of your choice.
+
+@summary
+log into gmail if you aren't logged in already.
+
+@summary
+click the gear icon under your account picture.
+
+@summary
+click "settings" in the drop-down menu.
+
+@summary
+locate the "language" tab.
+
+@summary
+find and click the "gmail display language" bar.
+
+@summary
+click your preferred language in the drop-down menu.
+
+@summary
+click "save changes" to save your changes.
+@article
+;
+, You will need a preexisting Gmail account in order to do so.
+ You can find it in the upper right-hand corner of your screen.
+ Settings is the third option up from the bottom of the menu., This is the first item in the "General" tab of the Settings menu.
+ This is the first bar that displays on the page; Gmail's current language should show up here.
+ Make sure your choice is accurate before continuing.
+ This option is at the bottom of the page. Your default language for your Gmail account has now been changed! You may have to refresh your browser for these changes to appear.
+

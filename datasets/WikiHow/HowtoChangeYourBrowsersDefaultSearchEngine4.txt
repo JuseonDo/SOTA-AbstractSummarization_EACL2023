@@ -1,0 +1,25 @@
+@summary
+tap the menu button.
+
+@summary
+tap "settings".
+
+@summary
+,
+
+@summary
+tap "search engine".
+
+@summary
+,
+
+@summary
+select the search engine from your list.
+
+@summary
+search in chrome.
+@article
+ It looks like three stacked dots.
+,, You cannot add more search engines to this list.
+ Once you've changed your search engine, any searches you perform in the address bar will use the chosen engine.
+

@@ -1,0 +1,39 @@
+@summary
+open your file using the preview application.
+
+@summary
+click on the file menu and select save as...
+
+@summary
+,
+
+@summary
+click on the pop-down menu for format.
+
+@summary
+,
+
+@summary
+select jpeg or png.
+
+@summary
+type in a new name for the file.
+
+@summary
+click on save.
+@article
+
+
+
+This can be found in the Applications folder.
+,,
+
+
+For most images, JPEG is a good choice.
+If you select JPEG, you will then see a slider to select image quality. There is usually no need to change this setting.
+
+
+
+Be sure to save the new version of the image in the directory of your choice.
+ You are now ready to upload your image to wikiHow.
+

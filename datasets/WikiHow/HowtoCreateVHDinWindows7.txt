@@ -1,0 +1,56 @@
+@summary
+right click on my computer icon -> manage -> disk management -> create vhd;
+
+@summary
+,
+
+@summary
+click ‘browse’ to select a folder in which you want to allocate space to vhd.
+
+@summary
+initialize the vhd.
+
+@summary
+create the volume so that the full functionality of vhd can be enabled.
+@article
+, Now select the memory to be assigned to VHD folder.
+ Follow the steps below for initializing it:
+
+Right click on VHD and select "Initialize Disk"
+
+
+
+
+
+
+When a window pops up, choose "MBR" (Master Boot Record) from it
+
+
+Click OK for initializing the VHD.
+ In order to support system files, volume needs to be created and for this purpose, follow the steps below:
+
+Right click on VHD -> Simple Volume
+
+
+
+
+
+
+A wizard appears after this.
+
+
+
+
+
+
+Follow the instructions that keep coming in the wizard.
+
+
+
+
+
+
+When the entire process gets completed, a new VHD is created which can be used for data storage.
+
+
+

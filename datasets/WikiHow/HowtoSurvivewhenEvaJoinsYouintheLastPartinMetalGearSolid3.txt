@@ -1,0 +1,17 @@
+@summary
+set traps.
+
+@summary
+tranquilize the soldiers.
+
+@summary
+look after eva.
+
+@summary
+use your camo wisely.
+@article
+ Place claymores and TNT around to blow away invaders. If you want to remove a trap, just crawl up to it.;
+, Shooting loud guns gets their attention.
+ She can become injured as well. When she is attacked, go into the main menu and cure her.
+ Pick camouflages that fit your surroundings.
+

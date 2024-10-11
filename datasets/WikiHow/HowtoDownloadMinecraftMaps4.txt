@@ -1,0 +1,11 @@
+@summary
+download the minecraft pe map you want,right click on the .zip file,select "extract all",
+
+@summary
+it should ask for a location.
+
+@summary
+open minecraft windows 10 edition and press play.
+@article
+,,, For the location type (without quotes) C:\Users\YourUsername\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds" then press extract
+, You should see the map somewhere (try scrolling down)

@@ -1,0 +1,44 @@
+@summary
+click the apple menu.
+
+@summary
+select "system preferences.",
+
+@summary
+click the "general" option.
+
+@summary
+check the "automatically hide and show the menu bar" box.
+
+@summary
+move your mouse to the top of the screen.
+
+@summary
+click the apple menu.
+
+@summary
+,
+
+@summary
+select "system preferences.",
+
+@summary
+click the "dock" option.
+
+@summary
+check the "automatically hide and show the dock" box.
+
+@summary
+move your mouse to the bottom of the screen.
+@article
+;
+,
+
+, If you don't see this, click the "Show All" button first, which looks like 12 dots arranged in a grid pattern at the top of the window.
+ This will hide the menu bar when the mouse is not over it.
+ This will reveal the menu bar.,,
+
+, You'll find this in the top row of options. If you're not in the main System Preferences menu, click the "Show All" button at the top of the window.
+ This will immediately hide the dock at the bottom of the screen.
+ This will reveal the Dock.
+

@@ -1,0 +1,32 @@
+@summary
+click the start menu and type .msconfig.
+
+@summary
+type .msconfig and press ↵ enter.
+
+@summary
+,
+
+@summary
+click the .startup tab.
+
+@summary
+uncheck every program that you don't need to start with windows.
+
+@summary
+click .apply after unchecking everything you don't need.
+
+@summary
+,
+
+@summary
+reboot your computer.
+@article
+ Press ↵ Enter.
+, This will list all of the processes that start with Windows.
+ Lots of programs will launch in the background when Windows starts to "save you time", but when too many fill up your list, your startup time suffers dramatically. Uncheck everything that isn't absolutely vital to starting your essential programs.
+
+
+Nothing in the list is an essential service for Windows. Windows will boot just fine with nothing checked, though some of your peripherals may not start without the correct software loaded.
+If you don't know what something is, search both the "Startup Item" name and the program listed in the "Command" column.
+, Your changes will take effect when Windows starts up again.

@@ -1,0 +1,13 @@
+@summary
+find one.
+
+@summary
+stay quite a bit from your target.
+
+@summary
+try to take out vehicles more then players.
+@article
+ It is extremely hard to find a Spartan Laser in most multiplayer.
+ It takes about a good 3.5 to 5 seconds to charge up your shots.
+ This is to help your ground troops out from oncoming vehicles (this applies to campaign also).
+

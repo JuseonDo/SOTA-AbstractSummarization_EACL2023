@@ -1,0 +1,13 @@
+@summary
+determine what is needed.
+
+@summary
+if the person only needs ventilations, blow every 5 seconds.
+
+@summary
+if the person needs both treatments, blow 2 times (each breath for 2 seconds)while holding nose shut, then follow up the rib cage and find the top of the rib cage and place down two fingers and start your compressions.
+@article
+ If there is no breathing and no pulse, start chest compressions. If there is a pulse but no breathing, just give ventilation. A person will always have a pulse if he or she is breathing, but one can have a pulse and not be breathing.
+ After 2 minutes, check for breathing. If there is no breathing, continue breathing treatment (rescue breathing). If there is breathing, put the patient in the recovery position.
+ 30 times and continue until you have completed 5 cycles. cycles (2 min) then check for breathing and pulse. No breathing and no pulse?...Continue. Breathing and pulse...recovery. Pulse no breathing...rescue breaths.
+

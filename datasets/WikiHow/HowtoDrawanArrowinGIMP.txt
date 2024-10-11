@@ -1,0 +1,33 @@
+@summary
+click on this link and download the arrow.scm file.
+
+@summary
+navigate to your gimp script folder.
+
+@summary
+drag-and-drop the arrow.scm file into your scripts folder.
+
+@summary
+launch gimp.
+
+@summary
+in the left tool bar, locate the path icon.
+
+@summary
+click once to set a point for the head of the arrow; then click a second time to set a point for the end of the arrow.
+
+@summary
+go the tools menu and click the arrow... entry.
+
+@summary
+congratulations!
+@article
+ The file size is only 11.24 KB, so the download should be completed within seconds.;
+, In Ubuntu, the folder path is located in /home/username/.gimp-2.6/scripts. If you are using another Linux distribution and cannot file the folder, search GIMP in your file browser.
+ You may be required to enter your root user name and password.
+ Under the tools menu, at the very bottom, you should see the new entry Arrow.... However, it will not be available for use until you create a path of the picture you wish to draw an arrow.
+ The icon looks sort of like a rope connected to a quill pen.
+ You should see a segment with two little circles at the ends.
+ Then click OK.
+ You can now experiment with your arrow, such as changing the color, shape, size, and even position!
+

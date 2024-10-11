@@ -1,0 +1,16 @@
+@summary
+click on the "photos" tab.
+
+@summary
+check the first box if you would like this tab to be displayed on your profile.
+
+@summary
+in the next field, input people and/or circles whose tags of you can be automatically approved.
+
+@summary
+check the last box if you'd like each photo you upload to be tagged with the location you uploaded them.
+
+@article
+ Now you can adjust general photo settings.
+ This provides each person access to your photo albums that are visible to them. If you don't include the tab, they can still see your photos on their stream.
+ Once approved, the tag and photo is displayed as a post on your profile. Anyone can tag you in a photo, but you have to approve the tags from anyone not on this list before the tagging goes through. You can still manually remove any tag.

@@ -1,0 +1,50 @@
+@summary
+load dvd:
+
+@summary
+click the button (load the whole dvd disc) or (load certain titles) you will find that the dvd file will display in the software:
+
+@summary
+for every single chapter, you can set output file format, specify output folder, subtitle, view angle, and rename the destination file.
+
+@summary
+view profile:
+
+@summary
+here you can see the parameters of the dvd video, and decide if you’d like to keep the audio or video in the converted file (you do not want to do this in most cases).
+
+@summary
+,
+
+@summary
+customize output video file:
+
+@summary
+a, check single title or chapter, then click the button, and you will see the following window:
+
+@summary
+set video brightness, contrast, and audio volume as you like.
+
+@summary
+now you can leave everything to pavtube dvd ripper.
+
+@summary
+what an excellent dvd ripping tool.
+@article
+ You can also check “Merge into one file”, that means all the converted files will be merged into one file, and the file format follows the first file in the sequence.
+Click to preview video, take snapshots by clicking.;
+,, If you don’t like current setting, just click the button to gain the default settings. The powerful functions even enable you to apply all the settings to the whole DVD file or just child chapters.
+
+
+b, Click the “Trim” tab: you will see:
+
+Here you can set the the start and end time of current video, just drag the two slider bars: , .
+
+
+c, Click the “Crop” tab:
+
+Crop the video, and cut off the unwanted black edge. Under the label “Letter Box”, it provides 5 most common cropping ways; you just choose the satisfying one or directly drag and stretch the dotted frame.
+Everything's ready, let's start converting.
+ You can enjoy the converted videos on your hard drive sometime later.
+ It is really easy to use, fast in speed, excellent in quality and reasonable in price. And it offers excellent after service that ensures the convenience and joy for all users who are using the software to rip DVD to hard drive. Why not free download the best DVD ripping software to rip DVD to hard drive.
+

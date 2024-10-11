@@ -1,0 +1,5 @@
+@summary
+in your paint method, have a parameter that needs a graphics class.
+@article
+ Using the graphics class, you should be able to draw things and images inside the paint method. The method signature should look like this:
+

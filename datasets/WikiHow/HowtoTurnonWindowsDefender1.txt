@@ -1,0 +1,13 @@
+@summary
+click on the windows 8 “start” screen and type “windows defender” into the search field.
+
+@summary
+click on the “settings” tab.
+
+@summary
+place a checkmark next to “turn on real-time protection (recommended).
+@article
+ Click on the icon for “Windows Defender” after it displays in the search results. The application will then launch.;
+, And click on “Real-time protection” in the left pane.
+ And click on the “Save changes” button located at the bottom of the window. Windows Defender is now turned on.
+

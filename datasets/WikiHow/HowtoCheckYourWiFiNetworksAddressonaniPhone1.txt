@@ -1,0 +1,19 @@
+@summary
+open the settings app.
+
+@summary
+tap wi-fi.
+
+@summary
+,
+
+@summary
+tap a current network.
+
+@summary
+review the "ip address" value.
+@article
+;
+,, You won't be able to view the IP address of a network to which you aren't currently connected.
+ This is your network's address.
+

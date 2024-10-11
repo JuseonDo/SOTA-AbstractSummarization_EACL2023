@@ -1,0 +1,24 @@
+@summary
+click go.
+
+@summary
+click go to folder.
+
+@summary
+,
+
+@summary
+type in ~/desktop/(foldername).
+
+@summary
+,
+
+@summary
+click go.
+@article
+ This is in your screen's top right corner tool bar.
+,, You should now be viewing your folder's contents!
+
+
+Any files you place in your folder will also be hidden.
+

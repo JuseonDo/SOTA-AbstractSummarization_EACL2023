@@ -1,0 +1,12 @@
+@summary
+get the software.
+
+@summary
+create a note.
+
+@summary
+manage notes.
+@article
+ Download the Todoist app for free., Press the '+' button to add a new note.
+ You can go to the Todoist website to view your notes online.
+

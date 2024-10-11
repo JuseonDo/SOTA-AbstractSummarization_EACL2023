@@ -1,0 +1,61 @@
+@summary
+prepare before the shot.
+
+@summary
+start adobe photoshop elements 11.
+
+@summary
+use "file > open" and select the photo you want to edit.
+
+@summary
+,
+
+@summary
+in the top menu, select "view > actual pixels" or "view > fit on screen".
+
+@summary
+,
+
+@summary
+click the pink eraser icon in the left menu.
+
+@summary
+in the bottom menu, select size to 25 pixels and tolerance to 15%.
+
+@summary
+move the cursor, which is now a circle with a center plus sign, to the photo background, and click.
+
+@summary
+experiment changing tolerance sliding bar to 10% or to 30%.
+
+@summary
+once your photo is close to the way you want it, enlarge it with the view menu zoom items to closely examine the borders of the image that remains.
+
+@summary
+if there are more background areas to erase, then at this point you have two options: continue using the same background eraser tool, or switch to the basic eraser tool that simply erases everything it touches.
+
+@summary
+to use the basic eraser, click the eraser icon next to the eraser and scissors icon and press "ctrl-a" to select the whole image.
+
+@summary
+save your hard work in a different file using the top menu "file > save as".
+
+@summary
+close photoshop, or use ctrl-d to de-select the photo so you can continue doing other edits on it.
+@article
+ Removing a background is easiest when it is a very different color from the foreground (say, as in a graduation photo). It’s hardest when the colors are similar, for example, with a white horse standing in the snow. For best results, plan ahead: Shoot your foreground subject against a different and uniform color such as the sky or a painted wall. As an example, removing the sky in the top photo will be easy. Removing the background in the lower photo with smaller green trees will be hard.;
+, Click "Photo Editor," then "Expert" in the top menu bar.
+,, A sub-window appears at the bottom. In the bottom menu, click the pink Eraser and Scissor Icon.
+ (You don’t have to be precise.)
+
+, An area with similar colors is erased. Note the checkerboard, which means that all color is removed from that area. If too much is erased, then use "Edit > Undo" in the top menu, and try again in different spot. Trial and error is important to get the best results. Concentrate on easy areas first.
+
+
+Hard areas are erased either by changing the parameters of the Background Eraser Tool, or by carefully painting out the background by hand. For best results, many photos require both.
+ Your goal is to erase as much as possible, without erasing anything you want to keep in the photo.
+ Identify areas where you still want more background removed.
+ The basic Eraser would be useful, to refer back to the earlier example, erasing the snow in the background of a white horse.
+ Carefully erase unwanted background. Drag the brush over small areas, using Undo whenever you have erased too much.
+ Using the default file type PSD leaves you the most options for future editing. For a smaller file suitable for Web and email, choose JPEG, and then click OK to use the defaults.
+ Later, when you cut-and-paste the photo on top of another, you will discover that the original background is gone, and your second photo is now the background.
+

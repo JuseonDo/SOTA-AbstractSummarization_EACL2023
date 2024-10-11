@@ -1,0 +1,53 @@
+@summary
+since amx mod x is a metamod plugin, make sure you have installed metamod.
+
+@summary
+download both the base package and the mod addon package for your half-life mod.
+
+@summary
+extract the base package, then extract the mod addon package to the same directory.
+
+@summary
+move (or upload) the extracted directory addons/amxmodx to the directory <mod>/addons.
+
+@summary
+check the directory structure.
+
+@summary
+add a line to metamod plugin file <mod>/metamod/plugins.ini , then save it.
+
+@summary
+run the server and type "meta list" in the server console to check if amx mod x is successfully installed.
+
+@article
+;
+, Alternatively, you can just download the Full Installer.
+ Overwrite any files from the Base Package. If you downloaded the Full Installer, install it.
+ Or run the Full Installer to select your mod folder (local or remote) and have the files automatically placed.
+
+
+If you have installed Metamod, directory <mod>/addons should already exist.
+
+<mod> is your mod directory name, like C-Strike for Counter-Strike.
+ It should be like this:
+
+
+
+<mod>
+
+
+addons
+
+amxmodx
+metamod
+
+
+
+
+
+,
+
+
+For Windows, this line is: win32 addons/amxmodx/dlls/amxmodx_mm.dll
+For Linux, this line is: linux addons/amxmodx/dlls/amxmodx_mm_i386.so
+If your server is remote, upload file plugins.ini after you save it (unless you're editing it remotely).

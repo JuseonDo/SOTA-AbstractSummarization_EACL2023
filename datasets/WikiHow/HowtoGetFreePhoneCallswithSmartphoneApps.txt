@@ -1,0 +1,42 @@
+@summary
+notify your friends in advance that you're about to use an app to communicate with each other.
+
+@summary
+if your phone has a data limit, check if you still have at least 500 mb of internet data.
+
+@summary
+on your phone, launch the respective app store.
+
+@summary
+use the search feature to find the app you want.
+
+@summary
+after installing, open the app.
+
+@summary
+make sure your friends do the same steps, then add each other.
+
+@summary
+start the call.
+
+@summary
+enjoy your new way of communication.
+
+@article
+ Tell them to download the app, which will be explained later in this article.;
+, You might want to use a free public wifi if you have no data (or have little data left).
+ This is where you'll download the application. The app should be name either "App Store" or "Play Store."
+
+, A couple of apps that lets you call for free are easy to find. Choose from any of these apps:
+
+
+Viber
+Google Voice
+Skype
+LINE
+Whatsapp
+Kakao Talk
+
+, You will be welcomed with a sign-up page. Follow the instructions to create an account.
+ There will be an option to secure connections between your friends. Tap, then follow the instructions.
+ After adding each other, call your friends. You can use either voice or video call.

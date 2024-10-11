@@ -1,0 +1,44 @@
+@summary
+unzip modloader with your archiving utility.
+
+@summary
+open up the minecraft folder using one of the following three steps, depending on your operating system.
+
+@summary
+open the bin folder by double-clicking it.
+
+@summary
+,
+
+@summary
+open the minecraft.jar file with winrar or a similar archiving utility.
+
+@summary
+delete the meta-inf file.
+
+@summary
+drag and drop the .class files, including folders, from the modloader folder into the minecraft.jar window.
+
+@summary
+,
+
+@summary
+close the .jar window and run minecraft.exe.
+
+@summary
+,
+
+@summary
+log in and start playing for a short duration.
+@article
+ Right-click Modloader, and then select Open with → WinRar (or another archiving utility). These are your .class files. Keep this file window open.
+
+
+
+In Windows XP: Click on the Start button, then click on Run. Type "%appdata%" and click on "Roaming." Minecraft should be the first folder. Open it.
+In Windows Vista/7: Click on the Start(Windows) button and type "%appdata%" in the search bar and again click on "Roaming."
+In Linux Ubuntu (should be the same on other Linux distributions): Open up your Home folder. Look for the Minecraft folder. Note: if you cannot see this folder, enable "Show Hidden Files". When you find it, open Minecraft.
+, Right-click minecraft → Open with → WinRar.
+ This step is very important. If you don't adequately delete the META-INF file, your screen will go black when you try to play Minecraft.
+,, After half a minute, exit out of Minecraft and check your minecraft.jar window again. If you see a new folder entitled "Mods," the installation of Modloader worked. Download mods and continue to enjoy Minecraft.
+

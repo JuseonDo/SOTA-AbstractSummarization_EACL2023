@@ -1,0 +1,44 @@
+@summary
+one: yksi.
+
+@summary
+two: kaksi.
+
+@summary
+three: kolme.
+
+@summary
+four: neljä.
+
+@summary
+five: viisi.
+
+@summary
+six: kuusi.
+
+@summary
+seven: seitsemän.
+
+@summary
+eight: kahdeksan.
+
+@summary
+nine: yhdeksän.
+
+@summary
+ten: kymmenen.
+
+@summary
+put them together and say them!
+
+@article
+ You say it ook-si.;
+, You say it cuck-si.
+ You say it col-mey.
+ You say it nell-yah.
+ You say it vee-si.
+ You say it koo-si.
+ You say it sates-eh-man.
+ You say it kah-deck-san.
+ This is the hardest one. You say it yuh-deck-san.
+ You say it kumm-en-en.

@@ -1,0 +1,27 @@
+@summary
+click the cloud icon from the left panel menu.
+
+@summary
+locate the files you want to copy.
+
+@summary
+select the files.
+
+@summary
+initiate the copy.
+
+@summary
+identify destination folder.
+
+@summary
+click the “copy” button once you’ve identified a destination folder.
+@article
+ This will take you to your main storage folder.
+ You can navigate through your folders by clicking on them.
+ Do this by clicking on them one by one. The selected files will be highlighted.
+ Right-click on any of the highlighted files and a submenu of tasks will show up. Select “Copy” from the menu.
+
+
+You can also access “Copy” from the header toolbar.
+ A window will appear with your Gavitex folder directory. Navigate through your folders and select the folder where you want copies of the files to be created in.
+ The selected files will immediately be copied to the set location.

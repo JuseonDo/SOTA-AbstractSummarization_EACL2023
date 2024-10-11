@@ -1,0 +1,17 @@
+@summary
+wear winter clothes if you're a brunette.
+
+@summary
+wear spring clothes if you have pale skin.
+
+@summary
+wear summer clothes if you have blonde hair.
+
+@summary
+wear autumns if you have ruddy skin tone.
+@article
+ Winters are usually brunettes with pale or olive skin. They lean towards deep and rich colors.
+ Springs have pale skin and eyes and either golden or strawberry blonde hair. They look best in bright colors.
+ Summers have blonde hair and pale skin. They lean towards more demure and muted colors.
+ Autumns can be red-heads, have black hair or a combination of blond and brown hair, and usually have a ruddy skin tone. They can wear oranges, browns and olive greens.
+

@@ -1,0 +1,37 @@
+@summary
+launch the slack mobile app and sign in if prompted.
+
+@summary
+tap the slack button to open the menu.
+
+@summary
+tap the channel you want to leave.
+
+@summary
+tap the channel name at the top of the screen.
+
+@summary
+tap "leave" at the bottom of the menu.
+
+@summary
+tap "leave and archive" to leave the channel and archive it.
+
+@summary
+rejoin a channel you've left.
+@article
+ This will take you to your "#general" channel.
+ This will display a list of channels that you belong to.
+ To leave a channel, it will need to be the active channel on your screen.
+
+
+You cannot leave your "#general" channel, which may have been renamed.
+ This will open the Channel details screen.
+ This will remove you from the channel.
+ This will remove everyone from the channel that is currently viewing it, and archive the channel contents.
+
+
+If you only have this option and want to leave the channel but keep it open, use the "/leave" or "/close" command instead.
+ You're free to rejoin any channels you've left, unless they're private. Private channels will require a new invite to reopen.Open the side menu by tapping the Slack icon
+Tap the "+" button next to "CHANNELS." This will display all of your available channels.
+Tap a channel in the list to view a preview and join it.
+

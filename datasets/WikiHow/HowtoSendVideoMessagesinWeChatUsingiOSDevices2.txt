@@ -1,0 +1,34 @@
+@summary
+open wechat.
+
+@summary
+tap chats.
+
+@summary
+tap an existing chat.
+
+@summary
+tap +.
+
+@summary
+tap camera.
+
+@summary
+tap and hold the white button at the bottom of the screen.
+
+@summary
+tap the checkmark to send the video.
+@article
+ It's a green app with two white speech bubbles. If you're already logged into WeChat, doing so will take you to the last tab you had open.
+
+If you aren't already logged in: tap Log In, enter your phone number and password, and tap Log In.
+ This is a speech bubble icon in the bottom-left corner of the screen., Doing so will open the conversation., It's in the bottom-right corner of the screen., It's the camera-shaped icon in the top row of options near the bottom of the screen.
+
+If you see a window instructing you to allow WeChat access to Photos, do so before continuing.
+ This will begin recording whatever your device's camera is facing.
+
+You can flip the camera to face toward you (or away from you if it's already facing you) by tapping the camera icon in the top-right corner of the screen.
+ It's in the bottom-right corner of the screen. Your video will be sent to your selected chat conversation.
+
+You can also tap the "Back" arrow in the bottom-left corner of the screen to delete the video and re-record.
+

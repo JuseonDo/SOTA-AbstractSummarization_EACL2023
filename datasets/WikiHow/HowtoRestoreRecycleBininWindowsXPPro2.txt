@@ -1,0 +1,16 @@
+@summary
+head to start.
+
+@summary
+this will load up the registry editor.
+
+@summary
+right click the 'namespace' key.
+
+@summary
+type {645ff040-5081-101b-9f08-00aa002f954e} into the key field.
+
+@summary
+click the new key, and double click 'default'.
+@article
+ Select 'Run' from the All Programs option. Then, type regedit into the text box provided., Navigate to the following directory: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace., Then hit 'New' and then 'Key'., This will create a new registry key., Then, type 'Recycle Bin' into the field. You have successfully restored the Recycle Bin.

@@ -1,0 +1,10 @@
+@summary
+from the home screen, click option,
+
+@summary
+click status.
+@article
+,
+
+Your IMEI number pin and other information about your phone will be shown here.
+

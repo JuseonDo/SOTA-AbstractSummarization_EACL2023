@@ -1,0 +1,29 @@
+@summary
+make a drawing of all walls you need to measure.
+
+@summary
+measure the width and height of the wall.
+
+@summary
+multiply the length and width together.
+
+@summary
+measure the length and width of any doors, fixtures, or windows.
+
+@summary
+multiply the length and width of any doors, fixtures, or windows.
+
+@summary
+add the total areas of any doors, fixtures, or windows.
+
+@summary
+subtract the total from step six from the total wall square footage.
+@article
+ Include doors and windows in your drawing as well. Leave enough room in the drawing to write down measurements.
+ To calculate the area of a wall, use the standard (Width) x (Height) = Area formula.Using a measuring tape, measure the width and height of the wall. Since walls can be tall, you might want to ask a friend or neighbor for help holding the measuring tape. Record the measurements on your drawing.
+ Using a calculator, multiply the length and width. This will equal the total square footage of the wall. Write this number down.
+ Record the length and width of any doors or windows on your drawing.
+ Use a calculator to multiply the length and width of any doors or windows present. Record each individual total. These measurements indicate the square footage of any doors, windows, or fixtures.
+ This only applies to walls that have more than one door, fixture, or window. Write this number down.
+ Use a calculator for this step, too. This number equals the square footage of the wall, and you can use this square footage to buy paint or wallpaper.
+

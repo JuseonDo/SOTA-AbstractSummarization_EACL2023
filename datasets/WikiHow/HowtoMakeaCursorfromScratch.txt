@@ -1,0 +1,21 @@
+@summary
+first you'll need a cursor authoring program.
+
+@summary
+once you've gotten the program you can start making cursors.
+
+@summary
+in the new window you will see a magnified area.
+
+@summary
+this program will let you add a multitude of effects to your cursor, like animation, for which you have to select animated cursor instead of static cursor.
+@article
+ A nice free one is Real World Cursor Editor. It has Vista Compatibility (at least with Home Premium).;
+, Open it up, and create a new cursor
+
+, That entire checkered box will be your cursor. now you can use the Line, circle, or pencil tool to draw up a cursor.
+ When You are done making a cursor, Save it and Move it to the Cursors Folder.
+
+
+The cursors Folder is located in Computer-Windows-Cursors for vista users.
+

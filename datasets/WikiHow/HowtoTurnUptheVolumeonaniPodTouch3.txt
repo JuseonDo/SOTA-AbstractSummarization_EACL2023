@@ -1,0 +1,9 @@
+@summary
+unlock your ipod.
+
+@summary
+a volume control should be available as in method 2 at the bottom of the screen.
+@article
+ Access the Music application and wait for it to load. Make sure you're holding the iPod vertically. Then, press 'Now Playing' like a boss.
+ Slide it to the right.
+

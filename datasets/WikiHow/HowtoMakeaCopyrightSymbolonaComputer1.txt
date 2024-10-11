@@ -1,0 +1,18 @@
+@summary
+copy and paste this symbol, as the quickest way: ©
+
+@summary
+,
+
+@summary
+if you're using word, use the auto-replace feature.if you're using another program on a mac, hold down ⌥ option+g.
+
+@summary
+if you're using another program on a windows pc, hold the alt key and type 0169 in your number keypad.
+@article
+, Just type (+C+). Word will automatically enter the copyright symbol instead.,, It won't necessarily work if you use the numbers at the top of your keyboard.
+
+
+If you are using a laptop that has a function key (Fn) then hold down Alt+Fn as you type the numbers.
+You may need to have Numlock on for this to work. If none of these options work, try the Character Map method (below).
+

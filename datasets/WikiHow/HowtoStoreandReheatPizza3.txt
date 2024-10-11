@@ -1,0 +1,13 @@
+@summary
+preheat toaster oven to 400 degrees f (200 c).
+
+@summary
+put the pizza slices in the oven.
+
+@summary
+cook the pizza for 10 minutes.
+@article
+ Make sure the toaster oven is fully preheated before you put the pizza inside, or the texture will suffer for it. This method should result in pizza that is crunchy on the bottom and bubbly on top.
+ Toaster ovens are small, so this method is best for one or two slices of pizza.
+ Peer inside the toaster oven window to check the cheese. If it looks bubbly and gooey, it is ready to eat.
+

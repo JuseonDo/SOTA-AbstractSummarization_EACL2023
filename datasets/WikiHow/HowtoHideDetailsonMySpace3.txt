@@ -1,0 +1,33 @@
+@summary
+log in to your myspace account.
+
+@summary
+,
+
+@summary
+hover over the words "my stuff.",
+
+@summary
+select "privacy settings" on the left side.
+
+@summary
+,
+
+@summary
+select the specific people who can see your profile and have access to your details.
+
+@summary
+edit your profile by choosing what details you want to be visible to those who can access your profile.
+
+@summary
+click "save changes" to apply the changes to your profile.
+@article
+, The words should be located in the upper tool bar on your page.
+, Your options are "Everyone," "Only my friends and anyone over 18," "Only my friends and anyone under 18" or "My Friends Only."
+
+, This includes your birthday and when you are online. You can block applications and the use of your profile picture and details. You can decide if you want to show the people who visit your profile.
+
+
+
+You can also control the privacy of your photos by setting the privacy controls when you create each album.
+

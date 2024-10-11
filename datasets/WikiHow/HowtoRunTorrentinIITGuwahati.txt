@@ -1,0 +1,30 @@
+@summary
+download tor browserand your preferred torrent client, like µtorrent.
+
+@summary
+go to vidalia setting.
+
+@summary
+in advanced, use tcp connection; enter 127.0.0.1 and 9051.
+
+@summary
+go to µtorrent.
+
+@summary
+customize the connection option.
+@article
+;
+, In address and port, put the proxy server assigned to you or the proxy server for the username and password you are using.
+
+
+Enter your username and password.
+Type HTTP/HTTPS
+
+, Choose "Password" as authentication and select the random generate option.
+ Under BitTorrent option, accept Authentication and randomly generate checkbox tick all other checkboxes.
+
+
+
+Proxy server type : Socks5
+Proxy 127.0.0.1 and port 9050
+

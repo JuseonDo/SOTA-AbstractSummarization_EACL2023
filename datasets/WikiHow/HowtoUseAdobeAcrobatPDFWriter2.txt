@@ -1,0 +1,42 @@
+@summary
+open a document in any program that has a printing option.
+
+@summary
+click the "print" button.
+
+@summary
+,
+
+@summary
+choose "adobe pdf".
+
+@summary
+adjust any settings as desired.
+
+@summary
+click the "ok" or "print" button to send the document to the pdf (creation) printer.
+
+@summary
+,
+
+@summary
+type the name of your file name you'd like to create the document as.
+
+@summary
+click the "save" button to save your document.
+
+@summary
+,
+
+@summary
+wait for the new pdf to load.
+
+@article
+ For example, you might have a page in your browser you want to turn into a PDF, or a text-editor that can print documents.
+, Don't get confused if you have Windows 10; With Windows 10, you'll get another freebie that can do the same as this but calls itself "Microsoft Print to PDF" instead.
+ Remember to click "Apply" to print a document from any place that offers a printing option for printouts.
+,
+
+
+If the document comes from a preexisting document, it'll use the preexisting document's name and will apply the new PDF extension to it as a separate file.
+,

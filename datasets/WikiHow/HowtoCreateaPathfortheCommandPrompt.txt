@@ -1,0 +1,38 @@
+@summary
+hold the windows key and press r.;
+
+@summary
+,
+
+@summary
+check your "command prompt" path by typing "path".
+
+@summary
+change your "command prompt" path.
+
+@summary
+copy the following the path.
+
+@summary
+click ok and open the "command prompt" type 'path'.
+
+@summary
+type 'net user' command in "command prompt".
+
+@article
+, If your "command prompt" path is correct, it will show the following path. "%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;"
+
+,
+
+
+"%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem".
+
+Right Click My Computer --> Properties --> Advanced System Settings--> Environment Variables --> System variables -->Path -->Edit -->Variable value
+
+
+
+,
+
+
+"%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;" and paste it in System variables -->Path.
+ It will show the following path. Now you can run any commands in your "command prompt".

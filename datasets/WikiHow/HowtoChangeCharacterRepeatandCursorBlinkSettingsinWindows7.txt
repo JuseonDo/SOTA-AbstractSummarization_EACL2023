@@ -1,0 +1,20 @@
+@summary
+open the keyboard properties.
+
+@summary
+change the character repeat delay and character repeat rate.
+
+@summary
+test the settings.
+
+@summary
+change the cursor blink rate.
+
+@summary
+click on the apply to save your changes.
+
+@article
+ Go to the Start menu and search for Keyboard. Now select Keyboard from the search results.;
+, Just move the point with your mouse to adjust the speed.
+ Type something on the box to check your character repeat speed.
+ Move the point to the right to increase the cursor blink speed, or to the left to decrease the speed. You can also check the cursor blink rate on the left.

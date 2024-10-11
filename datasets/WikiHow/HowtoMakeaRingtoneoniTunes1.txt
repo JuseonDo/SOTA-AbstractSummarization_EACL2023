@@ -1,0 +1,116 @@
+@summary
+choose a song that you want to use as a ringtone.
+
+@summary
+find the song you want to use in itunes.
+
+@summary
+use your mouse to right click on the song.
+
+@summary
+click on the “options” tab in the dialog box.
+
+@summary
+,
+
+@summary
+check the “start time” and “stop time” boxes.
+
+@summary
+highlight the song again in itunes.
+
+@summary
+right click on the clipped version of the song.
+
+@summary
+highlight the song in your finder window.
+
+@summary
+rename the file with the extension .m4r.
+
+@summary
+return to your itunes program.
+
+@summary
+click “delete song” when the confirmation box pops up.
+
+@summary
+return to the open finder window.
+
+@summary
+drag the tone into your device folder the next time you plug in your phone.
+@article
+
+
+
+Listen to it carefully several times.
+Choose the 30-second part of the song you want to use as your ringtone.
+Load the song into iTunes, if you have not already.
+
+
+
+
+
+
+You cannot used a song that is purchased from the iTunes store, unless it is converted to an unprotected format.;
+, Highlight it.
+ Choose “Get Info” from the drop down list.
+, Type in the start and stop times for the ringtone.
+
+
+The total song length must be equal or less than 30 seconds.
+If you are choosing the beginning of the song, you can leave the “Start Time” box unchecked.
+
+
+
+
+
+
+For example, Start Time could say “0:31” and End Time could say “0:56.”
+
+
+
+
+
+
+Click “OK” when you are done.
+ Right click on the song. Choose “Create AAC Version” from the drop down list.
+
+
+An AAC is an “Apple Lossless Audio File.”
+You should see 2 versions of the song. One should have the full song time, and the other should be your clipped version.
+ Select “Show in Finder.”
+
+, Right click and choose “Get Info.” Check the duration to be sure it is the clipped version of the song.
+ This will replace the .m4a file extension that iTunes songs automatically have.
+
+
+Click “Enter.”
+
+
+
+
+
+
+Click the “Use .m4r” button when the confirmation box appears.
+
+
+
+
+
+
+Keep the Finder window open.
+ Right click on the AAC, or clipped version, of the song. Scroll and select “delete.”
+
+, Select “Keep File” when the second box appears.
+ Double click on your clipped .m4r file.
+
+
+This action will add the file to iTunes.
+
+
+
+
+
+
+The clipped version should automatically appear as a “tone” in your iTunes library.

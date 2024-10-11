@@ -1,0 +1,89 @@
+@summary
+check wi-fi connections of all computers.
+
+@summary
+connect to the same wi-fi network.
+
+@summary
+keep the computers on and online.
+
+@summary
+launch dropbox.
+
+@summary
+go to “preferences.” when dropbox is running on your computer, it appears on the notification tray at the bottom-right side of your screen.
+
+@summary
+go to “bandwidth.” from the dropbox preferences window, select the bandwidth tab or menu.
+
+@summary
+,
+
+@summary
+enable lan sync.
+
+@summary
+enable lan sync on the other computers.
+
+@summary
+open dropbox.
+
+@summary
+select “dropbox folder.” this will open the dropbox main folder on your computer.
+
+@summary
+,
+
+@summary
+select the folder to share.
+
+@summary
+select “share this folder.” right-click on the folder, and select “share this folder” under the dropbox context menu.
+
+@summary
+share the folder.
+
+@summary
+locate the file.
+
+@summary
+put the file in the shared folder.
+
+@summary
+let lan sync work.
+@article
+ In order for Dropbox’ LAN sync to work, all the computers need to be in the same local area network, or LAN. They don’t just need to connect to the same router, they need to be in the same network.
+
+
+Refer to your computer’s user manual on how to check network connections.;
+, If you have computers not yet in the same network, disconnect them from their current network and reconnect them all to one network.
+ Of course, for LAN sync to work, all the computers need to be turned on and connected to the Internet.
+
+
+If a computer is turned off, it will only get a copy of the files once it goes online.
+ If Dropbox isn’t running yet, open and launch it. Navigate through your Start menu or apps folders to find its icon and click on it.
+ Right-click on it and click on the gear icon on the upper-right side of the window. Select “Preferences” from the options, and the Dropbox Preferences window will appear.
+, The last option under the Bandwidth menu is LAN sync. Tick the check box for “Enable LAN sync” to turn it on. Click the “OK” button to save and close.
+ Apply the same settings for LAN sync on all your computers in the same network.
+
+
+LAN sync will only work for those computers that have this feature enabled.
+ Right-click on the Dropbox icon from the notification tray.
+, From your existing folders, choose the one you’d like to use for sharing. This is where you will put the file you’re sharing with the other computers.
+
+
+The other computers need to have access to this folder for them to get the file.
+ This will launch your Dropbox account on your web browser, and open the Sharing parameters.
+ Type in the email addresses of the people you’d like to share this folder with. Click on the “Share folder” button to authorize the sharing.
+
+
+The Dropbox folders of the invited people will have a new folder. Inform them that you will be using this folder to send files via Dropbox LAN sync.
+The people who owns the computers on your LAN whom you need to send files to need to be part of this list.
+ With LAN sync enabled, you can send huge files quickly across all the computers within your LAN. Select the file from your computer and copy it.
+ Paste the copied file in your Dropbox shared folder.
+ Once Dropbox detects a change in your Dropbox folders, it will begin syncing.
+
+
+Since LAN sync is enabled, it will sync the contents of your folder across all the computers in the local network first before syncing it with the Dropbox server. Within the just few seconds, the other computers will have a copy of the file you’ve just sent under the shared folder.
+There’s no need to copy to a USB drive and no need to upload to your email.
+

@@ -1,0 +1,26 @@
+@summary
+go to myfitnesspal.
+
+@summary
+either log in with facebook or enter your email address.
+
+@summary
+edit your account information.
+
+@summary
+decide whether you would like to receive the free online newsletter.
+
+@summary
+enter your information.
+
+@summary
+get started!
+@article
+;
+, Click Join Now if you entered an email address. Click "Okay" in the dialog box if you choose to log in with Facebook.
+ You will need to make a username and enter a working email address.
+ If you do not want extra emails in your inbox, make sure the box is unchecked!
+
+, You will need to enter your current weight, your goal weight, and some information about your lifestyle and weight loss plans.
+ A box will pop up showing a suggested plan to meet your weight loss goals. Click Get Started Now to start losing weight!
+

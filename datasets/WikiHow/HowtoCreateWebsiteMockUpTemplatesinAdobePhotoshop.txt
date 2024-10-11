@@ -1,0 +1,53 @@
+@summary
+start with a backdrop of a laptop or mobile device.
+
+@summary
+open the picture in adobe photoshop.
+
+@summary
+right click on the new layer called rectangle.
+
+@summary
+on the top tool menu, go to edit > free transform path (keyboard shortcut ctrl+t).
+
+@summary
+,
+
+@summary
+on the top tool menu, go to edit > transform > distort.
+
+@summary
+,
+
+@summary
+move the edges of the rectangle freely to match the tilted laptop screen.
+
+@summary
+on the rectangle layer, click on the small smart object icon on the bottom right.
+
+@summary
+take a screenshot of the website you want to display on laptop screen.
+
+@summary
+save the image (ctrl+s) and close the tab.
+@article
+ Get an appropriate high resolution photo on which can represent your website snapshot properly.;
+, Use the rectangle tool (Keyboard Shortcut U) and draw a rough rectangle roughly the size of laptop screen.
+ Select Convert to Smart Object.
+,, Click and hold any edge of rectangle and move it to match the related edge of the laptop screen.
+
+
+Repeat the above step with rest of the three edges to match all the four rectangle edges exactly with the laptop edges. To get better results zoom the image to match the edges.
+ You'll see that a new tab will open and there will be an plain image in front of you.
+ Then paste it on the above mentioned plain image. You may need to adjust the screenshot on the rectangle shape plain image.
+ And it's done!
+
+
+You'll see that the screenshot has perfectly overlapped the existing image and your website is ready to be presented to the whole world.
+
+
+
+
+
+
+

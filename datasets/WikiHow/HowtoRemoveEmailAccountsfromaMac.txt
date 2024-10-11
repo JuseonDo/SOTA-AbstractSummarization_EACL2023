@@ -1,0 +1,30 @@
+@summary
+click on the apple menu.
+
+@summary
+click on system preferences.
+
+@summary
+,
+
+@summary
+click on internet accounts.
+
+@summary
+click on the account you wish to delete.
+
+@summary
+click on -.
+
+@summary
+click on ok.
+@article
+ It's the black, apple-shaped icon in the upper-left of your screen.;
+,, It's the blue "@" icon in the center of the window.
+ The accounts are listed in the pane on the left side of the dialog box.
+ It's the account list window.
+ The email account has been removed from your Mac.
+
+
+Repeat these steps for each account you wish to delete.
+

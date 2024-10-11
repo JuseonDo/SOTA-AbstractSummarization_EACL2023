@@ -1,0 +1,33 @@
+@summary
+find backlinks.
+
+@summary
+register or sign up for the sites that you will be leaving a backlink on.
+
+@summary
+once you have clicked on the activation link, then you will be able to sign in.
+
+@summary
+,
+
+@summary
+now that you are signed in, search for your profile button or control panel button (cp).
+
+@summary
+keep in mind that each website or forum that will give you a backlink is different.
+
+@summary
+with respect to the signature box and the bio (biography) box, you can leave 3 links to your site with key words.in order to add the link to these keywords you will have to use html code or bbc code.
+@article
+ You can do a Google search for high quality backlinks, but never pay for links. You can go on related forums for more information on backlinks or read the Google Link Guidelines on what is required;
+, The registration or sign up procedure is straight forward and will usually have an activation link sent to your email.
+, Navigate to edit your profile.
+ In some cases, you add your url address where indicated. In other cases, you also leave your url address in the signature box. Still, in other cases, you leave your url address in your bio section. It all depends and it is up to you to figure out, unless the backlinks have instructions.
+
+
+
+For example key words can be: Best Ways To Make Money Online, Make Money Online From Home, Best Home Based Business. These are 3 examples of keywords that will contain the link back to the website. However, recent changes to the Google Guidelines will suggest that you don't use anchor rich keywords and you will be much better off with just a 'Click Here' or URL link.
+ It will be indicated. Here is an example of the HTML code: <a href="http:KEYWORDS</a>
+
+
+Here is the example of BBC code: KEYWORDS

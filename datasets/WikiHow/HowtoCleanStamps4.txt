@@ -1,0 +1,13 @@
+@summary
+lay a piece of tape on a table.
+
+@summary
+press the stamp onto the sticky side of the tape.
+
+@summary
+throw away the tape.
+@article
+ Lay it sticky side up.
+ The dust, hairs or lint will come off the stamp and be left on the tape.
+ The stamp should be fine for using again.
+

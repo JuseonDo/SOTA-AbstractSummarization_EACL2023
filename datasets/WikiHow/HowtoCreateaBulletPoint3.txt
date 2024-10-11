@@ -1,0 +1,13 @@
+@summary
+launch the excel software.
+
+@summary
+double-click on a cell you want to add bullet points to.
+
+@summary
+create a bullet point.
+@article
+ You can do this by double-clicking the green “X” icon in your desktop.
+ Double-clicking the cell will enable you to type texts inside it.
+ Press Alt + 7, and a bullet point will then appear in the cell.
+

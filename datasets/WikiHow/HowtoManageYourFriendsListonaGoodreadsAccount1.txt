@@ -1,0 +1,12 @@
+@summary
+log into your goodreads account.make sure you know the name of the person you want to add for this particular method to work.
+
+@summary
+go to your friends list, even if it's empty.
+
+@summary
+look to the right of your friends list, and there will be the friend finder.
+@article
+;
+,, You'll find it as a circular-shaped button at the far right corner of your Notifications bar at the top of all Goodreads screens directly to the left of either the default user icon or to the left of your personal profile icon., You can search for friends through Gmail, Facebook, Yahoo, Twitter, or friends of current friends. You can also search for them by their name or email.
+

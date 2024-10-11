@@ -1,0 +1,35 @@
+@summary
+for verizon costumers, dial *228 and pick option 1.
+
+@summary
+go to settings and tools.
+
+@summary
+,
+
+@summary
+go to phone settings.
+
+@summary
+,
+
+@summary
+go to nam select.
+
+@summary
+,
+
+@summary
+pick nam 1.
+@article
+
+
+
+Your phone should now power down and power back up.
+Once your phone comes back on it should be now unlocked.
+It's very important that you switch your phone back to NAM 1.;
+,,,,
+
+
+Now your phone will power off and back on. If your phone needs a password it should now be the last four digits of your phone number, or if you've changed the password it will be whatever you changed it to. But first try your last four digits of your phone number.
+

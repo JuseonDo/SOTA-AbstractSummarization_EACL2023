@@ -1,0 +1,9 @@
+@summary
+visit chrome web store.
+
+@summary
+install the great suspender.
+@article
+ Chrome Web Store is a place where you can easily install free Chrome extensions.
+ If you often have multiple tabs open, this extension will "freeze" the ones you're not currently using. This will result in saving RAM and making Chrome launch and react faster.
+

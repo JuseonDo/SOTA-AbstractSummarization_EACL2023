@@ -1,0 +1,88 @@
+@summary
+click on "develop" and "edit" for the place you want to edit.
+
+@summary
+open roblox studio.
+
+@summary
+,
+
+@summary
+just insert a part.
+
+@summary
+when found properties, find the property 'anchored' in part.
+
+@summary
+now click the part once again.
+
+@summary
+,
+
+@summary
+go to left upper of your screen and find 'insert' -> 'object'.
+
+@summary
+,
+
+@summary
+find the 'blockmesh' and insert it into the brick you selected.
+
+@summary
+,
+
+@summary
+resize the part, recolor it, and build anything you want.
+
+@summary
+if it's a fighting game, make a round-system.
+
+@summary
+add badges for the most hard things.
+
+@summary
+make sure your game doesn't break or lag a lot!
+
+@summary
+,
+
+@summary
+do not overuse free models!,
+
+@summary
+advertise your place for a lot of money.
+
+@summary
+try playing the game with your friends, and more people will come.
+
+@summary
+,
+
+@summary
+learn to build your own models and/or script.
+@article
+;
+,, Click it once. Go to the left upper of your screen and find 'View' -> 'Properties'.
+ Make it true. Make the top-surface 'Smooth' and the bottom-surface 'Smooth'.
+,,, Be sure to use all properties including transparency, reflection , etc.
+ If it's a tycoon, be sure to make it work, and make enough tycoons. If it's an obby, be sure not to use too many colors. Only use tints of blue, green and brown. Red will make players mad when they can't win. Blue and green keeps them calm. If it's a minigame kind of game, make sure it works, and that you don't have to wait too long. If it's a disaster game, make sure the disasters are hard enough, and they don't have to wait too long for every disaster. If it's another kind of game, make something to do. A lot of hangout places on Roblox don't have any activities to do there.
+ Users will try to get a badge that's worth it. A 'You Played' badge is okay too. It advertises your own game on other people's profile.
+
+
+Some ideas for badges include:
+
+Welcome!
+15 Minutes
+20 Minutes
+30 Minutes
+1 Hour
+Winner (if your level is an obby)
+VIP
+Mega VIP
+
+
+You must have Builders Club in order to make and upload badges to Roblox.
+, Three free models is too much. It'll just make your place really slow.
+ It's just investing in your place, not just throwing away money.
+, It will make your game more original and unique.
+

@@ -1,0 +1,13 @@
+@summary
+open "my computer.",
+
+@summary
+click on the "view" tab.
+
+@summary
+disable features.
+@article
+ You can access this in the bottom left hand corner of your desktop screen.
+ Click on "Options." The Folder Options window will open.
+ Navigate to the "View" tab, then uncheck the features you want. Click apply changes and close the window.
+

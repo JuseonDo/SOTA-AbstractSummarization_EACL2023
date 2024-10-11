@@ -1,0 +1,20 @@
+@summary
+capture a pancham.
+
+@summary
+level it up to level 31.
+
+@summary
+go into a battle with a dark-type pokémon in your party.
+
+@summary
+defeat the enemy pokémon.
+
+@summary
+enjoy your new pangoro!
+
+@article
+ You can find one on Route 5.;
+, Get it to the point where one more battle will level it up to level 32.
+ You need a Dark-type Pokémon in your party for Pancham to evolve.
+ You can also catch it if it's a wild Pokémon. Once the battle ends, your Pancham will level up to level 32, and evolve.

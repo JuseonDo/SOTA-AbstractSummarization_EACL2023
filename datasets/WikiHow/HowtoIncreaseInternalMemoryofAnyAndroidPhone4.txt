@@ -1,0 +1,25 @@
+@summary
+tap the google photos app.tap the menu.tap the “settings” tab.
+
+@summary
+tap “back up & sync”.
+
+@summary
+tap the return arrow.
+
+@summary
+tap the photo icon.
+
+@summary
+touch and hold a photo.repeat the process as needed.
+
+@summary
+tap the “trash” icon.
+
+@summary
+tap “delete”.
+@article
+ The app is located in the app drawer on your Android.,,,
+
+Photos that are not backed up will appear with an icon of a cloud with a strike through it.
+ Tap the arrow at the upper left hand of the screen to return to the main screen., The Photo icon is found at the bottom of the screen., Touch and hold down all the videos or photos you wish to remove. A check mark will appear once the photo has been selected.,, The Trash icon is found at the upper right hand side of the screen., A prompt will appear asking you to confirm you want to delete your selected photos. Tap “Delete” to permanently remove photos or videos from your Google Photos app.

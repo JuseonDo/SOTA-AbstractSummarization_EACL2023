@@ -1,0 +1,34 @@
+@summary
+be vigilant about what you are surfing on, and what's coming up in front of you.
+
+@summary
+look straight in front of you while surfing, and not up, and especially not down (unless the ramp is going down), otherwise you will just fall off and die, or go to the jail.
+
+@summary
+make sure that you are pressing the right buttons, and not back, or forwards, for these keys do not help you.
+
+@summary
+,
+
+@summary
+if you have enough speed, and there is a turning ramp coming up, completely avoid it, but only if you have enough speed.
+
+@summary
+if a scout is given, do not switch to knife before doing any acrobatics.
+@article
+;
+,
+
+
+If there is a big jump in front of you, at the last second, move up the ramp and look up then look back at the next ramp.
+When landing onto a ramp, make sure you don't miss, or hit the point in the middle, otherwise you will die.
+Also when you land on a ramp make sure you are facing the direction that the ramp is moving in, not backwards surfing.
+,
+
+
+If you are in a map where there are ramps directly below you, try to land on them (unless it is a map whereas you fall, you go to the jail).
+ You actually go FASTER with a Scout. You go 4% faster. With knife you go 250 units/sec but with Scout, 260 units/sec.
+
+
+If you are stuck, or have slowed to a stop, move to the direction of where there is a surface to get on top of the ramp, then move to the beginning of the ramp to start over.
+

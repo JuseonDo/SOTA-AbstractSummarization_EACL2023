@@ -1,0 +1,88 @@
+@summary
+visit the open broadcast software (obs) website.click download obs studio.
+
+@summary
+click the button for your operating system.
+
+@summary
+click the installer after it downloads.
+
+@summary
+follow the prompts to install obs.
+
+@summary
+start obs after installing it.
+
+@summary
+click the settings button.
+
+@summary
+click the hotkeys tab.click the start recording field.
+
+@summary
+press the combination of keys that you want to use.click the stop recording field.
+
+@summary
+press the combination of keys that you want to use.
+
+@summary
+click the output tab.
+
+@summary
+click browse in the recording path field.click the recording format menu.
+
+@summary
+click mp4.
+
+@summary
+click apply and then ok.click the + at the bottom of the sources list.click display capture.click ok.
+
+@summary
+uncheck capture cursor.
+
+@summary
+click ok. you are now ready to record whatever is displayed on your screen.
+
+@summary
+mute your microphone.
+
+@summary
+close any extra programs.
+
+@summary
+open chrome or firefox.
+
+@summary
+visit netflix and log in.
+
+@summary
+select the video you want to play.
+
+@summary
+pause immediately.
+
+@summary
+click the full screen button.
+
+@summary
+press your start recording hotkey combination.
+
+@summary
+click play in netflix.
+
+@summary
+allow the video to play completely.
+
+@summary
+press the stop recording shortcut when the video ends.
+
+@summary
+trim your video with a free editor.
+@article
+ This free and open-source program will allow you to record your computer's display, which you can use to capture Netflix streams.
+
+OBS is completely free, is not supported by ads, and is developed by its open-source community. No one profits from you installing and using this program.
+, OBS is available for Windows, Mac, and Linux, and the program is essentially the same on all platforms., You'll find this in your browser's Downloads list, or in your Downloads folder., As long as you downloaded directly from the OBS website, you don't need to worry about malware., You'll be prompted to start it automatically at the end of the installation process., You'll see this in the bottom-right corner of the OBS window., This will allow you to create shortcuts that you can use to start and stop recording without having to open the OBS program. This is very useful, as you'll be recording everything on your screen.,, Make sure you don't use any shortcut that does something in your browser.,, Select a combination that is right next to your Start Recording, so that you can easily remember. For example, if Start Recording is Ctrl+⇧ Shift+F11, your Stop Recording could be Ctrl+⇧ Shift+F12., This will let you choose the quality of your recordings and where they are saved., This will let you choose a new destination to save finished recordings. By default, they'll be saved to your Videos folder.,, This is a very universal format that will play on most devices. If you have a specific format you want to use instead, you can choose it here., This will save the changes.,,,, This will prevent your cursor from appearing in the recording.,, If you have a microphone plugged in, click the Mute button next to it in the Mixer section of the OBS window., You want to minimize the chance that a notification will appear or a sound will be played. Close anything you don't absolutely need. make sure to leave OBS open., You'll be able to record your screen if you're using these browsers, but it won't work if you're using Internet Explorer or Edge., Log in with your Netflix account from your browser., You can record any movie or TV show on Netflix., You'll need to switch to full screen and start your recording. You can drag the position slider back to the beginning if necessary., You'll see this on the right side of the playback control bar., This will begin the recording in OBS. You won't see any notification, The video will begin playing., Make sure you don't close the video or switch windows. You can turn off your monitor and speakers if you don't want to sit and watch while it's recording., The video will be saved to the folder you specified earlier., There are several programs available that you can use to trim the start and stop of the video to get rid of dead space.
+
+One free option is Avidemux, which is an open-source program like OBS.
+

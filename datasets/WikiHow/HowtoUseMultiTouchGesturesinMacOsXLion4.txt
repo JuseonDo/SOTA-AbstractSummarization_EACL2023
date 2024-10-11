@@ -1,0 +1,5 @@
+@summary
+double-tap your trackpad to quickly zoom in on a page.
+@article
+ This gesture is similar to the zoom-in feature on Apple’s mobile devices such as the iPhone, iPad, iPod touch.
+

@@ -1,0 +1,20 @@
+@summary
+use the arrow keys to select the new partition.
+
+@summary
+select quick format installation.
+
+@summary
+the pc should restart, then select your language and local preferences when prompted to do so.
+
+@summary
+enter your desired password.
+@article
+ Press enter to install Windows XP to the unallocated space. This will be followed by a list of installation options.
+ You will want to select the NTSF file system. That is the preferred file system of Windows XP.
+
+
+If you're reformatting to recover from error, you will want to do a Full Format otherwise your error may still exist.
+ There are quick selection options or you can click on custom settings to receive more options.
+ When the administrator password prompt comes up you can enter your desired password. Pick a password only you would know, but difficult enough for anyone else to guess.
+

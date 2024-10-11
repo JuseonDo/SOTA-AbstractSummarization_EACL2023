@@ -1,0 +1,25 @@
+@summary
+anonymize your email address when you post advertisements.
+
+@summary
+select the option to substitute your real email address with an anonymous email address endorsed by craigslist when you post advertisements.
+
+@summary
+include only your first name on advertisements you post.
+@article
+;
+, Although your real email address will not be displayed publicly, you will still receive messages regarding your posting.
+
+
+This option is helpful when your real name or other personal information is part of your email address.
+
+
+
+Release additional personal information such as your phone number, address, or alternate contact email address only after you have been contacted by someone regarding your posting.
+
+
+
+
+
+
+

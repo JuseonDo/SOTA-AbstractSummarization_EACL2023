@@ -1,0 +1,13 @@
+@summary
+take your function and plug it into your graphing calculator.
+
+@summary
+look for the two points where the graphed equation crosses the x-axis.
+
+@summary
+use this graphing technique more as a way to double-check your equation, not as a way to solve it.
+@article
+ Your equation should be in the form of x2 + 8x + 12 = 0.
+ These two points will be your zeroes, or answers to the function.
+ If you're graphing an equation in order to find its zeroes and you need to show work, use this method as a way of double-checking that the answers you got were actually correct. Most teachers will not assign credit for just the answers, without the work shown.
+

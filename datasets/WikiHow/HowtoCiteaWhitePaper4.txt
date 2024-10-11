@@ -1,0 +1,57 @@
+@summary
+begin with the author if the paper has one.
+
+@summary
+place the date after the agency:
+
+@summary
+“gregory, bob.
+
+@summary
+next, add the name of the document.
+
+@summary
+next, add the city of publication, followed by a colon.
+
+@summary
+finally, add the printing office.
+
+@summary
+for a corporation, keep a similar format:
+
+@summary
+“willow, lesta.
+
+@summary
+learn how to do an in-text citation.
+@article
+ Otherwise, move on to the agency.
+
+
+“Gregory, Bob. Center for Happy People.”
+
+, Center for Happy People. 2008.”
+
+, Use title-case capitalization, meaning you capitalize each important word.
+
+
+“Gregory, Bob. Center for Happy People. 2008. Why Chocolate Is the Best Antidepressant.”
+
+,
+
+
+“Gregory, Bob. Center for Happy People. 2008. Why Chocolate Is the Best Antidepressant. Washington, DC:”
+
+, Note that ASA also uses “U.S. Government Printing Office.”
+
+
+“Gregory, Bob. Center for Happy People. 2008. Why Chocolate Is the Best Antidepressant. Washington, DC: U.S. Government Printing Office.”
+
+, Green Foods. 2007. Chocolate for Life: A Report on the Health Benefits of Chocolate. Eugene, Oregon: Redbook Printers.”
+
+,
+
+
+For an in-text citation, use the author’s last name or agency and the date of publication, followed by a colon and the page number at the end of the sentence. “Chocolate is awesome (Gregory 2008:22).”
+At the beginning of the sentence, just place the date and page number in parenthesis: “According to Willow (2007:34), chocolate is tasty.”
+

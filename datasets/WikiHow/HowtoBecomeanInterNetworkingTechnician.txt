@@ -1,0 +1,48 @@
+@summary
+become certified in cisco networking.
+
+@summary
+become familiar with the osi model of the internet.
+
+@summary
+,
+
+@summary
+become aware of the major vendors of networking technology, such as juniper, d-link, belkin, cisco/linksys, and netgear.
+
+@summary
+,
+
+@summary
+take the a+ certification.
+
+@summary
+take the network+ certification.
+
+@summary
+look at other comptia certifications, as they may cross over in to the networking field.
+
+@summary
+,
+
+@summary
+check in to the o'reilly vendor of books, as they make excellent tutorials on networking.
+
+@summary
+,
+
+@summary
+learn how mysql and other databases function, as they make up a good portion of internet traffic.
+
+@article
+ Cisco is the current leader in network certification. Cisco networking is divided into five levels and seven different paths.
+
+
+Entry-Levelis designated as CCENT.
+Associate level certification is the entry level certificate for all networking paths in the Cisco course. It is designated as CCNAfor all except Design / Routing & Switching.
+Professional level certification is designated by CC*P, where * is N, D, S, P, I, or V, depending on the different field of work.
+Expert is designated by CCIE.
+Cisco Certified Architect is highest level of accreditation achievable within the Cisco Career Certification program. It is the pinnacle for individuals wishing to show their formal validation of Cisco technologies and infrastructure architecture.;
+,,, This is the entry level certification required for nearly all IT Jobs.
+ It is the next level above A+ in the networking field.
+,,

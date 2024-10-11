@@ -1,0 +1,53 @@
+@summary
+click on the windows button in the bottom left of your screen.
+
+@summary
+click on settings (the gear button).
+
+@summary
+,
+
+@summary
+click on network & internet.
+
+@summary
+,
+
+@summary
+click on vpn in the left hand tool bar.
+
+@summary
+,
+
+@summary
+click on add vpn.
+
+@summary
+,
+
+@summary
+enter your settings.
+
+@summary
+click on your new vpn connection and click connect.
+
+@summary
+,
+
+@summary
+go to whatismyipaddress.com.
+
+@summary
+congratulations!
+@article
+;
+,,,,, The information that you need to enter is:
+
+
+For VPN provider, select Windows (built-in).
+For connection name, enter anything you'd like.
+For server name or address, enter the hostname of your VPN server or the IP address.
+For type of sign-in info, select the authentication method that your VPN prefers. Enter your authentication info and click Save.
+, Verify that your IP address and geo-location have changed to the servers that you are connecting to.
+ You have just configured your computer to use a VPN!
+

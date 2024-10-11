@@ -1,0 +1,27 @@
+@summary
+type what you want to write on the status text box.
+
+@summary
+now click on the privacy icon and look at the options - public, only me and custom.
+
+@summary
+now, this box will come up.
+
+@summary
+if you want to hide this post from a particular person, enter his/her/their names.
+
+@summary
+click on "save changes".
+
+@summary
+,
+
+@summary
+check if you have hid the post already, hover over your privacy icon again.
+@article
+ Make sure there are offensive material which includes, but not limited to, +17 content, illegal content, etc.
+ Hit Custom and wait. A small box will pop up.
+ If it is a different box, close it and repeat step 1 and 2. But if it is not a different box, go on. Leave the :Share this with" part alone and move on to the "Don't share this with" part.
+ If you would like to hide this post from other people that you have in a group, for example your family, you type in Family.
+, It should say, "Your Friends; Except: Restricted". If confirmed, click Share.
+

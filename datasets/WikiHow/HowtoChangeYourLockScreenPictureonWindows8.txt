@@ -1,0 +1,14 @@
+@summary
+go to pc settings.
+
+@summary
+there will be three categories: lock screen, start screen, and account picture.
+
+@summary
+there will be a picture of your current lock screen, and below that there will also be other picture options.
+@article
+ Select "Personalize".;
+, Click "Lock Screen."
+
+, Press one, and your lock screen will automatically change to that picture. Under those options there is a button labeled "Browse". Select this to browse through your photo files. The one you pick will be made into the new lock screen.
+

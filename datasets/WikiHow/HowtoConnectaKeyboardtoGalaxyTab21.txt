@@ -1,0 +1,37 @@
+@summary
+power on the keyboard and put it into pairing mode.
+
+@summary
+open the settings app on your samsung galaxy tab.
+
+@summary
+,
+
+@summary
+tap the "bluetooth" slider to toggle it on.
+
+@summary
+,
+
+@summary
+tap your keyboard in the list of available devices.
+
+@summary
+type the pin that appears (if necessary).
+
+@summary
+start using the keyboard.
+
+@summary
+if your keyboard isn't working, open the settings app.
+@article
+ The process for this varies from keyboard to keyboard, but generally you'll need to turn it on. Some keyboards will also require you to press a "Connect" button.;
+,,, Your Samsung Galaxy Tab will attempt to connect to the keyboard.
+ You may be prompted to enter a PIN in order for the Samsung Galaxy Tab to connect to the keyboard. Type the PIN on the keyboard to make the connection.
+ Once you make the connection, you should be able to begin using your keyboard immediately.
+ You may need to manually select your keyboard.
+
+
+Select "Language & input"
+Ensure that your keyboard is checked in the list of input methods.
+

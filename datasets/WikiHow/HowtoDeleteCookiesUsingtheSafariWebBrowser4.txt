@@ -1,0 +1,8 @@
+@summary
+under the "safari" menu, select "preferences".
+@article
+
+
+
+Under the "Security" tab, select "Never" next to "Accept Cookies".
+

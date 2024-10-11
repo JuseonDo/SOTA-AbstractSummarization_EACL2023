@@ -1,0 +1,27 @@
+@summary
+click the new mission control icon in your dock to launch the application.
+
+@summary
+hold the “option” key on your keyboard and click one of your desktop spaces in the top row of mission control.
+@article
+
+
+
+Alternatively, swipe three fingers up on your trackpad to launch Mission Control.
+
+
+
+
+
+;
+, This will instantly switch the main view of Mission Control from the default Desktop 1 to whatever Desktop Space you’ve selected.
+
+
+If you haven’t yet created multiple Desktop Spaces, you can click the “+” sign to the right of the top row to create a new Desktop.
+
+
+
+
+
+
+

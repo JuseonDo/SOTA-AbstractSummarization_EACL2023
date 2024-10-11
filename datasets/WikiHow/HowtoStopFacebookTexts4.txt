@@ -1,0 +1,49 @@
+@summary
+visit the facebook website.
+
+@summary
+log in with your facebook account.
+
+@summary
+click the ▼ button.
+
+@summary
+click settings.
+
+@summary
+,
+
+@summary
+click the notifications tab.
+
+@summary
+click the text message entry.
+
+@summary
+,
+
+@summary
+click the off radio button.
+
+@summary
+,
+
+@summary
+click save changes.
+
+@summary
+remove your phone number completely if messages don't stop.
+@article
+ You can use the Facebook website to disable your text message notification settings, as well as completely remove your phone number from your account.
+ Make sure you're logging in with the account that's associated with the mobile number you want to stop texts to.
+ You'll see this in the upper-right corner of the Facebook page after signing in, on the right end of the blue bar.
+, You'll see this on the left side of the page.
+,, New notifications will no longer be sent to your mobile number.
+ If you're still receiving Facebook texts, you can completely remove your phone number:
+
+
+Log into Facebook and open the Settings menu.
+Click the Mobile tab.
+Click Remove next to your phone number.
+Click Remove Phone to confirm.
+

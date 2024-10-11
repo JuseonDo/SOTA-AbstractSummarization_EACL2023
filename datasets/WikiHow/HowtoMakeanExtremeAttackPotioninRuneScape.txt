@@ -1,0 +1,25 @@
+@summary
+achieve a level 88 in herblore.
+
+@summary
+collect the ingredients.
+
+@summary
+mix a clean avantoe with the super attack potion.
+@article
+;
+,
+
+Create a super attack potion. For this, you will need an irit herb, eye of newt, and a vial of water.
+
+
+
+
+
+
+Collect an avantoe herb. Invest in clean avantoe for faster times or if you are planning to make a huge batch. Grimy avantoes are a drop of certain NPCs and monsters, as well as farming.
+ This will create a three dose extreme attack potion.
+
+
+Be sure to click on the herb first, then the potion. Clicking on the potion first will accidentally consume a dose.
+

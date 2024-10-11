@@ -1,0 +1,28 @@
+@summary
+insert same header and footer for each page:
+
+@summary
+open the insert tab and select the header and footer icon to open the header and footer tab.
+
+@summary
+change header and footer settings:
+
+@summary
+open the header and footer tab by click the header and footer icon in the insert tab.
+
+@summary
+navigate between header and footer: if you need to switch quickly between the header and the footer, click switch between header and footer in header and footer tab.
+
+@summary
+delete header and footer from document: to remove a header or a footer, simply enter the header and footer editing area and delete the entire contents.
+@article
+
+You can either directly add information into the header and footer section presented at the top and bottom of the page, or use the icons presented in the Header and Footer tab.;
+, Select the Header and Footer Options icon to open the Page Setup dialogue box and select the Layout tab.
+Choose the Section start option in the Section part.
+In the Headers and Footers section, you can choose the different odd and even or different first page options. You can also enter the distance in the Header and Footer input box.
+Choose Apply to Whole Document in the Preview section.
+Click OK to complete the operation.
+ If you finish editing the header and footer, select the Close icon at the end of the Header and Footer tab.
+ Double click the main text to exit and complete the process.
+

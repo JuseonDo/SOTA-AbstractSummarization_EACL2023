@@ -1,0 +1,47 @@
+@summary
+open twitter.
+
+@summary
+tap your profile photo.
+
+@summary
+tap settings and privacy.
+
+@summary
+,
+
+@summary
+tap account.
+
+@summary
+,
+
+@summary
+tap phone number.
+
+@summary
+,
+
+@summary
+tap update phone.
+
+@summary
+,
+
+@summary
+enter your phone number.
+
+@summary
+tap update phone.
+@article
+ It’s the blue icon with a white bird in the app drawer.
+
+
+If you’re not already signed in, enter your account information and tap Log In.;
+, It’s at the top-left side of the screen.
+,,,, Be sure to enter your area code and/or country code, if applicable.
+ Twitter will send a code via text message to confirm your phone number. The confirmation should complete automatically. When the process is complete, you’ll see “Your phone number has been successfully updated.”
+
+
+If your number is not automatically confirmed you’ll have to enter the code manually. Tap Enter code manually and enter the code from the text message.
+

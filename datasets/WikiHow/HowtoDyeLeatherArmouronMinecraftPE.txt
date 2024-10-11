@@ -1,0 +1,21 @@
+@summary
+get the armour out of the inventory, along with a cauldron a bucket of water and a dye of your choice.
+
+@summary
+place the cauldron on a surface.
+
+@summary
+select the bucket of water and tap the cauldron.
+
+@summary
+select your dye and do the same as you did with the water.
+
+@summary
+select one item of armour and tap on the cauldron.
+@article
+ The armour and bucket of water are located in the tab that looks like a sword, the cauldron is located in the tab that looks like a bookshelf, and the dye is located in the tab that looks like seeds.;
+, Cauldrons can be destroyed or reused once you are done, and you can have more than one at the same time.
+ The cauldron should fill up with water. If not, try again and see what happens.
+ The contents of the cauldron should change to the colour of your selected dye.
+ The piece of armour should change to the colour of your dye. Repeat with the rest of the items.
+

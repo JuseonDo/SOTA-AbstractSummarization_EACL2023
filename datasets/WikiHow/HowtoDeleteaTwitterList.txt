@@ -1,0 +1,17 @@
+@summary
+click on the list that you no longer want.
+
+@summary
+look in the top right hand corner.
+
+@summary
+click on "delete".
+
+@summary
+check under "lists" that it really has gone.
+@article
+ This will open up the list for you.;
+, You will see a message that says "You created this list". Underneath it, you have two options: "Edit", and "Delete".
+ The site will ask you if you really want to do this as there is no undo. Click OK, and your list will be deleted. You will be taken back to your Twitter stream.
+ If it hasn't, either try again or wait for it to update.
+

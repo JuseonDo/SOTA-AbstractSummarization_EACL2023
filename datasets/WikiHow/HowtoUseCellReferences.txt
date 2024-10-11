@@ -1,0 +1,36 @@
+@summary
+place all numbers that you update regularly on their own sheet tab.
+
+@summary
+reference those numbers using the following methods.
+
+@summary
+press "enter" key when done.
+
+@article
+;
+,
+
+
+TYPE "=" to start a formula in the cell and navigate to the other cell which you want to include in formula.
+
+
+
+
+
+
+CLICK the cell ONCE.
+
+
+
+
+
+
+PRESS whatever operand (+ - * /) you need for your formula.
+
+
+
+
+
+
+REPEAT selection other cells, if needed to complete the formula.

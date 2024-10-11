@@ -1,0 +1,24 @@
+@summary
+open your image with its layers.
+
+@summary
+right click on the layer that you want to move.
+
+@summary
+move into groups, if necessary.
+@article
+
+
+
+
+ ;
+, You can move it down one layer, or send it to the bottom of the layers.
+
+
+
+
+
+
+When you send it to the bottom, it will not go to the bottom of everything. It will be above the background.
+ If you create a group for your layers, you can easily move it into the group.
+

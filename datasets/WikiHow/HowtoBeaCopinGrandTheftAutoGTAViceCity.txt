@@ -1,0 +1,45 @@
+@summary
+complete the “cop land” mission first.
+
+@summary
+go to the police station in washington beach.
+
+@summary
+,
+
+@summary
+enter the police station.
+
+@summary
+,
+
+@summary
+enter the room on the left of the hallway.
+
+@summary
+run through the clothing icon to change to a cop uniform.
+
+@summary
+,
+
+@summary
+find either a police car or a swat van and get into one.
+
+@summary
+,
+
+@summary
+start the “vigilante” mission.
+
+@summary
+chase a target.
+@article
+;
+,,, You’ll see a clothing icon near a baton.
+,, A message on the screen will tell you which button to press to begin.
+ A marker will appear on your mini-map showing the location of your target. Chase down the target within the time limit.
+
+
+If successful, you’ll be rewarded with money and another target will appear on the map.
+There are 12 Vigilante missions. You’ll fail if you don’t catch the target within the time limit or spend more than a minute outside of a police vehicle.
+

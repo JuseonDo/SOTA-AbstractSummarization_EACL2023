@@ -1,0 +1,17 @@
+@summary
+look to the bottom of your screen.
+
+@summary
+click on layer >> rename layer....
+
+@summary
+type in the name that you want to change your layer to.
+
+@summary
+look at the bottom.
+@article
+ There you will see the Layer dialog box. Layer 1 is the current layer name.;
+, This will take you to the Layer Rename dialogue box.
+ Click on Rename.
+ You will see that your layer now has the correct name.
+

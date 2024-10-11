@@ -1,0 +1,30 @@
+@summary
+download skype.
+
+@summary
+create an account.
+
+@summary
+,
+
+@summary
+purchase skype credit.
+
+@summary
+,
+
+@summary
+on the file menu, select tools > send sms message.
+
+@summary
+,
+
+@summary
+choose recipients or enter a number.
+
+@summary
+send the message.
+@article
+,,,, You can send a text message to any of your SkypeOut contacts or Skype contacts if they have added their mobile number in their profile. You can send the same message to several recipients, but each will be charged separately.
+ At the bottom, it will say how much the message will cost to send. Take a look at that before you send!
+

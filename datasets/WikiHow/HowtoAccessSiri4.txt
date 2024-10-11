@@ -1,0 +1,67 @@
+@summary
+enable "hey siri" through "settings".
+
+@summary
+click "general".
+
+@summary
+,
+
+@summary
+select "siri".
+
+@summary
+,
+
+@summary
+slide the toggle next to "allow "hey siri"" to the right.
+
+@summary
+select "set up now".
+
+@summary
+,
+
+@summary
+say "hey siri" when prompted.
+
+@summary
+say "hey siri, how's the weather today?",
+
+@summary
+say "hey siri, it's me" when prompted.
+
+@summary
+click "done".
+
+@summary
+,
+
+@summary
+now access siri through the "hey siri" feature.
+
+@summary
+,
+
+@summary
+plug your iphone or ipad into a power source.
+
+@summary
+say "hey siri".
+
+@summary
+,
+
+@summary
+ask siri your question.
+@article
+ You may access Siri by simply saying "Hey Siri".
+
+
+If you have an iPhone 6, iPhone 6 Plus, iPhone SE or iPad Pro, you may use this feature at any time. If you have an earlier iPhone or iPad, this feature is only available when your phone is connected to a power source.
+,, The toggle will turn from grey to green. You will proceed to the "Set Up "Hey Siri"" page.
+, If your attempt was approved, a check mark will appear on the screen. Repeat this step two times. This process makes it easier for Siri to distinguish your voice from other people's voices.
+ when prompted. If your attempt was approved, a check mark will appear on the screen.
+ If your attempt was approved, a check mark will appear on the screen. You will be notified that "Hey Siri" is enabled.
+,, If you have an iPhone 6, iPhone 6 Plus, iPhone SE or iPad Pro, this step is not required.
+,

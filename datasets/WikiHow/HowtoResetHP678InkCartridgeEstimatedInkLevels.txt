@@ -1,0 +1,19 @@
+@summary
+make sure the contacts that are located on the cartridge (bottom side) are not broken.if the hp printer you are using was sold in 2012 or earlier, this will not work.
+
+@summary
+on the 2nd contact column from the left, place adhesive tape over the top contact in that column.
+
+@summary
+place the cartridge into the printer.take the same cartridge out of the printer when the alignment page scan is done.
+
+@summary
+do not touch or remove the tape that was originally put on the cartridge.place the cartridge into the printer again.take the cartridge out of the printer, and remove all adhesive tape put on the ink cartridge.
+
+@summary
+put the cartridge back into the printer.
+@article
+ The contacts are a very important part of the cartridge for use, and will be needed to reset the ink level. Your cartridge may vary from genuine HP 678 cartridges, or 3rd party cartridges or remanufactured cartridges. This method only works with genuine HP 678 cartridges.
+
+When you go to the bottom side of the cartridge, there will be many contact points. There should be 6 columns of contacts. If your cartridge does not have 6 columns of contacts, that means that you have a different HP ink cartridge.;
+,, A column is a small copper square., A message may show up that there is an issue with your cartridge, but ignore that. The printer may print an alignment page. Follow the instructions of using the alignment page.,, Now grab adhesive tape and put it over the 2nd column from the right, on the top contact. Make sure no other contacts are covered with the tape.,,, The printer should print out an alignment page, and the ink level for the cartridge should be full.

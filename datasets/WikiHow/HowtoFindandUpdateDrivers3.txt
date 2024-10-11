@@ -1,0 +1,42 @@
+@summary
+click the start button.
+
+@summary
+,
+
+@summary
+click the control panel option.
+
+@summary
+,
+
+@summary
+click the system and security option.
+
+@summary
+click windows update.
+
+@summary
+,
+
+@summary
+click the optional updates link (if present).
+
+@summary
+check the boxes for any hardware listed.
+
+@summary
+click ok.
+
+@summary
+click install updates to begin downloading and installing.
+
+@summary
+open the device manager to check for additional drivers.
+@article
+,, If you see a list of icons instead of categories, you can select Windows Update directly from this menu.
+, You'll see this at the top of the window. Driver updates may be listed in the Optional updates link.
+ If you see hardware updates listed here, make sure they are checked.
+ This will return you to the Windows Update screen.
+ The time this takes depends on how many updates are available. You'll likely be prompted to reboot your computer after the installation., Windows Update will not find drivers for every piece of hardware. You may need to check for new drivers using the Device Manager.
+

@@ -1,0 +1,12 @@
+@summary
+search "recursion.",
+
+@summary
+wait for google to give you "did you mean: recursion" now.
+@article
+ Make sure you spell it correctly.
+ Spell it correctly...
+
+
+Yup, it just puts that there for some Recursion!
+

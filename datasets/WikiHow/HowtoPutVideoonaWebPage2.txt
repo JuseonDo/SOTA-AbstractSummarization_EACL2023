@@ -1,0 +1,15 @@
+@summary
+locate the file.
+
+@summary
+put the url of the file in an <img> tag.
+
+@summary
+add this code to your webpage, changing example.avi to your file.
+
+@article
+ The recommendation is that you upload the video to your own server, rather than hot linking (directly using) video on other websites.
+
+For example:<img="Example.avi">
+
+,

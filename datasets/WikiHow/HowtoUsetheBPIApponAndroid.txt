@@ -1,0 +1,58 @@
+@summary
+go to the bpi express online website.
+
+@summary
+choose your existing bpi account.
+
+@summary
+choose either within or outside the philippines.
+
+@summary
+,
+
+@summary
+read the eula.
+
+@summary
+enter the necessary bpi account details.
+
+@summary
+,
+
+@summary
+associate an e-mail address with your express online account.
+
+@summary
+launch google play.
+
+@summary
+search for “bpi.” choose the app made by bank of the philippine islands.
+
+@summary
+,
+
+@summary
+install the app.
+
+@summary
+launch the bpi app.
+
+@summary
+login to your account.
+
+@summary
+choose your banking operation.
+@article
+ Go to https://www.bpiexpressonline.com on your PC browser and click on "Enroll now.";
+, This should be the account you’d like your Express Online Account to be associated with.
+, Agree with it upon finishing.
+, This includes account login details like username and password.
+ Tap on the "Google Play" icon on your home screen or in your app drawer to open it.
+, Tap on the "Install" button to download and install the app to your device.
+ Tap on either the "Open" button on BPI’s Google Play page or look for the app in the app drawer.
+ Login using your Express Online account details.
+
+
+After doing so, your bank account number and deposit details will be listed, along with other accounts you’ve enrolled in your BPI Express Online account.
+ Choose from either Accounts, Transfer, Pay/Reload, Investments, and More.
+

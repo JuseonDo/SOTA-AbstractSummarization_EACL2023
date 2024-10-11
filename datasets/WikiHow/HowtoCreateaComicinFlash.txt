@@ -1,0 +1,26 @@
+@summary
+think of an idea for a comic.you can write it down or not.
+
+@summary
+open a blank document on flash.
+
+@summary
+,
+
+@summary
+draw your comic on different frames.
+
+@summary
+use the text button.
+
+@summary
+once you have your comic all drawn out, go under file and go to page setup.
+
+@summary
+print out your masterpiece!
+
+@article
+;
+,, Make a symbol over the comic strip that is only a black square with no filling over the squares on the image. Drawn inside the square(s).
+ Find a font to convey what they are saying. If it's in black and white, draw a line to it, if its in color, draw a talking, thinking or 'BAM!' bubble so the color won't interfere. Color it white in on the inside.
+ Once on that, go to layout and click on Storyboard-Boxes.

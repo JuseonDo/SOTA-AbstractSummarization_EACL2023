@@ -1,0 +1,47 @@
+@summary
+first, download the software from http://www.slysoft.com/en/virtual-clonedrive.html.
+
+@summary
+start the installation.
+
+@summary
+associate the file type you want to associate with virtual clonedrive.
+
+@summary
+you need to select the installation directory.
+
+@summary
+now, installation will be completed.
+
+@summary
+you can set no.
+
+@summary
+now, when you open my computer, you can see virtual clonedrive (e: or whatever the drive name is).
+
+@summary
+,
+
+@summary
+if you want to mount a cd/dvd image, you can right click on it.
+
+@summary
+you can browse through your file to mount cd/dvd image.
+
+@summary
+you can unmount image, afterwards if you want to.
+
+@article
+;
+, The installation is straight-forward. But i will go through Step by step. Click on Agree
+
+, You can select all of them. Click Next
+
+, Click Install(I always remove the company name, and select directory as c:\Program Files\Virtual Clone Drive. So that when I browse through Program Files later on, I know what each folder contains.)
+
+, It may take some time to install, So be patient. After installation, Close the window. And open "Virtual CloneDrive" from Desktop Shortcut
+
+, of Virtual Drives. You can have 1-2 drives depending upon your need. (You can set as many as 8 drives.)
+
+,, Go to 'Virtual CloneDrive' and Click on 'Mount'.
+ Now, you can access the Image, as if you have a physical Drive. You can access its files or run installation just like a CD/DVD drive.

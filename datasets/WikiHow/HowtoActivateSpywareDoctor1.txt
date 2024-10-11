@@ -1,0 +1,14 @@
+@summary
+make sure your computer uses a compatible operating system.
+
+@summary
+have at least 500 mb of storage space available on your hard drive.
+@article
+ Spyware Doctor is supported by the following operating systems.
+
+
+Windows XP Service Pack 2 (32 bit).
+Windows Vista Service Pack 1 (32 bit and 64 bit).
+Windows 7 (32 bit and 64 bit).;
+, Spyware Doctor requires this disk space to operate successfully.
+

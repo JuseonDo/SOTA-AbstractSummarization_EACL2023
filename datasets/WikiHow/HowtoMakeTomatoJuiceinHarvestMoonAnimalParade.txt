@@ -1,0 +1,17 @@
+@summary
+acquire a mixer.
+
+@summary
+get a tomato.
+
+@summary
+have the tomato in your rucksack.
+
+@summary
+walk to the mixer on your kitchen counter.
+
+@summary
+choose the tomato that you need for the recipe.
+@article
+ If you don't have it, you can go to the General Store and pay 1,200 G for it.
+ You can grow tomatoes in your crops during the summer., You can harvest the tomato by pressing the 'A' button., Press the "A" button., Press the "A" button again and "Start" to make the dish.

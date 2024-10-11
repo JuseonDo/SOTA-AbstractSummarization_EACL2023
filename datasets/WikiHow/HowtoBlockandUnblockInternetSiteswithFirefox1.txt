@@ -1,0 +1,23 @@
+@summary
+visit the "mozilla add-ons" website provided to you in the sources section of this article.
+
+@summary
+enter a keyword search phrase such as "block websites" into the search field.
+
+@summary
+go through the list of add-ons.
+
+@summary
+click on the "add to firefox" or "continue to download" button to the right of the add-on that interests you, or that you want downloaded to your firefox browser.
+
+@summary
+once the add-on has been downloaded, click on the "install now" button to have the extension added to your firefox browser.
+
+@article
+;
+, The search field is located in the upper-right corner of the Mozilla Add-Ons page.
+ Examples of add-ons that allow you to manage blocked websites are "BlockSite," "ProCon Latte," and "FoxFilter."
+
+
+Review the detailed information about the add-on to determine if the add-on will allow you to block and unblock certain websites. Clicking on the results will taken you to the add-on's information page.
+ You may need to hover your cursor over to the right side of the list for the button to appear, or click the one that appears on the information page . This will initiate the download of the add-on. Some add-ons may require you to accept an End-User License Agreement before proceeding with installation.

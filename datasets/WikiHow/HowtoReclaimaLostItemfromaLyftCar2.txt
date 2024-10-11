@@ -1,0 +1,13 @@
+@summary
+check your email.open the receipt for the ride you during which you lost the item.scroll to the bottom of the email.click on find lost item.
+
+@summary
+follow the on-screen prompts.
+
+@summary
+click on send message.
+@article
+ If it's been more than 16 hours since you paid for your Lyft ride, a receipt for your ride should have been sent to the email address associated with your Lyft account.,,,, Describe the item you left and when you left it., When the driver gets in touch with you, make arrangements for the driver to return it to you.
+
+Lyft drivers are not compensated for returning lost items, so be sure to tip appropriately.
+

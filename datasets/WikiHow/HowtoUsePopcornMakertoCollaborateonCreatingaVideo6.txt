@@ -1,0 +1,9 @@
+@summary
+use the remix button on popcorn made remixes to ask for or provide feedback.
+
+@summary
+when sending status/progress reports, popcorn can be a real nice tool.
+@article
+ This is not tied to particular phase. It can be used throughout the whole project.
+ Instead of the rigid written documents, people get to “see” your feedback, reports, task assignment, and the progress of other work real-time, and in video form!
+

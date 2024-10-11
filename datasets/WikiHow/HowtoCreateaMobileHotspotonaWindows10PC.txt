@@ -1,0 +1,15 @@
+@summary
+open settings.click or tap the network & internet section.select mobile hotspot from the left pane.
+
+@summary
+choose your settings.
+
+@summary
+toggle on the slider next to "share my internet connection with other devices".
+@article
+  Press the Start button and then the Settings gear on the lower-left hand side of the menu.
+,,
+
+Select which connection you want to share under "Share my Internet connection from".
+Press the Edit button to change the hotspot's name and password.
+"Turn on remotely" automatically turns on the hotspot if both devices (PC and that device) are Bluetooth-enabled., Other devices will now see your hotspot and connect to it provided the correct password is entered.

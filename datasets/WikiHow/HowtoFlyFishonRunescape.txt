@@ -1,0 +1,20 @@
+@summary
+get your fishing up to level 20 by net-fishing shrimp.
+
+@summary
+buy a fly-fishing rod.
+
+@summary
+get some feathers.
+
+@summary
+head to a fly-fishing spot.
+
+@summary
+click on a fishing spot that says "lure fishing spot" and you will be fly fishing!
+
+@article
+ This will enable you to fly fish.;
+, You can get these from fishing stores.
+ Either buy them from the Grand Exchange or fishing stores for about 5 gp each or kill chickens and collect the feathers they drop.
+ Popular ones are Camelot and Barbarian Village. There is also a fishing spot in Lumbridge.

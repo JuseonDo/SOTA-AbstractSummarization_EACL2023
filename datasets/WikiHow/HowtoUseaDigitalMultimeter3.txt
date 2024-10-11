@@ -1,0 +1,28 @@
+@summary
+choose either the terminal marked for measuring 10 amps or the one marked for measuring 300 milliamps (ma).
+
+@summary
+set the multimeter to measure current.
+
+@summary
+turn off power to the circuit.
+
+@summary
+,
+
+@summary
+break the circuit.
+
+@summary
+turn the power on.
+
+@summary
+read the display, remembering whether you are measuring amps or milliamps.
+@article
+ If you're unsure of the current, start in the 10 amp terminal until you're sure the current is less than 300 milliamps.
+ This may be represented by the letter A.
+, To measure current, you must place the multimeter in series with the circuit. Place the probes on either side of the break, observing polarity (black probe on negative side, red probe on positive side.)
+
+, The current will run through the circuit, up the red probe and through the multimeter, then out the black probe and into the circuit.
+ You can use the touch-hold feature if desired.
+

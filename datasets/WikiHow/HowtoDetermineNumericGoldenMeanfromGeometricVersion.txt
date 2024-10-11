@@ -1,0 +1,50 @@
+@summary
+use b/x = x/(b+x) instead of a:b as b:(a+b).
+
+@summary
+,
+
+@summary
+cross-multiply to get b^2 +bx = x^2, or 0 = x^2 - bx - b^2.
+
+@summary
+convert to the standard formula for the roots of a quadratic equation is {x1, x2} = (-b ± sqrt(b^2 - 4ac)) / 2a.
+
+@summary
+,
+
+@summary
+substitute in our terms in the standard formula and get {x1, x2} = (-(-b) ± sqrt((-b)^2 - 4*1*-b^2)) / 2*1.
+
+@summary
+let now b = 1 and we have {x1, x2} = (1 ± sqrt(5)) / 2 and the answers computed from this are root x1 =  1.61803399 and root x2 = -.61803399.
+
+@summary
+double-click on this image twice to blow it up to where it is legible.
+
+@summary
+make use of helper articles when proceeding through this tutorial:
+
+@summary
+see the article how to create a spirallic spin particle path or necklace form or spherical border for a list of articles related to excel, geometric and/or trigonometric art, charting/diagramming and algebraic formulation.
+@article
+, This latter form fits the quadratic form of ax^2 + bx + c, in that a = 1, x = x, b = -b and c = -b^2.
+,
+
+
+Collecting and simplifying, we have {x1, x2} = (b ± sqrt(b^2 + 4b^2)) / 2.
+
+
+
+
+
+
+Further collecting and simplifying, we have {x1, x2} = (b ± sqrt(5b^2)) / 2.
+ Adding the squares of these numbers results in 3. The added squares are always 3 times the square of b. At any rate, we have successfully determined the numeric Golden Mean from the geometric Golden Mean.
+
+
+If b = -1, root x1 = .61803399 and root x2 = -1.61803399 and we have again determined the Golden Mean numerically from its geometric roots.
+ It explains how to convert the Golden Mean from its Geometric Version to its Numeric Version, which is the point of this article.
+
+For more art charts and graphs, you might also want to click on Category:Microsoft Excel Imagery, Category:Mathematics, Category:Spreadsheets or Category:Graphics to view many Excel worksheets and charts where Trigonometry, Geometry and Calculus have been turned into Art, or simply click on the category as appears in the upper right white portion of this page, or at the bottom left of the page.
+

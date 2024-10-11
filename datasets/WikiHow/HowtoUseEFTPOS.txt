@@ -1,0 +1,40 @@
+@summary
+obtain an eftpos card from your bank if you don't have one already.
+
+@summary
+make sure your eftpos card has a pin, and there is money on the account which it is linked to.
+
+@summary
+,
+
+@summary
+go buy something.
+
+@summary
+,
+
+@summary
+state you're paying by eftpos.
+
+@summary
+swipe your card - there should be a diagram on the terminal showing which direction to swipe your card.
+
+@summary
+the cashier may ask for cash out.
+
+@summary
+check the card reader screen to see if you need to enter which account you are paying from.
+
+@summary
+enter your pin and press ok.
+
+@summary
+wait for the transaction to process.
+@article
+;
+,,, At the cash-out, when the cashier asks how you wish to pay, say EFTPOS. The cashier will key the details into the system or the EFTPOS terminal and ask you to swipe your card.
+ Be aware that some transactions of less than $40, if being made with a Pay Wave enabled card at at Pay Wave enabled terminal, can be made just by waving your card in front of card reader.
+ If you want to take cash out from your account, tell the cashier how much money you want.
+ Cheque, Credit or Savings. Many bank account cards allow withdrawals from multiple accounts so press cheque if you're just using your day to day account, savings for savings account, if you have one or choose Credit to pay by credit card., If you make a mistake, make sure you press Clear, and not Cancel, as Cancel may cancel the transaction on some terminals.
+ If approved, the terminal will read "Transaction Approved".
+

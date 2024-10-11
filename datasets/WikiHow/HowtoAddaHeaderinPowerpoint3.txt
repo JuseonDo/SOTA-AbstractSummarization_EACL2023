@@ -1,0 +1,35 @@
+@summary
+click “insert,” then “header & footer.”if you don’t mind where the recurring text appears, one way to include a string of text on each slide is by using a footer.
+
+@summary
+place a check in the box next to “date and time.” if you want the date and time on each slide in your presentation to display as the current date and time, select this option.
+
+@summary
+,
+
+@summary
+create a single date to be displayed on every slide.
+
+@summary
+check “footer” and add your own text.
+
+@summary
+click "apply to all" to propagate your changes.
+
+@summary
+drag the footer to the top of the slide.
+@article
+ The text will appear at the bottom of each slide rather than the top.
+
+
+In PowerPoint 2003 and earlier, click “View,” then “Header & Footer.”
+If you really needed a uniformly-centered header on the top of the page, try using an image or text box instead.
+, If you’d prefer the date on the slide remain the same no matter when you show the presentation, type the date into the box that says “Fixed.”
+
+, If you want to standardize a bit of text other than the date, type your desired text into the box. The text you type here will appear on every slide.
+ This will add a recurring footer at the bottom of every slide.
+ If you want the footer to appear at the top of a slide (like a header), click the footer text until it is surrounded by a dotted box, then drag it to the top of the slide.
+
+
+This action will not propagate to the other slides in your presentation. You’ll have to move the footer on each individual slide.
+

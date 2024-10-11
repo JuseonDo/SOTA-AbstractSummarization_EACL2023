@@ -1,0 +1,45 @@
+@summary
+talk to the residents of big town.
+
+@summary
+offer the residents to help recover their kidnapped friends.
+
+@summary
+travel to germantown police hq.
+
+@summary
+kill the super mutants outside the police station.
+
+@summary
+enter the police station.
+
+@summary
+sneak through the police station, killing super mutants as you find them with the chinese officer's sword.
+
+@summary
+locate the jail cells.
+
+@summary
+talk to red.
+
+@summary
+kill the super mutant guarding the basement.
+
+@summary
+exit the building.
+
+@summary
+talk to red again.
+@article
+ They will agree as a whole that they face certain doom from the Super Mutants.;
+, They will direct you to Germantown Police HQ.
+ Bring along a combat shotgun and a Chinese officer's sword.
+ Scrounge around for supplies, then rest outside in a tent before braving the building.
+ You can pick the lock at the ground floor (Lockpicking skill 100) or use the upper level door on the right side.
+ Use the combat shotgun when you are caught.
+ Make sure all the Super Mutants on the ground floor are dead, then open the cell (Lockpicking skill 50).
+ Ask her if she was alone. She will tell you about Shorty in the basement. Tell her to stay put, then proceed to the basement.
+ Untie Shorty and meet up with Red.
+ Fast travel back to Big Town.
+ She will thank you, but mention that the Super Mutants will come back. Either offer to fight the Super Mutants for them, or repair a broken Sentry Bot for them (Repair skill 50).
+

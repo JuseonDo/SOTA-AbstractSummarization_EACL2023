@@ -1,0 +1,13 @@
+@summary
+go to the post office.
+
+@summary
+tell them the address of the person you are sending the item to.
+
+@summary
+write down the postcode on a piece of paper.
+@article
+ Tell the person at the counter that you need to locate a postcode for the letter you are mailing.
+ They usually have a book where all of the postcodes are listed, which are separated by street and town.
+ Fill in the postcode on the letter or items you are mailing.
+

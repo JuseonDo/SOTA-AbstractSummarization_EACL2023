@@ -1,0 +1,39 @@
+@summary
+click the start button.
+
+@summary
+,
+
+@summary
+type cmd and press ↵ enter.
+
+@summary
+note your current folder.
+
+@summary
+type dir /p and press ↵ enter.
+
+@summary
+type cd.. and press ↵ enter.
+
+@summary
+type cd foldername to open a folder in your directory.
+
+@summary
+type cd path to go to a specific directory.
+
+@summary
+type a file name and press ↵ enter to open it.
+@article
+, This will start the Command Prompt.
+ When you start the Command Prompt, you'll start in your User folder.
+ This will display the contents of the current directory. The screen will stop scrolling whenever the screen has filled, and you can press any key to keep scrolling.
+
+
+<DIR> entries are folders inside of your current directory.
+The size of each file will be displayed in bytes before the file name.
+ This will take you up one directory level.
+ For example, in your User folder you can type cd documents and press ↵ Enter to open your Documents folder.
+ For example, to move directly to the Microsoft Office 15 directory in Program Files, you would type cd C:\Program Files\Microsoft Office 15
+
+, This will open the file in its default program. You'll need to type the entire file name as well as its extension.

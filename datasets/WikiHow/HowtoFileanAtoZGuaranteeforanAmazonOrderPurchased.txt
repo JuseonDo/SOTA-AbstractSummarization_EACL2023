@@ -1,0 +1,49 @@
+@summary
+visit your personalized amazon account webpage in your web browser.
+
+@summary
+open the "your orders" link in the "your account" tab on the page.
+
+@summary
+,
+
+@summary
+find the order for which you'd like to report an a-to-z applicable guarantee problem.
+
+@summary
+,
+
+@summary
+click the "file/view claim" button.
+
+@summary
+select the type of issue you are having with the order from "please indicate the type of issue".
+
+@summary
+make sure the order you're filing the guarantee for contained the same items as what's in the listed in the line below the "your claim will apply to this item" labeled line.
+
+@summary
+,
+
+@summary
+look for the shipping details line.
+
+@summary
+provide the return confirmation details.
+
+@summary
+follow the detailed instructions about what to include in your claim.
+
+@summary
+click the "report problem" button.
+
+@article
+;
+,,, Although all Amazon orders (minus those due to digital downloads) are A-to-Z applicable at this time, if you've previously submitted seller feedback, this button will vanish and not be shown to you.
+ If the category of request contains subcategories that the guarantee requires you to explain, you'll have to select this information to from the drop-box below the top box.
+
+
+Each category will yield different input information to display. "Other" and subcategory "other" will yield the full existential input fields for the type of request. Type your reason into the box underneath the second other, if both reasons are "other" or, the top-level category is labelled "other".
+, This line shouldn't ever need to be corrected, as this is the information that was supplied by the seller of the item.
+ This will include the delivery type, confirmation number of the package back to the seller, along with the shipment/postmark date. If the return requires an RMA to the seller, provide it in the box marked "Return authorization number".
+ Provide your hefty reason in the box labelled why you feel the guarantee refund should be granted.

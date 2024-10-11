@@ -1,0 +1,41 @@
+@summary
+click the down arrow (▾) next to the search icon in the address bar.
+
+@summary
+,
+
+@summary
+select the icon for the search engine you want to use.
+
+@summary
+click .add.
+
+@summary
+choose a search engine from the gallery.
+
+@summary
+click the "add to internet explorer" button to install your selected search engine.
+
+@summary
+tick the "make this my default search provider" box.
+
+@summary
+,
+
+@summary
+click .add.
+
+@summary
+click the down arrow (▾) to switch between search engines.
+
+@summary
+perform malware scans if your browser keeps changing your search engine.
+@article
+, If the search engine you want is not present, read on.
+ Internet Explorer will take you to its search engine gallery.
+ To see more, scroll down and click the arrow at the bottom of the list. Click on the search engine choice to see more details.
+ You'll be presented with a dialog box prompting for confirmation to add the search engine.
+, The search engine should now be changed.
+ Use the icons at the bottom to select from your installed search engines.
+ If your browser keeps changing your search engine, even after you change it to something else, you may be infected with malware or adware that has hijacked your browser. Click here for instructions on removing it.
+

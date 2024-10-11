@@ -1,0 +1,63 @@
+@summary
+go to collabshot.com and download the appropriate version.
+
+@summary
+double click on the exe file and install it.
+
+@summary
+click on the collabshot icon to start up the program.
+
+@summary
+,
+
+@summary
+to start your paste, be sure you are on the appropriate page and hit ctrl + alt + p. this will bring you to the screen displayed in the screenshot.
+
+@summary
+,
+
+@summary
+use the guidelines on the screen to make your selection and make it.
+
+@summary
+,
+
+@summary
+wait a few seconds (depending on your connection) for it to upload.
+
+@summary
+share the link.
+
+@summary
+go to the site and view your screenshot.
+
+@summary
+add a note if needed.
+
+@summary
+finished.
+
+@article
+ It comes in Linux, Mac and Windows flavors.;
+, Since it isn't zipped, you won't need an unzip program for it. If you have a section where you keep graphics type of programs, be sure to change the path.
+,,, It does it automatically.
+ It automatically pastes the screenshot URL onto your clipboard, so all you have to do is CTRL V.
+ In the upper right corner of the screen, you will see some editing tools. From left to right, they are:
+
+
+Pencil tool
+Line Tool (you will need to draw the arrow)
+Rectangle
+Ellipse
+Note
+Undo
+Clear All
+
+The tools are pretty self explanatory except for the Notes.
+
+
+
+Click on the Note icon. In the upper left part of your screenshot, you will see a little space that says "double click to edit".
+Double click in there and write your note.
+After completing the note, click on the check mark.
+Move it wherever needed.

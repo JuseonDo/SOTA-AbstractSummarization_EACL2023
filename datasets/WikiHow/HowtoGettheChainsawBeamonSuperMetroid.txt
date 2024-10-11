@@ -1,0 +1,21 @@
+@summary
+have (at least) the wave beam, the spazer beam and the plasma beam.
+
+@summary
+press start to go to the map.
+
+@summary
+make sure the spazer beam is selected and move to the boots section.
+
+@summary
+understand the chainsaw beam's properties.
+@article
+ The Ice Beam isn't used in the glitch and the Charge Beam is rather useless, as seen in the Warnings section.
+
+
+ ;
+, Then press R to go to Samus's upgrades., Then press Left and A at the same time. This is extremely precise but if you have done it correctly, the Spazer and Plasma Beams should both be selected, and the Plasma Beam will have a subsection called VAR., The Chainsaw Beam can't hit enemies, and can only hit doors and destroyable blocks in directly in front of Samus. The beam is dark blue, purple and brown when charged.
+
+
+
+

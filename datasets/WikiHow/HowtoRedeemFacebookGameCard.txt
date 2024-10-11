@@ -1,0 +1,40 @@
+@summary
+go to https://www.facebook.com/gamecards?a=redeem.
+
+@summary
+click “redeem code.” at the middle of the screen, click the green “redeem code” button.
+
+@summary
+,
+
+@summary
+scratch the game card.
+
+@summary
+enter the pin code.
+
+@summary
+click “redeem” at the bottom of the redeem window.
+
+@summary
+select a currency.
+
+@summary
+click “continue.”
+
+@summary
+your facebook account will be credited with the value of your game card.
+
+@article
+
+
+
+This is the website you will use to redeem your Game Cards.;
+,, At the back of your Game Card, there will be a silver-colored scratch area.
+
+
+Scratch this area with a coin to reveal the code.
+Don't scratch too hard, to avoid damaging the underlying letters and numbers.
+ On the Reveal Code screen, enter the alpha-numeric code that you scratched at the back of the Game Card.
+ You will be brought to the currency window.
+ Click on your appropriate currency to convert the Game Card value to your local currency.

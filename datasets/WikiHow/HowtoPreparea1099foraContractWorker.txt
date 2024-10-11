@@ -1,0 +1,58 @@
+@summary
+obtain a 1099-misc form from the irs or another reputable source.
+
+@summary
+fill out your federal tax id in the appropriate box.
+
+@summary
+fill out the contract worker's identification field out using his or her social security number.
+
+@summary
+enter the amount of money you paid to the contract worker throughout the year in box 7.
+
+@summary
+write down how much federal or state income tax you withheld from the contract worker's pay in either box 4 or 11.
+
+@summary
+fill in the contact information fields for both your company and the independent contractor.
+
+@summary
+enter the state where your company is located in in box 12.
+
+@summary
+mail or give the 1099 to your contract worker no later than january 31 following the tax year.
+
+@summary
+send copy a of the 1099 to the worker's home tax revenue department no later than february 28.
+
+@summary
+mail both form 1099 and copy b of the 1099 that you prepared for your contract worker to the irs by february 28.
+
+@summary
+keep copy c of the 1099 for your own records.
+@article
+ You can ask the IRS to send you the necessary form by calling 1-800-TAX-FORM (1-800-829-3676) or navigating to their online ordering page.
+
+
+You can also buy 1099-MISC forms at your local office supply store although most only come in batches of 25 or 50. These are perfectly compatible with IRS scanners.
+
+Note: You cannot just download a 1099-MISC form from the internet or from the IRS sample page and use it to fill out information. The 1099 form that you send the IRS has to be readable in its scanners. If you send the IRS a non-sanctioned 1099 form, you could face a penalty.;
+, This is either your personal Social Security Number or your Employer Identification Number, depending on your business's structure. If you don't know your federal tax ID, read more about how to get it here.
+ When you hired the contractor, you should have requested him or her to fill out a W-9 form. Along with information about person address, the W-9 will tell you their SSN.
+
+
+If the contractor doesn't give you their W-9 form or fails to provide an SSN, the IRS expects you to start withholding taxes on their behalf. You are expected to withhold 28% of the contractors pay and then remit it to the IRS.
+ Box 7 should be titled "Non-employee compensation."
+
+, Given the fact that you worked with an independent contractor, it isn't likely that you withheld any taxes, although you may have for two reasons:
+
+
+The contractor failed to return a W-9 form or didn't provide an accurate Social Security Number in the W-9. In this case, the IRS expects you to withhold 28% of their pay.
+The contractor is a foreign national. The IRS expects you to withhold about 30% of the non-US citizen's pay unless that contractor's home country is exempted because of a tax treaty with the US.
+ A phone number is only required for your business.
+ The IRS prefers that you use a two-letter abbreviation for your state instead of writing out the full name.
+ If you do not mail our or give 1099s to your contract workers before January 31, you could face a penalty from the IRS.
+ You do not have to do this if income tax is not deducted from the worker's pay in the state in which he or she resides.
+ If you complete your taxes electronically, the deadline is March 31st.
+ It is recommended that you retain copies of all of your tax documents for at least 4 years.
+

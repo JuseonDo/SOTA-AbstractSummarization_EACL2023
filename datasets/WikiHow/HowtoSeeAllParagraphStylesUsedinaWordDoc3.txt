@@ -1,0 +1,25 @@
+@summary
+open your document in word.click the home tab.
+
+@summary
+press alt+⇧ shift+ctrl+s.click the options link at the bottom of the styles pane.
+
+@summary
+click the dropdown menu beneath “select styles to show.”,select in current document from the dropdown menu.
+
+@summary
+place a check next to “paragraph level formatting.” the other check boxes should remain blank.
+
+@summary
+click ok. now the styles pane will only show the paragraph styles used in the current document.
+
+@summary
+click anywhere in your document to see which style is used.
+@article
+,, The Styles pane will open on the right side of the screen, displaying the list of all styles in Word.You can also open the Styles pane by clicking the tiny arrow at the bottom right corner of the “Styles” toolbar at the top of the screen.
+,,,,, The style used in the paragraph you clicked will now appear highlighted in the Styles pane.
+
+Hover your mouse over the name of the style in the Styles pane to see its details, such as font size, face, and color.
+To modify a Style, hover the mouse over its name and click the small arrow.
+To change the style of part of your document, highlight the part you want to change, then click a style in the Styles pane.
+

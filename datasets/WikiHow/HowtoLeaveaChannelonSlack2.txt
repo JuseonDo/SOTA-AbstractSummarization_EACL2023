@@ -1,0 +1,23 @@
+@summary
+sign into your slack team site if you aren't already.
+
+@summary
+click the channel you want to leave in the left menu.
+
+@summary
+click the gear button in the upper-right corner of the channel.
+
+@summary
+select "leave #channelname.",
+
+@summary
+click the "channels" heading in the left sidebar to see your available channels.
+@article
+ You'll need to be signed in with your Slack account to leave a channel. When you sign in, you'll be taken to your "#general" channel.
+ To leave a channel, it will need to be your active channel in Slack.
+ This will open a small menu of channel options.
+ This will remove you from the active channel. You'll be taken to your last active channel.
+
+
+You cannot leave the #general channel., You can find all of the channels you've left in this list. Click one to open the channel preview and get the option to join it again.
+

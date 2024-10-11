@@ -1,0 +1,43 @@
+@summary
+open facebook.
+
+@summary
+tap ☰.
+
+@summary
+tap your name.
+
+@summary
+tap edit on your profile photo.
+
+@summary
+,
+
+@summary
+tap select profile picture.
+
+@summary
+,
+
+@summary
+select the photo you want to upload.
+
+@summary
+,
+
+@summary
+tap edit on the photo.
+
+@summary
+tap done.
+
+@summary
+tap use.
+@article
+ It’s the blue icon with a white “f” on your home screen or in the app drawer.;
+, It’s at the top-right corner of the screen.
+ It’s near the top of the screen. This opens your profile.
+,,, It’s at the photo’s bottom-left corner.
+ It’s at the top-right corner of the screen. This saves the photo without cropping it.
+ It’s at the top-right corner of the screen. Your new profile photo is now saved.
+

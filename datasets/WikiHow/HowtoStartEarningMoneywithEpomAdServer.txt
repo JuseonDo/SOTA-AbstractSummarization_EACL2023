@@ -1,0 +1,54 @@
+@summary
+go to the advertisers tab.
+
+@summary
+click the add advertiser button and enter a name, contact name, contact email, description (optional).
+
+@summary
+to add a campaign, select an existing advertiser.
+
+@summary
+to add a banner, select an existing campaign.
+
+@summary
+create a new site placement.
+
+@summary
+click the add site button.
+
+@summary
+select an existing site to add a zone.
+
+@summary
+select an existing zone to add a placement.
+
+@summary
+see the invocation codes.
+
+@summary
+link the banner to the placement you created.
+
+@summary
+select an existing advertiser/campaign/banner.
+
+@summary
+go to the publishers tab, select the site/zone/placement and see the new banner in the banners probability section, where all the banners linked to this placement are shown.
+
+@summary
+,
+
+@summary
+congratulations!
+@article
+;
+, Then click the Save button.
+ Then click the Add Campaign button. Enter its Name and click the Save button.
+ Choose a Banner Type, enter a banner Name, select an Ad Unit and upload a Banner File. Specify the URL of the landing page where the banner will lead to. Then click the Save button.
+ To do this, go to the Publishers tab.
+ Enter the site’s Name, its URL (optional), a Contact Email address (optional), and a Description (optional). Then click the Save button.
+ Click the Add Zone button and enter its Name. Than click the Save button.
+ Then select the Placement Type according to the Banner Type you created earlier. Enter the Placement’s Name and select its Size. After that, click the Save button.
+ Copy the code and paste it to your web-site.
+ In order to do this, go to the Advertisers tab.
+ Scroll down to the Placements bar. Select the check-box next to the name of the created placement to link a banner to it. Click the Save button.
+, Now you can see the banner on the web-page you have added the invocation code to. It is time to earn some money!

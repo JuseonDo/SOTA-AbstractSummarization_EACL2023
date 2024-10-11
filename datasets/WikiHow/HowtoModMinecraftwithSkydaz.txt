@@ -1,0 +1,29 @@
+@summary
+be sure you have skydaz on your computer.download forge mods (most of the mods are forge)
+
+@summary
+,
+
+@summary
+go into .minecraft.
+
+@summary
+put the forge files in the mods folder inside ".minecraft" folder.test it out (the mod must be installed (read the instructions)
+
+@summary
+,
+
+@summary
+know what to do in case of conflict.
+@article
+;
+,,
+
+
+To do this on windows 7, go to start, type in and click open %appdata%, then click on .minecraft folder.
+To do this on windows 8 go to folder "users/(Username)/Appdata" and click on .minecraft folder.
+
+(Also this is where your taken screenshots are found and you can listen to some on the music of the game)
+
+,, Some mods cause conflicts to fix this delete the mod in your .minecraft if you get a black screen did you put the files in the bin (this is another form of a crash) if the mod didn't appear in your .minecraft force an update
+

@@ -1,0 +1,43 @@
+@summary
+click and drag over the text you want to paste.
+
+@summary
+ctrl + click on the highlighted text or photo.
+
+@summary
+click copy.
+
+@summary
+,go to facebook messenger
+
+@summary
+,
+
+@summary
+choose a recipient.
+
+@summary
+ctrl + click on the chat box.
+
+@summary
+click paste.
+
+@summary
+click send.
+@article
+ It will be highlighted.
+
+
+Alternatively, if you want to paste a photo in Messenger, hover over the photo with your cursor.
+ A menu of options will appear.
+
+
+If you're using a Windows computer, right-click on the content instead.
+,, You can click on an existing conversation, or click the New Message icon to start a new conversation.
+ A set of options will appear.
+
+
+If you are using a Windows computer, right-click on the chat box instead.
+ Your selected content has now been pasted into the chat box on Messenger.
+ Your pasted content has now been sent as a message to the selected recipient.
+

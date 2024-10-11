@@ -1,0 +1,14 @@
+@summary
+remove the signs from the numbers and multiply them.
+
+@summary
+the product is your answer.
+@article
+
+
+Example:-12*-3 becomes 12*3=36
+
+, The two negatives meeting means the result is positive.
+
+Example: -12*-3=36
+

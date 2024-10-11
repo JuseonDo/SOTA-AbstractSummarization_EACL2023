@@ -1,0 +1,27 @@
+@summary
+you will need to pick a moderator to be the narrator of the game.
+
+@summary
+the moderator will tell everyone playing to go to sleep (close their eyes).
+
+@summary
+next the moderator should tell the informant to "wake up" (open their eyes) and then tell them to "go to sleep" (close their eyes).
+
+@summary
+,
+
+@summary
+the moderator should repeat this process for the mafia.
+
+@article
+ Usually the best person to pick is the person with the most experience.;
+, The moderator will go around the circle of people and tap people on the head based on the role in the game the moderator thinks they should play.
+
+
+Tap on the head: Informant
+Tap on the head: Mafia
+If you didn't get tapped then you are an innocent person.
+
+Games with 6-10 people playing should have 1 informant and 1 mafia member.
+Games with 10-15 people playing should have 3 informants and 2 mafia members.
+,

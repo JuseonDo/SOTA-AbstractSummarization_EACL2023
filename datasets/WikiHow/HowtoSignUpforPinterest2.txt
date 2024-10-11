@@ -1,0 +1,36 @@
+@summary
+go to the pinterest website.
+
+@summary
+enter your email address and a preferred password.
+
+@summary
+click continue.
+
+@summary
+enter your profile information.
+
+@summary
+click sign up.
+
+@summary
+click skip for now.
+
+@summary
+click at least five topics.
+
+@summary
+click done.
+@article
+ It's located at https://www.pinterest.com., You'll do this in the "Email" and "Create a password" fields in the middle of the page.
+
+You can also click Continue as to use your Facebook information to sign up if you like.
+ It's a red button below the "Create a password" field., This will filling out the following fields:
+
+
+Full name - Enter your first and last name here.
+
+Age - Type in your current age (not your birth date).
+
+Gender - Click the button next to "Male", "Female", or "Custom". If you select a custom gender, you'll be asked to enter your preferred gender name.
+ This red button is at the bottom of the "Welcome to Pinterest" page. Doing so will create your account., It's on the left side of the mobile app page., The topics you select on this page will dictate the content you see in your feed later., Pinterest will begin building your profile based on your selected interests. You're now ready to create your first board and start pinning!

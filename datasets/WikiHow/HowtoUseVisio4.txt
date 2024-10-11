@@ -1,0 +1,17 @@
+@summary
+add text to your visio project using the following methods.
+
+@summary
+browse to the area where you want the text to be added and click your left mouse button.
+
+@summary
+adjust the font size using the relevant buttons.
+@article
+
+
+
+Go to "Format" in the top menu and select "Text."
+Select the Text Tool from the toolbar (the icon has a capital "A" inside it).
+ You will then be able to type inside the text box that appears.
+ To increase font size you have to use the button with the small arrow pointing upwards and similarly to decrease font size you should use the button with the small arrow pointing downwards.
+

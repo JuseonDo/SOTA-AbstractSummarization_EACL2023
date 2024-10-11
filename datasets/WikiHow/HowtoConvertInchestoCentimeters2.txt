@@ -1,0 +1,13 @@
+@summary
+write your length value in inches.
+
+@summary
+multiply your length value by 2.54.
+
+@summary
+label your new value as centimeters.
+@article
+ Either use the value you have been given (as part of a homework problem, etc.) or use a ruler or tape measure to measure the length you wish to convert.
+ One inch is equal to roughly 2.54 centimeters, so converting inches to centimeters means multiplying a value in inches by 2.54.
+ Don't forget to include the correct label on your new value. If you're doing schoolwork, using the wrong label can result in points deducted form your answer or even your answer being marked as wrong.
+

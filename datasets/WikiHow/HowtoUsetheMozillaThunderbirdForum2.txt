@@ -1,0 +1,17 @@
+@summary
+open forum.
+
+@summary
+register with forum.
+
+@summary
+depending on what you need, click on either the"ask a question" or "report a problem" button.
+
+@summary
+in the "details" window, provide as many details as necessary.when you are done typing, click the "post" button.
+@article
+, Make sure you enter your valid e-mail too., Then click the "Continue" button. (see image for a message example)
+
+
+Try to apply some of those you think come the closest. If none of those work for you, click on the "Finish posting my question" button. It will open a new window for you.
+ If you already took some actions to solve this problem, add them as well.,

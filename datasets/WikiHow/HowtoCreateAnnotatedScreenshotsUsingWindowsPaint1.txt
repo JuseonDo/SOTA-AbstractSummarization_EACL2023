@@ -1,0 +1,75 @@
+@summary
+take screenshot of the desired images on your monitor as described in wikihow article how to take a screenshot in microsoft windows.
+
+@summary
+,
+
+@summary
+do not use the sniping tool's pen or highlighter at all.
+
+@summary
+,
+
+@summary
+save your work in an ongoing task folder that you create.
+
+@summary
+,
+
+@summary
+right click on the image file and select "edit" from the menu.
+
+@summary
+select the color of text from the palette.
+
+@summary
+insert text.
+
+@summary
+select fonts.
+
+@summary
+use "move" cross handle to move the text box around.
+
+@summary
+decide if your text should hide part of the background image (opaque text box) or show it (transparent text box).
+
+@summary
+,
+
+@summary
+write your text.
+
+@summary
+surround the texts by shapes.
+
+@summary
+move or resize shapes to desired location and size.
+
+@summary
+,
+
+@summary
+rotate or flip shapes to point to the right directions.
+@article
+,,, Microsoft Windows Paint opens your screen shot for editing.
+ Next to it there is the drop-down menu for thickness of lines for drawing shapes.
+ At last, click on Text Tool button (shown as A) to insert text on the desired place.
+ First click on the desired point for inserting the text to open the Text Insertion Box (box means that dotted rectangle). When the text insertion rectangle opened decide for the font size, style and face.
+ Use "Resize" double head arrows to resize the text box.
+, After deciding on font, transparency and finished your typing, before you click out of the text box, You can resize the box, move it around, change fonts, color, new line feed just any like a text editor. Once you clicked out of the box the format of the box will be frozen and can't be changed. You can "undo" it if you are not happy by pressing "Ctrl + z" on your keyboard or at the top of the Paint's GUI.
+ You can use different shapes, arrows, and speech bubbles to surround your text.
+
+
+Decide for the color and thickness for your desired shapes.
+,
+
+
+Before clicking out of the shape box, right click inside the box and select desired orientation, outline and fill.
+
+
+
+
+
+
+

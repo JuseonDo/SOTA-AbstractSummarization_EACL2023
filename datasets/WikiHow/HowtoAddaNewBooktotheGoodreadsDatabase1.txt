@@ -1,0 +1,16 @@
+@summary
+visit the goodreads website in your web browser.
+
+@summary
+search the goodreads site for your book.
+
+@summary
+determine if the book is a new book that needs to be listed, or if it's a new edition of a book that's already listed.
+@article
+ Goodreads is a popular social bookmarking tool used to share the books you're currently reading with friends.
+ You can choose to search by name, author's name, ISBN (13 digit/generally starts with '978'), ISBN (10 digit-old style ISBN barcode number), as well as a slew of other items.
+ Although most often this can be determined by comparing the title with titles by the same author already on the Goodreads site, since every book is different, there are exceptions.
+
+
+Newspapers, magazines, and comics are not books. By definition, these are not books for Goodreads, and therefore MUST not be added to the database.
+

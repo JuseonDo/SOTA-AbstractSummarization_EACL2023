@@ -1,0 +1,36 @@
+@summary
+download the free software, but be prepared.
+
+@summary
+when you open the program, you will see the opening screen displayed here in the screen shot.
+
+@summary
+in this screen shot, you see the very beginning of your map.
+
+@summary
+don't restrict yourself.
+
+@summary
+connect your concept map by clicking on the arrow above what you want to connect, (in this case, the types of images), and drag that arrow to the preposition (obtain) and that one leads to a box/balloon which they all have in common (copyright).
+
+@summary
+you can make formatting changes to any part of your map.
+
+@summary
+enjoy learning about cmaptools.
+@article
+ For Windows, it is a 63 Mb download. Mac is a smaller download at 34.5 Mb, Linux is slightly bigger at 71.6 Mb.
+
+
+The software was originally intended for educational institutions, but is free to everyone.;
+, To get started, just double click in the center of the screen.
+ The bubble with the arrows is the currently active concept. Clicking on the arrow and dragging away from the central idea, will create one of your 'hopefully' trains of thoughts.
+ Let your thoughts (and others) go where they may. Most good ideas are not necessarily where, or what, you expect. CmapTools can allow you to show, in a graphical way, the direction of thoughts.
+
+
+
+For the most part, it is 'noun', 'verb', 'noun'. For photographs, obtain the copyright/license, if needed. (In this example, anyway)
+
+, If you want to change more than one part of it to look the same, as in bolding all of the prepositions, hold down the CTRL key while selecting the ones you want to bold.
+ This free software makes it fun and constructive to make concept maps, basic flow charts, and many other things.
+

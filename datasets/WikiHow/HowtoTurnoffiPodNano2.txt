@@ -1,0 +1,9 @@
+@summary
+move the hold button to the left.
+
+@summary
+press the sleep/wake button again.
+@article
+ This will allow you to press the Sleep/Wake button again.
+ This will turn on your iPod nano again. If you do this within five minutes of turning it off, it will remember your iPod playlist.
+

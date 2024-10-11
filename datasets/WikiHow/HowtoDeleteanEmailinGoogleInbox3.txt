@@ -1,0 +1,9 @@
+@summary
+select all the emails you want to delete.
+
+@summary
+hit the trash can that appears at the top of the menu.
+@article
+ To do this, click the circle next to each email; it either contains the sender's picture, an icon, or a letter for their name. You can select more than one at once.
+ Inbox will move them to your Trash folder for you.
+

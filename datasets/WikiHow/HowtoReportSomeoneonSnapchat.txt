@@ -1,0 +1,58 @@
+@summary
+go to https://www.snapchat.com in a mobile web browser.
+
+@summary
+scroll down and tap community.
+
+@summary
+tap safety center.
+
+@summary
+,
+
+@summary
+tap report a safety concern.
+
+@summary
+,
+
+@summary
+select report a safety concern.
+
+@summary
+,
+
+@summary
+select a snapchat account.
+
+@summary
+select the best fitting reason.
+
+@summary
+tap yes under “still need help?” this brings up a form that lets enter additional information about the problematic account.
+
+@summary
+,
+
+@summary
+fill out the form.
+
+@summary
+check the box next to i’m not a robot.
+
+@summary
+,
+
+@summary
+tap send.
+@article
+ You can use any web browser, such as Chrome or Safari, to access Snapchat’s website.
+
+
+If you’re on a computer, navigate to https://support.snapchat.com/en-US/i-need-help, then skip to step 4.;
+, The menu will expand.
+,,, A list of reasons will appear.
+ The subsequent options will vary depending on the reason you choose. In most cases, Snapchat will recommend that you block the offending account.
+, Provide your name and contact information, username of the account you’re reporting, and additional details as requested.
+, Your report will be delivered to Snapchat’s safety center. If the account is found to violate Snapchat’s community standards, they’ll take action.
+

@@ -1,0 +1,33 @@
+@summary
+open your iphone's settings.
+
+@summary
+tap general.
+
+@summary
+scroll to the fifth section of options and tap restrictions.
+
+@summary
+,
+
+@summary
+type in your restrictions passcode.
+
+@summary
+,
+
+@summary
+scroll to the sixth section of menu options called "game center.",
+
+@summary
+slide the "screen recording" button to the "on" position.
+@article
+ It's an icon with gray cogs on it that's typically found on one of your home screens, or inside a folder called "Utilities.";
+, It's the icon with the white cog at the top of the third section of menu options.
+,,
+
+, Doing so enables you to capture gameplay for certain gaming apps that support that feature.
+
+
+When the button is in the "on" position, it shows up green.
+

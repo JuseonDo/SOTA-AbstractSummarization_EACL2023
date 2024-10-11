@@ -1,0 +1,36 @@
+@summary
+get the claw.
+
+@summary
+get in position.
+
+@summary
+view the inscriptions at the rear of the claw.
+
+@summary
+notice the inscriptions are from top to bottom:
+
+@summary
+boar.
+
+@summary
+keep on activating the rings on door, until the required inscriptions appear at their respective places.
+
+@summary
+activate the keyhole and the door opens.
+@article
+ To solve the puzzle, you're going to have to use the Golden Claw to open the door. You obtain the claw by killing the man you freed from the webs earlier. If you don't kill him yourself, he'll get himself killed letting you loot his body.;
+, Stand in front of the door and view the claw using the items menu under "Misc".
+ Do so by rotating it using your mouse on a PC, or your analog sticks on consoles.
+
+Butterfly
+Owl
+
+, They should appear like this:
+
+
+Boar = outer ring.
+Butterfly = middle ring.
+Owl = inner ring.
+ Congratulations on solving the puzzle!
+

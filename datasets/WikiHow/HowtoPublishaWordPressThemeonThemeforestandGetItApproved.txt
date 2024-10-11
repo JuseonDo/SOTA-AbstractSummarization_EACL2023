@@ -1,0 +1,128 @@
+@summary
+go to the upload panel
+
+@summary
+go to your profile page by clicking on your name at the top right hand side and then upload at the options that appear
+
+@summary
+select wordpress from the category and click next.
+
+@summary
+enter a name
+
+@summary
+make it descriptive.
+
+@summary
+enter the description
+
+@summary
+click on the description box.
+
+@summary
+upload a 80x80px thumbnail in either png or jpg
+
+@summary
+this is the small thumbnail that your theme shall appear when users search for your theme.
+
+@summary
+upload theme preview
+
+@summary
+to upload a theme preview make a 590x300 jpg file of the preview of the theme preview which shall appear as the large image at the top when people visit your theme.
+
+@summary
+upload main files
+
+@summary
+upload a zipped version of all theme files for a buyer in the main files.
+
+@summary
+select a category where your wordpress theme shall appear.
+
+@summary
+select yes or no in high resolution and widget ready options
+
+@summary
+to raise your chances of getting approved if your theme is not widget ready make it widget ready.
+
+@summary
+,
+
+@summary
+select from the compatible browser, compatible with, framework ,software version, themeforest files included options.
+
+@summary
+select number of columns that your theme uses in number of columns option and the layout options
+
+@summary
+it is highly recommended to make your theme responsive.
+
+@summary
+,
+
+@summary
+add a demo url
+
+@summary
+if you have not got one yet register a domain or a sub domain.both shall work.
+
+@summary
+,
+
+@summary
+add up to 15 tags to your theme
+
+@summary
+they should be short words describing about your theme separated by commas such as: e.g.
+
+@summary
+add a comment to the reviewer however it is not necessary, do as you deem appropriate.
+
+@summary
+,
+
+@summary
+click on the upload button.
+
+@summary
+navigate to author dashboard a slider would tell you about the progress of your theme through the approval process
+
+@summary
+make sure to receive an email, usually within a day or two about the approval of your theme.
+
+@article
+;
+, E.g "MyTheme", "A Responsive WordPress theme". Keep in mind good practices as such:
+“This is the File Name” – Capitalize the first letter in each word. Small words like “of” and “an” may be lowercase.
+“Template with CMS” – Capitalize acronyms and abbreviations like XML and PSD.
+“WordPress Template” – Do follow the industry standard even if it doesn’t follow the normal capitalization rules. For example, use jQuery and WordPress instead of jQuery and Wordpress.
+ Write down a detailed description about your products.This shall appear in the description area of your theme's showcase on theme forest once approved You should add images especially for a WordPress theme for your product to stand out.
+Use this tool to setup your description: Envatitor
+
+
+, Keep it simple.
+ Make it the best you can because it shall serve as the first impression of your theme. Write down some features on the image and show a preview of your your product inside a mockup.
+Lets say you named your preview named as Home Page.You should name the theme preview file as such: One file named "Home Page.jpg" and another "01_Home Page.jpg". Now the 01 stands as the first screenshot and would appear as the first screenshot in the screenshot section of your theme showcase on theme forest and it shall also serve as the large image at the top once your product is approved.
+For a second screenshot that lets say you named About US.You should name it as such: One file named "02_About US.jpg". Now the 02 stands as the second screenshot and would only appear as the second screenshot in the screenshot section of your theme.The second screenshot can be of any size below 900px in width and height.
+Upload the Theme Preview files by zipping single folder
+
+, However do not include the Theme Preview.
+Include a well documented help file inside your Main Files zip folder and You may also include any demo content.
+Make sure that your theme is using the default jQuery of WordPress.
+
+
+
+Selecting a subcategory inside the category options is a good approach so you should do it.
+,
+
+
+If you have got support for more than a single platform hold down the Command key (On Mac) or the Control key (On Windows).
+Though it is not recommended you may select the N/A option.
+,, photography, gallery, . These shall be used in the theme search i.e when a user searches for your theme so think well over the tags.
+,
+
+
+That's it. Stay on the website If there were any errors the website shall notify you and you can correct them.
+
+Ensure to receive a prompt once the theme has been properly uploaded.

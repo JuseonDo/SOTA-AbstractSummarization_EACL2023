@@ -1,0 +1,70 @@
+@summary
+open instagram.
+
+@summary
+make your post.
+
+@summary
+open the notes app.
+
+@summary
+type .
+
+@summary
+repeat the last step 4 more times.
+
+@summary
+type your hashtags.
+
+@summary
+tap and hold the screen beneath the hashtags.
+
+@summary
+tap select all.
+
+@summary
+,
+
+@summary
+tap copy.
+
+@summary
+,
+
+@summary
+open instagram.
+
+@summary
+tap comment beneath your post.
+
+@summary
+,
+
+@summary
+tap and hold the text box until the black menu appears.
+
+@summary
+,
+
+@summary
+select paste.
+
+@summary
+,
+
+@summary
+tap the send key to post your comment.
+@article
+ It’s the red, purple, and orange camera icon typically found on your home screen.;
+, Add your photo or video to Instagram without adding hashtags (you’ll add them later in a comment).
+
+
+See How to Post on Instagram for tips on sharing your photo or video.
+ This app, typically found on the home screen, has an icon that looks like a notepad.
+ (a period) and tap ↵ Enter.
+ You will then have several dots along the left side of the screen. These dots create white space that will hide your hashtags.
+ Be sure to put a space after each hashtag.
+ A black menu will appear.
+,, Now you’ll add your hashtags to the post you created.
+,,, Your hashtags are now added to the post, but hidden by the dot pattern you created in the Notes app.
+

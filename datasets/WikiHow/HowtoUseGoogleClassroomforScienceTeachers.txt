@@ -1,0 +1,51 @@
+@summary
+on the google classroom site, select more, and click classroom.
+
+@summary
+,scroll down to the bottom and click teacher.click the + in the upper right hand corner to add a class.
+
+@summary
+type in the class name (section is optional).
+
+@summary
+click assignment and fill out the information.
+
+@summary
+focus your lesson on a lab that students have completed.have students open a “google sheet”.
+
+@summary
+have students title their independent and dependent variables, starting at row 1.
+
+@summary
+have students highlight all their data (this should just be numbers, no text).
+
+@summary
+have students format their graphs.
+
+@summary
+creating a trendline (line of best fit):  under the customize tab find the “trendline” button near the bottom.
+@article
+,,,  Then click Create.  This is the code you must provide to your students.,  You can attach documents (as a file, as a link, or via your Google Drive).  When you click assign, choose Copy for each student.
+
+Create a different Google Classroom for each class period. Write down the different class codes to give to your students. Students need to type in the class code, so provide them with it.
+ Choose a lab where an independent and dependent variable can easily be measured, and where you can get several data points.,,
+
+Students should place their independent variable data in “Column A” underneath the title.
+Then students place their dependent variable data in “Column B” underneath the title.
+If students have completed a data table in their GoogleDoc, they can just copy and paste their data into Google Sheets.
+ While data is highlighted:
+
+Click the “Insert” tab
+Click the “Chart” option
+Again click “Chart” tab (middle tab) and pick the “Scatter Plot” option
+Finally click the “Insert” button to create the graph
+
+, Right click the graph and the following should appear:
+
+Chart Option: Students can format chart title as well as the aesthetics of the graph
+Axis Option: Allows manipulation of axis’ min/max values as well labeling of x and y axis
+Series Option: Here students can create a best fit line for their data.
+  You can choose between 3 different functions.
+
+To add the equation for a trendline, click on the “Label” dropdown menu and select “Use Equation.” Make sure that the legend (found under chart title) is not set on “none.”
+

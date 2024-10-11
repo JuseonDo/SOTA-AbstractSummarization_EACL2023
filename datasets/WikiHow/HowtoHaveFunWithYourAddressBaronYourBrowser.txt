@@ -1,0 +1,28 @@
+@summary
+copy the code for the trick you want to use from this article.
+
+@summary
+paste the code in a text editor like notepad or notepad++.
+
+@summary
+delete the extra line breaks from the text you just pasted.
+
+@summary
+copy the single line of code you created in the previous step.
+
+@summary
+,
+
+@summary
+paste the code of the trick you want to use in the address bar of your browser.
+
+@summary
+use the "back" and "forward" buttons of your browser to go back to the page you were visiting before.
+@article
+ Tricks' Codes are listed within the "Tricks' Codes" section below. The codes for the tricks will be listed within the code box for each trick.;
+, Do this if the code for a trick is more than one line of code.
+ The code listed bellow uses line breaks for clarity. The address bar however accepts only single lines, so you'll need to make the trick's code fit in one line.
+, The address bar is where you enter and/or see the URL of the website you're visiting (for this article, it will contain (https://www.wikihow.com/Have-Fun-With-Your-Address-Bar-on-Your-Browser)
+
+, You can also use the back and forward tricks mentioned here to do that.
+

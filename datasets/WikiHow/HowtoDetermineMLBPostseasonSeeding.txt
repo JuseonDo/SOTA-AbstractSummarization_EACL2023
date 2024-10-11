@@ -1,0 +1,63 @@
+@summary
+allow all of the 30 teams to play all their games.
+
+@summary
+understand that the teams with the best record in each division are then recorded.
+
+@summary
+,
+
+@summary
+select a division winner.
+
+@summary
+determine the two wild card teams from each league.
+
+@summary
+understand that these two teams play only one game; it is at the home of the team with the slightly-better record.
+
+@summary
+,
+
+@summary
+determine the wild card team for the league.
+
+@summary
+realize that the winner of the wild card playoff game will face the team that has the best record in that league.
+
+@summary
+,
+
+@summary
+understand that the other two division winners also play each other in this round.
+
+@summary
+,
+
+@summary
+understand that the division series requires a minimum of three games.
+
+@summary
+determine the two teams from the last series, who won their respective series.
+
+@summary
+understand that the championship series requires a minimum of four games.
+
+@summary
+understand that the championship series winners from each league play each other..
+
+@summary
+,
+
+@summary
+understand that the world series requires a minimum of four games.
+@article
+ Keep track of their wins and losses in the standings. Remember: a win for one team, is a loss for another. There are no games that will ever end in a tie for professional baseball. However, though unlikely, if two teams in the same division end up tied with identical win/loss records at the end of the 162 game season, one extra game is played to determine the division winner.;
+,, There are three divisions in each league (East, Central and West). The teams with the best record in each division earn the right to use the top playoff spot.
+ These are the two teams from both the American and National League, other than the division winners, with the best records in their league. These teams are "runners-up".
+, The team who wins at the end of this game, is deemed to be the Wild card team for the league.
+,, 'The first team that racks up three games in the series, advances to the next round. Eventually, by the end of a maximum of 5 games, one of those teams will have 3 wins in the series, and advance to the League Championship Series.
+ These two teams play each other in the championship series for their respective league.
+ 'The first team that racks up four games in the series, advances to the next round. Eventually, by the end of a maximum of 7 games, one of those teams will have the required 4 wins in the series and advance to the World Series.
+, 'The first team that racks up three games in the series, advances to the next round. Eventually, by the end of a maximum of 7 games, one of those teams will have 4 wins in the series, and will be able to be declared the World Series trophy winner.
+

@@ -1,0 +1,31 @@
+@summary
+click “camera roll”.
+
+@summary
+,
+
+@summary
+tap and hold down on an image.
+
+@summary
+select the images you want to make private.
+
+@summary
+,
+
+@summary
+tap on the lock icon.
+
+@summary
+select who may view your content.
+@article
+, This will allow you to select multiple images.
+, This will open the privacy settings.
+ You may choose one of the following options:
+
+
+Public: Anyone can access your content.
+Friends & Family: The contacts you’ve designated as friends and family may access your content.
+Friends: Only the contacts you’ve identified as friends may view your content.
+Family: Only the contacts you’ve identified as family may view your content.
+Private: Only you may view your content.

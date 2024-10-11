@@ -1,0 +1,17 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll down and tap messenger.
+
+@summary
+tap location.
+
+@summary
+tap never.
+@article
+ It's the grey gear icon on the Home Screen.;
+, Messenger is the white bolt of lightning on a blue background. You'll find it toward the bottom of the Settings page.
+ It's at the top of the Messenger page.
+ Your Messenger app will no longer use your location, and you won't be able to send your location to people you're messaging.
+

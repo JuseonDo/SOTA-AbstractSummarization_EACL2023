@@ -1,0 +1,5 @@
+@summary
+gather the ingredients and eggs together.
+@article
+ Having all elements close at hand will make this process a lot easier.
+

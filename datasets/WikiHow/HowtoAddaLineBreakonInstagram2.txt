@@ -1,0 +1,16 @@
+@summary
+open instagram.
+
+@summary
+log in.navigate to the post with the caption you want to edit.
+
+@summary
+tap ⁝ at the top-right corner of the post.tap edit.
+
+@summary
+tap the caption where you want to add a line break.
+
+@summary
+tap the return button.
+@article
+ It’s the multicolored camera icon on your home screen (iPhone/iPad) or in the app drawer (Android)., If prompted, enter your Instagram account information and tap Log In.,, A menu will appear.,, Your keyboard will appear., It’s the button with an arrow at the bottom right corner of the keyboard. This adds a line break to your caption.

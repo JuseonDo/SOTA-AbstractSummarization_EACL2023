@@ -1,0 +1,19 @@
+@summary
+go to the imo website to sign in using one of the supported, integrated messaging services.
+
+@summary
+click a contact from your “imo contacts” list to start a new chat.
+
+@summary
+enter text for your instant message into the text input field attached to the newly opened conversation.
+
+@summary
+,
+
+@summary
+click the “send” button next to the text input field to send your im.
+@article
+ Imo.im currently only allows you to sign in using a username and password associated with one of several supported third-party services. Learn how to sign in to imo.im. If you don’t already have an account with one of the supported services, learn how to register for the imo service.;
+, This will automatically open a new conversation in the middle of your screen.
+, Alternatively, you can press the “enter” button on your keyboard to send the IM.
+

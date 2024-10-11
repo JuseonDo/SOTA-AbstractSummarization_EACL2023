@@ -1,0 +1,22 @@
+@summary
+locate the file or application for which you want to create the shortcut.
+
+@summary
+,
+
+@summary
+right click on that particular file or application for which you want to create the shortcut.
+
+@summary
+look for a dialog box.
+
+@summary
+drag the shortcut to the desktop.
+@article
+, Make sure to select the file before right-clicking.
+ From there, choose the "'Create Shortcut'" option.
+
+
+The shortcut is now at the end of the Programs list. For example, if you created a shortcut to Microsoft Word, the program will be present at the end of the list.
+ You can now easily access your application with just a click.
+

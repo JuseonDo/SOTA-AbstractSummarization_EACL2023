@@ -1,0 +1,21 @@
+@summary
+open the file you wish to save.
+
+@summary
+,
+
+@summary
+go to file > print.
+
+@summary
+,
+
+@summary
+click the dropdown list of installed printers and select pdf.
+
+@summary
+click ok.
+@article
+,, Newer versions of Microsoft Word have this option; if it does not appear on your version, try one of the methods below.
+ This will convert your document and open it in Adobe Reader (if you have it installed).
+

@@ -1,0 +1,27 @@
+@summary
+open the desired image.
+
+@summary
+select filter>stylize>find edges.
+
+@summary
+,
+
+@summary
+invert it.
+
+@summary
+adjust the color level of the image to make the edges more sharp.
+
+@summary
+create new layer.
+
+@summary
+finished.
+
+@article
+ Select Image>Adjustment>Black&White.;
+,, Do so by going to Image>Adjustment>Invert
+
+, Go to Image>Adjustment>Curve. Adjust it until it is a black and white image.
+ Fill it with the desired shade of blue. Select Linear Dodge.

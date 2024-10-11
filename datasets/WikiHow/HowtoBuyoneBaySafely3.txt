@@ -1,0 +1,13 @@
+@summary
+look at the seller's rating (under the seller's username).
+
+@summary
+click on the seller's id number (next to the seller's username).
+
+@summary
+browse through other items that the seller is selling.
+@article
+ The seller should have a high positive feedback rating (preferably at least 90 percent). It is safest to purchase from top-rated sellers (with a "Top-rated seller" badge next to their name).
+ This will take you to the seller's feedback profile where you can see detailed feedback ratings and comments made about the seller.
+ Don't buy from the seller if you see suspicious activity, such as valuable items being sold at very low prices.
+

@@ -1,0 +1,4 @@
+@summary
+resize the browser to make it small before plugging in the projector.
+@article
+ This is because the resolution may change when plugging in the projector, making it difficult to resize the window.;

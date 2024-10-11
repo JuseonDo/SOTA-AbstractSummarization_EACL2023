@@ -1,0 +1,21 @@
+@summary
+download the ubuntu 11.04 iso from the ubuntu website (ubuntu.com).
+
+@summary
+write the iso image to a dvd using an iso burner.
+
+@summary
+shut off your computer, and start it up again.
+
+@summary
+now, you should see a menu that installs ubuntu.
+
+@summary
+wait for it to install, then restart your computer.
+@article
+;
+, Search for one on Google if you don't have one.
+ Go to the startup menu and select what you want to boot from. Select to boot from the DVD you made containing Ubuntu.
+ Follow the steps, and select the Windows disk that you'd like to install to. This will make Ubuntu 11.04 your primary OS.
+ Congratulations! Ubuntu 11.04 is now your one primary operating system!
+

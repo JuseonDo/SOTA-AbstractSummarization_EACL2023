@@ -1,0 +1,23 @@
+@summary
+take a look at your modem, that's the box that was provided by your internet provider, there are usually 4 lights on that box.
+
+@summary
+if any of those lights are not in the "usual" pattern of on and flashing, remove the power plug from the back of the modem and wait about 45 to 60 seconds then plug it back in.
+
+@summary
+,
+
+@summary
+now wait about 30 seconds, if you still get the same lights, call your internet support department.
+
+@summary
+if you are using a router, either wireless or wired, remove the power from the router for about 30 seconds then plug it back in.
+
+@summary
+restart your computer.
+@article
+ Two of them are on solid (generally power and Ethernet/USB), two are flashing(usually us and DS, which stand for upstream and downstream). This indicates that the modem is getting a signal from your provider, it may not be a good signal, but it is a signal.;
+,, Do you see an amber-yellow color light? That is most likely your standby light, that generally means that you pressed the on/off or 'standby' button and you need to press it again.
+ Check to see if your online, if not remove the Ethernet cable from the modem and plug your computer directly into the modem with the Ethernet cable from the router, or use a cable to directly connect the computer to the modem.
+ Then check to see if you can get online. If not, then call your internet service provider and be prepared to have to do many of these steps all over again. Most, if not all, technicians have software that they can use to gather information from the modem. And they need to establish a baseline signal level to see if the modem is getting good signal to determine if a field technician is required.
+

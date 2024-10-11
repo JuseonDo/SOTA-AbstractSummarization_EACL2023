@@ -1,0 +1,21 @@
+@summary
+tap on the words with friends logo.
+
+@summary
+choose on the "face to face" option.
+
+@summary
+,
+
+@summary
+tap on "word check.
+
+@summary
+,
+
+@summary
+input the word you'd like to confirm, then tap "check."
+@article
+ Find this In the main menu, located on the upper-left side of the screen. A context menu with new options will pop up.;
+,,, If the word is valid, the phrase "Valid word!" and a check mark will appear in white letters. If invalid, a new window will pop up informing you that it is not a valid word. Just click okay.
+

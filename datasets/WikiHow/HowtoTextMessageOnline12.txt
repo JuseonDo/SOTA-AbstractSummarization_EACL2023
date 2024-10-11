@@ -1,0 +1,9 @@
+@summary
+options below.
+@article
+
+
+
+Globalstar (satellite) number@msg.globalstarusa.com
+Iridium (satellite) number@msg.iridium.com
+

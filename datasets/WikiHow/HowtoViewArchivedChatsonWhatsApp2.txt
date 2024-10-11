@@ -1,0 +1,27 @@
+@summary
+open whatsapp.
+
+@summary
+tap chats.
+
+@summary
+scroll down to the bottom of your chat inbox.
+
+@summary
+tap archived conversations.
+
+@summary
+tap on the chat you want to view.
+@article
+ It’s an app with a telephone receiver inside of a green speech bubble.
+ This tab is near the top of the screen.
+
+
+If WhatsApp opens to a conversation, first tap the "Back" button in the top-left corner of the screen.
+ You should see Archived Conversations (number) appear.
+
+
+If you don't see this option, you don't have any archived chats.
+ This will display all of your archived conversations.
+ Doing so will open the conversation, allowing you to scroll through it.
+

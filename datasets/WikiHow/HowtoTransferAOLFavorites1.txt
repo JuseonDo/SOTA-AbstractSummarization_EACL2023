@@ -1,0 +1,38 @@
+@summary
+open the aol favorites page in your web browser.
+
+@summary
+download the favorites plugin.
+
+@summary
+click the aol favorites button after the plugin installed.
+
+@summary
+,
+
+@summary
+click "sign in" and enter in your aol login information.
+
+@summary
+,
+
+@summary
+click the gear button in the favorites plugin menu.
+
+@summary
+,
+
+@summary
+click the "export" button to export all of your favorites to your browser.
+
+@summary
+uninstall the plug (optional).
+@article
+ The plugin can be installed in Chrome, Firefox, or Safari. If you use Internet Explorer or another browser, you can either transfer your favorites manually one-by-one, or download one of the supported browsers and then export the bookmarks to your preferred browser.
+
+
+You can open the Favorites page directly at aol.com/favorites/.;
+, Click the "Download Now" button to install it from your browser's plugin explorer.
+,,, Your favorites will become bookmarks in your browser.
+ After exporting your Favorites, you can uninstall the plugin if you won't be using it anymore. Click here for details on uninstalling extensions.
+

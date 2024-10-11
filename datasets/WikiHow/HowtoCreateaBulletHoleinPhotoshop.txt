@@ -1,0 +1,49 @@
+@summary
+in adobe photoshop, open a new document of the dimensions 800x800 px, with a resolution of 72 pixels per inch.
+
+@summary
+press "d" to restore the default colors to black and white.
+
+@summary
+create a new layer again, and draw a circle in the center using the elliptical marquee tool (press "m"), while holding down "shift".
+
+@summary
+with the same layer selected, press ctrl+j to duplicate the layer, or right click on the layer in the layers palette, and select "duplicate layer" then, press ctrl+i to invert the layer, and use the move tool ("v") to enlarge it slightly.
+
+@summary
+now, select the clouds layer and use the polygonal lasso tool to draw a spikey, star-like shape around the hole.
+
+@summary
+with the clouds layer still selected, invert the selection (select-->inverse or ctrl+shift+i) press backspace to delete the selection, and then deselect with ctrl+d to leave something like this:
+
+@summary
+,
+
+@summary
+apply filter-->sketch-->chrome with 0 for detail and 2 for smoothness.
+
+@summary
+now add a shadow.
+
+@summary
+the last step is to play with the shadow layer settings.
+
+@summary
+now all you have to do is drop it into an image that needs a bullet hole or two.
+@article
+(The size doesn't particularly matter, but if you do something different you will have to adjust the numbers that are posted here.);
+, Then create a new layer (shift+ctrl+n). Select Filter-->Render-->Clouds. Your image should look like this:
+
+, Now feather the selection by 20 pixels (Select-->Feather..., 20) Fill this selection with black using the paint bucket tool (press "K")
+
+, Lastly, go over the the layers palette and move this layer down below the black version. At this point, make sure the white circle is centered. It will look like this: Your layers Palette should look like this:
+
+, It might look something like this:
+
+,, At this point you can expand the hole to fill the metal part. Simply select the black circle (layer 2) and use ctrl+e to merge the black and white circles together. Then you can use the move tool ("V") to change the size. Your bullet hole is coming together now, and will look something like this:
+
+, 'Ctrl+click on Layer 1, to make a selection of that layer. Make a new layer, and fill the selection with black. Move the layer below layer 1, and offset it a little bit, to look like this:
+
+, Go to filter-->blur-->Gaussian blur and play with the settings there. The higher the number, the blurrier, and the farther away the shadow will look. The same works with opacity, but the numbers go down. In this example, a value of 6.7 pixels was used for the blur, and the opacity was set to 23 percent.
+ Here's an example:
+

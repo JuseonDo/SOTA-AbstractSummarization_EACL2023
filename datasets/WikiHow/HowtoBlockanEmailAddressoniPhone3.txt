@@ -1,0 +1,24 @@
+@summary
+log into the yahoo!,
+
+@summary
+click the gear button in the upper-right corner.
+
+@summary
+select "settings" from the menu.
+
+@summary
+select the "banned addresses" option.
+
+@summary
+enter the email address you want to block into the "add an address" field.
+
+@summary
+click the "ban" button.
+@article
+ Mail website on a computer. You can't block email messages directly from your iPhone. If you have a Yahoo! email address loaded in your Mail app, you'll need to handle blocking from the Yahoo! Mail website. Log in at mail.yahoo.com.
+ A small menu will appear.
+ This will open a new window.
+ This will let you block email addresses, up to 500.
+ You can enter any email address into this field.
+ You will no longer receive messages from this address. Repeat this process for any additional email addresses that you want to ban.

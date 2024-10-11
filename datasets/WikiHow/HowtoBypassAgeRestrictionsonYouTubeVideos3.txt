@@ -1,0 +1,32 @@
+@summary
+type in the name of the video.
+
+@summary
+hit ↵ enter, or click on the magnifying glass to search.
+
+@summary
+,
+
+@summary
+click on the video's link.
+
+@summary
+click on the video's url.
+
+@summary
+type .repeat after youtube in the address bar.
+
+@summary
+load the video.
+@article
+ Use the search bar at the top of the YouTube site.
+, Your video will load, and you will see the "Content Warning" screen asking you to log in.
+ Clicking on the URL in the address bar will highlight it.
+
+
+
+For example https://www.youtube.com/watch?v=MLUvOtqTmYM would become http://www.youtuberepeat.com/watch?v=MLUvOtqTmYM
+
+
+, Press ↵ Enter to open the video on the redirect site. You will be able to watch the video without having to be logged in.
+

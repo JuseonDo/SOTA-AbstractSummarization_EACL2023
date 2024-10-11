@@ -1,0 +1,26 @@
+@summary
+visit the cell phone sleuth website.
+
+@summary
+select which plan that works for you.
+
+@summary
+download their .apk installer to your phone.
+
+@summary
+,
+
+@summary
+open the downloaded file.
+
+@summary
+login with the credentials you established at signup.
+
+@summary
+log in to the cell phone sleuth website to view results.
+
+@article
+;
+, Do not choose a plan that has unnecessary features. Most applications of the software will only be for a short period of time so consider their Pay-As-You go option.
+, Do this by pulling down your status bar and selecting it, or using ES File Explorer to browse to the download folder and open it in ES File Explorer for Android.
+ Your phone will display that it is linked to your account.

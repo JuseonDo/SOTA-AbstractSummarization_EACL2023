@@ -1,0 +1,56 @@
+@summary
+list the movie's title in italics followed by a period.
+
+@summary
+add the name of the director, prefaced by "dir.",
+
+@summary
+add the name of the studio or distributor followed by a comma, the year of publication, and a period.
+
+@summary
+add the name of the sponsoring site followed by a period.
+
+@summary
+add “web.”
+
+@summary
+jacob’s ladder.
+
+@summary
+add the day, month, and year of access with no commas and followed by a period.
+
+@summary
+if necessary, add the <url> followed by a period.
+@article
+
+
+
+Jacob’s Ladder.
+ and followed by a period.
+
+
+
+Jacob’s Ladder. Dir. Adrian Lyne.
+
+
+
+
+Jacob’s Ladder. Dir. Adrian Lyne. TriStar Pictures, 1990.
+
+
+
+
+Jacob’s Ladder. Dir. Adrian Lyne. TriStar Pictures, 1990. Netflix.
+ Dir. Adrian Lyne. TriStar Pictures, 1990. Netflix. Web.
+
+
+
+
+Jacob’s Ladder. Dir. Adrian Lyne. TriStar Pictures, 1990. Netflix. Web. 19 March 2012.
+ This is necessary if the site is obscure or if stipulated by your professor.
+
+
+
+Jacob’s Ladder. Dir. Adrian Lyne. TriStar Pictures, 1990. Netflix. Web. 19 March 2012. <http://movies.netflix.com/andsoforth>.
+
+

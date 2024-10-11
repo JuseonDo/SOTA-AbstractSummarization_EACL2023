@@ -1,0 +1,15 @@
+@summary
+choose "all of the above" only if you know that multiple options are correct.
+
+@summary
+,
+
+@summary
+check the stem.
+
+@summary
+select "b" or "c" when in doubt.
+@article
+, If the question ends with "a" or "an," then the first word of the correct answer may match the given article.
+ Instructors often hide the correct answers in the middle of the options.
+

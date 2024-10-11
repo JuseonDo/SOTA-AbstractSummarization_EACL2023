@@ -1,0 +1,18 @@
+@summary
+launch the start menu.
+
+@summary
+type check for updates and hit ↵ enter.
+
+@summary
+,
+
+@summary
+click or tap check for updates to begin.
+@article
+ Press the Windows icon that is present at the lower-right corner of your screen.;
+,,
+
+
+If there is an update available, it will start installing. If there are no updates, it will say that your PC is up to date.
+

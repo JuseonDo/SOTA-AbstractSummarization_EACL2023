@@ -1,0 +1,17 @@
+@summary
+go to twitter.com and the profile of the account you want to get a followers total for.
+
+@summary
+look for the box in the upper right hand corner.
+
+@summary
+record those numbers as you will need them for other metrics described later in the article.
+@article
+;
+, It should say Name, Location, Web, and Bio. Below this, you should see the number of followers and the number of people the person is following.
+
+
+
+As metric data, the general thinking is that for a company, the more followers the better. The ideal number for a company would to have over 2,000 followers. It shows interest in the general public of the company. A large number of followers also tends to demonstrate a degree of consumer awareness.
+If there is a huge difference between followers and following where the following far exceeds followers, then this metric generally indicates that the account belongs to a spammer.
+

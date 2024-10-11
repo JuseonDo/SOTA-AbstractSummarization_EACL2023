@@ -1,0 +1,28 @@
+@summary
+go to https://www.facebook.com in a web browser.
+
+@summary
+sign in to facebook.
+
+@summary
+select a group.
+
+@summary
+click ⋯.click edit group settings.
+
+@summary
+click change privacy settings.
+
+@summary
+select public.
+
+@summary
+click confirm.
+
+@summary
+click confirm again.
+@article
+, If you’re at the log in screen, enter your account name and password into the boxes at the top of the screen and click Log In., You’ll see it in the “Shortcuts” section of the left sidebar.
+
+Only group admins can change the group’s privacy settings.
+ It’s at the bottom right corner of the group’s cover photo.,, It’s under the “Privacy” header. A pop-up window will appear., It’s the first option in the list., It’s the blue button at the bottom right corner of the pop-up window., This confirms that the group’s content will be publicly available to anyone on Facebook.

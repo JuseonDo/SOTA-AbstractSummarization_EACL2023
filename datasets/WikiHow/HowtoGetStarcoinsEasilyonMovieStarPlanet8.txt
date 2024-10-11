@@ -1,0 +1,25 @@
+@summary
+click the "friends" button at the top of the screen.
+
+@summary
+click the "invite friends and get starcoins" button.
+
+@summary
+enter your friend's email address.
+
+@summary
+help your friend get to level 6.
+
+@summary
+claim your reward.
+
+@summary
+invite as many friends as possible.
+@article
+ This will open the Friends menu.
+ A new window will appear, allowing you to enter an email address.
+ This will send them an invite to try out the game.
+ Walk your friend through the opening stages of the game and help increase their fame until they reach Level 6.
+ When your friend reaches Level 6, you'll get a notification and be able to claim your 200 StarCoin reward.
+ Send out invites to everyone that you think might be interested, but don't bug them with too many invites.
+

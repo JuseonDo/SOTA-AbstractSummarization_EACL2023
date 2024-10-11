@@ -1,0 +1,134 @@
+@summary
+buy some standard aluminum alloy metal parts.
+
+@summary
+buy a thick plastic tub to submerge your metal.
+
+@summary
+find some clothing dye at a local grocery store.
+
+@summary
+purchase degreaser product , 2 long lead cathodes and a roll of aluminum wire at a hardware store.
+
+@summary
+,
+
+@summary
+purchase large amounts of distilled water, baking soda and rubber gloves.
+
+@summary
+,
+
+@summary
+find places to purchase several gallons of sulfuric acid (battery acid), lye and a constant power supply of at least 20 volts.
+
+@summary
+wash your metal with soap and water.
+
+@summary
+,
+
+@summary
+apply a degreaser with a cloth to remove any additional oil from the product.
+
+@summary
+,
+
+@summary
+mix 3 tbsp.
+
+@summary
+place your plastic tub in an area that is well ventilated and away from things that could be harmed during this process.
+
+@summary
+set up your power supply.
+
+@summary
+tie 1 end of the long aluminum wire to the aluminum part.
+
+@summary
+wrap the wire around a thin piece of wood that is wider than your plastic tub.
+
+@summary
+set a lead cathode on each side of your tank.
+
+@summary
+pour 1 part distilled water to 1 part battery acid into your large plastic tub.
+
+@summary
+connect the aluminum wire that leads from your aluminum part to the positive charge supply.
+
+@summary
+check to make sure there aren’t any spills, the power is safely connected and your skin is completely covered.
+
+@summary
+,
+
+@summary
+turn the power source on.
+
+@summary
+keep the power supply constant for 45 minutes.
+
+@summary
+mix a colored dye during the anodizing process.
+
+@summary
+turn off the power supply.
+
+@summary
+place the aluminum part in the warm dye bath.
+
+@summary
+boil distilled water on a hot plate.
+
+@summary
+remove the hot metal carefully and allow it to dry.
+@article
+ Anodizing works particularly well with aluminum, so, if careful, you can do it at home. Use small aluminum pieces to begin with so that you can submerge it in small quantities of acid.;
+, Choose a type of plastic that is extremely hard and durable.
+ During the anodizing process, you can dye the metal almost any color. This is the process Apple uses to color iPods. You can also buy special dye for anodizing that may produce better results.
+,, The battery acid may be hard to find; however, it is usually available at auto parts stores. A large battery charger should work as a constant power supply.
+,, (44 ml) of lye in 1 gallon (3.8 l) of distilled water. Use a smaller plastic tub or discarded metal bowl. Allow it to sit for 3 minutes, then remove it and rinse it well.
+
+
+The lye will remove any existing anodizing on the surface of the metal. Once it is removed, water should pour off the surface easily, instead of beading.
+Wear rubber gloves whenever working with lye.
+Do not use measuring spoons or cups that are used for food products. The materials used in this process are toxic.
+ Set it on a piece of plywood and/or a thick drop cloth in case of spills.
+
+
+For best results, do this when the indoor temperature is between 70 and 72 degrees Fahrenheit (21 to 22 degrees Celsius).
+ Set it on a non-flammable material, like concrete, and make sure it is working consistently.
+
+
+You will need to connect the positive wire from your battery charger or rectifier to a wire that will be strung to your aluminum.
+You will need to connect your negative wire from your battery charger to an aluminum wire connected to 2 lead cathodes.
+ 12-gauge aluminum wire works well for this use. Wrap it or connect it to the part on a place that is hidden.
+
+
+The area of the part that connects to the wire will not anodize.
+Make sure it is very tightly wrapped for a more consistent charge.
+ This will give you leverage to lift it out when you are done. Make sure you have extra wire extending toward your power supply after you wrap it.
+
+
+Test the wooden handle to ensure your aluminum part will be fully submerged in the acid mix.
+ String aluminum wire between the cathodes and connect them together on your small wood plank. You will attach the negatively charged power supply to this wire.
+
+
+Make sure the wire connecting the aluminum part and the lead cathodes does not touch. , The amount you use will depend upon the size of the metal part you want to anodize. Be very careful not to spill.
+
+
+Always pour the water in before the acid. If you spill any acid, cover it quickly with baking soda.
+Put on a mask or respirator before you start working with acid. Turn on a fan to ventilate the area.
+ Connect the aluminum wire that leads from the lead cathodes to the negative charge supply.
+, Slowly turn it up. You will want to use 12 amps per square foot of material.
+
+
+Increasing the power too fast or using too much can burn your aluminum wires.
+ You will see little oxidation bubbles start to form on the surface of the aluminum. It will also start to change color, turning brown, then yellow.
+ Mix with distilled water and heat it to 100 to 140 degrees Fahrenheit (37 to 60 degrees Celsius).
+ Remove the metal part and rinse it with distilled water.
+ Let it sit for 15 minutes.
+ Remove the aluminum part from the dye and place it in the boiling water for 30 minutes. , The surface should be sealed and dyed.
+

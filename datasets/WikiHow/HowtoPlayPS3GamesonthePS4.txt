@@ -1,0 +1,54 @@
+@summary
+verify you have a sony entertainment network account.
+
+@summary
+verify you have a broadband internet connection with a speed of at least five megabytes per second (mbps).
+
+@summary
+purchase a dualshock 3 or dualshock 4 wireless controller.
+
+@summary
+power on your ps4 console and select “network.”
+
+@summary
+,
+
+@summary
+select “set up internet connection,” then select your internet connection type.
+
+@summary
+follow the on-screen instructions to connect your ps4 to the internet.
+
+@summary
+navigate back to the main menu on your ps4 and launch the playstation store.
+
+@summary
+select the option to download the “ps now subscription” app to your console.
+
+@summary
+select your desired subscription from the options provided.
+
+@summary
+follow the on-screen instructions to finalize the purchase for your playstation now subscription.
+
+@summary
+navigate to content launcher and select the option to launch ps now.
+
+@summary
+switch to using a wired connection if playstation now fails to stream or connect properly through a wireless connection.
+
+@summary
+suspend or cancel any large downloads and other streaming services if your connection is poor when using playstation now.
+
+@summary
+test the internet connection on your ps4 if playstation now still doesn’t load or work properly with your network.
+@article
+ Setting up an account is free and required to use PlayStation Now.
+
+Navigate to the PlayStation Store website at https://store.playstation.com/#!/en-us/home/main and click on “Create Account” to set up a free Sony Entertainment Network Account.;
+, A fast, steady Internet connection is required to use PlayStation Now.
+
+Contact your Internet service provider to upgrade your existing Internet plan if needed.
+ These controller models work as input devices so you can play PS3 games using your PS4 console via PlayStation Now.,, Sony recommends using a wired connection for the best possible experience when using PlayStation Now., If using a wireless connection, you’ll be prompted to enter your wireless network credentials. If using a wired connection, you must connect your PS4 to your Internet router using an Ethernet cable.When complete, you’ll be ready to sign up for a PlayStation Now subscription., This is where you can purchase and sign up for PlayStation Now., This app allows you to manage your PlayStation Now subscription and games., You can sign up for the PlayStation Now free seven-day trial period and pay $19.99 per month when the trial ends, purchase a three-month plan for $44.99, or purchase the 12-month subscription for $99.99., When complete, PS Now will be available from the Content Launcher., You can now access and play over 100 PS3 games directly from your PS4 console., Sony recommends using a wired connection with an Ethernet cable for the best results when using PlayStation Now., Other downloads and streaming services running on your network can interfere with the efficacy of PlayStation Now., This can help confirm your network meets bandwidth requirements.Power on your PS4 and select “Network.”
+Select “Test Internet Connection,” then take note of your network speed next to “Connection Speed.” This confirms whether your network is running five mbps.
+

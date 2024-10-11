@@ -1,0 +1,17 @@
+@summary
+press and hold the power button.
+
+@summary
+slide the power slider from left to right.
+
+@summary
+wait for the screen to go completely black.
+
+@summary
+press and hold the power button until you see the apple logo.
+@article
+ This is also referred to as the Sleep/Wake button, and is located along the top of the iPod.;
+, This will appear after holding the Power button for a few seconds.
+ This will let you know that the iPod has shut down.
+ Your iPod will boot up and display the Home or Lock screen.
+

@@ -1,0 +1,9 @@
+@summary
+build a fake house.
+
+@summary
+build multiple houses beside your house.
+@article
+ You want to trick them by thinking that this fake house is your house. As a result, they will grief the wrong house.
+ Make sure these houses are slightly identical. Make them confused which house they will grief.
+

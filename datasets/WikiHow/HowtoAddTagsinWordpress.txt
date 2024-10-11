@@ -1,0 +1,69 @@
+@summary
+log in to your wordpress blog account.
+
+@summary
+click on "my account" on the left side of the tool bar at the top of the page to take you away from the wordpress homepage and to your blog.
+
+@summary
+,
+
+@summary
+select the word "posts" on the dashboard.
+
+@summary
+click on the title of your most recent post.
+
+@summary
+scroll to the right hand column on the screen.
+
+@summary
+type a word that describes the elements of your post.
+
+@summary
+you can also choose from a list of the most popular tags by clicking on the link at the bottom of the tags box.
+
+@summary
+,
+
+@summary
+view your current tags by going to your dashboard, clicking on the arrow next to the word "posts" and clicking on "view tags" in the drop down menu.
+@article
+
+
+
+
+ 
+
+
+If you do not have a WordPress blog, go to their home page and click on the orange button that says "Get Started Here." It will take you through the sign up process.
+
+
+
+
+
+;
+,, The dashboard is the vertical list of words running down the left side of the page.
+ You should be sent to a page that says "Edit Post."
+
+
+
+
+
+, Under the boxes entitled "Publish" and "Categories," you will find a "Tags" box.
+ Use nouns of things that you discuss in your post, but also feel free to post words like "humor" if it is a funny post or locations and emotions that describe the post. Click "Add" after typing each word in lowercase letters, to add it as a tag to your post. When adding WordPress tags, be sure to add after every word, unless they are words that go together like "Carson City."
+
+
+
+
+
+,, You will arrive at a screen showing all your tags, a paragraph showing your most popular tags and the option to add more tags.
+
+
+You can also use this page to delete or edit your current tags.
+
+
+
+
+
+
+

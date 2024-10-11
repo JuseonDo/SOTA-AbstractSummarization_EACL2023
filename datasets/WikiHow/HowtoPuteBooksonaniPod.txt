@@ -1,0 +1,16 @@
+@summary
+download an app for downloading and reading ebooks.
+
+@summary
+enter the app.
+
+@summary
+if you have a book in mind then search for it and download it.
+
+@summary
+once your book has downloaded, you can either read it or download more books if that's what you want to do.
+
+@article
+ You may already have iBooks, the app that Apple created for eBooks, but there are alternatives that you may want to look into. For example, if you own a separate eReader like a Kindle, then there will be an app you can download. This will enable you to sync what you're reading.;
+, Go to the section that allows you to buy books. This will probably be called the store, depending on your app choice.
+ If you don't have a book in mind then you can browse until you find a book that takes your fancy.

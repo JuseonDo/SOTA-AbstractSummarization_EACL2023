@@ -1,0 +1,26 @@
+@summary
+attach the wires to the led.
+
+@summary
+stuff the led into a balloon.
+
+@summary
+fill the balloon with water.
+
+@summary
+freeze the balloon.
+
+@summary
+,
+
+@summary
+remove the balloon rubber.
+
+@summary
+attach the batteries to the led, and enjoy your new cool looking light.
+
+@article
+ Ensure they are attached by wrapping some electrical tape around the connection.;
+, You are just going to stuff the actual LED light and enough so there is no electrical tape exposed.
+ After filling it with water, tie the end of the balloon.
+, Make sure that you remove all the rubber from the balloon.

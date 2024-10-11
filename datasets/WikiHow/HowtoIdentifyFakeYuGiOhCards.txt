@@ -1,0 +1,58 @@
+@summary
+check the name of the card, see if it has spelling errors.
+
+@summary
+check the back of the card, and see if the "konami" on the back is spelled incorrectly.
+
+@summary
+check the number of level stars on the card.
+
+@summary
+the card should have a gold or silver hologram on the bottom right hand corner.
+
+@summary
+if the card feels overly glossy or not glossy at all, it's usually fake.
+
+@summary
+read the text.
+
+@summary
+examine the picture.
+
+@summary
+if the color of the card is wrong, too pale or too bright, it's fake.
+
+@summary
+if the set number (under the picture on the right hand side just above the text) is missing, it's fake.
+
+@summary
+on the back, if the konami, ™ or ® symbols are missing, it's fake.
+
+@summary
+most cards have a serial number on the bottom left corner.
+@article
+ If it does it is most likely fake (or a misprint, but this is rare).;
+, If it is, it's a fake.
+ Compare it to a picture of the card online to see if it is correct. If the Level stars are "solid" then the card is fake.
+ 1st Edition and Limited Edition cards will have a gold square, while Unlimited Edition cards will have a silver one. Having an incorrectly colored hologram or the lack of one is a clear indication that the card is fake.
+ It should be noted however newer cards are glossier than older cards.
+ If the font is too thin or too thick, or there are spelling mistakes, it may be fake. Note that Yu-Gi-Oh! uses a special font.
+ If it is blurry or poor quality, it may be fake, however note that Duel Terminal cards have a parallel coat which may make the cards look blurred.
+ However some boosters, like Gladiators Assault, have brighter colors and Duel Terminal cards have darker colors because of the parallel coat.
+
+
+Monster = Yellow
+Effect monster = Orange
+Spell = Turquoise
+Trap = Pink
+Fusion = Purple
+Ritual = Blue
+Token = Grey
+Synchro = White
+Xyz = Black
+Pendulum = Yellow or Orange(bottom)/Turquoise(top)
+
+, Fake cards usually also display the incorrect set numbers.
+ An exception to this is the unplayable Egyptian God cards.
+ If it is missing, the card may be fake, although there are a few cards that lack this such as Gate Guardian.
+

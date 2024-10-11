@@ -1,0 +1,29 @@
+@summary
+open your iphone's settings.
+
+@summary
+tap general.
+
+@summary
+,
+
+@summary
+tap accessibility.
+
+@summary
+,
+
+@summary
+scroll down and tap on hearing devices.
+
+@summary
+slide the bluetooth to the on position.
+
+@summary
+tap the name of your hearing device to officially connect.
+@article
+ This app is grey in color and appears as a single gray gear on the Home Screen.;
+,,, It may be located under the Hearing section.
+ This turns puts your iPhone in discovery mode, which means it will automatically connect with your hearing aid device if it is within range.
+ It will show up under the Bluetooth switch as well, alongside other previously connected bluetooth devices. Now, whenever you pair a Made for iPhone hearing aid to your iOS device, audio from your iOS device goes to your hearing aid.
+

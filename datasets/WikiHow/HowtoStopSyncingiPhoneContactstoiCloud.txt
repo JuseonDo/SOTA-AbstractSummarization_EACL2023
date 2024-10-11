@@ -1,0 +1,24 @@
+@summary
+open the iphone’s settings.
+
+@summary
+scroll down and tap icloud.
+
+@summary
+sign in to your icloud account (if necessary).
+
+@summary
+scroll down and slide the contacts button to the off position.
+@article
+ This is the grey icon with cogs located on one of the home screens.
+
+
+It may also be located in the “Utilities” folder on a home screen.;
+, This is in the fourth set of options.
+
+
+
+Enter your Apple ID and password.
+Tap Sign in.
+ Contacts will no longer be synced to iCloud. Any iCloud contacts not already stored on this iPhone will be removed.
+

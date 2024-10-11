@@ -1,0 +1,37 @@
+@summary
+ensure that x window is working by typing the startx command.
+
+@summary
+install the packages ttf-dejavu and ttf-ms-fonts.
+
+@summary
+install the gnome package.
+
+@summary
+install gdm.
+
+@summary
+run xinit gnome-session to test gnome.
+
+@summary
+log out of the gnome session by clicking system>log out.
+
+@summary
+,
+
+@summary
+type systemctl enable gdm.service.
+
+@summary
+reboot by typing reboot.
+
+@summary
+login to gnome with your login information and enjoy gnome.
+
+@article
+ This should bring up a very basic GUI as pictured. If you experience an error visit the Arch Linux wiki for troubleshooting. Type exit to exit the GUI environment.;
+, These are font packages and are recommended in order to achieve a visually pleasing experience. These can be installed with the pacman -S ttf-dejavu ttf-ms-fonts command.
+ Optionally you can also install gnome-extra and gnome-system-tools. Run pacman -S gnome gnome-extra gnome-system-tools to achieve this.
+ This is only necessary if you did not install gnome-extra. Use pacman -S gdm to install it.
+ Refer to the Arch Beginners Guide for troubleshooting.
+, This command ensures that the GNOME Display Manager (GDM) is starting automatically on every boot providing the graphical login manager for your session., When your computer boots back into Arch you should be greeted with the GDM login screen.

@@ -1,0 +1,28 @@
+@summary
+once again, control venom with w, s, a, and d.
+
+@summary
+,
+
+@summary
+press space to jump.
+
+@summary
+,
+
+@summary
+perform a claw attack by pressing "q" while facing an enemy.
+
+@summary
+press "f" to crawl up walls.
+
+@summary
+,
+
+@summary
+use locomotion jump to move faster.
+@article
+,, Also, perform a tentacle attack with "E".
+, This is Venom's mode of transportation. To do this, hold down the right mouse button. The longer you hold it down, the higher Venom will jump.
+While playing as Spider-Man or Venom, you can access the city map any time by pressing "B".
+

@@ -1,0 +1,12 @@
+@summary
+press and hold any app on your home screen.
+
+@summary
+tap the "x" next to the messenger app on your home screen.
+
+@summary
+use the facebook mobile site to check your messages.
+@article
+ If you want to uninstall the Messenger app on your iOS device, press and hold any app on your Home screen until they all start shaking.;
+, You'll be prompted to confirm that you want to delete the app.
+ For now, you can still view your Facebook messages on the mobile version of the site.

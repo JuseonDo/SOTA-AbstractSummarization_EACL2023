@@ -1,0 +1,21 @@
+@summary
+at the top of a high area (e.g.
+
+@summary
+fall for a couple seconds.
+
+@summary
+save the game.
+
+@summary
+load the game you saved.
+
+@summary
+voila!
+@article
+ the top of a building, cliff, etc.), jump.;
+, Right before you hit the ground (or little bit before, just to be safe), pause.
+ Once it saves, continue the game and die.
+ You will spawn above the ground without the velocity you started out with.
+ You have survived an impossible jump!
+

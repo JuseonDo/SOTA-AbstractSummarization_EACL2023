@@ -1,0 +1,23 @@
+@summary
+click or tap the hub button.
+
+@summary
+click or tap the history tab.
+
+@summary
+find the history entry you are looking for.
+
+@summary
+delete an entry by clicking or tapping the "x" next to it.
+@article
+ You'll find this along the top of the window. The icon looks like a paragraph.
+ The icon looks like a clock.
+
+
+You can also press Ctrl+H to open this tab directly.
+ Your history is sorted by date in three ranges: Last hour, Last week, and Older.
+ You can remove single entries or entire date ranges.
+
+
+You can also tap or click "Clear all history" to delete all entries. Ensure "Browsing history" is checked and then click "Clear."
+

@@ -1,0 +1,48 @@
+@summary
+go to minecraft.
+
+@summary
+find a place you want to place the mine.
+
+@summary
+,
+
+@summary
+dig where you want to place the mine 2 blocks.
+
+@summary
+place tnt on the bottom of the hole.
+
+@summary
+place a block on top of the tnt that matches the surface background.
+
+@summary
+,
+
+@summary
+put a pressure plate where you put the block.
+
+@summary
+you have made a mine.
+
+@summary
+wait for animals, mobs, and players to die in the mine.
+@article
+;
+,, It is a hole that is a block in area and 2 blocks deep.
+ Don't put another TNT.
+
+
+There should be a hole 2 blocks deep with an area of one block with one TNT on the bottom.
+,
+
+
+If you can, use a pressure plate that matches the block.
+ Now make more for a mine field.
+
+
+
+Note: The mines could cause a chain reaction if the explosion touches other mines.
+Note: Some players won't die unless they are new in Minecraft.
+Note: Mines take a few seconds to explode.
+

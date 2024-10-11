@@ -1,0 +1,11 @@
+@summary
+log into your ebay account and click on “my ebay.”
+
+@summary
+,click on “sold,” then locate the item or transaction for which you want a refund issued.click on the “more actions” dropdown menu next to the transaction.
+
+@summary
+select “cancel this order,” then choose a reason for the cancellation.
+@article
+,,, eBay will automatically process the refund if you used PayPal to process the original transaction.Refund a buyer using their original payment method if the buyer paid with a method other than PayPal, or contact the buyer directly to work out an alternate refund method. For example, if the buyer paid using a personal check, offer to either send a refund check or add funds to the buyer’s PayPal account.
+

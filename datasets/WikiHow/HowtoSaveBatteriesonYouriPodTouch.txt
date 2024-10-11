@@ -1,0 +1,42 @@
+@summary
+turn down the brightness level.
+
+@summary
+also in the brightness settings, there is an on/off switch for screen brightness adjustment via the built-in light sensor.
+
+@summary
+while on settings, turn off your wi-fi too.
+
+@summary
+,
+
+@summary
+turn off location services.
+
+@summary
+under settings > bluetooth, turn bluetooth off.
+
+@summary
+,
+
+@summary
+only use simple apps.
+
+@summary
+have your ipod/iphone at full charge before you go somewhere with it.
+
+@summary
+,
+
+@summary
+turn off/delete apps you don't actually use anymore.
+@article
+ You can do this under settings. Go to Settings > Brightness > and move the slider to the left until you get to a desired level.;
+, Make sure that option is ON.
+, Under Settings, go to Privacy, and turn off Location Services.
+, (6000+ facts keeps me entertained free.)
+
+
+This means no Tap Tap Revenge 3.
+, To actually turn off apps, press the middle button twice until a gray strip at the bottom of the screen comes up with a bunch of apps on it. Press and hold an app until it starts shaking with a red minus beside it. erase all of the apps here. don't worry, you will still have those apps, but they won't be on in the background. They will always be stored "in the Cloud".
+

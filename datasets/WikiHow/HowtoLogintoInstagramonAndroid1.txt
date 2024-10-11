@@ -1,0 +1,16 @@
+@summary
+open instagram.
+
+@summary
+type your username and password into the blanks.
+
+@summary
+tap log in.
+@article
+ It’s the red, purple, and orange camera icon in your app drawer.;
+, Your username can be your email address, Instagram handle, or phone number.
+
+
+If you don’t remember your password, tap Get help signing in, then follow the on-screen instructions.
+ You should now see your Instagram feed.
+

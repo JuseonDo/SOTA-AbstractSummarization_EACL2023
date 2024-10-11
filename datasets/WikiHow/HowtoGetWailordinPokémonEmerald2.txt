@@ -1,0 +1,13 @@
+@summary
+obtain a wailmer.
+
+@summary
+train the wailmer.
+
+@summary
+train it until it evolves.
+@article
+ This is the pre-evolution of Wailord.;
+, This Wailmer can be pretty annoying to train. So, keep patience.
+ Wailmer is going to evolve to Wailord.
+

@@ -1,0 +1,32 @@
+@summary
+acquire a level 79 farming.
+
+@summary
+travel to one of the herb patches.
+
+@summary
+rake the patch.
+
+@summary
+add supercompost to the patch.
+
+@summary
+plant 1 dwarf weed seed.
+
+@summary
+harvest the herbs after 80 minutes of planting.
+
+@article
+;
+,
+
+
+South of Falador
+North of Catherby
+North of East Ardougue
+Between Port Phasmatys and Canifis
+Trollheim (the only disease-free patch, available after the completion of the "My Arm's Big Adventure" quest)
+
+, Allow your character to rake all the weeds out of the patch.
+ Supercompost achieves a higher successful yield and helps the item from plant disease.
+ Use the seed from your inventory on the treated patch.

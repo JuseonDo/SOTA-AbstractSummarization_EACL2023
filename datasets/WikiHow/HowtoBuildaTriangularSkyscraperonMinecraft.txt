@@ -1,0 +1,14 @@
+@summary
+decide on how large the base of the skyscraper should be.
+
+@summary
+build tall pillars on each point of your triangle.
+
+@summary
+build up the layers of your skyscraper.
+
+@summary
+add floors where you want them and then build the roof.name your building, for example the building of awesome.
+@article
+ It can be 15 x 15 blocks or even larger. From the two corners make a diagonal line of the block your using. Make sure to leave room for a door!
+, Fill in all three sides with glass. Remember to leave space for a door!, Make sure you leave room for stairs or ladders! Add glowstone lights so that you can see well., If you want then add a pool or viewing area on top of your building.,

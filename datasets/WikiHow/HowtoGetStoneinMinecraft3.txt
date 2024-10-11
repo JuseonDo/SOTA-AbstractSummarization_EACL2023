@@ -1,0 +1,11 @@
+@summary
+make sure cheats are enabled.
+
+@summary
+open the chat.
+
+@summary
+type the following cheat: /give <player> minecraft:stone .
+@article
+ If not, turn them on
+, The standard button for this action is t., Replace <player> with your username and with how many stone blocks you want.

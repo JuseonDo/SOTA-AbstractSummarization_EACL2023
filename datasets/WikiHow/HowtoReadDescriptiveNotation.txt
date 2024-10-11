@@ -1,0 +1,35 @@
+@summary
+note: this is not algebraic notation.
+
+@summary
+learn the squares first.
+
+@summary
+in descriptive notation the pieces are represented the same way as algebraic except that columns are designated by their primary piece.
+
+@summary
+each square is designated according to the color you have.
+
+@summary
+count each square from the primary piece.
+
+@summary
+captures are recognized by one piece capturing another piece, so if a queen captured a queen, it would be written as qxq.
+
+@summary
+castling is also designated differently.
+
+@summary
+special terms: en passant,, check,, checkmate or mate, resign or draw are designated as written, where in algebraic these terms have abbreviations and symbols.
+
+@article
+ Algebraic notation (AN), developed by Philipp Stamma, is the most common used worldwide system of chess notation and replaced the descriptive notation. You should learn both so you know what players refer to. Refer to Read Algebraic Chess Notation to see the other form.;
+, The squares are named by the primary piece. From left on the White side the pieces are Queen's Rook (Castle), Queen's Knight, Queen's Bishop, Queen, King, King's Bishop, King's Knight and King's Rook.
+ R is for Rook, Kt or N = Knight, B = Bishop, Q = Queen, etc. P, of course, is for pawn, while in algebraic pawns are recognized by the absence of a letter.
+ In Black, the King is on the left while in White the King is on the right.
+ If you have white, and you want to move the pawn in front of the King's Bishop ahead one space you would write "King's Bishop Pawn to King's Bishop Three." In the graphic King's Bishop would be in c1 and it would move to the space labeled c3. It's so much easier to say "Bishop to C3."
+
+, Similarly, if a knight captured a bishop, it would be KtxB or NxB.
+ It's simply called "Castling Queenside" or "Castling Kingside."
+
+,

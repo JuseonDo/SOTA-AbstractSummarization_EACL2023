@@ -1,0 +1,23 @@
+@summary
+open a text-editing software.
+
+@summary
+follow the exact format.
+
+@summary
+type the subtitles.
+
+@summary
+save your work as a .txt file.
+
+@summary
+,
+
+@summary
+send the file to the youtube user.
+@article
+ On a Windows PC, you can open Notepad.;
+, Make sure that the timestamp is correct, otherwise your subtitles might not be in sync with the video.
+ Add extra timestamps if necessary.
+, See Message Someone on YouTube on how to send a message.
+

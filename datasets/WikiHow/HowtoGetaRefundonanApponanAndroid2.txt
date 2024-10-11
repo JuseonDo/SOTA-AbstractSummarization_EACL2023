@@ -1,0 +1,51 @@
+@summary
+check how long it has been since you installed the app.
+
+@summary
+log into google play on your computer.
+
+@summary
+click the gear icon.
+
+@summary
+select “my orders.” all the app you have downloaded and installed on your device, whether free or paid, will be listed here.
+
+@summary
+,
+
+@summary
+locate the app you want to refund and hover your mouse over it.
+
+@summary
+click on the menu icon.
+
+@summary
+click on “report a problem.” a small pop-up window will appear; it will have a drop-down menu in the middle.
+
+@summary
+,
+
+@summary
+click the drop-down menu and select “i’d like to request a refund.” reasons for refunding will then be listed below the drop-down option.
+
+@summary
+,
+
+@summary
+select the reason for refund.
+
+@summary
+click on “submit” when you’re done.
+@article
+ 15 minutes after installation, you cannot apply for a refund directly in the Google Play app on your device. Instead, you need to request for a refund from the developer of the app.
+ Using any browser on your computer, head to the Google Play website. If you’re not yet logged in, do so by entering your Gmail email address and password on the fields provided.
+ This will open a small context menu with the options “My orders,” “Settings,” and “Device manager.”
+
+,, A menu icon will appear next to the app’s name.
+ Only one option will appear when you click on the icon.
+,, You can do this by clicking on the to the left of the reason of your choice.
+ Your request will then be submitted to the app developer.
+
+
+This method does not guarantee a refund. It totally depends on the developer to accept your request. Hence, it is always suggested to view the ratings and read the reviews of the app before purchasing one.
+

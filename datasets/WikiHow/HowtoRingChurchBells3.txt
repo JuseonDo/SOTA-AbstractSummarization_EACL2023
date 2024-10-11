@@ -1,0 +1,19 @@
+@summary
+be at your bell.
+
+@summary
+,
+
+@summary
+when commanded to by the bell ringer manager, begin pushing your bell and making it swing.
+
+@summary
+bring the bells to a complete standstill when commanded to by the bell ringer manager.
+
+@article
+, Be careful as the bell can come back at you very fast, so you will need to time your pushes precisely.
+
+
+If the bells are rotating, keep pushing your bell as it makes it's rotations.
+
+Or, if you are using an electric mechanism to rotate the bells, be sure to be careful going near your bell.

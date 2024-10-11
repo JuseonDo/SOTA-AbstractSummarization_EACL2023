@@ -1,0 +1,43 @@
+@summary
+open the picture from which you want the background removed.
+
+@summary
+click on the “eraser” tool in the left sidebar.
+
+@summary
+select “background eraser tool.” this tool is designed specifically for erasing picture backgrounds.
+
+@summary
+,
+
+@summary
+select a round, hard brush from the options bar at the top of your session.
+
+@summary
+select your preferred sampling from the options bar.
+
+@summary
+select “find edges” from the limits dropdown menu.
+
+@summary
+select a value from the tolerance dropdown menu.
+
+@summary
+position your cursor near the edge of the object from which you want the background removed.
+
+@summary
+click and drag the cursor across the background you want removed.
+
+@summary
+click “file” and select “save.” the background of your picture is now removed.
+
+@article
+;
+, This displays all your eraser tool options.
+, This brush is most effective at erasing large backgrounds. If working with smaller images and backgrounds, experiment with using a different brush style.
+ Select “Continuous” if erasing multiple colors in the background, or select “Once” if removing a background with one or two colors., This feature allows you to remove the background while preserving the sharpness of edges in your picture.
+ A low tolerance level is ideal for erasing one to two colors, while a high tolerance level erases a larger amount of colors. For example, if erasing the blue background of a sky, set your tolerance level between 20 and 25 percent for the best results., For example, if removing a tree behind a vehicle, position the pointer near the edge of the vehicle. The pointer will turn into a circle with crosshairs at its center.
+ Take care not to drag the crosshairs over the edges of the object against the background, since this erases part of your image.
+
+
+Use a smaller brush size to remove the background from small, tight areas between the object and background.

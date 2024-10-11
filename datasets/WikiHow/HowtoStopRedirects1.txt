@@ -1,0 +1,19 @@
+@summary
+download and install malware removal software on your computer.
+
+@summary
+scan your computer.
+
+@summary
+wait for the antivirus software to scan your machine for viruses and malware.
+
+@summary
+remove the malware.
+
+@summary
+keep your malware removal software updated and running on your computer at all times after any viruses and malware have been removed.
+@article
+ Examples of popular, recommended, and effective malware removal programs are Malwarebytes Anti-Malware, Ad-Aware Free Antivirus+, AVG AntiVirus, Bitdefender Antivirus, and Avast Antivirus., Select the option to “scan” or “fix” your computer after the malware removal program launches on your computer.
+ The process may take up to several minutes or hours depending on the state of your computer.
+ Select the option to remove all viruses, malware, and potential threats that have been identified by your malware removal software. The program will then begin wiping and eliminating all harmful threats from your computer.
+ This will help prevent any malware from being installed on your computer in the future.

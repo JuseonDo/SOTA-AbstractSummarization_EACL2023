@@ -1,0 +1,70 @@
+@summary
+if you're using google chrome: add the block sender for gmail extension from the google chrome web store.
+
+@summary
+,
+
+@summary
+then in gmail, open any message you want to block.
+
+@summary
+a confirmation message will appear, allowing you to undo the block.
+
+@summary
+open gmail.
+
+@summary
+click the triangle on the right-hand side of the search bar at the top of the screen.
+
+@summary
+enter in the sender you want to block.
+
+@summary
+click the “create filter with this search” hyperlink at the bottom right of the search window.
+
+@summary
+select “delete it” by clicking the checkbox to the right.
+
+@summary
+click the down arrow in the left corner of an open message.
+
+@summary
+confirm that the search criteria contains the proper information.
+
+@summary
+click the "create filter with this search" hyperlink at the bottom right of the window.
+
+@summary
+,
+
+@summary
+in the next window, check the box next to "delete it".
+
+@summary
+go to your inbox.
+
+@summary
+then click the filters tab.
+@article
+, You will see a new Block button. Pressing this button will create a Gmail filter blocking the sender.
+ Afterwards, a Gmail filter is created so that future messages from this sender skip your inbox and are put in the trash automatically.
+ Determine which sender you no longer wish to receive messages from.
+ A window will appear. Ensure “All mail” is selected in the Search drop-down at the top left of the window., In the From space, type in the email address of the sender you’d like to filter.
+
+
+To be sure the search worked properly, click the blue search button at the bottom left of the window. Re-click the down arrow in the search bar to return to the search window.
+ A new window will appear containing a number of possible actions to be applied to your search criteria., All messages received from this sender will automatically be sent to the Trash.
+ From the drop-down box, select "Filter messages like this."
+
+
+
+
+
+, The From space should already contain the sender's email address.
+, You will no longer receive inbox messages from this sender.
+ Open Gmail Settings by pressing the gear button on the top right, and selecting Settings.
+
+
+ How to access Gmail Settings
+
+, You will see the email addresses you blocked. Click Delete to remove any filter.

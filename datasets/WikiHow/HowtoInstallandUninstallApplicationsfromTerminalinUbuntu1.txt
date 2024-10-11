@@ -1,0 +1,12 @@
+@summary
+to open the terminal, press ctrl+alt+t on your keyboard or go to applications > accessories > terminal.
+@article
+
+
+
+
+
+
+
+For example, to install your desired software on Ubuntu, you're need to use command: sudo apt-get install ’application_name’ (Replace ’application name’ with the application you want to install)
+

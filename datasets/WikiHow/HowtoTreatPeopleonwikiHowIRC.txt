@@ -1,0 +1,21 @@
+@summary
+don't assume that someone is trying to cause trouble or start an argument.
+
+@summary
+don't be confrontational.
+
+@summary
+use the opportunity to teach someone.
+
+@summary
+do not take things personally.
+
+@summary
+if you are an irc admin, take the above steps to the next level...be less confrontational, more willing to teach, less willing to take things personally.
+@article
+ Some people just need to learn how to address others and learn how to speak to others via a digital format.;
+, If you feel offended, take a deep breath and talk to the other person calmly. Nine times out of ten, the offense was accidental.
+ If you see a new person and they aren't obviously trying to cause trouble, don't be confrontational.
+ When people take things personally, they seem to go into 'aggressor' mode and start taking things to the next level.
+ It is important to keep things going the wikiHow way, even in the IRC chat.
+

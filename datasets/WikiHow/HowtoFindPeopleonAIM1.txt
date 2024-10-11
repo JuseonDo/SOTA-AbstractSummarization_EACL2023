@@ -1,0 +1,15 @@
+@summary
+download and install aol.use the "add friends you already know" feature to find your friends on social media.
+
+@summary
+connect with your facebook friends.
+
+@summary
+connect with your google chat connections.
+@article
+ Instant Messenger (AIM).
+
+If you are not already a member of AOL, go to this address and sign up: https://discover.aol.com/products-and-services/aim
+
+Then go to the website https://help.aol.com/products/aim and click on "Download AIM";
+,, Click "Connect to Add Facebook Friends." This will allow you to connect with any of your Facebook connections who also use AIM., Click "Connect to Add Google Chat." This will allow you to connect with any of your Google Chat connections who also use AIM.

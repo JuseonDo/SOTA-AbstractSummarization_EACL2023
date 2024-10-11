@@ -1,0 +1,40 @@
+@summary
+go to file —> page setup to set your margins.
+
+@summary
+set your paper orientation to landscape', whilst in page setup.
+
+@summary
+,
+
+@summary
+add columns' to create a clean line of your product photos.
+
+@summary
+add breaks between the columns so that each column of your booklet will hold separate paragraphs of information without overflowing into the next column.
+
+@summary
+add text and photos to each column.
+
+@summary
+save your booklet.
+
+@summary
+,
+
+@summary
+print out a test copy or send the file to a printer to print a “proof,” which is a test copy.
+
+@summary
+,
+
+@summary
+ensure there are no spelling or grammar errors, by running the spell checker, if you are happy with the proof’s colors and the layout.
+@article
+ Good booklet design has margins of at least 1/8-inch (0.125”) – you don’t want any text or photos bleeding off of the page. Expand the margins to 1/4-inch for a cleaner look.
+, If you want four pictures going across each page, you’ll need four columns. You can type in the number of columns manually instead of choosing a Preset. You can alter the spacing and width of the columns as needed, but the default spacing should be okay for most layouts.
+ Place your cursor in the first column (the one way to the left) and go to Page Layout (or Insert for Word 2003) – Breaks and choose Column. Your cursor should now be at the top of the next column. Keep inserting breaks as needed until each column is its own entity.
+ Just click in each column and go to Insert –> Picture. You may want to use text boxes instead of typing directly into the column if you want your text to “float.”
+
+,,, Have someone read over the text as well because the Spell Checker often misses a lot of mistakes.
+

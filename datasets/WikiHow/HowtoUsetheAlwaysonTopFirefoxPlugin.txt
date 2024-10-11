@@ -1,0 +1,20 @@
+@summary
+go to the firefox add-on page, here.
+
+@summary
+ 
+
+@summary
+click on the "add to firefox" button.
+
+@summary
+restart firefox.
+
+@summary
+find the thumbtack on the right hand side of the address bar.
+
+@summary
+modify your firefox window as desired and click on the thumbtack.enjoy your multi-tasking!
+@article
+ Double check to see if your Firefox version is within the "Works With" version numbers. If not, you must update Firefox.
+ A "Software Installation" pop-up will come up for you to verify the installation., Be sure to save or complete any work before you restart, just in case if you lose information., This is the "Always on Top" plug-in., The icon will then become blue and "tack" the window on top.,

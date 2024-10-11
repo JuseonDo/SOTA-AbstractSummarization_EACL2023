@@ -1,0 +1,17 @@
+@summary
+select the drawings you want to translate.
+
+@summary
+run a batch that goes through the selected drawings and stores their texts in an ms excel table.
+
+@summary
+translate the table (by filling the "target text" column).
+
+@summary
+run another batch.
+@article
+ The dialog box shows you thumbnails of the drawings.
+ The table has two columns; "Drawing texts" and "Target texts". The "Drawing texts" column is filled with the texts of the drawings, and the "Target texts" column is empty.
+ You can use a CAT tool, such as Systran, Trados or DejaVu, but you can also use the applications internet CAT-tool.
+ This opens all the selected drawings, and translates them, fully automatically, using the updated Excel table.
+

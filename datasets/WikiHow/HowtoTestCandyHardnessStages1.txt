@@ -1,0 +1,4 @@
+@summary
+since candy continues to cook while you're testing, you'll need to test it before the time in the recipe is up.
+@article
+ It's a bit of a juggling art, made a little easier by using a thermometer rather than your hands and eyes. However, it's best to know how to test candy both ways, just in case you need manual confirmation or your thermometer isn't working well.

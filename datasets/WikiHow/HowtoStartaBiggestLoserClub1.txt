@@ -1,0 +1,23 @@
+@summary
+determine how many people you want to include in your group.
+
+@summary
+decide how much prize money you want to give away at the end of the contest.
+
+@summary
+,
+
+@summary
+divide the prize money amount by the number of group members to determine how much to charge for each contestant.
+
+@summary
+decide what to include with membership.
+
+@summary
+set your penalties.
+@article
+;
+,, The amount of money should be enough to keep people accountable as well as to create a nice pot of money for the winner.
+ Some groups include gym membership with their membership fees, so you’ll want to take that cost into account along with adding in the prize money at the end.
+ Some groups charge additional money for every pound gained during the contest. Decide whether a penalty like this is appropriate for your group.
+

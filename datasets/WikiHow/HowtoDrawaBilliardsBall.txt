@@ -1,0 +1,29 @@
+@summary
+draw a circle.
+
+@summary
+draw a line where you want the middle of the ball to be.
+
+@summary
+draw a horizontal line across the circle as well.
+
+@summary
+sketch a smaller circle at the intersection of the lines.
+
+@summary
+draw two horizontal, slightly curved lines above and below the circle you made.
+
+@summary
+ink in your drawing and erase the sketch lines.
+
+@summary
+color in your drawing according to the number you chose.
+@article
+ You can add guidelines if you like, but you should be all right without them.;
+, Try to have it curve along the line of the circle you drew in step 1.
+ The point at which the two lines overlap is where the number of the ball will be.
+ It should look the same as the first circle you drew, just a different size.
+ This step is only for the billiard balls with numbers 9-15, however, so skip it if you're doing any of 1-8.
+ If you want you can draw a surface for the ball to be sitting on or add a shadow to make it look more real.
+ For this tutorial, the 9 ball was used, so the coloring is primarily yellow with white on the top and bottom.
+

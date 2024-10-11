@@ -1,0 +1,42 @@
+@summary
+look at the label.
+
+@summary
+check the color.
+
+@summary
+hold it up in the light.
+
+@summary
+look inside the circuit board.
+
+@summary
+look for typos.
+
+@summary
+play the game!,
+
+@summary
+check if it should say 'licensed by nintendo' or just nintendo.
+
+@summary
+if something on the cartridge is missing, and should be there, then that game is a fake.
+
+@summary
+,
+
+@summary
+check if your game has a battery in it.
+
+@summary
+sometimes a fake game cartridge has trouble fitting in a game boy advance/game boy advance sp/game boy micro.
+
+@article
+ Sometimes, the label will be a custom one different from the official one. There are many things that can be altered: the Nintendo loo, the ESRB rating icon, and the Game Boy Advance logo. Search the cartridge on Google Images and compare them.;
+, Most GBA games are grey, excluding the label. Some games, like the Pokémon Games, will have a certain colour, whether it is solid orange (FireRed) or green (LeafGreen), or translucent ruby (Ruby), green (Emerald) and blue (Sapphire) colors.
+ If there is a small number imprint on the label, it most likely is official. Almost all (if not all) legit games have this. If there isn't, it's a fake.
+ There should be a certain copyright text there. If there isn't, it's a fake.
+ Mainly check the label, for such errors as Licensed or on the back Nintendo.
+ Generally, these fakes won't save properly, and come up with a message when you start it. Pokémon fakes are generally always gonna do this.
+ A good example is Super Mario Advance 4: Super Mario Bros. 3. Which on the fake says 'Licensed By', but the regular cartridge just has "Nintendo" on it.
+, If your game does has a battery inside, it's a fake.

@@ -1,0 +1,4 @@
+@summary
+in title of blog you need to use keywords once.
+@article
+ For example if your key word is technology, you have to use it once in Title. This will tell search engines that the topic is relevant to that keyword and not to something else. For a good ranking you must need to go through this step.;

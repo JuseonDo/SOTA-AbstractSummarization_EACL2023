@@ -1,0 +1,45 @@
+@summary
+open the destination spreadsheet, if different from the spreadsheet you are inserting a hyperlink in.
+
+@summary
+,
+
+@summary
+select the cell or cells you want to link to.
+
+@summary
+open the spreadsheet you want to place the hyperlink in, if different from the spreadsheet you are linking to.
+
+@summary
+,
+
+@summary
+right-click the cell you want to place the hyperlink in.
+
+@summary
+,
+
+@summary
+select "hyperlink" from the popup menu.
+
+@summary
+choose the destination for the hyperlink.
+
+@summary
+assign a screen tip to the hyperlink if desired.
+
+@article
+, If the destination is a single cell, you can use the cell reference. If the destination is a range of cells, you may wish to give that range a meaningful name. To do so, perform the following steps:
+
+
+Select the cell(s) you want to name: a single cell, a range, or non-adjacent selections.
+Click the "Name" field to the left of the formula bar and above the rows and columns of the spreadsheet. (This field will not be available while you are changing the contents of any of the cells you wish to name.)
+Type the name for your cell(s) and press "Enter" on your keyboard.
+,, This displays the Insert Hyperlink dialog box.
+
+
+
+If the link is to a location in the same spreadsheet, select "Place in This Document" in the "Link to:" options pane. Either select one of the sheet names listed under "Cell Reference" and type a cell reference in the field provided, or select a name under "Defined Names." Click "OK."
+If the link is to a location in a different spreadsheet, select "Existing File or Web Page" in the "Link to:" options pane. Navigate to the spreadsheet you wish to link to, then click "Bookmark."
+
+,

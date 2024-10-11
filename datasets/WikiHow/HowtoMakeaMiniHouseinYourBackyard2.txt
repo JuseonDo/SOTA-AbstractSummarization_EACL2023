@@ -1,0 +1,35 @@
+@summary
+dig a square hole in the perimeter of your house.
+
+@summary
+put a board in the hole, put boards in all parts of the hole except one place (this one place will be the door).
+
+@summary
+fill up holes, make sure that the boards don't wobble much by filling up the holes.
+
+@summary
+,
+
+@summary
+screw the boards of wood that are your wall together.
+
+@summary
+seal up the screws.
+
+@summary
+put in a roof.
+
+@summary
+make a door (optional).
+
+@summary
+make windows (optional).
+@article
+ The hole should not be very wide, but should be a foot or 2 deep.;
+, This will be the walls of your house.
+, Do this by putting a small piece of wood on 2 pieces of wall and screwing the ends of the little piece of wood to the pieces of wall. Do this for all parts of the wall.
+ You need to cover the pointy ends of the screws.
+ You probably don't want to get rained on, so you will have to add a roof to your house. For this part, you get a long board of wood, one so long that it can go from one end of your house to the other. Put this board on top of the wall, one end on top of North Wall, the other end on top of the South Wall. (it doesn't have to be North and South, just as long as you use opposite directions. Then, screw the roof board to the wall that is under it. Then continue putting on roof boards.
+ If you want a door, you can put a board on the hole if you want a simple door, but for a more complex door, you should attach hinges to a wall near the door, and attach a board of wood to the other end of the hinge.
+ To make windows, cut out a square in a board before you put it in the hole.
+

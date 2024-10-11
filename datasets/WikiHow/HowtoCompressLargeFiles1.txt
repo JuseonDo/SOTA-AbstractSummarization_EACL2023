@@ -1,0 +1,9 @@
+@summary
+understand that not all files can be compressed by a significant amount.
+
+@summary
+this guide is for compressing files too large for standard compression software, as well as compressing media files.
+@article
+ Compression works by replacing sets of characters within a file with smaller, placeholder characters, resulting in a smaller file size. Not all files lend themselves well to compression, and you may not be able to compress a file much smaller than its original size.
+ If you want to learn how to compress multiple files into a single compressed archive using your operating system's software, click here.
+

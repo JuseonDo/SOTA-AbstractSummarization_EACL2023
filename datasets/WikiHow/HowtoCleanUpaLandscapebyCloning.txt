@@ -1,0 +1,66 @@
+@summary
+open up your image using your chosen software.
+
+@summary
+find your clone tool icon.
+
+@summary
+choose a brush.
+
+@summary
+on your image, locate your brush.
+
+@summary
+hold down the ctrl key and click the area that you want to clone.
+
+@summary
+try for the larger areas first.
+
+@summary
+watch for distinctive items in your scenery that you need to take into consideration, like tree trunks.
+
+@summary
+once you feel like you have the basic items cloned out, zoom in closer to your image.
+
+@summary
+increase the size of the brush, if possible, and work on cloning out the remnants.
+
+@summary
+once you feel you are done with getting the remnants out, zoom back out so that you can see the full image.
+
+@summary
+switch to a larger brush (when possible) and possibly even increase the amount of diffusion of your brush.
+
+@summary
+,
+
+@summary
+continue until you have your desired image.
+
+@article
+ While Photoshop is a great option, it can be out of most people's price range, unless they are using Photoshop CC. But there are several other programs that you can use.
+
+
+Zoner Photo Studio Pro
+Paint.net
+Gimp
+Photoshop;
+, Most of the time, it will look like some type of stamp.
+ You want there to be some area of diffusion. This will help your cloning to blend in.
+ You want to see if the brush is an appropriate size. It needs to be smaller than larger, depending on your source image.
+
+
+The shortcuts to 'growing' or 'shrinking' a brush is usually the [] (square brackets). Try that first.
+ It should be similar to the area around where you are cloning something out. (Alternatively, it could be a right click (or something else), depending on your software).
+ The sky, the wires across the sky, etc.
+
+
+Always remember to make your selection similar to the area that you are cloning over (minus the bad scenery).
+
+
+
+To clone a tree or post, check for the angle of it. Take that into consideration when you make your clone selection.
+ You will still be able to see evidence of the items you were trying to get rid of.
+ Alternatively, you may need to make the brush smaller. It depends on what you are editing.
+ If you look closely, you will see some areas where they are obviously cloned.
+,

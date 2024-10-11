@@ -1,0 +1,15 @@
+@summary
+disconnect your car's battery by removing the positive and negative cables.
+
+@summary
+press and hold your horn for 30 seconds to drain any remaining electricity from the capacitor.
+
+@summary
+,
+
+@summary
+wait 15 minutes and reconnect your battery.
+@article
+ Use a wrench to remove the cables if necessary.
+, The codes should be erased which will cause your engine light to turn off. This process may not work on all vehicle's computers. If the battery is disconnected and the light comes right back on, this may indicate an active problem and should be addressed and fixed.
+

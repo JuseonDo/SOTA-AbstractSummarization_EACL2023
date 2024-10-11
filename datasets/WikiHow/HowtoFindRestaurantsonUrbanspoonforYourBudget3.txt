@@ -1,0 +1,9 @@
+@summary
+return to the dashboard.
+
+@summary
+tap on the dollar sign that matches your budget.
+@article
+ Scroll down to the Price section.
+ You will be presented with a list of nearby restaurants that meet your budget requirement.
+

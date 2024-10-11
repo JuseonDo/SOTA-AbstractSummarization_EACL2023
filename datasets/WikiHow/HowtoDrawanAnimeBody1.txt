@@ -1,0 +1,25 @@
+@summary
+draw a stick figure.
+
+@summary
+draw the head and torso.
+
+@summary
+draw the limbs.
+
+@summary
+,
+
+@summary
+sketch a few more details like the hair and clothing.
+
+@summary
+,
+
+@summary
+color the drawing.
+
+@article
+ A circle for the head, small circles for the location of the joints and small triangles for the hands and feet. These shapes are connected using lines to make a framework for the body.;
+, Add feminine details like the breasts and remember to make the waistline look slender and the hips slightly wide.
+,,

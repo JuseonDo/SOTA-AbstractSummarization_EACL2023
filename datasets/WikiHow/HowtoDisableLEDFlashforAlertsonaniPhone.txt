@@ -1,0 +1,31 @@
+@summary
+open your iphone's settings.
+
+@summary
+tap general.
+
+@summary
+,
+
+@summary
+tap accessibility.
+
+@summary
+,
+
+@summary
+scroll to the "hearing" group of options.
+
+@summary
+tap led flash for alerts.
+
+@summary
+,
+
+@summary
+slide the led flash for alerts switch left to the "off" position.
+@article
+ Do this by tapping the grey cog icon on one of your Home screens. If your Settings app is in a folder, the folder will be named "Utilities.";
+,,, It's the fifth cluster of options on the page.
+, It should turn grey, signifying that your iPhone will no longer flash when you receive alerts.
+

@@ -1,0 +1,5 @@
+@summary
+if you are at a university, you can use their library website to find ebooks.
+@article
+ Sometimes, the results are download-disabled. You can often get around this by getting a PDF printer (like bullzip for windows, or pdfwriter for mac). Selecting a PDF printer when you print a page just saves the file onto your computer as a PDF.
+

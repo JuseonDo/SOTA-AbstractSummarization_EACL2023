@@ -1,0 +1,41 @@
+@summary
+if you don't already have paint.net, download and install paint.net.
+
+@summary
+once the file has opened, click on the image menu and choose the resize option.
+
+@summary
+notice the maintain aspect ratio checkbox.
+
+@summary
+change the width of the picture to 300 now.
+
+@summary
+set your height and width to values that you want and click ok. don't be afraid to experiment!,
+
+@summary
+save the photo.
+
+@summary
+adjust the quality setting.
+
+@summary
+click ok, and you are done!
+
+@article
+
+
+
+For this article, this picture will be used.;
+,
+
+
+Notice that the current file dimensions are shown. The photograph is now 500 pixels wide and 375 pixels high, but will be made smaller.
+ Make sure that it is checked. By doing so, you can change the value of the width, and Paint.NET will automatically calculate the correct value for the height (or vice versa) so the photo won't get distorted.
+
+
+
+Paint.NET has automatically adjusted the height to 225 pixels.
+ Paint.NET has a nice undo function that will quickly restore your photo to its original size (plus, you have that backup copy).
+ Click on the File menu and choose Save As... Type in a new file name for your resized photo and click OK.
+ The higher the quality, the larger the size of the file will be. If you lower the quality, the file size will be smaller. If you don't care about file size at all, just leave the slider at 95% or 100%.

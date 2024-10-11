@@ -1,0 +1,34 @@
+@summary
+open the snapchat app.
+
+@summary
+swipe down on the screen.
+
+@summary
+tap add friends.
+
+@summary
+,
+
+@summary
+tap add by username.
+
+@summary
+,
+
+@summary
+search for a friend.
+
+@summary
+,
+
+@summary
+tap on the friend's search result.
+
+@summary
+check their snap score.
+@article
+ The icon looks like a white ghost on a yellow background.;
+, A menu with slide down with your contact information and various menu options.
+,,, A pop up with their name will appear.
+ If a number doesn’t appear next to their username, this means they have either blocked or deleted you from their contacts list.

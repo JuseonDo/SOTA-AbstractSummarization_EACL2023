@@ -1,0 +1,21 @@
+@summary
+download the software: http://www.junefabrics.com/android/
+
+@summary
+the software is free, but you won't be able to access secure websites unless you pay.
+
+@summary
+install the software.
+
+@summary
+test the connection.
+@article
+;
+, The installation will tell you what to do, including:
+
+
+Enable debugging on your phone.
+Connect the phone to your laptop using the USB cable that came with the phone.
+Start the program.
+ Disconnect from any wireless networks you may already be using and activate PdaNet. You should now be able to access the Internet from your laptop by using your phone's data connection.
+

@@ -1,0 +1,26 @@
+@summary
+locate the thumbnail of your profile picture.
+
+@summary
+hover over the icon of your profile picture to launch a drop-down menu.
+
+@summary
+,
+
+@summary
+click on “manage” next to “privacy and settings”.
+
+@summary
+select the “privacy” tab.
+
+@summary
+click “who can see your connections.” it is the second option from the top of the list.
+
+@summary
+click on “your connections” and locate the drop down menu in this section.
+
+@summary
+choose “only you”.
+@article
+ This square icon is found at the very top, right corner of the page. It is located to the right of the search bar, “Message” icon, “Notification” icon, and “Grow my network” icon.;
+,,, It is located below the top banner, in between the “Account” and “Communications” tabs.,, “Your connections” is the default option. When selected, only your first degree connections may view your contacts. Those who you are not connected with do not have access to this list., Selecting this option prevents your first degree connections from viewing your full contact list.

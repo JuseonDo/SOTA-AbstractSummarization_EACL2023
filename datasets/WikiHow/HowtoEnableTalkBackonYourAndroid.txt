@@ -1,0 +1,27 @@
+@summary
+open the launcher and go to "settings.
+
+@summary
+go to accessibility.
+
+@summary
+tap on “talkback,” under “services.”
+
+@summary
+,
+
+@summary
+switch "on.",
+
+@summary
+click “ok.” a confirmation message may pop up.
+@article
+";
+, Scroll down the list and go to “Accessibility.”
+
+,, Then, turn it on by switching the button at the top right.
+ Simply click "OK."
+
+
+That’s it! A tutorial will be shown to you so that it is easier for you to use your Android cell phone with TalkBack enabled.
+

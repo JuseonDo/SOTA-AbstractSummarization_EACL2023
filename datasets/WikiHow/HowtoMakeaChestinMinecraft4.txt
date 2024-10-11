@@ -1,0 +1,10 @@
+@summary
+note that chests are designed with compass orientation that affects placement of items.
+@article
+
+
+
+The top three rows in the chest correspond to the western or northern chest block.
+The bottom three rows correspond to the southern or eastern chest block.
+In the large chest, you'll find the items organized into the southern or eastern side, which will depend on the orientation of the chest.
+

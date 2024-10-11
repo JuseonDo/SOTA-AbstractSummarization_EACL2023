@@ -1,0 +1,9 @@
+@summary
+open microsoft word.click on file in the menu bar at the top of the screen.click on open….select the pdf file you want to convert to word.click on open.
+
+@summary
+click on ok.
+@article
+ Do so by clicking on the app shaped like a blue W.
+,,,, The file you selected will be converted to an editable Word document.As with any PDF conversion, the converted document may not have perfect page to page correspondence due to line breaks, page breaks, graphics, etc. Some manual adjustment may be necessary.
+

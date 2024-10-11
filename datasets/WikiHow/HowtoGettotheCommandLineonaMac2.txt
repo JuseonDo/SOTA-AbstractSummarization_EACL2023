@@ -1,0 +1,13 @@
+@summary
+click the spotlight icon.
+
+@summary
+type terminal into the search box.
+
+@summary
+double-click terminal.
+@article
+ It’s the magnifying glass at the top right corner of the screen.You can also open Spotlight by pressing ⌘ Command+Space on the keyboard.
+ “Terminal” will appear in the search results.
+ The Terminal application will now launch to the command prompt.
+

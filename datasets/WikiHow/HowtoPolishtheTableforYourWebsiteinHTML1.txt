@@ -1,0 +1,84 @@
+@summary
+first of all, create a basic table layout to work on.save the file as table1.html
+
+@summary
+,
+
+@summary
+open table1 in your browser and your table will be displayed in the basic form:
+
+@summary
+,
+
+@summary
+now, let's start editing.
+
+@summary
+adjusting the space between cells by adding cellpadding and cellspacing commands to your code as follows:
+
+@summary
+cellpadding - increases a vertical dimensions of cells;
+
+@summary
+cellspacing - increases the border around the cells;
+
+@summary
+the result is shown below:
+
+@summary
+,
+
+@summary
+specify the width of the table.
+
+@summary
+specify the width of columns, by setting the value on your data cells tag (td):
+
+@summary
+in previous step the width of the columns adjusted evenly.
+
+@summary
+specify the height of the table.
+
+@summary
+center the data in cell.
+
+@summary
+align the content vertically.
+
+@summary
+add colour to your table.
+
+@summary
+analogically set the background colour for rest of your cells.
+
+@summary
+save your file as html again, open it in browser and you can view your project ready!
+
+@article
+ Just open Notepad and copy the following code:
+
+,,, Keep Notepad file with html code open, we will edit one thing a time by editing the code.
+, Simply add the width attribute to your code:
+
+
+You can do it in either percentage or pixel width. In this example it is a set width of 600 pixel, and it will not change depending on the screen size. If you set it in percentage width, it would adjust to the screen size automatically.
+ If you don't want your columns to be the same width, you cane set the width values separately for each column.
+
+This is what you achieve by changing both widths:
+
+
+
+, Just add the height command to the table tag. The height of rows will adjust evenly. The effect is shown below.
+ Notice, that only Table Title has already been centered by the align attribute. The content in the rest of cell is left aligned by default. Add the align attribute to all cells by updating the code as shown below:
+
+, By default all the content in cells is vertically centered. Sometimes, however you might prefer to have it aligned from the top. In our example, we have done for our 2 center and right column. Just add the align attribute in appropriate cells as follows:
+
+
+Your horizontally and vertically aligned table will look like that:
+
+, First, let's change the background colour, by including bgcolor command in Table Title cell:
+
+, In our example first column has a different colour then the other two:
+
+,

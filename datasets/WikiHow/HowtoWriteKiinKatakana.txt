@@ -1,0 +1,27 @@
+@summary
+make the first stroke.
+
+@summary
+make the second stroke.
+
+@summary
+make the final stroke.
+
+@summary
+finished.
+
+@summary
+,
+
+@summary
+practice writing it.
+@article
+ From left to right, draw a horizontal line. Make it a little slanted upwards.
+
+
+
+ ;
+, Draw another horizontal line below the first stroke.
+ From top to bottom, make a vertical line intersecting the two strokes. Allow it to be slanted at a southeast direction.
+, Use blank kana practice sheets and go across the sheet.
+

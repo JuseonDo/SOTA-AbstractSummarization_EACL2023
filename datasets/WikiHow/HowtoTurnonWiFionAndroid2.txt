@@ -1,0 +1,32 @@
+@summary
+open your app drawer.
+
+@summary
+tap
+
+@summary
+or settings.
+
+@summary
+slide the wi-fi switch to the on (blue) position.
+
+@summary
+tap wi-fi or
+
+@summary
+to view available networks.
+
+@summary
+,
+
+@summary
+tap the network you want to join.
+@article
+ This is the list of apps on your Android phone or tablet. You can usually open it by tapping the icon with 6 to 9 dots at the bottom of the home screen.
+ You may have to scroll down to find it.
+ When the switch turns blue, Wi-Fi is ready to use.
+, Then, if prompted, enter the network’s password to access the wireless network.
+
+
+You should only have to enter a network’s Wi-Fi password the first time you connect.
+

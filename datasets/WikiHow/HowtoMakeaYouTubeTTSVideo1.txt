@@ -1,0 +1,47 @@
+@summary
+get a video editing software.
+
+@summary
+get speakonia.
+
+@summary
+register a video editing software you have.
+
+@summary
+download sam, mike and mary.
+
+@summary
+make concepts.
+
+@summary
+add some words into speakonia.
+
+@summary
+make errors.
+
+@summary
+put audio.
+
+@summary
+make a youtube account if you don't have one.
+
+@summary
+,
+
+@summary
+publish your rendered movie to youtube and you're now a tts video maker!
+
+@summary
+,
+
+@summary
+make more.
+@article
+ The most popular video editing programs for making TTS videos are Sony Vegas and Windows Movie Maker.;
+, You'll need this to download to make TTS videos. To convert the text you entered, the voice you chose, its pitch, speed and volume, register it and restart it.
+ Except for Windows Movie Maker, this option is for people who read this with Sony Vegas only.
+ This is currently available from visiting the CFS-Technologies' website, but the company is defunct currently. It has only 2 pages.
+ Sam, Mike and Mary all have concepts made by its creators.
+ You'll be able to make a silent movie without the voices downloaded, with Speakonia. You will be able, if you register it, to export it to .WAV files.
+ If you are doing a "Funny Windows Errors" episode, be sure to put Microsoft Sam only. Also, you can visit "atom.smasher.org" to make the errors to be in the show. Be sure, the errors Sam reads are funny. You can also take error requests, if you like.
+ The great movie does not look good if you don't have .WAV files exported from Speakonia. If you are doing a FWE episode, be sure to know: one error - one line. You can also in a FWE episode you're doing, put "Next error, please" before the next error.,,, But not at the same day.

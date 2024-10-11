@@ -1,0 +1,45 @@
+@summary
+verify that your character owns four gold ingots, one redstone, and a crafting table.
+
+@summary
+navigate to your crafting table and position your character directly in front of the table.
+
+@summary
+,
+
+@summary
+open the crafting table to access the crafting menu.
+
+@summary
+add the redstone to the crafting grid, and move the stone to the middle box in the center of the grid.
+
+@summary
+,
+
+@summary
+add four gold ingots to the crafting grid, and position each stone around the redstone.
+
+@summary
+verify that the clock appears in the box to the right of the 3x3 crafting grid.
+
+@summary
+select the option to place the clock into the fourth, bottom row of your character’s inventory, also known as the “hotbar.” you can now use and refer to your clock to determine the time of day in minecraft.
+
+@article
+ These items are required to create a clock.
+
+
+
+Smelt Gold Ingots using a furnace and fuel, craft Gold Ingots using blocks of gold or gold nuggets, or search for Gold Ingots in dungeon chests, blacksmith chests, or by killing a zombie pigman.
+
+Obtain a Redstone by mining redstone ore, searching for Redstone in caves or jungles, or trading emeralds for it with a village priest.
+
+Create a crafting table by gathering wood, constructing wood planks, and using the wood planks to build the table.;
+,, The clock must be crafted using the Gold Ingots and Redstone in a crafting table. The instructions for accessing the crafting menu vary depending on your gaming system. Upon opening the crafting menu, the 3x3 crafting grid will display on-screen.
+
+
+Minecraft PC: Right-click on the crafting table to open the crafting menu.
+Minecraft PE: Tap on the crafting table to open the crafting menu.
+Xbox 360 / Xbox One: Press the “X” button on your Xbox controller to open the crafting menu.
+PS3 / PS4: Press the square button on your PlayStation controller to open the crafting menu.
+, The four gold pieces must be positioned to the left, to the right, above, and below the Redstone. The items must be placed into the grid in this order to craft the clock., The clock is yellow and features a blue background.

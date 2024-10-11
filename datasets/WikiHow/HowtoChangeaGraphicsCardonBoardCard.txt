@@ -1,0 +1,35 @@
+@summary
+research a bit about your video card you want to install and on the motherboard that you have.
+
+@summary
+make sure the video card that you want to install can fit into your motherboard before doing the next steps or you will waste time, and time is money (or you can even damage your motherboard/video card forcing it in, who knows).
+
+@summary
+,
+
+@summary
+disable your on board graphics card, to do this turn on your computer and press 'delete' or 'f2' you will see your bios (basic input output system) will come up then you will have to disable the graphics card from there by going ad searching for "integrated peripherals" and have a look for on board graphics or on board video.if you find it, disable it.
+
+@summary
+static electricity can seriously damage the components inside a computer.
+
+@summary
+to get into the tower you will have to remove the panel which is on the right hand side when viewing the tower from the back.
+
+@summary
+locating the slots.
+
+@summary
+inserting the new card.
+
+@summary
+installing your graphics card.
+@article
+ Is your video card an AGP (Accelerated Graphics Port), PCI (Peripheral Component Interconnect), or PCI-E (Peripheral Component Interconnect Express)? Most older Motherboards have an AGP slot, but today modern Motherboards have one or even multiple PCI-E slots.;
+,,(Modern Motherboards have an option of detecting a Video card before activating the on-board VGA, if so you can just put in the video card into the right slot on the motherboard and it'll auto-detect it without activating on-board video, but do read the next step before doing so.
+ To avoid this you must ensure you are grounded when operating inside your computer. One way to do this is to purchase an anti-static wrist strap which you should wear at all times. The wrist-strap plugs into an electrical socket which will automatically discharge the static electricity in your body or touch a metal type part of your PC case with both hands (the PC must be off).
+ Open this side of computer case by removing the screws at the back of the tower which are holding it in place. Then simply slide the panel off.
+ The slots will be right at the back bottom of the tower where you will see a some slots that may be colored in white or brown depending on your motherboard make sure you know which slot it is going to go in then remove the silver panel on the tower that is screwed to the tower unscrew the two screws that are holding the silver strip in place.
+ Just out side the motherboard you will see a unscrew the one screw and then just push the card gently in to position and then screw the one screw back.
+ when your computer restarts it will go into "SAFE MODE" then you put the disc that came with the card and install the video driver. Restart your computer, Adjust the resolution and you are all set.
+

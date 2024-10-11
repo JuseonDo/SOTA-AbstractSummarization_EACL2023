@@ -1,0 +1,31 @@
+@summary
+kill endermen and get their ender pearls.
+
+@summary
+kill blazes in the nether and get their blaze rods.
+
+@summary
+throw an eye of ender and follow it.
+
+@summary
+find the structure with lava in the middle and fill in all of the empty frames.
+
+@summary
+attack all of the ender crystals.
+
+@summary
+once the ender crystals are destroyed, shoot the ender dragon!,
+
+@summary
+once it explodes, find a bedrock frame.
+@article
+ Then use it and blaze powder (next step) in a crafting table to get at least 15 Eyes of Ender.;
+, Then craft it into Blaze Powder (one Blaze Rod).
+ Keep repeating until it flies to the ground, but remember the #1 Golden Rule in Minecraft: Never dig straight down!
+
+, Then jump in and it should load!
+
+, They will heal the Ender Dragon, but if it is healing from a crystal and it is attacked, the Ender Dragon should take damage as well! On the Console Edition, two of them will be surrounded with iron bars, so you will have to use a melee weapon.
+ On the Console Edition, you will also have to dodge it's Ender Acid.
+ Don't go in it yet! Get to the top of the middle and mine the egg, then jump in. Enjoy the Ender Poem!
+

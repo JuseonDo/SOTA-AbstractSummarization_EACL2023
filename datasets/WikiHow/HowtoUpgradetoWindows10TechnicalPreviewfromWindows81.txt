@@ -1,0 +1,45 @@
+@summary
+open the link.
+
+@summary
+log in.
+
+@summary
+accept the license agreement and select your area of interest.
+
+@summary
+select whether you want to download windows 10 for your pc or phone.
+
+@summary
+,
+
+@summary
+read the instructions carefully and then press the get the preview button.
+
+@summary
+,
+
+@summary
+click start upgrade now.
+
+@summary
+download the software.
+
+@summary
+open the file.
+
+@summary
+save your unsaved data.
+
+@summary
+done.
+@article
+ Go to the Windows Insider page and click Get Started.;
+, On the next screen, enter your Microsoft account and password and click Sign in.
+ Press Submit.
+,, If you are not already registered with the Windows Inside program, then you'll have to register.
+ Now your download will start shortly.
+ Double click on the downloaded "Windows10TechnicalPreview.exe" file.
+ Now restart your PC and follow the on-screen instructions.
+ Use and enjoy Windows 10!
+

@@ -1,0 +1,18 @@
+@summary
+get a better rank.
+
+@summary
+find a group of troopers.
+
+@summary
+press the appropriate button on the d-pad.
+
+@summary
+go onto the battlefield and fight the enemy!
+@article
+ When you're a private, you can only command 1 soldier. you can get a better rank by playing more battles and earning more medals to gain points.;
+, Once you find a reasonable group, get near them and immediately move to the next step.
+ The up arrow commands your team to follow, the down arrow makes them fall back. The side ones... I forget! If someone knows, please say so!
+
+, Now that you have a team, you have a better advantage and chance of taking the enemy out.
+

@@ -1,0 +1,13 @@
+@summary
+before you can get the silver axe, you need to have a fountain.
+
+@summary
+have a bridge.
+
+@summary
+donate 400,000 bells to the town fund.
+@article
+ Skip these steps if you've already got one.;
+, You need a bridge first. That's the first thing you need before you get your fountain.
+ (Not including the 200,000 for the extra bridge.) You can't use it the first day because Mayor Tortimer will be standing in the way.
+

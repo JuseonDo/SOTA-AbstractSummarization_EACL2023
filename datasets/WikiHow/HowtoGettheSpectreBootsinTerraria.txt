@@ -1,0 +1,17 @@
+@summary
+get a tinkerer's workshop.
+
+@summary
+find the flurry boots or the hermes boots.
+
+@summary
+find the goblin tinkerer again.
+
+@summary
+combine the the hermes/flurry boots at the tinkerer's workshop.
+@article
+ You can get one by defeating a Goblin Invasion and buying it from the Goblin Tinkerer.
+ They will be in chests scattered around the world.
+
+You can find chests like this in small overhangs or caves below the surface.
+ Purchase the Rocket Boots., Tada, you have the Spectre Boots!

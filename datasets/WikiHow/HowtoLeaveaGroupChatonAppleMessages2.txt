@@ -1,0 +1,26 @@
+@summary
+open the messages application.
+
+@summary
+,
+
+@summary
+click on the group chat you wish to leave.
+
+@summary
+click on details.
+
+@summary
+check the number of chat participants.
+
+@summary
+click on add member.
+
+@summary
+click on leave this conversation.
+@article
+, The conversations are listed on the left side of the of the window.
+ It's a blue link in the upper right of the messages window.
+ If there are fewer than four, you will have to add a contact or two in order to leave.
+ Add contacts until there are four participants in the chat.
+ You've now left the group chat on iMessage.

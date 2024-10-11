@@ -1,0 +1,34 @@
+@summary
+go to the website, www.mixpod.com and create an account.
+
+@summary
+after you have created/activated/confirmed your mixpod account, there is a navigation bar on the website and click "create playlist" and it takes you to a search page where you could search up songs.
+
+@summary
+after putting on all the songs you want on your playlist, go to the next tab which says "2.
+
+@summary
+there are three links on this tab.
+
+@summary
+go to "settings" and it shows options for your music player.
+
+@summary
+when you are done customizing your music player, go to the third tab, "save playlist" and name the playlist, add tags, and check the boxes of the genre of music content in your playlist.
+
+@summary
+,
+
+@summary
+click on save(get code) and it will take you to a page which has your playlist's html.
+
+@summary
+save your changes and go to your profile page to test if what you want comes out correctly.
+
+@article
+ This website allows you to create a playlist with any songs on it and allows you to customize your desired music player. Make sure you use an email you actually use or know the user/password to because you may have to do some email confirmation.;
+, These videos are from Youtube and if you choose a video player (you will learn later), you will be able to view the video part.
+ Customize" and choose how you want your music player to look like.
+ "skins", "colors & styles", and "settings". click on "colors & styles" first so you can add patterns, change colors, and add decorations to your music player.
+ The first option is Autoplay. If you check yes for this, the music will automatically start playing when you enter your Myspace Profile. Shuffle randomizes the order of the songs in your playlist. Loop makes it so when your music player is done playing all the songs, it starts all over again. Privacy is the option for if you want your playlist to be private or public so it is able to be seen by other Mixpod users. You do not need to change the Volume option because you can just turn up or down your computer volume.
+, Press the little "copy" button and it will auto copy the HTML code. Go to your Myspace page and there's two options: you can put the HTML code in your "about me" box on "edit profile" or you can go to "customize profile" and paste the code into a blank HTML box.

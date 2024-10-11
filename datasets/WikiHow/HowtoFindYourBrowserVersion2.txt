@@ -1,0 +1,21 @@
+@summary
+open your browser.
+
+@summary
+,
+
+@summary
+navigate to whatsmybrowser.
+
+@summary
+,
+
+@summary
+click on copy.
+
+@summary
+share the link with your support technician.
+@article
+,, This will copy the link to your clipboard.
+ Note that you can easily find the important details about your browser on one screen and, typically, in under a half minute.
+

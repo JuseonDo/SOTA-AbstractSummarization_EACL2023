@@ -1,0 +1,63 @@
+@summary
+log into your yahoo account with your email and password.
+
+@summary
+click "more on yahoo" under the "more" link.
+
+@summary
+find and click on "help".
+
+@summary
+,
+
+@summary
+under "i need help with", click on "account".
+
+@summary
+scroll down to the "i need help with" section.
+
+@summary
+,
+
+@summary
+click on the "browse by topic" menu, then click "create or delete account".
+
+@summary
+,
+
+@summary
+select the "close your yahoo account" option.
+
+@summary
+click the "'terminating your yahoo account' page" link.
+
+@summary
+,
+
+@summary
+enter your yahoo password.
+
+@summary
+click "next", then continue to the "terminating your yahoo account" page.
+
+@summary
+,
+
+@summary
+re-enter your password, then confirm by entering a captcha code.
+
+@summary
+click "yes - terminate this account".
+@article
+ If you want to start over with an entirely new profile in both Yahoo and Flickr, deleting your Yahoo account is a bit quicker than deleting each one individually. Closing your Yahoo account will also close any services associated with Yahoo--for example, Flickr.
+
+
+If you have a Flickr Pro account, you'll need to log into Flickr directly and cancel your paid subscription before deleting your Yahoo account. You can do this by visiting your Flickr's "Order History" tab.
+ You'll find this option in the tool bar on the left-hand side of the screen.
+, This page may take a few moments to load.
+,,,, This should be the same password you use to log into Yahoo.
+, You will still have to confirm your account deletion in the next window.
+
+
+If you struggle with visual captcha codes, you can also select the "audio" option right above the code window., Your account should be gone! To verify your account deletion, try logging into Yahoo as well as Flickr. Your login credentials should no longer work.
+

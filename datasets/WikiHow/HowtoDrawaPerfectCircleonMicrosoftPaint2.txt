@@ -1,0 +1,30 @@
+@summary
+open microsoft paint.
+
+@summary
+select the ellipse tool.
+
+@summary
+click and drag with the mouse in the drawing space to make an ellipse.
+
+@summary
+press and hold ⇧ shift.
+
+@summary
+,
+
+@summary
+release the mouse button.
+
+@summary
+release ⇧ shift.
+@article
+ This program is located in “Start Menu > Programs > Windows Accessories”.
+ This tool is the oval button in the toolbar in the “Shapes” section.
+ Do not release the mouse press.
+,
+
+
+If you release the mouse button before pressing ⇧ Shift the ellipse will be drawn and you cannot turn it into a circle. You can undo the ellipse by pressing Ctrl + Z and try again.
+ The ellipse will snap into a circle shape matching the height of the ellipse.
+

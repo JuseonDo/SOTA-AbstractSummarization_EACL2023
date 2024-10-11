@@ -1,0 +1,64 @@
+@summary
+make sure you are running on the latest mac operating system.
+
+@summary
+open terminal.
+
+@summary
+copy the following text:
+
+@summary
+defaults write com.apple.dashboard devmode yes && killall dock
+
+@summary
+this text is essentially a command that will tell your mac to allow you to move widgets like your calendar and calculator from your dashboard to other places.
+
+@summary
+paste the text into terminal.
+
+@summary
+press the return key to carry out the command.
+
+@summary
+open system preferences.
+
+@summary
+click on mission control.
+
+@summary
+uncheck the box that reads "show dashboard as a space".
+
+@summary
+open your dashboard.
+
+@summary
+click and hold the cursor on your calendar.
+
+@summary
+with your cursor still held on your calendar, press "fn+f12" to close your dashboard.
+
+@summary
+to remove the calendar from your desktop, click and hold the cursor on your calendar while pressing "fn+f12".
+@article
+ If you are not sure, click here to find out how to check what system you're running on.
+ Terminal is a highly technical program that processes the commands that your Mac receives to carry out different functions.Don't worry - we'll be using it for something pretty straightforward. To open Terminal:
+
+
+
+Click on the magnifying glass at the top-right corner of your screen to open Spotlight. Spotlight is a program that allows you to search for anything stored on your hard drive.
+In the search bar that appears, type "Terminal".
+
+Click on the Terminal application.
+ To copy the text into Terminal:
+
+Highlight the text by triple-clicking inside of the box.
+Press "Command+C" to copy the text.
+ Open Terminal, and press "Command+V" to enter the text.
+ The command is now completed, and you can close Terminal.
+ To do this, click on the Apple logo in the top-left corner of your screen. In the drop-down menu that appears, click "System Preferences...".
+ This panel allows you to control your dashboard, as well as all windows that may be open on your computer.
+ This will allow you to see your dashboard from your desktop.
+ To do this, press "fn+F12" at any time.
+ You'll now be able to move it around the window, but what we want is to take it onto the desktop.
+ Your calendar will stay with your cursor, allowing you to drop it on your desktop., This will allow you to open your dashboard again, where you can place your calendar by letting go of your mouse!
+

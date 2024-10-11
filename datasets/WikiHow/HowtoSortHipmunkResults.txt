@@ -1,0 +1,22 @@
+@summary
+search for the hotels in the city you want from the main page in hipmunk.
+
+@summary
+choose a type to sort by, such as "price.",
+
+@summary
+select any other sort type you want, such as "stars.",
+
+@summary
+check or uncheck the types you want to search for.
+
+@summary
+select the amenities you really want to have.
+@article
+ Click where it says "Sort by.";
+, Click on the "Price Filter" on the right to choose between "Budget" and higher priced hotels. You'll see the new hotel list reflected both on the right and on the number-matched map.
+ The highest starred hotels will be listed first. You can also search by reviews. Click on "Property Types" next.
+ If you don't want to find apartments or houses, you can uncheck these from the map. Click on "Amenities."
+
+, If you only want places with air-conditioning, for example, then check that option in the list. You can also sort by "Chains" if you only want Hilton hotels, for example.
+

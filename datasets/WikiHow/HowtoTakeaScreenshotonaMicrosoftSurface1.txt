@@ -1,0 +1,20 @@
+@summary
+turn on your computer to the screen you'd like to screenshot.
+
+@summary
+locate and press the volume down button at the top of the device just to the right of the power button.
+
+@summary
+locate the windows button on the outside of the screen.
+
+@summary
+press both the volume down and windows buttons simultaneously to capture your screenshot of the entire screen.
+
+@summary
+find your screenshots stored in the screenshots subfolder of the top-level pictures folder on the username's account the screenshots have been taken from on that specific device.
+
+@article
+ Whether it's a screenshot of a game's tricky secret information, or some other dialog box, bring yourself to the point where you'd like to screenshot.;
+, (On older model Microsoft Surface's such as the Microsoft Surface and Surface 2, this volume switch will be on the left side of the device, when the device is held in landscape mode and the Microsoft button on the outside of the device is facing downwards towards the hard surface.) This is only one of two button you'll need to press consecutively to capture your screenshot.
+ This is the second button of the two you'll need to use to capture your screenshot. On a Microsoft Surface 3, this button will be on the very right hand side of the device, when the device is held in landscape mode. On a Microsoft Surface 2, this button will be at the very bottom of the device when the device is held in landscape mode.
+ The screen will flicker once when your screenshot has been taken.

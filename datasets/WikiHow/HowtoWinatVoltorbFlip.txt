@@ -1,0 +1,13 @@
+@summary
+flip over all cards in lines where the number of voltorb is zero.
+
+@summary
+open your memo.
+
+@summary
+you can start flipping over cards now.
+@article
+;
+, First, in any line with a value of zero, mark all cards as Voltorb. Second, in any row or column where the line value and the number of Voltorb add up to five, mark every card in that line with a 1. These cards are not worth flipping over because they are either 1 (which will not help you) or a Voltorb.
+ Make sure to keep a few things in mind while doing this; see tips below.
+

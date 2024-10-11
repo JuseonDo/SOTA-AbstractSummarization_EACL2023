@@ -1,0 +1,35 @@
+@summary
+include misspelled or mistyped phrases.
+
+@summary
+use uncommon phrases.
+
+@summary
+translate to words and phrases outside of english.
+
+@summary
+use keyword research to find more profitable keywords for your ad.
+
+@summary
+,use the google adwords keyword tool keyword tool to find more keywords
+
+@summary
+,
+
+@summary
+keep the number of keywords per adgroup low.
+
+@summary
+keep your adwords ad text relevant to your keyword.
+
+@summary
+monitor your adwords account performance.
+@article
+ You will be surprised that there are actually a lot of searches conducted on the Internet with misspelled search terms. See if you can think of any typos that a user may make when spelling the name of your product.;
+, An example is "Canon Printer Model XXXX@@JJD". The person who searches for information which is so specific is more likely to buy the product.
+ What is the name of your product in Spanish and Japanese?
+
+,,, If possible, use only one keyword per adgroup, but use all three match types.
+ Use the keyword once in the headline and once in the body of the text ad.
+ Delete keywords and AdGroups with low number of impressions and clicks. Each Keyword in an AdGroup affects the whole AdGroup. Low performing keywords in the same Adgroup will bring down performance (and increase CPC) of the whole AdGroup.
+

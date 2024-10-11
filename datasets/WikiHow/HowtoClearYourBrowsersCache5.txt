@@ -1,0 +1,16 @@
+@summary
+click the edge menu button (...) and select settings.
+
+@summary
+click the "choose what to clear" button.
+
+@summary
+ensure "cached data and files" is checked.
+
+@summary
+review the list of items to be cleared.
+
+@summary
+click "clear" to delete the checked items.
+@article
+ This will open the Settings sidebar., You'll find this under the "Clear browsing data" heading., This is usually selected by default., Everything that is checked will be removed, so review the list and select or deselect any of the items., As long as "Cached data and files" is checked, your Edge browser cache will be deleted.

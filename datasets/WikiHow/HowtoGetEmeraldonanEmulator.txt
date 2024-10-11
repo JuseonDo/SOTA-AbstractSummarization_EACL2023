@@ -1,0 +1,29 @@
+@summary
+download a game boy advance emulator.
+
+@summary
+download the pokémon emerald rom.
+
+@summary
+run visual boy advance.
+
+@summary
+go to file>open gameboy.
+
+@summary
+now it will say "internal battery has run 'dry', the game can be played," to fix that, go to options>emulator>real-time clock and click the r-time clock.
+
+@summary
+to add cheats, go to cheats>cheatlist and go to gameshark, codebreaker or any other option and do what it says.
+
+@summary
+cheats automatically are enabled once entered in.
+@article
+ Visual Boy Advance is a popular emulator. Visual Boy Advance can be found at http://emulator-zone.com/doc.php/gba/vboyadvance.html.;
+, This ROM can be found at http://coolrom.com/roms/gba/14604/Pokemon_Emerald.php.
+ This is a .exe type file. If it asks to always pop up the Window, uncheck "Don't ask me Again".
+ Then chose the ROM (Emerald). It will start playing! You may want to go to Options>JoyPad>Configure>1 to understand the Different controls.
+ Now close and repeat steps 3 & 4.
+ Meaning put the code in the 'Code Here' Section and put the name of the Code in the 'Description'. To get codes, go to https://youtube.com and look up "Cheat codes for Emerald game shark".
+ As in common sense, just unclick the box to disable the Code. This is a great way to capture all Pokémon, JUST CHEAT.
+

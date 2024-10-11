@@ -1,0 +1,21 @@
+@summary
+open your outlook application on your computer.
+
+@summary
+choose an email in your inbox and click “reply” at the top of the email screen.
+
+@summary
+select the email signature tab.
+
+@summary
+click on the “replies/forwards” drop-down menu.
+
+@summary
+remove the signature.
+@article
+ Do this by double-clicking its icon on your desktop or clicking on it in the Start menu.
+ You should now see the E-mail Signature tab amongst the options.
+ An additional menu should appear.
+ This menu should be under the “Choose default signature” option.
+ Select “None,” and when you choose “None,” the automatic signature will be removed from your emails.
+

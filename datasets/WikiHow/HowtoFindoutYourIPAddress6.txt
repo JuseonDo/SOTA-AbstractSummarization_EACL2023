@@ -1,0 +1,19 @@
+@summary
+open the settings app.
+
+@summary
+,
+
+@summary
+tap "wi-fi.",
+
+@summary
+tap the ⓘ button next to your wireless network.
+
+@summary
+find the "ip address" entry.
+@article
+, This will display a list wireless networks.
+ This will open the details for the wireless network you are connected to.
+ This will display your iPhone's IP address, and will usually be towards the top of the list.
+

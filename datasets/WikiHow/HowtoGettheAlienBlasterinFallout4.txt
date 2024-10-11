@@ -1,0 +1,37 @@
+@summary
+start fallout 4.
+
+@summary
+wander the wasteland.
+
+@summary
+look out for unidentified flying objects.
+
+@summary
+follow the ufo.
+
+@summary
+approach the wreckage of the ufo.
+
+@summary
+follow the blood trail to a nearby cave.
+
+@summary
+locate the alien.
+
+@summary
+make sure you are hidden.
+
+@summary
+loot the alien's corpse.
+@article
+ Exit the Vault to begin.;
+, The Alien Blaster will become available at random times.
+ Availability will be signaled by a UFO rocketing past you in the sky.
+ If you lose it, don't worry. It crash lands just East of Oberland Station.
+ It will be abandoned, with a blood trail leading away.
+ Equip a gun and enter the cave.
+ He will be huddling near the end of the cave with some scrounged supplies near a corpse.
+ While hidden, shoot the alien. Make sure it doesn't have a chance to fight back, as the Alien Blaster has devastating effects.
+ You will find the Alien Blaster and several hundred rounds.
+

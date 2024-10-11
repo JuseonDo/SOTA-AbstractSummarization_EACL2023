@@ -1,0 +1,62 @@
+@summary
+launch microsoft powerpoint and open the presentation file.
+
+@summary
+select the first slide in the left pane that will be transitioning.
+
+@summary
+,
+
+@summary
+click the slide animations tab in powerpoint 2007 or 2010.
+
+@summary
+review the possible animation types.
+
+@summary
+adjust the slide animation speed by choosing slow, medium or fast from the transition speed drop-down menu box.
+
+@summary
+,
+
+@summary
+decide if you will be using a transition sound.
+
+@summary
+add the transition cause of either "on mouse click" or "after xx seconds.",
+
+@summary
+preview the transition scheme.
+
+@summary
+,
+
+@summary
+make any necessary corrections.
+
+@summary
+,
+
+@summary
+select "apply to all" if you will be using this scheme for all slides within the presentation.
+@article
+
+
+
+Browse to the file you want to open, click it to select it and then click the OK button.;
+,, In PowerPoint 2003, click the Slide Transition menu item under the Slide Show menu.
+
+
+
+The most basic transitions include unfolding from the bottom, top or either side; appearing with a pixelated effect; fading in from either a white or black background.
+More advanced slide transition types are also listed, such as a wiping animation from one side to the other, a wheel animation and bar transitions.
+,
+
+
+PowerPoint has an array of sample sounds from which you can choose, or you can use your own sound file with a .wav extension.
+
+
+
+If choosing an automatic transition, be sure to set the number of seconds your slide will be visible before it begins to change.
+,, Otherwise, select the next slide in the left pane and repeat the steps to set a new transition scheme.
+

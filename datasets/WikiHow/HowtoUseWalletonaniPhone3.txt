@@ -1,0 +1,19 @@
+@summary
+select item to add to apple wallet.
+
+@summary
+tap add to apple wallet.
+
+@summary
+double-click your home button from your lock screen.
+
+@summary
+enter your touch id or tap pay with passcode.
+
+@summary
+hold your iphone near the merchant’s contactless card reader.
+@article
+ You can add passes such as boarding passes, movie tickets, coupons, and rewards cards to your Apple Wallet account., When an Apple Wallet enabled app, barcode, or notification appears on your phone, tap this button to easily access the pass from Apple Wallet., This will quickly launch Apple Wallet.
+
+Most passes will automatically appear on your lock screen based on location and timing information.
+ Verify your identity by entering your fingerprint or password., An image of your pass will appear on your iPhone. Once your pass scans, the process will be complete.

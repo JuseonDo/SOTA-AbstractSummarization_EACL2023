@@ -1,0 +1,31 @@
+@summary
+know what programs you need to have installed.
+
+@summary
+download your lot.
+
+@summary
+,
+
+@summary
+open the archive (may open on its own).
+
+@summary
+wait for the sims2pack clean installer to open.
+
+@summary
+start up your game.
+
+@summary
+look for electric blue objects.
+
+@summary
+use your lot!
+@article
+(See "Things You'll Need" below);
+,, Double click on the icon that looks similar to a computer mouse.
+ Once it does, look through the list of Custom Content included. Be sure that no mods or hacks are included. If they are, delete them. You may also delete any unwanted objects while you are in this application. Once you have eliminated everything you want to, click "OK".
+ Enter a neighborhood and click on your Lot Bin. Is the lot there? If so, place it and open it up. If not, go back through this process.
+ These are objects that are missing textures. If you see these, delete the lot. This objects may mess up your game if left alone. See the creator for what to do next.
+ Move in a family.
+

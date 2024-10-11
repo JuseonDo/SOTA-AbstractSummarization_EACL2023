@@ -1,0 +1,32 @@
+@summary
+,
+
+@summary
+click on "summary.",
+
+@summary
+find the "options" box near the bottom of the ipod management screen and check "manually manage music and videos.",
+
+@summary
+click "apply" to set manual syncing as your preference.
+
+@summary
+choose "on this ipod" located on the far right of the same toolbar where you found "summary.",
+
+@summary
+click "add to," found in the upper right-hand corner.
+
+@summary
+browse your library for content you want to put on your ipod.
+
+@summary
+to delete content, simply highlight and drag the content to the trash.
+@article
+, Summary is located the furthest to the left between the LCD screen and the iPod management window.
+ This will prevent your iPod from automatically syncing to your iTunes library when you plug it in.
+ You can now manually add and remove content from your iPod.
+
+
+, This will alert iTunes to create a pop-up sidebar if you begin to drag any content from your library to your iPod.
+ As soon as you select and drag it slightly, a sidebar will appear on the right of the iTunes window. Drag the content to your iPod name. When it is highlighted blue and a small green plus sign appears, you can let go of the mouse or trackpad. You can also drag entire playlists onto your iPod.
+ You can also right-click and select "Delete" or "Remove from iPod."

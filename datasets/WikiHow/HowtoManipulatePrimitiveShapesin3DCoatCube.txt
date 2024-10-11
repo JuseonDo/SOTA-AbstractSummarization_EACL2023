@@ -1,0 +1,41 @@
+@summary
+open 3d coat and choose the primitive shape (cube) that you want to start with.
+
+@summary
+on the y axis, click on one of the arrows to move it up and down.
+
+@summary
+rotate it on its axis.
+
+@summary
+make your cube larger or smaller.
+
+@summary
+click on the outer circle and move around to rotate the shape on its central point.
+
+@summary
+,
+
+@summary
+click on the inner circle to move your shape freely.
+
+@summary
+click on the very center square to resize your entire shape as one unit.
+
+@article
+;
+,
+
+
+Do the same with all the arrows to get it where you want it to be.
+ Once you have decided where you want it (and you can always move it later), you might want to change its angle.
+
+
+Click on the tab at the end of any of the arrows.
+Click and hold to rotate the cube on its axis. You can do this for the horizontal and vertical axis.
+
+
+
+Click on one of the cubes that are just outside of the shape you are working on.
+Drag it to the size and shape that you need. You could have a big block, or use the cube to make a floor for your project.
+, This allows you to fine tune the placement of your shape.

@@ -1,0 +1,14 @@
+@summary
+navigate to the icloud website at https://www.icloud.com/.
+
+@summary
+,
+
+@summary
+enter your apple id and password, then click the arrow.
+@article
+, You are now signed into iCloud.
+
+
+Click on “Create yours now” if you don’t have an Apple ID, then follow the on-screen instructions to create an Apple ID and sign into iCloud.
+

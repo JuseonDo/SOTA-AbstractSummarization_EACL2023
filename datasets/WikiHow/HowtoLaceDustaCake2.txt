@@ -1,0 +1,9 @@
+@summary
+bake the cake.
+
+@summary
+frost the cake.
+@article
+ Round or square, it's up to you. Follow your favorite recipe.
+ Place the frosted cake into the refrigerator to set the frosting.
+

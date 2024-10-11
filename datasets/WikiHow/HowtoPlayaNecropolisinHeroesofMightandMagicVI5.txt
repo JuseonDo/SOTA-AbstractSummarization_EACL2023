@@ -1,0 +1,10 @@
+@summary
+get vampires.
+
+@summary
+upgrade them to vampire lords.get liches.upgrade them to archliches.get lamasus.upgrade them to putrid lamasus.
+@article
+,
+
+The vampires are particularly useful because they have decent health and damage, and they also have lifesteal. The out of time ability (no retaliations for current turn) is incredibly useful, especially since it allows other melee units to attack the unit that your vampire has attacked, but suffer no retaliation.
+,,,

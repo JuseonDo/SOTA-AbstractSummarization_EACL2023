@@ -1,0 +1,32 @@
+@summary
+write the sender’s address in the top left corner.
+
+@summary
+place the date directly below the sender’s address.
+
+@summary
+write the recipient’s address one line below the date.
+
+@summary
+write the subject of the letter in all caps one full line below the date (two hard returns.),
+
+@summary
+write your body paragraphs.
+
+@summary
+write your name below the body of the letter.
+
+@summary
+add any enclosures.
+
+@summary
+proofread your letter for spelling or grammar errors.
+@article
+ If you are using a letterhead you don’t need to put the sender’s address. Instead, begin the letter with the date in the top left corner.
+ Do not leave a blank line between the sender’s address and date.
+ One line is two hard returns on a keyboard., This lets the recipient know what the letter will be about.
+ This is where you discuss your subject. Be concise but thorough in your discussion of the subject.
+ Do not any closing remarks such as ‘sincerely’. Below your name, leave room for your signature. Below your signature, write your job title.
+ Enclosures are extra materials sent along with the letter. Write the word ‘Enclosure’ and then list the names of the enclosed materials.
+ Make sure all names and addresses are spelled correctly.
+

@@ -1,0 +1,12 @@
+@summary
+take any tools off.
+
+@summary
+point it around the place where the path should be.
+
+@summary
+click around the path to walk over it.
+
+@article
+ This enables you to see the mouse pointer. If you now point to the sky, the cursor should be see-through (transparent).
+ It should suddenly turn white, and a green circle should appear there. That's where the path is.

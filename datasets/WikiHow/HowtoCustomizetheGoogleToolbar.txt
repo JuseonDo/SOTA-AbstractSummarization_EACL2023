@@ -1,0 +1,42 @@
+@summary
+launch the internet browser in which you have the google toolbar installed.
+
+@summary
+click on the wrench icon located on the far right side of the google toolbar.
+
+@summary
+click on the tab labeled "custom buttons.",
+
+@summary
+place a checkmark next to each website button you want placed on the google toolbar.
+
+@summary
+reorder any of your custom buttons by clicking, then dragging the button to its desired location in the list.
+
+@summary
+click on the tab labeled "tools.",
+
+@summary
+place a checkmark next to each tool you want enabled during all web browsing sessions.
+
+@summary
+click on the "share" tab to enable your social network account settings.
+
+@summary
+place a checkmark next to all social networking services you want displayed in the google toolbar.
+
+@summary
+click on the "save" button at the bottom of the toolbar options window to save your new settings.
+@article
+;
+, The Toolbar Options window will display.
+ The Custom Buttons tab contains a list of different websites you can add to the toolbar, then access by clicking on that particular button.
+ Examples of buttons you can add to the toolbar are Google Books, Picasa Web Albums, YouTube, and more. For example, if you frequently travel and use Google Maps, place a checkmark next to "Google Maps."
+
+, For example, if you plan on using Google Documents most frequently, click and drag Google Documents to the top of the list of custom buttons.
+ The Tools tab will allow you to choose certain features that enhance your web browsing. Examples of available tools you can enable are pop-up blocker, spell check, and translate.
+ For example, if you frequently visit international soccer or football websites, enable the translate feature so you can translate certain web pages into your native language by clicking the translate button in the Toolbar.
+ The Share feature will allow you to share and send certain web pages to other users via email, or any social networking application of your choice.
+ Examples of accounts you can share with are Blogger, Twitter, Facebook, Digg, Delicious, StumbleUpon, and more. For example, if you find an interesting article while browsing the web, you will have the ability to share it via Twitter.
+ The new features you enabled will now display in your browser's Google Toolbar.
+

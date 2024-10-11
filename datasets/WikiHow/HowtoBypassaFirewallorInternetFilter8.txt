@@ -1,0 +1,9 @@
+@summary
+use google talk if you have a google email account.
+
+@summary
+use yahoo!
+@article
+ Gmail supports instant messaging over AIM or their own Google Talk protocol.
+ Messenger if you have a Yahoo! email account. Like Google, Yahoo! supports instant messaging with limited chat functionality inside its interface.
+

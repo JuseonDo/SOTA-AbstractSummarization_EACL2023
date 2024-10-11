@@ -1,0 +1,13 @@
+@summary
+search for the program on google or softonic, then download and install it on your computer.
+
+@summary
+activate the program and you can work on the simple interface.
+
+@summary
+when you have loaded all webpages as needed, just hit the "start" button at bottom-right to create snapshots.
+@article
+;
+, In "Source Url", enter the webpage which you desire to capture a screenshot, then hit the "Add" button besides the field to add it to the task list. You can add as many webpages as you need in this way. After that, don't forget to configure the output directory in "Target Path".
+ Once the process is done, you can either navigate to the output folder or double-click on an URL to check the image.
+

@@ -1,0 +1,28 @@
+@summary
+open up mypaint.
+
+@summary
+bring up some other toolbars.
+
+@summary
+experiment with the many brushes until you find one that you like.
+
+@summary
+start clicking on the various brush settings to find out what does what.
+
+@summary
+until you know what will make what changes, try making one change at a time.
+
+@summary
+once you have made changes, click on add as new and then rename...
+@article
+ This screen has the Color toolbar (G) and the Brush toolbar (B) showing.;
+, You will need the Brush Settings toolbar (Ctrl B) and the Color Sampler (V).
+ Once you have found one you like, clear the palette by creating a new file... File >> New.
+ Click on Edit.
+
+
+If you don't like changes that you have made, change brushes without saving.
+ Here, the difference is an adjustment in the jitter.
+ It will save the icon (so you will see the same brush), but with different settings.
+

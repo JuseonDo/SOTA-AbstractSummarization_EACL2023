@@ -1,0 +1,174 @@
+@summary
+tap the contacts or people app on your device.
+
+@summary
+tap the ⋮ or more button.
+
+@summary
+tap contacts to display or display options.
+
+@summary
+tap an account to view the contacts.
+
+@summary
+tap phone to view contacts stored on your phone.
+
+@summary
+open your contacts app to the phone view.
+
+@summary
+tap the more or ⋮ button.
+
+@summary
+,
+
+@summary
+tap settings or manage contacts.
+
+@summary
+,
+
+@summary
+tap move device contacts to or copy.
+
+@summary
+tap phone in the from list.
+
+@summary
+tap your google account in the to list.
+
+@summary
+tap copy or ok.
+
+@summary
+visit contacts.google.com in your browser.
+
+@summary
+sign in with your google account.
+
+@summary
+find your newly-added contacts.
+
+@summary
+tap the contacts app on your device.
+
+@summary
+tap the ⋮ or more button.
+
+@summary
+,
+
+@summary
+tap contacts to display or display options.
+
+@summary
+tap the phone option.
+
+@summary
+tap the ⋮ or more button again.
+
+@summary
+,
+
+@summary
+tap settings or manage contacts.
+
+@summary
+,
+
+@summary
+tap the import/export or back up option.
+
+@summary
+,
+
+@summary
+tap export.
+
+@summary
+,
+
+@summary
+tap your device's storage.
+
+@summary
+tap the contacts you want to export.
+
+@summary
+wait while your contacts export.
+
+@summary
+tap the ⋮ or more button in the contacts app.
+
+@summary
+,
+
+@summary
+tap settings or manage contacts.
+
+@summary
+,
+
+@summary
+tap the import/export option.
+
+@summary
+,
+
+@summary
+tap import.
+
+@summary
+,
+
+@summary
+tap your google account.
+
+@summary
+tap your contact file.
+
+@summary
+visit contacts.google.com in your browser.
+
+@summary
+,
+
+@summary
+sign in with your google account.
+
+@summary
+find your newly-imported contacts.
+@article
+ The process for all of this will vary depending on the manufacturer of your device and the contacts app you are using.;
+, This is typically located in the upper-right corner.
+ You may have to tap Settings first. The wording may vary from device to device.
+ When you select an account, you'll see all of the contacts that are saved to that account. Any contact that is connected to an account is automatically backed up and can be restored whenever you sign in again.
+
+
+For example, tapping "WhatsApp" will display all of your WhatsApp contacts. These contacts are stored on WhatsApp servers, so you don't need to worry about backing them up.
+ These are contacts that have been saved to your device's memory, and will need to be transferred to another account like Google or exported to a file. Contacts stored on your phone's memory will be erased if you perform a factory reset.
+ Your contacts app should just be displaying the contacts that are stored on your device's memory.
+
+
+Note that the terminology in this section will vary a lot depending on your phone manufacturer. The features discussed may not be available on all devices.
+,, The wording on this feature will vary a lot depending on your device. Look for a utility that allows you to transfer contacts from one account to another.
+
+
+If you don't have the ability to copy contacts to your Google account, you can still export your contacts as a file and them import them to Google.
+ If you are prompted to select the account you want to move contacts from, select your phone's storage.
+ Select your Google account in the list of accounts you can move your contacts to. This will ensure that they reappear when you sign back in with your Google account, and that they can be accessed from contacts.google.com.
+ Your contacts will begin copying to your Google account. This may take a few moments if you are copying a lot of contacts.
+ You can verify that your contacts were successfully added here.
+ Sign in with the same Google account you copied the contacts to.
+ If you see your contacts from your phone here, they have been safely backed up to Google. You may need to wait a little while for the contacts to sync., If you can't copy your contacts directly to your Google account, you can export them to a file and then import that file to your Google account.
+, You may have to tap the Settings option first.
+ This will set the contacts app to only display contacts stored on your device, which are the contacts that need to be backed up.
+,,,, This will set the contact file to save in your phone's storage.
+ If you're given the option, tap the contacts you want to export. Since you restricted the view to the contacts just stored on your device, you can usually just tap "Select All."
+
+, You'll see a notification appear at the top of the screen when the contacts have finished exporting.
+,,,, This will ensure that the imported contacts are added directly to your Google account.
+ Tap the file that you just created when prompted. This will import the contacts from that file into your Google account, backing them up online.
+, Sign in with the same account you just imported the contacts to.
+ Look for the contacts from your phone that you just imported. If you see them, they have been safely backed up to your Google account.It may take a little while for the contacts to sync.
+

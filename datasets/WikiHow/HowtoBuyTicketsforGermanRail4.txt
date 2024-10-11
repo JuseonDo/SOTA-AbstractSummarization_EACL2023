@@ -1,0 +1,9 @@
+@summary
+with a ice- or ic-ticket of deutsche bahn you can use (ice), ic/ec, ire, re, rb, s-bahn.
+
+@summary
+never enter a regional train without a valid ticket.
+@article
+ Be careful: In most cases you're not allowed to use U-Bahn (underground) and trams. If your are, on your ticket stands "+City" behind your destination.
+ You can't buy them in regional trains and you have to buy 40€.
+

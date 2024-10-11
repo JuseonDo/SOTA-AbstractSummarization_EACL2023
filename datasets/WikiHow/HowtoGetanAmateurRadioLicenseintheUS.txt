@@ -1,0 +1,24 @@
+@summary
+get a study manual out of your library.
+
+@summary
+use the study method recommended at the front of the book to study for the 35-question fcc exam.
+
+@summary
+,
+
+@summary
+use the exam search feature on the arrl website to locate an upcoming exam session.
+
+@summary
+take the exam.
+
+@summary
+find a local radio club.
+@article
+ Some popular ones are The Ham Radio License Manual by the ARRL and Technician Class by Gordon West.;
+,, The exam fee is currently $15 for many locations, but depending on your location, it may be free. Check the information on the ARRL website for further details. You will also need your Social Security Number.
+ If you don't pass, don't worry; you can take it again soon, if not at that very session!
+
+, Members can answer questions, and sometimes even lend you a radio to start out with.
+

@@ -1,0 +1,123 @@
+@summary
+clean the disk with a slightly damp cloth.
+
+@summary
+remove stickers.
+
+@summary
+,
+
+@summary
+if this doesn't work, follow the instructions below.
+
+@summary
+,
+
+@summary
+turn off the console, and remove any usb drives attached.
+
+@summary
+,
+
+@summary
+check that the game is the correct region code.
+
+@summary
+try another game.
+
+@summary
+,
+
+@summary
+if all of the above fails, your console will need service.
+
+@summary
+,
+
+@summary
+check the dvd region.
+
+@summary
+try another dvd.
+
+@summary
+,
+
+@summary
+if all of the above fails, your console will need service.
+
+@summary
+,
+
+@summary
+check the cd format.
+
+@summary
+try another cd.
+
+@summary
+,
+
+@summary
+if all of the above fails, your console will need service.
+
+@summary
+,
+
+@summary
+follow the steps for "reading... open tray".
+
+@summary
+,
+
+@summary
+check the power button.
+
+@summary
+remove the disc from the tray, then press eject.
+
+@summary
+gently move the disc tray up and down, left and right.
+
+@summary
+if all of the above fails, your console will need service.
+
+@summary
+,
+
+@summary
+check the power button.
+
+@summary
+check for a plastic strip.
+
+@summary
+try to manually open the disk drive.if all of the above fails, your console will need service.
+@article
+ Do not use solvents.;
+,,,,
+
+
+NTSC: North America and South America (United States, Canada, Mexico, Chile, and Brazil)
+NTSC-J: Asia (Hong Kong SAR, Japan, Korea, Singapore, and Taiwan)
+PAL: Europe, South Africa, India, Australia, and New Zealand
+
+,,,
+
+
+1: United States, Canada, Bermuda, U.S. territories
+2: Europe (except Russia, Ukraine and Belarus), Middle East, Egypt, Japan, South Africa, Swaziland, Lesotho, Greenland
+3: Southeast Asia, South Korea, Taiwan, Hong Kong SAR, Macau
+4: Mexico, Central and South America, Australia, New Zealand, Oceania
+5: India, Afghanistan, Ukraine, Belarus, Russia, Africa, Central and South Asia, North Korea
+6: People's Republic of China, Hong Kong
+7: Reserved
+8: Special international venues, such as airplanes and cruise ships
+
+,,, The following CD formats are supported by Xbox: CD-DA, CD-ROM, CD-ROM XA, CD-R, CD-RW, CD-Extra. The following music files are supported: WMA, MP3, JPEG.
+,,, If the Xbox is on, move on to the next step. If it is not on, check the power source and cables.
+ If the tray closes, open the tray and insert the disc. Try to use the tray with a disc in it.
+ Then press eject. If it closes, try to use the tray with a disc in it.
+, If the Xbox is on, move on to the next step. If it is not on, check the power source and cables.
+ This is used to keep the disc tray shut while the Xbox is shipped. If you find one, peel it off.
+ You can find how to do this for your console online.

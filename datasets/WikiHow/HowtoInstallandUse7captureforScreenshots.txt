@@ -1,0 +1,21 @@
+@summary
+go to 7capture.com and click on the download now button to download the software.
+
+@summary
+double click the name of the file to install it.
+
+@summary
+start up the program.
+
+@summary
+click on quick capture.
+
+@summary
+select which window.
+@article
+ It's an executable file, so you don't need an unzip program for it.;
+, Now is when you will change the path of the install if you want to.
+ 7capture has a fairly small and uncomplicated UI (user interface). However, uncomplicated also means it has less capabilities.
+ This will give you options for your capture.
+ If you select the second option, you can select which window that you want to capture.
+

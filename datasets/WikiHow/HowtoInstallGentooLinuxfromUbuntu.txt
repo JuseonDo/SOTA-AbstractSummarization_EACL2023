@@ -1,0 +1,126 @@
+@summary
+make sure that you have superuser privileges on your ubuntu box; and an internet connection - preferably a fast one.
+
+@summary
+you need to install chroot on ubuntu.
+
+@summary
+either repartition existing partitions, or create a new partition from free hard disk space.
+
+@summary
+format the new partition(s) using a file system of your choice (for /home, /, /boot and /var it is preferable to use ext2, ext3 or reiser2).create a new folder, /mnt/gentoo and one for each of the separate partitions that you created.
+
+@summary
+mount your new partitions on here:
+
+@summary
+sudo mount /dev/sda5 /mnt/gentoo
+
+@summary
+sudo mount /dev/sda6 /mnt/gentoo/home
+
+@summary
+where here, sda5 and 6 are the partitions containing your prospective root and home directories respectively.
+
+@summary
+,
+
+@summary
+check that your date is correct (type date).
+
+@summary
+open a web browsing program of your choice, and navigate to here.move it to the gentoo folder mv stage3*.bz2* /mnt/gentoo.
+
+@summary
+move yourself there (cd /mnt/gentoo) and check the tarball through md5: md5sum -c stage3*.md5.
+
+@summary
+extract the tarball!,
+
+@summary
+you now have a few basic programs installed on the gentoo partition; next, you need to install portage: gentoo's package management system which allows you to have complete control over what is on your system.
+
+@summary
+at this stage, you may want to set some compile flags.
+
+@summary
+want to optimise your download?,
+
+@summary
+before you immerse yourself in your new system, you need to make sure that you have a few vital settings copied over from ubuntu as it is.
+
+@summary
+now you can chroot!,
+
+@summary
+congratulations!,
+
+@summary
+next, you need to compile the most vital component of any operating system: its kernel.
+
+@summary
+remember installing portage earlier?,for the sake of clarity, at this stage i'll assume that you want to install the latest kernel (2.6) rather than 2.4.
+
+@summary
+now we must set our use flags.
+
+@summary
+every flag you want to add is simply a word.to choose your use flags, check out the gentoo use flags documentation to see what flags you might want to include.once you have chosen what flags to use, navigate to /etc/make.conf and put in the flags you want.
+
+@summary
+let's now set up your timezone.now that we have our timezone set up, it is time to actually download our kernel sources and configure the kernel.run (# emerge gentoo-sources) to download your kernel sources.
+
+@summary
+this next step can be tricky for first timers.
+
+@summary
+run
+
+@summary
+cd /usr/src/linux
+
+@summary
+make menuconfig
+
+@summary
+,
+
+@summary
+this will bring up the kernel configuration menu.select any network drivers you may need, such as ethernet drivers or wireless drivers (or both).choose your processor type and family.
+
+@summary
+once you've finished, type ( make && make modules_install) to start compiling the kernel and kernel modules.make -j2 && make modules_install,
+
+@summary
+now we need to copy your kernel image to /boot.
+
+@summary
+now let's configure your kernel modules.
+@article
+ An intermediate knowledge of Ubuntu and Linux in general is also preferable.
+ You can achieve this through Synaptic by installing the dchroot and debootstrap packages; or the command line by typing sudo apt-get install dchroot debootstrap. This program allows Linux to temporarily pretend that its root directory is one different from normal., Be careful! You don't want to lose any data.
+
+Most websites recommend that, essentially, the more partitions, the better. At a minimum, you will need a root partition (/); but most people have a separate swap partition, home partition (/home). Some also recommend a separate partition for /boot and /var.
+ Swaps need to be formatted as swap partitions.,,, You can change it with the syntax date MMDDhhmmYYYY., Find your local mirror, and download the stage3 tarball from releases/x86/2008.0/stages/ (replace x86 with the architecture of your choice - this guide is only tested for AMD64 and x86). Download the corresponding md5 file.,, This makes sure that the tarball downloaded properly without being corrupted. If it doesn't report as OK, then you'll have to re-download it., sudo tar xvjpf stage3*.bz2. Wait for it to complete.,
+
+Go back to the mirror that you had previously downloaded the stage3 tarball from. Go to the snapshots/ directory, and download the latest Portage file. Move it to /mnt/gentoo, and use the command:
+tar xvjf /mnt/gentoo/portage-<date>.tar.bz2 -C /mnt/gentoo/usr
+A brief introduction to Portage: Portage is a package management system allowing for the relatively easy installation of numerous software packages. It works by downloading a list of these and their inter-relationships from an rsync server. This will point portage toward relevant files which can be downloaded from a huge number of other servers. Once these files are downloaded, the software will be compiled from source by your computer - optimising it for your machine.
+ You do this by editing /mnt/gentoo/etc/portage/make.conf using your favourite text editor. A full guide on various make variables can be found by reading /mnt/gentoo/usr/share/portage/config/make.conf.example. Save your changes to the configuration file, and exit the text editor., Edit make.conf again and ensure that the SYNC variable is set to your most local rsync server. Add as many mirrors are you like to the GENTOO_MIRRORS variable - though put your preferred one first. You can find the list of the available mirrors here.,
+
+First, the dns settings: sudo cp -L /etc/resolv.conf /mnt/gentoo/etc/resolv.conf
+
+And your proc system: sudo mount -t proc none /mnt/gentoo/proc.
+And mount-bind the /dev filesystem: sudo mount -o bind /dev /mnt/gentoo/dev.
+ This is simple enough really - and can be exited at any time by typing simply... err... exit. This is a three step process:
+
+First, you change the root directory to /mnt/gentoo: sudo chroot /mnt/gentoo /bin/bash.
+Then, you update the environment in order to ensure that this terminal knows where it's supposed to be: /usr/sbin/env-update
+
+Finally, commit this to (temporary) memory: source /etc/profile
+
+If you want to remind yourself that you're in chroot, you can use this dainty command: export PS1="(chroot) $PS1"
+
+
+, You're inside Gentoo and about... a quarter of the way there. Chin up!, The kernel is the part of the OS which dictates which pieces of software are allowed access to a piece of hardware at any one moment. Without a kernel, there is no operating system, because it can't operate., Now you're going to download a list of packages which you can install from the rsync server that you specified. Type emerge --sync
+,, These flags tell the compiler what options to add, as well as what optimizations to use. It is important to set the right use flags for your system, otherwise you may end up with some unexpected results. It is also good to add flags that tell what not to add support for., Every option you'd like to remove is the word with a dash (-) in front of it. For example, if we want to compile everything with ogg support, we would add ogg. But if we wanted no ogg support, we would add -ogg.,,, Gentoo has all the time zones at /usr/share/zoneinfo. Navigate to the directory and issue the ls command to view the available timezones. Then copy the timezone to /etc/localtime with a command like (# cp /usr/share/zoneinfo/GMT /etc/localtime).,,, Here we configure the kernel so that it has whatever support we need. You need to be sure that you set up your kernel correctly, otherwise you may be without functions that you need.,, Be sure to select all the drivers you'll need to boot your system, such as SCSI drivers (if needed), and be sure they are set to be built into the kernel. If they aren't, you won't be able to boot. Also, be sure you enable support for your file system.,,, This may take some time, so go read a book, watch TV, walk the dog, or whatever else you enjoy doing.,, Change kernel-2.6.24 to whatever you want your kernel to be named. ( cp arch/i386/boot/bzImage /boot/kernel-2.6.24), Run (find /lib/modules/(kernel version)/ -type f -iname '*.o' -or -iname '*.ko') to find all available kernel modules. Of those, add the ones you want to be auto loaded to /etc/modules.autoload.d/kernel-2.6.Do not include the .ko or .o or the path. Just simply say, for example, snd-hda-intel.

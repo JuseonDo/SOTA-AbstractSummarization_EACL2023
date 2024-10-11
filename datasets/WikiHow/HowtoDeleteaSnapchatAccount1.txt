@@ -1,0 +1,45 @@
+@summary
+open the snapchat app.
+
+@summary
+swipe down on your screen.
+
+@summary
+tap the gear icon.
+
+@summary
+scroll down and tap support.
+
+@summary
+tap my account & settings.
+
+@summary
+tap account information.
+
+@summary
+tap delete my account.
+
+@summary
+tap the link to delete your account.
+
+@summary
+enter your password.
+
+@summary
+tap continue.
+@article
+ This is the yellow app with the ghost icon.;
+, When you do this from the camera page, it will bring up the main menu.
+ It is in the top right corner of your screen.
+ This is at the top of the fourth set of menu options.
+ It will be the third selection on your page.
+ This menu will provide you with all of the changes you can make to your account.
+ A new page will load with instructions for deleting your account.
+ It should be in blue on top of the word "Page.”
+
+, You will need to enter your password to verify the termination of your account.
+ A page verifying that your Snapchat account has been deactivated will appear on your screen. Your Snapchat account will be deactivated for 30 days, and then deleted.
+
+
+You can reactivate your account by signing in within 30 days.
+

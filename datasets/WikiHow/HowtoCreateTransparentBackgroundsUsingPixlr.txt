@@ -1,0 +1,27 @@
+@summary
+launch the pixlr web app.
+
+@summary
+go to the "layers" section and select "open image as layer.",
+
+@summary
+click on the wand tool and click on an area to remove.
+
+@summary
+once you have selected an area to remove, hover over "edit" and choose "cut.",
+
+@summary
+repeat the process until you have finished removing the unwanted areas.
+
+@summary
+,
+
+@summary
+save your image.
+@article
+ From there, choose "Create a New Image." Fill in the information and make sure that you check the box in the bottom left corner that says "Transparent.";
+, From there, you will choose the image you want.
+ You may also use the lasso tool in case the Wand tool is not accurate.
+ This will remove the area you selected with the wand or lasso.
+, Make sure you save it as a PNG. It is the only one that works with transparency. If you save the image as a JPG, the transparent area will show up black.
+

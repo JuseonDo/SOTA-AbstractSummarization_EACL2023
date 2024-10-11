@@ -1,0 +1,9 @@
+@summary
+there is a free tool available called free windows registry repair tool and as the name sounds, it is free to download and free to use.
+
+@summary
+once the scan is completed, the tool will list out a number of errors.
+@article
+ So, go ahead and install it. The link to this tool is provided in the Resources Section at the bottom of this page. Open the tool and run the Full Scan as shown in the image.;
+, These errors can be corrected using the box Fix Errors as shown in the below image. This will correct the Windows registry errors and if it was the actual cause behind your error, you would now be able to install the software.
+

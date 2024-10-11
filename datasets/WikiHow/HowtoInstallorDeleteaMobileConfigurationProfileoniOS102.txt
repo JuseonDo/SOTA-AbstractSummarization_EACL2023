@@ -1,0 +1,26 @@
+@summary
+wait for this pop-up to display.
+
+@summary
+if you have a passcode enabled device, put in your passcode.
+
+@summary
+,
+
+@summary
+read the text on the consent screen.
+
+@summary
+wait for a pop-up promoting you to install the application to appear at the bottom of the screen.
+
+@summary
+restart if needed.
+@article
+ Click Install in the top righthand corner.
+, Continue by clicking Install in the top right hand corner once more.
+
+
+Read any warnings that pop up. If you wish to continue, click Install in the top right hand corner.
+ Click Install for the final time.
+ Depending on the contents of the configuration profile, you may need to restart your device. (This can be done later, though.)
+

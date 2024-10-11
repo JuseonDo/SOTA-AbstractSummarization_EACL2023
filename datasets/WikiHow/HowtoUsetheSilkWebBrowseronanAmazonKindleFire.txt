@@ -1,0 +1,64 @@
+@summary
+turn on the device and look for and tap the "web" tab in the top scrollable bar at the top of the screen.
+
+@summary
+tap the "apps" item from the top scrollable bar.
+
+@summary
+,
+
+@summary
+tap the icon for the silk browser.
+
+@summary
+access the browser by tapping external html links from many books or apps leading to websites.
+
+@summary
+recognize what the opening page the browser should open you to is supposed to do.
+
+@summary
+flick through the screen by moving your finger up and down, or even sideways.
+
+@summary
+,
+
+@summary
+use the two finger expand method you normally use for another touchscreen device to zoom in and out on the screen.
+
+@summary
+look for the address bar on the screen.
+
+@summary
+recognize the placement of the reload button.
+
+@summary
+tap a link on the page to access pages.
+
+@summary
+look on the screen for the back and forward buttons.
+
+@summary
+open the browser menu at the top of the device.
+
+@summary
+note what the magnifying glass option does.
+
+@summary
+find your bookmarks.
+@article
+ It could be a little farther over to the right, if held in portrait mode.;
+,, The app looks mostly like the bluish globe with a rainbow-colored silk on top of it.
+ It'll lead you right to the Silk browser.
+ This page will show you the 8 most often visited pages you've visited since you last cleared your device apps history.
+, Just move your thumb and index finger away from each other to expand the screen and move them closer together to contract it.
+ Notice that it is at the top of every browser screen, though it may not be completely filled from side-to-side at times due to another button.
+ It is located inside the address bar, and can change to a stop button while the page is loading forcing you to wait for the page to load before reloading.
+
+
+Realize that there is no way to "force-refresh" a page on a browser of this type. Reset the device by turning it off. Hold the button in for a few seconds and press "Shut Down", then restart the device.
+ Hold the link down for a few minutes and you'll get options to display it in another tab or in a few other options. You can also have the device copy the link's URL address to the clipboard for future retrieval.
+ They will be located at the bottom of the screen to the right of the Home button. Wait for the appropriate button to be highlighted.
+ It has three horizontal bars, like a ladder. There you'll find options to bookmark or share the page. You'll also find the "Find" option there.
+ It will take you directly to the address bar. However, tapping this button is an additional step, if you know that you can tap the address bar itself to get to a site faster. The browser is supposed to take you to a search engine using that, but based on recent versions of the browser, it no longer does that.
+ Tap the three barred icon in the top left corner of the browser and tap Bookmarks to find all your bookmarks.
+

@@ -1,0 +1,44 @@
+@summary
+go to the desktop and right click then click properties.
+
+@summary
+click the screen saver tab at the top of the screen.
+
+@summary
+,
+
+@summary
+select '3d text' from the drop down menu.
+
+@summary
+click settings.
+
+@summary
+,
+
+@summary
+in the text box, type volcano and press enter.
+
+@summary
+,
+
+@summary
+click preview.
+
+@summary
+,
+
+@summary
+check out the results.
+
+@summary
+to escape press esc or move the mouse.
+
+@article
+
+
+Or go to Start > Settings > Control Panel > Display.
+,
+
+If the '3D Text' screensaver is not there, then in 'Control Panel' go to "Add/Remove Programs Properties". Click the Windows Setup tab at the top. Click Accessories > Details > Screen Savers > Details. Click the checkbox for 'OpenGL Screen Savers' and select OK. Click OK, insert the Windows 95 installation disk, and click OK again. Then repeat the start of this method.
+,,, On screen will be the name of a volcano.,

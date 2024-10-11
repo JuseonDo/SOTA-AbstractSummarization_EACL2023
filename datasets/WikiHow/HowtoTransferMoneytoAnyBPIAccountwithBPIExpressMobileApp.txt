@@ -1,0 +1,79 @@
+@summary
+launch the app store, google play, or your phone’s app store.
+
+@summary
+search for bpi express mobile.
+
+@summary
+download bpi express mobile.
+
+@summary
+launch bpi express mobile.
+
+@summary
+log in.
+
+@summary
+view your bpi accounts.
+
+@summary
+enable “transfer to anyone.” before you can transfer money to anyone from your bpi accounts using bpi express mobile, you have to activate this feature first.
+
+@summary
+provide activation data.
+
+@summary
+activate the feature.
+
+@summary
+log into bpi express mobile.
+
+@summary
+,
+
+@summary
+go to “transfer to anyone.” from the left panel menu, tap “transfer” then “transfer to anyone”.
+
+@summary
+,
+
+@summary
+indicate source account.
+
+@summary
+indicate destination account.
+
+@summary
+indicate the amount.
+
+@summary
+initiate the transfer.
+@article
+ Find the applicable app store on your device and tap on it to launch.;
+, Type in “BPI Express Mobile” on the search field.
+ Locate the correct app and download it. It’s free.
+ Locate the app on your mobile device. Its app icon has a red background with the BPI name and logo on it. Tap on it to launch it.
+ Type in your BPI Express Mobile User ID and password on the appropriate fields. This is the same account you use to log into BPI Express Online. Tap the “Login” button to continue.
+ On the landing screen, you will be able to see all your BPI accounts, together with their corresponding balances.
+ From the app’s left panel menu, tap “More,” then tap “Enable Transfer to Anyone.”
+
+, Fill in the Enable Transfers form on your screen. Input the Device Alias, the ATM Account, and the Joint Account Indicator then select also your activation method.
+
+
+You can opt to activate this feature from any Express Teller ATM or by submitting a signed form to any BPI branch.
+Tap the “Request Activation” button to proceed.
+ If you opted to activate from an Express Teller ATM, visit any one and follow the instructions on the ATM. If you opted to submit a signed form, go to any BPI branch and submit.
+
+
+Once your request has been verified and processed, you should be able to use this feature from BPI Express Mobile.
+,, On the Transfer to Anyone screen, there’s a form you need to fill up to process the transfer. In the first field, select the source account. This is where the money will be sourced from. Tap the field and select from the drop-down list.
+ On the next field, you have to input the destination account. This is where the money will be sent. Tap the field and type in the account number.
+
+
+This should be a BPI account number as well.
+ On the last field, input the amount to be sent. Tap the field and tap in the amount.
+ Be very careful in inputting data in this form. If you have put an incorrect account number or amount, there’s no way to get your money back once you’ve transferred it. Tap the “Transfer” button.
+
+
+Once done, the money will be sent right away, even if it’s already outside the banking hours. BPI Express Mobile works 24/7.
+

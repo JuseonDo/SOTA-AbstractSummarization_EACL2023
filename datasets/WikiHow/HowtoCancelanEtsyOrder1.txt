@@ -1,0 +1,16 @@
+@summary
+hover your cursor over the “your account” button on the top right corner of the etsy home page, and click “purchases and reviews” from the drop-down menu that appears.
+
+@summary
+scroll down to the order that you would like to cancel.
+
+@summary
+adjust the message.
+
+@summary
+press “send,” and wait for the seller’s reply!
+
+@article
+;
+, On the right side of the order information, under the words “Not Shipped,” you should find a link that says “Request Cancellation.” An auto-generated message to the seller will pop up on your page.
+ You can add more information here, such as your reason for cancellation, or any other details that the seller may need to know about the order. You can even re-write the message entirely, if you wish.

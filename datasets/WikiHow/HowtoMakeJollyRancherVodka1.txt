@@ -1,0 +1,6 @@
+@summary
+divide the candy into piles.
+@article
+ Make a pile for each flavor you have from the bag. Popular flavors include watermelon, cherry, green apple, blue raspberry, and grape.
+
+Don't snack on too many—–it's the vodka you want to infuse, not your tongue!;

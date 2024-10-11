@@ -1,0 +1,12 @@
+@summary
+this may be the hardest method, given manufacturer’s attempts to curtail copyright infringement.
+
+@summary
+for this tutorial, we’re using an open source sound recorder called audacity.
+@article
+ Most current operating systems and consumer-lever sound utilities prevent this.
+
+
+You may have some success downloading older drivers, but this could also cause problems when run with newer versions of software or operating systems.;
+, Other sound recorders offer the same principles and features, generally.
+

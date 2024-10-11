@@ -1,0 +1,78 @@
+@summary
+open the facebook mobile app.
+
+@summary
+tap the icon of three horizontal lines in the toolbar.
+
+@summary
+tap your name at the top of the "more" menu.
+
+@summary
+tap your cover photo.
+
+@summary
+tap the "view cover photo" option.
+
+@summary
+,
+
+@summary
+tap the three dots in the upper right-hand corner of your photo.
+
+@summary
+review your options.
+
+@summary
+tap the "tag" icon in the upper right-hand corner of your screen.
+
+@summary
+tap anywhere on your screen to select a person or object to tag.
+
+@summary
+tap or type in a name pertaining to the tag.
+
+@summary
+tap "done" to finalize the name.
+
+@summary
+tap the tag icon again when you're done tagging.
+
+@summary
+tap the "location" icon to give your photo a geographical location.
+
+@summary
+type your city and state into the field at the top of the screen.
+
+@summary
+tap your location when it appears.
+
+@summary
+tap the "x" in the upper left-hand corner once you're done editing your cover photo.
+@article
+ If you don't already have it, the Facebook app is free for iOS, Android, and Windows platforms.
+ This icon will open your "More" menu; it should be at the bottom right-hand corner of your screen.
+ This will take you to your profile.
+ This will prompt a menu with several options.
+, This will open the photo's specific options.
+ From this menu, you have several potential courses of action.
+
+
+"Delete Photo" will remove your cover photo from Facebook.
+"Make Profile Picture" will allow you to select a portion of your cover photo to set as your profile picture.
+"Save Photo" allows you to download your cover photo.
+"Send in Messenger" will allow you to directly send your cover photo to a Facebook friend.
+"Edit Caption" lets you add or change your cover photo's description.
+"Turn Off Notifications" will disable any notifications from comments, likes, shares, or tagging.
+ This icon is to the left of the photo options; it resembles a clothing tag in profile.
+ This will prompt a menu asking which one of your Facebook friends is in the photo.
+ You can also type in words or numbers that don't refer to Facebook friends (e.g., inanimate objects).
+ If you tagged a person, this will send a notification to them.
+ This takes you out of tagging mode.
+ This icon is between the photo options menu and the Tag icon.
+ This is marked "Search for places".
+
+
+You can also enter landmarks and parks into the location search.
+ This will assign a location to your photo.
+ Your changes should save!
+

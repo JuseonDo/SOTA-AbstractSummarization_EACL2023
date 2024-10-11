@@ -1,0 +1,21 @@
+@summary
+explain that scientists have measured increasing temperatures and co2 levels in several ways if skeptics argue that the only real evidence for global warming is co2 in ice core samples where it's very cold.
+
+@summary
+explain that human's recent contribution to the total levels of co2 has offset the natural process and have caused the world to warm if skeptics argue that the total human-produced co2 levels are small compared to natural sources.
+
+@summary
+explain the importance of offsetting human contributions to the atmospheric co2 levels as opposed to eliminating co2 if skeptics argue that greenhouse gases are some of the most vital elements of this planet that keep it in order.
+
+@summary
+explain that the wavelength at which solar radiation passes through the atmosphere is not same as the infrared radiation earth radiates back into space if skeptics argue that the very notion of the greenhouse effect is flawed because uv rays from the sun penetrating the co2 in the first place ought to be able to escape.
+
+@summary
+explain that troposphere temperatures have been rising .22 to .4° f per decade since 1979 if skeptics argue that the troposphere, the area that would be the hottest if greenhouse gases were causing climate change, is relatively cool.
+@article
+ Research with ice cores has revealed that the increases in temperature seen in the last twenty years would be expected to take place over several thousand years. Scientists can measure historical levels of carbon dioxide (CO2) and temperature over thousands of years from ice core samples, but this is not the only way. The most obvious and direct way of measuring temperature directly is with thermometers, but weather balloons and satellites are also being used to monitor temperature. Atmospheric CO2 is measured with sensitive equipment as well as flask samples. CO2 can also be measured in seawater. The overall trend of CO2 is that it has been increasing since the Industrial Revolution. Coupled with historical data, contemporary measurements, and computer models, CO2 is shown to have a strong correlation with recent warming.;
+, It is estimated that if humans were not present, ninety-five percent of CO2 emissions would still occur. However, natural emissions are balanced by other natural processes that absorb CO2, such as plants and oceans. Additionally, CO2 causes heating through the greenhouse effect even in small quantities. CO2 has a long atmospheric lifetime. Once released, it can stay in the atmosphere for 200-450 years.
+ Oceans and volcanoes help produce the atmosphere on a planet. CO2 and other greenhouse gases are vital to our existence on this planet. Explain that we do not want to remove all the CO2 from the atmosphere. It's estimated Earth would be 30° C (54° F) colder without CO2, making Earth uninhabitable. However, too much CO2 can harm the Earth.
+ The greenhouse effect was discovered in 1824.Greenhouse gases, such as CO2, hinder the process of allowing radiation to reflect back into space. This is the greenhouse effect.
+ The troposphere is warming, just like the land temperatures.
+

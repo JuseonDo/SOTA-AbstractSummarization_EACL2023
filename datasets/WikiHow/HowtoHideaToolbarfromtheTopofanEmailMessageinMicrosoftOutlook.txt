@@ -1,0 +1,14 @@
+@summary
+open outlook on your computer.open the email where you'd like to hide the toolbar/ribbon.
+
+@summary
+use the ctrl+f1 keyboard shortcut to hide the ribbon bar from the email message window.
+
+@summary
+hide some of the other toolbars, if they are open.
+
+@summary
+close the menu toolbar, if you pressed the alt key to open it.
+@article
+ Whether it's part of your Start menu, your Start screen or is sitting on your desktop, it must be open.
+, function key at the same time to hide the toolbar., Open the Tools menu and click Customize. Click Toolbars from the drop-down list. Click the checkbox to the left of the toolbar you'd like to hide and click "Ok" to save your settings., If it's not docked on the email message screen, press and release the Alt key a second time. Sometimes even, this may just as much be moving your mouse away from the toolbar area. For older versions of Outlook, this may be more complicated with a mouse - right clicking on the top bar of the message and clicking "Menu" for the Menu toolbar to become hidden.

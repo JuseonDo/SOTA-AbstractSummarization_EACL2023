@@ -1,0 +1,44 @@
+@summary
+switch between your installed keyboards.
+
+@summary
+open the start menu and select "control panel.",
+
+@summary
+select "clock, language, and region" and then click "region and language.",
+
+@summary
+click the "keyboards and languages" tab.
+
+@summary
+click "change keyboards.",
+
+@summary
+select the keyboard you want to use from the "default input language" drop-down menu.
+
+@summary
+click the "add" button and add your language if it isn't listed.
+
+@summary
+remove any keyboards you don't use.
+@article
+ If you have multiple keyboards installed that you want to switch between, there are a couple of ways that you can do it:
+
+
+Click the input language button in your Language Bar. This can be found next to the System Tray. If you don't see it, right-click the taskbar and select "Toolbars" → "Language bar."
+Press ⊞ Win+Space to cycle between your installed languages.
+ This will launch the Control Panel. You can use the Control Panel to remove keyboards you don't use or install ones that you need.
+ This will open a new window.
+ This will open your keyboard options.
+ This will open a list of your installed keyboards in a new window.
+ This will be the language that your keyboard uses to type.
+ If your preferred input language isn't listed, clicking the "Add button" will allow you to browse through all of the available input languages.
+
+
+When you've found the language you want to add, expand it in the tree and check the specific keyboards you want to install.
+ Removing keyboards you have no use for can help prevent you from accidentally selecting them:
+
+
+Select the keyboard you don't use from the list of installed keyboards.
+Click the "Remove" button to remove it.
+

@@ -1,0 +1,33 @@
+@summary
+tap the settings app.
+
+@summary
+tap mail, contacts, calendars.
+
+@summary
+,
+
+@summary
+tap fetch new data.
+
+@summary
+,
+
+@summary
+tap the push slider to toggle it off.
+
+@summary
+,
+
+@summary
+tap manually in the fetch section.
+
+@summary
+,
+
+@summary
+tap the mail app to check for new messages.
+@article
+ The Settings app icon has a set of gears on it. It may be in a folder labeled "Utilities.";
+,,,,, When Push is turned off and Fetch is set to Manually, you'll only receive messages on your iPhone when you open the Mail app.This will apply to all of the email accounts connected to your iOS device.
+

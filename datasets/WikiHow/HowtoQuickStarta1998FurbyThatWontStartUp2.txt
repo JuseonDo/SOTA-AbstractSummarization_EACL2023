@@ -1,0 +1,26 @@
+@summary
+push down the beak.
+
+@summary
+get a small flathead screwdriver.
+
+@summary
+insert the screwdriver to the left of the beak and push it down as far as it can go.
+
+@summary
+,
+
+@summary
+spin your screwdriver to the left.
+
+@summary
+once you feel that you have spun it enough, put batteries into furby.
+@article
+ You should be able to see inside.
+ A phillips head works fine as well, but a flathead is easier to use.
+, If you are in the right spot, then you should be at the gear mentioned in the previous method.
+
+
+To know if you are in the right spot, look at Furby's ears and eyelids. They should move slightly every time you spin the screwdriver.
+ Most likely he will start right up!
+

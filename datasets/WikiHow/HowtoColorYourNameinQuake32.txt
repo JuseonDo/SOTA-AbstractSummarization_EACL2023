@@ -1,0 +1,21 @@
+@summary
+follow this link for a download source.
+
+@summary
+use the on-screen instructions to download name changer, taking special care when installing the program to install it in the quake 3 directory of your computer.
+
+@summary
+launch the program by finding the icon or zip file on your desktop.
+
+@summary
+create your name.
+
+@summary
+finish up by clicking save and then save to all mods.
+@article
+ There are many websites around the Internet which have opportunities for download, but the author found this one the easiest.
+ This will be found within the (C:) drive.
+ However, Name Changer will run automatically if you checked the box when finishing the installation.
+ Name Changer can be used to color your name without having to use the ^ character. Instead, colors can simply be selected with the mouse from the color pane of Name Changer. With NC you can also add special symbols and pictures by clicking on Keypad.
+ Your character in Quake 3 will now be configured with the customized name you have made.
+

@@ -1,0 +1,20 @@
+@summary
+open your iphone’s settings.
+
+@summary
+scroll down and tap general.
+
+@summary
+tap accessibility.
+
+@summary
+scroll down and slide the “phone noise cancellation” switch to the off position.
+@article
+ Settings is an app on one of your home screens that’s noted by a gray cog icon. If you don’t see it, look inside the Utilities folder.;
+, It’s in the third group of options.
+ You’ll see it in the third section.
+ This switch is in the third section, under "Hearing."
+
+
+Noise cancellation is turned on by default in iOS 10.
+If turning off Noise Cancellation doesn’t improve the sound quality of your calls, there could be a problem with your earpiece. To contact Apple for assistance, see http://www.apple.com/contact/.

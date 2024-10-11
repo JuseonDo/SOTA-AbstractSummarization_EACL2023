@@ -1,0 +1,23 @@
+@summary
+check to make sure your keg is empty.
+
+@summary
+look to see if your keg has a co2 line.
+
+@summary
+lift the coupler handle at the base of the tap where it joins the keg.
+
+@summary
+pull the coupler off the empty keg.
+
+@summary
+,
+
+@summary
+move the empty keg aside.
+
+@article
+ You'll know that your keg is empty if you open the faucet of the tap and either very frothy beer comes out or none does.;
+, Some kegs will have a CO2 tank that provides pressure inside the keg to help dispense beer. The gas also helps the beer hold its natural carbonation. If the system you're using has a CO2 line, turn it off.
+ Grasp the coupler and rotate it counter-clockwise until it won't move anymore, usually just a half-turn.
+,

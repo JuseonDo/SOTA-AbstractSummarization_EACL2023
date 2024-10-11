@@ -1,0 +1,56 @@
+@summary
+measure the rise of 1 of the steps to be carpeted.
+
+@summary
+use the tape measure to obtain the fall of each step.
+
+@summary
+add the measurements of the step's rise and fall together to obtain the total length for each stair.
+
+@summary
+count the number of steps that are exactly the same size as the step that you measured.
+
+@summary
+,
+
+@summary
+multiply your total for the length by the number of steps that are exactly the same size.
+
+@summary
+,
+
+@summary
+take the measurements of any steps that are a different size from the first one measured.
+
+@summary
+,
+
+@summary
+total the measurements from all of the steps.
+
+@summary
+obtain the measurement for width by measuring the widest step on the staircase.
+@article
+
+
+
+The top of the step that you place your foot on when walking is called the rise.
+Place a measuring tape at the deepest portion of the step. This will be the area where the rise adjoins the fall of the step above it.
+Pull the measuring tape to the very tip of the rise and check the measurement.;
+,
+
+
+The fall is the portion of the stair that connects the rise of 2 adjoining steps.
+Position the tape measure at the edge of the rise and pull it down to the bottom of the fall of the stair where it adjoins the step below it.lol
+
+,
+
+
+Add 2 inches (5.1 cm) to the total to account for waste, padding and carpet cutting.
+,,, This will be the total length of carpeting that the stairs require.
+
+
+
+Put the tape measure at one end of the rise and stretch it across to the other end.
+There is no need to measure additional steps as long as you know the measurement of the widest step.
+

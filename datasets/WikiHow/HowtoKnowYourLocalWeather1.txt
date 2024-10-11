@@ -1,0 +1,12 @@
+@summary
+download weatherbug.
+
+@summary
+set your area if it is not automatically set.
+
+@summary
+if you don't want to download software, go to weather.gov and type in your zip code.
+
+@article
+ This is the most simple, free, and effective way to monitor everything weather related. Weather Channel toolbar works as well.;
+, This can be done by clicking "Change location" by clicking on the link on the program, or right-clicking the icon on the Quick Launch toolbar.

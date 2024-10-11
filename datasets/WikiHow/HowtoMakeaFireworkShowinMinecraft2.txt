@@ -1,0 +1,17 @@
+@summary
+place repeaters down, facing in a circle.
+
+@summary
+put down a lever next to one of the repeaters.
+
+@summary
+dig a block out next to one of the redstone wires.
+
+@summary
+put fireworks in the dispenser.
+@article
+ Then hook them together with redstone.
+ Right-click on the repeaters until their sticks are far apart from each other. Then flip the lever back and forth rapidly once.
+ Put a dispenser in the hole you just made.
+ Now enjoy the show.
+

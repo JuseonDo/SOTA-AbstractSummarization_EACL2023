@@ -1,0 +1,9 @@
+@summary
+the discussion is a very important part.
+
+@summary
+in the last paragraph make a small conclusion where you should sum up everything you have written and give your final stand on the results: whether the hypothesis was demonstrated as correct or wrong.
+@article
+ Here you discuss your findings, advantages and limitations of your experiment, and suggestions for further research. Here you have to discuss connections between your results and results of supporting studies, the use of specific design, participants, biases, analysis and data collection. Also discuss ethics and suggest improvements in further research.
+ Then you should do references.
+

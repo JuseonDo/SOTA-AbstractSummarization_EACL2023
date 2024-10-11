@@ -1,0 +1,61 @@
+@summary
+navigate to youtube.com.
+
+@summary
+,
+
+@summary
+search for a video.
+
+@summary
+scroll through the results and click on the video you want to share.
+
+@summary
+,
+
+@summary
+click on “share”.
+
+@summary
+select the “share” tab.
+
+@summary
+select a platform to share the video on.
+
+@summary
+click on the box containing the link to select it.
+
+@summary
+copy the link.
+
+@summary
+navigate to the place you would like to paste the link.
+
+@summary
+paste the link.
+
+@summary
+share the link with your friends.
+@article
+,
+
+
+Click on the search bar at the top of the page.
+Type keywords or the video's title into the search bar.
+Press the magnifying glass or ↵ Enter.
+, This option is located below the video.
+ On this tab you will have two options. You may share the video directly on a social media platform or copy a link to the video.
+ This tab lists several platforms for you to share the video on. Click on the icon of the platform you would like to use. The platform will launch in a new window. From here you may share the video with your friends. Options include:
+
+
+Facebook
+Twitter
+Google+
+Blogger
+Tumblr
+Live Journal
+
+, The link is listed underneath all of the social media icons.
+ Use the Mac shortcut ⌘ Command+C or the Windows shortcut Ctrl+C.
+ You may want to paste the link in an email, in a Facebook message, or on a blog.
+ Use the Mac shortcut ⌘ Command+P or the Windows shortcut Ctrl+P.

@@ -1,0 +1,9 @@
+@summary
+collect used teabags.
+
+@summary
+remove the contents from the teabags.
+@article
+ Set aside and allow to dry.;
+, Place the contents into a separate dish or bowl.
+

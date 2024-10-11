@@ -1,0 +1,23 @@
+@summary
+type in the command.
+
+@summary
+place down your spawner where ever you want.
+
+@summary
+bring out a spawn egg of choice, for the mob you wish to spawn.
+
+@summary
+take the spawn egg in your main hand (the one on the right), and right click the spawner.
+
+@summary
+now, have fun, and go get all those mob drops!
+
+@article
+ Instead of writing {name}, write your Minecraft username: /give {name} minecraft:mob_spawner.
+
+
+This would be written as (for example): /give InfN555 minecraft:mob_spawner (where "InfN555" is just a username, so use yours instead!).;
+, If you are making an exp/item grinder, it would be best to have it placed in a room where there are 4 blocks of air on each side before the wall, since this is the mob spawner spawning limit.
+ To do this, no commands are needed; just go into your creative inventory (of course, if you are in survival mode, then you will need a command), and go to the search bar, and search "egg". A list of eggs will appear, just make sure not to take the normal egg (the one which a chicken drops every now and again).
+ It should turn the mob inside into the spawn egg's mob.

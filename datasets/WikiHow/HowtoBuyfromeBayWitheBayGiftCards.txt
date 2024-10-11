@@ -1,0 +1,58 @@
+@summary
+skip the following step if you already have a paypal account.
+
+@summary
+create a paypal account.
+
+@summary
+go to ebay.com, click on "sign in" and log in using your ebay user name and password.
+
+@summary
+locate the item you would like to purchase on ebay.
+
+@summary
+,
+
+@summary
+ensure that the seller accepts paypal.
+
+@summary
+click "buy it now" or bid on the item until you have successfully won the auction and the bidding has ended.
+
+@summary
+,
+
+@summary
+click the "pay now" button.
+
+@summary
+,
+
+@summary
+select "paypal" as your payment option.
+
+@summary
+look for the "redemption code" field at the bottom of the page.
+
+@summary
+enter the code on the back of the gift card into the "redemption code" field.
+
+@summary
+,
+
+@summary
+click the "apply" button.
+
+@summary
+,
+
+@summary
+click "update total" to see if there is any unpaid balance.finalize your transaction.
+@article
+;
+, Go to PayPal.com and click on "Sign up." Follow the registration instructions to create your account. Have your bank account and credit card information on hand.
+ If you do not have an eBay account, click on "Register" and follow the steps to create your account. eBay will send you a verification email after you have submitted your account information form. Retrieve this email, click on the verification link provided and you will be directed to eBay and acknowledged as a verified user. Once your new eBay account has been verified, log in using your eBay user name and password.
+, Gift cards can only be redeemed if the seller accepts PayPal, and if you have a PayPal account.
+,, You will then be directed to log in to your PayPal account.
+ The code will contain 13 digits.
+,, If there is a balance, you can pay the remainder with the bank account you set up with your PayPal account. Any leftover amount is applied to your PayPal account and you can use the credit on a future eBay purchase.

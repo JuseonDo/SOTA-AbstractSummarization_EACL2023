@@ -1,0 +1,33 @@
+@summary
+open the news app.
+
+@summary
+go under the search tab on the bottom and enter "google" in the search bar.
+
+@summary
+,
+
+@summary
+find the article titled "the ethical ad blocker tells it as is" and select it.
+
+@summary
+scroll to the bottom of the page and select "privacy policy".
+
+@summary
+,
+
+@summary
+finally, select the google logo.
+@article
+ It becomes available after a relatively recent update, the one right before the update that introduced new emojis.
+, This article will have a link to said Ad Blocker.
+, From here, you can search for anything.
+
+
+Videos work the same way they always do.
+Username and password data will not be transferred or saved.
+Restrictions on sites are removed.
+There is a back button, but there is no forward button.
+You can send webpages to anywhere but the IBooks app.
+You can save images.
+

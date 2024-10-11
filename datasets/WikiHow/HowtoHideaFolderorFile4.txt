@@ -1,0 +1,9 @@
+@summary
+locate the file or folder you want to hide.
+
+@summary
+change the attribute.
+@article
+ You will need to type the full path of the file when you hide it.
+ Type “attrib -h c:\example\sample.txt”. This will make the file hidden. To unhide the file, type “attrib –h c:\example\sample.txt”.
+

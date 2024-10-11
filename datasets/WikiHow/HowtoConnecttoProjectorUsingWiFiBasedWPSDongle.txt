@@ -1,0 +1,16 @@
+@summary
+turn on the wifi device.
+
+@summary
+,
+
+@summary
+switch on the projector.
+
+@summary
+put on the projector's wifi.
+
+@summary
+click connect on the project.
+@article
+, Ensure that it has booted successfully before proceeding., Click Search on the projector to search for the WiFi signal., Connect to the WiFi connection. Then click OK, and it will start displaying your content.

@@ -1,0 +1,17 @@
+@summary
+open the instagram app on your phone.
+
+@summary
+navigate to your activity feed.
+
+@summary
+tap the username of the person you would like to approve.
+
+@summary
+to approve the request, tap the green checkmark at the top of the person's profile page.
+@article
+;
+, This is the heart-shaped button immediately to the right of your camera icon. You might see an orange pop-up hovering over this icon, which lists the number of comments and follower requests you have.
+ This will take you to the user's profile page.
+ If you would rather deny the request, tap the red "X".
+

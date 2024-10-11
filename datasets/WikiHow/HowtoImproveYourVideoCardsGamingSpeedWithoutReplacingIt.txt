@@ -1,0 +1,37 @@
+@summary
+lower the resolution.
+
+@summary
+turn off or reduce advanced visual features of your game.
+
+@summary
+reduce, or eliminate, the games anti-aliasing level.
+
+@summary
+reduce the level of anisotropic filtering.
+
+@summary
+if you can, try switching from high dynamic range lighting to bloom lighting.
+
+@summary
+,
+
+@summary
+try updating your directx software as new updates can increase the performance of your graphics card.
+
+@summary
+,
+
+@summary
+overclock.
+@article
+ This will help your game move at a more productive speed.;
+, Some of these that might significantly improve performance are shutting down DirectX 10 features.
+ Yeah, the edges will be jagged, but your CPU will love you for it!
+
+, What this does is reduce the quality of textures in the game that are viewed at an oblique level.
+,, Download your graphics card manufacturer's overclocking utility. Increase the core and memory clock speeds by 5-10% depending on the card.
+
+
+Note: This does come with some risk and is not recommended for integrated chipsets or graphics solutions without effective cooling systems.
+

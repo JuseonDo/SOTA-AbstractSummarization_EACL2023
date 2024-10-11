@@ -1,0 +1,15 @@
+@summary
+swipe down from the top of your screen.
+
+@summary
+tap the "today" button.
+
+@summary
+,
+
+@summary
+look for the weather information.
+@article
+ This will open the Notification Center. You can open the Notification Center from most screens.;
+,, It will be displayed beneath the time date. You should see a weather icon and a description of the day's weather. This may take a moment to load.
+

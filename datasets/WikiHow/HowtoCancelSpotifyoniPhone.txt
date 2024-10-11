@@ -1,0 +1,29 @@
+@summary
+launch settings.
+
+@summary
+tap “itunes & app store.” this will open a menu with several options for itunes and the app store.
+
+@summary
+tap the displayed apple id.
+
+@summary
+select “view apple id” from this pop-up.
+
+@summary
+open the manage subscriptions screen.
+
+@summary
+find spotify in the list.
+
+@summary
+cancel your spotify subscription.
+@article
+ Tap the “Settings” app icon on your iPhone home screen. The Settings app has a gear icon. This will open the Settings menu for your device.;
+, The screen will display your Apple account info, like your registered email and Apple ID.
+ A pop-up will appear with a few options.
+ More information regarding your account will be displayed.
+ Near the middle of the screen is a “Subscriptions” heading, and below this is a “Manage” link. Tap this to view a list of your subscriptions.
+ Your subscriptions list will be shown on the “Extension options.” Locate your Spotify subscription here.
+ You can cancel your subscription by tapping the “C” button on the Spotify entry. Note that when you cancel, your subscription will stop at the end of the current billing cycle.
+

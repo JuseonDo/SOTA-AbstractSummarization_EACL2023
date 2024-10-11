@@ -1,0 +1,20 @@
+@summary
+draw an oval sideways.
+
+@summary
+draw a curvy line that goes down the center of the oval.
+
+@summary
+draw a bunch of squiggly lines through the oval shape.
+
+@summary
+draw a curvy cord at the bottom of the brain.
+
+@summary
+draw something around it, like a robot.
+
+@article
+ Determine the size of your drawing by making the oval larger or smaller, depending on your needs.
+ This curvy line should commence from the left side of the oval and go across the oval to the other side.
+ This gives the distinctive brain texture to the drawing.
+ The cord connects the brain to the rest of your body.

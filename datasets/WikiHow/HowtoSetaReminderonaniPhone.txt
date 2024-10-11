@@ -1,0 +1,55 @@
+@summary
+open the reminders app.
+
+@summary
+open the reminders list.
+
+@summary
+tap an empty line to create a reminder.
+
+@summary
+open the reminder settings.
+
+@summary
+slide the switch next to remind me on a day to on.
+
+@summary
+,
+
+@summary
+tap the time and date that appear.
+
+@summary
+,
+
+@summary
+use the wheels that appear to set when you want to be reminded.
+
+@summary
+,
+
+@summary
+slide the switch next to remind me at a location to on.
+
+@summary
+,
+
+@summary
+tap the location that appears below.
+
+@summary
+,
+
+@summary
+set a location.
+
+@summary
+save the reminder.
+@article
+ Tap the Reminders icon on your iPhone’s Home screen to launch the Reminders app.;
+, If you have another list already open, tap the list stack at the bottom of the screen. Select the "Reminders" list, or tap "New List" at the top.
+ Type the event or action you want to be reminded about using the software keyboard.
+ Tap the ⓘ on the right side of the reminder entry. This will allow you to adjust the reminder settings.
+,,,,, Select your current location or type one into the Search bar. Select "When I arrive" or "When I leave" to determine when you will be notified. Return to the reminder settings by tapping the "Details" button in the upper-right corner.
+ Tap the Done button to set your reminder.
+

@@ -1,0 +1,26 @@
+@summary
+create a 5x5 square with the end portal block.
+
+@summary
+dig out the middle area of the square.
+
+@summary
+cut off the corners of the square.
+
+@summary
+place nether portal over the lava.
+
+@summary
+,
+
+@summary
+lure a friend in.
+@article
+ This is your portal frame.;
+, This needs to be two blocks deep so that the lava is not still.
+ Now it looks just like an ender portal.
+
+
+Don't forget to add ender eyes of your version has them. The more realistic the better.
+, Your friend thinks he is going to the end and then he ends up in the nether. Troll!
+

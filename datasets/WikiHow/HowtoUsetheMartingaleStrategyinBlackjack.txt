@@ -1,0 +1,9 @@
+@summary
+start at one of the lowest minimum bet tables.
+
+@summary
+with each losing hand, double your bet until you win back the money lost.
+@article
+ This allows you to become comfortable with your strategy with the least amount of investment.;
+, This is what's known as a "reverse-progression", "Martingale strategy" or "double bet strategy".
+

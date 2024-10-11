@@ -1,0 +1,31 @@
+@summary
+get the software from the websites provided in the section 'things you'll need'.
+
+@summary
+on each website, there are instructions on how to obtain the product keys for each program.
+
+@summary
+to enter the key for avast, right-click on the system tray icon (blue sphere with the letter a) and choose about avast... then click on license key.
+
+@summary
+for counterspy, double-click the icon on your desktop, and the setup wizard will launch.
+
+@summary
+both programs run in the background.
+
+@summary
+both programs also automatically update their own definition files, and can also update manually.
+
+@summary
+,
+
+@summary
+a particularly useful component of the avast program is it's vrdb, or virus recovery database.
+@article
+;
+, Avast! 4 Home is free for personal home use, and CounterSpy is $19.99. Once you have the product keys, install each program.
+ This will enable you to enter in the key emailed to you. Avast is now good for 14 months.
+ During this time, it will request the product key, as well as to set up some initial preferences. Once the wizard has finished, run CounterSpy to perform a scan. You want to go ahead and remove all that it finds.
+ This is evident from the Avast icon spinning around a lot, and CounterSpy popping up messages about malware trying to install itself. However, regular scanning is also necessary.
+, It is set to perform only when running the screensaver, so right-click the Avast icon, click VRDB, then click Generate VRDB only when computer is idle. This will create backups of your system files so that in the event something gets past Avast, it can restore that file without you having to reinstall your OS. Avast is the only anti-virus software that performs this way.
+

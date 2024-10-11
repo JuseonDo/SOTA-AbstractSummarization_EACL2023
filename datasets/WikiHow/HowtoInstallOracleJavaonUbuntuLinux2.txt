@@ -1,0 +1,9 @@
+@summary
+to enable your java plug-in in your web browsers you must make a symbolic link from the web browsers plug-in directory to the location of the java plug-in included in your distribution of oracle java.
+@article
+
+
+
+
+Important Note: I would urge caution when enabling Oracle Java 7 in your web browsers, due to the fact there have been many numerous security flaws and exploits. Essentially, by enabling Oracle Java 7 in your web browsers if a security flaw or exploit is discovered this is how the bad guys break in and compromise your system. For more information on security flaws and exploits in Java see the following website: Java Tester
+;

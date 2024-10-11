@@ -1,0 +1,18 @@
+@summary
+go to twitter; www.twitter.com.
+
+@summary
+,
+
+@summary
+type “rt @” into the search bar at the top of the page.
+
+@summary
+bookmark the page or create an rss feed.
+@article
+, This will take you to a page that shows a list of all the tweets that include retweets of the desired handle.
+
+
+Next to “Tweets”, select “Top” to see the tweets with the most retweets; select “All” to see all tweets with your search terms, with the most recent listed first.
+ This will allow you to easily track this page so that you can be aware every time that your tweets are retweeted by other Twitter users.
+

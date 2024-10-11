@@ -1,0 +1,18 @@
+@summary
+open system preferences.
+
+@summary
+click keyboard.
+
+@summary
+,
+
+@summary
+click "use all f1, f2, etc.
+
+@summary
+done.
+@article
+;
+,, keys as normal function keys".
+ The function (Fn) keys will now work in the same manner as they for Windows.

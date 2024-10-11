@@ -1,0 +1,13 @@
+@summary
+use the en-el3/3a battery and charger (mh-18).
+
+@summary
+have a multi-voltage ac adapter (eh-5).
+
+@summary
+use the ms-d70.
+@article
+ Consider getting a spare one to be sure that you always have a charged battery.;
+, This is good when you are tethering your camera.
+ It is a battery holder for 3 CR2 lithium batteries.
+

@@ -1,0 +1,92 @@
+@summary
+restart your computer.
+
+@summary
+as the computer starts back up, tap the f8 key.
+
+@summary
+choose “safe mode with command” from the advanced options menu.
+
+@summary
+optional step: type “taskmgr.exe” and press enter to open the task manager.
+
+@summary
+type "regedit" and press enter.
+
+@summary
+locate a folder named “winlogon” in the panel to the left.
+
+@summary
+in the panel to the right, find the registry key named “shell.” the complete filename should be something like “c:\documents and settings\username\desktop\virus info.exe.”
+
+@summary
+though the virus-info portion of the filename will be different for different computers, common examples include “contacts.exe,” “jashla.exe,” and “mahmud.exe.” write down this information: you will need it again later.
+
+@summary
+,
+
+@summary
+right-click the word “shell” and choose modify.
+
+@summary
+modify the value data to read “explorer.exe” and hit okay.
+
+@summary
+go to edit > find and type the virus info you wrote down earlier.
+
+@summary
+find and delete all the virus’s registry keys.
+
+@summary
+when you’re done, exit the registry editor.
+
+@summary
+type “shutdown /r /t 0” and hit enter.if this doesn't work or you cannot find any entries related to the 'police' virus, reboot your pc in safe mode (tapping f8 key whilst booting)
+
+@summary
+,- go to start -> run and type 'msconfig'
+
+@summary
+,- in the folder boot options turn of everything
+
+@summary
+,- save
+
+@summary
+,- reboot your pc
+
+@summary
+,virus gone
+
+@summary
+,
+
+@summary
+you can leave it this way or repeat steps above and turning on the options one by one.
+@article
+ If your computer isn’t working properly enough to run its own restart, force one by hitting the restart button (if you have one) or by turning the power button off and then back on.;
+, This will open an Advanced Options menu. Tapping the key several times will increase your odds of sending the command at the right moment.
+Note that if you hit F8 too soon on certain operating systems, you may get a keyboard error message and have to restart the computer; if you hit it too late, Windows will simply open normally and you’ll have to try again.
+ When you log in, you will see a command window (cmd.exe). This will allow you to modify the computer while still in safe mode.
+ (Do not type the quotation marks.) Only do this step if you already know or could easily recognize executable files associated with the virus.
+
+
+Go to the Processes tab to find and end all processes associated with the virus. Simply click on the process and hit End Process at the bottom right-hand corner of the window. If you aren’t sure whether or not a process is associated with the virus, don’t end it.
+
+
+
+
+
+
+Close the Task Manager. This will take you back to the command window.
+ (Again, do not type the quotation marks.) This will open the Registry Editor.
+ The full directory is “HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon.”
+
+,, A dialogue box should pop up that gives you the value name (Shell) and the value data (C:\Documents and Settings\YOUR USERNAME\desktop\VIRUS INFO.exe).
+ (Again, do not type the quotation marks.) This restores the default value.
+ (Ex. “contacts.exe,” “jashla.exe,” “mahmud.exe,” etc.) Make sure that Keys, Values, and Data are all checked in the Find options.
+ Hit Find Next to find a registry key containing your virus info, then right-click the name and choose Delete. Do this until there are no more registry keys associated with this virus.
+ You should now be back at the command window.
+ (Again, do not type the quotation marks.) This will restart your computer in normal mode.
+,,,,,, When the virus reappears after reboot, you know where the virus is hiding
+

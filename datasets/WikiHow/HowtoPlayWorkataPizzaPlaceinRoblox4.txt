@@ -1,0 +1,24 @@
+@summary
+grab the pizzas.
+
+@summary
+look at the bottom of the screen; you should see a number like b3, this is the house number you need to bring it to.
+
+@summary
+,
+
+@summary
+go out of the pizza store into one of the little cars, if available.
+
+@summary
+,
+
+@summary
+drive the car to the mailbox.
+
+@summary
+touch the door of the mailbox.
+@article
+ This can be done easily when standing on them if there are many boxes to collect.
+,, Look for the number on the pizza at the bottom of the screen.
+ You should hear a ding dong noise, and the door should open. If you chose the wrong mailbox, the person will say something like "I didn't order any pizza". If you chose the right mailbox, the person will say something like "I am going to devour this"!

@@ -1,0 +1,26 @@
+@summary
+select 'create from photo.',
+
+@summary
+choose the gender of the mii that you are making.
+
+@summary
+hold the 3ds at eye level and look straight into the camera.
+
+@summary
+tap the 'take' button at bottom of the touchscreen or press the a button to take a picture.
+
+@summary
+,
+
+@summary
+after the 3ds generates a face, you can decide if you are happy with it or not.
+@article
+ Then tap 'OK';
+, From there, you will be asked about the Mii's skin tone, eye color, hair color, and hairstyle.
+ Make sure to line up the top of the head with the top of the frame and the bottom of the chin at the bottom of the frame.
+
+
+If the Mii that you are making isn't your own, tap the 'Switch' button to switch to the outer cameras to take the picture.
+, If you want to edit it further, tap 'Next' to begin perfecting it!
+

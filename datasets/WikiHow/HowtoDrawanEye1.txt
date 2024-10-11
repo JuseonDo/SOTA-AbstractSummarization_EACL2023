@@ -1,0 +1,24 @@
+@summary
+draw a circle as sketch for the pupil of the eye.
+
+@summary
+draw a horizontally-elongated oval.
+
+@summary
+draw a small circle at the center of the circle.
+
+@summary
+draw an elongated triangle pointing to the right and curved.
+
+@summary
+draw curves inclined upward to resemble eyelashes.
+
+@summary
+refine, color, and add details!
+
+@article
+;
+, The lower portion of the oval and the circle touch each other. The upper portion of the oval doesn’t touch the upper part of the circle so as to occupy only about a fourth of the circle.
+ Draw another smaller circle connected to the circle in the middle but at the lower right.
+ Draw a curve a little near the left end of the eye.
+ Draw a curve at the lower right end of the eye.

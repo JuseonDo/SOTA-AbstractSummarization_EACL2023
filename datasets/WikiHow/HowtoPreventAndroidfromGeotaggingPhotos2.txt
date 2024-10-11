@@ -1,0 +1,18 @@
+@summary
+open your android’s settings.
+
+@summary
+scroll down and tap location.
+
+@summary
+,
+
+@summary
+slide the switch to the off (gray) position.
+@article
+ It’s the gray gear icon in the app drawer.
+
+
+This method will help you prevent all apps (not just the camera) from recording your location. This may affect your ability to use other apps, such as weather or map apps.
+, The switch is at the top of the screen and is likely labeled “On” by default. Once the switch turns gray, your camera will not be able to add location tags to photos and videos.
+

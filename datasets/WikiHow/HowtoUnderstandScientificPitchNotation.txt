@@ -1,0 +1,61 @@
+@summary
+realize that scientific pitch notation isn't rocket science.
+
+@summary
+scientific pitch notation combines the name of a note, the accidental (see next step), and the octave in which the given note lies.
+
+@summary
+accidentals are simply the little symbols you sometimes see by a note (either in scientific notation or on a staff) that give whether the note is sharp, flat, or natural.
+
+@summary
+when all of the above are combined together, you will be able to look at a scientific pitch notation and know automatically what the note is, what octave it's in, and whether or not it's sharp or flat.
+
+@summary
+,
+
+@summary
+c♯4 indicates c sharp (one semitone above natural) in the fourth octave.
+
+@summary
+,
+
+@summary
+congratulations!
+@article
+ It's actually a very simple thing to understand once you've actually learned about it. For the purposes of this article, we are going to use the note C natural in the fourth octave (otherwise known as middle C).;
+,
+
+The name of the note is a given letter. Each note in a full octave has it's own letter assigned to it, running from A to G.
+
+
+
+
+
+
+The number is the octave in which a note lies. C4 means C in the fourth octave, G5 means G in the fifth octave, etc. In scientific pitch notation, this is usually written in subscript.
+
+
+♯ means that the note is sharp, or one semitone above natural. This means that the exact pitch will be exactly halfway between the note given and the next note above it.
+
+
+
+
+
+
+♭ means that the note is flat, or one semitone below natural. This means that the exact pitch will be exactly halfway between the note given and the note below it.
+
+
+
+
+
+
+♮ means that the note is natural, or simply played or sang as-is.
+
+
+
+
+
+
+If there is no accidental, it is safe to assume that the note is natural.
+,, You now understand scientific pitch notation in music!
+

@@ -1,0 +1,14 @@
+@summary
+click the "start" button, choose "all programs" and select "windows update.",
+
+@summary
+select "check for updates.",
+
+@summary
+wait as the updates install.
+@article
+ Or, if you are running Windows Vista or Windows 7, you can open the "Control Panel," choose "Safety and Security" and click on "Windows Update.";
+, Wait as the Windows Update tool scans checks for updates that you have not installed. If you see a message that says, "Updates are available for your computer" or "Install updates for your computer," click the button labeled "Install updates."
+
+, Restart your computer when prompted to complete the updating process.
+

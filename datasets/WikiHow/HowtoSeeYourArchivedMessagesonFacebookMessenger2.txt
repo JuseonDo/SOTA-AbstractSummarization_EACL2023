@@ -1,0 +1,31 @@
+@summary
+open the facebook messenger app.
+
+@summary
+tap home.
+
+@summary
+press and hold on a conversation.
+
+@summary
+tap archive.
+
+@summary
+tap the blue speech bubble icon.
+
+@summary
+type in the recipient of your archived conversation.
+
+@summary
+,
+
+@summary
+tap on the recipient's name.
+@article
+ Facebook Messenger is a blue speech bubble icon with a white lightning bolt in it.
+ It's the icon that looks like a house, and it appears at the top left corner just under the search bar.
+ Doing so will reveal a pop-up menu.
+ The conversation will be moved to the "Archived" folder.
+ It's in the bottom-right corner of the screen, and doing so will start a new conversation.
+, You will now see the archived messages from the conversation appear in the chat window.
+

@@ -1,0 +1,40 @@
+@summary
+log into sugarsync.
+
+@summary
+navigate to the folder where the file you want to share is stored.
+
+@summary
+select the file you want to share.
+
+@summary
+click on the sharing icon.
+
+@summary
+select “share public link.” the public link for that particular file will be generated.
+
+@summary
+,
+
+@summary
+click on “public files.” on the left panel are links to your select folders and connected computers.
+
+@summary
+view the public files.
+
+@summary
+select a file to disable.
+
+@summary
+click on “disable link.” you’ll have to scroll down the context menu a bit to find this option.
+@article
+ Go to http://www.sugarsync.com and log in using your SugarSync account. The web app will launch.;
+, Click on the folders to navigate through them.
+ Do this by clicking on the file.
+ This is the one with two user profiles on the toolbar.
+, You’ll find “Public Files” under the “Other Places” section on the left panel.
+ You will be brought to the list of all files and folders you’ve shared on SugarSync. The files will be listed with their names and public links. You will also be able to see how many times each file has been downloaded., Do this by ticking the tick box beside the file you select. It will be highlighted.
+
+
+After selection, a context menu will appear with all the relevant options for the selected file.
+ Once you click the option, the public link for the selected file will be disabled and won’t be accessible anymore.

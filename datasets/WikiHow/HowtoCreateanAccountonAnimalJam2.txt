@@ -1,0 +1,9 @@
+@summary
+click on your animal icon in the lower left hand corner in the game.
+
+@summary
+choose a good color for your fur, eyes, and any body patterns you want to add.
+@article
+ You will be presented with a pop-up screen of various features and categories, including clothes, trades, and pets.
+ You can click on any of them, including the colors for a preview on your animal.
+

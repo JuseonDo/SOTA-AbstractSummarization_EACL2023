@@ -1,0 +1,26 @@
+@summary
+open terminal.
+
+@summary
+enter the timezone menu command.
+
+@summary
+select your timezone.
+@article
+ Select the Terminal program from your Linux programs, or press Ctrl+Alt+T on your keyboard., Depending on your Linux distribution, this command will vary:
+
+
+
+Ubuntu - dpkg-reconfigure tzdata
+
+
+Redhat - redhat-config-date
+
+
+CentOS/Fedora - system-config-date
+
+
+FreeBSD/Slackware - tzselect
+
+
+, Use the arrow keys to select a region in your timezone, then press ↵ Enter. This will change the timezone on your system.

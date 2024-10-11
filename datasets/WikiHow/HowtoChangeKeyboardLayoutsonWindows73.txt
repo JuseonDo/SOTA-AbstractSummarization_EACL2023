@@ -1,0 +1,13 @@
+@summary
+make sure to have more than one keyboard.
+
+@summary
+click the little keyboard icon aside your application tray.
+
+@summary
+select your preferred keyboard (e.g.
+@article
+ Follow the above steps, "Adding a Keyboard", to add a keyboard.
+ Both the application tray and the keyboard icon can be found at the bottom right of your computer screen.
+ "Canadian French"). Select your preferred keyboard by clicking on it, later if you revisit the menu, you will see a checkmark aside your currently selected keyboard.
+

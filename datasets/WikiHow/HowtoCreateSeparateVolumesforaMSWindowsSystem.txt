@@ -1,0 +1,97 @@
+@summary
+print this out and make notes as you complete each step.
+
+@summary
+,
+
+@summary
+plan.
+
+@summary
+defragment.
+
+@summary
+defragment again.
+
+@summary
+run chkdsk /r at the command line.
+
+@summary
+backup.
+
+@summary
+get the partition manager.
+
+@summary
+backup.shutdown ms windows and boot the gparted cd.reduce the size of the current partition (volume) leaving a little free space maybe 1 gb.
+
+@summary
+shutdown gparted.chkdsk,restart windows.wait much less than last time chkdsk ran since now it's only doing part of the disk.restart gparted cd.
+
+@summary
+create extended partition.
+
+@summary
+create new partitions (volumes).
+
+@summary
+shutdown gparted.assign drive letters and format volumes.cut & paste files to new locations.
+
+@summary
+defrag c:.
+
+@summary
+shutdown windows.
+
+@summary
+resize c: leaving 2 to 8 gb free and 4 to 8 gb away from the extended partition.
+
+@summary
+create primary partition for swap space using the space between c: and the extended partition.
+
+@summary
+shutdown gparted.
+
+@summary
+chkdsk c: again, i know this is a pain.boot and wait even less time than before.assign a drive letter to the paging partition and format it.
+
+@summary
+add new paging file.
+
+@summary
+set old paging space on c: to 0.
+
+@summary
+the resulting volume a.k.a.
+
+@summary
+,                                               
+
+@summary
+           
+
+@summary
+ c: boot 
+
+@summary
+ paging 
+
+@summary
+  file 
+
+@summary
+ browser 
+
+@summary
+ cache  
+
+@summary
+        your files       
+
+@summary
+           
+
+@summary
+,i will get back to this after i check if there is already an article describing this.
+@article
+, Decide how to group files - not just into directories, but on a larger scale. When you received you computer, the disk was most likely allocated (almost) entirely with one partition or volume. It's a bad idea for many reasons, including security, reliability, and fragmentation., Get the utility to collect all the data together at the beginning of the partition. Actually get all the free space together at the end of the volume so you can have an area to make your new volumes., Now might be the time to try another defrag utility. There are several available free for non-commercial use. This may be necessary if the defrag utility you normally use leaves used space at the far end of the partition., You will be prompted to do this on the next boot. Agree and restart the system. The boot process will take a very long time depending on the size of the disk (not on the amount of data on it since the /r makes chkdsk read every sector on the disk!). Adding the /r option is a safety feature. You do not want to discover that there is an unreadable sector on the disk in the later on. If chkdsk finds and corrects errors, well better now than later. Correct any remaining errors that occur before continuing which can usually be done by copying the bad file from elsewhere., Like they always tell you: "backup your disk". At least your address book, browser bookmarks and that project that you'll need next week. Back up to CD or DVD or another system (laptop or cloud), gparted. download the live CD and write it to a bootable CD or order one., Did you backup your address book? That project that's due next week?,,, Boot windows and see that all is nice.,,,,, Use all the available space., At least one for browser cache and one for your documents. Maybe one to separate the programs you downloaded or purchased, maybe one for your photos, maybe a separate one for music files, videos and one for email (see plan above). Don't worry to much about the size since you will be moving files from C: to the new volumes., Boot Windows.,,, (This will be fast!), Boot GParted.,, 8 GB is pretty big., Boot Windows.,,,, Location of paging file in system performance min size pp max size pp where pp is size of paging partition.,, filesystem layout should be something like:,,,

@@ -1,0 +1,40 @@
+@summary
+determine whether it is really necessary to report the user.go to the profile of the person whom you would like to report.
+
+@summary
+hover over the little cog icon.
+
+@summary
+click report abuse.
+
+@summary
+click the little down arrow next to select an abuse type.
+
+@summary
+click the reason for the report.
+
+@summary
+,
+
+@summary
+provide any additional information on why you are reporting the user in the text-box.
+
+@summary
+,
+
+@summary
+click submit.
+
+@article
+ Don't report people who beat your highscore or downvoted your comment. Instead, report users who:
+
+have an inappropriate username. Anything offensive, inflammatory, hate-based, harassing, or sexual in nature.
+have an inappropriate avatar. Anything copyrighted, violent, offensive or pornographic.
+have offensive profile content. Anything offensive, inflammatory, hate-based, harassing, violent, copyrighted, or sexual in nature.
+exhibit chat behaviour. People who are constantly chatting about things that are absolutely not related to Kongregate or games in general. People who are spamming chats should be reported as well.
+Reporting users without a legit reason could actually result in you getting banned.;
+,, This is located under the user's name and latest activity. A little drop-down menu should appear.
+ A menu should appear.
+
+
+.,,,

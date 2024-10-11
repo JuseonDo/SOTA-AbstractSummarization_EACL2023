@@ -1,0 +1,22 @@
+@summary
+click on the "tiling" icon.
+
+@summary
+click on and hold the icon to the left of the url.
+
+@summary
+drag the icon onto your desktop.
+
+@summary
+,
+
+@summary
+release the click.
+@article
+ It's two overlapping squares in the upper-right of corner of the Explorer window.
+
+
+Do this to minimize the window so an area of your Windows desktop is visible.
+ It's on the far left side of the search bar.
+, A shortcut to the website you were browsing will appear on your desktop.
+

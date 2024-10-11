@@ -1,0 +1,19 @@
+@summary
+reset your iphone's network settings if your ringtone doesn't stay applied.
+
+@summary
+open the settings app and select "general.",
+
+@summary
+scroll down and tap "reset.",
+
+@summary
+tap "reset network settings" and then confirm that you want to reset.
+
+@summary
+test your ringtone again.
+@article
+ Some users have reported that their ringtone automatically reverts back to the standard one after a little while, even though the new one still shows as selected. You can fix this problem by resetting your network settings. This will not delete any data, but you will need to enter your wireless network information again., This will open the general settings for your iPhone.
+ The various reset options will be displayed.
+ You may be asked to enter your passcode. Your iPhone will reboot during the reset process.
+ This will usually fix the problem you're having with your ringtone or notification.

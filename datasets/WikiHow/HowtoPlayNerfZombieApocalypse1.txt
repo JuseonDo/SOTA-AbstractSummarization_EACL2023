@@ -1,0 +1,35 @@
+@summary
+each survivor has a total of 3 lives.
+
+@summary
+this game is played in rounds.
+
+@summary
+once darts or rockets have been shot, they cannot be used again.
+
+@summary
+when zombies are hit, they have to "die" for 10 seconds.
+
+@summary
+,
+
+@summary
+the zombies can either run or walk.
+
+@summary
+,
+
+@summary
+to kill a player, a zombie has to grab a player and pretend to bite them.
+
+@summary
+,
+
+@summary
+the objective of the game is to find the object the zombies have hidden.
+@article
+;
+, A round is over when either all survivors are dead (This counts as one of their lives), or when they are out of ammo. They then return to the safe room until they are prepared for the next round. This continues until all survivors have no lives left, or they find the object.
+ (Ignore this rule if you do not have a large amount of darts.) NOTE: If the survivors run completely out of ammo, the zombies should put darts out like they did in step 3 while the survivors are in the safe house.
+,,, Once it is found, all survivors must make it back to the saferoom (alive).
+

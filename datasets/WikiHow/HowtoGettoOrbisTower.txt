@@ -1,0 +1,24 @@
+@summary
+go to six path crossway.
+
+@summary
+when you climb up, there are 3 platforms.
+
+@summary
+take the ship to orbis.
+
+@summary
+the ride lasts for 10 minutes.
+
+@summary
+,
+
+@summary
+when you get to orbis, go to the southeast part of orbis, enter the portal, and you're in the orbis tower.
+
+@article
+ There is a tree with ropes and platforms. When you get to the top part of the tree, climb the rope.;
+, The one you want to go is the first platform that's near you. The other 2 platforms take you to Edelstein and Ereve,
+
+, It's free to get on the ship to Orbis, and the boat arrives at :10, :25, :40, and :55. The boat will stop accepting people 1 minute before the ship departs.
+,

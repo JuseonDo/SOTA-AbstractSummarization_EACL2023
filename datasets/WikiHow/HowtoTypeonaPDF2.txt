@@ -1,0 +1,28 @@
+@summary
+open a pdf document in adobe reader.
+
+@summary
+click on fill & sign.
+
+@summary
+click on add text.
+
+@summary
+click on the place in the document where you want to add the text.select a font from the drop-down menu in the dialog box.
+
+@summary
+select a font size.click on the "t" overlapped with a square to change the text color.click on the document next to the blinking cursor.type the text you'd like to add to the pdf document.
+
+@summary
+click on x.
+
+@summary
+click on file in the menu bar and save in the drop-down menu.
+@article
+ Do so by opening the red Adobe Reader app with the stylized, white A icon. Then click on File in the menu bar at the top of the screen, click on Open..., select the PDF document you want to type on and click on Open.
+
+If you don't already have Adobe Reader, it's available for free from get.adobe.com/reader and can be used with Windows, Mac, and Android operating systems.
+ It's a tab in the upper-right corner of the window., It's next to the T icon in the "Fill & Sign Tools" menu.
+
+If you don't see this option, click on the small triangle next to "Fill & Sign Tools" to expand the menu.
+ A dialog box will open and cursor will appear where you clicked on the document.,, Type the font size you want to use in the box to the right of the font name.,,,, It's in the upper-left corner of the dialog box., Your text additions are now saved in the PDF document.

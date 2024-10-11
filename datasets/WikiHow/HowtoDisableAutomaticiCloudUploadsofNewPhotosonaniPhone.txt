@@ -1,0 +1,21 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll to the fourth group of options and select icloud.
+
+@summary
+,
+
+@summary
+select photos.
+
+@summary
+,
+
+@summary
+slide the my photo stream switch left to the "off" position.
+@article
+ Do so by tapping the grey gear icon on one of your Home screens (it might also be in a folder named "Utilities").;
+,,, It should turn grey, signifying that your new photos won't be uploaded to iCloud and then shared across your devices.
+

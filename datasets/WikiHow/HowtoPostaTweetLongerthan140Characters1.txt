@@ -1,0 +1,36 @@
+@summary
+type out your entire tweet.
+
+@summary
+copy the first couple sentences of your tweet.
+
+@summary
+,
+
+@summary
+go to twitter and compose a new tweet.
+
+@summary
+paste the text that you copied, making sure you don't go over the character limit.
+
+@summary
+go back where you typed out the full-length tweet and copy more text.
+
+@summary
+,
+
+@summary
+open twitter in another tab and compose a second tweet.
+
+@summary
+repeat the process to break up the rest of your tweet.
+@article
+ You can use a word processor on your computer or a note taking app on your phone, but any text field will do.;
+,, First, if you are mentioning a third party or replying to their tweet, type out their handle. Then, add a "tweet counter", like "1/3"—the purpose will be explained at the next steps.
+ Hold off on publishing it for now.
+, Type the same Twitter handle and counter, but this time, change the numbers to "2/3". Then, paste the text, again making sure you're within 140 characters.
+
+
+The tweet counter indicates that the content is too long to be sent in one tweet, and that the entire tweet is split into multiple, successive tweets. In this example, "1/3" is interpreted as the first tweet out of three tweets, "2/3" means second tweet out of three tweets, and so on.
+ Once your whole tweet has been split, go ahead and publish them individually.
+

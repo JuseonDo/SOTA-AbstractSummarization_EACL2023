@@ -1,0 +1,9 @@
+@summary
+tap on the kiln to open the instructions box.
+
+@summary
+decide which item you'd like to craft.
+@article
+ You can either add fuel, remove or use the kiln. Tap on "Kiln" to use.
+ Tap on the icon and press Craft. The item will transfer to your inventory when done.
+

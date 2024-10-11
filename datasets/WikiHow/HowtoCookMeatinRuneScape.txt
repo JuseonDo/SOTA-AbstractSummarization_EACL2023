@@ -1,0 +1,18 @@
+@summary
+attack an animal.
+
+@summary
+right click on the meat and choose the "take raw _____ meat".
+
+@summary
+,
+
+@summary
+use the raw meat on a range or open fire.
+
+@summary
+right click on the cooked meat to burn it on purpose.
+@article
+ Free players can only kill rats, bears, cows, and chickens, while members have an assortment variety.;
+,, If it burns, you'll need to cook another raw meat. If it's cooked, you have a cooked meat in your inventory.
+ To complete the Witch's Potion quest, you'll need a burnt meat.

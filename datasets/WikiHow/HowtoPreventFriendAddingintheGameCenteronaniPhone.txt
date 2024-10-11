@@ -1,0 +1,49 @@
+@summary
+open your iphone's settings.
+
+@summary
+tap general.
+
+@summary
+,
+
+@summary
+scroll down and tap restrictions.
+
+@summary
+,
+
+@summary
+type your current restrictions passcode (if prompted).
+
+@summary
+tap enable restrictions.
+
+@summary
+after enabling restrictions, you'll be prompted to type in and confirm a new restrictions passcode.
+
+@summary
+scroll down to the bottom of the menu.
+
+@summary
+slide the adding friends button off.
+@article
+ You can find the Settings app on one of your Home screens. It may be in a folder labeled "Utilities."
+
+
+You can also swipe down on your Home screen and type "Settings.";
+,,, If you have previously enabled Restrictions on your device, you'll need to enter your Restrictions passcode before you can proceed.
+
+
+If you can't remember your Restrictions passcode, you'll need to use Recovery Mode to restore the device. This will erase the data, but you'll be able to restore from a backup.
+ This button only appears if you do not yet have Restrictions enabled.
+ This will be required to make changes to the Restrictions settings. Make sure you remember it, or you'll have to restore your device.
+
+
+If you're trying to prevent another user from adding friends in Game Center, make sure to choose a passcode that they won't be able to guess.
+ The "Games" section is the last in the list.
+ The slider button will be to the left when it is turned off.
+
+
+Anyone using your device will no longer be able to add friends in the Game Center app.
+

@@ -1,0 +1,19 @@
+@summary
+press “e.” this will open up your inventory.
+
+@summary
+,
+
+@summary
+select the items.
+
+@summary
+drag the stack outside the inventory.
+
+@summary
+left-click again.
+@article
+, Left-click on the stack of items that will be dropped.
+ “Outside” includes all of the darkened gray area on the screen surrounding the inventory window.
+ This will drop the items on the ground in front of you.
+

@@ -1,0 +1,22 @@
+@summary
+click here to download the windows key updater tool.
+
+@summary
+,run the .exe file
+
+@summary
+,
+
+@summary
+click next.
+
+@summary
+type in the new product key.
+
+@summary
+restart your computer.
+@article
+,, This tool will scan your system for any inconsistency or errors. Wait for the scan to finish.
+ You might be required to activate your system again.
+ This will allow the changes to take place. You might be required to activate your system again.
+

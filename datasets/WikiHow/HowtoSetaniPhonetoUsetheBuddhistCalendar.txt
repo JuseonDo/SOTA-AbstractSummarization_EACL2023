@@ -1,0 +1,24 @@
+@summary
+open your iphone's settings.
+
+@summary
+tap general.
+
+@summary
+,
+
+@summary
+scroll down to language & region and tap it.
+
+@summary
+,
+
+@summary
+select calendar.
+
+@summary
+select buddhist.
+@article
+ It's the grey cog icon on one of your Home screens (or, if it's in a folder, "Utilities").;
+,,, It's toward the bottom of this page.
+ Your calendar's year format will now display according to the Buddhist calendar.

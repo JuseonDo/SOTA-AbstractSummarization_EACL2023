@@ -1,0 +1,20 @@
+@summary
+restart your pc and press f8 constantly when the computer is launching.
+
+@summary
+hit ctrl+alt+del together and you will get windows task manager.
+
+@summary
+click start and click control panel.delete malicious file
+
+@summary
+,
+
+@summary
+hit windows+r and press “regedit” in run box to open registry editor.
+@article
+ Then, use arrow keys to highlight Safe Mode with Networking and press Enter.;
+, At that time, search for Feed.helperbar.com process and stop it.
+ Then click Folder Options. Go to View tab and tick Show hidden files and folders and deselect Hide protected operating system files (Recommended) and hit OK.
+, Click Edit and click found to search for Feed.helperbar.com and remove malicious registry keys.
+

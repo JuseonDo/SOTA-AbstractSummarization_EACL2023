@@ -1,0 +1,13 @@
+@summary
+connect to oracle database with any administrator user which has 'drop user' permissions.
+
+@summary
+run command 'drop user <user-name-to-be-dropped>'.
+
+@summary
+alternatively run command 'drop user<user-name-to-be-dropped> cascade'.
+@article
+ Connection to Oracle database can be either via program (through application) or manual (through SQLplus or any equivalent utility).;
+, This command will simply drop the user without deleting any data created by this user.
+ This command will drop user as well as all the schema objects created by this user.
+

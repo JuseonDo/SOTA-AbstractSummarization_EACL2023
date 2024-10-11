@@ -1,0 +1,39 @@
+@summary
+choose this method if you don’t have much graphic design experience.
+
+@summary
+save your png, bmp, jpeg or gif file to your computer desktop.
+
+@summary
+,
+
+@summary
+navigate to popular vectorization websites.
+
+@summary
+click the button that says “upload image” or use the browser button to find the image on your computer.
+
+@summary
+,
+
+@summary
+select the new file format you want to use.
+
+@summary
+wait for the program to trace the image.
+
+@summary
+try the settings that are suggested to change the colors, the detail level and other parts of the image.
+
+@summary
+click the “download” button to download the result.
+@article
+ There are several websites that vectorize a PNG, BMP, JPEG or GIF image for free.;
+,, Search for sites like Vectorization.org, Vectormagic.com or Autotracer.org, or type “vectorization website” into a search engine.
+, The most versatile option is to use a PDF; however you can also save it for Adobe programs as an EPS or AI file.
+ This will take a few moments or minutes, depending upon the complexity of the file.
+ You may notice that your image now looks like a computer-generated image. The effect is especially noticeable with photographs.
+
+
+Different online vectorization programs have different options for changing the look of your vector image before you download it. You may want to try a few different programs if you don’t like the result.
+ Save the image to your Downloads folder or desktop. Use this image as you would a vector image.

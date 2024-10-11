@@ -1,0 +1,31 @@
+@summary
+create a button as a new symbol by selecting "new symbol" from the insert menu.
+
+@summary
+assign a name to the button that you are creating by typing the name in the text box that appears in the symbol properties window.
+
+@summary
+,
+
+@summary
+hit "ok" to add the button in the flash timeline.
+
+@summary
+draw the button as you want it to appear under each status label.
+@article
+;
+,, You will see 4 frames labeled "Up," "Over," "Down" and "Hit" in the timeline where the button has been added.
+
+
+Up: this frame represents how your button will look when it has not been clicked on.
+Over: when someone scrolls over the button they will see the button appear as it has been drawn in this frame.
+Down: the Down frame decides how your button will look while someone is clicking on it.
+Hit: the Hit frame shows the appearance of your button after it has been clicked on.
+ Here are some tools in your tool bar that can help you draw buttons.
+
+
+Shape Tools: the 2 main shapes that are available through your tool bar are elliptical and rectangle. You can use these to create ellipses and rectangles of various sizes.
+Paint Bucket: use this tool to fill your shapes with color.
+Paintbrush: you can create freehand linear drawings using the paintbrush.
+Text Tool: the text tool appears as a big "A" icon. You can use the text tool to create a text box and type inside it.
+

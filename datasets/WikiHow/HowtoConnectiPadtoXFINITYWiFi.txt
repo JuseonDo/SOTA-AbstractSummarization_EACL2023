@@ -1,0 +1,42 @@
+@summary
+open the settings app.
+
+@summary
+tap "wi-fi".
+
+@summary
+,
+
+@summary
+ensure that the "wi-fi" slider is toggled on.
+
+@summary
+tap the "xfinity wifi" entry in the list of networks.
+
+@summary
+,
+
+@summary
+wait to connect.
+
+@summary
+open safari.
+
+@summary
+,
+
+@summary
+enter your comcast email address and password.
+
+@summary
+tap "sign in".
+
+@summary
+start browsing.
+@article
+ Make sure that you are within range of the XFINITY WiFi hotspot you want to connect to.;
+,, The slider should be green.
+, After a moment, you will see the Wi-Fi signal meter at the top of your iPad.
+, If the log in page does not appear, try visiting another website to bring it up.
+ This will take you to the XFINITY home page.
+ Once you have signed in, you can start browsing the internet and using the wireless connection for your apps.

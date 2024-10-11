@@ -1,0 +1,37 @@
+@summary
+tap on the whatsapp icon.
+
+@summary
+tap "settings.",
+
+@summary
+tap "account.",
+
+@summary
+tap "privacy.",
+
+@summary
+tap "blocked.",
+
+@summary
+tap "add new...."
+
+@summary
+,
+
+@summary
+tap on a contact.
+@article
+;
+, The "Settings" icon is at the bottom right corner of your screen. It looks like a cog.
+
+
+,
+
+,
+
+,, Doing so will add the contact to your blocked list.
+
+
+If you want to unblock a contact, tap on the contact from the "Blocked contacts" page, then scroll to the bottom of the "Contact Info" screen, and tap "Unblock this Contact."
+

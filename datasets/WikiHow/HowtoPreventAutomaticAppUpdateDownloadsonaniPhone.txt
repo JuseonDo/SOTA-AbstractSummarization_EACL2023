@@ -1,0 +1,13 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll down and tap itunes & app store.
+
+@summary
+slide the updates switch to the off position.
+@article
+ This is the gray cog icon located on one of your home screens or in your “Utilities” folder.;
+, This is located in the fourth set of options in "Settings".
+ This will prevent your iPhone from starting downloads for new app updates in the future.
+

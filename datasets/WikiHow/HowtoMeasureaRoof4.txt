@@ -1,0 +1,13 @@
+@summary
+take into consideration the living space of your floor plan.
+
+@summary
+if your home is one story, add 1000 sq ft. you will be close.
+
+@summary
+if it is two stories, multiply your house floor plan by 1.3.
+@article
+ Let's say this is roughly 2000 sq/ft.
+ In the example of 2000 sq/ft, you may have like 3000 sq ft of roof, or 30 squares as most roofers call them (1 square = 100 sq. ft).
+ In the case mentioned before, your home could be like 2600 sq ft, or 26 squares. Again you will be very close.
+

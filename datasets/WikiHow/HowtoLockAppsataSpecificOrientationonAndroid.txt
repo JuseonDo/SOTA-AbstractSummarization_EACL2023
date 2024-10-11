@@ -1,0 +1,30 @@
+@summary
+open google play store.
+
+@summary
+search for “screen orientation control.” in the results, tap the first one on the list, which is made by eflow inc.
+
+@summary
+,
+
+@summary
+download and install by tapping the “install” button.
+
+@summary
+,
+
+@summary
+launch the app.
+
+@summary
+enable settings.
+
+@summary
+test it out.
+@article
+ Go to your app drawer/app list, then look for the Google Play Store app. Tap it to open.;
+,,, After installation, you can tap “Open.” Alternatively, you can go into your app drawer and search for it there.
+ The main app screen is relatively simple. Make sure to tick both “Enable orientation control on notification area” and “Enable sensor.”
+
+, While on the app which causes you trouble due to their overriding the orientation toggle on Android, tap on your notification bar and toggle on your desired orientation. It should lock to that orientation no matter how much you rotate your device.
+

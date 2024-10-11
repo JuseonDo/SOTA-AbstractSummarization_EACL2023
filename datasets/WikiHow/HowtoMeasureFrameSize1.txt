@@ -1,0 +1,9 @@
+@summary
+wrap a tape measure around your wrist (right or left).
+
+@summary
+note the circumference of your wrist.
+@article
+ Take the end of your tape measure and bring it all the way around your wrist.;
+, You can use the tables below determine your frame size, according to your wrist size.
+

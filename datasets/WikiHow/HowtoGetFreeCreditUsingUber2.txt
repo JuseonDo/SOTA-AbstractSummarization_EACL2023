@@ -1,0 +1,35 @@
+@summary
+open the uber app.
+
+@summary
+sign in to your account.
+
+@summary
+tap “≡”.
+
+@summary
+select “promotions” from the options menu.
+
+@summary
+tap “add promo code”.
+
+@summary
+enter the promo code and tap “apply”.
+@article
+ If you do not already have it you can download it from the App Store or Play Store
+
+, Enter your username and password and tap “Sign in”.
+
+
+If you do not already have an account, Uber often offers promotional rides to new users. These offers can be viewed at https://www.uber.com/promo/.
+ This button is in the upper left corner and will open the menu.
+ You will be taken to the Promotions page.
+
+
+Any promotions currently credited to your account will be listed here.
+ A field will appear to enter your promo code.
+ The promotional credit will be added to your account. This will be automatically applied to your next ride.
+
+
+Promo codes can be added anytime before a trip ends to be used as payment for that trip.
+When applying multiple promo codes to your account, the most recently added promo code is used first.

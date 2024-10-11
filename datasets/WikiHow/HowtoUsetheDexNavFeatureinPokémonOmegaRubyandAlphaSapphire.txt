@@ -1,0 +1,64 @@
+@summary
+start a new game, and after getting your starter pokémon, defeat brendan/may on route 103.
+
+@summary
+go back to littleroot town and go to professor birch's lab.
+
+@summary
+go to route 101.
+
+@summary
+go to the dexnav feature of your pokénav plus.
+
+@summary
+while going near areas where wild pokémon are, watch the bottom screen.
+
+@summary
+when you find a hidden pokémon, it will stick out of the grass.
+
+@summary
+catch the pokémon you want in the area.
+
+@summary
+use the dexnav to encounter the pokémon repeatedly, increasing your search level for that pokémon.
+
+@summary
+,
+
+@summary
+touch the sprite of the pokémon you want on the dexnav screen.
+
+@summary
+when you get near the pokémon, you'll be told its level, type, ability, first move, the item it's holding, if any, and its ivs (individual values, called "potential" by the game).
+
+@summary
+when you find the pokémon that has everything you want, sneak up to it to encounter it, and catch it.
+
+@summary
+,
+
+@summary
+get the national pokédex.
+
+@summary
+go to where the pokémon you want is located.
+
+@summary
+go to a spot that activates the dexnav and touch the magnifying glass on the screen.
+
+@summary
+sneak up to the pokémon to go into a battle with it, and catch it.
+
+@article
+ He/she'll have either Torchic, Mudkip, or Treecko, depending on the starter you chose.;
+, You'll be given a Pokedex and some Poke Balls.
+ You'll be stopped by Brendan/May, who will upgrade your PokéNav Plus with the DexNav feature.
+ The DexNav is the red square with a Poké Ball and Pikachu on the bottom screen.
+ When a hidden Pokémon is nearby, a magnifying glass will appear on the screen. Touch it, and a target will appear. As you get closer to the Pokémon, it will glow red.
+ Sneak up on it by lightly pushing the control stick in the direction you want to go. Once you've snuck up to it, you'll get into a battle with it. If you go too fast, it will spot you and disappear.
+ This will make it appear on your DexNav.
+, Press the search button, and the DexNav will search for it in the area. The target will glow red if the Pokémon is spotted nearby, otherwise, you'll be told it couldn't find the Pokémon.
+ The higher the search level, the more likely you'll be to find Pokémon with hidden abilities (abilities a Pokémon wouldn't normally be able to have if you catch it normally in the wild), egg moves (moves it would normally learn by being bred), and high IVs. IVs determine how high a specific stat is. The higher an IV is, the higher the stat is. IVs are indicated by stars, and for each star filled in, the Pokémon has an IV of 31 (the maximum possible) in a specific stat. The DexNav indicates hidden abilities, egg moves, and high IVs with a red circle with an exclamation mark next to the info.
+, You get the National Pokédex from Professor Birch in his lab at Littleroot Town after defeating the 8th gym leader.
+ Each area has three DexNav-exclusive Pokémon.
+ Go around until the hidden Pokémon appears. You'll know if it's the Pokémon you want by hearing its cry.

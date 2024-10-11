@@ -1,0 +1,23 @@
+@summary
+move in and cover your route to the bomb site.
+
+@summary
+find a hiding spot and pull out your pistol.
+
+@summary
+,
+
+@summary
+investigate your enemy's routes.
+
+@summary
+wait until enemy does start to plant the bomb.
+
+@summary
+start defusing once the bomb has been planted.
+@article
+ Throw a smoke grenade into an open area that the enemy can so you in.;
+,, When an enemy comes up to the bomb site, ask yourself is he really planting the bomb or just getting a scenic view of the beautiful bomb site. If the enemy chooses the scenic view, go back to hiding again.
+ Crouch walk towards the enemy and prone behind him. Make sure you are in knifing distance of the enemy.
+ Don't stop until the progress bar reaches 100%.
+

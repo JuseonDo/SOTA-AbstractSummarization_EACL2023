@@ -1,0 +1,57 @@
+@summary
+visit and sign into the pogo website in your web browser.
+
+@summary
+go directly to the yahtzee party start page, and click on the "start game" button over to the left of the big graphic displaying a preview of the game type.
+
+@summary
+,
+
+@summary
+wait for the advertisements to finish.
+
+@summary
+read the instructions if you are unfamiliar with the game "yahtzee" (though wikihow does have an instruction article about the game itself.
+
+@summary
+,
+
+@summary
+let the system make the first roll.
+
+@summary
+hold each die that you'd like to save for your three rolls time by clicking each dice.
+
+@summary
+score each round of rolls using the defined scoring definitions by clicking one scoring category each set of three rolls around.
+
+@summary
+click the blue cup to successfully save your score.
+
+@summary
+,
+
+@summary
+understand that the only time the super yahtzee meter will increase, is after you or any of the other guests at the yahtzee party table have marked the board with one or more confirmed yahtzee rolls.
+
+@summary
+,
+
+@summary
+recognize how yahtzee bonuses are scored.
+
+@summary
+recognize what happens after you've rolled the 13 rounds of yahtzee dice.
+
+@summary
+determine when the game is over.
+@article
+;
+,, Once you have completed the advertisements, the system will tell you. If you have a paid Club Pogo membership, you won't need to worry about these advertisements and can go right into playing the game.
+, Each successive roll can be accomplished by clicking the blue cup in the bottom right corner of the game screen.
+ The held dice will be placed in the five slots below the game rolling board and to the left of the blue rolling cup.
+ If you complete the category definition before the end of three rolls, you can click the category.
+,, Due to a system problem on POGO's end, you must click at least one square once the second Yahtzee is able to be scored in the round. Not only will you receive the coins for the category, but you'll also receive 100 additional coins for each Yahtzee bonus you have (unlike it's paper and pen and real dice counterpart).
+ If there is time remaining, you will be asked whether or not you'd like to complete some additional bonus throws to receive bonus coins. Try to complete this for as much time as you can, as the time remains. Your scoring doesn't have to be perfect, but it must match one of the five to six major categories as what is on the bottom half of a Yahtzee scoreboard. These include three-of-a-kind, four-of-a-kind, full house, small straight, large straight and Yahtzee.
+ The game will be over when the screen displays a Game Over box and has added the tokens you scored in the game to your profile found in the top right corner of the game screen.
+

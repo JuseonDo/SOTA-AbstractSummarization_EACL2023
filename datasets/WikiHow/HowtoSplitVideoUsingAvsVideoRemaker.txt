@@ -1,0 +1,43 @@
+@summary
+download and install avs video remaker
+
+@summary
+after the download is finished, run the avsvideoremaker.exe file and follow the installation wizard instructions.
+
+@summary
+run avs video remaker and load the original video
+
+@summary
+after you launch the program, you can select your video file using the add file button.
+
+@summary
+split your video into clips
+
+@summary
+to split your video into clips put the cursor within the timeline scale and and move it to search for the place where the next clip begins.
+
+@summary
+delete unwanted clips (optional)
+
+@summary
+if you want to leave only some clips select the unnecessary one clicking it with the left mouse button and press the delete button above the timeline.
+
+@summary
+remake your video
+
+@summary
+now you need to set the output file parameters.
+@article
+;
+, In the opened Windows Explorer window browse for the necessary file.Note: when your input is a DVD disc, you will need to select the path to your source file: X:\Video_TS\Video_TS.IFO. "X" stands for your DVD-ROM or the hard disk drive folder where your DVD is stored.
+
+After loading your video, you can add more video files to AVS Video ReMaker program using the Add File button or remove the loaded files clicking the Clear button.
+ Then click the Split button above the Timeline. The video will be split into clips at the current cursor position.
+Use the Zoom slider to change the scale of the video on the Timeline. It will help you to set the split point more accurately.
+Note: for the majority of video files the splitting can be done based only on keyframes. In this case when you put the cursor on the Timeline and click the Split button the split point will be moved to the nearest keyframe to the left. To navigate through the keyframes use the Previous Keyframe and Next Keyframe buttons of the Preview window.
+ The highlighted clip will be removed from your video.
+ Enter the output file Name into the appropriate field in the Save Options area, select the Folder to save your resulting videos and choose one of the Video/Audio formats, if available.
+To save your clips as separate files check the Save each clip to a new file option.
+When all is ready press the Remake now! button to start processing. You will see the deletion progress on the progress bar. It will take some time depending on the file length and your computer configuration.And that's it - you have just split your home video into several files.
+
+

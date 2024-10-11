@@ -1,0 +1,25 @@
+@summary
+click the menu (☰) button and select tools → extensions.
+
+@summary
+uncheck each of the extensions in the list.
+
+@summary
+,
+
+@summary
+restart chrome.
+
+@summary
+,
+
+@summary
+test the browser.
+
+@summary
+enable extensions one-by-one until you find the one that's causing problems.
+@article
+ An extension you have installed may be causing your problems. Try disabling all of your extensions, and then enabling them one-by-one until you find the one that is causing the problem.
+,, If you are still having issues, then it wasn't your extensions. Try one of the methods below. If Chrome is working fine now, see the next step.
+ Test Chrome by loading a troublesome website each time you enable a new extension.
+

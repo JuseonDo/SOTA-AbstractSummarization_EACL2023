@@ -1,0 +1,27 @@
+@summary
+make an = sign.
+
+@summary
+then make '.'.
+
+@summary
+make another =.
+@article
+ This will be the first set of whiskers.
+=
+
+, This will be the cat's face.
+='.'
+
+, This will be the second set of whiskers.
+='.'=
+
+
+You can change eyes to... *_*,$.$, (O_o), =*_*= , =$.$= , last but not least =(O_o)=
+
+
+
+
+
+
+

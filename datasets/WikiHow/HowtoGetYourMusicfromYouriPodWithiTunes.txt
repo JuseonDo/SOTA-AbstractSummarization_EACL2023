@@ -1,0 +1,43 @@
+@summary
+make sure your ipod is set to "manual update" in itunes before connecting it to a new install of itunes.
+
+@summary
+make sure your ipod is configured for disk usage by putting it in "disk mode".
+
+@summary
+set itunes to also copy songs added to your library.
+
+@summary
+,
+
+@summary
+set itunes to organize your library if you want (suggested).
+
+@summary
+,
+
+@summary
+change your windows explorer in windows xp options so that you are able to view hidden files and folders.
+
+@summary
+make sure your ipod is connected to your computer.
+
+@summary
+enjoy!
+@article
+ Otherwise, iTunes will begin "syncing" the two (deleting the music from your iPod).;
+, You can use the "Enable disk usage" checkbox in iTunes or do it manually: http://docs.info.apple.com/article.html?artnum=93651.
+,,
+
+
+On the Tools menu in Windows Explorer, click Folder Options.
+Click the View tab.
+Under Hidden files and folders, click Show hidden files and folders.
+ Navigate to the drive letter that is assigned to your iPod (i.e. X:).
+
+
+Goto: X:\iPod_Control\Music
+Press {CTRL+A} to select all of the folders that you see here.
+Click and drag the selection and drop it into iTunes. iTunes will then begin copying your music into your music library and renaming them according to the ID3 tags that they hold.
+ In the end you get your music from your iPod properly named and organized in your new iTunes installation.
+

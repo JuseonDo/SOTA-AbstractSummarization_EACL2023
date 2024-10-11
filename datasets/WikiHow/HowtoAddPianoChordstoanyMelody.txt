@@ -1,0 +1,65 @@
+@summary
+know that (usually) the left hand takes care of playing chords using arpeggio, called broken chords, or the usual unified chords for the left hand to play for tenor and bass notes in the scale while the right hand is usually playing the melody and/or alto part(s)...;
+
+@summary
+,
+
+@summary
+find the key; so for example, c major is the easiest; it is called the common key/common chord.
+
+@summary
+figure out the notes of the melody.
+
+@summary
+suppose you have notes g and c in the melody and the song is in the "key of g major," try playing a c major chord (c-e-g) arpeggiated and try a g major chord (g-b-d) arpeggio (breaking the chords).
+
+@summary
+find chords in the major scales as the i-iv-v: that means the tonic(i), the sub-dominant(iv), and the dominant(v) based on circle of notes of the key of the song.
+
+@summary
+write the chords (when they are decided upon) above the words using the most common chord progressions.
+
+@summary
+include these progressions which are commonly used: i iv v i -- i vi iv v -- i ii iv v -- vi iv i v -- i v vi iii iv i ii v where each numeral means to use the chords named by the notes in that key's "circle of notes" with the "tonic" as 1st (i) "doh" of the key on up to the (vii) 7th and then "recycle.",
+
+@summary
+play chords in normal order, low to high: like "c-e-g", generally -- and then when it is necessary to consider changing the chord (consider usual chord progressions).
+
+@summary
+use that c chord inversions (which are not in order low to high) to use when the chords on the song do not change, but then you can have a slightly different sound by the inversions.
+
+@summary
+understand that if the lower notes b through d are used in the melody, then the fundamental or root position of the c chord would be used.
+
+@summary
+do you want to write your melody although you may not read music well.
+
+@summary
+join professional ranks using "nashville lead sheet/nashville notations" of numbering (not lettering) the chords.
+@article
+, (And, it helps if you understand at least the basic chords and some music theory for harmony, etc.)
+
+, You have to make the chords fit the melody notes -- not the other way around. Try to avoid clashing notes. There are several ways to do this. If the song has a "left hand" look in it, and if the structure isn't too complicated, listen to the section you're putting a chord into and decide if it is major or minor.
+ Unless the song is really complicated, one of those should fit. By simply analyzing the section in which you're placing a chord, the tonic (first note, I) of the melody chord/key will usually be seen here and there in the bar(s) of the melody where you are looking to fit your chord.
+ For the minor scales the roman numerals for chords are lowercase i-iv-v: that's the tonic(i) sub-dominant(iv) and dominant(v)... Write these down somewhere so you can refer to them, because they will come up a lot in theory of harmony!
+
+, You can start by using chords I and V (first and fifth) "of the scale of the key" are very commonly used. So the 1st chord of the scale for the key C Major is the tonic (I) "C Major" chord (C-E-G) and then chord "(V) is G Major" (G-B-D) and so use whichever sounds better in progressions upward and downward in different parts of the song.
+
+
+
+Just repeat these chords to the beat if you're not sure, and write down the one that sounds the nicest. Don't be afraid to mix them around if you find another chord sounds nicer!
+
+, The chord is highly dependent on which melody notes are being used in that part of the song. So an understanding of theory is helpful -- if for example: the notes of the melody are in the key of C (C-E-G) then you have the sub-dominant "4th chord (F)" which fits right in, or chord the "fifth chord (G)", and of course "B (the VII)" may work as it closely relates to "G7", and naturally D, F chords may be comfortable, all being in, of or near C Major.
+ Thus, depending on what notes are used like high notes "G or A" in the melody then the second inversion of the C chord could accompany this group.
+ If, however, the higher notes (E, F, or sometimes G) are used, the first inversion of C would be played to give a different tonality.
+ Many a musician can play in a rhythm section -- does not read much music -- but learns and plays harmony to the melody by blending among other instrumentalists by ear (improvising).
+
+
+The notes of the melody are not the first consideration for strumming, picking, and arpeggio piano chording kind of musician... who is in key and harmonizes to the key, but is not really "clued" to knowing the exact melody line or harmony theory...
+
+One may be a good recording session player or band member par excellence by knowing chords inside and out without reading the sheet music, ie: for purposes of commercial/professional entertainment or church music!
+
+
+
+, This allows playing chords in any key as the tonic to a melody and to allow easy key changes by counting up and down by musical steps and 1/2 steps (sharps and flats)...
+

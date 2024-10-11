@@ -1,0 +1,31 @@
+@summary
+go to https://drive.google.com in a web browser.
+
+@summary
+click new.
+
+@summary
+click new folder….
+
+@summary
+,
+
+@summary
+type a name for the folder.
+
+@summary
+,
+
+@summary
+click create.
+@article
+ You can use any web browser, such as Chrome or Safari, to access your Google Drive.
+
+
+If you don’t see the contents of your drive, enter your Google username and password to sign in now.;
+, It’s the blue button near the top-left corner of Google Drive.
+,, Your new folder now appears in Google Drive.
+
+
+To move a file into the folder, drag the file to the folder.
+

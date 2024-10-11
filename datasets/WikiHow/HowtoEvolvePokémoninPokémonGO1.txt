@@ -1,0 +1,28 @@
+@summary
+determine if you have enough candy to evolve a pokémon.
+
+@summary
+open the app.
+
+@summary
+click on pokémon, the button on the bottom left.
+
+@summary
+,
+
+@summary
+view the list of the pokémon you’ve captured.
+
+@summary
+look at the profile of that pokémon.
+
+@summary
+look at the bar that says “power up.” right below that, look at a bar that says “evolve,” right below the number of candy that you have.
+@article
+ Whenever you catch a Pokémon, such as a Pikachu, you collect both Pikachu Candy and Stardust.You need a certain number of Pikachu Candy to evolve a Pikachu (and Spearow Candy to evolve a Spearow, etc.).;
+, Click on the red and white Pokéball in the bottom center of your screen. This will open another menu, which should be green.
+, Click on one of them (a Pikachu, for example).
+ On the page for the Pikachu, you should see a picture of the Pikachu, its HP (hit points), the type, weight, and height. You can also see Stardust and a number next to some orange “Pikachu Candy.” This number is the number of Pikachu Candies that you currently have.
+ This is the button that you should press to evolve your Pokémon if you have enough Candy.If you have enough Candy, press “Evolve.”
+If you don’t have enough Candy, collect more Candy.
+Typically, you will need between 25 and 50 Candies to evolve your original Pokémon. However, these numbers will increase after you evolve your specific Pokémon for the first time.

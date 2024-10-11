@@ -1,0 +1,20 @@
+@summary
+open windows explorer.
+
+@summary
+navigate to .c:\riot games\league of legends\rads\projects.
+
+@summary
+,
+
+@summary
+delete the .lol_launcher folder.
+
+@summary
+,
+
+@summary
+start the launcher as you normally would.
+@article
+ If your League of Legends launcher will not start, you can delete the launcher's files, and they will be automatically downloaded when you run the launcher again.
+,, The launcher will redownload the necessary files and allow you to start the game.

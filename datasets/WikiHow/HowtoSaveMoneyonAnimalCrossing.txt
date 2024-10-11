@@ -1,0 +1,9 @@
+@summary
+find money in places where you wouldn't expect it.
+
+@summary
+figure out how to get free things.
+@article
+ You can pick up items around town (i.e sea shells, fruit, and flowers) and sell them to Tom Nook, or you can catch bugs, fish, and bees and sell them to Blathers at the museum.;
+, From shaking trees to making friends to browsing the Lost and Found, there are many ways to obtain things without buying items.
+

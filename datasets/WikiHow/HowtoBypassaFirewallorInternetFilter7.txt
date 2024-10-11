@@ -1,0 +1,9 @@
+@summary
+sign on to groovynotes for instant messaging.
+@article
+ It only uses the standard HTTPS port to communicate, which allows it to pass through almost any firewall.
+
+
+Go to groovynotes.com and click the link to Install the extension.
+After installing, invite your friends and start chatting away.
+

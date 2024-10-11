@@ -1,0 +1,32 @@
+@summary
+restart windows 8 in the advanced mode.
+
+@summary
+after restarting, windows asks you to choose an option.
+
+@summary
+in the troubleshoot screen, click advanced options.
+
+@summary
+,
+
+@summary
+in the advanced options screen, click startup settings.
+
+@summary
+,
+
+@summary
+let your system restart.
+
+@summary
+wait for the list of boot options.
+
+@summary
+install unsigned drivers without any issue.
+@article
+ From the Windows 8 login screen, hold down the Shift key on your keyboard, click on the Power icon and then select Restart.;
+, Click Troubleshoot.
+,, You are informed that you are about to restart in order to change Windows options, including disabling driver signature enforcement. Click Restart.
+ Press the F7 key to disable driver signature enforcement.
+ However, Windows will display a warning message. When the warning appears, click "Install this driver software anyway".

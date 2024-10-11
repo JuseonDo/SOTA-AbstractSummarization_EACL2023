@@ -1,0 +1,41 @@
+@summary
+navigate to your file system folder.
+
+@summary
+scroll through the /etc folder.
+
+@summary
+right click the file slim.conf, and under the scripts menu, click browse as root.
+
+@summary
+wait for a new window of the /etc folder to appear.
+
+@summary
+scroll down the file until you see the line starting like this: # default_user.
+
+@summary
+,
+
+@summary
+delete the #, then type in your user name directly following the line.
+
+@summary
+scroll further down the file until you see the line starting like this: # auto_login no.
+
+@summary
+,
+
+@summary
+delete the # and change the no to yes.
+
+@summary
+save your slim.conf file.
+@article
+ This can be done by clicking on the AV Menu and clicking on File Manager. Then select the File System tab.;
+, Locate the slim.conf file. The files should be arranged in alphabetic order.
+ You may be required to fill in an administrative password.
+ Scroll down again, and this time, double click on the slim.conf file. A gedit window will appear; it should look like the picture above.
+, This final line should look like this: default_user YOUR USERNAME. This will automatically fill in your user name during login, but you will still be required to enter a password.
+, The final line should look like this: auto_login yes.
+ Just close the window and save the changes you made to it. The next time you reboot, the auto-login should be activated.
+

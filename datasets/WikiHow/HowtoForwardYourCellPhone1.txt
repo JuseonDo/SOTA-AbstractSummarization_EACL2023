@@ -1,0 +1,74 @@
+@summary
+check with your cell phone provider to see if call forwarding is available to you through your calling plan.
+
+@summary
+determine the type of call forwarding service you want to set up.
+
+@summary
+ask your cell phone provider how to use call forwarding.
+
+@summary
+ask your cell phone provider about the fees or rates associated with call forwarding.
+
+@summary
+set up call forwarding on your cell phone.
+
+@summary
+press the green "send" key, then press the "menu" button to access the call options menu.
+
+@summary
+select "options," then choose "call forwarding.",
+
+@summary
+press the "menu" button and select "new number.",
+
+@summary
+enter the phone number you want your calls forwarded to.
+
+@summary
+,
+
+@summary
+click on your blackberry's trackball to save the number.
+
+@summary
+,
+
+@summary
+click on the "escape" button to return to the call forwarding menu.
+
+@summary
+select your desired call forwarding option from the list.
+
+@summary
+click the "escape" button after making your selection to save your call forwarding settings.
+
+@article
+ Some calling plans or service providers may place restrictions on call forwarding.
+
+
+Call your cell phone provider directly or visit their company's website to help you determine call forwarding details specific to your carrier.
+ You may be able to set up conditional or unconditional call forwarding, depending on your preference or cell phone provider. Some cell phone providers use different call forwarding terminology.
+
+
+Set up conditional call forwarding if you want your calls forwarded when you cannot be reached on your cell phone. For example, your calls will be forwarded only if you are busy on another phone call, cannot answer your ringing phone on time, your phone is turned off, or if you are in an area that does not receive signal.
+Set up unconditional call forwarding if you want your phone calls routed to another phone number indefinitely, or unconditionally. For example, if you are traveling internationally and do not want to receive any incoming calls, all phone calls will be routed immediately to another number without ringing first to your cell phone.
+ Some carriers may need to enable call forwarding on your calling plan before you can use it.
+
+
+Your cell phone provider may provide you with codes or keystrokes you can enter directly into your cell phone to enable or set up call forwarding.
+ Some providers may offer call forwarding as part of your service plan; whereas others may charge you an extra fee or per-minute rate.
+
+
+
+Use the keystrokes or instructions provided to you by your cell phone carrier or enable call forwarding through the menu of your cell phone. Depending on the model of phone you have, the menu steps may vary.
+
+
+
+The green "Send" key will contain an icon of a green telephone, whereas the "Menu" button is the key on your Blackberry that displays a number of small dots.
+ Your Blackberry may take a few seconds to load your network's call forwarding settings.
+ This will allow you to indicate the phone number you want your calls forwarded to.
+,, The "Escape" button contains an icon of an arrow pointing to the left.
+ For example, if you only want to have calls forwarded when the line is busy, choose "Forward calls if Busy."
+
+,

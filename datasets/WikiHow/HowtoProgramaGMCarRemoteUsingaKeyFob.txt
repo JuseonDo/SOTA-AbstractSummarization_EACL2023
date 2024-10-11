@@ -1,0 +1,38 @@
+@summary
+enter your vehicle.
+
+@summary
+locate the obd2 port.
+
+@summary
+close the door you entered through.
+
+@summary
+insert car key into the ignition.
+
+@summary
+insert the key fob into the port.
+
+@summary
+wait for a chime or red light.
+
+@summary
+press and hold the lock and unlock button on the remote at the same time.
+
+@summary
+remove the key fob.remove the key and get out of the car.
+
+@summary
+test the remote.
+@article
+ Work will be done on the driver’s side.;
+, This port is located underneath the steering wheel.
+ Make sure all the other doors are closed as well before proceeding., Turn the key till the odometer lights turn on. Do not start the engine.
+ You only have two minutes to complete the following steps; otherwise the session will time out., Once you hear or see it, the remote is ready to be programmed.
+ Hold them until the light on the key fob flickers and turns orange.
+ There is a clip underneath the OBD2 port.
+
+
+
+Use the screwdriver to press on the clip to ease the removal.
+, Make sure every button works correctly. If this step fails, try the procedure again.

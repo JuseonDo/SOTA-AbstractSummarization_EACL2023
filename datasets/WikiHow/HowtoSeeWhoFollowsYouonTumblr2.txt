@@ -1,0 +1,22 @@
+@summary
+make sure you are typing in the address bar of your browser, not the tumblr search bar.
+
+@summary
+,
+
+@summary
+type in the following url.hit ↵ enter
+
+@summary
+,
+
+@summary
+look at your followers.
+@article
+, Replace Blog-Name with the name of your own blog.
+
+
+https://www.tumblr.com/blog/blog-name/followers
+
+,, On top of the you can see how many followers you have. Below, you have a list of people who follow you.
+

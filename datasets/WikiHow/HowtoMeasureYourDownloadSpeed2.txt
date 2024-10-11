@@ -1,0 +1,31 @@
+@summary
+go to the speakeasy speed test page.
+
+@summary
+,
+
+@summary
+select the city from the list on the side that you are located nearest to.
+
+@summary
+wait for the test to complete and your results to appear.
+@article
+, This will trigger the test to begin.
+ The Speakeasy test displays 2 results.
+
+
+Download Speed: this is the Internet speed at which files are downloaded to your computer.
+
+
+
+
+
+
+Upload Speed: the speed at which you can upload files at locations on the Internet such as uploading email attachments. This is known as the upload speed.
+
+
+
+
+
+
+

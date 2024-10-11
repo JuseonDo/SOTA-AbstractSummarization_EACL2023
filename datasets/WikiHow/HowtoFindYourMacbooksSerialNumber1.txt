@@ -1,0 +1,15 @@
+@summary
+click the apple menu on the far left of your screen and select "about this mac";
+
+@summary
+,
+
+@summary
+click on "get more info".
+
+@summary
+locate the number.
+@article
+, You'll be taken to a window that shows what operating systems you are running and information about your processor and memory, click on the box labeled "More Info".
+ You'll be taken to a new window that has more detailed information about your Mac, including the Serial Number.
+

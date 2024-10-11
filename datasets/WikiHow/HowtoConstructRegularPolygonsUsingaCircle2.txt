@@ -1,0 +1,39 @@
+@summary
+draw a circle of the desired radius, r. set your compass to the radius, r, and draw a circle.
+
+@summary
+,
+
+@summary
+calculate the length, ℓ, of each side of the regular polygon of n sides.
+
+@summary
+set your compass to this length, ℓ.
+
+@summary
+start from any point on the circle and mark an arc or line.
+
+@summary
+mark another arc or line on the circle.
+
+@summary
+join the lines/arcs accurately using a ruler.
+@article
+,
+
+
+ℓ=2*r*sin(180/n)
+180/n is in degrees, so make sure your calculator is set for degrees, not radians.
+ Be ultra-accurate and triple check the measurement to ensure that it is as accurate as possible.
+ Don't change the radius of your compass.
+ Continue the process until the arc or line touches the first point.
+
+
+Make sure your compass doesn't move!
+
+,
+
+
+Check to see that the sides are identical in length.
+If they are, then you're finished. Rub out the construction guide lines.
+

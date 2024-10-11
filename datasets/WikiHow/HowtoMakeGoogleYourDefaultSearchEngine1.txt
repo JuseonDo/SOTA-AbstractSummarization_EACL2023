@@ -1,0 +1,38 @@
+@summary
+click the chrome menu button (☰) and select "settings.",
+
+@summary
+find the "search" section.
+
+@summary
+click the drop-down menu and select "google.",
+
+@summary
+click "manage search engines" if you don't see google as an option.
+
+@summary
+scroll to the bottom of the list.
+
+@summary
+enter "google" as the name and "google.com" as the keyword.
+
+@summary
+copy and paste the following code into the "url" field.
+
+@summary
+select the newly-added entry and click "make default.",
+
+@summary
+check the troubleshooting section if you can't change your search engine.
+@article
+ This will open a new tab allowing you to adjust the Chrome settings.;
+, This is the fourth section of the Settings tab., This will set your search engine to Google., It is possible that Google was deleted from your list of search engines. Click "Manage search engines" to add it back.
+ You'll see boxes allowing you to enter a new search engine.
+ This will create a new entry for Google.
+ The following code will add Google's search functions:
+
+
+www.google.com/search?q=%s
+To switch to a different country, just change .com to the country code you want to use (e.g. .co.uk for the UK Google).
+ This will make the Google Search engine your default search.
+ If your default search engine keeps changing to something else, there are several things you can try. Check the Troubleshooting section at the end of this article if you can't change your search engine.

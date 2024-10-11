@@ -1,0 +1,33 @@
+@summary
+download the operation: anchorage dlc.
+
+@summary
+mark the aiding the outcasts quest.
+
+@summary
+talk to defender morrill.
+
+@summary
+kill all super mutants in the surrounding area.
+
+@summary
+talk to protector mcgraw.
+
+@summary
+accept the quest.
+
+@summary
+enter the simulation pod.
+
+@summary
+finish your mission, and exit the pod.
+@article
+ Alternatively, you can play the game of the year edition, which has all 4 DLC's pre-installed.;
+, Follow the marker to Bailey Crossroads Metro.
+ He will tell you to stay out of their way or help them. Join them as they attack Super Mutants.
+ Locate Defender Morrill, if he survived, and talk to him. He will send you to Protector McGraw. If he did not survive, you are free to pass anyway.
+ He will request that you go through the Anchorage simulator in order to open the door leading to the armory.
+ Talk to Specialist Olin to receive the Neural Interface Suit.
+ Complete the three Anchorage quests inside.
+ Open the door to the armory, and enjoy your spoils (including the Power Armor Training perk).
+

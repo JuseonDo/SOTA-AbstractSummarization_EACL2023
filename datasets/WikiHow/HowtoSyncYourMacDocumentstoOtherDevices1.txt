@@ -1,0 +1,85 @@
+@summary
+click the apple menu.
+
+@summary
+click system preferences.
+
+@summary
+,
+
+@summary
+click icloud.
+
+@summary
+,
+
+@summary
+sign in with your apple id.
+
+@summary
+check the icloud drive checkbox.
+
+@summary
+,
+
+@summary
+click options.
+
+@summary
+,
+
+@summary
+click desktop and document folders.
+
+@summary
+check all boxes in the window.
+
+@summary
+,
+
+@summary
+click done.
+
+@summary
+,
+
+@summary
+open the settings app (ios).
+
+@summary
+tap icloud.
+
+@summary
+,
+
+@summary
+tap icloud drive.
+
+@summary
+,
+
+@summary
+tap the icloud drive slider to enable.
+
+@summary
+,
+
+@summary
+open the icloud drive app.
+@article
+ This is the upper left corner of the screen.;
+,,,
+
+
+If you do not have one yet, you can make one by clicking “Create a free Apple ID”.
+,,
+
+
+This option requires macOS Sierra and iOS 10 (if syncing to an iOS device). Older versions of macOS can use the Documents option in the main iCloud menu.
+,,
+
+
+If you want to sync your documents to another Mac or Windows device, download iCloud Drive (if Windows) and repeat the previous steps.
+iCloud is not supported for Android devices.
+,,, The files synced from your Desktop and Document folders will appear in the iCloud Drive app interface.
+

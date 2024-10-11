@@ -1,0 +1,51 @@
+@summary
+log into your wordpress dashboard.
+
+@summary
+click “install now.” on the “install plugins” page, click “install now” under the plugin titled “mediaelements.js – html5 video and audio player.”
+
+@summary
+,
+
+@summary
+activate plugin.
+
+@summary
+click “add new.” once the plugin has been activated, on the left side of the dashboard, hover over “media”, and then click “add new.”
+
+@summary
+,
+
+@summary
+upload your file.
+
+@summary
+click “edit.” once your file finishes uploading, click the “edit” link next to it, when it appears below the file upload box.
+
+@summary
+copy url to clipboard.
+
+@summary
+navigate to the post or page on which you’d like to add your music player.
+
+@summary
+,
+
+@summary
+type the following in the “visual” editor: ,paste the url.
+
+@summary
+save and preview.
+
+@summary
+publish.
+@article
+ On the left-hand menu, hover over “Plugins” and select “Add New” from the dropdown.;
+,, On the next page, click the "Activate Plugin" link.
+, You may now find the supported audio file on your PC; click and drag it to the correct box, or you may click the “Select Files” button at the middle of the page to open a window to find your file. Supported file types include MP3, M4A, OGGm, and a couple others
+
+, The “Edit Media” page will open in a new tab on your browser.
+ On the “Edit Media” page, at the right side is a box that says “Save.” A couple lines beneath it is a box that says “File URL.” Copy the entire URL in the box to your clipboard.
+,, Paste your file’s URL between the two quotation marks of the code you just typed. It should look approximately like: , At the upper right of the post/page edit page, click “Save Draft.” Then, click “Preview” to see your post or page with the music player as it appears.
+ If you’re happy with how it works and appears, go back to the post or page in the editor, and click “Publish” to put your file on the Internet.
+

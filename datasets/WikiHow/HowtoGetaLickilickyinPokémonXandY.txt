@@ -1,0 +1,24 @@
+@summary
+gain a lickitung.
+
+@summary
+go to dendemille town.
+
+@summary
+get a few heart scales.
+
+@summary
+go to the move reminder and teach lickitung rollout.
+
+@summary
+level up one level.
+
+@summary
+use lickilicky in battle!
+
+@article
+ You cannot catch Lickilicky in the wild, so you need to find it's pre-evolution. They can be found in the caves of Victory Road.;
+, This is important in evolving Lickitung.
+ They can be found by Rock Smash, or on wild Luvdisc, near Ambrette town.
+ It has to learn this move to evolve.
+ It will then evolve.

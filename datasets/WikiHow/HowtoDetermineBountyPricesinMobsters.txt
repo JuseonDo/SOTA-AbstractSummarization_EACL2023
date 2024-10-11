@@ -1,0 +1,17 @@
+@summary
+ 
+
+@summary
+log into mobsters.
+
+@summary
+look at your income.
+
+@summary
+take that number and multiply it by 10.
+
+@summary
+check through your "stats".
+@article
+ Find the "Territory" tab and click on it.
+ Your income is all of your properties totaled together without the upkeep., You can add an extra zero at the end instead., Click on your "My Stats", then on "Add to Hit List". The price shown will be the minimum price to place you on the hit list.

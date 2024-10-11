@@ -1,0 +1,36 @@
+@summary
+write one sentence with internal punctuation.
+
+@summary
+write another closely related sentence with internal punctuation.
+
+@summary
+connect the sentences with a semicolon.
+
+@summary
+note that you can also use a semicolon to connect one sentence with internal punctuation and one simple sentence.
+@article
+ This sentence can use a colon, dash, or a comma. Sentences with internal punctuation tend to be longer. Using semicolons to separate sentences with internal commas is the most common method.
+
+
+
+Ex: "My cousin, Martha Mary Louise, is the most talented and original cook I have ever met."
+
+,
+
+
+
+Ex: "She is very resourceful and can make almost any old food taste delicious, but she does specialize in the following items: cod, fruitcake, and squash."
+
+,
+
+
+
+Ex: "My cousin, Martha Mary Louise, is the most talented and original cook I have ever met; she is very resourceful and can make almost any old food taste delicious, but she does specialize in the following items: cod, fruitcake, and squash."
+
+,
+
+
+
+Ex: "My cousin, Martha Mary Louise, is the most talented and original cook I have ever met; I love her cooking."
+

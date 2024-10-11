@@ -1,0 +1,33 @@
+@summary
+select “new" from the main menu.
+
+@summary
+select what you would like to insert in the document: photo, video, or text.
+
+@summary
+long click on an item opens and “edit” menu that allows you to:
+
+@summary
+(in case of an image): re-take photo, insert another photo, move the item up or down the story line, rotate or delete it;
+
+@summary
+(in case of video): re-take video, insert another video, move the item up or down or delete it;
+
+@summary
+,continue with the previous steps inserting as many new document parts as you need.
+
+@summary
+click “preview” button to see your document in its entirety.
+
+@article
+
+
+
+If you have already created document(s) and want to view or modify them, select “Open” from the main menu and then tap the name of the document you want to open.;
+, Long-click on a “Photo” or “Video” button if you want to start with visual information or click on the “Insert Text” to start with a text description.
+
+
+If you selected either “Photo” or “Video,” the program will give you a choice: take a new image (video) or insert image or video file already saved on your phone. a. If you choose to take a new image or video, a camera app will start and you will be able to take a visual. b. If you choose to insert an existing video or image file, file-explorer or gallery app will help you to select the file.
+Select “Insert Text”. You will be able to type free-form text, such as description or subtitle.
+The item you created in the previous steps is placed on the applications canvas.
+,,

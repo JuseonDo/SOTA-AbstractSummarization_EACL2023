@@ -1,0 +1,5 @@
+@summary
+after the upgrade, windows vista will display compatibility information for anything that loads on startup that it can't run.
+@article
+ It offers to try to run the program or simply stop it. Look for updates for all of your drivers and software that it flags as incompatible. Activate Windows Vista and do all Windows Updates.
+

@@ -1,0 +1,17 @@
+@summary
+pour the vodka into a cocktail glass.
+
+@summary
+pour in the lemonade and rose syrup.
+
+@summary
+garnish with the strawberry.
+
+@summary
+serve.
+@article
+;
+, Stir through gently.
+ The strawberry can be whole or halved but it's best to remove the green leaves before adding it.
+ This cocktail can be served with or without a straw, as preferred.
+

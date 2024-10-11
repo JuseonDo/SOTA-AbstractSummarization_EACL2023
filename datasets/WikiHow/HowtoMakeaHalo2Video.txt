@@ -1,0 +1,17 @@
+@summary
+play any gametype.
+
+@summary
+press temporary history.
+
+@summary
+press "b" to remove the reticle, menu, and health bar.
+
+@summary
+voila!
+@article
+ Once you've seen something you want to record, go to Theater in the main menu.;
+, Play the video.
+ Press "Play/Pause" to start and stop recording.
+ Hit "Save Recording", and you're done! The video will be in your Local Files. You also have the option to save them to your File Share for the world to see.
+

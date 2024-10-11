@@ -1,0 +1,31 @@
+@summary
+locate a onecard machine.
+
+@summary
+slide your onecard into and out of the slot in the machine with the stripe side down.
+
+@summary
+when prompted on the screen, insert desired amount of money into the money slot that has blinking lights around it.when finished, press 'd' to complete your transaction.
+
+@summary
+press 'c' if you would like a receipt.
+@article
+
+
+
+These machines are located in various buildings throughout the school.
+At WSU, there are machines located in Ghafari Hall, the DeRoy Apartments, the Law School Library, the Purdy Kresge Library, the Science and Engineering Library, State Hall, Student Center, Towers apartments, the Undergraduate Library, the Welcome Center, and the University Bookstore.
+
+
+
+The machine will then tell you your current OneCard balance on the screen.
+
+
+
+The machine accepts all U.S paper dollars.
+The machine does not accept coins or credit cards.
+,
+
+
+If you do not wish to print a receipt, your transaction has been processed.
+

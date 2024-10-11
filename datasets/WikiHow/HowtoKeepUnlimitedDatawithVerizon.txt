@@ -1,0 +1,66 @@
+@summary
+find a copy of your current verizon plan.
+
+@summary
+check that you have a family share plan.
+
+@summary
+wait until you have a free upgrade on 1 of your phones in your plan.
+
+@summary
+do not go to a verizon store to upgrade a phone.
+
+@summary
+,
+
+@summary
+sign in to your online verizon account.
+
+@summary
+find the "upgrade device" section of your verizon account.
+
+@summary
+select a basic, non-smart phone that is eligible for an upgrade.
+
+@summary
+,
+
+@summary
+upgrade the basic phone to another subsidized phone on the upgrade list.
+
+@summary
+choose to add data on that newly upgraded phone.
+
+@summary
+wait to receive your new phone in the mail.
+
+@summary
+deactivate the new smart phone.
+
+@summary
+call verizon wireless.
+
+@summary
+switch the sim card in a current unlimited data smart phone into the new smart phone you just upgraded.
+@article
+;
+, If you have a Share Everything plan or individual plan, this will not work.
+
+
+This method works best if you have a Family Share plan with both smart and non-smart phones.
+ It is preferable to wait until you have an upgrade available on your non-smart, or "dumb," phone.
+, Use the administrator account for your Family Share plan.
+ This page should list all the phones in your current Family Share plan.
+, Choose a smart phone.
+ You will only need to activate this function for a few days. It may be between $20 and $50 per month, so choose a low data limit.
+
+
+Verizon currently charges per gigabyte for their data, in place of the old unlimited data plans.
+ Once you receive it, activate it with the instructions provided by Verizon and the phone manufacturer.
+ Reactivate the old phone that you just upgraded.
+
+
+This process should deactivate the data plan. Call Verizon to verify that you dropped the data plan while switching the original phone back onto the service plan.
+ Tell them you want to activate a phone on another line. Make sure you choose an unlimited data line.
+ Call or visit the Verizon store if you have problems upgrading it.
+

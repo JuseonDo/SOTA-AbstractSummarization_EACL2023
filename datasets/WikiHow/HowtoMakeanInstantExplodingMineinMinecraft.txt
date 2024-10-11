@@ -1,0 +1,29 @@
+@summary
+assemble the materials.
+
+@summary
+dig two holes down.
+
+@summary
+right-click the command block and type this code into it: "/summon primedtnt ~ ~1 ~".
+
+@summary
+place a block above the command block.
+
+@summary
+,
+
+@summary
+place the pressure plate on top of the block you just placed.
+
+@summary
+,
+
+@summary
+test your mine.
+@article
+ Get a stone or wooden pressure plate, a command block, and an area to place these materials. To get a command block, type in this code to the chat: "/give (your minecraft username) minecraft:command_block 1".;
+, Then place the command block in the hole.
+ This will spawn TNT when the command block is activated.
+,, Walk over the pressure plate (not the mine). If all goes well, it should have destroyed the area near you.
+

@@ -1,0 +1,17 @@
+@summary
+open the docx file in word 2007 or later.
+
+@summary
+click the file menu.
+
+@summary
+select "save as".
+
+@summary
+click the "save as type" drop-down menu and select "word 97-2003 document".
+@article
+ This method is useful if you have a later version of Word but the person you are sending the file to doesn't.
+ If you're using Word 2007, click the Office button.
+ This will allow you to give the file a new name and change the format.
+ This will save the file in DOC format.
+

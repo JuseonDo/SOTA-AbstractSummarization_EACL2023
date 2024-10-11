@@ -1,0 +1,59 @@
+@summary
+launch your browser.
+
+@summary
+log in.
+
+@summary
+locate your old spreadsheet, and click on it to open.
+
+@summary
+go back to your google drive tab.
+
+@summary
+choose “spreadsheet” from the options.
+
+@summary
+click where it says “untitled spreadsheet.” this should be next to the green spreadsheet icon at the top left of the page.
+
+@summary
+type in a name for your new spreadsheet.
+
+@summary
+,
+
+@summary
+click on the tab or window for your old google spreadsheet.
+
+@summary
+,
+
+@summary
+find the tabs labeled “sheet1,” “sheet2,” and so forth.
+
+@summary
+click on “copy to.” this is the third item from the top of the menu.
+
+@summary
+locate the new google sheet that you want to copy to, and then click the blue “select” button at the bottom of the dialog box.
+
+@summary
+repeat steps 9–11 for any additional sheets in the spreadsheet.
+@article
+ To get started, open your favorite web browser (Internet Explorer, Mozilla Firefox, Google Chrome, etc.) by tapping on its icon on your desktop, and go to https://www.google.com/drive.
+ If you are not already logged in, Google Drive will ask you to sign in with your Google account information. If your account name is already indicated on the page, just enter your password; otherwise, type in your username and password on the fields provided.
+ The spreadsheet should open in a new tab or window of your browser.
+ Click the red “Create” button near the top left corner of the tab. The Create menu will appear.
+ This is the fourth item from the top. A new Google Sheet will open in a new tab or window.
+ The Rename Spreadsheet dialog box will open.
+,, These tabs are at the bottom of the screen. Click the downward triangle just to the right of “Sheet1,” and a menu will appear.
+ After clicking, the “Copy to” dialog box will pop up.
+ When it is finished copying, you should get a dialogue that says “Open target workbook. Success copying worksheet.”
+
+
+Click the blue “OK” button to dismiss that dialogue.
+
+
+
+Your sheet will be copied to the new document in a sheet called “Copy of Sheet1,” “Copy of Sheet2,” etc.
+

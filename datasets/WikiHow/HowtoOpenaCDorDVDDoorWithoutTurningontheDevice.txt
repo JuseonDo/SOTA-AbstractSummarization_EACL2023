@@ -1,0 +1,13 @@
+@summary
+get a thin, pointy object to manually open a cd or dvd drive door.
+
+@summary
+locate a tiny round hole on the drive's front panel (not more than 1mm diameter).
+
+@summary
+insert the pin into the hole until you find some resistance and then push it in gently.
+@article
+ Use a pin, or unwind a paper clip.;
+, It is possible that some drives don't have it, but most of them do (on desktop PC's, portables, even hi-fi audio CD players, etc).
+ Keep it pushed in until you have opened the drive, then remove it.This should unlock the CD or DVD drive door. Once unlocked you can pull the drawer open, remove the CD, and close it.
+

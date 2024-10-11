@@ -1,0 +1,46 @@
+@summary
+open your iphone's settings.
+
+@summary
+tap general.
+
+@summary
+,
+
+@summary
+tap accessibility.
+
+@summary
+,
+
+@summary
+tap voiceover.
+
+@summary
+,
+
+@summary
+scroll to braille and tap it.
+
+@summary
+select braille display output.
+
+@summary
+,
+
+@summary
+review your options.
+
+@summary
+select your preferred braille display output.
+@article
+ Do so by tapping the grey gear icon on one of your Home screens (it might also be in a folder named "Utilities").;
+,,,, If prompted, you'll also need to tap Yes to enable Bluetooth.
+, You can change your braille output to one of the following formats:
+
+
+Uncontracted Six-dot Braille
+Uncontracted Eight-dot Braille
+Contracted Braille
+
+, This will update your default braille output to your chosen one for any future braille interactions. If your braille display device is connected, it should implement the changes immediately.

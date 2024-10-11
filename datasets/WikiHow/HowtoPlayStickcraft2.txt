@@ -1,0 +1,9 @@
+@summary
+know that you are in control of one or a group of stick figures who act how you want them to.
+@article
+ To create one, answer these questions.
+
+Who is your stick figure?
+What does your stick figure look like?
+How is your stick, who he or she is?
+What is your stick figure capable of doing?;

@@ -1,0 +1,33 @@
+@summary
+open your iphone's settings.
+
+@summary
+tap general.
+
+@summary
+,
+
+@summary
+scroll to the bottom of the screen and tap reset.
+
+@summary
+,
+
+@summary
+tap reset location & privacy.
+
+@summary
+,
+
+@summary
+type in your passcode.
+
+@summary
+,
+
+@summary
+tap reset settings.
+@article
+ The Settings icon has gray cogs on it, and it's usually found on one of your home screens, or within a folder called "Utilities.";
+,,,,, Once you reset these settings, you will need to re-enable location services for apps that you want to allow to collect your location data.If you don't want to reset all of your location and privacy settings, you can learn how to Turn Off Location Services on an iPhone for individual apps.
+

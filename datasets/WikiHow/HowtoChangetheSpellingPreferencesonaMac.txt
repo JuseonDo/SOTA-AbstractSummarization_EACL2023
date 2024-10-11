@@ -1,0 +1,44 @@
+@summary
+click on the apple menu.
+
+@summary
+click system preferences.
+
+@summary
+,
+
+@summary
+click keyboard.
+
+@summary
+,
+
+@summary
+click text.
+
+@summary
+click the "spelling" drop-down menu.
+
+@summary
+select your spelling preferences.
+
+@summary
+click the check box to enable smart quotes and dashes.
+
+@summary
+click the red "x" button.
+@article
+ It's the Apple icon at the top left of the menu bar.;
+,,, It's along the top menu of the Keyboard settings window.
+ The default language is the one you chose when setting up your Mac.
+
+
+The language you designate here is the one spell-check will use as its guideline.
+ Your choices are located on the right side of the window next to the check boxes.
+
+
+
+Smart quotes are also called "curly" quotes, and smart dashes replace 2 hyphens with an "em" dash.
+Learn more about smart quotes and dashes here.
+ Your spelling changes will be made.
+

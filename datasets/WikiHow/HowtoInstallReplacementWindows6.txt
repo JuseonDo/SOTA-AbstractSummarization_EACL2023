@@ -1,0 +1,24 @@
+@summary
+fully close and lock the window.
+
+@summary
+,
+
+@summary
+fully open the window by lifting the bottom sash.
+
+@summary
+,
+
+@summary
+close the window almost completely.
+
+@summary
+stop adjusting once the gap is even.
+
+@article
+,, Leave about a 1/4″ gap along the bottom. This gap should be parallel to the windowsill.
+
+
+If the gap is larger on the right side, loosen the top right screw and tighten the top left screw or loosen the bottom left screw and tighten the bottom right screw.
+If the gap is larger on the left side, loosen the top left screw and tighten the top right screw or loosen the bottom right screw and tighten the bottom left screw.

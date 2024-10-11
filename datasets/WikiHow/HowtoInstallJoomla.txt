@@ -1,0 +1,48 @@
+@summary
+visit the download page on the joomla website to download the zipped file archives.
+
+@summary
+unzip the compressed archive files (you can use winzip or winrar).
+
+@summary
+open your browser and go your website's homepage.
+
+@summary
+check the system requirements, php settings and directory settings to make sure that your website to run joomla and that the required permissions have been granted by your web server.
+
+@summary
+accept the joomla terms and conditions by ticking the box next to "i accept the gpl" license and clicking on the "next button.",
+
+@summary
+enter the mysql database configurations for joomla.
+
+@summary
+hit the "next" button and verify that your settings are correct by clicking on "ok" in the window that pops up.
+
+@summary
+wait for the joomla installer to go to step 2 of the installation process.
+
+@summary
+confirm the site url, path, admin email and admin password in step 3.
+
+@summary
+click on "next" once you are satisfied with the information that you have provided.
+@article
+;
+, Save the unzipped files in the root directory of your web server. The root directory on Apache server is usually "c:\apache group\ apache\htdocs" and in Windows it is usually "/usr/local/apache/htdocs." You can also save the files directly under your host server.
+ This will trigger the Joomla Installer and you should see Joomla's pre-installation check page appear.
+ Click the "Next" icon on the top-left of the window once you are done.
+
+
+, You may want to consult with your website administrator first because the configurations should match the attributes of your Joomla website. Assign the following attributes for Joomla in MySQL.
+
+
+Name of the MySQL database.
+Name of the MySQL host (also known as "localhost" if you are installing on a local computer or server).
+MySQL username (this should be the same as the root username of your administrative account provided by your website hosting service provider).
+MySQL password.
+ After you confirm your settings Joomla will try to populate a database using the settings that you have provided.
+ In step 2 you just have to enter your site name and hit the "Next" button.
+ If you don't enter your own password you should write down the password that has been automatically generated. You can also assign your file permissions and directory permissions associated with Joomla.
+ This will take you to the last page of the Joomla installation wizard that will tell you that Joomla has been installed successfully.
+

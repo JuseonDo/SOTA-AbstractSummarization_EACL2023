@@ -1,0 +1,10 @@
+@summary
+swipe up on the camera screen to open memories.
+
+@summary
+tap and hold a photo or video.tap export snap.
+
+@summary
+select an app.
+@article
+ Once you’ve saved a Snap or Story to Memories, you can share it in other apps—including other social media apps like Facebook and Instagram., You can lift your finger when a gray menu appears beneath the preview image.,, The options vary by device, but you can share your Snaps with any app that supports photos and/or videos. When the photo or video opens in the app, follow that app’s instructions to share, post, or edit your creation.

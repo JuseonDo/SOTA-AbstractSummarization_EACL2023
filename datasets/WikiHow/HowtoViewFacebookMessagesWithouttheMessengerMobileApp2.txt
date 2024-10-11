@@ -1,0 +1,15 @@
+@summary
+go to https://www.messenger.com in a web browser.
+
+@summary
+,
+
+@summary
+sign in to messenger.
+
+@summary
+click a message to view its contents.
+@article
+, If you’re prompted to do so, enter your Facebook account information and click Sign In.
+ The messages appear in the left panel under the “Messenger” heading.
+

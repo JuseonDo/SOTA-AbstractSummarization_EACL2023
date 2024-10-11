@@ -1,0 +1,14 @@
+@summary
+go to wordpress.org.
+
+@summary
+download the most current version onto your computer.
+
+@summary
+upload the twitter widget the next time you access your self-hosted wordpress blog administration area.
+@article
+ In the Plugin Directory search for "Twitter Widget." You may see a few different options, such as "Wickett Twitter Widget," or simply "Twitter Widget."
+
+, You may need to sign in with your WordPress account in order to do this.
+ Customize the Twitter username when you install your Website programming.
+

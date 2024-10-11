@@ -1,0 +1,6 @@
+@summary
+simply make the note in the third half a step lower.
+@article
+
+To make a "G" chord (major) "G-B-D" a minor chord, lower the "B" one half step (make it B flat).
+

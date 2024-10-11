@@ -1,0 +1,34 @@
+@summary
+launch the hearthfire add-on.
+
+@summary
+travel to the jarl’s hall in dawnstar, falkreath or morthal.
+
+@summary
+speak to the jarl.
+
+@summary
+complete the quest assigned by the jarl.
+
+@summary
+return to the jarl after completing the quest.
+
+@summary
+select the option to ask the jarl about land for sale.
+
+@summary
+inform the steward you want to purchase a house.
+
+@summary
+select the option to purchase land.
+
+@summary
+use your map to navigate to the plot of land purchased from the jarl.
+@article
+ A messenger will deliver a letter that informs you of land available for purchase.;
+, These cities are home to Jarls who will sell you plots of land., The Jarl will assign you a quest that must be fulfilled before you can purchase land., The tasks are different depending on your city. For example, if speaking to the Jarl in Falkreath, you’ll be required to kill the bandit leader at Bilegulch Mine., The Jarl will name you Thane, which gives you rights to purchase land under the Jarl’s jurisdiction.
+ The Jarl will arrange for you to speak with his steward to complete the sale.
+ The cost to buy land is 5,000 gold pieces.
+ The steward will give you the deed to your land.
+ When you arrive, a set of tools and instructions will be available. You can now build homes and adopt children under the Hearthfire expansion.
+

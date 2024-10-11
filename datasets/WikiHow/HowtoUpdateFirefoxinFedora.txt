@@ -1,0 +1,26 @@
+@summary
+be the root user.
+
+@summary
+type the following command:
+
+@summary
+$ yum update firefox
+
+@summary
+hit ↵ enter.
+
+@summary
+,
+
+@summary
+wait for it to ask for permission.
+@article
+
+
+
+$ su
+Hit ↵ Enter. 
+It will ask for root use password type password and hit ↵ Enter.;
+,, If it does, type yes or y and hit ↵ Enter. The new version of Firefox will be installed!
+

@@ -1,0 +1,26 @@
+@summary
+open microsoft word.
+
+@summary
+under the 'insert' tab select 'shapes' and then choose 'line'.
+
+@summary
+,
+
+@summary
+to draw just left click and drag and release the mouse to draw a line.
+
+@summary
+,
+
+@summary
+once you draw something the menu at the top will change to give you options about your line or options for other things like color.
+@article
+;
+,,,
+
+
+If you want a different kind of line, select a different shape from under the line section. To draw a free form line select the squiggly line under the lines tab.
+To change the thickness or color of the line go under shape outline and you will find options to change these.
+You can also do a variety of other things like making your drawings 3D to make the picture 3D just select '3D effects' from the top bar.
+

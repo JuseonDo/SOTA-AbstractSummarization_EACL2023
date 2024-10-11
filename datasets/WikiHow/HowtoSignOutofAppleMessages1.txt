@@ -1,0 +1,26 @@
+@summary
+open your device's settings.
+
+@summary
+scroll down and tap messages.
+
+@summary
+scroll down and tap send & receive.
+
+@summary
+tap apple id (your email).
+
+@summary
+,
+
+@summary
+tap sign out.
+@article
+ It is an app with three grey gears located on the home screen.
+
+
+Sometimes, Settings may be located within the Utilities folder on the home screen.;
+, It is located in the fifth group of menu options.
+ It is in the fourth group of menu options.
+, This will disable the app's ability to send and receive messages, while the ability to send and receive SMS messages (on iPhones) will remain.
+

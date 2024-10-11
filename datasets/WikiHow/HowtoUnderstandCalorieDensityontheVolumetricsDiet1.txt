@@ -1,0 +1,18 @@
+@summary
+find the label on the back of your food package.
+
+@summary
+find the serving size of the food.
+
+@summary
+look for the number of calories per serving.
+
+@summary
+divide the number of calories per serving by the number of grams in one serving.
+@article
+;
+, Beside the serving size, you will find the weight of the serving in grams.
+ The number of calories in each serving is the top line under “Amount per Serving.”
+
+, For instance, if your food has 160 calories per serving, and one serving equals 98 grams, then 160 divided by 98 equals about 1.6, which is your calorie density.
+

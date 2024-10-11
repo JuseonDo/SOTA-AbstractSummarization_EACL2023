@@ -1,0 +1,58 @@
+@summary
+sign up for a google account.
+
+@summary
+go to google.com/wallet.
+
+@summary
+sign up by agreeing to the terms and conditions.
+
+@summary
+go to google.com/voice.
+
+@summary
+type in the zip code where you live.
+
+@summary
+choose a google voice number.
+
+@summary
+go to "settings" under the small image of a gear.
+
+@summary
+go to the "settings" section and look up rates for the country of your choice.
+
+@summary
+,
+
+@summary
+go to the left hand corner of the main page and type in your international number, starting with 1, then adding the country code, region code and local number.
+
+@summary
+,
+
+@summary
+click "call.",
+
+@summary
+answer the call, and your phone will start calling the international number.
+@article
+ All Google products are identified through a single user account, such as your Gmail login.
+ Sign in through your Google login.
+ Enter your credit card details in this secure area, then use Google Wallet to pay for services, such as international calling on Google Voice.
+ Opt to set up a phone number when the dialog box pops up asking you if you want a Google Voice number.
+
+
+You can also click "Get a Google Voice Number" on the left hand column.
+ Search for local numbers.
+ This number cannot change without paying a $10 to change it in the future.
+ Link your Google Voice number to a cell phone number or land line.
+
+
+You will be asked to confirm that you own this phone. Click the confirmation to have Google Voice call the phone you have entered. Answer the phone and follow the prompts to complete your set up.
+,, The number will appear on your phone.
+ Complete your call and you will be billed the Google Voice rate.
+
+
+You can also download an application for your Android phone. When you connect to the application, you will be able to call internationally straight from your phone application.
+

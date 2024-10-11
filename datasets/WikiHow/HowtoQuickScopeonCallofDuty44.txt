@@ -1,0 +1,8 @@
+@summary
+jump of a desired object and turn in the air before aiming and shooting.
+@article
+ # For this it is suggested having a high sensitivity as then you can turn fast in the air, aim and shoot.
+
+
+Another tip is that when you shoot you want to be past them on your turn and the bullet will hit as there is a slight lag in the game, so basically just after your cross hairs meet them shoot.
+

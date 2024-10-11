@@ -1,0 +1,5 @@
+@summary
+look up fares on greyhound lines, a classic american option for bus travel to and from montreal.
+@article
+ An increasing number of low-cost bus lines, such as Megabus, also offer routes into Montreal from within Canada and beginning in the U.S. as well.
+

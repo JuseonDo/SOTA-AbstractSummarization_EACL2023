@@ -1,0 +1,13 @@
+@summary
+obtain a charger for your ipod (see things you'll need below).
+
+@summary
+connect the ipod to the charger.
+
+@summary
+disconnect the ipod when it reads "charge complete".
+@article
+ This is unnecessary if you have a computer and an iPod USB cord.
+ You should see the battery in the right, upper corner fill up or a large battery on the entire screen.
+ Charging the battery completely is best for battery longevity.
+

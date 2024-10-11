@@ -1,0 +1,9 @@
+@summary
+start the battle at tin tower.
+
+@summary
+use the master ball.
+@article
+ Do this after you get the Master Ball from Professor Elm. You don't need to battle or weaken it.
+ The Master Ball cannot fail! You have Suicune.
+

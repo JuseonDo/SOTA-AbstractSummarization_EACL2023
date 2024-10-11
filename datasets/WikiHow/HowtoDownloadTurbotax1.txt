@@ -1,0 +1,53 @@
+@summary
+visit the turbotax comparison page to compare the different software packages.
+
+@summary
+click the “buy now” button for the product of your choosing.
+
+@summary
+,
+
+@summary
+select the “download for windows” or “download for mac” option depending on the operating system you want to run the software on.
+
+@summary
+click the “add to cart” button to continue to the download.
+
+@summary
+review your order and click the “checkout” button to proceed with your order.
+
+@summary
+sign in at the right of the checkout page using the user id and password associated with your turbotax account.
+
+@summary
+enter your credit card information and click the “continue checkout” button to complete the purchase.
+
+@summary
+,
+
+@summary
+review your order.
+
+@summary
+click the “place order” button to complete the purchase and download the turbotax software.
+
+@article
+ You can use this page to compare the features of the different software offerings and select one that best suits your needs.;
+,, The Windows download currently supports Windows XP, Windows Vista, and Windows 7, while the Mac download supports Mac OS X 10.4 or higher.
+
+
+
+View the minimum system requirements for running the TurboTax software. Make sure your computer meets these requirements before continuing with your purchase.
+
+
+
+You can optionally sign up to become a valued TurboTax Advantage customer to automatically receive the software each year. Click the “Yes, Sign Me Up” button and follow the onscreen instructions. If not, click the “No, Thank You” button to skip the offer and continue with your download.
+
+
+
+You can optionally increase or decrease the quantity if you are interested in purchasing more than one copy of the software.
+
+
+
+If you do not have an account, enter your email, billing information, and create account information. Click the “Continue Checkout” button when you’re finished.
+, Click the “Edit" link in any section to edit any of your information or download options.

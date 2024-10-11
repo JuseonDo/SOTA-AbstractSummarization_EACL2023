@@ -1,0 +1,77 @@
+@summary
+insert the installation cd.
+
+@summary
+select “c” to create a new partition.
+
+@summary
+restart the server when prompted.
+
+@summary
+,
+
+@summary
+log in to the server and follow the wizard defaults until you reach the welcome screen.
+
+@summary
+,
+
+@summary
+open “computer management” under “administrative tools.” partition the hard drive as needed, with one partition for the operating system and another for data.
+
+@summary
+browse to the microsoft update website to install patches.
+
+@summary
+,
+
+@summary
+open tcp/ip properties in control panel to set up network properties.
+
+@summary
+double click the icon on the desktop to continue.#type in the dns and netbios domain name and the computer name.
+
+@summary
+choose which components to install on the c drive or another drive.
+
+@summary
+,
+
+@summary
+enter the drive and folder path for data folders.
+
+@summary
+,
+
+@summary
+click “next.” the server will be installed as a domain controller and will be added as the local dns server.
+
+@summary
+,
+
+@summary
+follow the “to do list” wizards to complete setup.
+
+@summary
+follow the wizards to add printers, configure backups and faxing, add client licenses and activate the server.
+
+@article
+ Go through the setup process and hit F8 to accept the licensing agreement.
+ Microsoft recommends 16 GB, but this will vary depending on installed features.
+,, #Right click “My Computer” and choose “Properties” only if a partition has been configured for the page file. Click the “Advanced” tab and hit the “Change” button under virtual memory. Select the drive specified for the page file as the new page file location. Follow the prompts to change the page file location. Restart the computer.
+,
+
+
+Use an IP address that does not already exist on your network.
+Enter the subnet mask and gateway information for your network.
+Use your ISP’s DNS server for the DNS server addresses. This will be changed later to an internal DNS.
+ Enter a password to log on automatically or choose “Log on manually.”
+
+,,,, Choose “Connect to the Internet.”
+
+
+Choose a connection type to connect to internet. If broadband, enter the IP addresses of your ISP’s DNS servers and the IP address of the local router. Click to acknowledge the firewall message if the server only has one network card. Follow the wizard to configure the firewall if there are two network cards.
+Select which services are allowed access to the server, including Outlook web access, Outlook mobile access, Windows Sharepoint, and Remote Web Workplace.
+Enter name of web server, or browse to the location of the Web server certificate if you already have one.
+Choose whether to enable Internet email.Choose whether to use DNS for email or forward it to an external server. Set up email retrieval with either Microsoft Connector or Exchange.Enter an email domain name.Click the box to enable Exchange server to remove unsafe attachments in emails.
+Use the templates to create users.

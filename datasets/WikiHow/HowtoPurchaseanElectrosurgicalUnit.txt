@@ -1,0 +1,36 @@
+@summary
+determine what the electro-surgical unit is being used for.
+
+@summary
+check to see if the unit comes with a solid-state generator.
+
+@summary
+ensure that the output power for your procedure is not too high.
+
+@summary
+make certain that all units should include the following, regardless of the intended procedure:
+
+@summary
+return electrode contact quality monitor.
+
+@summary
+ensure that argon-enhanced units have a flow range of 0 to 10 l/min, a tank capacity of more than 1,200 l (42 ft3), and a low-pressure alarm.consider whether a compatible argon module is needed or an entirely new unit with an integral argon device.
+@article
+ There are numerous designs of electro-surgical units, and facilities should base their comparisons among devices according to characteristics, usefulness of features, safety, and reliability - all of these affect clinical performance.
+ Their typical frequency range is from 0.3 to 1 MHz. They should also include the following:
+
+Isolated monopolar output.
+Hand switch.
+Footswitch.
+Bipolar output.
+
+
+For monopolar cutting output power should not exceed 300 W, and the open circuit voltage should not exceed 2,000 peak-to-peak volts.
+For coagulation cutting, the output and open circuit voltage should not exceed 120 W and 6,000 peak-to peak volts, respectively.
+Bipolar mode should use no more than 50 W and 300 peak-to-peak volts.
+
+Independent output visual and audible activation indicators.
+Alarm capable of volumes higher than 45 dB at one meter.
+Power-setting display.
+Convection or fan cooling system.
+ The device should include an alarm capable of volumes higher than 45 dB at one meter.,

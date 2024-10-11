@@ -1,0 +1,29 @@
+@summary
+back up your ti-84 to a computer if you want to save any data or programs.
+
+@summary
+press the “2nd” button, then press “mem.” the “mem” button is the second function of the + key on your calculator.
+
+@summary
+select “7: reset.” this will display the reset menu.
+
+@summary
+,
+
+@summary
+press the right arrow button twice to scroll right, then select “1: all memory.”
+
+@summary
+,
+
+@summary
+select “2: reset.” your ti-84 calculator will erase all data, programs, and apps from the device.
+@article
+ This will allow you to restore any saved information at a later date after resetting your TI-84.
+
+
+Navigate to the official Texas instruments website at https://education.ti.com/en/us/products/computer_software/connectivity-software/ti-connect-software/tabs/overview#!.
+Select the option to download TI Connect to your Windows or Mac computer, then follow the on-screen instructions to install the software.
+Connect the TI-84 to your computer using a USB cable, then launch TI Connect.
+Click on “Backup,” then follow the on-screen instructions to back up your calculator. At a later date, reconnect the calculator to your computer and select “Restore” in TI Connect to reload all programs and data.;
+, This will open the Memory menu.,,, When complete, the screen will display “RAM Cleared.” Your TI-84 will now be reset and restored to the original factory settings.

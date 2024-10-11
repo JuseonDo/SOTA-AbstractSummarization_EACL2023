@@ -1,0 +1,42 @@
+@summary
+go to free online appointment scheduling at http://www.dayclips.com;
+
+@summary
+,
+
+@summary
+click register to setup your account.
+
+@summary
+,
+
+@summary
+click settings on the horizontal navigation bar after setting up your account and complete each of the four labeled steps in succession on the left side of the page.
+
+@summary
+,
+
+@summary
+configure your profile.
+
+@summary
+business hours.
+
+@summary
+staff.
+
+@summary
+services.
+
+@summary
+review the other options in the settings section.
+
+@summary
+the help button in the settings section will answer most questions.
+
+@article
+,,, Fill in the fields with your demographic information and click Save to retain.
+ Configure the limiting hours for your entire office. Remember, this sets the limiting hours for every staff member in your office. Your individual hours are setup in the next step.
+ Configure the hours for each service provider in your office. Click the calendar under the heading Schedule to specify office hours for each staff member.
+ List your services and assign them to individual service providers. You can limit a specific service as one that only your office may schedule.
+ They allow you to customize email messages and reports, and designate an ebox for an electronic trail of appointment confirmations and reminders.

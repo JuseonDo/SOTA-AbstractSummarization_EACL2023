@@ -1,0 +1,69 @@
+@summary
+power on and unlock your device.
+
+@summary
+download and install the twitter app for iphone.
+
+@summary
+open the app.
+
+@summary
+,
+
+@summary
+login to your twitter account.
+
+@summary
+,
+
+@summary
+prepare your device to receive the push notifications for these tweets from users.
+
+@summary
+go back to find the user you'd like to view the tweets of on your device.
+
+@summary
+,
+
+@summary
+follow a user on twitter.
+
+@summary
+,
+
+@summary
+find the person icon for the user you'd like to assign notifications for.
+
+@summary
+tap the turn on notifications button.
+
+@summary
+,
+
+@summary
+wait for the user to tweet.
+
+@summary
+ensure that twitter notifications are enabled in settings.
+@article
+ Enter your pin (if one is required.);
+, Use the Apple AppStore.
+,,
+
+
+Go to the Me tab.
+Tap the Gears icon, tap settings.
+Locate the option for Notifications. Tap on the option that displays your name along with your username along side the @ symbol that is displayed underneath the "Accounts" label. Tap the "Mobile notifications" option under the "Notifications" label.
+Tap the Tweets option.
+Slide the slider labelled Tweets so it is listed as "on"
+
+,,, Tap the "Person icon". The person icon should be located underneath the area for the total number of tweets the user has sent.
+, You'll receive the tweet notification as a new line on your device as a now mobile notification item in Notification Center, either through a banner (as was set in Settings app) or through the single notification button. Tap it to show the tweet.
+ Your iPhone may be preventing Twitter from displaying the notifications.
+
+
+Open the Settings app.
+Select "Notifications".
+Select Twitter from the list.
+Check that the "Allow Notifications" slider is toggled on.
+

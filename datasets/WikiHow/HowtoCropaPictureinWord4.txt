@@ -1,0 +1,19 @@
+@summary
+open the microsoft word document that contains the picture you want cropped.
+
+@summary
+,
+
+@summary
+click directly on the picture you want cropped.
+
+@summary
+click on the dropdown arrow below “crop” on the format tab, then select “fill” or “fit” as desired.
+
+@summary
+press the “escape” key when finished.
+@article
+, The “Format” tab will display at the top of your Word session.
+ The “Fill” option will allow you to remove part of the picture while filling the shape selected with as much as the remaining picture as possible. The “Fit” option will allow you to make the entire picture fit into the shape selected while also maintaining the original aspect ratio of the picture.
+ Your picture will now be filled or fit to the shape selected.
+

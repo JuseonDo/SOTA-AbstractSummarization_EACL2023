@@ -1,0 +1,12 @@
+@summary
+open your iphone's settings.
+
+@summary
+tap safari.
+
+@summary
+slide the fraudulent website warning switch to on position.
+@article
+ This is the gray gear icon on your Home Screen.;
+, This option will be towards the upper-middle section of your Settings menu.
+ The switch will turn green. Safari will now warn you if the website you are visiting is a suspected phishing page, attempting to steal your personal information by masquerading as a legitimate website. 

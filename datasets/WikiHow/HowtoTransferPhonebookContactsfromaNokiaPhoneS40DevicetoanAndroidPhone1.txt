@@ -1,0 +1,15 @@
+@summary
+install rainbow contacts on your android.
+
+@summary
+turn on bluetooth on both phones, android and nokia.
+
+@summary
+,
+
+@summary
+open rainbow contacts app in your android phone and select easy fetch contacts.
+@article
+ You can download and install Rainbow Contacts for free from Google Play. You won't need to install it on your Nokia.;
+,, The app will scan Bluetooth and list all found devices. Select your Nokia phone to begin the transfer. If your contacts have images, they will also be synced.
+

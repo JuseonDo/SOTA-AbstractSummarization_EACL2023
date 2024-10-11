@@ -1,0 +1,38 @@
+@summary
+create a new world.
+
+@summary
+once you spawn, look around.
+
+@summary
+start cutting down some trees.
+
+@summary
+press x and open your crafting bar.
+
+@summary
+craft some sticks .
+
+@summary
+open your crafting table and craft at least a wooden sword, ax and pickaxe.
+
+@summary
+,
+
+@summary
+dig a 3x3 hole(3 blocks deep), get in it, and start digging.
+
+@summary
+craft torches.
+
+@summary
+if it is still daytime, kill some sheep to get wool (or shear them if you have a pair of shears; you need three blocks of wool and three wooden planks to make a bed) get food by killing pigs, cows, chickens, or zombies (zombies drop rotten flesh, which you can eat, but it may make you sick, so only use this as a last resort) and maybe renovate your shelter.
+
+@article
+ Come up with a name for your world , you can name it something like "(your name)'s world ".;
+, A lucky spawn is an area filled with trees, underground mines, and animals. An unlucky spawn is an island surrounded by water , if you do spawn in one of these then don't panic just look for a forest.
+ You're going to need at least 8 blocks of wood to make tools and a crafting table.
+ Craft wooden planks and make a crafting table. You're going to need it a lot , so don't loose it or leave it there.
+ You will need sticks to make some tools.
+, You will come across stone. Mine it with your pickaxe. You need to get 8 blocks of cobblestone to craft a furnace. You can also use cobblestone to craft better tools.
+ In order to craft torches, you will need to find coal. If you don't have coal, you can smelt wood in a furnace to get charcoal. You also need at least one stick. Place torches as you mine to light up the area and prevent monsters from spawning.

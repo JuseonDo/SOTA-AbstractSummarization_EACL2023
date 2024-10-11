@@ -1,0 +1,51 @@
+@summary
+click ⋯ .
+
+@summary
+select settings.
+
+@summary
+,
+
+@summary
+scroll down and select view advanced settings.
+
+@summary
+click the "show the home button" switch to 'on'
+
+@summary
+.
+
+@summary
+click the drop-down menu and select a specific page.
+
+@summary
+enter the web address of the site you want to make your homepage.
+
+@summary
+click the save icon.
+
+@summary
+click ⋯ .
+
+@summary
+select settings.
+
+@summary
+,
+
+@summary
+click the drop-down menu below "open microsoft edge with.",
+
+@summary
+click a specific page or pages.
+
+@summary
+enter the web address of the site you want to make your start page.
+
+@summary
+click the save icon.
+@article
+ This button with 3 dots is in the upper-right of the browser.;
+,, This will display advanced browser settings., A drop-down menu will appear below the switch and there will now be a home button to the left of your Edge browser's address bar., A text box labeled Enter a URL will appear below the drop-down menu., For example, if you want to make Google your homepage, enter https://www.google.com in the URL box., It's the icon that looks like a floppy disc just to the right of the URL you just entered. This will save your address as your new Home button page. Now whenever you click the Home button, this page will load automatically., This button with 3 dots is in the upper-right of the browser.
+, This will show various options you have for what will open when the Edge browser first starts., A box labeled Enter a URL will appear below the drop-down menu., For example, if you want to make Google your start page, enter https://www.google.com in the URL box., It's the icon that looks like a floppy disc just to the right of the URL you just entered. This will save your address as your new start page. Now whenever you open the Edge browser, this page will load automatically.

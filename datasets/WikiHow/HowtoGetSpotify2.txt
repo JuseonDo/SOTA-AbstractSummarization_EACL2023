@@ -1,0 +1,9 @@
+@summary
+go to spotify's mac download page.
+
+@summary
+click the “download now” button.
+@article
+ it's at: http://www.spotify.com/int/download/mac/.
+ Note: This version of Spotify requires Mac OS X 10.4.0 or later and a broadband internet connection.
+

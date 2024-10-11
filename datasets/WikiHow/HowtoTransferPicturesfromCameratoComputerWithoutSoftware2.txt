@@ -1,0 +1,21 @@
+@summary
+get an sd card reader.
+
+@summary
+plug the card reader into your computer's usb port.
+
+@summary
+insert the sd card from your camera.
+@article
+ These are simply small interface boxes that plug into your USB port., It will either connect directly, or have a USB cable on the end.
+ The card will appear on your desktop as a disk.
+
+
+Drag the image files from the card to the computer, and you're done.
+
+
+
+
+
+
+

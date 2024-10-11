@@ -1,0 +1,88 @@
+@summary
+download the phpmyadmin setup files.
+
+@summary
+extract the downloaded files.
+
+@summary
+copy the extracted folder to your local web server's document root.
+
+@summary
+rename the folder to .phpmyadmin.
+
+@summary
+open your browser and type .localhost/phpmyadmin/.
+
+@summary
+enter .root as the user name.
+
+@summary
+,
+
+@summary
+enter your mysql password in the password field.
+
+@summary
+,
+
+@summary
+start using phpmyadmin.
+
+@summary
+open the .apache folder on your computer.
+
+@summary
+open the .conf folder.
+
+@summary
+,
+
+@summary
+open the .httpd.conf file.
+
+@summary
+,
+
+@summary
+press .ctrl+f and search for index.html.
+
+@summary
+,
+
+@summary
+change .index.html to index.php.
+
+@summary
+press .⊞ win+r and type services.msc.
+
+@summary
+find the "apache" entry and click the restart button.
+
+@summary
+,
+
+@summary
+reload the .localhost/phpmyadmin/ site in your browser.
+@article
+ You can get them for free from phpmyadmin.net. Click the Download button at the top of the page to get the latest version. This method assumes that you have already setup a local web server with MySQL.
+
+
+
+Click here for instructions on setting up an Apache web server on your Windows computer.
+
+Click here for instructions on setting up a MySQL server on your Windows computer.
+
+Click here for instructions on setting up Windows IIS on Windows Server (Internet Information Services).
+ Double-click the downloaded ZIP file to extract the folder.
+ Depending on how you configured your web server, this could be the www, htdocs, html, or public_html folder.
+
+
+If you are using IIS, open IIS Manager. In the left navigation tree, right-click on "Default Web Site" and select "Explore". Copy and paste the extracted phpMyAdmin folder into the location that opens.
+ The folder you copy will likely have a long name denoting the languages contained. Simplifying the name will make it easy to reference.
+ If you see the login page for the phpMyAdmin dashboard, you can move on to the next step. If you see a list of the contents of your phpMyAdmin folder, see the Troubleshooting section at the bottom of this method.
+,, You can now use phpMyAdmin to create new databases and manage users. Click here for more details on managing your phpMyAdmin databases.
+ This will typically be located at bottom level of your hard drive.
+,,, Save the file and close Notepad.
+ This will open the Services window.
+, You should see the login page for phpMyAdmin.
+

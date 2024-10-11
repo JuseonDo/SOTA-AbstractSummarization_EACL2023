@@ -1,0 +1,12 @@
+@summary
+press the winkey + i combination keys.
+
+@summary
+click on the "volume" icon on the "settings" pane.
+@article
+ This will bring up the "Settings" pane.;
+, A pop-up window will appear where you can adjust the volume slider control.
+
+
+After adjusting your volume setting, click anywhere on the screen to close the volume control with your settings saved.
+

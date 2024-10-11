@@ -1,0 +1,59 @@
+@summary
+learn about the hormone vasopressin.
+
+@summary
+learn how vasopressin is regulated.
+
+@summary
+learn about the functions of vasopressin.
+
+@summary
+learn about the disorders of vasopressin.
+
+@summary
+thus affecting the ability of the gland to secrete this hormone.
+
+@summary
+doctors must check if the patient is not taking medications that increase the flow of urine such as diuretics.
+
+@summary
+,
+
+@summary
+also this condition of diabetes insipidus can occur in the case of normal functioning pituitary gland in which the level of the hormone vasopressin in the blood is within normal values physiologically.
+
+@summary
+the treatment to this condition is to administer vasopressin agonists which can stimulate the kidney tubules to conserve more water to the circulation of the blood that otherwise would be delivered in the urine excessively.
+
+@summary
+,
+
+@summary
+the other disorder that involves this hormone is the opposite clinically to diabetes insipidus.
+
+@summary
+the oversecretion can involve either the posterior pituitary gland itself as occurs in certain diseases of the pituitary gland pr more often due to secretion of this hormone by a different organs in the body other than the pituitary gland such as a malignant neoplasm that can involve the lungs for example which can over secretes this hormone.
+
+@summary
+,
+
+@summary
+also some neurological tumors in the body have been shown to secrete this hormone ectopically such as occurs in tuberculosis and pneumonia.
+
+@summary
+learn about the clinical manifestations of vasopressin disorders.
+
+@summary
+also another possibility is to administer antagonists to the action of this hormone so that less water would be conserved in the kidney tubules to the blood circulation.
+@article
+ Vasopressin is a polypeptide or protein hormone that is secreted by the pituitary gland from its posterior part. Its secretion is not regulated by hormones from the hypothalamus such as occurs for all hormones of the anterior pituitary gland. Instead, its secretion is stimulated or inhibited based on the state of osmolality of the blood.;
+, Increased osmolality of the blood stimulates the pituitary gland to secrete more of this hormone. On the other hand, low osmolality of the blood inhibits its secretion by the same gland. In addition the volume of blood is also a crucial factor in the stimulation or inhibition of the secretion of this hormone. Increased blood volume or hypervolemia inhibits the secretion of this hormone while low blood volume in the arteries stimulates its secretion such as occurs in a of state of shock.
+ The main function of this hormone is to stimulate the re-absorption or conservation of water in the kidney tubules. One of the clinical symptoms to this function is an increase in blood pressure with subsequent development of edema.
+ The first disorder that involves this hormone and which is discussed here is the diabetes insipidus disorder. This is a disorder of the posterior pituitary gland in which it secretes the hormone vasopressin to the blood circulation in deficient amount. This can occur for example after a surgery to the brain in the region near the pituitary gland which can affect this gland also.
+ The net result is the lack of stimulus for the kidney to conserve water in the kidney tubules into the blood circulation with subsequent development of polyurea with very dilute urine. This condition must be distinguished clinically from other diseases that can cause polyurea also such as diabetes mellitus and chronic renal failure.
+, In this case the pituitary gland secretes this hormone in normal physiological quantity. The only problem arises due to kidney problems in which its cellular receptors for this hormone do not respond properly for the stimulation by the hormone. This type of the disease is called nephrogenic diabetes insipidus.
+, This disorder is called syndrome of inappropriate antidiuretic hormone secretion to the blood. It involves the secretion of excessive amount of the hormone vasopressin to the blood circulation.
+, In addition, many diseases on the central nervous system are associated with increased secretion of this hormone to the blood circulation ectopically.
+ The clinical picture of this disorder is of increased amount of water that is conserved in the kidney tubules causing elevated blood pressure or hypertension with subsequent development of edema. The treatment for this condition is to remove the source of malignancy that is causing the secretion of the hormone by surgery.
+ This hormone is usually metabolized and neutralized in the liver. In the case of liver failure this metabolism is disrupted so that the half life of it becomes longer which would allow for its lingering in the blood more time. Thus it exerts more effect on the kidney to conserve more water. This would give symptoms that are associated with the syndrome of inappropriate antidiuretic hormone.
+

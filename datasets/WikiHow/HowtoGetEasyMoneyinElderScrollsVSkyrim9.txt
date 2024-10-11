@@ -1,0 +1,10 @@
+@summary
+get married.
+
+@summary
+expect your spouse to set up shop.
+@article
+ Sleep. Wait 24 hours., Go to your spouse, then collect your share of the shop's profit.
+
+Every 24 hours gives you 100 gold; it's not much but at least you don't have to do any work.
+

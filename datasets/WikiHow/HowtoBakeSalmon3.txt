@@ -1,0 +1,25 @@
+@summary
+set the oven at 325ºf/175ºc.
+
+@summary
+,
+
+@summary
+place the salmon in a dish.
+
+@summary
+cover the dish with aluminum foil.
+
+@summary
+,
+
+@summary
+bake until it's done.
+
+@summary
+serve.
+@article
+, Pour orange juice into the dish, adding enough so that it just covers the piece of salmon.
+, This will take around twenty to thirty minutes.
+ It goes very well with rice.
+

@@ -1,0 +1,26 @@
+@summary
+open youtube.
+
+@summary
+sign in (if needed).
+
+@summary
+navigate to history.
+
+@summary
+press clear watch history.
+
+@summary
+,
+
+@summary
+clear the search history.
+
+@summary
+navigate back to the home screen.
+
+@article
+ Go to the YouTube website: www.youtube.com.;
+, Use the "Sign In" button. Enter your email and password for your Google account.
+ Click the History button in the sidebar.
+, Click Search History and after that, click Clear Search History.

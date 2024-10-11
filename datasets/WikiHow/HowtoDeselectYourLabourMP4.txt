@@ -1,0 +1,9 @@
+@summary
+mps are humans and can commit crimes.
+
+@summary
+if an mp is sentenced to prison for more than twelve months, they are automatically deselected.
+@article
+ For example, many MPs may have committed expenses fraud, which if found out can lead to time in prison.
+ If they are sentenced to time in prison of less than twelve months, the CLP can choose whether or not to deselect them. This can be easily done through a simple vote, and is probably the easiest way to deselect an MP. However, they do have to have committed a crime first.
+

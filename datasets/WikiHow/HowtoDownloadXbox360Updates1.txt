@@ -1,0 +1,14 @@
+@summary
+shut down.
+
+@summary
+if you have a router, grab the ethernet cable and connect it to the back of your xbox 360.
+
+@summary
+grab your controller.
+
+@summary
+when finished, you will have the latest update for your xbox 360.
+@article
+ Make sure that your Xbox 360 is turned off completely.
+ This will download the new update., Turn on your Xbox and wait. When the intro is over, your Xbox won't take you to the Sign In screen. It should take you to a screen to update. The Xbox will update automatically., Congrats!

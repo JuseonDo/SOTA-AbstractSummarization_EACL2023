@@ -1,0 +1,32 @@
+@summary
+press this sequence of buttons: ► ► that will bring you to a blank program.
+
+@summary
+write the following line: :menu("menu","option1",1,"option2",2,"option3",3)
+
+@summary
+to get "menu(", press (while in the current program): the first word after menu( is menu.
+
+@summary
+put the program in.
+
+@summary
+write your programs corresponding to the menu options you have after the lbl commands, in this manner for a working menu:
+
+@summary
+lbl 1
+
+@summary
+lbl 2
+
+@summary
+lbl 3
+
+@article
+ Now you have to name your program. The name can only be eight letters, so choose something concise, but also something you will understand next week.
+ This can be anything you want, as it is the title of the menu, or what shows up at top.
+Inside the quotes ("OPTION1-3") can also be changed to anything you want. These will be your options on the menu.
+The numbers after the options are the labels (explained later), which you can change to anything (probably limited to one character).
+ The only way your menu will work is if you put labels before the functions you want to happen when you choose an option on the menu. The label command can be inserted in your program by pressing: After inserting it, put the character you have as your first label directly after Lbl.
+
+On labels: Labels act like page numbers for the calculator--they tell it where to go when the corresponding option is chosen. Using a menu is like having many separate programs in one, each program with a different label.

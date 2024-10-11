@@ -1,0 +1,49 @@
+@summary
+launch the 'settings' app on the ios device.
+
+@summary
+find the 'general' section from the setting list and tap it to continue.
+
+@summary
+,
+
+@summary
+find 'accessibility' and then locate 'guided access'.
+
+@summary
+turn on the ‘time limit’ feature from the options list.
+
+@summary
+,
+
+@summary
+from the scrolling list below the time limit option choose duration for the game session.
+
+@summary
+when the countdown finishes the game will be stopped automatically.
+
+@summary
+,
+
+@summary
+to switch to normal mode, triple-tap the home button, then provide the password.
+
+@summary
+,
+
+@summary
+use a free time limit tweak.
+
+@summary
+set a time limit on your router to block internet-based apps.
+@article
+;
+,, Make sure that this Guided Access feature is turned on. If you activate the Guided Access option only one app is allowed to run in that particular session. Any type of application can be run in this mode but it should be launched before you activate the 'Guided Access' option.
+
+
+Firstly launch the game you want to restrict. 
+Then triple-TAP the Home button to activate the Guided Access feature and then tap "Options".
+, Tap "Done" to save changes and then tap Start to begin the game. If you not set a password for the Guided access feature you will be asked to set it now. This will prevent others from switching apps and from manipulating the time limit.
+,, The built-in feature in iPad and iPhone is OK when you want to limit a game temporarily. Without jailbreaking, it is impossible to set daily maximum time for certain Apps/Games or schedule to limit the screen time in homework time or bedtime.
+ Some routers have the feature to enable users to setup limit rules by ip address. You can set a fixed ip for the iPad/iPhone. Then set up internet limit rules on the router. The internet based Apps like Facebook, WhatsApp will be blocked from connecting to internet.
+

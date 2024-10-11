@@ -1,0 +1,27 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll down and tap privacy.
+
+@summary
+select reminders.
+
+@summary
+review the list of apps.
+
+@summary
+slide the switch next to an app right or left to the "on" or "off" position.
+@article
+ It's the grey gear icon on one of your phone's Home screens (it may be inside of a folder named "Utilities").;
+, It's in the third group of options on this page.
+ It should be near the top of the screen.
+ Every app listed here has permission to access your Reminders app.
+
+
+If you don't see any apps listed here, there aren't any apps accessing Reminders.
+ Sliding the switch right will grant the app access to reminders, while sliding the switch left will revoke access.
+
+
+When an app has access to Reminders, its switch will be green. When it doesn't, the switch will be grey.
+

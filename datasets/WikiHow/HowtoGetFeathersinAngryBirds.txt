@@ -1,0 +1,23 @@
+@summary
+launch the angry birds app and start playing the level for which you want to earn a feather.
+
+@summary
+tap on the large eagle eye displayed to the right of the pause button.
+
+@summary
+select the option to purchase the mighty eagle upgrade, then follow the on-screen instructions to complete your transaction.
+
+@summary
+resume gameplay, then tap on the mighty eagle icon to activate the feature.
+
+@summary
+use your slingshot to shoot the sardines at the pigs.
+
+@summary
+continue to use the mighty eagle until you receive 100 percent total destruction for that particular level.
+@article
+ You can only collect one feather per level.;
+, This is the “Mighty Eagle” icon.
+ The Mighty Eagle upgrade can be purchased for a one-time fee of 99 cents., All your birds will disappear, and a can of sardines will appear on your slingshot., After a few seconds, the Mighty Eagle will fly down from the sky and destroy all pigs and blocks in its path. The destruction caused by the Mighty Eagle is calculated based on the damage sustained, and on where you place the can of sardines.Try aiming the can of sardines so it lands directly in front of the pig structure. The Mighty Eagle will fly down into the ground, spin out of control, and cause a higher amount of destruction.
+ At that point, you’ll be rewarded a feather.
+

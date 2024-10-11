@@ -1,0 +1,63 @@
+@summary
+go to http://maps.google.com.
+
+@summary
+click on the "directions" icon.
+
+@summary
+select your mode of transportation.
+
+@summary
+click on choose starting point, or click on the map….
+
+@summary
+,
+
+@summary
+start typing the name or address of your starting point.
+
+@summary
+click on choose destination, or click on the map….
+
+@summary
+,
+
+@summary
+start typing the name or address of your destination.
+
+@summary
+click on one of the routes listed below the starting and destination fields.
+@article
+ Use the link or type the Web address into a browser and press ⏎ Return.
+ It's the white arrow inside a blue diamond, next to the "Search Google Maps" field in the upper-left corner of the window.
+ Do so by clicking one of the transportation icons in the blue rectangle at the top of the window:
+
+
+Driving: Car icon
+Transit: Train icon
+Walking: Hiker icon
+Rides: Hailing passenger icon
+Cycling: Cyclist icon
+Flying: Airplane icon
+
+,, When it appears in the drop-down below the blue rectangle, click on your destination.
+
+
+You can also click on the map to indicate your starting point.
+, When it appears in the drop-down below the blue rectangle, click on your destination.
+
+
+You can also click on the map to indicate your destination.
+ The turn-by-turn directions will be displayed on the left side of the window.
+
+
+Click on the smartphone icon in the upper-right part of the directions pane to send the directions to your phone.
+Click on
+
+
+
+
+
+to get a shareable link to the map and directions.
+Click on the printer icon to print the turn-by-turn directions.
+

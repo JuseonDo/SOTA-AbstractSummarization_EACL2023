@@ -1,0 +1,16 @@
+@summary
+swipe up on the camera screen.
+
+@summary
+tap the select icon.
+
+@summary
+tap snaps or stories to delete.
+
+@summary
+tap the trash icon.
+
+@summary
+tap delete.
+@article
+ All Snaps and Stories saved to your Memories will appear., It’s the checkmark at the top right corner of the screen., When an item is selected, a red checkmark will appear over its thumbnail., It’s at the bottom left corner of the screen., The photos will be removed from your Memories.

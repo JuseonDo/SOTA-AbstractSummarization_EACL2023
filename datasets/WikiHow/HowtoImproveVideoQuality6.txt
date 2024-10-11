@@ -1,0 +1,5 @@
+@summary
+use a brightness and contrast, levels, hue or saturation filter to improve the light, shadows and color balance of a video file.
+@article
+ Most video editing applications will contain these or similar features located in the effects and filters menu. Experiment by applying each separately to determine which combination of filters produces the best results.
+

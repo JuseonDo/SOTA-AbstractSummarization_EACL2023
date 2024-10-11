@@ -1,0 +1,4 @@
+@summary
+the usda plant hardiness zones help gardeners determine which plants are suitable for their local climates.
+@article
+ The plant hardiness zones are based on the average minimum winter temperatures. The gardening tasks required each month will vary depending on your USDA Plant Hardiness zone. To determine your zone, visit the USDA website for an interactive map.;

@@ -1,0 +1,4 @@
+@summary
+offer breedings from your best horse.
+@article
+ Look at the fees for breeding to a horse with similar GP and skill to your horse, and from that determine how much you should charge.;

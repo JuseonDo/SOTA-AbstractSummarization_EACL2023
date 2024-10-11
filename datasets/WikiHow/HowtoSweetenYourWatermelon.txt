@@ -1,0 +1,15 @@
+@summary
+get a slice of watermelon.
+
+@summary
+get a pinch of salt (not sugar).
+
+@summary
+,
+
+@summary
+sprinkle the salt on the piece.
+@article
+;
+,, This works because salt, in small amounts, will strengthen the taste of sweetness, hence why you can see it in various foods that are meant to be very sweet such as desserts.
+

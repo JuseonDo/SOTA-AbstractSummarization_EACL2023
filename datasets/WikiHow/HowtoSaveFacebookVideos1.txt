@@ -1,0 +1,21 @@
+@summary
+sign into facebook and navigate to the video you want saved.
+
+@summary
+select the option to “play” the video, then click “options” below the video.
+
+@summary
+,
+
+@summary
+click on “download sd” or “download hd,” depending on your video quality preference.
+
+@summary
+open your computer’s default downloads folder.
+@article
+ Videos you upload to Facebook are saved to Photos > Albums > Videos.;
+,, SD is standard definition, and HD is high definition, which is larger in file size. The video will start downloading itself to your Internet browser.
+
+
+Follow the steps outlined in Method Two to save videos posted by friends if there are no download options. This means the video was not originally uploaded by you to your Facebook profile.
+ The Facebook video will now be saved to the Downloads folder.

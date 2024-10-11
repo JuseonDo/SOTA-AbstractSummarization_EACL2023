@@ -1,0 +1,13 @@
+@summary
+log into your netflix account management page.
+
+@summary
+click the "sign out of all devices" link.
+
+@summary
+confirm that you want to sign out of all devices.
+
+@summary
+log back in on the devices you want to use.
+@article
+ If you no longer have access to your Wii console, you can log out using the Netflix Account Management page. Visit movies.netflix.com/YourAccount and log in with your Netflix account., You'll find this in the Settings section., This will sign you out of any device that is currently logged into your Netflix account, including any game consoles, computers, smart TVs, and mobile devices., Because you've been signed out everywhere, you'll need to log back in with any devices that you still want to use with Netflix.

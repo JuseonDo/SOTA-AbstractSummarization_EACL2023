@@ -1,0 +1,39 @@
+@summary
+click the apple icon.
+
+@summary
+click system preferences.
+
+@summary
+,
+
+@summary
+click the "sound" icon.
+
+@summary
+click output.
+
+@summary
+,
+
+@summary
+click on an output device from the list.
+
+@summary
+,
+
+@summary
+customize your device settings.
+
+@summary
+click the red "x" button.
+@article
+ It's the Apple logo in the top left corner of the menu bar.;
+,, It looks like a speaker.
+,,
+
+
+Click and drag the white notch under "Balance" to adjust your balance settings.
+Click and drag the white notch under "Output volume" to change volume settings.
+ Your sound output changes will be made!
+

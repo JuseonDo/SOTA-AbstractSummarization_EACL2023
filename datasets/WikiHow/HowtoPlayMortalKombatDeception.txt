@@ -1,0 +1,23 @@
+@summary
+select "kombat" on the main menu.
+
+@summary
+go to "arcade mode, or any other mode.
+
+@summary
+,
+
+@summary
+select your character.
+
+@summary
+start fighting.
+
+@summary
+execute your fatality!
+@article
+;
+,, Some people have their favourite character. It's good to choose that one, but choosing different ones and mixing it up is a good option too.
+ Use damage-breaking combos to really destroy your opponent.
+ Fatalities are the most essential part to a fight in Mortal Kombat. No fight is complete without a gruesome fatality!
+

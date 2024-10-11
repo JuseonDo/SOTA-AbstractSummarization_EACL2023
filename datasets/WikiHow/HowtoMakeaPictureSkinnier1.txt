@@ -1,0 +1,4 @@
+@summary
+change the width or height ratio in your image source html code.
+@article
+ The measurement for each is listed in pixels at the end of the code tag. You can either increase the number of pixels for the height, or decrease the number of pixels for the width. Both will, in effect, make your image appear skinnier on a website.;

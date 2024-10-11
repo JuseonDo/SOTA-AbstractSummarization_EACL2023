@@ -1,0 +1,17 @@
+@summary
+turn on the xbox one.
+
+@summary
+access the sign-in page.
+
+@summary
+enter the necessary information.
+
+@summary
+enter your password.
+@article
+ Locate the power button and press it to turn on.;
+, Progress to the section where you need to sign-in using your Microsoft account.
+ You will need to provide the e-mail address associated with your previous Gamertag.
+ Once you submit the information your Gamertag will automatically link to your Xbox One.
+

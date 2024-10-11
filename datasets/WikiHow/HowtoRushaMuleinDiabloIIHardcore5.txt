@@ -1,0 +1,5 @@
+@summary
+get the socketed quest and runes quest.
+@article
+ For Socketed quest, have the mule screen view when killing Shenk. Shouldn't be too hard if you are careful.
+

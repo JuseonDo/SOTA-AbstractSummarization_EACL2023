@@ -1,0 +1,20 @@
+@summary
+power on your headset.
+
+@summary
+power on your mac.
+
+@summary
+turn on bluetooth on your mac.
+
+@summary
+search for devices.
+
+@summary
+click on your headset and then click on “pair.”
+
+@article
+ Locate the "Power" button. Press and hold it until the power light comes on.;
+, Press and hold the "Power" button of your Mac. Wait for it to finish booting and take you to your desktop.
+ Go to "System Preferences" and choose Bluetooth.
+ Click on “Search for devices.” It should then detect your headset after a bit of scanning.

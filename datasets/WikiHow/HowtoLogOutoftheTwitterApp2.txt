@@ -1,0 +1,8 @@
+@summary
+go to the account page.
+
+@summary
+tap on the 'log out'.
+
+@article
+ Tap on your profile picture or go to https://mobile.twitter.com/account.

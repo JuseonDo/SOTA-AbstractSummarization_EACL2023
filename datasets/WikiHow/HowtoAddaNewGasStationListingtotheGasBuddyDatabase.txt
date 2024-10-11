@@ -1,0 +1,90 @@
+@summary
+open your web browser and visit the gasbuddy homepage.
+
+@summary
+scroll down to the very bottom of the gasbuddy page.
+
+@summary
+select your state, and later a more-precise regional location in your state from the menu in about the center area of the screen.
+
+@summary
+,
+
+@summary
+login to the gasbuddy website, with your gasbuddy credentials.
+
+@summary
+,
+
+@summary
+hover over or tap (depending on touchscreen ability) the "gas prices" menu tab from gasbuddy's menu bar.
+
+@summary
+,
+
+@summary
+click or "master station list" link from the screen.
+
+@summary
+search through the massive database using the form fields from approximately the center of the screen.
+
+@summary
+click the "find my station" button.
+
+@summary
+,
+
+@summary
+look through the list they provide in the area below and to the right of the area titled "master station list map".
+
+@summary
+click and type the values of the mandatory information into their proper fields.
+
+@summary
+provide the stations phone number to the database field.
+
+@summary
+update the placemarker for the station on the station map.
+
+@summary
+update the types of gasoline types the provided station sells.
+
+@summary
+click the appropriate values to answering questions about the station's availability to having a car wash, rest room, convenience store, auto repair shop, restaurant, truck stop, pay at pump, air hose, pay phone, or an atm/bank machine, and whether or not it's open 24/7.
+
+@summary
+fill in the areas with station notes with helpful comments (managers name or extraneous information) and a photo of the station in the photos of this station area of the page.
+
+@summary
+,
+
+@summary
+click the "add station" button.
+
+@article
+;
+, There you'll find all the state's pages for a more-localized view.
+,,, You'll find it at the far right end of the screen, and in the bar, just below where you found "Gas Prices" button earlier.
+ The box that contains these items is labeled "Search The List For Your Station". You'll need to know the city, station name, and street.
+
+
+If your city or station is not shown in their lists, you'll need to click the "(Other)" (verbatim) link for the station.
+,
+
+
+If the answer to your query gets returned with a result of "We could not find a station which matches the criteria that you specified.", you can then properly click on "CLICK HERE TO ADD A NEW STATION" link below to add your station.
+
+
+
+Type the station's street address into the "Exact Street Address" box.
+Type the street address that corresponds to the station you'd like to add. Use the street address that would normally be provided on the station's receipts (now you know why people should really save their receipts for an intended purpose).
+As you type, the map in the "Station Marker Map list below" will update to the area in real-time.
+If the station is located where two streets join (completely at a corner), click into the "Cross Street" box (two boxes down), and complete the next step. If not, skip only the next step and check the box stating "This station is not at an intersection". Type the Cross Street's name or, in the case of the station not being completely in a cross-street situation, the name of the "Nearest Cross Street".
+ Use any form of printable material that contains this information. This may include a receipt from a previous purchase or some other form of gas-station material from this exact station. Web queries can help, but if you don't know what you're doing, they can also hurt your database entry.
+ Click the "Update Marker" button from the area to the right of the Station Marker Map area.
+ Don't just select the grade you used when filling up your vehicle. Select the types of fuel the station provides. Your choices are Regular Gas, Midgrade Gas, Premium Gas, Ethanol E85, Diesel, and Propane. Click the checkboxes to the left of the appropriate designations.
+
+
+
+Fill out as much information as you can possibly remember. You shouldn't need to actually call the company to request this information.
+,

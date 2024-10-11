@@ -1,0 +1,24 @@
+@summary
+log in to myspace.
+
+@summary
+click "settings.",
+
+@summary
+select "delete account.",
+
+@summary
+select "delete account" again.
+
+@summary
+,
+
+@summary
+select a reason why you'd like to delete your account and select "delete my account."
+@article
+ Type in your username and password.
+ You can find this option second from the bottom of the menu under "Home."
+
+, This will be the option on the bottom of the right-hand side of the screen. This will bring you to a new screen.
+, You won't be able to delete your account without giving a reason. This will delete your account.
+

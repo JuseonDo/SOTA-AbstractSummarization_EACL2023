@@ -1,0 +1,106 @@
+@summary
+open the internet by starting google chrome on the bottom shelf of the home screen.
+
+@summary
+search for the chrome web store in the top search bar, and click on the first link.
+
+@summary
+search for a text editor in the top left search bar.
+
+@summary
+add it to chrome.
+
+@summary
+find the newly installed app and open it.
+
+@summary
+create a new document by clicking new.
+
+@summary
+code in the <html> tag to give the browser a notice of what language your using, and then close it off a few lines down with </html>.
+
+@summary
+add the heading tags within the <html> tags by typing <head>, and then a few lines down, type </head> to close it.
+
+@summary
+,
+
+@summary
+create the title tags in the within the head by coding <title> and </title> immediately following the initial tag.
+
+@summary
+code some body tags after the closing head tag with <body>, while giving yourself some lines before you close it off with </body>.
+
+@summary
+add a title to the webpage.
+
+@summary
+compose some text in the body.
+
+@summary
+check one last time.
+
+@summary
+save the document, and make sure to put the .html extension directly after.
+
+@summary
+find the saved document.
+
+@summary
+admire the newly created webpage coded by yourself!
+@article
+
+
+
+Google Chrome looks like a rainbow ball icon.;
+,
+
+
+Alternatively you can use this link:  https://chrome.google.com/webstore/category/apps
+
+
+,
+
+
+Keywords to search by include: text editor, HTML
+Find an app that has plenty of good reviews. Thankfully, Chrome organizes suggestions by highly rated apps.
+Make sure it is an app, not an extension.
+ Once an app has been found that will code in HTML, add it to chrome by click on the blue button that says “add it to chrome”.
+
+
+A pop-up will appear after clicking it. Read and accept any permissions it requests by clicking add app.
+ At the bottom shelf, click on the magnifying glass icon. Click on “All Apps” on the right and scroll over till you find it.
+
+
+For newly installed apps on some versions, a pop-up will automatically display where the app is located. Depending on the version, you might need to go looking for it manually.
+ This will open up a blank text page ready for typing.
+
+
+
+Tags that start with the “/” are the ending tags. Tags cannot work without the opposite pair.
+Tags are case-sensitive. Make sure that they are typed in lower-case lettering.
+,
+
+
+Title tags let users know which site they are on.
+
+
+
+The body is where the bulk of the information goes.
+ In between each title tag put a title to help users know where they are.
+
+
+Make it welcoming!
+
+, In between the body tags type a sentence or two.
+ Scan through the document and make sure that everything is closed. If tags are not closed, the page will not display properly.
+ Click “save" after you named it correctly.
+
+
+For example: “MyFirstWebsite.html”.
+ Click on the magnifying glass on the shelf and search for the Files icon. You may need to go into All Apps again.#* Open up the file explorer and locate the saved HTML.
+
+
+Open the document by clicking on it.
+ The document will open up in your default browser.
+

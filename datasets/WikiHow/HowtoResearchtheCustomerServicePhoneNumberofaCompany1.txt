@@ -1,0 +1,13 @@
+@summary
+open up the company's help page, if available.
+
+@summary
+open up their contact us page.
+
+@summary
+look towards the bottom of the website.
+@article
+ Sometimes, you'll have to dig deep and start typing in some information to get around the site.;
+, An oddball place where you could find it, is on an About Us page. That's another popular place you'll find this information.
+ Sometimes they list their phone number there.
+

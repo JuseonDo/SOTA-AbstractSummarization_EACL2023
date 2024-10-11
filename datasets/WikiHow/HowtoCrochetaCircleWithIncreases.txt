@@ -1,0 +1,50 @@
+@summary
+chain 6 stitches;
+
+@summary
+,slip stitch through the first chain to form a ring
+
+@summary
+,
+
+@summary
+chain 3 more stitches.
+
+@summary
+crochet 11 double crochets into the center of the ring.
+
+@summary
+,
+
+@summary
+slip stitch into the third chain (the upper one) of your "turning chain".
+
+@summary
+to make the circle wide, we need to increase it.
+
+@summary
+second round: chain 3, double crochet into the stitch under the turning chain.
+
+@summary
+third round: chain 3.
+
+@summary
+fourth round: chain 3, double crochet into the stitch under the turning chain.
+
+@summary
+fifth round: chain 3, double crochet into the stitch under the turning chain.
+
+@summary
+if you wish to continue, just double crochet once in every stitch and repeat for every round.
+@article
+,, This is called your "turning chain"
+
+,, A circle has formed.
+ You can stop in any round.
+ Double crochets twice in each stitch. Slip stitch into the third chain of your " turning chain". You will notice that your circle is more wide.
+ Double crochet into the stitch under the turning chain. *In the next stitch double crochet once, in the next stitch double crochet twice. Repeat from* all the way around. Slip stitch into the third chain of your turning chain.
+ * In the next two stitches double crochet once, in the third stitch double crochet twice. Repeat from * all the way around. Slip stitch into the third chain of your turning chain
+
+, * In the next three stitches, double crochet once, in the fourth stitch double crochet twice. Repeat from* all the way around. Slip stitch into the third chain of your turning chain.
+ If you wish to finish it, cut the yarn and pull the yarn through the last stitch. Weave in the ends.
+

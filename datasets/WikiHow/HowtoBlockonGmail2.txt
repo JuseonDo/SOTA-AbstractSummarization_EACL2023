@@ -1,0 +1,25 @@
+@summary
+navigate to your gmail inbox.
+
+@summary
+click on an email to open it.
+
+@summary
+,
+
+@summary
+open the email's drop-down options menu.
+
+@summary
+click "block (sender)".
+
+@summary
+,
+
+@summary
+click "block" again when prompted.
+@article
+ If you aren't already logged into your Gmail account, you'll need to enter your email address and the pertinent password to do so.
+, This is the downward-facing arrow in the top right corner of your opened email.
+, This will block your selected sender's email address; any subsequent email from this sender will go straight into your "Spam" folder.
+

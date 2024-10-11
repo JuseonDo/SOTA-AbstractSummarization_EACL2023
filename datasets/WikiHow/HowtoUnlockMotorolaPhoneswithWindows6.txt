@@ -1,0 +1,81 @@
+@summary
+be sure the phone is fully charged.
+
+@summary
+,
+
+@summary
+be sure all the correct drivers are installed.
+
+@summary
+,
+
+@summary
+install the flash interface device.
+
+@summary
+check your bootloader version:
+
+@summary
+press * # and start to see your bootloader version displayed on the screen.
+
+@summary
+to unlock your phone you will need to be running an older version of the firmware, specifically version 7.d0.
+
+@summary
+download bl_826-828_to_07d0_for_v3_by_archy.v2.
+
+@summary
+flash the downloaded file into your phone with rsd lite.
+
+@summary
+,
+
+@summary
+download the moto unlocking software from the link below.
+
+@summary
+,
+
+@summary
+start your phone in bootloader mode.
+
+@summary
+,
+
+@summary
+run the moto unlocking software, click connect and unlock.
+
+@summary
+,
+
+@summary
+your phone will now be unlocked.
+
+@article
+,, This device is used to communicate with the phone while it is in bootloader mode.
+
+
+Turn the phone off.
+Press and hold * and # as you turn the phone on.
+Assuming the correct drivers are installed your Windows computer will recognize new hardware (your phone in this mode) and display the new hardware wizard.
+Once again, select No, not this time. at connect to Windows update and Install the software automatically
+
+After a while the Flash Interface Device will be loaded with a confirmation message.
+An alternative is to use the RSD Lite program to do this for you.
+Click Finish.
+ You will likely see something like this:
+
+Boot Loader 08.23
+SW Version :R374_G_OE.40.9CR
+Battery OK
+OK to program
+Connect USB
+Data cable
+
+
+
+, If you are currently running 7.DO skip to the unlock section below, otherwise follow these directions for downgrading your phone's firmware. You will need, once again, RSD Lite:
+
+, Current link below.
+,,,,

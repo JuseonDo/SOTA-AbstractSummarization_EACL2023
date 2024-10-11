@@ -1,0 +1,140 @@
+@summary
+from the desktop, select the green x for xl on the dock to open excel, and select file, open a new workbook from the menu.
+
+@summary
+open preferences from the "excel" menuitem.
+
+@summary
+open the "continued fractions" worksheet saved from the previous article, "how to start working with continued fractions", or whatever filename you saved it under.
+
+@summary
+enter a 1 into cell a4 and label the number of computations to be done via also doing
+
+@summary
+format number custom "00) " for the 1 in cell a4; and
+
+@summary
+select cell range a4:a21 and do edit fill series (and leave the settings at columns, linear, step value 1), ok.
+
+@summary
+,
+
+@summary
+enter the column heading into rows 2 and 3:
+
+@summary
+enter the label fraction to cell b3 (just enter the word "fraction", w/o quotes);
+
+@summary
+enter the label find "/" to cell c3 (please include the quote marks;
+
+@summary
+enter the label length to cell d3;
+
+@summary
+enter the label numerator to cell e3;
+
+@summary
+enter the label denominator to cell f3;
+
+@summary
+enter the label string to cell g2 and the label formula to cell g3;
+
+@summary
+enter the label decimal to cell h2 and the label number to cell h3;
+
+@summary
+enter the label integer to cell i2 and the label part to cell i3;
+
+@summary
+enter the label decimal to cell j2 and the label part to cell j3;
+
+@summary
+enter the label rounded to cell k2 and the label remainder to cell k3;
+
+@summary
+enter the label fraction to cell l2 and the label string to cell l3;
+
+@summary
+enter the label inverted to cell m2 and copy and paste it to n2;
+
+@summary
+enter the label numerator to cell m3 and the label denominator to n3;
+
+@summary
+enter the label a to cell o3 -- it stands for answer;
+
+@summary
+enter the label f to cell p3 -- it stands for formula;
+
+@summary
+select rows r1:r3 and format align center and format bold using the tool buttons;
+
+@summary
+select columns b:p and format align center and format number 0 decimal places, use comma; and
+
+@summary
+select columns h and j using the command key and format cells number 15 decimal places.
+
+@summary
+,
+
+@summary
+enter the cell formulas into row 4:
+
+@summary
+without a preceding = sign, enter the label 415/93 into cell b4 -- it is from the wikipedia article on continued fractions, so that you may check the results;
+
+@summary
+enter, without semi-quotes, the formula '=find("/",b4)' into cell c4 -- the returned value should be 4;
+
+@summary
+enter, without quotes, the formula "=len(b4)" into cell d4 -- the returned value should be 6;
+
+@summary
+enter, without quotes, the formula "=value(mid(b4,1,c4-1))" into cell e4 -- the returned value should be 415 (that is, the mid function starts with the 1st character, 4, and finds the string equal to the occurrence of "/", less 1 -- that is 3 characters, the numerator 415);
+
+@summary
+enter, without quotes, the formula "=value(mid(b4,c4+1,d4-c4))" into cell f4 -- the returned value should be 93, the denominator;
+
+@summary
+enter, without surrounding semi-quotes but keeping the quotes internal to the formula, the formula '="="&e4&"/"&f4' into cell g4 -- the returned value should be the string =415/93, the fraction;
+
+@summary
+warning: tricky part!
+@article
+ Or, open Excel from within your Applications folder, and select File, Open a New Workbook from the menu. Or, better yet, from the previous article on Continued Fractions, Start Working with Continued Fractions, open it and use the worksheet, Approach 2.
+
+
+Recommended Settings: Set General to R1C1 Off and Show the 10 Most Recent Documents;
+Edit - set all the Top options to checked except Automatically Convert Date System.
+Display number of decimal places = blank (for integers preferred), Preserve display of dates and set 30 for 21st century cutoff;
+View - show Formula Bar and status bar, hover for comments and all of Objects, Show gridlines and all boxes below that auto or checked;
+Chart - show chart names and data markers on hover. Leave rest unchecked for now;
+Calculation -- Automatically and calc before save, max change .000,000,000,000,01 w/o commas if you do goal-seeking a lot and save external link values and use 1904 system;
+Error checking - check all; Save - save preview picture with new files and Save Autorecover after 5 minutes;
+Ribbon -- all checked except Hide group titles and Developer (unless you plan to write macros).
+ Label worksheet 1 "Approach 1" and label worksheet 2 "Approach 2", or something similar.,,, For each String Formula in column G, you must manually copy it and do Edit Paste Values into cell to the right, eg. paste special values into H4 from G4, or H5 from G5, etc. And then in the Formula Bar, you must click past the right end of the formula with the mouse as if editing, then hit the Enter or Return key, This will convert the string into an actual formula! Otherwise, a macro might be used, but that is beyond the scope of this article. The result in H4 should be 4.46236559139785; the result in H5 should be 2.16279069767442; the result in H6 should be 6.14285714285714; and the result in H7 should be 7.00000 ... for your future reference;
+Enter, without quotes, the formula "=INT(H4)" into cell I4 -- the returned value should be the Integer Part, 4 of the Decimal Number, 4.46236559139785;
+Enter, without quotes, the formula "=H4-I4" into cell J4 -- the returned value should be the Decimal Part .46236559139785 of the Decimal Number, 4.46236559139785;
+Enter, without quotes, the formula "=ROUND(J4*F4,0)" into cell K4 -- the returned value should be the Rounded Remainder, 43;
+Enter, without semi-quotes, the formula '=K4&"/"&F4' into cell L4 -- the returned value should be the Fraction String, 43/93;
+Enter, without quotes, the formula "=F4" into cell M4 -- the returned value should be the Inverted Numerator, 93;
+Enter, without quotes, the formula "=K4" into cell N4 -- the returned value should be the Inverted Denominator, 43;
+Enter, without the external semi-quotes but keeping the 2 internal quotes to the formula, the formula '=IF(I4<>0,I4,"")' into cell O4 -- the returned value should be the (first part of the) Answer, 4 -- Format Cell Fill Canary Yellow;
+Enter, without the external semi-quotes but keeping the 2 internal quotes to the formula, the formula '=IF(O4<>"",P3+1,0)' into cell P4 -- the returned value should be the (first part of the) Max formula, 1;
+Select cell range B4:P21 and Edit Fill Down;
+Select cell range H4:H23 and Format Cells Border Bold Outline Dark Blue per cell.;
+Select cell range H5:H21 and Edit Clear Contents -- this is where you will do the tricky part of pasting special the values and editing in the formula bar to turn the string into a live formula manually;
+Enter, without the external semi-quotes but keeping the 2 internal quotes to the formula, the formula '=M4&"/"&N4' into cell B5 -- the returned value should be the Inverted Fraction(s);
+Select cell range B5:B21 and do Edit Fill Down;
+Select cell range B2:N21 and do Format Cells Border Dark Blue Boldest Border Surrounding Border to all the cells;
+Select cell range B2:O21 and do Format Cells Border Dark Blue Boldest Border Surrounding Border to all the cells;
+Select cell range B2:P23 and do Format Cells Border Dark Blue Boldest Border Surrounding Border to all the cells;
+Select cell G22 and enter, without quotes but with the trailing space, "ANSWER: ", and do the same for cell G23;
+Enter to cell H22 the formula, without surrounding semi-quotes but keeping all internal quote marks, '=""' -- the result of this formula will be ;
+Enter to cell H23 the formula, without surrounding semi-quotes but keeping all internal quote marks, '=MID(H22,1,MAX(P4:P20)*IF(MAX(P4:P20)>9,2.5,2)+MAX(P4:P20)-1)&IF(MAX(P4:P20)>9,"","]")' -- the result of this formula will be , the Answer.
+Go ahead now and do the tricky part for cells H5, H6 and H7 by copying the formulas in G5 and doing Paste Special Values to H5, then editing in the Formula Bar at the far right of the formula with the Edit Bar of the mouse, once, then clucking Enter (or Return). Do so for G6--H6 and G7--H7 as well. Check your results with the values given above "for future reference".
+Your Final Answer then should be .
+Hooray! You finished the hard part!
+

@@ -1,0 +1,13 @@
+@summary
+unlock your device and go to the main menu.
+
+@summary
+tap on the search icon.
+
+@summary
+type in the name of the app you’re searching for in the search bar.
+@article
+ The main menu can be accessed by tapping on the square icon found exactly in the center of the bottom part of your home screen.;
+, It is shaped like a magnifying glass, and found at the top-right corner of the screen. A search bar will appear once you tap on the Search icon.
+ This search will look for the app or a similar one in your Android device. Once you find the app, tap on it to access it and to use it. This method allows you to look for any app in your Android device.
+

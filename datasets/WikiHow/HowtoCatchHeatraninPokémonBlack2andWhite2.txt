@@ -1,0 +1,21 @@
+@summary
+beat the elite 4.
+
+@summary
+get the magma stone.
+
+@summary
+go to the reversal mountain cave.
+
+@summary
+from the entrance, go up, right into the next room, down, and right until you find a doctor trainer.
+
+@summary
+go up to the stairs, and the magma stone will activate.
+@article
+ You have to beat the Elite 4 and Champion before you can catch Heatran.;
+, The Magma Stone is located on a cliff on Route 18. You need a Pokémon with Surf to get there.
+ Reversal Mountain is located east of Undella Town.
+ There will be a room above him; go into it. If you have already beaten him, you can talk to him to have him heal your Pokémon.
+ Heatran will appear; talk to it to battle it.
+

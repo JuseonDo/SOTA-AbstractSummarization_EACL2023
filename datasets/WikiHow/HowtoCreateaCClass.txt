@@ -1,0 +1,50 @@
+@summary
+open your ide and make a new project.
+
+@summary
+after going through everything to set up the project, make sure your main cpp file looks like this.
+
+@summary
+,
+
+@summary
+create.
+
+@summary
+type the keyword "class", followed by the identifier, or name, of your class, then an open brace (which is this { character), a closing brace, and a semicolon at the end.
+
+@summary
+understand the three main keywords inside the part called the body.
+
+@summary
+define what the function "printstuff()" does and what "stufftoprint" is.
+
+@summary
+inside this function, you full access to the char array "stufftoprint", so you should define that with a for loop, and then print each character along with that.
+
+@summary
+go over to the main function and call the function.
+
+@summary
+call the function printstuff().
+
+@summary
+run it, wait for it to compile... and 5 qs appeared on the screen (just as you defined the function printstuff() contained in the class myclass, accessing it with the object myobject).
+
+@summary
+,
+
+@summary
+another sample program:
+
+@article
+;
+,, When making a class, there are two ways to do it; by declaring it in the main CPP file, or doing it in a separate header, and defining all of the functions in a separate CPP file (which is the better way to do it).
+ Choose a name for your class.
+ There are three more keywords which identify what has access to the data in the body. They are called "public", "protected", and "private". These are called access modifiers. To put it simply, public members can be accessed by anyone, and private members can only be accessed by the members of the class itself.
+ To do this, use the Scope Resolution Operator. You first do the class name, myclass, the two colons, and then the data to access, myclass::printstuff(), and define it like you'd normally define a function.
+ Don't forget to return a value at the end of it (unless you made it void).
+ You'll need to create an object. An object is what allows you to access and call variables and functions inside your class, but it can only access publish functions and variables. To make an object, type the name of your class, myclass, and then the name you want your object to be, it's almost like defining your own data type, except you don't need to set it equal to something.
+ To do that, write the name of your object, a period (.), and the name of the function or variable you want to access. This would look like myobject.printstuff();, that will call the function, printing out 5 consecutive Qs when we run the application. (Don't forget to add a pause! Use the _getch() function in conio.h, because if you didn't know already, system() commands are EVIL)
+
+,,

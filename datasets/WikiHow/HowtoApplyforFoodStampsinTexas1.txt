@@ -1,0 +1,39 @@
+@summary
+verify that you meet the eligibility requirements for snap.
+
+@summary
+navigate to the your texas benefits website at https://www.yourtexasbenefits.com/ssp/ssphome/ssphome.jsp and click on “apply for benefits.”
+
+@summary
+,
+
+@summary
+click on “set up account,” and follow the on-screen instructions to create a username and password for the site.
+
+@summary
+fill out all required fields in sections a through j on the snap application form.
+
+@summary
+fill out all required fields in sections k through t on the snap application form.
+
+@summary
+read and sign sections u through w on the snap application form.
+
+@summary
+click on “submit” at the end of the form to submit your online snap application to the texas health and human services commission, which then forwards your information to the united states department of agriculture (usda).
+@article
+ Applicants must be qualified United States citizens, reside in the state of Texas, and generate low monthly income. Families must meet the following maximum monthly income limits:
+
+
+One family member: $1,619 maximum monthly income
+Two family members: $2,191 maximum monthly income
+Three family members: $2,763 maximum monthly income
+Four family members: $3,3335 maximum monthly income
+Five family members: $3,907 maximum monthly income
+Additional family members: $572 per month;
+,, You must register for an account to apply for SNAP online. After you’ve created an account, the application form will display on-screen.
+ You are required to provide personal information for all family members, including names, dates of birth, social security numbers, addresses, marriage and education statuses, and contact information. You are also required to disclose whether your household has any pregnant women or military personnel, and whether any residents need help with job interviews.
+ You are required to provide information about existing health insurance policies, medical bills, vehicles owned by family members, bank account information, housing costs, and the amount of income being provided by all family members.
+ These sections include legal information and the Statement of Understanding, which ensures you understand the rules, policies, and benefits associated with SNAP.
+ Your application will be processed as soon as it is received, and you will receive the Lone Star Card in the mail shortly after your application is approved by the USDA.
+

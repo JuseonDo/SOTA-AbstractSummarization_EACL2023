@@ -1,0 +1,17 @@
+@summary
+go to the grand exchange page on the runescape website and check the price of the rune armour set and whatever rune weapon you want to use.
+
+@summary
+once you have your prices, you're going to have to earn some money somehow.
+
+@summary
+when you have the money you need, go to the grand exchange and buy a rune armour set.
+
+@summary
+after that, all you have to do is wait.
+@article
+ Armour sets contain full armour, either with plate legs or plate skirt, including a kite shield. They cost the same as each separate piece, but take up only one space in your inventory.;
+, The best way to do this is with fishing or woodcutting, but you can do it pretty much any way you like.
+ You can do this by clicking on the bag with the green arrow and searching for "rune armour set" and choosing "rune armour set (l)" or "rune armour set (sk)". Do the same with your weapon.
+ The Grand Exchange is highly variable and transactions will be completed anywhere between a few seconds and a few days, depending on who's selling what you're buying. But when you have your box with the armour in it, you should be able to exchange a set for armour by talking to a GE clerk.
+

@@ -1,0 +1,55 @@
+@summary
+boot up ubuntu linux.go to application, then select accessories and choose terminal
+
+@summary
+,
+
+@summary
+enter the following command: “sudo apt-get install vsftpd” (without quotation marks).
+
+@summary
+open the ftp server configuration file.
+
+@summary
+in the file browser, click the “file system” icon.
+
+@summary
+,
+
+@summary
+click on the “etc” folder.
+
+@summary
+,
+
+@summary
+double-click the “vsftpd.conf” icon.
+
+@summary
+,
+
+@summary
+alter anonymous access.
+
+@summary
+rename the ftp welcome banner.
+
+@summary
+click on save and close the file.
+
+@summary
+to restart the ftp service, type the following command: “sudo /etc/init.d/vsftpd restart” (without quotation marks).
+
+@summary
+place files on the ftp server.
+@article
+;
+,, This will install the FTP server on your system. If you are logged in as the root user, the "sudo" command will not be necessary, since this command is used to give administrative privileges to the user. In this case, you will only need the command "apt-get install vsftpd".
+ To do so, go to Places and click on Computer.
+,,, Enter "anonymous_enable=YES" (without quotation marks) to allow anonymous FTP access. The hash (#) at the beginning of each line indicates that this line is commented out and will be ignored. To enable this line, you must remove the hash (#). The parameter "write_enable=YES" (without quotation marks) will allow changes to the filesystem, such as uploading.
+ Uncomment it by removing the hash (#), and enter the welcome message. For this example it's "ftpd_banner=Welcome to FTP Server!" (without quotation marks).
+ (Note: You may need to login as root, then only you will be able to open file in edit mode or else the file will open in read-only mode)
+
+, Again, you will only need to use "sudo" if you are not logged as the root user.
+ To move files to the server, access the FTP Folder from the command in the image above.
+

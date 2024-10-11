@@ -1,0 +1,28 @@
+@summary
+open google play.
+
+@summary
+search for the app named “hotspot shield,” and download it.
+
+@summary
+,
+
+@summary
+open “hotspot shield” from the menu.
+
+@summary
+,
+
+@summary
+protect connection.
+
+@summary
+wait for a while till you’re connected.
+@article
+;
+,,, Once you open it, simply tap the switch "On" to enable “Full Protection”.
+ When you’re connected successfully, you will be able to see “Connection is protected,” written on top.
+
+
+That’s it! Enjoy browsing without any restrictions on your Android cell phone.
+

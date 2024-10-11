@@ -1,0 +1,4 @@
+@summary
+first, you start out with a colt m1911, and 500 points, which can be used to purchase weapons.
+@article
+ In front of you is a Kar98-k bolt-action rifle, which costs 200 points and to the left on a wall is a M1A1 Carbine, which costs 600 points.;

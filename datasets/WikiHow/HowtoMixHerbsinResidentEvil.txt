@@ -1,0 +1,79 @@
+@summary
+know what each herb does by itself;
+
+@summary
+green: heals your character 25%.
+
+@summary
+know what you get when you combine them;
+
+@summary
+25% healing and cure poison: green + blue
+
+@summary
+60% healing: green + green
+
+@summary
+60% healing and cure poison: green + green + blue
+
+@summary
+100% healing: green + green + green
+
+@summary
+100% healing: red + green
+
+@summary
+100% healing and cure poison: red + green + blue
+
+@summary
+100% healing, cure poison and temporal invulnerability: green + blue + red (doesn't work in all re games, but remember that green has to be the base and the herbs has to start with the green)
+
+@summary
+,
+
+@summary
+don't over-heal yourself, or that will be wasting the herbs.
+@article
+
+
+
+
+ 
+
+
+
+Red: Can't be used by itself, makes other herbs stronger when combined with them.
+
+
+
+
+
+
+
+Blue: Cures poison.
+
+
+
+
+
+
+
+Yellow (RE4 & REgaiden only): RE4-When combined with other herbs, permanently increases your health. REg- Restore a moderate amount of damage.
+
+
+
+
+
+;
+,, Here is the color and description corresponding to your health in most games, and the heartbeat monitor goes higher up and down when you have more health;
+
+
+
+Fine: Full or near full health.
+
+Caution and then Caution when it gets worse: Character starts limping and moves slower.
+
+Danger: Character starts limping even more, clutching their side and running even slower. Get a healing item as soon as possible. Do not save in this status or your game could be ruined if you can never get out of it.
+
+Poison: Seek blue herbs. Character slowly loses health, and limps, even if they are otherwise fine. Green and Red herbs don't cure poison, only heal you.
+

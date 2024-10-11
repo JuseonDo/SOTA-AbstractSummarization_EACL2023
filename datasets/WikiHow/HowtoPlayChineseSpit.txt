@@ -1,0 +1,43 @@
+@summary
+get out a deck of cards.
+
+@summary
+each person should deal out a stack of 5 cards and put in in the middle to their right.
+
+@summary
+,
+
+@summary
+now, each person places one card face down to the left of the stack of 5.
+
+@summary
+each player then deals themselves a hand of five cards, and sets down the remaining 15 cards.
+
+@summary
+,
+
+@summary
+begin playing.
+
+@summary
+as you transfer cards from your hand to the middle piles, replace them by picking up cards from the stack of 15 leftover cards.
+
+@summary
+if neither of you can place a card on the pile, take one from the stack of 5 next to each middle pile, flip it over, and keep playing.
+
+@summary
+,
+
+@summary
+when you run out of cards to play, slap the smaller pile.
+
+@summary
+keep playing until one player has no cards left.
+@article
+ Take out the jokers. Split the deck in half and and give one half to each person.;
+,, There should now be four piles in the middle of the two players. The outside piles should have 5 cards each, and the inside piles should have one. The players should now be holding 20 cards.
+, Flip over the two cards in the middle at the same time, and begin transferring cards from your hand to the top of the middle two cards as fast as you can. You can only place a card on the top of the piles if it has a value one higher or one lower than the card at the top of the pile. For example, if one of the cards in the middle is a 3, you can only place a two or a four on top of it.
+ Remember that you can only hold 5 cards at a time.
+, The pile you slap is the pile of cards that you will use for the next round. Take that pile as well as the outside pile next to it, shuffle, and set up the game again. The number of cards in each pile should remain the same except for the stack of leftover cards.
+ That player is the winner.
+

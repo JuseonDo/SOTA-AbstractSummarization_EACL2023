@@ -1,0 +1,46 @@
+@summary
+open paint.net and start a new project.
+
+@summary
+create a texture or fill the canvas with a texture.
+
+@summary
+get the color you want.
+
+@summary
+create the cylinder with the shape3d plugin.
+
+@summary
+click on effects >> distort >> point warp.
+
+@summary
+flip it horizontally and then vertically to apply the same effect.
+
+@summary
+,
+
+@summary
+squash, or elongate, the vase by clicking on the selection icon and then adjust with the move icon.
+
+@summary
+,
+
+@summary
+finished.
+
+@article
+ To start with, you will probably want it taller than wide. This article will use the size of 600 X 800.
+
+
+Plugins used for this article
+Clouds
+Shape3D
+Point Warp;
+, This example will be using a mottled sky look.
+ This was done using the Color Balance under Adjustments.
+ Make sure that you adjust the Axis 1 a bit and also deselect the tick mark on 'All Face'.
+
+
+The Shape3D plugin is under Effects >> Render.
+ Do the one side (you will want to adjust the effects for your purpose). Flip the layer (Layers >> Flip Horizontal) and apply the effect again (CTRL F).
+,,

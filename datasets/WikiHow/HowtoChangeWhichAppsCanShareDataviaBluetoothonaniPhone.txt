@@ -1,0 +1,27 @@
+@summary
+open your iphone’s settings.
+
+@summary
+scroll down and tap privacy.
+
+@summary
+tap bluetooth sharing.
+
+@summary
+,
+
+@summary
+slide the button next to a listed app to on or off.
+@article
+ This is the grey icon with cogs on one of your home pages.
+
+
+This may also be located in the “Utilities” folder on one of your home pages.;
+, This is in the third set of options.
+, When on, apps will be allowed to share data with other devices using bluetooth. When off, the app will be blocked from transferring data over bluetooth.
+
+
+Apps will only appear listed here if they are able to share over bluetooth and have asked you for permission after launching the app.
+Some apps may not work properly with bluetooth sharing disabled.
+Some apps may be able to share data over WiFi or cell data instead of using bluetooth.
+

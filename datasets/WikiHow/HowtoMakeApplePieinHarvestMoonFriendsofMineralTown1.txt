@@ -1,0 +1,33 @@
+@summary
+acquire the rolling pin, knife, seasoning set, oven, and pot.
+
+@summary
+gather the ingredients needed to make the apple pie.have the ingredients in your rucksack.
+
+@summary
+go to the kitchen counter.
+
+@summary
+choose the utensils you need to use.
+
+@summary
+choose your seasoning.
+
+@summary
+confirm your counter decision.
+
+@summary
+choose your ingredients.
+
+@summary
+confirm your decision.
+@article
+ If you don't have them, you will need to watch the Shopping Network on Saturdays and pay 750, 1,500, 2,500, 2,500, and 1,000 G for them (respectably) when it comes on the television.
+
+
+Apple
+Egg: can be acquired from your chicken
+Butter: can be made with a mixer and milk
+Flour: can be purchased from the supermarket for 50 G
+
+,, Press the "A" button., Select the knife, oven, rolling pin, and pot and press the "A" button., Click on the Seasonings Set and select the "sugar"., Press the "Start" button, then the "A" button again., Select the specific ingredients you wish to use from your rucksack. Press the "Start" button., If you are satisfied with what you have chosen, start cooking.

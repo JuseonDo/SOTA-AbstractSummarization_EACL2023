@@ -1,0 +1,15 @@
+@summary
+open google analytics.
+
+@summary
+press create new annotation in the lower right corner.
+
+@summary
+,
+
+@summary
+enter the date and write the description of the item.
+@article
+ Press the tab under monthly traffic chart. See photo.;
+,, Select your visibility preference. Press save. Your annotation and your user name will now be visible next time this page is viewed.
+

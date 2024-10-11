@@ -1,0 +1,38 @@
+@summary
+open your browser.
+
+@summary
+navigate to aboutmybrowser.
+
+@summary
+,
+
+@summary
+click on find out now!.
+
+@summary
+,
+
+@summary
+scroll down to the overview.
+
+@summary
+note the browser and version.
+
+@summary
+share your browser information with the it professionals.
+@article
+;
+,,, Look for your browser name:
+
+
+Chrome (Google)
+Firefox (Mozilla)
+Internet Explorer (Microsoft)
+Opera
+Safari (Apple)
+Other
+
+, The version will, typically, be the numbers immediately following the browser name.
+ You can screenshot and send the Details or you can share the web link, also known as a URL (Universal Resource Locator). The URL will link to the page that was generated. Generally, this is all the information the IT professional will need about your browser version and configuration.
+

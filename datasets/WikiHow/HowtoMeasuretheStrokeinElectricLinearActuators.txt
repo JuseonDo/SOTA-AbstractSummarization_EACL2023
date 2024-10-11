@@ -1,0 +1,19 @@
+@summary
+disconnect the power supply to the application.
+
+@summary
+,detach the linear actuator from the mechanism.
+
+@summary
+measure the length of the actuator in its retracted state.re-attach the actuator to the mechanism.switch on the power supply.
+
+@summary
+let the application actuate to its full capacity.
+
+@summary
+measure the length of the actuator in its extended state.
+
+@summary
+subtract "length b" from "length a".
+@article
+,, The length is measured from one end of the actuator to the centre of the pin or bolt hole, situated at the end of the actuator rod. This length is generally measured in inches. Make a note of this length and call it "Length B".,,, Ensure that the actuator produces its motion entirely., Measure from the end of the actuator to the centre of the pin or bolt hole. Make sure that the exact spot of measurement is the same as the spot of your earlier measurement. Make a note of this length and call it "Length A"., The result is your actuator stroke. (Length A – Length B = Actuator Stroke).

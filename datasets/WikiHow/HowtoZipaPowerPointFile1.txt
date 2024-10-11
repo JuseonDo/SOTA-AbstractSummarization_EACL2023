@@ -1,0 +1,34 @@
+@summary
+click finder.
+
+@summary
+click on the search bar.
+
+@summary
+type in the name of the powerpoint file you want to zip.
+
+@summary
+,
+
+@summary
+ctrl+click on the file.
+
+@summary
+,
+
+@summary
+click on "compress ".
+
+@summary
+,
+
+@summary
+enter a new name (optional).
+
+@summary
+press return.
+
+@article
+ Finder is a blue icon with a smiling face at the bottom of your screen.;
+, It is located in the upper-right hand in Finder.
+,,, Normally, two files cannot share the same name. However, since your original Powerpoint file and new compressed file are two different types of files, they can share the same name.

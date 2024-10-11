@@ -1,0 +1,17 @@
+@summary
+navigate to the screen you want captured on your samsung galaxy tab.
+
+@summary
+press and hold the “power” and “home” buttons at the same time until a white border appears around the edge of your screen.
+
+@summary
+,
+
+@summary
+release the power and home keys.
+@article
+;
+,, The screenshot will now be captured and saved to the “Screenshot” folder in Gallery.Alternately, go to Settings > Motions and Gestures, and enable the “Palm swipe to capture” feature.
+Navigate to the screen you want captured.
+Place your index finger against the left side of the screen with your hand perpendicular to the screen, and swipe right until the white border appears around the edge of the screen. The screenshot will now be captured and saved to the Gallery.
+

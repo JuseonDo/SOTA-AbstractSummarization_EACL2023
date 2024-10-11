@@ -1,0 +1,33 @@
+@summary
+download the point lookout dlc.
+
+@summary
+talk to tobar the ferryman at the riverboat harbor.
+
+@summary
+travel to point lookout.
+
+@summary
+place a marker on plik's safari.
+
+@summary
+climb down to reach it.
+
+@summary
+go inside.
+
+@summary
+go into the small room to the right.
+
+@summary
+activate the journal.
+@article
+ Alternatively, you can play the game of the year edition, which has all 4 DLC's pre-installed.;
+, Buy a ticket to Point Lookout (300 caps).
+ Talk to Tobar about the surrounding area. He will tell you about Plik's Safari, and will mark it on your map.
+ Travel to it.
+ It is located on the side of a cliff, so be careful.
+ Travel down the tunnel until you find Plik.
+ On the table should be a journal.
+ You will receive the Ghoul Ecology perk. You now do +5 damage to Ghouls.
+

@@ -1,0 +1,54 @@
+@summary
+navigate to https://drive.google.com/ on your mac.
+
+@summary
+,
+
+@summary
+sign into your google account.
+
+@summary
+click new.
+
+@summary
+,
+
+@summary
+click file upload.
+
+@summary
+select a file on your computer to upload.
+
+@summary
+,
+
+@summary
+click open.
+
+@summary
+navigate to https://drive.google.com/ on your other device.
+
+@summary
+sign into your google account.
+@article
+,
+
+
+If you do not have a Google account, you will need to make one.
+,
+
+
+You can also click Folder Upload to upload multiple documents.
+,
+
+
+You can also drag and drop files into the Google Drive window to upload them.
+
+
+
+If you are using an iOS or Android device, you can also download the Google Drive app.
+ You will have access to all of your files uploaded from your Mac.
+
+
+You can click/tap a document to view it or open the menu for a document and click/tap Download to save it to your device.
+

@@ -1,0 +1,25 @@
+@summary
+find a nice area to build in.
+
+@summary
+lay down three normal rails.
+
+@summary
+place three blocks of your choice on the end of the track.
+
+@summary
+replace the blocks with rail.
+
+@summary
+place a lever touching the curved piece.
+
+@summary
+flip the lever.
+@article
+ Any passive mobs can stay.
+ They should connect, and no rail should be going up/down hill.
+ If the track is vertical make the blocks horizontal and vice versa.
+ One of the pieces will curve.
+ This can not be a diagonal touch, only a strait on.
+ When you do the track will switch. It will stay like this until flipped again.
+

@@ -1,0 +1,43 @@
+@summary
+understand what a wiki is.
+
+@summary
+decide if you need, or at least want a wiki.
+
+@summary
+get wiki on a stick, or woas.
+
+@summary
+unzip the .html file to a folder of your choosing.
+
+@summary
+open your web browser of choice, and drag and drop the .html file onto your browser.
+
+@summary
+,
+
+@summary
+bookmark the file.
+
+@summary
+,
+
+@summary
+click the advanced icon in the upper-right corner (the wrench and screwdriver icon).
+
+@summary
+,
+
+@summary
+under maintenance, click special::erase wiki, confirm twice, and then give it permission to alter the file on disk (itself).
+
+@summary
+you are now ready to begin.
+@article
+ Wiki the Hawaiian word for "fast"and was originally designed to allow people far apart to collaborate on projects over the Web, but they also work well as personal information managers.;
+, You could just as well use your computer's text editor to jot down notes, name it something intuitive, and drop it in My Documents.
+ WoaS is a single .html file which can contain an entire Wiki. This is not nearly as advanced as MediaWiki, the software which powers Wikipedia, wikiHow, and other sites, but is far easier and quicker to set up and use. If you are still unsure you really want a Wiki, it is a great place to test the waters.
+ Any folder works. Your Documents folder is a good place.
+,,, Refusing this permission will leave you with read-only access to your wiki.
+ Click the pencil-on-paper icon to edit any page.
+

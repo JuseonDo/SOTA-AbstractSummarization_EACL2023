@@ -1,0 +1,24 @@
+@summary
+open yelp.
+
+@summary
+tap ≡ .
+
+@summary
+tap your username.tap your profile picture.tap … in the lower-right corner of the screen.tap delete photo.tap delete to confirm.tap ok in the dialog box.tap back in the upper-left corner.tap the gray camera icon near the top of the screen.
+
+@summary
+select a way to add a new photo:
+
+@summary
+tap use my facebook photo to use your current facebook profile picture.
+
+@summary
+tap ok.
+@article
+ It's a red app with the word "yelp" in lowercase, black letters.
+
+If you are not logged in, tap Sign Up or Log In and follow the prompts to log in to your account.
+ It's located in either the lower-right corner of the screen (iPhone) or the top-left of the screen (Android)., It's the first section at the top of the screen. From this screen, you can edit your profile picture:,,,,,,,,
+Tap Take/Choose Photo to add a photo from your camera roll or take a new photo with your device's camera.
+ The photo you chose is now your Yelp profile picture.

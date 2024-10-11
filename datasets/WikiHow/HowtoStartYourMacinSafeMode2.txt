@@ -1,0 +1,34 @@
+@summary
+open the terminal.
+
+@summary
+type .sudo nvram boot-args="-x" and press return.
+
+@summary
+reboot your computer.
+
+@summary
+log in.
+
+@summary
+open the terminal in safe mode if you want to revert to a normal boot.
+
+@summary
+,
+
+@summary
+type .sudo nvram boot-args="" and press return.
+
+@summary
+reboot your computer.
+@article
+ You can find this in your Utilities folder.
+ Enter your password when prompted.
+ Your computer will automatically boot into Safe Mode.
+ You will still need to log in with your username and password. You will see the words "Safe Mode" displayed in the upper-right corner of the login screen.
+
+
+Safe Mode will force the log in screen. If you have "Automatic Log In" turned on you will still be required to enter your password while booting into Safe Mode.
+, Enter your password when prompted.
+ Your computer will go back to booting normally.
+

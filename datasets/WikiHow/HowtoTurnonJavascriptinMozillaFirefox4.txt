@@ -1,0 +1,15 @@
+@summary
+click the help menu > troubleshooting information.
+
+@summary
+click refresh firefox on the upper-right side of the page.
+
+@summary
+,
+
+@summary
+when you're ready, confirm by clicking refresh firefox again.
+@article
+ Remember to press Alt if you can't see the menu toolbar at the top of the screen.
+, As a reminder, refreshing Firefox removes all of the add-ons you use to customize your browsing experience. You can easily re-download those later.
+

@@ -1,0 +1,49 @@
+@summary
+back up your iphone 5 to icloud or itunes to save your personal data.
+
+@summary
+tap on “settings,” then tap on “general.”
+
+@summary
+,
+
+@summary
+toggle the passcode lock feature to the “off” position.
+
+@summary
+swipe up on the screen of your iphone, then tap on the airplane icon.
+
+@summary
+connect your iphone 5 to your computer using a usb cable.
+
+@summary
+go to pangu’s official website at http://en.pangu.io/.
+
+@summary
+,
+
+@summary
+select the option to download pangu to your computer based on your version of ios.
+
+@summary
+select the option to save the file to your desktop, then double-click on the file to launch and run the software.
+
+@summary
+click on either “start” or the black button that features a series of question marks.
+
+@summary
+tap on the pangu icon displayed on the home screen of your iphone when prompted to do so by your computer.
+@article
+ Jailbreaking may end up wiping and erasing all your personal data from the phone.;
+,, This feature must be disabled before you can jailbreak your device using Pangu.
+ This enables Airplane Mode, which increases your jailbreak success rate.
+ iTunes will launch automatically upon recognizing your device.
+, At this time, Pangu supports iOS 9, iOS 8, and iOS 7.
+
+
+
+If using Windows 8, click on “More Info” and select “Allow” to launch Pangu.
+If using Windows 7, right-click on the Pangu .exe file and select “Run as Administrator.”
+
+, Pangu is a Chinese application, and may display special characters in place of English in certain parts of the app. The jailbreaking process will now begin, and your iPhone will reboot several times throughout the process.Click on “Already Backup” if Pangu prompts you to back up your iPhone, enable Airplane Mode, and disable the Passcode Lock feature.
+ Jailbreaking will continue, and your iPhone will reboot one final time. After your iPhone 5 reboots, jailbreaking will be complete, and Cydia will display in the app tray.

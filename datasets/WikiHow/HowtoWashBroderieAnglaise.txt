@@ -1,0 +1,19 @@
+@summary
+check the age of the item.
+
+@summary
+wash by hand or machine as chosen.
+
+@summary
+if using the washing machine, only use the short spin cycle and select drip dry.
+
+@summary
+,
+
+@summary
+dry out of direct sunlight.
+@article
+ If it is heirloom age, only wash the item by hand. If it is modern, it can be washed by hand or by gentle machine wash.;
+, Use gentle washing powder or liquid.
+, The item may need support to prevent any tears from catching on objects while drying.
+

@@ -1,0 +1,20 @@
+@summary
+tap the phone icon at the bottom of your home screen.
+
+@summary
+,
+
+@summary
+tap the screen above the keyboard.
+@article
+, After you touch it, you should see a black balloon pop up that says "paste." Click it.
+
+
+If the phone number you copied included letters, the iPhone will convert them to the appropriate digits.
+
+
+
+
+
+
+

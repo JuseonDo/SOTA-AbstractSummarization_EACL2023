@@ -1,0 +1,19 @@
+@summary
+turn on the device to prepare the dvr box for use.
+
+@summary
+locate the program you'd like to digitally record.
+
+@summary
+press the record button on your remote to begin taping the show from that point forward.
+
+@summary
+,
+
+@summary
+press the stop key at the end of the recording session to stop the recording.
+@article
+ Make sure you also have a working remote control that is able to control the box.;
+, Either search channel by channel or go through the GUIDE to access your favorite show that is playing at the time.
+, Use the arrow keys to highlight and select the "Stop and save" option. This will cancel it. Alternatively, if you'd like, you may delete the recording by selecting "Stop and delete."
+

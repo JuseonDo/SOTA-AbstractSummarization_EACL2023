@@ -1,0 +1,24 @@
+@summary
+make a summer combination fruit salad.
+
+@summary
+make a watermelon basket fruit salad.
+
+@summary
+make a sri lankan fruit salad.
+
+@summary
+make a chicken fruit salad.
+@article
+ Make this tasty salad with pineapple, cherries, bananas, and various other tasty fruits.
+ This delicious fruit salad includes honeydew melon and cantaloupe poured into a tasty watermelon basket.
+ Make this tasty fruit salad with pineapple, orange, kiwi, and a dose of sugar.
+ Make this tasty chicken fruit salad with the usual suspects with chicken, mayonnaise, and celery.
+
+
+
+
+
+
+
+

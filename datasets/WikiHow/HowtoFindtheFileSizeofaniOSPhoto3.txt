@@ -1,0 +1,53 @@
+@summary
+open the photos app.
+
+@summary
+tap albums.
+
+@summary
+tap camera roll.
+
+@summary
+select a photo.
+
+@summary
+,
+
+@summary
+tap the "share" button.
+
+@summary
+tap mail.
+
+@summary
+tap the "to" field.
+
+@summary
+,
+
+@summary
+type in your own email address.
+
+@summary
+,
+
+@summary
+tap send.
+
+@summary
+review the "actual size" value.
+@article
+ While you can't actually check the size of the photo in the Photos app, you can add it to an email message to check the approximate size. You won't actually need to send an email to do so.
+ This is in the bottom right corner of the screen.
+ You can also tap a different album on this screen if you'd like to narrow your results.
+, It resembles a box with an arrow coming out of the top in the bottom left corner of your screen.
+ This will open a new mail message with the image attached.
+,, You will be prompted to select the size of your photo.
+
+
+If you didn't add a subject to your email, you'll have to confirm that you want to send the email without a subject before continuing.
+ This should be at the bottom of the page--the Actual Size value will tell you the approximate size of your selected photo.
+
+
+If you selected multiple photos, you'll only see their total size (not a photo-by-photo breakdown).
+

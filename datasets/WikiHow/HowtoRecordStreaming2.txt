@@ -1,0 +1,33 @@
+@summary
+do a web search using a search term like "free browser extensions for downloading streaming" or something similar.
+
+@summary
+download an extension from those listed in the search engine.
+
+@summary
+navigate to a website where you want to record streaming audio or video and play the content.
+
+@summary
+,
+
+@summary
+download streaming video by clicking the appropriate toolbar button.
+
+@summary
+download streaming audio by clicking the appropriate toolbar button.
+@article
+ You can make the search term specific by designating the browser you use. For example, type "Firefox extension for capturing streaming."
+
+, You may set it up to have a toolbar displayed near the top of your browser.
+
+
+Remember the folder that you designate to store audio and video.
+,
+
+
+Play the video whenever you want with a button on your browser toolbar, or open the folder on your computer where you stored the clip.
+ In one popular extension, an equalizer appears and the audio plays while it is downloading.
+
+
+Use the toolbar to open the folder with the audio or open the folder on your hard drive and play it at your leisure.
+

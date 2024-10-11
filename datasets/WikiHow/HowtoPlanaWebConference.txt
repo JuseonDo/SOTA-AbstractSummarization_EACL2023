@@ -1,0 +1,63 @@
+@summary
+decide what you want to accomplish.
+
+@summary
+contact a hosting company.
+
+@summary
+decide who should attend.
+
+@summary
+create a timed agenda.
+
+@summary
+make it interesting.
+
+@summary
+create a slide that will appear when participants log in.
+
+@summary
+determine participants' expectations.
+
+@summary
+prepare an online survey that you can have participants complete after the conference to get feedback.
+
+@summary
+,
+
+@summary
+practice.
+
+@summary
+run a dress rehearsal of the web conference.
+
+@summary
+have someone else in your company act as on-site tech support during the web conference so that you can focus on hosting it.
+
+@summary
+,
+
+@summary
+open the conferencing software at least a half an hour before the meeting starts.
+
+@summary
+record the conference or keep minutes for those who can not attend the web conference.
+
+@summary
+,
+
+@summary
+when the conference is over send a thank-you e-mail to participants asking them to complete the survey.
+@article
+ Limit yourself to what can be covered in the web conference in a certain amount of time.;
+, If you're using one, to arrange a date and time for the web conference, to cover basic details, and to get links and access codes to send to participants. Consider scheduling an extra half hour in case the conference runs long.
+ Use the conferencing software to invite them. Include the link and access code they'll need to participate.
+ Gather content for the meeting, including spreadsheets, presentations, and documents. Create or assign someone to prepare the material for use by the conferencing software and then pretest these materials.
+ Simply watching someone talk isn't going to keep participants' interest. Keep it lively! Use the technology available to vary activity with video or slides, interactive polling, application sharing, or whiteboard.
+ This will allow them to they're at the right web conference.
+ Inform them on how they should prepare. Send them any needed materials in advance. Include a reminder of the link and access code.
+, Practice enough so that you know how to use the moderator tools to respond to questions or to let participants show their material to the group.
+ Make sure your presentations are all working properly. Do this at least a week in advance and make changes as needed.
+, Make sure connections and content are all working properly.
+, Use the results of the survey to improve future web conferences.
+

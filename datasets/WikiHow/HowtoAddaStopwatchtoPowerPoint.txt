@@ -1,0 +1,39 @@
+@summary
+launch powerpoint 2003, 2007 or 2010.
+
+@summary
+click the slide show tab or menu item and then click the set up slide show button.
+
+@summary
+select the ​​​rehearse timings button on the toolbar.
+
+@summary
+watch the slideshow again using the from beginning button at the far left edge of the slide show toolbar.
+
+@summary
+,
+
+@summary
+review the advancement of the slides using timing and make note of those that will need their timing adjusted.
+
+@summary
+,
+
+@summary
+make any necessary changes to the time taken to advance slides automatically.
+@article
+ Open your created presentation file.;
+,
+
+
+In the middle right section of the Set Up Show window, click the radio button for "Using timings, if present" under the Advance Slides heading. Click the OK button to close the window.
+
+
+
+The slideshow will begin to play in full-screen mode. Advance the slides after the appropriate amount of time you think you will need for each screen by clicking anywhere on the slide show. This will allow you to time slides as they are displayed.
+Note that the time allotted for each screen is being tracked and shown in the upper left hand window.
+,,
+
+
+Timing can be adjusted for individual slides in the Normal view. Click the slide that requires an adjustment, then choose the Animations tab. The far right edge of the Transition to this Slide section offers Advance Slide options. Adjust the amount of time in the field following the words "Automatically After."
+

@@ -1,0 +1,17 @@
+@summary
+find the link you want to click or enter the web address you want in your url bar.
+
+@summary
+hold down your ⇧ shift (mac) or ⇧ shift (windows) button.
+
+@summary
+as you hold the button, click the link you want to go to, or press ↵ enter.
+@article
+ Don't click or press ↵ Enter or ⏎ Return yet.
+
+
+
+If you want to open the link in a new background tab, hold ⌘ Cmd (Mac) or Ctrl (Windows) instead.
+If you want to open the link in a new foreground tab, hold both ⌘ Cmd+⇧ Shift or Ctrl+⇧ Shift (Windows) instead.
+ This will open it in a new window.
+

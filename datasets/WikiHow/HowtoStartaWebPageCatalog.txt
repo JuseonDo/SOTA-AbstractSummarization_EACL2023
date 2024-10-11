@@ -1,0 +1,84 @@
+@summary
+think about what you want to include in your online catalog.
+
+@summary
+organize your data.
+
+@summary
+install and open your software program to build a catalog.
+
+@summary
+follow the program's directions to create a file for a new online or web catalog.
+
+@summary
+create a catalog template page.
+
+@summary
+select your existing data file to import catalog information into the software program.
+
+@summary
+choose which records from your data file you want to include in your catalog.
+
+@summary
+add information from your data file to the catalog template as instructed by your software.
+
+@summary
+,
+
+@summary
+lay out your catalog's pages and uniformly arrange the information in them as allowed by your software program.
+
+@summary
+,
+
+@summary
+specify how many items you want on each catalog page if necessary.
+
+@summary
+,
+
+@summary
+type any repeating text you want in your catalog, such as a company name, if allowed.
+
+@summary
+,
+
+@summary
+preview your catalog's pages in the software program if possible.
+
+@summary
+,
+
+@summary
+type a file name for your catalog and save it when you are done.
+
+@summary
+,
+
+@summary
+post your catalog to the internet.
+@article
+ Consider prices, pictures of your products and product descriptions.;
+, Use a spreadsheet, word processor, or another program to keep your catalog's data listed in some sort of table.
+
+
+Each column will have a category heading, such as the product number and product name.
+Each row will contain information relating to 1 individual product.
+To add picture data to your table, provide the appropriate path or complete file location for where each picture is stored. Do not include the pictures themselves in your data table.
+Save the information in a file to access or update later.
+ Microsoft Publisher is 1 program that can be used to make a web catalog.
+ You may need to set up your catalog by providing information on your company or business and deciding how to accept customer payments and orders placed through your web page catalog.
+ In Publisher, this is known as a catalog merge template. Consult your program's Help guide or online support if needed.
+
+
+
+For Publisher, if you used a spreadsheet program for your data file, you may need to choose which tab of information you want to use, and then click "OK."
+
+, You may need to check boxes next to the data records to select the ones you want.
+,,,,,,
+
+
+Sign up for a web hosting account if you do not have 1 yet.
+Add file transfer protocol (FTP) information to your catalog's software program if needed. This information can include your host server's name and your hosting account's password. It lets you transfer files from your computer's software program to your web server.
+Follow your software program's specific steps to make your web catalog available online.
+

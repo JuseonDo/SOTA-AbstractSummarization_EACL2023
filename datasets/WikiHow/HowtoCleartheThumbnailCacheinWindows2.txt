@@ -1,0 +1,60 @@
+@summary
+since thumbs.db is a hidden system file, you must enable windows to show them.open the start menu, then click "search"
+
+@summary
+,click "search for files and folders" in the left pane
+
+@summary
+,
+
+@summary
+enter "thumbs.db" into the text field, then click "search".
+
+@summary
+click on "select all" from the "edit" menu.
+
+@summary
+,
+
+@summary
+click on "delete" from the "file" menu.
+@article
+ Follow these steps:
+From Windows Explorer, click the "Tools" menu, then select "Folder Options"
+
+
+
+
+
+
+Click the "View" tab
+
+
+
+
+
+
+Make sure "Show hidden files and folders" is selected
+
+
+
+
+
+
+Uncheck "Hide protected operating files" - click "OK" when the warning appears.
+
+
+
+
+
+
+Click "OK" to close the Folder Options dialog box
+
+
+
+
+
+
+,,, Windows will now search for every "Thumbs.db" file on your computer. If they do not appear, make sure hidden and system files are included in search results.
+, The files will be sent to the Recycle Bin, based upon your settings.
+

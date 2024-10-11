@@ -1,0 +1,21 @@
+@summary
+open the os x lion address book by clicking on its dock icon.
+
+@summary
+find the contact you wish to call within your address book and click on their name.
+
+@summary
+choose the number you want to call.
+
+@summary
+wait.
+
+@summary
+enjoy facetime.
+@article
+;
+, Their details will appear in the right-hand panel.
+ You can also choose to call an email address if the other party has one linked to their Apple account. To call, click just to the left of the phone number or email address. Then, click "FaceTime" from the dropdown menu that appears.
+ The Address Book application will automatically trigger FaceTime to open and activate your webcam, which may take a couple seconds. Once FaceTime has opened, press the green "FaceTime" button to begin the call.
+ Once the other party has accepted the call you can enjoy video chatting with them through their iPhone, iPad, or Mac computer.
+

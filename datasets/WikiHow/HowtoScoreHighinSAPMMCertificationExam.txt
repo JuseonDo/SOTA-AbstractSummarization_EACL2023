@@ -1,0 +1,60 @@
+@summary
+ask yourself questions concerning consultation:
+
+@summary
+do you really need to be certified sap mm consultant?,
+
+@summary
+register for sap mm training with sap authorized training center.
+
+@summary
+acquire the knowledge as much as you can about syllabus.
+
+@summary
+prepare as per the weighting per topics given in the sap mm certification syllabus.
+
+@summary
+get confidence on direct questions from the topics in sap mm certification exam.
+
+@summary
+go through related screens of sap mm process, transaction level screens.
+
+@summary
+go through all the masters like material, vendor, condition records for price, purchasing info record, output, etc.
+
+@summary
+check entire sap mm process related setting in img.
+
+@summary
+in the real time certification exam, give extra attention to the words used for respective questions and the approach to understand the questions – particularly with the words like mostly, most likely, least, less likely, only, except, can and always.
+
+@summary
+read your textbooks or sap mm manuals 3-4 times.
+
+@summary
+know that in the actual sap mm certification exam, they don’t ask the configuration.
+
+@summary
+give mock tests with real time sap mm certification question and answers.
+
+@summary
+once you are done with preparation from text books provided by sap authorized training center, start attempting the sap mm question whatever you can find on internet.
+@article
+ This is another decision where you need to think deeply.
+Do I really need SAP MM certification? This question mostly targets to those who are already working as SAP MM consultant with no certification. Mostly candidates do it for job security.;
+, If you are new to SAP MM, but intended to go for SAP MM Certification, you need to join the official training.
+
+
+In some countries, SAP has made it mandatory join authorized SAP training institutes before you go write the certification exam. However, in other countries, you can directly register and attend the SAP MM certification exam. If you are blessed enough to give the money, then, it is advisable to get certain official training.
+ There is plenty of material available on internet, however please do not deviate from your specific syllabus provided for SAP MM certification. However, prepare with mock test available which is given on this website.
+ Please check the weight of topic at source and citation.
+ For example, defined rules – plant, all determination, pricing procedure, picking location, route, account determination, shipping point, tax, item category, material, etc.
+ This can include inventory, purchase order, MRP, invoice verification, physical inventory, some standard reports etc. and verify what is possible and what is not possible at each transaction document. #*Check that what are all possible functions are defined at header and at item level. Navigate through all menu path of all possible transaction document and check what all is possible and how data are processed.
+ Check which data are defined at what level, how it is stored and what all is possible.
+ It will give you comfort to recognize that how settings are stored to serve the possible SAP MM process.
+ Carefully read each question. The sentences in the actual SAP MM certification exam will be confusing always, so think rationally and logically, and give a best suitable answer which comes after such analysis.
+ It can give you an assurance that you will definitely find something new which you don’t know before on SAP MM process. Note down determination rules, documents functions, master data functions, document level functions (header or line item) when you study from SAP MM manuals. This will actually help you to crack scenario based questions in actual SAP MM certification exam.
+ They will only ask what is possible and what is not possible.
+ Find the source of real time SAP MM certification exam paper at source and citation.
+ Try to focus on scenario based questions which candidates feel most tough to crack.
+

@@ -1,0 +1,13 @@
+@summary
+take note of the quality of the merchandise you have ordered from the company.
+
+@summary
+recall whether you have ever been displeased with the merchandise sent by the supplier.
+
+@summary
+write down this number in your notebook or evaluation paper.
+@article
+ Do the items match the description listed in the wholesale catalogue? Were items ever misrepresented?;
+, Also, write down when you were pleased with the merchandise. Assign a number to the quality of the merchandise shipped. 1 for being poor quality and 10 for being excellent quality.
+ Next to this number, compose your thoughts on the matter.
+

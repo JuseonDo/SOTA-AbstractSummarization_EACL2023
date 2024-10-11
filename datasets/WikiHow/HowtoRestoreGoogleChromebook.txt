@@ -1,0 +1,35 @@
+@summary
+open your chromebook.
+
+@summary
+click your account picture on the status tray.
+
+@summary
+click on “settings” from the pop-up menu.
+
+@summary
+open advanced settings.
+
+@summary
+select “powerwash.” scroll down the settings window again and click on the “powerwash” button at the very end of the window.
+
+@summary
+restart your chromebook.
+
+@summary
+wait for the chromebook to boot up.
+
+@summary
+wait for the chromebook to finish resetting.
+@article
+ Wait for it to load and display its desktop screen.
+ The Status tray is at the bottom-right of the desktop. Clicking the picture will cause a small pop-up menu will appear.
+ Your Chromebook’s device setting will open on a new window.
+ Scroll down the Settings window and click on the “Show advanced settings” link at the bottom. The window will expand, showing additional devices settings on its lower half.
+
+
+
+Powerwash is the procedure used to clear all saved data and user settings from the Chromebook.
+ A small window prompt will pop up telling you that you need to restart your device to continue with the reset. Just click on the “Restart” button on the screen to proceed.
+ Once it restarts, a message will appear on the screen asking you to confirm your action. Click “Reset” on the message box and Chromebook will proceed with the Powerwash process.
+ This will take only a few minutes. After the Powerwash process is complete, you’ll be able to use your Chromebook again.

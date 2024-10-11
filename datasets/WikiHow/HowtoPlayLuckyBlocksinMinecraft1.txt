@@ -1,0 +1,15 @@
+@summary
+open your minecraft client and login to your account.
+
+@summary
+,
+
+@summary
+add the server.
+
+@summary
+click done.
+@article
+, Proceed to click the "Multiplayer" option and hit the "Add Server" button. Once the screen appears, you can add the Server Address, which is mc.wubcraft.com in this case.
+ (Make sure you have selected to allow server resource packs!)
+

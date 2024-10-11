@@ -1,0 +1,73 @@
+@summary
+open your outlook 2010 program.
+
+@summary
+click the file tab on the top outlook toolbar.
+
+@summary
+choose “advanced” from the tabs in the left hand column of the dialog box.
+
+@summary
+,
+
+@summary
+look for the export section.
+
+@summary
+click “export to a file” in your import/export wizard.
+
+@summary
+look under “create a file type.” there should be several options of file formats you can use.
+
+@summary
+select the types of data you would like to export.
+
+@summary
+choose the folder that you want to export from.
+
+@summary
+click the “next” button.
+
+@summary
+choose a location to save your file.
+
+@summary
+name the file before you save it.
+
+@summary
+select “next” on the “export to a file” box.
+
+@summary
+right-click on the shared contact's name and choose "copy folder.",
+
+@summary
+choose your contacts folder to put the copy in.
+
+@summary
+,
+
+@summary
+follow the steps outlined above, but select the sub-folder you just created (select contacts, then the sub-folder, which is also called contacts or contacts1, etc.)
+@article
+ Wait for all your data to load.;
+, Select “Options” in the dropdown menu.
+, Click on the Export button. Your Export Wizard should open., Click on the “Next” button.
+
+
+
+Use the Comma Separated Values (.csv) option if you are using Outlook 2010 on a Windows computer, and you want to import it to an unrelated program. A CSV file is similar to a spreadsheet, but it does not contain headers like it would in Excel.Use the Excel spreadsheet option (.xls), if you want to gain access to the file for a backup or spreadsheet function.
+Choose a Mac Data file (.olm) if you want to use the data in other Apple programs.
+Use the Outlook Data File (.pst), if you want to import the data into another Outlook program.
+ In this case, you would select the “Contacts” folder and deselect “Mail,” “Tasks,” “Calendar” and “Notes.”
+
+, If you have multiple Contacts folders, you may have to choose the folder before completing the export.
+
+
+If you have the data you need saved in more than 1 folder, you will need to export each folder 1 at a time.
+ A dialog box for saving the file will pop up.
+ Under the “Save exported file as” box, use the browser to choose a folder in your computer. , Click “Ok.”
+
+, Select “Finish.” Your file will be saved to your computer.
+
+
+,,

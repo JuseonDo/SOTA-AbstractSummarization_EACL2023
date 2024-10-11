@@ -1,0 +1,51 @@
+@summary
+go to wikimapia and look at the screen.
+
+@summary
+select 'join us'.
+
+@summary
+check your email.
+
+@summary
+verify your email address by clicking on the link provided in the email.
+
+@summary
+,
+
+@summary
+take a look at the guidelinesand familiarize yourself with the basic instructions.
+
+@summary
+move the cursor around the map you see.
+
+@summary
+zoom in closer to the city and you will see features in the city.
+
+@summary
+add a site.
+
+@summary
+zoom in close enough to the location you want to add.
+
+@summary
+click where you want to start the location.
+
+@summary
+hover over where you want to 'stretch' out the shape.
+
+@summary
+continue pulling and shaping until it is how you want it.
+@article
+ At about the top center, you will see the word Login. Click on it.;
+, You will need to use a name, email address and a password.
+ They will send you an email confirming your email address.
+, It's probably a good idea to bookmark it for later reference.
+ Notice all of the outlines? Those are places that can be found in that area. Here, Olympia is the city outlined by the yellow.
+ Here, you see Olympic Brewery denoted.
+ If you want, you can add a place to the map. Here, Tumwater Falls Park is noted, but there is no Tumwater Falls, so it will be added. Click on Add Place.
+ If you need to move the map around, click and hold on the map and move it in the proper direction.
+ Click 2 more times until you have your very basic shape.
+ You will see an x there. Pull it where you want it to be.
+ It can be as simple or complex as it needs to be.
+

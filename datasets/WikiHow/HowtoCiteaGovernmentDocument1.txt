@@ -1,0 +1,41 @@
+@summary
+indicate the agency, office, committee or department that issued the document in the first sentence of your citation.
+
+@summary
+indicate the year of publication in parentheses as the next sentence of the citation.
+
+@summary
+,
+
+@summary
+write the full title of the document in italics after the year.
+
+@summary
+cite the place of publication, followed by a colon, and then the publisher.
+
+@summary
+end the citation by indicating a report number or other identifying number in parentheses, when such a number is available.
+
+@summary
+,
+
+@summary
+the first line of text in a citation should be aligned to the left of the page, and each line under that should be indented.
+
+@article
+ Follow this with a period and include any subdivisions of the organization.
+
+
+The first item in this section should be the highest level of the agency that issued the document. As such, it will often be the name of the national government (e.g. United States).
+Do not list personal authors in this segment of the citation.;
+,,
+
+
+Capitalize only proper nouns and the first word of the sentence.
+Indicate personal authors of the document after the title, if any are credited (e.g. "Operating hours of public libraries in the tri-city area, by John Smith"). The author's name should not be italicized.
+ Most U.S. documents are published by the Government Printing Office.
+
+
+Abbreviate state names, for example, "Camden, NJ," or "Lubbock, TX."
+Refer to the United States' capital as Washington, DC, without periods in the abbreviation.
+,

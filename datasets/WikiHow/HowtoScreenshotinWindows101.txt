@@ -1,0 +1,9 @@
+@summary
+press ⊞ win+⎙ prtscr to capture the screen.
+
+@summary
+locate the screenshot.
+@article
+ This way, you can capture a screenshot of the full screen.;
+, Go to the Screenshot folder in your Pictures library to see the screenshot you took.
+

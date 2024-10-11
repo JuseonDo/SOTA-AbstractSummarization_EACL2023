@@ -1,0 +1,15 @@
+@summary
+go to the "debug" store.
+
+@summary
+go to the buy menu under categories and press the question mark.
+
+@summary
+,
+
+@summary
+place a money tree.
+@article
+ You can do this by pressing ⌘ Cmd+⇧ Shift+C for a Mac or Ctrl for Windows. Then enter testingcheatsenabled true. Next, type in buydebug on.;
+,, You can find a money tree under the plants tab. Place in any valid spot, and start harvesting the money!
+

@@ -1,0 +1,35 @@
+@summary
+start with left and right feet together.
+
+@summary
+,
+
+@summary
+step backward with your right foot.
+
+@summary
+,
+
+@summary
+step diagonally with your left foot.
+
+@summary
+step together.
+
+@summary
+step forward with your left foot.
+
+@summary
+,
+
+@summary
+step diagonally with your right foot.
+
+@summary
+step together again.
+@article
+,, This should place your feet roughly a shoulder’s-width apart.
+ Bring your right foot to your left foot, such that both feet are together again.
+, This should again place your feet roughly a shoulder’s-width apart.
+ Bring your left foot to your right foot, such that both feet are together again. You have returned to the starting position and can begin again.
+

@@ -1,0 +1,57 @@
+@summary
+enter receipts from store purchases at either of walmart's smartphone apps or walmart's online site.
+
+@summary
+hold off for 72 hours.
+
+@summary
+wait for an email that says that has a subject similar to "you get $(dollar amount) back!",
+
+@summary
+scroll down on the email until you see the "view your receipt button" and click this button.
+
+@summary
+,
+
+@summary
+sign into your walmart online account with your walmart credentials.
+
+@summary
+,
+
+@summary
+redeem your reward dollars in your account for an egift card.
+
+@summary
+say yes to the dialog box prompt verifying if you'd really like to transfer it to a egift card.
+
+@summary
+,
+
+@summary
+wait for the email saying that you've received the gift card.
+
+@summary
+,
+
+@summary
+print the email.
+@article
+ This step is critical. Per policy, you have no more than 7 days to enter the receipt for the receipt to be deemed invalid for use.
+
+
+Make sure that the receipts don't just have Walmart-only items on them. Walmart-only items will only be found at Walmart and will never be found at any other store, and thereby will never receive any returned results.
+
+
+
+
+
+;
+, Let Walmart find out if the given receipt has any lower prices at competing stores. The Walmart system always tends to take a little while, and so Walmart asks you to come back in 72 hours if they find lower prices on any of your items.
+ This is notification saying that lower prices were found elsewhere for these items.
+,, Click the Transfer to eGift Card button on the Walmart Savings Catcher website after you're signed in, or, from their apps click the Get it Back button on the green bar at the bottom of the app and follow the prompts.
+
+
+If the amount in the email doesn't equal the amount on the webpage, don't worry. You can let the amount accumulate, without losing any money behind.
+,, It'll either have a subject line saying "Your Savings Catcher Gift Card is Activated" or "Your Savings Catcher Gift Card is Reloaded" (depending on the position of the gift card to the company). This email will have a barcode that the cashier will need to scan. Make sure the printing is dark enough for the scanner to read, otherwise they'll end up having problems. Don't just have them scan the code from your phone. The barcodes are too tiny to fit all on your screen at the same time.
+

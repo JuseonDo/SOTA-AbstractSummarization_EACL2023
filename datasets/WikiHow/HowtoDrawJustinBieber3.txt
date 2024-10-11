@@ -1,0 +1,39 @@
+@summary
+draw a large, vertical oval.
+
+@summary
+,
+
+@summary
+add guidelines.
+
+@summary
+draw his eyes directly below the highest guideline.
+
+@summary
+outline his hair.
+
+@summary
+draw the outline of his classic haircut.
+
+@summary
+add the rest of the details.
+
+@summary
+,
+
+@summary
+erase guidelines.
+
+@summary
+,
+
+@summary
+color.
+
+@article
+, Draw one halfway down the face, three quarters of the way down the face, and 7/8 of the way down the face. Also draw two lines for the neck.
+ Then, add two lines for his shoulders.
+ Draw the nose, beginning at the second guideline. Finally, draw eyebrows just above the first guideline.
+ Draw lips at the last guideline. Also add a shirt collar.
+,,

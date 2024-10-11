@@ -1,0 +1,25 @@
+@summary
+be at least a little familiar with most of the instructions.
+
+@summary
+choose if you want to play online, or if you have friends over have a lan match.
+
+@summary
+,
+
+@summary
+choose a game type.
+
+@summary
+check that the server allows multi player.
+
+@summary
+,
+
+@summary
+choose a server, press x to choose it and then just enjoy playing.
+
+@article
+ Skim over the instructions for the basic game, the free add-on game modes (Collection & Hero), the descriptions of how to identify server/game types, and booster pack instructions. To find all these you will have to visit the developer's site, the Sony blog, and various user sites. These instructions are all collected together at the Warhawk Wiki.;
+,, If you are looking for a specific game you can filter by moving to Filter on the menu.
+,

@@ -1,0 +1,19 @@
+@summary
+type the text you wish to alphabetize into the cells of one column.
+
+@summary
+highlight the text you want to alphabetize.
+
+@summary
+find the "az sort" or "za sort" icon found on the standard tool bar, under the data tab.
+
+@summary
+finished.
+
+@article
+;
+, To highlight, click on the first cell and drag down to the last cell you want to alphabetize. You can highlight an entire column by clicking on the lettered column heading.
+ Click the "AZ sort" icon to sort in ascending alphabetical order. Click the "ZA sort" icon to sort in descending order. Your highlighted cells will now be sorted.
+
+
+If you cannot locate the "AZ sort" icon you can add the standard toolbar by opening the "View" menu on menu bar then select "Toolbars" and check "Standard." The standard toolbar will now be visible and will include the "AZ sort" icon.

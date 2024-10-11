@@ -1,0 +1,29 @@
+@summary
+check for and install the latest updates from windows update.
+
+@summary
+click on the windows 10 icon on your taskbar.
+
+@summary
+click on the reserve your free upgrade button.
+
+@summary
+you'll receive a notice that your upgrade has been reserved.
+
+@summary
+when the upgrade is ready to be downloaded, you will be notified.
+@article
+
+
+
+The specific update required for the Get Windows 10 App is KB3035583.;
+, A window should pop up.
+
+
+If you cannot see it, press on the ▲ button to display hidden icons.
+
+
+
+Enter your email address to be notified when Windows 10 is ready to be installed (optional). If you want to skip this step, click on the Skip email confirmation link at the bottom left.
+ Click Close to close the window.
+ Choose an appropriate time to upgrade or upgrade right then.

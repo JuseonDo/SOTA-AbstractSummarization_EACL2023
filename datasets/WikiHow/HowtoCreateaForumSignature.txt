@@ -1,0 +1,36 @@
+@summary
+find out the rules your forum may have about image signatures.
+
+@summary
+choose the image that you want for your signature.
+
+@summary
+upload your image.
+
+@summary
+copy the appropriate url to your image.
+
+@summary
+,
+
+@summary
+go to the 'account settings' section of the forum and click "edit signature" or something along that sort.
+
+@summary
+,
+
+@summary
+insert the link into the text box.
+
+@summary
+,
+
+@summary
+now enjoy your new signature!
+
+@article
+ They may typically disallow images wider than 500 pixels, or ones with a file size of around 1 MB. For some other forums, they automatically adjust the size of your image to their specific file size.;
+, It may be a funny screenshot you found, an animation from a TV show, a humorous snippet from a web comic, or even gif format images are great. (be sure to follow attribution rules to avoid copyright infringement)
+
+, You can Upload it on a photo-sharing site, such as Photobucket, Imgur, or Tinypic, etc. Forums only have limited Bandwidth so they don't allow direct uploading of images.
+,,,

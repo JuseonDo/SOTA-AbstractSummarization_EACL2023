@@ -1,0 +1,162 @@
+@summary
+start by opening microsoft visual studios, or any other coding program that supports c++.
+
+@summary
+select "new project" on the left side of the screen to generate this window.
+
+@summary
+,
+
+@summary
+click the "visual c++ drop-down menu and select the "win32 console application".
+
+@summary
+press next to generate this window.
+
+@summary
+,
+
+@summary
+under "additional options", select the "empty project" box, then press finish.
+
+@summary
+,
+
+@summary
+press ctrl+⇧ shift+a to start a new project once you've reached this screen.
+
+@summary
+,
+
+@summary
+click the visual c++ drop-down on the left side, select the c++ file, and press add.
+
+@summary
+,
+
+@summary
+type:
+
+@summary
+#include <iostream>
+
+@summary
+#include <cstdlib>
+
+@summary
+#include <ctime>
+
+@summary
+these establish the "libraries" from which actions are stored in the code itself.
+
+@summary
+,
+
+@summary
+type the code for generating the number, and generating 20 tries for the user to guess the code correctly.
+
+@summary
+finish off the code by adding functions that tell the user if they won or lost, want to play again, or want to exit the game.
+
+@summary
+press ctrl+f5 to run your number guessing program.
+
+@summary
+,select file--> save as--> and name your code
+
+@summary
+,
+
+@summary
+open the file by clicking on the name of your program, then opening the source code.
+
+@article
+ This tutorial will focus on Microsoft Visual Studios Professional 2013, but the code will work on any program in any edition.;
+,, Then press OK.
+,,,,,
+
+
+
+
+
+
+int main(void) {
+srand(time(NULL)); // To not have the same numbers over and over again.
+while(true) { // Main loop.
+// Initialize and allocate.
+int number = rand() % 99 + 2; // System number is stored in here.
+int guess; // User guess is stored in here.
+int tries = 0; // Number of tries is stored here.
+char answer; // User answer to question is stored here.
+//std::cout << number << "\n"; // Was used for debug...
+while(true) { // Get user number loop.
+// Get number.
+std::cout << "Enter a number between 1 and 100 (" << 20 - tries << " tries left): ";
+std::cin >> guess;
+std::cin.ignore();
+// Check is tries are taken up.
+if(tries >= 20) {
+break;
+}
+// Check number.
+if(guess > number) {
+std::cout << "Too high! Try again.\n";
+} else if(guess < number) {
+std::cout << "Too low! Try again.\n";
+} else {
+break;
+}
+// If not number, increment tries.
+tries++;
+}
+
+
+
+
+
+,
+
+
+
+
+
+
+// Check for tries.
+if(tries >= 20) {
+std::cout << "You ran out of tries!\n\n";
+} else {
+// Or, user won.
+std::cout<<"Congratulations!! " << std::endl;
+std::cout<<"You got the right number in " << tries << " tries!\n";
+}
+while(true) { // Loop to ask user is he/she would like to play again.
+// Get user response.
+std::cout << "Would you like to play again (Y/N)? ";
+std::cin >> answer;
+std::cin.ignore();
+// Check if proper response.
+if(answer == 'n' || answer == 'N' || answer == 'y' || answer == 'Y') {
+break;
+} else {
+std::cout << "Please enter \'Y\' or \'N\'...\n";
+}
+}
+// Check user's input and run again or exit;
+if(answer == 'n' || answer == 'N') {
+std::cout << "Thank you for playing!";
+break;
+} else {
+std::cout << "\n\n\n";
+}
+}
+// Safely exit.
+std::cout << "\n\nEnter anything to exit. . . ";
+std::cin.ignore();
+return 0;
+}
+
+
+
+
+
+,,,

@@ -1,0 +1,34 @@
+@summary
+go to https://www.facebook.com in a web browser.
+
+@summary
+click the downward-pointing arrow.
+
+@summary
+select settings.
+
+@summary
+,
+
+@summary
+click apps.
+
+@summary
+hover your mouse over the instagram icon.
+
+@summary
+click the x.
+
+@summary
+click remove.
+@article
+ You can use any web browser, such as Chrome or Safari, to access Facebook.
+
+
+If you’re not already signed in, enter your Facebook account information to do so now.;
+, It’s in the blue bar at the top-right corner of Facebook. A menu will appear.
+, It’s in the column along the left side of the screen.
+ If you don't it, click Show All to view additional apps. Two buttons will appear to the right of the app’s name.
+ A confirmation pop-up will appear.
+ Instagram is no longer linked to your Facebook account.
+

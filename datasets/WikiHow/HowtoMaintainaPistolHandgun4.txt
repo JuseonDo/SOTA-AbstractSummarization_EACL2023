@@ -1,0 +1,19 @@
+@summary
+reassemble the pistol and make sure all parts are functioning properly.
+
+@summary
+wipe down the whole gun and remove any excess oil.
+
+@summary
+,
+
+@summary
+swab the barrel with a dry cloth right before you intend to start shooting to remove any oil residue.
+
+@article
+
+
+
+A quick test for proper functionality is to rack the slide; make sure it goes completely back into battery (all the way forward). If it does not, the recoil spring may not be set properly.
+Ensure it is unloaded (see above), and pull the trigger, you should hear a click. Rack the slide again, or if the gun is a double-action, cock the hammer (or striker) again.
+,

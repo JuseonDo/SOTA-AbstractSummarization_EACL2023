@@ -1,0 +1,29 @@
+@summary
+click on the link labeled "search nearby" to the left of your current google maps session.
+
+@summary
+enter one or more keywords that describe the business or place you are looking for into the search field.
+
+@summary
+press "enter" to execute your search for nearby places.
+
+@summary
+click directly on any listing for a nearby place within the map to learn more about that specific business or location.
+
+@summary
+click on "get directions" in the upper-left corner of your google maps session to determine the distance between a home for sale and important destinations.
+
+@summary
+enter the address of a destination into the directions field that displays.
+
+@summary
+click on the blue button labeled "get directions" after entering a destination.
+@article
+ The "Search Nearby" feature will allow you to search for businesses, organizations, and other places users have registered to Google using Google Places.
+ For example, if you want to find schools near a home for sale, type "schools" into the search field.
+ The map will then refresh and display various pinpoints that represent the places that match your keyword search. For example, if you searched for nearby restaurants, the map will display the locations of various restaurants surrounding a home for sale.
+ In most cases, Google Maps will provide you with an address, contact information, and, if applicable, a website for that particular business or location.
+ For example, you may want to see how far away the home for sale is from your place of work or favorite grocery store.
+ The address of the home for sale will automatically populate into one of the fields.
+ Google Maps will then refresh to display the distance and route between the destination, and the home for sale.
+

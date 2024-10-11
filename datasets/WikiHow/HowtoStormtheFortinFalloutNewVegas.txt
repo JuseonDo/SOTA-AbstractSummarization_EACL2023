@@ -1,0 +1,57 @@
+@summary
+acquire good armor.
+
+@summary
+get some good weapons.
+
+@summary
+rest, then travel to cottonwood cove.
+
+@summary
+sneak.
+
+@summary
+once the enemies have been slain, save.
+
+@summary
+rest, then take the barge to the fort.
+
+@summary
+kill the guards.
+
+@summary
+take out the enemies leading to the drawbridge one at a time.
+
+@summary
+go into the center of the camp.
+
+@summary
+do this until there are no enemies left outside.
+
+@summary
+kill the praetorians inside and take their ballistic fists.
+
+@summary
+go to caesar's tent.
+
+@summary
+take out the praetorians one by one.
+
+@summary
+kill caesar.
+@article
+ You're going to be taking a lot of hits. Power armor or ranger armor works best. Be sure to include a helmet.;
+, A sniper rifle, spiked knuckles, power fists, and machine guns work best.
+ Bring along a companion or two (preferably Boone and Rex).
+ Crouch until you are hidden, and assassinate as many Legionnaires as possible until caught.
+ Free the slaves, if you feel like it.
+ You will arrive at the gate.
+ If you have companions with you, they will take off in pursuit of unseen enemies.
+ Once you make it to the bridge, save. Rest on a sleeping bag.
+ Attack your enemies, and whenever you are in danger, go back to the other side of the bridge and rest.
+ Then go to the training area and enter the building.
+ Repair them together.
+ Take out the Legion mongrels with V.A.T.S., then go back outside. The Praetorians will follow you.
+ Once they are defeated, go back to Caesar's tent.
+ You have done the Mojave Wasteland a great service.
+

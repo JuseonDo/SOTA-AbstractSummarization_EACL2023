@@ -1,0 +1,26 @@
+@summary
+open a book on your device.
+
+@summary
+,
+
+@summary
+wait for your cursor not to be blinking anywhere on the screen and type in your search term.
+
+@summary
+press the select button in the 5-way selector to send the device to search for the search term.
+
+@summary
+look through the list, until you find the result that best fits the intended area of the term and best fits the phrase.
+
+@summary
+use the 5-way selector buttons to locate the “location” of term.
+@article
+,
+
+
+It can also be found by pressing the Menu button on your device’s keyboard. The “Go to” area will be highlighted by default, then pressing the down arrow on the 5-way selector three times and press the Select button in the middle of the 5-way selector to open up the Find option. This should cause the highlighting to be centered on the “Search This Book” option.
+ Wait a few brief seconds, as some results for terms will take longer than others to achieve the resultant search.
+ Press the Page Left and Page Right selectors on either side of the device (near the screen) to move between search-term pages.
+ Press the "Select" button in the middle of the 5-way selector to jump to that passage in the book.
+

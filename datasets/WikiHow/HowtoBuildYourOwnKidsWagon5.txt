@@ -1,0 +1,9 @@
+@summary
+build the solid rear axle.
+
+@summary
+drill and screw the spacer blocks and rear axle into place.
+@article
+ Cut a 1 1/2 by 1 1/2 board the same length as the width of your wagon, and cut two spacer blocks to support it and allow clearance for the wheels to turn.
+ Then drill the ends to allow the wheel mounting bolts to be inserted. Drill and pin these bolts into place the same way you did on the swivel assembly.
+

@@ -1,0 +1,22 @@
+@summary
+click the "start" button in the lower left hand corner of your desktop.
+
+@summary
+select the pictures that you want to have as thumbnails.
+
+@summary
+click "print" on the top toolbar.
+
+@summary
+,
+
+@summary
+select the options for your print job.
+
+@summary
+select "print" and your computer will start printing thumbnails.
+
+@article
+ Click "Pictures" on the menu that opens. This will take you to your native Windows picture gallery.;
+, Either draw a box around the photos by clicking once and dragging a selection box around them with your mouse, or press "Control" and click each photo separately.
+, Click on the "Paper Size" menu and select "Contact Sheet" as the paper size. You can also select the printer you want to print from and how many copies you want.

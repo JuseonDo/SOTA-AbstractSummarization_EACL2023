@@ -1,0 +1,27 @@
+@summary
+go to download.cnet.com.
+
+@summary
+,
+
+@summary
+type “convert image to pdf” into the search bar.
+
+@summary
+read the reviews thoroughly.
+
+@summary
+download the program.
+
+@summary
+open the program.
+
+@summary
+click “save as” or “convert.” make sure it is set to convert to a pdf format before you convert.
+@article
+, Go through the software options. Filter by your computer type.
+ Only download a program from a trusted source.
+ Select it from your “Downloads” folder and install it on your computer.
+ Click the “Add an Image” button. Use the browser to select your image.
+ You may also have the option to choose where it is saved on your computer.
+

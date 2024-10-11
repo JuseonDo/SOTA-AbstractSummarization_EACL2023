@@ -1,0 +1,41 @@
+@summary
+open photoshop.
+
+@summary
+create a copy of the background layer.
+
+@summary
+go to filter > render >lens flare.
+
+@summary
+,
+
+@summary
+wait for the lens flare menu to show up.
+
+@summary
+watch for the lens flare to be applied on the current layer.
+
+@summary
+,
+
+@summary
+fill that layer with black color.
+
+@summary
+redo the same lens flare.
+
+@summary
+change the bending mode(blend mode) from normal to screen.
+
+@summary
+edit the flare.
+@article
+ Open an image which is lighted from the back.;
+, Do this by pressing Ctrl+J on windows and ⌘ Command+J on Mac.
+, Choose the option for the flare to come directly from the source of light. Adjust your settings as needed and click OK.
+, Do this by going Edit > Fill or pressing ⇧ Shift+← Backspace in Windows and ⇧ Shift+Delete in Mac.
+ By going to Filter > Lens Flare or press Ctrl+F on Windows and ⌘ Command+F on Mac, which will do the last filter you did in Photoshop.
+ Screen blending mode does that: Everything that is dark disappears and everything that is light remains visible.
+ Now the lens flare is on its own layer. Now you can do whatever you want with it. Scale it, rotate it, change the opacity, etc.
+

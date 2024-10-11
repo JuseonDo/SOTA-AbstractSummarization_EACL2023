@@ -1,0 +1,32 @@
+@summary
+open itunes in windows.
+
+@summary
+click the edit menu and select preferences.
+
+@summary
+,
+
+@summary
+open the .general tab and click import settings....
+
+@summary
+,
+
+@summary
+in the "import using" drop-down menu, select "mp3 encoder".
+
+@summary
+add any wma files that you wish to convert to your itunes library.
+
+@summary
+convert existing songs.
+@article
+ This method only works on Windows versions of iTunes, because it requires Windows Media Player 9 or newer installed.
+,, Click OK to return to iTunes.
+ Click File, then select Add to Library. Click Convert when asked if you want to convert the files. The conversion process will create a new file, and both the original WMA and the converted MP3 will appear in your library.
+
+
+You can also add and convert songs by dragging and dropping them into your iTunes Library window.
+ If your library already has WMA files in it, right-click on the file or files you want to convert. Select "Create MP3 version". The file will be converted, leaving your original WMA file and adding the newly-created MP3 file in your library.
+

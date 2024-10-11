@@ -1,0 +1,16 @@
+@summary
+the endings for regular verbs are: ai, as, a, ons, ez, ont.
+
+@summary
+,
+
+@summary
+add the endings to the infinitive form of the er or ir verbs.
+@article
+, Remove the 'e' before appending the suffix to an '-re' verb.
+
+
+Example: PARLER: Je parlerai, tu parleras, il/elle/on parlera, nous parlerons, vous parlerez, ils/elles parleront
+With IR: FINIR: je finirai, tu finiras, il/elle/on finira, nous finirons, vous finirez, ils/elles finiront
+With RE: VENDRE: Je vendrai tu vendras, il/elle/on vendra, nous vendrons, vous vendrez, ils/elles vendront
+

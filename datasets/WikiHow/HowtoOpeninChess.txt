@@ -1,0 +1,175 @@
+@summary
+open with a move played by grandmasters today.
+
+@summary
+remember that the following moves are less common but are still good for you to play:
+
+@summary
+1.b3
+
+@summary
+1.g3
+
+@summary
+1.b4
+
+@summary
+1.f4
+
+@summary
+,
+
+@summary
+develop your pieces.
+
+@summary
+exchange your bad pieces for your opponent's good pieces: this is a bit complex, but learn which pieces are "good" and which are "bad" for each player, and try to exchange your bad pieces for your opponent's good pieces.
+
+@summary
+avoid premature attacks.
+
+@summary
+learn common openings:
+
+@summary
+four knights: 1.e4 e5 2.
+
+@summary
+learn unusual openings:
+
+@summary
+blackmar-deimer gambit: 1. d4 d5 2. e4
+
+@summary
+danish gambit: 1. e4 e5 2. d4 exd4 3. c3
+
+@summary
+latvian counter-gambit: 1. e4 e5 2.
+
+@summary
+attack with gain of time whenever possible.
+
+@summary
+,
+
+@summary
+castle early in open positions.
+
+@summary
+,
+
+@summary
+don’t move your queen out early, she is subject to attack (known to experienced players as premature development of the queen).
+
+@summary
+,
+
+@summary
+move your rooks to open files or towards the center because center files usually open.
+
+@summary
+,
+
+@summary
+try to control the center.
+
+@summary
+,
+
+@summary
+don’t attack before you complete your development.
+
+@summary
+,
+
+@summary
+in queen pawn openings, don’t trap your queen bishop pawn with the knight.
+
+@summary
+don’t go pawn hunting in the opening unless it is a center pawn.
+
+@summary
+,
+
+@summary
+don’t attack too early because a premature attack will fail.
+
+@summary
+,
+
+@summary
+don’t sacrifice a pawn without a clear and adequate reason.
+
+@summary
+,
+
+@summary
+don’t move the same piece twice in the opening because it wastes time.
+@article
+ These moves are all reliable and common:
+
+
+1.e4
+
+
+
+
+
+
+1.d4
+
+
+
+
+
+
+1.c4
+
+
+
+
+
+
+1.Nf3
+
+
+
+
+
+;
+,, Try developing by giving threat to your opponent so that his/her move is wasted while defending. Meanwhile, you can develop your own piece in your next move.
+
+
+Keep an eye on controlling the center with your pieces. The center is the place where most of the action will be.
+Develop with gain of time by attacking your opponents unguarded pieces and pawns.
+ For example, a bishop is bad if it is trapped by pawns of the same color as the bishop. If your center pawns are on white squares and your bishop is trapped behind them, try to exchange the bishop for a well-placed piece of your opponent's.
+ You might beat beginners with early mates, but not masters. So develop, rather than attempting premature attacks.
+
+
+Don't go pawn hunting in the opening (unless it is a center pawn) because it wastes time and will probably put you in an underdeveloped position that is very hard to defend.
+ Nf3 Nc6 3. Nc3 Nf6
+Vienna Game: 1. e4 e5 2. Nc3
+Sicilian Defense: 1. e4 c5
+French Defense 1. e4 e6
+Italian Game: 1. e4 e5 2. Nf3 Nc6 3. Bc4
+Scandinavian Defense (Center Counter): 1. e4 d5
+Queens Gambit: 1. d4 d5 2. c4
+The English Opening: 1. c4 e5
+The Ruy Lopez: 1. e4 e5 2. Nf3 Nc6 3. Bb5
+The Fried Liver (A famous attack): 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5
+
+, Nf3 f5?!
+Queen's-pawn Counter-gambit: 1. e4 e5 2. Nf3 d5
+Ponziani Opening: 1. e4 e5 2. Nf3 Nc6. 3. c3
+Larsen's Opening: 1. b3 e5 2. Bb2
+Orangutan: 1. b4 e5 2. Bb2 Bxb4 3. Bxe5
+Bird's Opening: 1. f4 d5
+Dutch Defense: 1. d4 f5
+
+Common opening theory: “Rapid development of pieces and fight to control the center”.
+,,,,,,
+
+
+He who takes the knight pawn sleeps in the streets.
+,,, Unless you have a reason, or it is part of the opening you're playing, such as in the fried liver attack.
+

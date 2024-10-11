@@ -1,0 +1,7 @@
+@summary
+press .f4.
+@article
+ This is the default shortcut for Launchpad on most newer Macs.
+
+
+If this doesn't work try, Fn+F4.;

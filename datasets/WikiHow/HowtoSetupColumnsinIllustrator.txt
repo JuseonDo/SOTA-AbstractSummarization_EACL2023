@@ -1,0 +1,61 @@
+@summary
+open the adobe illustrator application.
+
+@summary
+choose to either open an existing document or create a new print document in the dialogue box that appears after opening the program.
+
+@summary
+,
+
+@summary
+create a new layer for your text using the layers palette, if you have not created a text layer already.
+
+@summary
+type or paste the text that you would like to divide into column form.
+
+@summary
+,
+
+@summary
+highlight the text with your cursor.
+
+@summary
+,
+
+@summary
+select "type" from the top horizontal tool bar.
+
+@summary
+find the "columns" section of the box.
+
+@summary
+choose the width of the columns.
+
+@summary
+select your "gutter.",
+
+@summary
+choose how you want your text to flow in the "options" section.
+
+@summary
+press the "ok" button or click the "preview" box to see how your selections appear in your text box.
+
+@summary
+,
+
+@summary
+save your illustrator file to complete the adobe column changes.
+@article
+;
+,, To access the Layers Palette, click on "Windows" in the top horizontal toolbar, then select "Layers" from the drop down menu. Click the "Add New Layer" button on the bottom of the Layers Palette box.
+,, Select "Area Type Options." A dialogue box will appear.
+ The columns section is toward the right hand side. Select the number of columns you would like.
+ This is called the "Span." You can specify a column width or allow Adobe Illustrator to automatically divide your columns into even widths.
+
+
+Check the "Fixed" box if you want the column widths to stay the same, even if you add text and increase or decrease the size of the text box. The number of columns can change, but each column with remain the same width.
+Do not check this box if you want the number of columns to stay the same, but do not care if the column widths change as you increase or decrease the size of the text box.
+ The gutter is the space between columns. Adobe Illustrator will automatically choose a gutter, and you can adjust it as needed.
+ Click the right hand button to make the text flow into columns from left to right.
+, Return to the "Area Type Options" dialogue box to further change your Illustrator columns options.
+

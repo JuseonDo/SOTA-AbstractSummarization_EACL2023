@@ -1,0 +1,21 @@
+@summary
+turn on your dish hopper.
+
+@summary
+open the menu.
+
+@summary
+open the guide.click on the event you want to record.
+
+@summary
+after you click on the event you want to record, a small screen will show up.
+
+@summary
+now you will see a loading screen.
+@article
+ The power button is different on different remotes.
+ Now you will see a lot of different things., You will now see all the TV schedules.,, You will see 5 choices. Press on "Record This".
+ Wait for the receiver to set the timer.
+
+There will be a small picture of a clock on the event. That means the event has been recorded.
+

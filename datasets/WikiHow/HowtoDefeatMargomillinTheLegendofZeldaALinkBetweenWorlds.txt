@@ -1,0 +1,20 @@
+@summary
+go into the boss arena to start the battle.
+
+@summary
+use the tornado rod to get on top of the boss, and slash at its eye.
+
+@summary
+after a few hits, it will gain more layers.
+
+@summary
+after more hits, it will now have four layers.
+
+@summary
+repeat this until it is defeated.
+
+@article
+;
+, Avoid being hit by its lower layers, as it will try to bump you into the bottomless pit that surrounds the arena.
+ Use the sword, hammer, or bow to get rid of these extra layers. After doing so, use the Tornado Rod to get on top of the boss, and slash at its eye.
+ Use the sword, hammer, or bow to get rid of these extra layers. After doing so, use the Tornado Rod to get on top of the boss, and slash at its eye.

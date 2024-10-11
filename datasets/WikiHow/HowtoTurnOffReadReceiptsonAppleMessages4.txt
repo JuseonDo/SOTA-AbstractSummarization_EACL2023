@@ -1,0 +1,22 @@
+@summary
+open the messages program.
+
+@summary
+click a conversation.
+
+@summary
+click details.
+
+@summary
+uncheck the box next to "send read receipts".
+
+@summary
+,
+
+@summary
+click details again.
+@article
+ This is the blue speech bubble icon in your dock.
+ You can browse your currently-saved conversations from the left side of your screen.
+ This will be in the top right corner of your conversation page.,, Your contact will no longer receive read receipts!
+

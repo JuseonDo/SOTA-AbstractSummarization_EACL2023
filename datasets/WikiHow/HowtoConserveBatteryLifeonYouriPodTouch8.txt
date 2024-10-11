@@ -1,0 +1,20 @@
+@summary
+open the settings app.
+
+@summary
+scroll until you find "itunes & app store", then tap it.
+
+@summary
+under the "automatic downloads" tab, tap the switch next to "updates".
+
+@summary
+close your settings app.
+@article
+ "Settings" is the grey gear icon--it should be on your iPod's home screen.
+ From here, you can disable automatic updates.
+ This will disable automatic updates to your apps.
+
+
+If you don't usually update manually, you'll need to remember to re-enable this feature when practical.
+ Your iPod Touch's automatic downloads should now be disabled!
+

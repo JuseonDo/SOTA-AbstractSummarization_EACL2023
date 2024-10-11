@@ -1,0 +1,17 @@
+@summary
+try updating drivers and third-party software installed on your windows 8 computer if you receive error code 0x800f0923 when trying to install the upgrade.
+
+@summary
+refresh your internet connection or disconnect from a vpn network if you receive error code 0x800f0922 when trying to upgrade to windows 8.1.
+
+@summary
+try refreshing your pc if you receive an error saying the windows 8.1 update is not applicable to your computer.
+@article
+ This error means that specific drivers or software are not compatible with the Windows 8.1 update. For example, if you installed Apple iTunes on your computer, launch the iTunes application and select “Check for updates” to install the latest software updates and resolve issues associated with compatibility., This error means your computer is experiencing difficulty with connecting to Microsoft’s Windows Update server.
+ This error usually means you need to refresh the files on your PC.
+
+
+Click on “Settings” and select “Change PC Settings” from the Start screen.
+Click on “Update and recovery,” then select “Recovery.”
+Click on “Get started” under “Refresh your PC without affecting your files,” then follow the on-screen instructions to refresh your PC. When complete, repeat the steps outlined in Part One of this article to upgrade to Windows 8.1.
+

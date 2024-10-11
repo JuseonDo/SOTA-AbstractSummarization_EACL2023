@@ -1,0 +1,24 @@
+@summary
+consider whether you really need or want to do a factory reset.
+
+@summary
+connect to a wi-fi network.
+
+@summary
+tap settings from the home menu.from here, you will be able to access the settings that will allow you to begin the process of doing a factory reset on your nook 1st edition.
+
+@summary
+go to devices, and then tap unregister your nook.once you confirm this step, your account and information will be unregistered from the nook.
+
+@summary
+click confirm to unregister your nook.as of now, your nook has been cleared of your registration and account.
+
+@summary
+tap reset to factory settings.
+
+@summary
+register your nook again by following the on-screen prompts.this applies only if you are keeping your nook and had to do a factory reset to resolve a software issue.
+@article
+ This process reverts your Nook to factory settings, so you will lose all data saved to it. This is likely what you want to do if you are selling your Nook, but if that is not your plan, only do this if you are advised by a professional that you have no other option.
+
+It is recommended that if you are keeping the device, you back up your files before resetting to factory settings. The easiest way to do this is to download the Nook Reading App to your PC. The app will then sync with your Nook when you log into your account, thus storing your Nook Library on your PC. You can find the app in Apple's App Store, in Google Play, and in Windows Store., You cannot complete a factory reset without being connected to a Wi-Fi network. It is best to connect to your own private network, but it can be done on a public network, as the information should be encrypted by Barnes and Noble's system.,,,, After this, you will have to confirm twice. Once the process completes, your Nook will be completely cleared of all of your content and settings. It will be as it was the day you purchased it.,

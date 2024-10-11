@@ -1,0 +1,8 @@
+@summary
+drag data from one folder and drop it into another.
+@article
+
+
+
+Copy the updated file you want another file to reflect.
+Paste the current file into the folder and remove the old content. This technique works well when using a flash drive as a vehicle to move data from computer to computer.;

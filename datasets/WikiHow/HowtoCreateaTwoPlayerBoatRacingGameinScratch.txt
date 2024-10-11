@@ -1,0 +1,48 @@
+@summary
+open up scratch.
+
+@summary
+,
+
+@summary
+delete the cat called "sprite 1.",
+
+@summary
+click the left button under the white canvas.
+
+@summary
+draw your boat or import an image to use.double click on the stage to highlight it
+
+@summary
+,
+
+@summary
+click edit and design your boat course the way you want it.
+
+@summary
+make it so that the boat is able to turn.
+
+@summary
+make the boat slow down when it approaches a border.
+
+@summary
+add another sprite (boat).
+
+@summary
+,
+
+@summary
+create the script for the second boat.
+
+@summary
+click the green flag in the top corner.
+@article
+, You can do this by right-clicking on it, then clicking delete.
+;
+, After you have done that, click OK.
+, The image provides an example.
+ You can use the script displayed in the image accompanying this step, which makes the boat turn left and right. If you want, you can change which keys you want to use for turning and moving.
+ You will want to add something like what is shown in the image accompanying this step. In this script, if the boat touches black it will slow down. You can use something similar.
+, You will need to change the way Boat 2 turns. For example, if Boat 1 uses left and right arrows, Boat 2 could use the A and D keys instead.
+ Now you can freely play. Have fun and enjoy.
+

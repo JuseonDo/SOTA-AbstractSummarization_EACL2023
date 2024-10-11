@@ -1,0 +1,15 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll down to the fifth group of options and tap mail.
+
+@summary
+,
+
+@summary
+slide the green ask before deleting switch left to the "off" position.
+@article
+ Do so by tapping the great gear icon on one of your Home screens (it may be hiding in a folder named "Utilities").;
+,, It should turn grey. Now when you delete an email from the stock Mail app, it will be deleted immediately without going to the trash folder.
+

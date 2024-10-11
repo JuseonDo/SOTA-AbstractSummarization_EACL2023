@@ -1,0 +1,17 @@
+@summary
+launch your google chrome browser.
+
+@summary
+type in or paste chrome://plugins/ in the address bar at the top of the screen then hit enter.
+
+@summary
+locate the plugin you want to disable and click on the “disable” button beside it.
+
+@summary
+restart chrome.
+@article
+ Do this by double-clicking the browser's icon shortcut on the desktop.;
+, You will be taken to the plugins window, which lets you configure the plugins that run on Chrome.
+ This will prevent the plugin from running with Chrome on startup.
+ Do this by hitting the “X” button in the red box in the upper-right corner of the Google Chrome browser window, and then launching it again through the browser shortcut on your desktop.
+

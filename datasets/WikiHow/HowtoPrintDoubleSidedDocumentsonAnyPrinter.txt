@@ -1,0 +1,19 @@
+@summary
+convert your printout to a form that allows you to print only the odd pages or only the even-numbered pages.
+
+@summary
+gather some specific information about your printer.
+
+@summary
+gather some specific information about your document.
+
+@summary
+choose a particular print procedure depending on the answers to all of these questions.
+@article
+ Most word processors already provide such an option, as does the free Acrobat reader. If the program from which you wish to print does not have this option, "print" the document to a PDF file and use the Acrobat reader to do the actual printing. Only do this step if necessary.;
+, Does it print on the top surface or the bottom of the paper as it is placed in the paper feed? Which edge of the paper in the paper feed becomes the top line? Can it deliver the pages collated with the first page first (often called face down delivery), or do you need to reshuffle pages to get them into the correct order if they're printed only one side?
+
+, Is it portrait or landscape format? Do you wish to bind it on the long or on the short side (or if you like, is it book or calendar format, see below)? Is the number of pages odd or even?
+
+, See the related articles section below for specific procedures for particular printers.
+

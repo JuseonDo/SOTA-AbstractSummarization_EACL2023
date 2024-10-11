@@ -1,0 +1,17 @@
+@summary
+use heavy, sweeping blows to attack an enemy.
+
+@summary
+take it slow and focus on precision.
+
+@summary
+use acrobatics if you can.
+
+@summary
+don't keep your lightsaber close to your body.
+
+@summary
+use this style in lightsaber-to-lightsaber combat.
+@article
+ Imagine you're trying to hit them with a sledgehammer.
+ The Strong style emphasises strength and precision over speed., This style does draw some elements from Ataru, the most acrobatic of the classical forms., Reach out as far as you can (without overreaching) to hit your enemies., Because of it's emphasis on strength over speed, this style is not good for combating blaster fire.

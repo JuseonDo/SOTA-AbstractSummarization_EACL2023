@@ -1,0 +1,28 @@
+@summary
+mark off a straight horseshoe shape with any wood planks.
+
+@summary
+fill in the top with slabs.
+
+@summary
+place a boat under the slab roof.
+
+@summary
+hop in the boat.
+
+@summary
+move away from the edge you got in from.
+
+@summary
+hide your graphical user interface (gui).
+@article
+ Don't make it too small. A four by five is a great size choice.;
+, There should be space under the slabs. You can make a design if you want, but keep it wooden.
+ If a minecart fits on your version then use a minecart instead of a boat.
+ If you do this on creative you won't die of suffocation.
+
+
+Know that you can only get in the boat if you are next to it, not on the slabs.
+ This will be slower than moving on water.
+ This hides the boat controls so that the viewer doesn't know you are in a boat.
+

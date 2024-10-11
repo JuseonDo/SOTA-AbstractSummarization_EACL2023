@@ -1,0 +1,13 @@
+@summary
+press .⌘ command+⇧ shift+3.
+
+@summary
+find the screenshot file.
+
+@summary
+press .⌘ command+control+⇧ shift+3 to copy the screenshot to your clipboard.
+@article
+ If your speakers are on, you'll hear a shutter sound. This command will capture the entire image that your monitor displays.;
+, The screenshot will be saved as a PNG file on your desktop, labeled with the date and time that you took it.
+ This will copy the image instead of creating a file, allowing you to paste it into another program.To paste your screenshot, open the program and press ⌘ Command+V.
+

@@ -1,0 +1,68 @@
+@summary
+open your iphone’s settings.
+
+@summary
+scroll down and select itunes and app store.
+
+@summary
+tap apple id.
+
+@summary
+select view apple id.
+
+@summary
+tap apple id.
+
+@summary
+enter your apple id credentials.
+
+@summary
+tap account settings.
+
+@summary
+tap edit.
+
+@summary
+tap change email address.
+
+@summary
+enter the new email address you want associated with your apple id.
+
+@summary
+tap continue.
+
+@summary
+log into the new email account associated with your apple id.
+
+@summary
+enter the verification code on the appleid.apple.com page.
+
+@summary
+,
+
+@summary
+tap done.
+@article
+ This app appears with the gray cogs icon and you can usually find it on one of your home screens or in a folder labeled “Utilities.”;
+, You will find this in the middle of the fourth section of menu options.
+ This will be located at the top of the page. Your current Apple ID will be displayed here.
+ This will take you to the Account Settings page.
+ This will be at the top of the page.
+
+
+This will load a Safari page for appleid.apple.com.
+
+
+
+You may be asked to verify your account. Follow the prompts to successfully log in.
+ This will take you to a page that shows your current Apple ID.
+ You can find this button on the right side of the screen.
+ This will be under your current Apple ID.
+ This cannot be an email address that is connected to another Apple ID.
+ You will be prompted to enter a verification code to complete the process.
+ You will receive an email from Apple containing a verification code.
+
+
+Access your email through a separate browser tab or through the "Email" app to ensure the appleid.apple.com page remains open.
+, This will complete the changes to your account.
+

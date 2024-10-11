@@ -1,0 +1,21 @@
+@summary
+first off, the button that closes windows is still an x button, but is now found on the top left corner, instead of the right, and it's smaller than the classic big red "close" - button in windows xp.
+
+@summary
+you can't use the software you are used to in windows, so you have to take advantage from what you can find in the software center.
+@article
+
+
+
+The button for turning off the machine is still shaped like a standby button, but it hides on top of the gray panel along with a bunch of other buttons. Besides, it triggers a drop - down menu with different choices, from hibernate to shut down.
+ To run your beloved Windows games, you need to setup a virtual machine.
+
+
+It isn't critical any more to learn how to use the Terminal, but when first getting to it, learning how to cope with is not as hard as it may seem. The graphical user interface is easy to cope with, but it looks different from Windows 7 or XP. It's mainly just a matter of habit.
+
+
+
+
+
+
+

@@ -1,0 +1,34 @@
+@summary
+the cards go in order from ace, king, queen, jack, 10, 9, 8, 7, 6, 5, 4, to 3.
+
+@summary
+on their turn, no matter what was played last, a player can lay down a single 2 which clears the table and now that player can lay down any 1, 2, 3, or 4 of a kind.
+
+@summary
+if a player is not able to play, they must take a drink and pass their turn.
+
+@summary
+if a player plays their turn and every other player passes, that player can then clear the table and lay down any 1, 2, 3, or 4 of a kind.
+
+@summary
+,
+
+@summary
+if a player lays down a card or cards equal to the previous card or cards played, the next person’s turn is skipped.
+
+@summary
+the objective is to run out of cards first.
+
+@summary
+after the first hand is over, the asshole becomes the dealer.
+
+@summary
+at the end of each hand, a new president, vice president, and asshole are declared.
+
+@article
+ Ace is the highest card. Jokers can be included as wilds or taken out of the deck.;
+, 2s are also considered wild and can be played as any other card.
+ A person can also choose to pass their turn. They must also take a drink.
+, That person must take a drink. For example; if player 1 lays down two 6s and then player 2 also lays down 2 6s, player 3 is skipped and must then take a drink. Player 4 must then play a pair higher than 6.
+ Every player is ranked in the order that they run out of cards. The first player to run out of cards is declared the President. The next player to run out is the Vice President. The last player to run out is the Asshole. Additional rankings can be created. A common rank for the second lowest ranking player is Beer Bitch. This player must fetch all other players a new drink when they run out.
+ The game is played the same as the first hand with a few additional rules. While the Asshole is dealing, he or she can tell any player to drink at any time. However, once the Asshole is finished dealing, any player can tell any other player of a lower rank to drink. So the President can tell anyone to drink and no one can tell the President to drink, but anyone can tell the Asshole to drink.

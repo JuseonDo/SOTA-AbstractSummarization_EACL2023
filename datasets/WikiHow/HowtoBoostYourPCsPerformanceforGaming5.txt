@@ -1,0 +1,52 @@
+@summary
+go to the start menu.
+
+@summary
+select disk defragmenter.
+
+@summary
+select your windows disk.
+
+@summary
+select defragment disk
+
+@summary
+if you have an ssd, or solid-state disk, do not defrag your computer.
+
+@summary
+select optimize.
+
+@summary
+check to see if trim is enabled.
+
+@summary
+click start.
+
+@summary
+click run as administrator.
+
+@summary
+,
+
+@summary
+wait for a black window, or terminal, to appear.
+
+@summary
+,
+
+@summary
+enter the command “fsutil behavior query disabledeletenotify” without the quotation marks.
+
+@summary
+run through a game.
+@article
+ In the Start Menu, click All Programs, then Accessories, and then go to System Tools.
+ When files are deleted from your disk, they can become fragmented. This can lead to slower performance on your device. By collecting these fragments you can improve your performance speed.
+ If you have Windows 8, proceed to the next step.
+ Instead, proceed to the next step.
+ This will initiate the TRIM command.
+ You can do this by opening the command prompt and inputting a simple command.
+ Type "cmd" without the quotation marks into the search bar and then select "cmd."
+
+,,, If TRIM is supported, the response will be “= 0.” If you do not receive this response, enter the command “fsutil behavior set DisableDeleteNotify 0” without the quotation marks. If you receive the same response, you may need to upgrade your firmware., If you still do not notice any change in the quality of game play, try another method.
+

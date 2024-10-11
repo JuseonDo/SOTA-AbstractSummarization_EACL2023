@@ -1,0 +1,22 @@
+@summary
+log in to the twitter website.
+
+@summary
+,
+
+@summary
+click the search box near the top.
+
+@summary
+look at the list of saved searches in the search box.
+
+@summary
+locate the search term you'd like to delete.
+
+@summary
+locate the overflow menu.click the "remove this saved search" option.
+@article
+,
+
+Don't confuse the Search box with the "Submit a Tweet" box, which is slightly below that.
+ If you haven't searched in a while this box may display only the "Saved searches", but look out for "Recent searches" there, as well., Select it. Whether it's a username, hashtag, or just a keyword, you'll be able to delete it the same way., This is three small rectangular dots arranged vertically to the top right of the results, under your Profile icon. Click it.,

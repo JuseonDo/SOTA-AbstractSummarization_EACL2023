@@ -1,0 +1,34 @@
+@summary
+open the google play store app.
+
+@summary
+,
+
+@summary
+touch the play store icon.
+
+@summary
+choose the 'my apps' option.
+
+@summary
+,
+
+@summary
+touch the option labelled 'installed'.
+
+@summary
+locate the app that you intend to delete, then select it.
+
+@summary
+,
+
+@summary
+touch 'uninstall".
+@article
+, It's located at the upper left corner of the screen. After that, a menu will appear.
+, This will show you a list of all the applications currently installed on your device.
+, After the progress bar finishes, the application will have been successfully deleted!
+
+
+Tip: You can't delete System apps. They'll only show up with an 'Update' button.
+

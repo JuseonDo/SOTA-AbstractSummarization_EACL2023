@@ -1,0 +1,82 @@
+@summary
+unpack your blu-ray player.
+
+@summary
+find a wall outlet for your blu-ray player.
+
+@summary
+turn your tv off.
+
+@summary
+,
+
+@summary
+connect one end of the hdmi cable to the back of your blu-ray player.
+
+@summary
+,
+
+@summary
+insert the other end into the hdmi port in the side or back of your hdtv.
+
+@summary
+,
+
+@summary
+use the colors to connect the red, white and yellow plugs on the rca a/v cable with the back of your blu-ray player and the back of the tv if you have chosen to use this type of cable instead of the hdmi cable.
+
+@summary
+turn on the blu-ray player.
+
+@summary
+,
+
+@summary
+turn on your tv.
+
+@summary
+,
+
+@summary
+grab your tv’s remote control.
+
+@summary
+choose the input that corresponds with the type of port you used.
+
+@summary
+insert a blu-ray into the player using the buttons on the outside of the device.
+
+@summary
+use the buttons on your remote or the remote that came with your blu-ray player to control the play, stop, pause, rewind and fast-forward settings.
+
+@summary
+connect your blu-ray player to the internet if it is an internet device.
+
+@summary
+set the aspect ratio on your tv to a rectangular shape.
+
+@summary
+set the resolution on your tv.
+@article
+ Look for a power cord and a HDMI cable. If it doesn’t have a HDMI cable, you can use a color-coded RCA cable to connect the TV in the meantime.
+
+
+Opt to order an HDMI cable from an online retailer if you don’t have one, since they provide the best connection to your devices.;
+, It must reach between your TV console and the wall. Plug the power plug into your player.
+,,,
+
+
+Don’t forget to insert the audio cable into your player and TV.,,, Find the “input” button. Input indicates what device is being shown on your TV.
+ For example, if you plugged the cable into the HDMI-2 port in the side of your TV, the input will be labeled “HDMI-2.”
+
+
+If you used an RCA cable, it is likely to say “Video-1.”
+Test all the inputs by pressing the input button until you have tried them all. Wait a few seconds between switching the input so that you can find the one that shows your Blu-ray player menu.
+ Load it and allow it a few seconds to read the disk.
+ Press the menu button to access the main menus.
+ In the Blu-ray menu find an option to connect it to your wireless network. Once you type in your network name and password, you may be able to rent movies and stream them directly from your Blu-ray player.
+
+
+You can also connect it to your modem using an Ethernet cable.
+ Find the setup button on your remote. Choose the 16:9 ratio.
+ Press the setup button on your remote. Choose 1080 resolution if it is available on your TV, since that is the resolution of a standard Blu-ray.

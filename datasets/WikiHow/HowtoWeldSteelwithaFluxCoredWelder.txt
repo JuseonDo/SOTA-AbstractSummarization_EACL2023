@@ -1,0 +1,31 @@
+@summary
+cut the steel to size.
+
+@summary
+gather all your equipment.load the wire into the machine by following the proper instructions that came with your machine.
+
+@summary
+put on all of your safety gear.
+
+@summary
+connect the grounding clamp to the workpiece.clamp the workpieces together with c-clamps, locking pliers or magnetic squares.if you are on a mig welder, change the cables from dcen to dcep.squeeze the wire feed trigger until the wire pokes out about 13mm from the tip.set the current and wire feed according to a weld chart.
+
+@summary
+tap the wire to the steel and quickly pull back, striking an arc.move at the right speed for the steel, this will take some testing on your part.unplug the welder, but keep your safety equipment on.
+
+@summary
+using a slag chipping hammer, chip all of the slag off of the weld.brush the weld with a nylon wire brush to get the little bits of slag out.
+
+@summary
+inspect the weld.if you like, you can paint the finished weld once it is cleaned.
+
+@summary
+before you weld on anything structural, test your welding technique.
+
+@summary
+keep welding more scrap steel if your welds failed the test described above.
+@article
+ The steel must be free from any rust, paint or other contaminants. Clean it with a carbon steel wire brush.
+
+You can use a stainless brush to clean with if that is all you have.;
+, This includes a flux cored welder, welding gloves, a welding mask, safety goggles, slag chipping hammer and a spool of flux core wire.,, This is the mask, safety goggles and gloves. Wear goggles under the mask to protect from hot slag and debris. If the mask is the handheld face shield type, set it aside until you need to weld. Then hold the face shield with one hand over your face and the welding gun in the other. Make sure to wear safety goggles at all times, even during cleanup. Always wear welding gloves, even during setup and cleanup to prevent cuts from metal edges., Clean the area the clamp contacts the workpiece with a wire brush.,,,,, Keep squeezing the trigger as you move the gun along the steel.,,, A spring handled hammer is easy to grip even with gloves on and reduces shock for long periods of work.,, This guide is quite useful to determine if the weld is good or not: http://manuals.harborfreight.com/manuals/68000-68999/Q68887.pdf.,, Butt weld two scrap plates. Clamp them in a bench vise and apply force with a large adjustable wrench. You can also use a pipe wrench. The weld should bend, but not break. If it breaks, then the weld is brittle. Weld another test piece and clamp it in the bench vise. Hit it hard with a hammer. The weld should also bend and not break. If the weld fails either one of these tests, you need more practice., Then try again! Remember, practice makes perfect for welding.

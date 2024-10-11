@@ -1,0 +1,27 @@
+@summary
+look for the ethernet ports.
+
+@summary
+connect your ethernet cable between the device and the router.
+
+@summary
+repeat the process for appliances that need to be connected to the router.
+
+@summary
+to connect your router to your modem, look for a port that has the words internet or similar on your router, and use an ethernet cable to connect it to the modem.
+
+@summary
+open a browser and see if you have access to the internet.
+
+@summary
+troubleshooting hint: if you need more information from the router manufacturer or other sources, you might be able to get temporary internet access by disconnecting the router and connecting directly to your dsl modem or cable modem.
+
+@article
+ It should be a square-ish connector on the device end. On computers and laptops, there may be a symbol depicting three computers with lines connecting them. On the router side, look for a set of four ports-that is the common configuration, which usually would be numbered.
+ For simplicity's sake, just insert the connection into the port in the router with the number one. If you find difficulty connecting the cable, try aligning the locking tab with the slot. If the cable doesn't work, make sure you are using a Ethernet cable, not a telephone cable which looks similar.
+ Insert the ports in ascending order for clarity.
+ If there is none, choose an empty slot.
+
+
+If your router is also a modem, you will not need to do the above step.
+ If your computer is connected directly to the router by an Ethernet cable, your setup may be complete. If you are using wi-fi, you may need to enter settings into configuration windows. This is usually done with a browser by communicating directly with the router through the router's IP address. For more information, see the router instruction guide.

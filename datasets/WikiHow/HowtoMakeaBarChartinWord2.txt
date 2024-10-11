@@ -1,0 +1,44 @@
+@summary
+open the microsoft word 2007 program.
+
+@summary
+click insert.
+
+@summary
+click chart.
+
+@summary
+,
+
+@summary
+click a chart layout.
+
+@summary
+click on a chart style.
+
+@summary
+click ok. a new window will open with microsoft excel 2007 data.
+
+@summary
+,
+
+@summary
+add data to your chart.
+
+@summary
+close excel when you're done.
+@article
+ You can also double-click an existing Word document to open it in Word.
+ This is a tab in the top left corner of Word's interface.
+, These are listed on the left side of the Chart window.
+
+
+Some types of data will work better with specific layouts than with others.
+ Stylistic options appear to the right of your chosen chart layout.,, To do so:
+
+
+Click an Excel cell.
+Type in a data point.
+Press ↵ Enter.
+ Your chart should immediately change to reflect your data input.
+

@@ -1,0 +1,17 @@
+@summary
+mr. smith is a 30 year-old, obese, insulin dependent, diabetic male who injured his knee three months ago.
+
+@summary
+explanation
+
+@summary
+this identifies the patient.
+
+@summary
+some presentations can, and should, be very short.
+
+@article
+ He was felt to have a medial collateral ligament injury and treated with a brace and Ibuprofen 800 mg TID.
+
+It gives a brief description of him and his major illnesses, and lets the listener know what our previous thought process has been regarding his condition.
+Usually, “Subjective” follows “Identification”. My assessment is that the patient has a tear of the posterior horn of his medial meniscus.

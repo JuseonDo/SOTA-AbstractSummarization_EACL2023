@@ -1,0 +1,13 @@
+@summary
+make sure you’ve assembled all the supplies listed in the things you’ll need section.
+
+@summary
+locate the clay tunnel.
+
+@summary
+enter the clay tunnel.
+@article
+ Otherwise, you won’t be able to catch the Regirock.;
+, The Clay Tunnel is a long, cave-like tunnel located just northwest of the Driftveil City Pokémon Center. Again, this tunnel will only be accessible once you have beat the Pokémon league.
+ You will need a Pokémon that has HM Surf.
+

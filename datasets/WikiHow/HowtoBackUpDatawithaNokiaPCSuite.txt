@@ -1,0 +1,65 @@
+@summary
+connect with a data cable.
+
+@summary
+connect via bluetooth.
+
+@summary
+start the application.
+
+@summary
+familiarize yourself with the application.
+
+@summary
+launch the “nokia content copier.” click on the backup icon.
+
+@summary
+select the phone you wish to backup.
+
+@summary
+click on “backup.” the program would read your phone’s contents, after which, it will show you the list of data you can back up.
+
+@summary
+choose which data to backup.
+
+@summary
+identify the location of the backup.
+
+@summary
+wait for the backup to finish.
+
+@summary
+exit.
+@article
+ Most Nokia phones come with their own data cables. Use these to plug and connect your phone to your computer.;
+, If your phone has Bluetooth, turn it on and have your phone and your computer pair up.
+
+
+If this is your first time to link the two devices, you will be asked for a passcode that you would need to enter in both devices.
+ Look for the Nokia PC suite from the programs under the Start Menu of your Windows desktop. Click on it to launch.
+ Depending on your phone, you can do several things with it from the Nokia PC Suite.
+
+
+Navigate through the menus and the functionalities. All the connected phones will be listed on the left side of the program window.
+ The Nokia Content Copier subprogram would appear.
+
+
+
+Choose from the drop down list.
+There’s a notification near the bottom informing you when the latest backup from this phone was done. This will give you an idea how long it has been since you last protected your data through backing up.
+ User files include images, videos, music, and user documents.
+ From the checkboxes, tick the ones you wish to back up; you can tick all checkboxes.
+
+
+When you’re done, click on the right arrow icon to proceed to the next step.
+ Identify where the program would put the backup file after it’s done.
+
+
+Remember this location so that you can easily find the file later on.
+Click on the right arrow icon to proceed to the next step.
+ A dialog box would show you the backup progress and percentage completion.
+
+
+Do not use or disconnect your phone during this time. You will be notified when the backup is finished.
+ Click "Close" to exit the program. You’ve successfully backed up your Nokia phone!
+

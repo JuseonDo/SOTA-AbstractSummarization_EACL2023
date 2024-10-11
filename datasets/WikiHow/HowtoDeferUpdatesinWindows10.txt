@@ -1,0 +1,37 @@
+@summary
+ensure that you are running windows 10 pro or enterprise.
+
+@summary
+open the settings app.
+
+@summary
+select "update & security" from the list of categories.
+
+@summary
+,
+
+@summary
+make sure the "windows update" tab is selected to the left.
+
+@summary
+,
+
+@summary
+click the "advanced options" link at the bottom.
+
+@summary
+,
+
+@summary
+check the box next to "defer feature updates".
+@article
+ You can find out by accessing the System Properties. Press ⊞ Win + Pause or Pause Break.
+
+
+All users running Windows 10, no matter what edition can turn off automatic updates completely or manually update their PC.;
+, You can search for it using the search or use the keyboard shortcut by pressing the ⊞ Win+I keyboard keys at the same time.
+,,, Your changes will automatically save.
+
+
+If you want to learn more about upgrade deferral, select the "Learn more" link right under the tick box.
+

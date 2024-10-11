@@ -1,0 +1,113 @@
+@summary
+know the terminology used throughout this guide:
+
+@summary
+r button ribbon = right shoulder button ribbon
+
+@summary
+l button ribbon = left shoulder button ribbon.
+
+@summary
+remove the game cartridge, sd card, and stylus.
+
+@summary
+remove the battery from the 3ds.
+
+@summary
+remove the 10 screws (nine black, and one silver screw in the cartridge slot) holding the shell onto the 3ds.
+
+@summary
+tip the shell back so that the interior of the 3ds is exposed.
+
+@summary
+remove the three screws holding the cover on the left shoulder button.
+
+@summary
+carefully lift out the l button ribbon.
+
+@summary
+replace the l button cover, feeding the ribbon back through the gap in the cover.
+
+@summary
+on the shell, remove the three screws holding the back of the silver battery slot in place.
+
+@summary
+remove the single screw still holding the r button cover in place.
+
+@summary
+carefully lift out the r button ribbon.
+
+@summary
+replace the r button cover.
+
+@summary
+replace the silver battery slot that you removed previously.
+
+@summary
+gently reconnect the shoulder button body connectors, softly pressing them into place.
+
+@summary
+place the shell back onto the body.
+
+@summary
+replace the silver screw from the first container into its hole in the cartridge slot.
+
+@summary
+replace the battery.
+
+@summary
+make sure everything works.
+@article
+;
+, Then loosen the four silver screws along the back of the 3DS (they are attached to the cover) and take the cover off., There’s a small tab along the top edge of the battery to help with this., Place the screws into the first small container, and then gently loosen the shell from the 3DS, lifting from the bottom edge of the 3DS.
+
+
+Caution: Don’t yank the shell up, as the shoulder ribbons will be holding the top of the shell to the main body.
+ Gently lift the body connectors for the shoulder button ribbons off the main body of the 3DS.
+ Place the screws into the second small container, and gently remove the cover.
+
+
+Caution: the L button ribbon feeds through the button cover, so make sure to slide the ribbon out as you lift off the cover.
+ Replace it with the new L button ribbon, making sure it’s well seated by pressing it into the recess on the shell.
+ Insert three screws from the second container into the three holes in the L button cover, and tighten the screws.
+
+
+
+
+
+
+
+
+Caution: Be gentle when tightening the screws, applying too much force can strip the threads. Stop tightening when the screws are flush and you meet resistance trying to tighten further.
+ Place the screws into the second small container, and remove the silver battery slot.
+ Place it in the second container, and gently remove the cover.
+
+
+Caution: The R button ribbon feeds through the button cover, so make sure to slide the ribbon out as you lift off the cover.
+ Replace it with the new R button ribbon, making sure it’s well seated.
+ Feed the ribbon back through the gap in the cover, and from the second container insert a screw into the center hole in the cover, and tighten the screw.
+
+
+Caution: Be gentle when tightening the screws, applying too much force can strip the threads. Stop tightening when the screws are flush and you meet resistance trying to tighten further.
+ Replace the final three screws from the second container into the three cover holes indicated.
+
+
+
+
+
+
+
+
+Caution: Be gentle when tightening the screws, as applying too much force can strip the threads. Stop tightening when the screws are flush and you meet resistance trying to tighten further.
+ It is easier to connect the L button ribbon connector first, as it is longer, and then connect the R button ribbon connector. You will hear a soft click when the connectors seat properly.
+ Replace the nine black screws from the first container into the screw holes. Loosely screw in place at first (just to hold the shell onto the body), then (starting at the top left screw) go around the body clockwise, tightening the screws as you go.
+
+
+
+
+
+
+
+
+Caution: Be gentle when tightening the screws, as applying too much force can strip the threads. Stop tightening when you meet resistance trying to tighten further.
+ Then very carefully tighten it as the threads in the hole are extremely delicate (take care not to strip them)., Then replace the cover and tighten the four silver screws on the cover., A quick test to verify the buttons are now working is to power the 3DS on and attempt to activate the camera by pressing both shoulder buttons at once.

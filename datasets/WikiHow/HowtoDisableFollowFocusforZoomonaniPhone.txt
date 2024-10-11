@@ -1,0 +1,23 @@
+@summary
+open your iphone's settings.
+
+@summary
+tap general.
+
+@summary
+tap accessibility.
+
+@summary
+tap zoom.
+
+@summary
+slide the "follow focus" button to the off position.
+@article
+ It's an app with gray cogs that can be found on one of your home screens.
+
+
+It may also be in a folder labeled "Utilities.";
+, It's located in the third group of menu options.
+ It appears toward the bottom of your screen.
+ It's the second option listed under the "Vision" heading.
+ The zoom window will no longer follow you as you type on your phone screen.

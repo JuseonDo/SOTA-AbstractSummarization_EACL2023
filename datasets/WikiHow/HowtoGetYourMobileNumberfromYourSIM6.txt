@@ -1,0 +1,19 @@
+@summary
+view more apps.
+
+@summary
+access the settings.
+
+@summary
+go to category under “about.” select “about” from the system settings screen and tap “category” to open a drop down list.
+
+@summary
+,
+
+@summary
+view your number.
+@article
+ Swipe left across the screen to reveal more apps on your Blackberry phone.
+ Tap the gear icon app from the app screen to open your Blackberry’s System Settings screen.
+, Tap “SIM Card” from the drop-down list and your SIM card mobile number should be displayed on the screen.
+

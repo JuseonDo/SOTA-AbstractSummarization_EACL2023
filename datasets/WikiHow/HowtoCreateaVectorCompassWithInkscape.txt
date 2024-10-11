@@ -1,0 +1,130 @@
+@summary
+if you don't have inkscape, download it and install.
+
+@summary
+create a new document.
+
+@summary
+click on the circle icon.
+
+@summary
+make a fairly small circle.
+
+@summary
+make sure that your stroke for your image is fairly solid.
+
+@summary
+click on the stars and polygon tool.
+
+@summary
+make your star.
+
+@summary
+align these two objects together.
+
+@summary
+click on align >> center on vertical axis and then align >> center on horizontal axis.
+
+@summary
+select the star (you are still using the selector) and duplicate it (ctrl d).
+
+@summary
+,
+
+@summary
+hold down your < key (it's beside your m on a qwerty keyboard).
+
+@summary
+rotate the second star.
+
+@summary
+press end to send it to the back of the image.
+
+@summary
+duplicate the original star again and scale it again to look like this image.
+
+@summary
+hide the old layer.
+
+@summary
+convert your star object so that you can edit its nodes.
+
+@summary
+select all the nodes and 'break path at selected nodes'.
+
+@summary
+,
+
+@summary
+click on f2 to edit the path by nodes.
+
+@summary
+select the base vertices of one of the triangles and click.
+
+@summary
+,
+
+@summary
+select the path and break it (path >> break apart).
+
+@summary
+,select two adjacent lines and combine them (path >> combine)
+
+@summary
+,
+
+@summary
+select their end nodes and join them with a segment.
+
+@summary
+,
+
+@summary
+select the end nodes and add a new node.
+
+@summary
+,
+
+@summary
+delete one of the corner nodes.
+
+@summary
+,
+
+@summary
+repeat.
+
+@article
+;
+, Any size is good, but for this article, it will be the 'default' size.
+ You will want to have the fill be white and the stroke be black.
+
+
+To get a circle and not an ellipse (oval), hold down control while making the circle.
+To do this, after you have selected the circle, find the color toolbar on the bottom and right click one of the colors you want and set it.
+ To make it be a circle, and not an ellipse, hold control while making the circle. This will cause it to be an exact circle.
+ Three or four pixels is about right. Once you have it made, click on the Selector and then right click on the part of the image you want to change.
+ Make the following changes.
+
+
+Corners - 4
+Spoke Ration - 0.160
+Rounded and Randomized - 0.000
+
+, Hold down CTRL while doing this so that any rotation you use will be in 15 degree increments.
+ Select them both (CTRL A). Hold down SHIFT + CTRL + A so that you get the Align and Distribute option.
+ This will exactly center both elements.
+
+
+The top image on the screen shot is vertical and the bottom horizontal.
+, This will reduce the size of the second star.
+ You will need to click on the star again. This will change the options from Move/Scale to Rotate. Hold down CTRL until the second star (background needles) are exactly perpendicular with the main star.
+ The image will look like the screenshot here at this point. Your particular angles might be different than this one.
+ Also, move it to its own layer.
+
+
+To do this, click on Layers >> Add and add the layer. Then click on your selection and go to Layers >> Move Selection to Layer Above. Now, it is on its own layer.
+ To do this, in your Layer dialog box, click on the eye by the layer you want to hide.
+ You must convert the object to a path. Hold down SHIFT + CTRL + C. Alternatively, Path >> Object to Path.
+, Select the 4 bottom end points of the star and click 'Break Path at Selected Nodes'.
+,,,,,,

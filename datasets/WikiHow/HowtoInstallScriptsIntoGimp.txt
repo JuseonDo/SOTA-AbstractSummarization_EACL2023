@@ -1,0 +1,40 @@
+@summary
+find the script that you want to install.
+
+@summary
+click on the link and save the file.
+
+@summary
+,
+
+@summary
+open the file.
+
+@summary
+click on the second option, 'select a program from a list of installed programs'.
+
+@summary
+look at the code.
+
+@summary
+click 'save as' and save the file.
+
+@summary
+,
+
+@summary
+navigate to the script folder in your gimp folder.
+@article
+ Gimp scripts end with *.scm. Search for them by using terms such as, Gimp, script, scm.;
+,, If this is the first time you are doing this, your computer probably won't know what to do with the file.
+ Notepad and WordPad will do what you need it to.
+ You don't need to do anything with it, but what you see now is the text of the code.
+, In this screenshot, the path is C:\Graphics\GIMP-2.0\share\gimp\2.0\scripts
+
+
+
+
+
+
+This directory might have this filepath for Windows 7 users - C:\Program Files\GIMP 2\share\gimp\2.0\scripts.
+

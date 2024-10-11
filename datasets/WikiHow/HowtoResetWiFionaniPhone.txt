@@ -1,0 +1,25 @@
+@summary
+open your iphone's settings.
+
+@summary
+tap general.
+
+@summary
+,
+
+@summary
+scroll to the bottom of the page and tap reset.
+
+@summary
+,
+
+@summary
+select reset network settings.
+
+@summary
+tap reset network settings at the bottom of the page.
+@article
+ This app resembles a grey gear icon and should be on one of your Home screens (or in a folder named Utilities on one of your Home screens).;
+,,, If prompted, you'll need to enter your iPhone's passcode to continue.
+ Doing so will confirm your decision to reset your iPhone's network settings. You should now be able to manually connect to your preferred WiFi network without any trouble.
+

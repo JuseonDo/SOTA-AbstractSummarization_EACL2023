@@ -1,0 +1,9 @@
+@summary
+repeat the tasks in the first step above for setting up the data in list format.
+
+@summary
+go to the data tools group.
+@article
+ In the master worksheet, click on the upper-left cell where you want to place the consolidated data.
+ Find the Data tab, and then click Consolidate. Use the summary function feature in the Function box to choose the settings for consolidating data. Name each range, and then click Add to finish consolidating your data. Repeat the process for updating your consolidated data described above.
+

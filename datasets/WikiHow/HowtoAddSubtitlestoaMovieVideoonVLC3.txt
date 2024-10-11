@@ -1,0 +1,9 @@
+@summary
+save the subtitle track in the same folder as the movie.
+
+@summary
+start the video.
+@article
+ Rename the subtitle file as the same name as the video file.
+ With the rename, the subtitles should automatically appear when you start the video.
+

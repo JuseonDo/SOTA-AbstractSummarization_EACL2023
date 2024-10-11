@@ -1,0 +1,5 @@
+@summary
+shoot all your needles into your enemy's body.
+@article
+ This will allow you to do a super-combine explosion when there shields are all way down. Make sure to lead the target if they are moving as the Needler's homing ability is not sufficient to take down a sprinting enemy.
+

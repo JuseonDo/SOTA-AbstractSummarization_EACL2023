@@ -1,0 +1,15 @@
+@summary
+click the picture that you want to re-size.
+
+@summary
+hold the left mouse button and drag the mouse along the re-sizing direction.
+
+@summary
+release the left mouse button when you are satisfied with the change.
+
+@article
+ Eight little squares will appear surrounding the picture.;
+, A shadow will appear indicating the potential change in the size of the picture.
+
+
+To re-size the picture horizontally or vertically, move the cursor to any of the four little squares in the middle of each border line of the picture. To re-size the picture along the diagonal direction, move the cursor to any of the four little squares at the four corners of the picture and the cursor will transform into a double-sided arrow.

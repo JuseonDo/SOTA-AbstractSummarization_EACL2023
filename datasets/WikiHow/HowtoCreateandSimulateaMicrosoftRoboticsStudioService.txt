@@ -1,0 +1,112 @@
+@summary
+install the microsoft robotic studio.
+
+@summary
+create a new blank service
+
+@summary
+create a blank service from start, programs, microsoft robotics studio (1.5)
+
+@summary
+run msrs command prompt
+
+@summary
+type ‘md my’ to create a new directory for your projects
+
+@summary
+type ‘cd my’ to move into that directory
+
+@summary
+type ‘dssnewservice /service:simplest’
+
+@summary
+,
+
+@summary
+add some basic handling to your project so we will reference a drive partner
+
+@summary
+type ‘cd simplest’ to move into your new services’ directory
+
+@summary
+type ‘simplest.sln’ to open your service in visual studio c#
+
+@summary
+open the solution explorer (ctrl-w, s)
+
+@summary
+add a reference to roboticscommon.proxy
+
+@summary
+open the file simplest.cs from the solution explorer
+
+@summary
+add a new using statement at the top ‘using drive = microsoft.robotics.services.drive.proxy;’
+
+@summary
+add a partner reference below _mainport declaration ‘’
+
+@summary
+add a port for this partner just below the line you just added ‘private drive.driveoperations _driveport = new drive.driveoperations();’
+
+@summary
+add another port just below that one ‘private drive.driveoperations _drivenotify = new drive.driveoperations();’
+
+@summary
+this port will be what we use to actually handle notifications that are sent to us.
+
+@summary
+now let’s listen to this partners notification messages
+
+@summary
+we want the _drivenotify port to get messages sent to the _driveport.
+
+@summary
+now that we’re wired up with the partner so it will listen for the update message we want to connect to the simulation environment.
+
+@summary
+push f5.
+@article
+
+
+
+Go to Microsoft Download
+
+Search for robotics
+Download Microsoft Robotics Studio 1.5
+Download Runtime and Tools Update for Microsoft Robotics Studio (1.5) Nov 2007
+Install both of them;
+,, It allows the _drivePort to be free as often as possible
+
+, So, add ‘_drivePort.Subscribe(_driveNotify);’ below ‘base.Start();’ in the Start function.
+Now we need to add a function to listen to messages that come in on the _driveNotify port. The code we add is complex for the simple concept we want to achieve. But it allows the runtime to synchronize the processing better (from what I understand of it at least)
+
+Code Block 1
+
+
+We made reference in that block of code to a function named DriveUpdateHandler. Here’s the implementation. All it does is to set the robot into a wide circle. This is NOT the best way to do this. But it gives you a quick understanding of how everything gets wired up.
+
+Code Block 2
+
+
+Build the project. It should compile and build just fine.
+ We didn’t specifically state that we’re connecting to the simulation environment in our code. So we have to do it somewhere else. That place is in the manifest file. The one for this project is called Simplest.manifest.xml. We want to open it in the manifest editor.
+
+
+From Start, Programs, Microsoft Robotics Studio (1.5) run Microsoft Dss Manifest Editor.
+Click File, Open, choose your manifest file C:\Microsoft Robotics Studio (1.5)\My\Simplest\Simplest.manifest.xml
+Find the Simulation Engine service from the list of services on the left. Add it to your manifest.
+With the SimulationEngine selected IN your manifest, Click the Import Initial State button in the properties window.
+Change to the samples\config folder (C:\Microsoft Robotics Studio (1.5)\samples\Config)
+Change the file type to Any XML File
+Choose iRobot.Create.Simulation.xml
+
+This will load a bunch of standard entities (blocks and such) as well as the iRobot Create entity. It is named IRobotCreateMotorBase
+
+
+Now we choose the simplest service in the manifest editor
+Then find Simulated Generic Differential Drive in the list of services on the left
+Add it to the manifest diagram by dragging it ON TOP OF the simplest drive entry in the manifest. This will do two things. Add the SimulatedGenericDifferentialDrive service AND associate it with the simplest drive service. This is why we chose PartnerCreationPolicy.UsePartnerListEntry in the declaration in our code.
+The only thing left is to associate the SimulatedGenericDifferentialDrive service to an actual entity in the SimulationEngine configuration. So, click on the Entity reference under SimulatedDifferentialDrive and set the Simulation Entity property to ‘http://localhost/IRobotCreateMotorBase’.
+ I am by no means an expert. It has taken me a couple weeks to figure this stuff out. And since these parts finally clicked I decided to post them for everyone’s benefit.
+

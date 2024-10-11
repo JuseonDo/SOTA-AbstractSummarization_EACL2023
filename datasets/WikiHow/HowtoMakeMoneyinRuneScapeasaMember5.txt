@@ -1,0 +1,12 @@
+@summary
+check the ge.
+
+@summary
+teleport to a one-click bank.
+
+@summary
+clean the herbs, you will get about 50k exp/hour while doing this method, and will make quite a profit from doing so.
+
+@article
+ Most herbs are more expensive clean than grimy, as they are needed for fast herblore training. Some good ones are Kwuarm and Lantadymes. Buy as many of them as you can.
+ Good ones are the Castle Wars chest and the Soul Wars chest. Set up your bank presets so that you can click the preset and get an inventory of grimy herbs.

@@ -1,0 +1,14 @@
+@summary
+tap on the woodwork bench in your inventory.
+
+@summary
+,
+
+@summary
+tap where you want to place it.
+@article
+, Your character will set it down. It's now ready for use.
+
+
+To use, simply tap on it and a graphical user interface box will appear.
+

@@ -1,0 +1,22 @@
+@summary
+locate the "reset" button.
+
+@summary
+insert a bent paper clip into the recess.
+
+@summary
+,
+
+@summary
+gently press and hold the button for about 7 seconds.
+
+@summary
+release the "reset" button.
+@article
+ It's on the back of the router and may be labeled "Reset" or "Restore Factory Settings."The button is small and recessed to avoid accidental resets.;
+,, The power light will begin to blink.
+ The router will reboot and the power light will glow a solid green or white.
+
+
+The Netgear router will be restored to its factory settings. Follow the instructions in the documentation for your model to set up and configure your router.
+

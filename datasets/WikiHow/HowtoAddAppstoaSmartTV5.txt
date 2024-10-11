@@ -1,0 +1,31 @@
+@summary
+turn on your tv.
+
+@summary
+press your remote's home button.
+
+@summary
+scroll down to the "apps" section.
+
+@summary
+select store and tap the remote's touch surface.
+
+@summary
+browse for apps.
+
+@summary
+select an app you wish to download and tap your remote.
+
+@summary
+select install and tap the remote.
+
+@summary
+select accept.
+@article
+ Keep in mind that your television must be connected to the Internet in order to download apps., This will take you to your TV's home page., Do so by swiping down on your remote's touch surface., Store is the multicolored Google Play Store icon on the far-left side of the "Apps" section., You can swipe right to look through the "Entertainment" tab's apps, or swipe down to select a more specific category, such as TV Remote Games.
+
+You can also swipe up to select the magnifying glass icon, then type in a search query.
+ Doing so will take you to the app's page., This option is below the app's name.
+
+If the app isn't free, you'll see its price here instead.
+ It's on the right side of the screen. Selecting this will prompt the app to begin downloading to your TV; when it finishes, you can select OPEN to go straight to the app.

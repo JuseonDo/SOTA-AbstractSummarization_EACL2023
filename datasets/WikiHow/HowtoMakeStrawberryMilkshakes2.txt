@@ -1,0 +1,22 @@
+@summary
+place all of the ingredients in a blender.
+
+@summary
+blend the ingredients on high until the milkshake is smooth.
+
+@summary
+pour the milkshake into a glass.
+
+@summary
+,
+
+@summary
+garnish.
+
+@summary
+serve.
+@article
+ To make this strawberry banana milkshake, place 1 overripe banana, 4 large strawberries, 3/4 cup vanilla ice cream, 1/2 cup milk, and 1/2 tsp. vanilla extract in a blender., This should take about 2-3 minutes.
+, Garnish this milkshake with some whipped cream.
+ Enjoy this cool milkshake immediately while it's nice and cool.
+

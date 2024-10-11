@@ -1,0 +1,52 @@
+@summary
+create your headings.
+
+@summary
+format columns b, d, and e for two decimal places in currency.
+
+@summary
+in cell e3, not e2, follow the same procedure, bringing the formula down as far as you did in column "d".
+
+@summary
+save this spreadsheet as "grocery_master" or any other name.
+
+@summary
+,
+
+@summary
+open anytime you need it, but give each new list a unique name to protect your original template.
+
+@article
+
+
+
+Cell A1 should be titled "Item".
+Cell B1 should be titled "Price".
+Cell C1 should be titled "Quantity".
+Cell D1 should be titled "Total/Item".
+Cell E1 should be titled "Grand Total".;
+,
+In cell D2, enter the formula " =B2*C2 "
+
+
+
+
+
+
+In cell E2, enter the formula = D2
+
+
+
+
+
+
+In cell E3, enter the formula = E2 + D3
+
+
+
+
+
+
+In cell D2, grab the bottom right hand corner. You should see the icon change to a cross. Without releasing, pull down about 100 spaces. If you move to the right, just move back over to the "D" column. This will put the formula in all of the places you made dark.
+ As you have not entered any numbers in yet, columns D and E should have numerous zeros listed.
+,

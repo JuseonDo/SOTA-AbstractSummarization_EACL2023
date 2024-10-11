@@ -1,0 +1,13 @@
+@summary
+find a style of go-karting that is right for you.
+
+@summary
+try it out at first.
+
+@summary
+move on to larger, more complex tracks and slick tracks as your expertise grows.
+@article
+ If you are a beginner, try one of the smaller tracks without a lot of hairpin turns. As you get better you can move on. If you feel extremely confident with handling, you could try slick-racing.
+ A small track, with only one or two karters, will help you start getting the feel of the kart. Drive cautiously.
+ Even the best karters spin out on slick tracks and slippery ovals.
+

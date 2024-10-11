@@ -1,0 +1,81 @@
+@summary
+.
+
+@summary
+select the "new game" button and click on the one next to the last.
+
+@summary
+build a power plant.
+
+@summary
+build power lines to the center of the map.
+
+@summary
+zone some houses.
+
+@summary
+build roads around the city!
+
+@summary
+,
+
+@summary
+build a school close to the houses.
+
+@summary
+build a hospital close to the houses.
+
+@summary
+build police and fire stations.
+
+@summary
+provide water to the city.
+
+@summary
+build a casino.
+
+@summary
+zone commercial zones, these will give your sims places to buy the goods they need to survive.
+
+@summary
+,
+
+@summary
+zone industrial zones and farms.
+
+@summary
+build parks around the houses.
+
+@summary
+as the city gets bigger, repeat these steps.
+
+@summary
+,
+
+@summary
+when your population reaches 75,000, begin replacing your ld zones with md.
+
+@summary
+repeat the steps.
+
+@summary
+,
+
+@summary
+when your population reaches 250,000, which is possible, start replacing md with hd.
+@article
+]]To begin freeplay mode, you need to scroll until you find freeplay on the start screen.;
+, This is the "Global Warming Age", which is present time. If you want to play in a different age, use challenge mode to unlock them.
+ Don't buy a real expensive plant, such as geotherm or nuclear! A good coal plant should do. Place it in a corner to avoid over-pollution.
+ Just run them down halfway, then change direction so they reach the middle.
+ LD Residential is what you need to start out with.
+, A school will increase the Sims' desire to live in the city and decrease crime a bit.
+ A hospital will also increase the Sims' desire to live in the city. It also decreases crime.
+ They will almost completely stop the trouble of fires and riots.
+ A water tower will suffice.
+ It is very hard to develop your city without a casino because of police and fire funding. It brings in 500$ per month.
+, Farms are industrial zones, just not as nasty. Pollution will wreak havoc on your city if you build industrial zones too close to the city. Industrial zones will develop almost anytime.
+ Not only will they cut down on pollution, but they will attract higher wealth buildings.
+, Bigger buildings will appear if you have enough parks. Be sure to save MD areas from pollution.
+, This will boost your population real high. At this time, replace your farms with industry.
+

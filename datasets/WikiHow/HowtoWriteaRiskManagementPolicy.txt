@@ -1,0 +1,67 @@
+@summary
+identify the potential risks involved in the context of your work and for all the stakeholders.
+
+@summary
+analyze all the potential risks that you have identified.
+
+@summary
+assess all the past incidences that your organization has encountered and how these occurrences were handled.
+
+@summary
+estimate the likelihood of each risk re-occurring based on the history of your organization, best practices, and peer experiences.
+
+@summary
+,
+
+@summary
+develop a treatment plan for all of the risks that you have identified, prioritizing the risks that you have found will be more likely to occur.
+
+@summary
+calculate and include a cost estimation for the steps needed to align with the risk management policy recommendations.
+
+@summary
+prepare a report for both internal and external stakeholders, sharing what auditing steps are in place to revisit and evaluate the policy.
+
+@summary
+create a data tracking system to input all statistics on risk management successes and failures, training staff to use it.
+
+@summary
+set up a regular monitoring process to review all risks and evaluate how the treatment plan has been working.
+
+@summary
+,
+
+@summary
+revisit the risk management policy every 6 months to evaluate its effectiveness by comparing incident occurrence rates.
+@article
+
+
+
+Consider the context of your work within the different transactions or processes. Include long-term strategic objectives and decisions, operational or day-to-day activities, financial management and controls, intellectual and information technology actions and knowledge, and compliance/regulatory issues and policy decisions.
+Write down all the things that could potentially go wrong and how that might happen. Divide this information into sections to address each individually.;
+,
+
+
+Write down how they may occur and potential methods of prevention, additional steps that could be taken to prevent them, and how those risks are evaluated and assessed regularly.
+
+
+
+Consult past records to determine how frequently incidents have happened, and how they were handled, including processes that worked and those where there were areas of improvement.
+,
+
+
+Be sure to outline a step-by-step expectation for how each risk will be avoided, how it will be handled if it does occur, and how it will be recorded.
+ Provide this information to the internal audience when the policy is proposed.
+
+
+
+The internal and external audiences need different information; internal audiences need to know the greatest risks, who is accountable for what, and how the process will be monitored. External audiences need to know risk management is a part of the organization's culture and how the process and policy has been laid out.
+
+
+
+Creating a risk assessment form for use after an incident can be a useful tool to examine whether more precautions should have been taken. This allows all the data to be recorded right after the occurrence, and for the same information to be gathered each time.
+, Revise the plan as necessary.
+
+
+Risk management planning and evaluation should be a continuous, evolving process that integrates seamlessly into a company or organization's culture.
+

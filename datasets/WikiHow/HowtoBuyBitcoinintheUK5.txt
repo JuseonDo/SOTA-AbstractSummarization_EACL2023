@@ -1,0 +1,22 @@
+@summary
+find a friend with bitcoin.
+
+@summary
+check the exchange rate.
+
+@summary
+agree upon an amount of pounds to exchange.
+
+@summary
+,
+
+@summary
+pay them your pounds.
+
+@summary
+provide them with your bitcoin wallet address so they can pay you.
+
+@article
+ They could be using a Facebook app like Get Bits or BitFriends to let their friends know.
+ This can be checked with a Google search, or at an Exchange.
+, You could use make a bank transfer using your Internet Banking service, pay cash, or if you're buying a small amount, agree to buy them a pint.

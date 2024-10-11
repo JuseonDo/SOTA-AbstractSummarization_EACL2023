@@ -1,0 +1,16 @@
+@summary
+try installing directx end-user runtime if you receive the following error when installing an application or game that requires directx 9: “the program can't start because d3dx9_35.dll is missing from your computer.
+
+@summary
+run the directx diagnostic tool if you experience problems when playing games or movies after installing directx updates.
+
+@summary
+try updating the drivers for your video card, or replace the video card itself if updating directx fails to resolve problems with certain apps and programs.
+@article
+ Try reinstalling the program to fix this problem.” Installing the DirectX End-User Runtime program can often help resolve this error.
+
+
+Navigate to https://www.microsoft.com/en-us/download/details.aspx?id=35 and click on the “Download” button.
+Click on “Open” or “Run this program from its current location” to install the program and resolve the error.
+ In many cases, this tool can help identify the source of problems associated with DirectX.Click on the Start menu, type “dxdiag” into the search box, then press “Enter.” The DirectX Diagnostic Tool will run and identify any existing problems with DirectX.
+ In some cases, a faulty video card can prevent DirectX from working efficiently.

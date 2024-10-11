@@ -1,0 +1,43 @@
+@summary
+make a backup.
+
+@summary
+install joomla website.
+
+@summary
+install a new template.
+
+@summary
+,get blogger and joomla access details on hand
+
+@summary
+,
+
+@summary
+migrate blogger content to joomla
+
+@summary
+it’s available to try the automated data conversion.
+
+@summary
+set up 301 urls redirects from blogger to joomla.
+
+@summary
+,
+
+@summary
+activate seo extension.
+
+@article
+
+
+
+To get started with your Blogger to Joomla import, at first you should backup your current site data. It helps to exclude the data loss risk.;
+,
+
+
+Install a new Joomla website. Also, you may activate some additional extensions. In the case of a blog running, it’s recommended to upload some of the following extensions: JComments, K2 (with this extension you don’t have to activate JComments), EasyBlog or something like that.
+,, For such kind of data transfer, use this Joomla extension http://extensions.joomla.org/extensions/tools/webbased-tools/23642
+
+
+,,

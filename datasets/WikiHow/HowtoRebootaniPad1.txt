@@ -1,0 +1,11 @@
+@summary
+find the power and the home buttons.press and hold both buttons until you see the apple logo.
+
+@summary
+release the power and home buttons.
+
+@summary
+wait while the ipad continues to boot up.
+@article
+ You'll find the Power button along the top edge of the iPad, and the Home button is in center at the bottom.
+, If you hold too long, you'll enter Recovery Mode., Rebooting this way will typically fix most minor problems your iPad is experiencing, such as connection issues or being unable to charge.

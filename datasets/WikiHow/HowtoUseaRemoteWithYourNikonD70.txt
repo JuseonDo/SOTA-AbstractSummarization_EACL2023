@@ -1,0 +1,35 @@
+@summary
+be sure that you have the remote.
+
+@summary
+determine if you are going to use single frame or continuous.
+
+@summary
+,
+
+@summary
+put your camera on a tripod.
+
+@summary
+press the shooting mode button.
+
+@summary
+decide if you want to delay the remote activation or not.
+
+@summary
+,
+
+@summary
+frame your photograph and focus.
+
+@summary
+,
+
+@summary
+depress the button on the remote.
+@article
+ For the Nikon D70, it is an ML-L3 (or the ML-L1). There are also third party remotes that you can get.;
+,, No reason to use the remote if you are holding the camera.
+ Rotate the command dial (on the back of the camera) until the self timer symbol appears. This is a circle with a line through part of it.
+,, Depending on if you chose to delay the activation, or not, your camera will take a picture.
+

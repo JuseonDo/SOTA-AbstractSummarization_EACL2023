@@ -1,0 +1,82 @@
+@summary
+fold six lengths of cord in half.
+
+@summary
+number the cords in your head.
+
+@summary
+pull the cords apart evenly.
+
+@summary
+get ready to weave.
+
+@summary
+weave cord #1 from the left to right.
+
+@summary
+take cord #12, the first cord on the right this time.
+
+@summary
+pick up cord #2 and pass it over cord #3.
+
+@summary
+return the weaving to the left with cord #11.
+
+@summary
+weave cord #3 under cord #4 and over cord #5.
+
+@summary
+weave cord #10 under cord #9 and over cord #8.
+
+@summary
+weave cord #4 over cord #5 and under cord #6.
+
+@summary
+weave cord #9 over cord #8 and under cord #7.
+
+@summary
+weave cord #5 under cord #6 and over cord #7, then under cord #8.
+
+@summary
+,
+
+@summary
+weave cord #8 under cord #7 and over cord #6.
+
+@summary
+,
+
+@summary
+do not weave cords #6 and #7.
+
+@summary
+if attaching this knot as part of a hammock, the loose ends of the cords are attached in the opposite order to that in which they were woven.
+@article
+ Attach to a ring, rod or other form of holder to keep in place.
+
+
+Secure with a larks head knot.;
+, Use numbers 1 to 12 and keep the numbering system steady in your mind as you work with the cords.
+
+
+If you can't remember the cord numbers very well, use markers such as small plastic bread tabs with the numbers written on them - slip these over the cords, then shift and remove these as needed,
+
+, Pull them taut to straighten. As cords are done with, you'll be tucking them off to the side when they are no longer needed.
+ Weaving goes left-to-right, then right-to-left and each set of left-to-right/right-to-left must alternate between under/over and over/under. The instructions will make this clear.
+ Take it under cord #2, then over cord #3, etc. Continue this weaving motion to the other side.
+ Pass it under cord #11, then over cord #10. Continue this weaving motion back to the left side, to meet back with cord #2.
+ Weave to the right, going under cord #4 this time, etc. This is an over-under sequence, the opposite of the first and second weave rows.
+ Take it over #10, then under #9, and so forth, until you get back to cord #3.
+ Keep weaving back to the right using this sequence.
+ Keep weaving back to the left using this sequence.
+ Keep weaving back to the right using this sequence.
+ Keep weaving back to the left using this sequence.
+,, Pull the ends of both cords #6 and #7 to tighten the clew knot.
+
+
+
+This means that cords #6 and #7 will be attached at the center of the hammock rod or ring.
+Attach cords #8 and #5, then cords #9 and #4.
+Attach cords #10 and #3, then cords #11 and #2.
+This leaves cords #12 and #1 to be attached last.
+

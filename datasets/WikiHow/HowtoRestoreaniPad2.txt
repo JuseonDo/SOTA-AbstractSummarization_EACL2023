@@ -1,0 +1,58 @@
+@summary
+download recboot on your computer.
+
+@summary
+start recboot.
+
+@summary
+,
+
+@summary
+plug your ipad into the computer via usb.
+
+@summary
+,
+
+@summary
+click .enter recovery in the recboot window.
+
+@summary
+,
+
+@summary
+open itunes.
+
+@summary
+,
+
+@summary
+click .ok in the box that appears in itunes.
+
+@summary
+,
+
+@summary
+click .restore ipad.... click restore to confirm.
+
+@summary
+,
+
+@summary
+wait for the restore process to complete.
+
+@summary
+restore from a backup or setup as a new ipad.
+
+@summary
+sign back in with your apple id.
+@article
+ This is a free utility available for both Windows and OS X. It allows you to put your iPad into Recovery Mode without using the Home button.
+,,,,,, This may take several minutes.
+ After the restore process is complete, you will be given the option to restore a previous backup stored on your computer or setup the iPad as a new device.
+ After restoring your iPad, you will need to log in with your Apple ID in order to download your App Store purchases.
+
+
+Open the Settings app.
+Tap the "iTunes & App Store" option.
+Enter your Apple ID information and tap "Sign In".
+

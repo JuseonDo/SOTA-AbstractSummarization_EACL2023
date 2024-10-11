@@ -1,0 +1,4 @@
+@summary
+jam the string down between two pickups.
+@article
+ Sometimes this works, sometimes this doesn't. Interesting effect if it does.;

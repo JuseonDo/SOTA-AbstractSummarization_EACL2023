@@ -1,0 +1,60 @@
+@summary
+open the settings app.
+
+@summary
+tap messages.
+
+@summary
+,
+
+@summary
+tap the grey "show subject field" switch.
+
+@summary
+,
+
+@summary
+exit the settings app.
+
+@summary
+open the messages app.
+
+@summary
+,
+
+@summary
+tap a conversation.
+
+@summary
+tap the "subject" field.
+
+@summary
+type in your subject text.
+
+@summary
+,
+
+@summary
+tap the "imessage" field.
+
+@summary
+,
+
+@summary
+type in your imessage text.
+
+@summary
+,
+
+@summary
+tap the blue arrow.
+@article
+;
+,,, Your iMessages will now have an additional field for subjects.
+, If you're already in a conversation, you can tap < in the top left corner of the message to return to your Messages menu.
+
+
+You can also tap the pen-and-pad icon in the top right of the screen to choose a new recipient for a new message.
+ This should be a new field directly above the traditional "iMessage" field.
+,,, Doing so will send your message, subject text and all.
+

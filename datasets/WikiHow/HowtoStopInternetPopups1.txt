@@ -1,0 +1,17 @@
+@summary
+enable popup blocking from microsoft internet explorer.
+
+@summary
+enable popup blocking from google chrome.
+
+@summary
+enable popup blocking from apple safari.
+
+@summary
+enable popup blocking from mozilla firefox.
+@article
+ To navigate to the popup blocker, click Tools → Options → Privacy, and then check the "Block pop-ups" option.;
+, Google Chrome should automatically block popups as a default setting, but you can make sure that the setting is enabled by clicking the Chrome menu, then clicking Settings → Show advanced settings → Content settings, and then checking the "Do not allow any site to show pop-ups" option.
+ Open Safari, and then click Safari → Preferences → Security. Select the "Block pop-up windows” option.
+ Like many other browsers, popup blocking should come already enabled. If, for whatever reason it isn't, navigate to Firefox → Preferences → Content, and then press the "Block pop-up windows" option.
+

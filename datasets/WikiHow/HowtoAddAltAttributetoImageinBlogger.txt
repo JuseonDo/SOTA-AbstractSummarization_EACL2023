@@ -1,0 +1,21 @@
+@summary
+log in to a blogger account.
+
+@summary
+add image to post.
+
+@summary
+click on the image.
+
+@summary
+enter the title text.
+@article
+ Now select your blog and make a new post.;
+, You add from you computer or by giving the url of an image already available on the internet. Click on the image icon and add your image.
+ Then click on Properties.
+ Then add alt text and click OK.
+
+
+
+
+

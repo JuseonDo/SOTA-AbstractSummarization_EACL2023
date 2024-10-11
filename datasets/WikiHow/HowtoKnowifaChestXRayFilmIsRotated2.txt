@@ -1,0 +1,5 @@
+@summary
+determine whether the ribs are visible posteriorly.
+@article
+ If so, the film is rotated. If not, the film is straight. Only the vertebrae should be visible on the lateral view.
+

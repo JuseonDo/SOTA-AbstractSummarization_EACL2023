@@ -1,0 +1,29 @@
+@summary
+click the ⋮ menu.chrome contains built-in features to block pop-ups.
+
+@summary
+select “settings”.
+
+@summary
+,
+
+@summary
+select “site settings”.
+
+@summary
+click “pop-ups”.
+
+@summary
+tap the slider to the on position.
+@article
+ Sometimes a pop-up or two will get beyond the blocker, but for the most part this function will keep you pretty safe.
+,
+
+
+This option is called “Content Settings” in iOS.
+
+
+
+This option is called “Block Pop-ups” in iOS.
+ This option should be turned on by default, but it may have inadvertently been disabled. Turning it off now should protect you from pop-ups in the future.
+

@@ -1,0 +1,41 @@
+@summary
+assign script writers to scenes.
+
+@summary
+start with a blank video that is uploaded to one of the popcorn supported platforms.
+
+@summary
+,
+
+@summary
+decide whether you will work on script writing sequentially or in parallel.
+
+@summary
+send the blank video's link to script writers, along with their designated scenes' start and end times.
+
+@summary
+,
+
+@summary
+follow up on the script writers depending on the model of work you decided earlier.
+
+@summary
+,
+
+@summary
+merge the different scripts into one remix (if you decided to work in parallel) or take the final remix (if you chose to work sequentially), and post to the project team.
+
+@summary
+,
+
+@summary
+make a document-format of the script if possible.
+@article
+ This could have been done during concept development.
+, This is necessary if you have more than one script writer.
+
+
+Working sequentially has the merit of using only one remix for the final prototype. In this method, the first script writer starts (this does not necessarily be the one assigned the first section of the video). After they finish, the next script writer remixes their remix, reserving all their work on the new remix. This goes one until the last writer is done. This last remix will contain the approved work of everyone before along with the final work. This means it is actually the scripting final product.
+Working in parallel save time if the script is long. Every writer starts with the blank video and adds their assigned script. This way, if one is finished before the others, the scripts might be reviewed by the team, modified and approved and the writer starts working on something else. However, at the end, someone will have to take all the different remix and merge them in one final remix. This task can be tedious if the video is long.
+,,, This will include the actors, the line they will be speaking, and when in the video they will say it. It's a scenario!
+

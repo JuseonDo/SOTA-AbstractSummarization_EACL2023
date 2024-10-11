@@ -1,0 +1,20 @@
+@summary
+go to your house and stand by the mailbox.
+
+@summary
+stand right by this gnome and press triangle, up, left, down, right.
+
+@summary
+press x once done entering the codes.
+
+@summary
+congratulate yourself!,
+
+@summary
+come back to the gnome whenever you need more simoleons/petpoints!
+
+@article
+ Press L1, L1, R1, X, X, UP. Walk along the sidewalk until you see a decorative little gnome.;
+, Then press TRIANGLE, CIRCLE, X, SQUARE, L1, R1.
+ You will see two actions: "Give sim simoleons" or "Give sim PetPoints." Keep clicking on either one. Each time you do this, it will give you 10,000 simoleons/PetPoints.
+ You can finally buy that hot spring and that piano.

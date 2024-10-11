@@ -1,0 +1,16 @@
+@summary
+in order to start writing programs in java, set up your work environment.
+
+@summary
+any sort of notepad-like program will suffice for programming in java.
+
+@summary
+make sure that you have the java software development kit installed.
+@article
+ Many programmers use Integrated Development Environments (IDEs) such as Eclipse and Netbeans for their Java programming, but one can write a Java program and compile it without bloated IDEs.;
+, Hardcore programmers sometimes prefer to use text editors that are within the terminal such as vim and emacs. A very good text editor that can be installed on both a Windows machine and on a linux-based machine (Mac, Ubuntu, etc.) is Sublime Text, which is what we will be using in this tutorial.
+ You will need this for compiling your program.
+
+
+In a Windows-based operating system, if the environment variables are not correct, you might get an error when running javac. Refer the installation article How to Install the Java Software Development Kit for more details about JDK installation to avoid this error.
+

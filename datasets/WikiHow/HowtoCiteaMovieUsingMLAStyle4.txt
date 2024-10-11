@@ -1,0 +1,26 @@
+@summary
+begin the works cited listing with the title of the television program in quotes.
+
+@summary
+add the name of the network the program aired on followed by a period.
+
+@summary
+,
+
+@summary
+list the station's call letters, then add a comma, the city the program aired in, and a period.
+
+@summary
+add the day, month, and year of airing with no commas and followed by a period.
+
+@summary
+end the listing with the publication medium (in this case, television) followed by a period.
+
+@article
+ End the title with a period, which goes inside the quotation marks.
+
+
+If citing a made-for-television movie that was part of a series or broadcast as part of another program, list the name of the series or program in italics, followed by a period.
+If citing a major film that was later aired on television, begin the listing with all the information listed in the first section, abbreviating the original release date to just the release year.
+, If the program aired on a nationwide network, you can omit this information and list just the network name as directed above.
+ For example: 20 Oct. 2004.

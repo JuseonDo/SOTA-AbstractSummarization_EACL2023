@@ -1,0 +1,55 @@
+@summary
+mark the back of the wrench at the center of the drive of the wrench.
+
+@summary
+measure from that mark to where you would position your hand while using the tool and make a second mark (or a line).
+
+@summary
+secure the square head in a bench vise, making sure no other part of the wrench touches the vise.
+
+@summary
+align the torque value to the setting of the distance you got in step 2 x 20 pounds (9.07 kilograms).
+
+@summary
+,
+
+@summary
+dangle a 20 pound (9.07 kilogram) weight from marks you drew in steps 1 and 2.
+
+@summary
+,
+
+@summary
+if a click from the tool is heard, lift the weight and slowly move it toward the wrench head until the clicking stops.
+
+@summary
+measure the distance between the square head and the click mark you just made.
+
+@summary
+use the formula ta=ts x(d1/d2).
+
+@summary
+check your math several times and adjust your wrench accordingly.
+
+@summary
+,
+
+@summary
+note that the distance that matters is the distance from the center of the drive head to the place you hang the weight.
+@article
+;
+, Determine the distance between the two marks.
+ Move the handle to a horizontal position.
+,, Make a tentative mark and repeat the step to make sure the spot is correct.
+
+
+If there is no click at first, move the weight away from the head of the wrench until you hear a click. Make a tentative mark and repeat to make sure the spot is correct.
+You can make your mark more definitive after two or more checks land in the same spot.
+ This is the other number you will need for your calibration equation. To find the true amount of torque, multiply the distance by 20 pounds (9.07 kilograms).
+ Plug your numbers into this equation, remembering that Ta is torque applied, Ts is your torque setting, D1 stands for the distance you found in step 2 and D2 stands for the last distance you found.
+, It has nothing to do with where you usually put your hand. It is foot pounds. The feet refers to the moment arm. In this case, the moment arm is the distance from the center of the drive head to the place you hang the weight.
+
+
+So, if you hang the weight 1 foot (0.3 m) from the drive head center line and hang a 20# weight you are applying 20 pounds x 1 foot (0.3 m) to the drive head or 20 foot (6.1 m) pounds.
+If you hang the weight 6" from the center line of the head, you would have 10 foot (3.0 m) pounds ( 20 pounds x 0.5 feet (0.2 m) = 10 foot (3.0 m) pounds. The wrench handle should be parallel to the floor when you do this but for more exact measurements, account for the extra weight of the pivoting wrench handle itself, measured from the hang point. This would typically be ~1 lb for inch pound size wrenches and ~ 2 lbs for foot lb size wrenches if you don't have a weigh scale.
+

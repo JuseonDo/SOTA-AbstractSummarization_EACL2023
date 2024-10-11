@@ -1,0 +1,32 @@
+@summary
+save your files to a location on your computer that you can easily find.
+
+@summary
+open your internet browser.
+
+@summary
+find and click the “upload” button on your home screen.
+
+@summary
+click the “choose files” button.
+
+@summary
+click the “open” button to begin uploading.
+
+@summary
+look for the additional options section on the right hand side of the page if you are unable to run flash.
+
+@summary
+select your photos through your albums.
+@article
+ It is best if your computer can run Flash, in order to upload multiple photos at once.;
+, Go to Shutterfly.com. Click the link on the right that says, “Sign in.”
+
+
+You will need to click the “Sign Up” button if you don’t have an existing account. Confirm your account email.
+ An upload window will pop up. You may need to turn off your pop-up blocker to access this window.
+ Use the browser to find your photos. Hold down the Command or Shift button to select multiple files.
+ Add them to an existing album or create a new album at the bottom of the upload box. It will default to the existing date if you don’t name it.
+ Choose the “one-by-one uploader” link.You will need to select and open the files one at a time.
+ You can create your own sharing site to share them with friends.
+

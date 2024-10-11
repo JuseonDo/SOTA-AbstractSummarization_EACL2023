@@ -1,0 +1,16 @@
+@summary
+promote from freeman to yeoman.
+
+@summary
+make a lord's kitchen.
+
+@summary
+make at least 1 pig farm.
+@article
+ You need 10 Honors to do this.
+ To do this, you need 10 stone units.
+ Each pig farm costs 20 wood units.
+
+
+A list of other food supplying farms you will unlock:
+

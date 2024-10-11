@@ -1,0 +1,16 @@
+@summary
+open the iphone or ipad settings.
+
+@summary
+scroll down and tap itunes & app store.
+
+@summary
+slide the updates button to the off position.
+@article
+ It is an app with an icon that looks like a set of grey cogs located on the home screen.
+
+
+The Settings icon might be in the "Utilities" folder instead of the desktop.;
+, It is in the fourth group of options.
+ The slider will turn white. Automatic updates for WhatsApp is now disabled. iOS won’t update the app unless you choose to update it manually.
+

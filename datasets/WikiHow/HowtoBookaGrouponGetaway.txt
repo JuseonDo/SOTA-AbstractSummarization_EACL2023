@@ -1,0 +1,17 @@
+@summary
+visit the groupon site and then click on "getaways" at the top.
+
+@summary
+look through the getaways and select "view this deal" next one you like.
+
+@summary
+click the green "buy!",
+
+@summary
+check the details of the deal on the next page.
+@article
+;
+, You can also change the city at the top of the page in the green bar by clicking on it.
+ button if you're sure you want the deal. This page will have info on the cost of the deal, and how long it will last for.
+ Fill out your personal and billing info, and then click "Complete Order" on the blue button at the bottom of the page to book the getaway.
+

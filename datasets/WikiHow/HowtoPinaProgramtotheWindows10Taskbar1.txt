@@ -1,0 +1,13 @@
+@summary
+select the program or app to pin.
+
+@summary
+drag the program or app towards the taskbar.
+
+@summary
+release to drop the program or app to the taskbar.
+@article
+ Click and hold the desktop shortcut of the desired program or app.;
+, After a moment, you should see the “Pin to Taskbar” option.
+ The program’s icon will appear in the Taskbar and is now pinned there for easy access.
+

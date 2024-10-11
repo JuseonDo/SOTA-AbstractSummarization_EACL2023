@@ -1,0 +1,50 @@
+@summary
+open photoshop elements and create a new image.
+
+@summary
+using the paint bucket tool, fill the background with any color besides white.
+
+@summary
+select a hard brush set at size 30 with the opacity set to 100%.
+
+@summary
+select image, rotate, 90° right from the toolbar above the program.
+
+@summary
+,
+
+@summary
+click "filter", "stylize", and then select "wind".
+
+@summary
+select "image", "rotate", and "90° left".
+
+@summary
+create a new layer and choose three colors of your choice.
+
+@summary
+go to "filter" and select gaussian blur.
+
+@summary
+on the same layer, change the blending mode to "overlay".
+
+@summary
+select your smudge tool and set it to size 81px and a strength of 65.
+
+@summary
+choose a soft brush set to the color of the bottom of the flames and an opacity of 10%.
+
+@summary
+done.
+
+@article
+;
+, Alternatively, you could use a transparent background so you can have a .png to use in a different image.
+ Create a thin and sloppy line across the bottom of the image.
+, The method is "wind" and the direction should be from the left. Repeat this step until you achieve the above result.
+ This will allow you to view the image normally and the flames will be on the bottom.
+ Using a brush set at size 90 px and an opacity of 100%, mimic the brush strokes shown in the image above.
+ The radius should be set to 8. If you feel that the colors aren't "flowing" too well, you can repeat the gaussian blur effect (control-F on Windows and command-F on Mac).
+ Not all of the colors will be displayed yet.
+ These settings can be played with to achieve different effects. Making sure you are on the original layer (the one with the wind effect), begin using the smudge tool from the bottom up. Don't make the flames all in one direction however, make them random as a real flame appears.
+ Go over the bottom parts of the flames that are white.

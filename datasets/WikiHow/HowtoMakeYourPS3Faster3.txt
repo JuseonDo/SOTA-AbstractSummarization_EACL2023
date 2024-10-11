@@ -1,0 +1,28 @@
+@summary
+dust and clean your ps3 regularly to maintain its performance and prevent slowness.
+
+@summary
+delete the “predictive text dictionary” data in your ps3.
+
+@summary
+delete the cookies and cache from your internet browser.
+
+@summary
+disable the “display what’s new” feature.
+
+@summary
+perform a hard reset on your ps3.
+@article
+ Dust buildup causes your system to lag and run more slowly.
+ This deletes data that was saved when entering Internet search terms.
+
+
+Navigate to Settings > System Settings > Predictive Text Dictionary.
+ This frees up extra memory on your PS3 console.Navigate to Network > Internet Browser, then press the triangle button on your controller.
+Navigate to Options > Tools > Delete Cookies or Delete Cache.
+Select “Yes” to confirm you want cookies and cache deleted.
+ This prevents the Internet from downloading the latest information for this feature when logging in.Navigate to Settings > System Settings > Display What’s New.
+ A hard reset formats your system and restores the PS3 to its original factory settings.Manually power off your PS3 using the switch at the back of the console.
+Press and hold the power button in front, then release when you hear three beeps.
+Follow the on-screen instructions to set up your PS3 like new.
+

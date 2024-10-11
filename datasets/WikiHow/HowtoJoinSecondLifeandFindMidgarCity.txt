@@ -1,0 +1,33 @@
+@summary
+go to secondlife.com;
+
+@summary
+,
+
+@summary
+go to choose in your starting look (which will be unimportant in the long run), fill in your desired information, and complete your registration.
+
+@summary
+,
+
+@summary
+once you've signed up, you will need a client to connect with.
+
+@summary
+once you have your client/viewer installed and downloaded, simply log into your account.
+
+@summary
+if you wish to leave the help/orientation island, you have to teleport yourself to your home location, which you can do by looking at the bottom of your screen and clicking on the "map" button.
+
+@summary
+once you are on the main grid, you will be able to search for other areas in second life.
+
+@summary
+click teleport.
+@article
+,, These connection-clients are also referred to as "viewers." The official viewer is Viewer 2.0. Alternatively, there are a number of third-party viewers that one can use to connect with, some of which provide more functionality than the official client.
+ You will start off at a Help or Orientation Island -- which is essentially a tutorial for newbies to help learn how to navigate and make use of the features Second Life (SL) offers. This isn't a requirement, however. Note, however, that while on this Island, you won't be able to search for other areas on the main grid (for whatever reason).
+ There will be another button on the Map display that reads "Go Home." Click it, and you should be taken to the main grid.
+ Open your Map display back up again and type in "Midgar" into your search bar and click "Search." Our sim should pop up on your map.
+ Welcome to Midgar. Please read the rules and the necessary information to get started in our community. Enjoy!
+

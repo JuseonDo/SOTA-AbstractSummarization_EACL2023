@@ -1,0 +1,46 @@
+@summary
+open wechat.
+
+@summary
+tap log in.
+
+@summary
+tap log in via sms.
+
+@summary
+enter your mobile phone number.
+
+@summary
+tap next.
+
+@summary
+enter the verification code.
+
+@summary
+tap next.
+
+@summary
+,
+
+@summary
+enter a new password.
+
+@summary
+tap done.
+@article
+ It’s a green icon with two white speech bubbles.
+
+
+Use this method if you don’t remember your WeChat password.;
+, It’s the green button at the bottom of the screen.
+
+
+If you see a login screen that displays your profile image and/or phone number instead of a Log In button, tap More, then select Switch Account.
+ It’s at the bottom of the screen, beneath the green button.
+ If the region doesn’t appear automatically, tap the country that does appear, then select the correct one from the list.
+ It’s at the top-right corner of the screen. WeChat will now send a verification code to you via a text message.
+ You’ll type it into the box that says “Code.”
+
+,, Type it into the “Password” box as well as the “Confirm Password” box. You must enter the same password into both boxes.
+ Your password has been reset and you are now logged in to WeChat.
+

@@ -1,0 +1,15 @@
+@summary
+hold down the power button.
+
+@summary
+tap power off.
+
+@summary
+,
+
+@summary
+tap on ok.
+@article
+ It’s located on the right side of the Galaxy S3.;
+,, Doing so will shut off your S3 completely.
+

@@ -1,0 +1,16 @@
+@summary
+find the tos web address first.
+
+@summary
+use the internet option on the 3ds to "search for an access point".bring up your web browser in the nintendo 3ds.
+
+@summary
+go to the link you obtained in step #1.
+
+@summary
+simply fill out the applicable fields and submit.
+@article
+
+
+If you have a laptop, try connecting that way. Write down the web address for the gatekeeper page. In most instances, this will be a page that requests your first and last names and room number and asks that you agree to the terms of service for a period of 24 hours.;
+, Select one of the hotel's access points. The connection will not work at this time since you need to agree to Terms of Service before you can connect but no matter, all you want to do at this point is have it configured on your 3DS.,, Voila, here is the TOS page on your 3DS., You will be instantly connected to the hotel's Wi-Fi.

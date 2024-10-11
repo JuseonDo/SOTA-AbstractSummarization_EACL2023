@@ -1,0 +1,15 @@
+@summary
+find another user on yelp who has created a list.
+
+@summary
+click the lists tab from just a small bit above the person's name on this other person's profile page.
+
+@summary
+,
+
+@summary
+look through the resulting page.
+@article
+ Whether that's through just random searching on a business review, or if it's remembering what the personal profile page of the user is and looking from there, you'll find someway to find a user page who has a list that may interest you.
+, The red links above the first three items in the list, are the list's titles.
+

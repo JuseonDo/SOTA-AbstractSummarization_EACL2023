@@ -1,0 +1,9 @@
+@summary
+take the seat off the motorcycle.
+
+@summary
+remove the seat cover from the seat.
+@article
+;
+, Use a screwdriver to pull out the staples. You don't have to detach the front 4 inches (10 cm) or so of the seat cover.
+

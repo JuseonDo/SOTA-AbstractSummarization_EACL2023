@@ -1,0 +1,34 @@
+@summary
+open up pivot.
+
+@summary
+click on file > create figure type to start making a new figure.
+
+@summary
+,
+
+@summary
+familiarize yourself with the design screen.
+
+@summary
+save your figure into your pivot stickman folder.
+
+@summary
+,
+
+@summary
+click on file > load figure type.
+@article
+;
+,, The names of the functions are as follows:
+
+
+Pivot Add Line - this adds a line segment to your drawing.
+Add Circle - this adds a circle segment to your drawing.
+Toggle icon - this allows you to toggle between adding lines and circles.
+Change Segment Thickness - change the thickness of the particular segment you are working on; e.g. a torso might be thicker
+Duplicate Segment - this enables you to duplicate whichever segment is active.
+Static/Dynamic Segment - choose whether the segment you are working on will be static (not move), or dynamic (will be able to move).
+Delete Segment - use this to get rid of any segment that you want to.
+, Then navigate to the folder where your alternate stick figures are kept.
+

@@ -1,0 +1,25 @@
+@summary
+locate a power armor suit.
+
+@summary
+locate a fusion core.
+
+@summary
+apply the fusion core to the power armor suit.
+
+@summary
+enter the suit.
+
+@summary
+use the power armor hud in place of your pip-boy.
+
+@summary
+press and hold a/x to exit the power armor.
+@article
+ For most players, you'll end up stumbling into your own suit in Concord.;
+, Power armor in Fallout 4 runs entirely on fusion energy. Without a Fusion Core, they're pretty much useless.
+ This will power it up.
+ Simply press A/X a second time after inserting the Fusion Core to climb in.
+ Switch out weapons, armor, and heal if necessary.
+ Leave it in a safe place when you are finished with it.
+

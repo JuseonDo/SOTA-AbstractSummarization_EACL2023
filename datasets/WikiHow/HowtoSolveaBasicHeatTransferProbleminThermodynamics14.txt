@@ -1,0 +1,5 @@
+@summary
+the law of specific heats allows for a simplification in the difference of the internal energies at two temperatures.applying this to equation 22 we get
+
+@article
+ The use of a specific heat constant, cv, allows for the simplification of the difference of the internal energies at two states to just the temperatures at these states. This law applies to only ideal gases, and can be used due to our assumption of ideal gas. The relationship is seen below in equation 23.

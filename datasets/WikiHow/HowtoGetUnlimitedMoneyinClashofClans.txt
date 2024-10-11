@@ -1,0 +1,19 @@
+@summary
+go to settings and go on wi-fi and click the blue 'i' button on your internet.
+
+@summary
+click dns.
+
+@summary
+put in this code: 151.80.175.199.
+
+@summary
+,
+
+@summary
+go on clash of clans.
+@article
+;
+, Erase it (it will come back when you don't want to play on the server anymore).
+, As soon as you enter, it will say downloading content. When it is done, a blue and red skull logo will come and then it will say: DARK$OULS Server - you get to choose what loot amounts you want.
+

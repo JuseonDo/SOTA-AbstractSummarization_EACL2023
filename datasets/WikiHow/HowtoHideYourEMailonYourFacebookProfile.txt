@@ -1,0 +1,41 @@
+@summary
+visit https://www.facebook.com and log in to your account.
+
+@summary
+go to your profile page.
+
+@summary
+click the "edit profile" button in the upper-right corner, underneath your name.
+
+@summary
+,
+
+@summary
+navigate to the link bar along the left side of the edit page and click on the "contact information" tab.
+
+@summary
+,
+
+@summary
+at the top of the contact information editing screen, there is a list of email addresses associated with your account.
+@article
+;
+, You can do this by typing in the URL of your page or by clicking the links that say your name in either the upper right or upper left corners of the home page.
+,, To select privacy setting for one of them, click on the button to the right of the email addresses that looks like a silhouette of people.
+
+
+From this drop-down menu, you may select the people who are allowed to see your email address. To hide it from everyone, select "Only me."
+
+
+
+
+
+
+A dialog box will appear to confirm your change. Make sure that "Only me" is selected if you want to fully hide your email address.
+
+
+
+
+
+
+

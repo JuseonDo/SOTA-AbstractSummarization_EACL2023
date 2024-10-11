@@ -1,0 +1,30 @@
+@summary
+understand what resetting firefox will accomplish.
+
+@summary
+open firefox.
+
+@summary
+,
+
+@summary
+click the firefox menu button.
+
+@summary
+click on troubleshooting information.
+
+@summary
+,
+
+@summary
+press the reset firefox... button located at the top right of the page.
+
+@summary
+,
+
+@summary
+confirm that you want to reset your browser settings.
+@article
+ Firefox does not remove windows and tabs, browsing history and bookmarks, saved passwords, saved form history, or cookies. If you would like to remove those things, it will have to be done separately.,, This is located in the upper-right corner of the window. Press the ? symbol at the bottom of the drop-down menu to go to the Help page.
+,, Then click Reset Firefox.
+

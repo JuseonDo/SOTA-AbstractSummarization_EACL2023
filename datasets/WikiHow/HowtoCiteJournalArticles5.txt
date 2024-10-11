@@ -1,0 +1,5 @@
+@summary
+make it look like this.
+@article
+ In practice, the APA reference list should look like this:
+

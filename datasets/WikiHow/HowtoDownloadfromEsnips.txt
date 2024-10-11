@@ -1,0 +1,22 @@
+@summary
+go to the esnips website.
+
+@summary
+click on the file you wish to download from the content list.
+
+@summary
+download the esnips downloader.
+
+@summary
+open the esnips downloader installation menu.
+
+@summary
+click "download file" again in internet explorer, this time with the esnips downloader open.
+@article
+;
+, On the file's page, click on the "Download File" button. This will bring up a prompt to download the the eSnips Downloader.
+ The downloader is a stand-alone application that manages all of the files you download from eSnips. It is mandatory to get the eSnips Downloader in order to download files from the site.
+ Select which features you would like added to your computer in the "Advanced" menu, such as adding the eSnips toolbar and making Bing.com your homepage. Click "Install."
+
+, The file will appear in the "My eSnips Downloads" folder when it is finished.
+

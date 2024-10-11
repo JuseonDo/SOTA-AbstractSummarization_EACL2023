@@ -1,0 +1,22 @@
+@summary
+go to the 'add accounts' in tweetdeck.
+
+@summary
+click on 'advanced options'.
+
+@summary
+paste the necessary api into the 'twitter base url' box.
+
+@summary
+put in the username and password.
+@article
+;
+, This will give you the dialog box to add the custom API.
+ They are as follows:
+
+
+Tumblr: http://tumblr.com/
+
+
+, Where it says 'Twitter Username' and 'Twitter Password', put in the appropriate information for the site.
+

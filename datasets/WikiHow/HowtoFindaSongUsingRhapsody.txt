@@ -1,0 +1,17 @@
+@summary
+go to www.rhapsody.com.
+
+@summary
+search your song or cd name.
+
+@summary
+click the song or cd name.
+
+@summary
+a new window will appear.
+@article
+;
+, Go online to the website and search a song or the CD’s name in the search bar.
+ When the picture of the CD shows up, click on it. And now listen to your music.
+ Wait for the video to buffer and press play. Listen to the or CD.
+

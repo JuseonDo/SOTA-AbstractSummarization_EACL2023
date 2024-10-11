@@ -1,0 +1,32 @@
+@summary
+fill the line.
+
+@summary
+check for leaks.
+
+@summary
+test the connections.
+
+@summary
+adjust the height.
+
+@summary
+attach the mounting screws.
+
+@summary
+turn on the power.
+@article
+ Fill the water line by opening the hot water valve.
+ Carefully check if there are any leaks.
+ If any leaks occur, recheck all the connections and test again.
+ Adjust front legs of the dishwasher down and position it properly on a level.
+ Drive the small mounting screws into the underside of the countertop through the flange in order to attach the dishwasher to the countertop.
+ Turn on the power and your dishwasher is ready to work.
+
+
+
+
+
+
+
+

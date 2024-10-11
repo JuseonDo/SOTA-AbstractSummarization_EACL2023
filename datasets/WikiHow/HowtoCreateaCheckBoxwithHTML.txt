@@ -1,0 +1,48 @@
+@summary
+open up your favorite html or text editor.
+
+@summary
+enter the following html code into your editor.
+
+@summary
+in between the quotations, enter the name or value of the check box.
+
+@article
+ Some great ones are:
+
+
+Dreamweaver
+Aptana
+Microsoft Expression Web
+The HTML Editor (CoffeeCup);
+,
+
+<form>
+
+
+
+
+
+
+<input type="checkbox" name="enter name here" value="enter value here">CONTENT
+
+
+
+
+
+<input type="checkbox" name="enter name here" value="enter value here">CONTENT
+
+
+
+
+
+
+</form>
+
+
+
+
+
+
+
+,

@@ -1,0 +1,23 @@
+@summary
+go to the tools menu by clicking on "tools" on the top bar of the firefox browser.
+
+@summary
+,
+
+@summary
+select "options.",
+
+@summary
+go to the main settings tab and look for the section labeled "downloads.",
+
+@summary
+hit the ok button to confirm your new settings.
+
+@article
+,
+
+, At this stage, you can change the download folder using 1 of the following methods.
+
+
+Use the Browse button and go to the folder where you want the downloads to be saved. This will assign your default folder for all downloads in future.
+Put a dot next to "Always ask me where to save files." If you select this option, you will always be asked where you want a download to be saved before the Downloads window pops up showing you the progress of the download.

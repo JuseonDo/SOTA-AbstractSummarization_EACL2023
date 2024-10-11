@@ -1,0 +1,37 @@
+@summary
+since a cellular automaton produces visual phenomena, you will need to use a programming language in which you know how to render graphics to the screen.
+
+@summary
+assuming that you have a programming language in which you know how to create simple graphics, the first task is to understand what a cellular automaton looks like and how it evolves over time.
+
+@summary
+that's basically all the game of life is - just a 2d grid of cells.
+
+@summary
+to draw this grid to the screen, you need a double-nested loop which reads each cell, calculating each position depending on its place in the grid.you will then need a loop which constantly reads the cells and generates the next generation from them using the game of life's rules.
+
+@summary
+the rules of the game of life are as follows:
+
+@summary
+if a cell (whether on or off) has exactly 2 or 3 on cells in the 8 cells surrounding it, then that cell becomes (or remains) on.after the new generation has been created, it should replace the old one and become the current generation.
+
+@summary
+now the process repeats: clear the screen, redraw the grid, calculate the next generation as described above.
+
+@summary
+that's it!,
+
+@summary
+once you've got it working and have had fun watching it, you might want to try making your own rules.
+@article
+ It doesn't have to be anything fancy - just blobs will do for the Game of Life. It may also be possible to render the Game of Life as text characters on a terminal.
+
+
+The Game of Life is a two-dimensional grid of cells, each of which can either be ON or OFF.
+Every timestep (normally called a 'generation'), every cell in the grid is checked, and it is turned ON or OFF depending on the rules of the CA. The rules of the Game of Life will be explained later.
+This yields a new configuration of the CA. The process then repeats, such that the configuration of the CA keeps changing after every timestep. The result is surprisingly complex, and the shifting patterns of cells are often compared to the behaviour of single-celled organisms.
+ The easiest way to model this is as a two-dimensional array. You can use any datatype you want, although since the Game of Life's cells have only two states, you only need a boolean datatype (ie. TRUE for ON, FALSE for OFF)., For example, if you have 100x100 cells, and you want the grid on screen to stretch from screen coordinates (0,0) to (600, 600), then the cell at index should be placed at position (x*6, y*6). You can represent the cells however you like: for example, filled blue blobs for ON cells, white blobs for OFF cells.,,
+If an ON cell has fewer than 2 cells surrounding it as described above, it becomes OFF.
+If an ON cell has more than 3 cells surrounding it, it becomes OFF.
+,, However, you won't see anything unless you provide an initial generation of ON cells for it to work from, since OFF cells don't do anything by themselves in the Game of Life. A suggestion for that is made below., For example, how about 'all cells with one ON cell next to them become ON'?

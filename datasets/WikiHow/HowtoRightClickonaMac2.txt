@@ -1,0 +1,22 @@
+@summary
+enable 2-finger clicking.
+
+@summary
+,
+
+@summary
+open your trackpad preferences.
+
+@summary
+click on the point & click tab.
+
+@summary
+test it out.
+
+@summary
+this method works with all trackpad surfaces.
+
+@article
+, Under the Apple menu, click System Preferences, then click Trackpad.
+ In that window, enable the Secondary click checkbox, and from the menu, select Click or tap with two fingers. You will see a short video example of the proper way to click.
+ Go to the Finder, and as shown in the video, place 2 fingers on the trackpad. A contextual menu should appear.

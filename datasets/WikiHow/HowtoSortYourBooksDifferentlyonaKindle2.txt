@@ -1,0 +1,34 @@
+@summary
+turn on your device.
+
+@summary
+recognize not only the sorting method you are currently using, but also other sort methods available on your device.
+
+@summary
+make sure you are on the home screen.
+
+@summary
+press the up arrow key once from the 5-way controller on your device.
+
+@summary
+press the right arrow key from the 5-way controller once.
+
+@summary
+press the right arrow key to move the selection to your new method/choice.
+
+@summary
+,
+
+@summary
+press the enter key from the center of the 5-way controller.
+
+@article
+;
+, The Kindle 2 will initially sort your books on your Home screen by "Most Recent First", but there are also methods to sort by Title, Author, and even by Collection.
+
+
+Within the Collections option, it will also sort the remainder of the books that aren't entered into a collection, by Most Recent First.
+ If you are in a book, press the Home button near the bottom of the device.
+ You'll see the selection change from the top most item on your device to the line reading "Showing all (x) items" and "By Most Recent First".
+ This will then implement a new menu in place of the last one temporarily.
+,

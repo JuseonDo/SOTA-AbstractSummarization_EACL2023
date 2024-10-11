@@ -1,0 +1,19 @@
+@summary
+check out the mods online on youtube.
+
+@summary
+choose the mod(s) you like and install them.
+
+@summary
+load your mod(s) into your minecraft.
+
+@summary
+,
+
+@summary
+learn to use your mod(s) to give yourself some additional fun!
+@article
+ Many Minecraft YouTubers provide mod reviews. For example: The Minecraft comes alive mod; it makes villagers act like other players.
+ Most mods requires Forge.
+, You can always change the mods in your game to make sure it won't be boring. Also install more mods for more fun.
+

@@ -1,0 +1,48 @@
+@summary
+log into your gmail account.
+
+@summary
+click on the cog icon and then select settings.
+
+@summary
+,
+
+@summary
+scroll down in the general settings menu, until you hit vacation responder.
+
+@summary
+,
+
+@summary
+select the radio button next to vacation responder on.
+
+@summary
+,
+
+@summary
+enter the time details.
+
+@summary
+write a subject and message.
+
+@summary
+decide if it should go to everyone or just your contacts list.
+
+@summary
+click save changes at the bottom of the menu.
+@article
+;
+,,,, You need to set a First day (even if it's today's date, for an immediate start), but the Last day is optional.
+
+
+If you want to keep the responder on indefinitely, don't check the box next to Last day and leave that field blank; then you can just come back and turn off the auto-responder at any time.
+ You'll probably want this include some basic information for anyone emailing you, including:
+
+
+how long you'll be offline/away from email
+when you can be expected to respond to them
+to whom they should write if they have an urgent situation
+
+, If you want to send it only to your contacts, check the box saying so.
+ Then try to stay away from checking your email while you're on vacation!
+

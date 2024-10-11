@@ -1,0 +1,13 @@
+@summary
+open your iphone's settings.
+
+@summary
+select do not disturb.
+
+@summary
+slide the repeated calls button right to the "on" position.
+@article
+ Do so by tapping the grey gear icon on one of your Home screens (it might also be in a folder named "Utilities").;
+, It's in the second group of options.
+ It should turn green. Now any subsequent call from a recipient that falls within three minutes of their first call will come through.
+

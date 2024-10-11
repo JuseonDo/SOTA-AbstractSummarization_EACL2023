@@ -1,0 +1,13 @@
+@summary
+as you progress in the game, you will start to notice 'goals' appearing on the left side of your game screen.
+
+@summary
+to view a goal, click a goal's icon on the left hand side of your game screen.
+
+@summary
+follow the instructions.
+@article
+ These are tasks you must complete in order to unlock special items and help your town progress.
+ A small instruction window will open telling you what you are required to do.
+ Completing the task will give you rewards such as unlocking items, experience stars (XP), city coins or cash, energy or items.
+

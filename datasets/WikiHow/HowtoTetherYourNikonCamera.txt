@@ -1,0 +1,38 @@
+@summary
+get the wia automation layer.
+
+@summary
+download the script.
+
+@summary
+empty your memory card.
+
+@summary
+,
+
+@summary
+plug your camera in using your usb.
+
+@summary
+run the 'camera control' by double clicking on it
+
+@summary
+,
+
+@summary
+open the image viewer that you wish to use.
+
+@summary
+,
+
+@summary
+'tell it' to look wherever you put the script.
+
+@summary
+experiment with all of the options.
+
+@article
+ It is a free download from Microsoft. You will already have the Windows Image Acquisition part of it.;
+, It comes in an *.msi package so it is a seamless install.
+, Make sure USB in your menu is set to PTP. To do this, go into your menu on your Nikon, go to the 'wrench', and find the reference to USB. From there, make sure that it is on PTP. If the automatic download starts up, cancel it.
+,, You can now start shooting. Anything you shoot will turn into a file into your selected folder within a second of you completing the exposure.

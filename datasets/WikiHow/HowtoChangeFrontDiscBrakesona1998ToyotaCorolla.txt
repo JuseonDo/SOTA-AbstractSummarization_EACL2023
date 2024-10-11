@@ -1,0 +1,81 @@
+@summary
+gather all the tools listed in "things you'll need" section;
+
+@summary
+,
+
+@summary
+keep the car on the ground for now.
+
+@summary
+using the 3 ton or higher floor jack, jack up the car so the jack stand can fit under.
+
+@summary
+place the jack stands under the car and lower the car onto the jack stands.
+
+@summary
+using the socket ended crossbar or the socket set, take off the lug nuts and the wheel.
+
+@summary
+,
+
+@summary
+be careful not to let the brake caliper fall off its mount.
+
+@summary
+remove the brake pads and the brake pad clips from the caliper mounting bracket.
+
+@summary
+,
+
+@summary
+remove the caliper mounting bracket bolts using the socket set.
+
+@summary
+remove the rotor from the wheel studs.
+
+@summary
+replace old rotor with new rotor.
+
+@summary
+replace the old brake pad clips, located on the caliper mounting bracket, with new ones.
+
+@summary
+put the caliper mounting bracket back on the car.
+
+@summary
+with the brake pad clips installed, insert the new brake pads into the specific location which the old ones were removed from.
+
+@summary
+put the caliper back on the caliper mounting bracket using the socket set and the caliper bolts.
+
+@summary
+replace the wheel and put the lug nuts on the studs to hand tight.
+
+@summary
+,
+
+@summary
+torque the lug nuts to the dealer specified torque spec using the torque wrench.
+
+@summary
+jack up the car enough to remove the jack stands out from under the car.
+@article
+, Using the socket ended crossbar, loosen the lug nuts on the left or right front tire (the side you start on does not mater). Put a block of wood behind the opposite side tire to make sure the car does not move when jacking or working.
+ When jacking up your car, make sure to use the dealer specified jacking points first; if you feel the dealer specified jacking points are not safe simply use the pinch weld, as close as you feel is safe to the dealer jacking points
+
+, Make sure the jack stands and car do not move.
+, Remove the caliper mounting bolts using the socket set. After the bolts have been removed, tie the caliper to the coil spring making sure the hydraulic line stays attached to the caliper. Take notice of where the bolts are removed from.
+, Take notice of which holes the bolts come out of.
+ The rotor may be difficult to get off due to rust and/or friction, but the rotor simply pulls off
+
+, Most professional mechanics prefer to clean the braking surface with brake clean fluid before installation. This is not mandatory step but it is preferable to remove manufacturing compounds that may be left over., Rotors, brake pads, and brake pad clips should all be replaced together as a set, as they affect how the rotors and pads wear while in operation.
+ Remember to put the bolts and mount back in the original position they were removed from. There is no torque spec for this component but it should not move at all. Tighten until the component is stable on the car.
+
+
+
+A second person will be needed for the step. Untie the caliper from the coil spring and set aside the wire. It will not be needed further for the current side. Using the C-clamp, compress the piston all the way down.
+ There is no torque spec for this step but the caliper should be secured to the mounting bracket.
+, Torque specs can be found in your vehicle owner's manual.
+ Lower the car back down to the ground.
+

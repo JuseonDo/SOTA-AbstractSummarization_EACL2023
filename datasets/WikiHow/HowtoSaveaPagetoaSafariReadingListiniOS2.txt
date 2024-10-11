@@ -1,0 +1,16 @@
+@summary
+go the webpage you want to add.
+
+@summary
+click the action icon.
+
+@summary
+select "add to reading list.",
+
+@summary
+go to your reading list.
+@article
+ In Safari, navigate to the page that you wish to save to your reading list.
+ This looks like a square with an arrow pointing up and it can be found in the upper right-hand corner of your Safari window.
+ From the dropdown menu that appears, select "Add to Reading List.", To go to your reading list on your computer, select the Sidebar icon in the upper left-hand corner of your Safari window. Once the sidebar window appears, select the glasses icon to view your Reading list.
+

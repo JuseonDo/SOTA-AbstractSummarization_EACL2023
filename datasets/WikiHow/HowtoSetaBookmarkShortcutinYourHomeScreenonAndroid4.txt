@@ -1,0 +1,18 @@
+@summary
+launch your mozilla firefox app.
+
+@summary
+go to the site you want to save on your home screen.
+
+@summary
+tap and hold the address bar.
+
+@summary
+choose "add to home screen."
+@article
+ Just tap on the Firefox icon on your home screen or app drawer.
+ Enter the name of the website and press "Enter."
+
+, Some options will appear.
+ Done! A shortcut to the website will be added to your home screen.
+

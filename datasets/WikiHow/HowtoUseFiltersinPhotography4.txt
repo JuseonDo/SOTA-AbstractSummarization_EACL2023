@@ -1,0 +1,17 @@
+@summary
+utilize a neutral density (nd) filter to decrease the light that goes to the light sensor when taking pictures with a slow shutter speed.
+
+@summary
+employ a graduated nd filter to create gradual effects, such as a darkened sky and a bright foreground, when shooting photos with a slow shutter speed.
+
+@summary
+place a macro filter on your lens for close up shots.
+@article
+ Sometimes, a slow shutter speed allows in too much light, which may create photos that are literally whited out.
+
+
+The shutter speed is how long the shutter, or doors, to your film or electronic sensor are opened. The longer the shutter is open, the more light the film or electronic sensor is exposed to.
+ND filters act like sunglasses that diminish the amount of light that gets to your eyes, so that your film or electronic sensor does not become over exposed.
+ Graduated ND lens filters are expensive, and if you are on a budget, you may decide to stick with a regular ND filter.
+ These filters are actually like putting an additional lens on your camera. A macro filter may distort the image, causing a reduction in image quality.
+

@@ -1,0 +1,5 @@
+@summary
+go to command prompt in your computer and type md\\.\\c:\\con tada!
+@article
+ The folder has been created. Remember, you must use the command prompt to delete it as well, by typing rd\\.\\c:\con.
+

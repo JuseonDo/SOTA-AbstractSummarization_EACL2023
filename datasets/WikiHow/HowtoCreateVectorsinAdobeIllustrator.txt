@@ -1,0 +1,54 @@
+@summary
+there are many ways to create vector graphics through illustrator, one way is to start with the type tool.
+
+@summary
+the next step is to select your text, right-click and click on create outlines to outline your text.
+
+@summary
+here is now a sampled text vectorized or outlined.
+
+@summary
+,
+
+@summary
+next is to create different vector shapes.
+
+@summary
+then starting with the rectangle tool create a square.
+
+@summary
+next is to create a rounded square using the rounded rectangle tool.
+
+@summary
+create a circle for the third shape using the ellipse tool.
+
+@summary
+then the fourth shape is a hexagon using the polygon tool.
+
+@summary
+and then for the fifth shape make a star using the star tool.
+
+@summary
+lastly, another way to create a vector is to use the pen tool.
+
+@summary
+here is thus your vectored text and 6 vector shapes made through three applications on how to create vectors.
+
+@summary
+sample final artwork.
+
+@article
+
+
+
+1Click on the Type Tool and type a word, such as “Vectors” like the accompanied illustration or even your name would do.
+2Choose also five colors you would like to use for this tutorial. If you want to follow the colors used, here are also the details on the color settings. Dark Blue: C=100, M=97, Y=0, K=45 ; Dark Red: C=0, M=100, Y=79, K=20 ; Orange: C=0, M=53, Y=68, K=0 ; Yellow: C=0, M=0, Y=51, K=0 ; Green: C=61, M=0 ,Y=45, K=0.;
+, You can also use Shift + Ctrl + O as a shortcut on creating outlines.
+, Start by dragging first and tearing off Illustrator’s Shape Tool, so that you will be able to see all the different shape applications Illustrator can offer.
+ Click on the rectangle tool icon and then click over the Illustrator canvas. Set the settings as indicated on the accompanied illustration or you can set your own size also. Be reminded also to make the size equal on both sides.
+ With the same application as the previous step create the rounded square. However because the Rounded Rectangle Tool has round corners add then a setting for its corner radius.
+ With the same settings as a square, set a same size on the width and height of the circle.
+ For the settings of the hexagon set the size 50% smaller and then type on its sides 6 for 6 sides for a hexagon.
+ Set the size of the star 50% smaller also for its first radius and then one-third smaller for its second radius. Then type in 5 for 5 points on the star.
+ Use the Pen Tool to draw or trace shapes, in this case to complete your artwork draw a small heart.
+ You can now add in colors on the shapes and vectored text.

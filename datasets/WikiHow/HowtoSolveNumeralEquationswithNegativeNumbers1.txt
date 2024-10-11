@@ -1,0 +1,8 @@
+@summary
+memorize the rules for whether a multiplication answer is positive or negative.
+@article
+ Before getting started, you need to know the basic rules:
+
+When - and + meet, it's always -.
+When - and - meet, it's always +.
+When + and + meet, it's always +.;

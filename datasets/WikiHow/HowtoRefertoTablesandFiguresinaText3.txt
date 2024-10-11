@@ -1,0 +1,9 @@
+@summary
+introduce the table before you place it in the text.
+
+@summary
+refer to the table by its number.
+@article
+ Make sure to number tables and figures consecutively, each in its own group.
+ Such as “table 1,” without capitalizing it. For example: “The data in figure 5 provides an overview of this information.”
+

@@ -1,0 +1,11 @@
+@summary
+shoot the enemy if you see him and he is close to you.
+
+@summary
+,
+
+@summary
+pull out your rocket launcher and wait until the reticle turns red.
+@article
+, When it does wait a few more seconds and then a diamond/square shape box will appear that means you are locked on. When this happens, shoot a single rocket (as it only requires one to kill). Then, if you're unsuccessful, keep the target locked on and fire again.
+

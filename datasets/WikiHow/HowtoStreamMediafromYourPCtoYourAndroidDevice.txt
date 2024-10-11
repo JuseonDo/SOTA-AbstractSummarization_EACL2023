@@ -1,0 +1,58 @@
+@summary
+open google play store.
+
+@summary
+search for “airstream: stream pc over air.” in the results, tap the first one on the list, which is made by nityaa labs.
+
+@summary
+go to the website.
+
+@summary
+download the server installer.
+
+@summary
+install the program.
+
+@summary
+run the installed program.
+
+@summary
+keep it running.
+
+@summary
+tap the app drawer/list icon.
+
+@summary
+,
+
+@summary
+search for airstream and open it.
+
+@summary
+,
+
+@summary
+read through the introduction pages.
+
+@summary
+search for your computer’s name.
+@article
+
+
+
+Go to your app drawer/app list.
+Tap on the App menu icon in your home screen, and then look for the Google Play Store app.
+Tap it to open.;
+, Download and install by tapping the ‘Install’ button.
+ The site is linked in the Google Play Store page somewhere in the App description.
+ On the site, click the image which resembles your operating system. It will then start downloading the server installer on your computer.
+ Once the download has finished, run it on your computer. Just keep hitting ‘Next’, until the installation is complete.
+ An icon should appear at the bottom-right of your desktop on Windows. On Mac or Linux, it should appear at the top-right of your taskbar.
+ Done! Just keep it running in the background if you plan to constantly use it to stream your media.
+,, Swipe through them until you reach the main screen.
+ Your computer should appear in the list, but if it doesn’t, you can tap the ‘Refresh’ button to have your device look for it.
+
+
+Once your computer’s name appears, you can go ahead and tap it. It will take you to a menu which describes the computer’s hard drive setup.
+Now go through your drives and determine which media you want to run and simply tap on it and enjoy listening to music or watching your movies!
+

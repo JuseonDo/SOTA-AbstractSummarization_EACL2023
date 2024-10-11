@@ -1,0 +1,16 @@
+@summary
+signup for a vpn service through a trusted vpn service provider.
+
+@summary
+setup your vpn tunnel on your laptop, mobile phone or tablet.
+
+@summary
+connect to the vpn tunnel.
+
+@summary
+browse to a website that tells you your ip and see if you are actually connected, such as ifconfig.
+
+@article
+ Doing your research and reading reviews is highly recommended.;
+, If you are on a laptop, using OpenVPN is easiest and preferred. If you are on a mobile phone or tablet, try L2TP/IPSec. If your provider does not support these protocols, try PPTP.
+ Your VPN Provider may offer multiple VPN servers and countries. The closer a VPN is to you, the faster it will usually be.

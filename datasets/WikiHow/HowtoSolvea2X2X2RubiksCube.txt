@@ -1,0 +1,168 @@
+@summary
+know the notations.choose your fc.
+
+@summary
+find a face that has your fc.find a corner cube that belongs beside the cube on the u face.
+
+@summary
+turn the d face until the desired cube is under where you want it to be.
+
+@summary
+if your fc on the corner cube is on the r face: r' d' r.
+
+@summary
+if your fc on the corner cube is on the f face: f d f'.
+
+@summary
+if your fc on the corner cube is on the d face: r' d2 r d r' d' r.do these steps until the whole up face is done.
+
+@summary
+down face
+
+@summary
+look at the down face and figure out what colour the down face is.
+
+@summary
+the first step is to position all of the cubes (the bottom face is made up of 4 cubes.
+
+@summary
+swap fld and frd cubes: r' d' r f d f' r' d r d2.
+
+@summary
+swap fld and brd cubes: r' d' r f d2 f' r' d r d2.
+
+@summary
+when all the cubes are positioned, the next step is to orient them.after that, use the face that is currently at the top as the front to do one of these sequences:,
+
+@summary
+for patterns 1, 5, 6, and 7, do: r' d' r d' r' d2 r d2.
+
+@summary
+for patterns 2, 3, and 4, do: d2 r' d2 r d r' d r.continue the orientation sequences until the cube is solved.
+
+@summary
+finished.
+
+@summary
+,
+
+@summary
+use the basic 'down left up right' algorithm to get the first layer finished, then the second layer.
+
+@summary
+find a color that you like.
+
+@summary
+get two fc blocks next to each other.
+
+@summary
+,
+
+@summary
+find another fc block, and put it next to the other two by simply twisting it up, or by moving the other blocks out of the way, moving the third fc block up, and moving the first two back onto their original positions.
+
+@summary
+,
+
+@summary
+repeat this algorithm until all of the fc blocks are facing one way and on one layer.
+
+@summary
+,
+
+@summary
+now find the two fc blocks that have one pair of corner colours the same.
+
+@summary
+use the down up left right algorithm continuously until it is the right way up and the corners match one of the first two fc blocks' corners.
+
+@summary
+congrats!,
+
+@summary
+then go: down up left right, down up left right, until one of the blocks is facing the right way.
+
+@summary
+turn the top layer to your left (looking from the top, twist clockwise).
+
+@summary
+repeat the turn, and repeat the algorithm and turn twice more.
+
+@summary
+brag.
+
+@summary
+place the corners with the classic algorithm.
+
+@summary
+oll.
+
+@summary
+pll.
+
+@summary
+solve the white face.
+
+@summary
+your cube should now look like the cube shown above: the white face solved, with the red and green layers above it.
+
+@summary
+solve the yellow face.
+
+@summary
+solve a third face.
+
+@summary
+turn the cube so that the most recently completed face is facing away from you.
+
+@summary
+repeatedly do "u-turns" until the cube is solved.
+
+@article
+ A simple system of notation is used when describing Rubik's cube algorithms. You'll need to understand how this system works before beginning.
+
+There is a letter to indicate each face of the cube.
+
+F = front (the side facing you)
+L = left (the vertical face on your left-hand side)
+R = right (vertical face on your right-hand side)
+B = back (the side that faces directly away from you)
+U = top (the side that faces upward)
+D = down (the side that faces downward)
+
+
+Any of the letters, by itself, means to turn that side clockwise 90°.
+A 2 before any letter means to turn that side 180°.
+A ' before any letter means to turn that side counterclockwise 90°.
+FC means "favorite color."
+
+
+
+
+
+
+,, This will be your U face.,, Then use one of the following sequences to move it to the top.,,,,, It will be the color that is on all of the disoriented remaining cubes., You have to get those into the correct position).,,, Looking at the bottom face, identify it from one of the following patterns:,,,,,, Note: This is much easier if you can solve a 3x3x3 cube.
+
+
+
+
+
+
+;
+, This will be your Favorite Colour (FC).
+,,, Then twist the side that does not have these two down to the bottom (180 degrees), and position the correct block under the correct place.
+ Repeat with the other block.
+ Halfway. Next, turn the whole cube upside down, so the top = bottom.
+ For example, the only color not used so far is on the current top.
+ Repeat: repeat down up left right until that block is orientated the right way up.
+ Then make the top layer sides match the bottom layer sides.
+ You've done it.
+ Use the R' D' R D algorithm to place the corners into the chosen face., This can get get a bit complicated! If you have a singe yellow dot place on the bottom left, if you have a horizontal line place it at the top and if you have a diagonal line place it so that it is pointing to the top right., This is exactly like how you place the corners on the 3X3X3 rubik's cube. Use the R' F R' B2 R F' R' B2 R2 U'., This should be easy to do, but if you get stuck, use the algorithms below. Find a white piece on the top face and put it above the space on the bottom face you need it to move to. This step is finished if the white face is complete and the layer above it is also complete.
+
+
+If a white piece is on the top face, use the following algorithm: F, U', F', 2U. Once this part is complete, use one of the algorithms below based on the location of a white face.
+If a white piece is on the right side of one of the "cubelets" on the top face, use the following algorithm: R, U, R'. You might need to turn the whole cube so that the white piece is on the right side.
+If a white piece is on the left side of one of the "cubelets" on the top face, use the following algorithm: L',U', L. You might need to turn the whole cube so that the white piece is on the left side.
+If a white piece is near the bottom, you will need to move it up, then do one of the algorithms.
+ It doesn't need to look exactly like the pieces at the top., Find a yellow piece on the top with another yellow piece next to it on the layer below, as shown in the picture. Then do the algorithm: R, U, R', U, R, 2U, R'. This is by far the longest part of the process. If you cannot find the pattern shown in the picture, do the algorithm again. If after repeated attempts you still can't get the pattern, it would be best to scramble the cube and start over.
+ By now you should have solved the yellow and white faces. Do a "U-turn," turning the top layer until there is another face solved (any color is fine)., Then do the following algorithm: R', F, R', 2B, R, F', R', 2B, 2R.,

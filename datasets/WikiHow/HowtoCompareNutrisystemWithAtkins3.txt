@@ -1,0 +1,13 @@
+@summary
+compare each diet’s philosophy about carbohydrates.
+
+@summary
+decide which foods you would rather eat.
+
+@summary
+decide how much you want to cook.
+@article
+ NutriSystem does not limit the amount of carbs that you can eat. You are simply expected to eat mostly low-GI carbs. Atkins, on the other hand, restricts the quantity of carbs that you can consume.
+ Both diets will require you to change your eating habits for life, but Atkins will require you to more strictly restrict your carb intake.
+ NutriSystem provides you with prepared meals, while Atkins will require you to plan your own menus and cook your own meals.
+

@@ -1,0 +1,36 @@
+@summary
+open control panel and choose “folder options”.
+
+@summary
+go to the place where you saved the program at installation.
+
+@summary
+play it first to make sure that it is the right one.
+
+@summary
+rename the old sound to "startold.wav" then rename the new one to "start.wav" or whatever the original was called.
+
+@summary
+run the game.
+@article
+
+
+Click on the “View” tab and check “Show hidden files and folders”.
+
+
+
+ 
+
+
+Click OK. Close Control Panel.
+
+
+
+
+
+;
+, (default is C:\Program Files). Open up the folder of your game. Look for a .wav file (example: Start.wav). Open it with Sound Recorder.
+ Then, click File > Save As... and save as, for example, start2.wav. Then delete the whole sound and record something.
+ Do not move the files.
+ You should hear your new sound whenever you were hearing the old one.
+

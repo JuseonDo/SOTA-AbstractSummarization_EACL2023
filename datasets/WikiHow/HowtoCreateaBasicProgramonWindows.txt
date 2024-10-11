@@ -1,0 +1,50 @@
+@summary
+create a batch file using any command the interpreter would accept interactively (at the command prompt).
+
+@summary
+open notepad as your editor because it does not automatically add any formatting codes to the files.
+
+@summary
+type @echo, then strike to go to the next line.
+
+@summary
+,
+
+@summary
+then type echo followed by what you want it to say, such as:
+
+@summary
+echo cheese so the interpreter will display: cheese.
+
+@summary
+,
+
+@summary
+then go to the next line and type pause.
+
+@summary
+when you save it, use save file type: *.txt because it is non formatted, plain text.
+
+@summary
+,
+
+@summary
+change your the ".txt" file name from "your file name.txt" to "your file name.bat".
+
+@summary
+save it to run it.
+
+@summary
+use the "run box" in the bottom of the "start menu" of the desktop task-bar.
+@article
+ You may use conditional branching and looping within the batch file, such as: "if...", "for...", "goto..." and labels (a label is a made-up line-name used with goto... for example goto get-value, then you would have a subprogram labeled get-value).;
+, Other processors have a bunch of codes that would disrupt the batch file.
+,, You can repeat echo (put your text here) lines as much as you want. Replace (put your text here) with your desired text.
+, The bat extension lets the system know to treat the file as "executable". Replace the your file name with a meaningful filename.
+ It won't do much, but it is a start.
+ It appears somewhat differently under the various versions of Windows such as:
+
+
+XP and 2000 (and 2000+) batch files (*.bat) can be run in a special window called the "Command Prompt" accessed by finding the Run box and typing in c:\window\system32\cmd.exe (or instead of cmd.exe you may have to use command.com). Notice the "\" character is called "backslash", and the forward slash "/" will not work at all in a command line.
+Windows 7 has no run box, but has the "Run..." option instead, which is also found near the bottom of the "Start Menu". Click it to access the command prompt and type in c:\window\system32\cmd.exe (or instead of cmd.exe you may have to use command.com).
+

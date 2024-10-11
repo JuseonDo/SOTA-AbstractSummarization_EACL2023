@@ -1,0 +1,27 @@
+@summary
+listen.
+
+@summary
+if the car runs, then stand on the side of the car where the pulleys are and try to distinguish where the noise is coming from.
+
+@summary
+if the car doesn't run and you are going to be the one doing the work, then remove your front accessories enough to get to the front cover.
+
+@summary
+with the cover off, check for the free movement of all the idler pulleys and the tension itself.
+
+@summary
+while you are in there, it is smart to just get a timing belt kit and replace all the pulleys and the belt.
+
+@summary
+,
+
+@summary
+make sure that you line up all your marks and set the proper tension on the belt.
+
+@article
+ A bad tensioner will usually be accompanied by noise. This noise could be some type of squealing or rattling coming from the timing cover area. Also, when your timing belt is loose, it will cause some drivability issues usually under high load or high rpm. If your timing belt is not properly tensioned it will not keep the valves timed properly to the lower end and this will cause misfires, loss of power, bucking, and could even cause a no start condition.;
+, If you hear the noise coming from the front of the engine and it is not coming from your accessories, you may hear the belt flapping around due to the loss of tension.
+ Once done, remove the front cover and check to see how loose the belt is. There should be a little slack on the opposite side of the tensioner, but not much.
+ It will be very apparent if something is broken.
+,

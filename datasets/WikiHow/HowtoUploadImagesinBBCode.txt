@@ -1,0 +1,21 @@
+@summary
+find an image on your computer that can be embedded into your forum post.
+
+@summary
+if your image is already online, skip to step 3.
+
+@summary
+once you have uploaded your image to the internet, you will need to obtain the direct link to the image.
+
+@summary
+copy the direct link, and open your forum post.
+
+@summary
+that's all there is to it.
+@article
+ These directions work with any forum that uses BBCode formatting.;
+, Before you can place your image into your forum post, you need to upload it onto a site like TinyPic or Imgur. Both sites are very simple, and allow for uploading images from a user's computer.
+ With tinypic and imgur, this link will appear to the right-hand side of the image.
+ Most forums have a tag button that you can use, if not you can do it manually by typing --direct link to your photo here--.
+ For more tips and side notes, refer to the sections below.
+

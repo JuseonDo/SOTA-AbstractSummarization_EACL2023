@@ -1,0 +1,15 @@
+@summary
+navigate to the national highway transport safety administration's website.
+
+@summary
+check for any recalls.
+
+@summary
+subscribe to email updates on recalls on the nhtsa's email alerts page.
+
+@article
+ Go to NHTSA Recall Website and click the tab that says "Vehicles."
+
+
+Select your Model Year, Make, and Model from the drop down menus and press Enter.
+ If the vehicle has had any recalls, they will be available under the Recalls tab.

@@ -1,0 +1,55 @@
+@summary
+press and hold the sleep/wake button.
+
+@summary
+slide "slide to power off" to the right.
+
+@summary
+connect your device to a desktop computer.
+
+@summary
+open itunes.
+
+@summary
+press and hold the sleep/wake button.
+
+@summary
+press and hold the home button.
+
+@summary
+hold the two buttons simultaneously for 8-10 seconds.
+
+@summary
+release only the sleep/wake button.
+
+@summary
+continue holding down the home button or the volume down button (iphone 7/7 plus).
+
+@summary
+release the home button or the volume down button (iphone 7/7 plus).
+@article
+ It's on the top-right or upper-right side of your device.
+
+
+Hold the button until you see "slide to power off" in the upper part of the screen.;
+, Your device will shut down.
+ Use the cable that came with your device. Plug the USB end into your desktop and connect the 30-pin or Lightning end to your iPhone's charging port.
+ It's an app with a musical note icon.
+
+
+iTunes may launch automatically when you connect your device.
+ Hold the button for 3-4 seconds.
+ Do so while holding the Sleep/Wake button. It's the round button on the face of your device.
+
+
+On iPhone 7 and iPhone 7 Plus, which do not have mechanical Home buttons, press and hold the Volume Down button on the left side of the iPhone's housing.,
+
+
+Do not release the buttons when you see the Apple logo or a USB/Lightning icon on the screen.
+ Do so after 8-10 seconds.
+ Do so until you see an “iTunes has detected an iin recovery mode.” alert on your computer screen.
+ Your device should have a completely black screen and can now be restored in DFU mode with iTunes.
+
+
+If there is an Apple logo or a USB/Lightning icon on the screen, your device is not in DFU mode, and you'll need to try the steps again.
+

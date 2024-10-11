@@ -1,0 +1,16 @@
+@summary
+plug the drive in any available usb port.
+
+@summary
+wait for the drive to appear.
+
+@summary
+copy and paste or click and drag files and folders onto the drive.
+@article
+ Wait a few moments while the computer automatically sets the drive up to be accessed.
+
+
+If the flash drive has been formatted using the NTFS filesystem, then it will not be recognized in Mac OS X. The flash drive must be formatted in the FAT32 filesystem.
+ Once the drive is successfully installed, it will appear on your desktop. You can double-click it to open it and browse the files as you would any folder on your system.
+ Once the transfer process is complete, you can remove the drive from the computer.
+

@@ -1,0 +1,46 @@
+@summary
+draw an oval for the body, slightly tilted downwards, then draw a circle for the head and a rectangle for the snout's outline.
+
+@summary
+draw the outline for the pig's thighs.
+
+@summary
+draw the leg outline.
+
+@summary
+use irregular triangles for the ears and feet.
+
+@summary
+,
+
+@summary
+draw your pig's final outline.
+
+@summary
+,
+
+@summary
+draw the details.
+
+@summary
+erase all unnecessary outlines.
+
+@summary
+,
+
+@summary
+color your pig.
+
+@article
+
+
+
+
+
+
+
+;
+, Draw these using square-like shapes, wider at the top and narrower at the bottom. Note that the hind thigh is the biggest of the four.
+ The outline of the front legs are drawn with rectangles wider at the top and narrower at the bottom. The hind legs are drawn with 2 irregular squares each. Notice that they form an angle with the thigh outline.
+,, Draw the tail with a loop. Draw the eyes between the outline of the snout and body. Draw the snout's details and the mouth. Draw the details of the feet.
+,

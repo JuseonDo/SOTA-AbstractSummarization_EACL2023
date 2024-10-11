@@ -1,0 +1,27 @@
+@summary
+select the "casual sets tennis club" option.
+
+@summary
+learn how to play.
+
+@summary
+choose an opponent.
+
+@summary
+play the game.
+
+@summary
+,
+
+@summary
+challenge yourself.
+@article
+ After launching the app, start your training by tapping on Casual Sets Tennis Club.;
+, Tap on the first window on the left with the title "Learn How to Play." This will teach you the basic swipes to move your player and play your games.
+ Swipe to the right to see six players with varying levels of difficulty. Choose one by tapping on Play.
+, Continue playing, and try to win against each of the six players.
+
+
+Once you win, go up another level until you beat all of them.
+Continue playing and beating your personal best.
+

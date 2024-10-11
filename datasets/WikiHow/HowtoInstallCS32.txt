@@ -1,0 +1,23 @@
+@summary
+download adobe cs3 here: https://www.adobe.com/cfusion/tdrc/index.cfm?product=flashpro.
+
+@summary
+launch the executable files.
+
+@summary
+extract the files.
+
+@summary
+launch setup.exe
+
+@summary
+,
+
+@summary
+finish installation.
+@article
+ Follow the instructions provided for download and installation - you will have to create an account.
+ Locate and double click the files to launch (if they haven't launched automatically already).
+ Follow the on-screen instructions to extract the files to your desktop.
+, Follow the instructions to install CS3.
+

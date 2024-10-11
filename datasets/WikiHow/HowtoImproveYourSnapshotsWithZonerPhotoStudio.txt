@@ -1,0 +1,23 @@
+@summary
+open up your photo that you want to edit.
+
+@summary
+crop the photo.
+
+@summary
+try using the golden ratio crop marks.
+
+@summary
+,
+
+@summary
+try using the quick fix.
+
+@summary
+try giving it an artsy look.
+@article
+;
+, That is to take away the unnecessary parts of the image.
+, Quite often, this is all you need to dramatically improve its look.
+ Zoner Photo Studio has a lot of 'effects'. For oil paint, click on Effects >> Oil Paint...
+

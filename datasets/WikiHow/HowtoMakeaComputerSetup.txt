@@ -1,0 +1,25 @@
+@summary
+invest in some good office equipment.
+
+@summary
+buy some electronics.
+
+@summary
+purchase accessories.
+
+@summary
+set it all up.
+
+@summary
+spend some time testing it out.
+
+@summary
+make final changes.
+@article
+ You'll need a desk. Look for something that's strong enough to hold a few computers. Cable management systems are a plus! Also, you'll need a comfortable chair.;
+, Get a good desktop computer- not a store brand machine, and possibly a laptop or a netbook, too.
+ Speakers, wireless mice, keyboards, external hard drives, or anything that you see important.
+ Put the monitor(s) at eye level and make sure that the keyboard is within easy reach.
+ Make sure that everything runs smoothly and that all electronics are working properly.
+ If something doesn't work as planned while testing, fix it!
+

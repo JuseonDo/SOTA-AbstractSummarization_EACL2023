@@ -1,0 +1,51 @@
+@summary
+set up mail fetcher in your gmail account.
+
+@summary
+click the gear icon in the upper right.
+
+@summary
+enter the full email address of the account you'd like to access.
+
+@summary
+enter your password.
+
+@summary
+,
+
+@summary
+decide whether to:
+
+@summary
+leave a copy of retrieved messages on the server
+
+@summary
+always use a secure connection (ssl) when retrieving mail
+
+@summary
+label incoming messages
+
+@summary
+archive incoming messages
+
+@summary
+,
+
+@summary
+click add account.
+@article
+ Mail Fetcher is a free feature that lets you download email messages from 5 different email accounts (that support POP access). You can use Mail Fetcher to move your AOL messages into Gmail.;
+, Select Settings.
+
+
+Open the Accounts and Import tab. (For Google Apps domains, open the Accounts tab.)
+In the Check mail using POP3 section, click Add POP3 Email Account.
+ Then click Next Step.
+
+
+Gmail will populate sample settings, but also check with your AOL server to learn the correct server name and port.
+,,
+
+
+Once your account has been added successfully, you'll have the option of setting it as a custom From address. This allows you to compose messages in Gmail, but have them appear to be sent from your other email account. Click Yes.
+

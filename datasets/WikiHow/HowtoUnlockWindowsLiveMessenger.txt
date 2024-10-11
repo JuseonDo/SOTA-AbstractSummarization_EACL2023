@@ -1,0 +1,12 @@
+@summary
+if you haven't locked before, first i'll show you how to lock.
+
+@summary
+,
+
+@summary
+if you've already locked it, then there should be a new icon in your system tray.
+
+@article
+ Below is the manual way to lock. If you selected it in the install options (it should be selected by default), you are able to lock by pressing ctrl+Space.;
+,, It's hard to notice it because it has nothing to do with messenger-- but that's the whole point! If you double-click the icon, you will be able to see your messenger again.

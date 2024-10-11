@@ -1,0 +1,13 @@
+@summary
+back up and save all important documents and files to an external disk, flash drive, or cloud storage system.
+
+@summary
+restart your pc, then watch your computer screen to identify the command that opens the advanced boot options menu.press the key that opens the advanced boot options or recovery menu.
+
+@summary
+select the option to “reset” or “restore” your computer.
+
+@summary
+follow the on-screen instructions to reset your pc.
+@article
+ Resetting your PC will erase all personal data from the computer., This command will vary depending on your computer’s model and manufacturer. For example, Dell computers require you to press F8, whereas HP computers require you to press F11.Alternately, insert the Windows installation disc into your computer’s disc drive, go to Control Panel > Recovery > Advanced Recovery Methods, and select the option to reinstall Windows using the installation disc. Windows will guide you through the entire process for resetting your PC and reinstalling Windows.,, This option may be labeled differently on your Windows 7 and Windows Vista PC depending on its model and manufacturer. In most cases, this option will read similarly to “Restore factory settings.”, When complete, Windows will display the setup screen and your PC will be restored to factory settings.

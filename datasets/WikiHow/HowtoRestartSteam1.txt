@@ -1,0 +1,15 @@
+@summary
+click on “steam” in the toolbar at the top left corner of your steam session.
+
+@summary
+select “exit” or “exit steam.” your current session of steam will close.
+
+@summary
+double-click on the steam icon on your desktop to relaunch steam.
+@article
+;
+,
+
+
+Alternately, right-click on the Steam icon in the notification tray on your desktop, and select “Exit.” In Windows, the notification tray is located at the bottom right corner of the desktop; in Mac OS X, the notification tray is located at the top right corner of the desktop.
+ If the Steam shortcut icon is not located on your desktop, search for Steam in the “Start” menu in Windows, or in the Applications folder on Mac OS X.

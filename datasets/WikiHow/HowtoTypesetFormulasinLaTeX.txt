@@ -1,0 +1,53 @@
+@summary
+don't use $'s anymore!,
+
+@summary
+look up and use a slash symbol directive for any symbols that need displaying.
+
+@summary
+use \frac{}{} directive to format any fractions in the equation
+
+@summary
+example:
+
+@summary
+\begin{document}
+
+@summary
+\(k=\frac{1}{2}mv^{2}\)
+
+@summary
+\end{document}
+
+@summary
+,
+
+@summary
+use _{} directive for subscripts and ^{} directive for superscripts.
+
+@summary
+format away!
+@article
+ Use "\(" and "\)" instead!
+Example:
+\begin{document}
+\(a + b = c\)
+\end{document};
+,
+Example:
+\begin{document}
+\(A = \pi r^{2}\)
+\end{document}
+
+,,
+Example:
+\begin{document}
+\(Fe^{2+} + 2H_{2}S \rightleftharpoons Fe(HS)_{2} + 2H^{+}\)
+\end{document}
+
+, Online references will have specifics on the many symbols and formatting styles available.
+Example:
+\begin{document}
+\(\int\limits_a^b {\frac{d}{dx}F(x)dx} = F(b)-F(a)\)
+\end{document}
+

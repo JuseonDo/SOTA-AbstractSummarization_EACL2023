@@ -1,0 +1,15 @@
+@summary
+follow steps 1 to 3 of the first method.
+
+@summary
+select twitter.
+
+@summary
+,
+
+@summary
+login to your twitter account.
+@article
+ Launch the app, go to the Content page, and select Accounts to show a list of social media platforms.
+, Enter your Twitter username and password in the given fields, and then tap on Authorize App. This will automatically link you back to Flipboard.
+

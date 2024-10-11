@@ -1,0 +1,4 @@
+@summary
+soul sand kills endermites.
+@article
+ They sink down slightly but this covers a large area of the mob, suffocating them.

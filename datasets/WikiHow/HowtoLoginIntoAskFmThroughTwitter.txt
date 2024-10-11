@@ -1,0 +1,46 @@
+@summary
+navigate to the ask.fm webpage.
+
+@summary
+click on "login" button present at the top of the page in the right corner.
+
+@summary
+select the "twitter" symbol.
+
+@summary
+,
+
+@summary
+fill up the details asked.
+
+@summary
+select "authorize app" button to proceed.
+
+@summary
+,
+
+@summary
+you will get a redirect page as shown in the picture.
+
+@summary
+you will now be logged into ask.fm through twitter.
+
+@article
+ The page can be found at this link  : https://ask.fm/;
+, The drop-down menu will appear as shown in the picture.
+, Remember the following things before doing so.
+
+
+By authorizing the app, you allow the application to :
+
+Read tweets from your timeline.
+See who you follow and unfollow.
+Update your profile.
+Post tweets or you.
+
+
+This application, will however, won't be able to :
+
+Access your direct messages.
+See your Twitter password.
+, It will take few seconds for the redirect to take place.

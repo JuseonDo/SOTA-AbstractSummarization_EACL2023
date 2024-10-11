@@ -1,0 +1,17 @@
+@summary
+launch your preferred web browser.
+
+@summary
+log into your google account.
+
+@summary
+navigate to your settings.
+
+@summary
+scroll down and check on the box that reads "required: yes i understand..." click on "remove selected services."
+@article
+ This is easiest with Google Chrome.
+ Enter your email and password to log in.
+ Click on your Google+ name in the upper right hand corner of the screen. Then find the drop down menu on the left hand side of the screen, and click on settings. Scroll all the way down and click on the option "Delete your entire Google profile here."
+
+,

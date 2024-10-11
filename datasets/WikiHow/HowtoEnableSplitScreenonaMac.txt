@@ -1,0 +1,30 @@
+@summary
+go to system preferences on your latest os on your computer.
+
+@summary
+go to mission control on your show all settings to proceed.
+
+@summary
+,
+
+@summary
+check the box that says displays have separate spaces.
+
+@summary
+open two applications, then click/hold the green button.
+@article
+
+
+
+You have to have your laptop reimaged to OS X 10.11.
+Check About This Mac to make sure you at least have 10.11 ( >> About This Mac).;
+,,
+
+
+You have to log out, then log back in to continue.
+ It will show a window like this. Click the second available window and you've got it!
+
+
+
+Programs like PaperCut, iMovie, etc, will not be available.
+

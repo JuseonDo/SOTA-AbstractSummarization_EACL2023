@@ -1,0 +1,23 @@
+@summary
+go to "settings.",
+
+@summary
+click "voicemail and sms.",
+
+@summary
+check the box that says "forward sms messages to my email.",
+
+@summary
+read a text message through your email.
+
+@summary
+reply to the message through email.
+@article
+ This menu can be found on the top right of the web site.
+
+
+,
+
+, When this feature is activated, you'll be able to read text messages through your email.
+ This feature will also allow you to respond to the text message through email. Google Voice will convert the message into text form so that your message is sent as a text.
+

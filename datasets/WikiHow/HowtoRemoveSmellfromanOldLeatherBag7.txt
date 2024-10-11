@@ -1,0 +1,17 @@
+@summary
+make or purchase some potpourri.
+
+@summary
+place the sachet inside the smelly bag.
+
+@summary
+place the bag in an airy place.
+
+@summary
+check a week later.
+@article
+ Place the potpourri inside a sachet.
+ Leave it there for at least one week.
+ Do not leave it in a dark cupboard; instead find somewhere with fresh air and indirect, cool light.
+ It's a good idea to leave the sachet in the bag when using as well, as the scent will continue to improve the bag's own scent.
+

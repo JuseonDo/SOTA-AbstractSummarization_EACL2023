@@ -1,0 +1,13 @@
+@summary
+launch the urbanspoon app from your smartphone.
+
+@summary
+enter information.fill out the name, address, city, and phone number of the restaurant at the very least.
+
+@summary
+press "add restaurant" to submit the form.
+@article
+ Tap on the menu button and select "Add a Restaurant". It's near the bottom of the menu.;
+, If you know other information about the restaurant, such as its price, cuisine, and hours, include that information too.
+ Your entry will be reviewed by Urbanspoon staff and posted within a few days if the information provided is valid.
+

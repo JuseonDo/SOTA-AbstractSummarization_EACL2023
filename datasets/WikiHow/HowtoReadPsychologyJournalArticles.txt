@@ -1,0 +1,91 @@
+@summary
+find the basic details on the front page: the front page contains the author´s names, the year of publishing, the journal´s name including edition and page numbers, a short abstract and, of course, the title of the study.
+
+@summary
+read the abstract for a summary: the abstract is a short summary of what the study is about.
+
+@summary
+look to the introduction for the "why": the introduction is usually the first part where the researchers explain the theoretical background of the research matter.
+
+@summary
+read the method for the "how": you can see the introduction as the “why” and the method as the “how” of a study.the method part includes all technical details of the study such as:
+
+@summary
+sample size
+
+@summary
+age and gender arrangement
+
+@summary
+background of the subjects
+
+@summary
+additional information about the participants if necessary to interpret the results e.g.
+
+@summary
+look to the results for the outcomes: in the results part researchers explain what was done with the data including the outcome of the analysis.
+
+@summary
+get an overview of the results and limitations in the discussion: in the discussion you will mostly find:
+
+@summary
+a summary of the research purpose
+
+@summary
+an overview of the main results
+
+@summary
+strengths and limitations of the study due to sample, methods used, interpretation validity
+
+@summary
+practical implications
+
+@summary
+opportunities for prospective research attempts
+
+@summary
+,
+
+@summary
+check the references for citations: the references show all other studies that were used in the paper in alphabetic order.
+
+@summary
+read the abstract: since the abstract is a summary by itself you will get straight to the point info from this brief paragraph.
+
+@summary
+find diagrams, tables and other visuals: when you have read the abstract you know what´s the core of the study.
+
+@summary
+refer to the first paragraph of the discussion part: a well-written discussion begins with a brief summary about the aim of the study, the method, the major results and the validation or rejection of the hypotheses.
+
+@summary
+refer to other parts if you need more detailed information.
+@article
+;
+, You will find the topic of the research, how it was done, information about the sample, hypotheses, main results and a preview about the points that are discussed.
+ Necessary terms are defined and in many cases you will find a brief historical outline of the topic. The introduction is also the place where the previous findings of other scientists will be mentioned.
+
+
+The basic sense of the introduction is to explain the research question and the predictions (hypotheses) that were derived from the theory. These hypotheses were tested against the data later on to see if the predictions will be validated or need to be rejected.
+ cultural background, religious denomination, school degree etc.
+Procedure (how they did it)
+equipment, machines (e.g. MRT, cardiograph),  special software etc.
+questionnaires that were used
+experimental conditions and assignment pattern
+materials (e.g. pictures, video spots, tasks etc.)
+preliminary results like means about participants´ characteristics
+method of analysis
+
+, The major aim of this part is to clarify whether the hypotheses have been supported or not. Frequently you will find charts and graphic representations in the results part as well.
+, Adequate citation is mandatory in the world of science to give appropriate credit to the work of others and to make the information given in the article transparent.
+ A well-written abstract provides information about the purpose of the study, the measures they used, the sample, the basic outcomes and an indication of what has been discussed.
+ Now see if you can find some visuals like bar diagrams or a correlation charts that give you a little more detailed information about the basic results.
+ Results are mostly much easier to understand in the discussion part because they are presented as conclusions and not as statistics.
+
+
+This first part of the discussion is often the most valuable part of a journal paper in order to get key information. Sure, not all discussions are written alike and quality varies, but in most cases this is the part where you find “the gold”.
+ If you feel you need more theoretical insights or related research outcomes refer to the  introduction. For some extra information about the specifics of the sample, instruments and procedures, the method is the place to go. If you need more in-depth empirical outcomes see the results part and for additional interpretation check out the discussion.
+
+
+This process will save you a lot of time when reading a journal paper and you will get the main point of the study in 5 minutes or less. Have fun with it.
+

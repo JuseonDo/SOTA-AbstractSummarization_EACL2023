@@ -1,0 +1,30 @@
+@summary
+open your favorite browser.
+
+@summary
+check to ensure that javascript is enabled.
+
+@summary
+point your browser to "http://zippychat.com.",
+
+@summary
+decide on a title and enter it into the text box labeled "title / subject.",
+
+@summary
+write a description in the text area labeled "description.",
+
+@summary
+hit the button labeled "create chatroom.",
+
+@summary
+share your chat room with friends by copying and pasting the url.
+@article
+ Zippy Chat is designed to work with all major browsers.;
+, By default, most browsers ship with Javascript enabled. Zippy Chat requires Javascript to operate, so it is essential that it's enabled. Most browsers have this setting under a Security pane (Safari) or Content pane (Firefox, Chrome) within the browser's preferences.
+
+
+, Your title should be relevant to the subject matter that will be discussed within the chat room, or to the visitors who will be visiting the chat room.
+ This step is optional, but it can help search engines index your chat room and help visitors find your chat room.
+ You're done. After clicking the button, you'll be redirected to your newly created chat room.
+ The url for your chat room will never change, so share it to spread the word about your new chat room.
+

@@ -1,0 +1,15 @@
+@summary
+navigate to facebook and log in.
+
+@summary
+click the blue "share" button underneath the video.
+
+@summary
+,
+
+@summary
+click "share link" in order to post the video for your friends to see.
+@article
+ Locate your friend's video that you want to share.;
+,, Read more about editing the video information and privacy settings in the "Editing a Video's Privacy and Information Details" section at the end of this article.
+

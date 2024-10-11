@@ -1,0 +1,9 @@
+@summary
+follow the procedure for unlocking a single object with these variations:
+
+@summary
+unlock 2 or more objects: use the selection tool and hold down the shift key and click the desired objects.
+@article
+ With the items selected, go to "Object" and select "Unlock Position." After you unlock objects in InDesign, you can make your changes.
+Unlock 2 or more objects at once: Use the Pointer tool and drag the marquee over the items you want to unlock. Click "Object" and then "Unlock Position," which will release the elements so you can work on them.
+

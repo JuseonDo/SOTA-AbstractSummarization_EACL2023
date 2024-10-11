@@ -1,0 +1,5 @@
+@summary
+try connecting the computer directly to the modem or router instead of using wifi.
+@article
+ A lot of signals in the house could interfere with WIFI connection, thus affecting internet speed and uTorrent downloads.
+

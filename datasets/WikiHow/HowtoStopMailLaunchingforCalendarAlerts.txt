@@ -1,0 +1,22 @@
+@summary
+launch the calendar application.
+
+@summary
+click the calendars button.
+
+@summary
+select a calendar.
+
+@summary
+press command + i on the keyboard.
+
+@summary
+,
+
+@summary
+toggle ignore alerts and then click okay.
+@article
+ Locate the Calendar application icon on your dock and click on it to launch.;
+, You'll find this at the top of the interface.
+ This will be the one you would like to stop the notifications on.
+, This should completely disable getting alerts from this calendar.

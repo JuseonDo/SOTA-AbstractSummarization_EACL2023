@@ -1,0 +1,47 @@
+@summary
+download and install netvideohunter.
+
+@summary
+,
+
+@summary
+go to youtube or another video sharing site.
+
+@summary
+,
+
+@summary
+play a video.
+
+@summary
+click the netvideohunter icon to open the list of videos you captured.
+
+@summary
+,
+
+@summary
+play or download them.
+
+@summary
+play videos in full screen click on the left little blue button in the lower right corner.
+
+@summary
+video smoothing.
+
+@summary
+right click on a video item to open a drop down menu.
+@article
+,, The video link will be captured, and the number in the bottom right corner will increase.
+, The list will remain stored until you close Firefox.
+;
+, This enhances the quality of the video when viewing full screen. Click on the right little blue button to use. If the video is slow in fullscreen, turn off video smoothing.
+ You may choose to:
+
+
+
+Copy URL: get the direct link to the video (FLV) or (MP3) file.
+
+Save from cache: save the file from the browser's cache.
+
+Open source page: go to the source webpage of the video or music.
+

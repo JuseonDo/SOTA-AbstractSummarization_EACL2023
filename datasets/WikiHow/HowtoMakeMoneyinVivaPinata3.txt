@@ -1,0 +1,9 @@
+@summary
+get two horstachios.
+
+@summary
+use cluckes.
+@article
+ Breed them, then sell them. This will make lots of money.
+ Speed this up with a cluckes.
+

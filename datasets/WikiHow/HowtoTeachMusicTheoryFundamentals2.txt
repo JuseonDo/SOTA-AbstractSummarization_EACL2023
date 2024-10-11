@@ -1,0 +1,9 @@
+@summary
+if the student does not already play an instrument, teaching the basics of an instrument and how to play it will encourage the learner to apply what has been learned.
+
+@summary
+select an instrument that isn't too complicated and that is generally acceptable and useful.
+@article
+ In this way, the student can understand music theory more fully. Doing so without an instrument can prove boring, unfruitful, and sometimes even pointless. The practical side often brings to life the reasons you've already highlighted above.
+ The piano or the guitar can be the best choices for this, since they are versatile instruments and offer a broad range of sounds. Additionally, the layout of the keyboard (on the piano) and the fretboard (on the guitar) facilitate visualizing chords and scales while the student practices.
+

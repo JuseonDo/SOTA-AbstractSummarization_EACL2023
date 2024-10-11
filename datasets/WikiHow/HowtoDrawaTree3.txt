@@ -1,0 +1,9 @@
+@summary
+get festive by drawing a christmas tree!,
+
+@summary
+celebrate halloween by drawing a spooky tree.
+@article
+ Christmas tree drawings make great holiday decorations.
+ If you're feeling really ambitious, try carving this on a pumpkin!
+

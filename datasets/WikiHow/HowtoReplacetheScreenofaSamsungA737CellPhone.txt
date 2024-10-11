@@ -1,0 +1,97 @@
+@summary
+turn the phone off, remove the battery cover, battery, and sim card.
+
+@summary
+,
+
+@summary
+remove 6 phillips screws from the back of the phone, two of which are under little rubber caps, which you can pry up with your flathead screwdriver.
+
+@summary
+,remove the two silver side buttons.
+
+@summary
+disconnect the number pad connector from the main circuit board (it pops off by pulling gently up).
+
+@summary
+,
+
+@summary
+slide the number pad out from under the main circuit board (gently!,
+
+@summary
+]disconnect the main wiring harness (marked in red) from the main circuit board (marked in blue, but the connector is on the opposite side of the board as it sits in the picture).
+
+@summary
+pop the rubber keypad face (the thing with the actual numbers on it) out of the lower housing, and remove the white samsung sticker and the skinny black sticker in the battery compartment.
+
+@summary
+see the two metal tabs marked in red above?,
+
+@summary
+remove the six phillips screws from the back of the upper half of the phone.
+
+@summary
+,
+
+@summary
+the phone should be in three pieces now, the upper housing still holding the screen, the middle part with the spring-loaded section, and the bottom housing.
+
+@summary
+flip the upper housing over, peel off the green piece of tape, and disconnect the main wiring harness from the back of the screen.
+
+@summary
+disconnect the upper keypad wiring harness from the back of the screen in the same manner.
+
+@summary
+gently pry the screen up, starting at the bottom, with a flathead screwdriver.
+
+@summary
+peel the protective plastic off of your new screen.
+
+@summary
+reattach the speaker and camera wiring.pop the upper keypad face into the housing (again, the holes line up, and it's pretty obvious where it goes), reattach the upper keypad circuit board harness, and press the circuit board in behind the keypad face.reattach the main wiring harness, and replace the green tape.
+
+@summary
+reinstall the two siderails onto the upper housing.
+
+@summary
+place the spring-loaded section of phone onto the upper housing with the screen, making sure you don't smash the main wiring harness.
+
+@summary
+place the lower housing onto the upper housing.press the number pad face into the housing.
+
+@summary
+reconnect the main wiring harness (red) to the main circuit board (blue) by pressing gently down, it should snap on.
+
+@summary
+slide the number pad circuit board under the main circuit board...
+
+@summary
+,
+
+@summary
+reattach it's connector, by pressing down gently.
+
+@summary
+replace the side buttons (the tabs go down) and place the back cover of the phone onto the housing.
+
+@summary
+put your sim card back in, replace the battery, and put the battery cover on.
+
+@summary
+hopefully everything works well.
+@article
+,,,,).
+ Again, this is done by pulling gently up on the connector., Remove the 4 fat-head Phillips screws (marked in blue, two of which are under that black sticker that looks like it shouldn't actually peel up, but does, again gently using a flathead screwdriver).
+ Along with the four screws, they hold the lower half of the phone onto the upper half. Once you've removed the four screws, you can gently slide the bottom half of the phone forward off of the upper half.,, Pop the side rails off of the upper housing.
+ CAREFULLY. The little brown tab flips up (again, flathead screwdriver, but take great care not to scratch the harness with the edges of the screwdriver) and the harness should slide out with a gentle pull on the harness itself.
+ The keypad should fall out after you've disconnected it.
+ The screen is adhered to a protective plastic layer on the front, so it'll sound like it's peeling off of something. Once the screen is hanging free, peel off the green piece of tape, and disconnect the camera and speaker harnesses. Again, the white tabs flip up, and the wires slide out. You can use the needlenose pliers to gently work them out if you need to.
+ Make sure there are no fingerprints/dust on the back of the protective plastic layer that goes in front of the screen. Wipe it off with a paper towel and some mild cleaner if there is. Avoid using cleaners, as they may make the plastic cloudy., This is where those needlenose pliers really help. Flip the white tabs up, maneuver the harness ends into the connectors with the pliers, and snap the white tabs down. Press the screen down into it's spot. There are tabs all along the edge of the screen that line up with corresponding holes in the housing. Replace the green tape.,,, They go in starting at the top, the round nub at the end slides into the housing, and the rest of them is reinstalled by pressing down gently, you'll hear some little pops as the tabs pop back in., Reinstall 6 Phillips screws. But wait, there's more! There's two different lengths of screws. The longer screws go in the top next to the camera and speaker (marked in red) and the shorter four go in the remaining holes (marked in blue).
+ The two metal tabs slide into the holes in the battery compartment (marked in red). You can tell if the tabs are in when the four mounting holes line up (marked in blue). Reinstall those four, fat-head Phillips screws. Replace the skinny black sticker and the white Samsung sticker.
+, It takes some work, the harness folds in a funny way once it's connected.
+, The circuit board and number pad should all fit nicely into the lower housing now. Make sure the main harness isn't smashed or crimped in any way underneath everything. Also be sure that the microphone is tucked down into the housing, in front of the hole.
+ Reinstall the six Phillips screws. Again, two lengths of screws. The shorter screws go at the bottom of the phone. Replace the rubber caps over the bottom screws.
+ Turn the phone on. It should display the AT&T logo, but if after that, if it just goes to white, don't panic! Turn the phone back off, wait a few seconds, and turn it back on. This time, it should display the logo and then immediately the progress bar at the bottom should appear. You're golden., Test all the buttons (side ones, too), have someone call you from another room to make sure the speaker works, check to see if vibration mode still works, and check the camera.
+

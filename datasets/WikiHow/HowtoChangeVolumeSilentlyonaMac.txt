@@ -1,0 +1,25 @@
+@summary
+click on the apple menu.
+
+@summary
+click on system preferences.
+
+@summary
+,
+
+@summary
+click on sound.
+
+@summary
+click on the sound effects tab.
+
+@summary
+,
+
+@summary
+click on the checkbox next to "play feedback when volume is changed."
+@article
+ It's the black, apple-shaped icon in the upper-left of your screen.;
+,, It's in the right-center of the Preferences window.
+, Make sure that the box is white and doesn't contain a checkmark. You have now disabled the sound effects for your Mac's volume keys, and you can change the volume silently.
+

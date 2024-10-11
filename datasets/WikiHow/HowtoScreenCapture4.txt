@@ -1,0 +1,20 @@
+@summary
+read your device's operating instructions.
+
+@summary
+look in "settings" and "about" to learn about the os your android system is running.
+
+@summary
+return to the home screen.
+
+@summary
+press the "volume down" button.
+
+@summary
+find your screen shot in your image gallery.
+
+@article
+ The way you take screen shots will depend upon how old your phone is and what type of OS it is running.
+ If you have 4.0 (Ice Cream Sandwich) or higher, a screen shot function is built in for easy use.
+ Navigate to the image on your screen that you would like to capture.
+ Simultaneously press the "Power" button. Wait for the screen to flash and say the image was saved.

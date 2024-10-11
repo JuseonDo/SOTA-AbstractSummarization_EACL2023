@@ -1,0 +1,9 @@
+@summary
+firstly, pick a big number.
+
+@summary
+then, plug your number, which we'll call x, into this formula to calculate pi: x * sin(180 / x).
+@article
+ The bigger the number, the more accurate your calculation will be.
+ For this to work, make sure your calculator is set to Degrees. The reason this is called a Limit is because the result of it is 'limited' to pi. As you increase your number x, the result will get closer and closer to the value of pi.
+

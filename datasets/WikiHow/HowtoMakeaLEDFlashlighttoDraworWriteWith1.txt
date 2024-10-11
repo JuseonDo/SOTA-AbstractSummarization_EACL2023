@@ -1,0 +1,28 @@
+@summary
+gather your materials.
+
+@summary
+connect the led light with the battery.
+
+@summary
+cut a piece of tape about 5–6 centimeters (2.0–2.4 in) long, then cut it in half lengthwise.
+
+@summary
+,
+
+@summary
+wrap the piece of tape around the battery to cover and secure the leads of the led.
+
+@summary
+cut the other half of that piece of tape down to about 2 centimeters (0.8 in) in length.
+
+@summary
+your finished product should look something like this.
+
+@article
+ These are listed in the "Things You'll Need" section below.;
+, The longer end of the LED light is the positive (anode) end. This must touch the positive (+) end of the lithium 3v battery. The shorter end is the negative (cathode) end. This must touch the negative (-) end of the battery. Connecting these pieces should cause the LED to light up.
+, Make sure the LED is still on.
+ Wrap it around the bottom of the LED, being careful that the leads don't touch their opposite battery sides. (The negative lead should not touch the positive side and vice versa.)
+
+,

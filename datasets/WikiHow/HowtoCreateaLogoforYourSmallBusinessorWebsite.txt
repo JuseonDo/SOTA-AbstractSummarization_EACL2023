@@ -1,0 +1,45 @@
+@summary
+make a rough sketch of your logo.
+
+@summary
+use a fine-point black permanent marker to re-draw your logo on one side.
+
+@summary
+flip the paper over.
+
+@summary
+using only colored pencils (erasable works best), color in the areas that need color.
+
+@summary
+take another sheet of computer paper and place it under your logo, to prevent any shadowing when scanning.
+
+@summary
+,
+
+@summary
+place the logo in the scanner.
+
+@summary
+scan.
+
+@summary
+in your scanning software, crop your image appropriately.
+
+@summary
+import the image into your choice of vector graphics software.
+
+@summary
+,
+
+@summary
+trace your logo, then colour your logo.
+
+@article
+ Use scrap notebook paper as it's just a rough draft. Sketching on the computer using a program is a good idea as well.;
+, Now use a blank white computer paper. If you have no large shaded regions, skip the next step.
+ On this side, you will notice that the shaded regions have bled through. Re-color those shaded regions on this side, to give the logo an even shade. Flip the paper over.
+ When done, go over the color areas again with the colored pencils. If you don't have a flatbed scanner, skip the next step.
+, If you have a flatbed, place it face-down.
+ If you don't need to scan it again before saving the image, skip the next step.
+ Open up your raster image editor, and adjust your image until it looks nearly complete.
+,

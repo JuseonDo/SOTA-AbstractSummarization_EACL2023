@@ -1,0 +1,21 @@
+@summary
+click the apple menu.
+
+@summary
+click "system preferences.",
+
+@summary
+click the "general" option.
+
+@summary
+check the "use lcd font smoothing when available" box.
+
+@summary
+log out and log back in.
+@article
+ This can be found in the upper-left corner of the menu bar. It will be visible no matter which program is currently open.;
+,
+
+, This is at the front of the first row of options. If the System Preferences menu opens to a different section, click the "Show All" button at the top of the window, which has 12 dots in a grid pattern for an icon.
+ This will enable font smoothing to reduce jagged edges. You can see an immediate difference in the clock and account name in the upper-right corner.
+ This will ensure that your changes take effect everywhere that font smoothing is available.

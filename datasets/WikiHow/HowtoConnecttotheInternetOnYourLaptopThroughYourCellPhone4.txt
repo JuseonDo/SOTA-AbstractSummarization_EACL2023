@@ -1,0 +1,22 @@
+@summary
+connect your android to your computer.
+
+@summary
+open your android's settings.
+
+@summary
+tap more.
+
+@summary
+tap tethering & portable hotspot.
+
+@summary
+slide usb tethering right to "on".
+@article
+ You'll use your Android's charger cable to do so., It's a gear-shaped app typically found in the App Drawer., This option is beneath the "Wireless & networks" heading.
+
+On a Samsung device, tap Connections here instead.
+ It's near the top of the page.
+
+On a Samsung, tap Tethering and Mobile HotSpot instead.
+ After doing so, you should see the trident-shaped USB icon appear in the top-left corner of the screen, and your computer should recognize your phone as a wired Internet connection.

@@ -1,0 +1,136 @@
+@summary
+create a cube in sketchup.
+
+@summary
+use the offset tool to create a slightly offset area in one side.
+
+@summary
+use the push/pull tool and push the faces through to the other side.
+
+@summary
+however your attempt may look, don't panic.
+
+@summary
+right click on each blue side, select erase and it will be gone.
+
+@summary
+click on the eraser tool and get rid of the lines demonstrated in the screenshot.
+
+@summary
+using the circle tool, hover over the midpoint of two adjacent sides.
+
+@summary
+use the push/pull tool and raise the circle up enough for what would be a candle holder.
+
+@summary
+select the offset tool and create another circle inside the one you just drew.
+
+@summary
+push the inner circle down using the 'floor' outside of the circle as an inference.
+
+@summary
+,
+
+@summary
+in the interior part of your candle holder, use the offset tool and create another circle.
+
+@summary
+use the offset tool and create another circle.
+
+@summary
+create a wick.
+
+@summary
+orbit to the bottom of the lantern.
+
+@summary
+hold down the alt key and using the move tool, pull out the center square.
+
+@summary
+,
+
+@summary
+orbit to the top of the lantern, then repeat the process to pull out the top of the lantern.
+
+@summary
+,
+
+@summary
+use the offset tool again, and create another square.
+
+@summary
+click on s (scale), hold down ctrl and narrow the top of the square, so it is similar to a pyramid.
+
+@summary
+orbit the lantern so that you are looking up into the top of it.
+
+@summary
+use the push/pull tool and push it up through the lantern.
+
+@summary
+use the scale tool at the top of the circle to shrink it down somewhat.
+
+@summary
+,
+
+@summary
+use the push/pull tool to extend the cord even further.
+
+@summary
+,
+
+@summary
+right click on your project.
+
+@summary
+click on view >> face style >> x ray.
+
+@summary
+right click on one of the white surfaces, go to orient faces and everything will be white instead of white and blue.
+
+@summary
+use the freehand tool to draw the shape of a burning flame.
+@article
+ The size doesn't matter. You can always scale it down later. The size created for the screenshot is 3 feet (0.9 m), which would be quite a substantial lantern. However, if you're making one in real life, stick with the dimensions that you require.;
+, Double click on the neighboring face to repeat it.
+ The goal is to have the interior void of materials. It might take a few attempts to get it right.
+ Select the entire object, right click, and Intersect with Model.
+
+
+If you can get it to look like this, you are almost there.
+ Do this all four times.
+ There are four on the top and four on the bottom.
+
+
+Check your progress with this screenshot.
+ This will allow you to find the exact center of your lantern to place the flame.
+
+
+
+With the Offset tool, create another circle inside of the first one.
+ With the Move tool, shrink the outer circle to just outside the sides of the inner circle.
+, This is the candle. Raise it up.
+
+
+Candle raised up.
+ This one is just smaller than the one you are using. Push it down a small amount using the Push/pull tool.
+ Do the same steps as before, but the offset circle will be very small. After you have created it, raise it up slightly.
+ Use the Offset tool to create a smaller square inside of it.
+,, Raise it up as much as you need it. Select the four lines at the top of the raised shape.
+ Holding down CTRL keeps the narrowing centered.
+ Using the same process that you did for making the center of the candle holder, create a small circle in the top of the lantern.
+ You will be creating the beginning of the cord that you will suspend the lantern from.
+,, Select Intersect Faces with Model. This will create the edges on the edge of the cord at the top of the lantern.
+
+
+Orbit to where you first drew the circle for the cord. Draw a line across it to close it, then use the eraser to close it.
+ This will give you an x-ray view of your project. Get rid of the lines around where the cord connects with the lantern.
+
+
+
+Paint all of the white surfaces a light shade of gray (for light metal). Paint the cord at the top of the lantern a darker gray (or whatever color you want).
+ Paint it yellow and move it to the wick that you created earlier.
+
+
+If you want, put glass on the sides of the lantern.
+

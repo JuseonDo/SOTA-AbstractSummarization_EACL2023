@@ -1,0 +1,34 @@
+@summary
+tap on a workbench.
+
+@summary
+look for the craft bench icon.
+
+@summary
+tap on the craft bench icon.
+
+@summary
+,
+
+@summary
+press "craft".
+
+@summary
+when the craft bench has been made, it will transfer into your inventory.
+
+@summary
+tap on the craft bench in your inventory.
+
+@summary
+tap where you wish to place the craft bench.
+@article
+ A graphical user interface will appear, showing the things that can be crafted.
+ It is located next to the tool bench icon, two slots across from the campfire icon.
+, Your Blockhead character will tap away creating the craft bench. The status bar will show how quickly this is happening.
+
+
+
+If it doesn't do this, it means your inventory is full and you'll need to shift something out.
+;
+, Your Blockhead character will place the craft bench. It's now ready to use.
+

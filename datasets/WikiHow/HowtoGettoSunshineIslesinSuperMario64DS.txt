@@ -1,0 +1,27 @@
+@summary
+first, you must have at least one star.
+
+@summary
+enter the castle's main room.
+
+@summary
+,
+
+@summary
+go up the stairs and to the door on the left.
+
+@summary
+go through the middle door.
+
+@summary
+walk into the next room.
+
+@summary
+wait for it to load.
+@article
+ You can do this by defeating the Bomb-omb king in the first painting.;
+,, If it's your first time entering the room, patiently watch the animation.
+ Ignore the other four doors and the Princess Peach paintings for now.
+ Now you're in Peach's rec. room. Go the left and jump into the painting of the island.
+ When it loads, you will be on one of the islands of Isle Delfino, from Super Mario Sunshine.
+

@@ -1,0 +1,9 @@
+@summary
+your character will be the same as the campaign's.
+
+@summary
+then, last as long as you can.
+@article
+ You will be at the garage. Buy guns, upgrade them and buy ammo.
+ Don't forget your melee weapon. It makes much more damage than the pistol, but it puts you within attack range.
+

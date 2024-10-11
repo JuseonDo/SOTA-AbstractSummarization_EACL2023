@@ -1,0 +1,20 @@
+@summary
+on level 1, tap on yourself exactly when starting battle.
+
+@summary
+on level 3, if your force meter is full, hold your stylus on the boss to make her lose a lot of health.
+
+@summary
+on level 4, do the same as step 2.
+
+@summary
+,
+
+@summary
+on level 9 (last level): the boss here is the easiest to defeat.
+@article
+ This may or may not cause the enemy to lose health. If she does, then keep tapping on her in order to defeat her. Move on to the rest of the enemies and repeat this step.;
+, If not full, then repeat step 1. If she manages to stun you, tap on the exact moment she hits you. then keep attacking
+
+,, Just use the force on the side boxes repeatedly and she's done for.
+

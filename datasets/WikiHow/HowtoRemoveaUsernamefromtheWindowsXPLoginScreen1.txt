@@ -1,0 +1,23 @@
+@summary
+open control panel on your computer.
+
+@summary
+go to the user accounts menu.
+
+@summary
+,
+
+@summary
+pick an account to change.
+
+@summary
+click on remove my password.
+
+@summary
+restart your computer.
+@article
+;
+,, Click on the account name that you have.
+ Type your current password and then click on Remove Password.
+ You'll see that the account is not displayed and the desktop screen will be displayed directly.
+

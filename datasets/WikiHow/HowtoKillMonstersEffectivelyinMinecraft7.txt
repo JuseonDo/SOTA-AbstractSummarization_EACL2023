@@ -1,0 +1,27 @@
+@summary
+do not try to attack endermen.
+
+@summary
+,
+
+@summary
+if you want to, bring good armor and a sword.
+
+@summary
+charge a bow, then shoot at it.
+
+@summary
+after it teleports, attack it with your sword.
+
+@summary
+most of the time, it will dodge your sword by teleporting again.
+
+@summary
+retreat to a location where there is only a two-block space between floor and ceiling if you are about to die.
+@article
+, Endermen will teleport next to you if you look at them for a few seconds.
+ This won't hurt it, they always teleport before the arrow hits, but it will provoke the Enderman to attack you in melee.
+ Looking down at its feet will prevent it from teleporting away. Eye contact will make it teleport.
+ Keep spinning around, as it teleports in random places around you. Listen for the sound of teleportation to know when you're in danger.
+ Endermen are three blocks tall and cannot fit in such spaces.
+

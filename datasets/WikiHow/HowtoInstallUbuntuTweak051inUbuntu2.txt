@@ -1,0 +1,5 @@
+@summary
+now when ubuntu tweak is installed, close your terminal.
+@article
+ If you wanna to run Ubuntu Tweak just go to Applications > System Tools > Ubuntu Tweak.
+

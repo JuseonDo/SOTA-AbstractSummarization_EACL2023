@@ -1,0 +1,80 @@
+@summary
+start microsoft access and open your database;
+
+@summary
+,
+
+@summary
+start the user-level security wizard by clicking on the tools menu, point to security, and then click on user-level security wizard.
+
+@summary
+click next
+
+@summary
+by default, access will create a unique, 4 to 20 character string at random that is case sensitive, and associates an identity to the workgroup, otherwise referred to as a wid.
+
+@summary
+ensure that the "i want to create a shortcut to open my secured database" option is selected, before clicking next.
+
+@summary
+,
+
+@summary
+click next
+
+@summary
+the wizard then will ask you what objects in your database do you want to secure.
+
+@summary
+click next
+
+@summary
+naturally, you don't want everyone to have admin rights to a database, but you don't want them to have only read permissions.
+
+@summary
+click next, once you have the groups you want.
+
+@summary
+enter a password and change the personal id (pid) for the administrator account before you add any users to your database.
+
+@summary
+click next
+
+@summary
+now you will need to assign your users to groups.click next
+
+@summary
+,
+
+@summary
+specify the location where you want the unsecured backup to be stored.
+
+@summary
+click finish.
+
+@summary
+the security wizard will then tell you that it encrypted the database and that you must exit access and open the database in the future by using the shortcut on the windows desktop to the database's wid.
+
+@article
+,
+
+
+The wizard will immediately ask you to create a workgroup information file. It will create an un-secure backup of the database, and then move to secure the current database. You will need to put in information about the users who will develop and use the database.
+ For security purposes the WID is hidden here.
+, By default, Access will secure all existing database objects and all new objects. You can select objects that will not be secured, meaning ALL users will have full permissions for that object. It's recommended that you don't bypass security for any object within your database.
+ The next screen allows you to include pre-defined groups within your workgroup. If you click on each group (do not put a checkmark beside any yet), you can read a brief description of each group. To make it easier to track, it's recommended that you change the Group ID of any groups you include to something easier to work with.
+
+
+
+In addition to these available groups, Access creates two other groups, Users and Admins. By default, all database users are added into the Users group. Those users who are in the Admins group have full permissions and are the only users that can create permissions and groups. For this exercise, the "No, the Users group should not have any permissions" option will be selected.
+ NOTE: When entering passwords, they are shown in plain text for all to see.
+ By default, the Admins group will be present. If specified that the Users group shouldn't have permissions, then the Users group will not be present.
+, You will want to remove the .bak file extension and replace it with a .mdb extension. For example: You can store your backup to C:\reunion\backup.mdb
+
+,
+
+
+Access will then create the workgroup information file(WID), a secured version of your database, an unsecured version to the location you specified, and a One-Step Security wizard report.
+The One-Step security wizard report lists the name of the secured and unsecured databases, the name and properties the WID, the name of all secured and unsecured objects, group names and properties, and all user information.
+It is recommended that you print a hard copy of the report and place it in a secure location because of the sensitivity of some of the information contained.
+Do not save the report.

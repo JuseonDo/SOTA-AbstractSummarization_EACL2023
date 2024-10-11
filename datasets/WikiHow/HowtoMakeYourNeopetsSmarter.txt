@@ -1,0 +1,29 @@
+@summary
+buy a bunch of exciting books.
+
+@summary
+read to your pet via the status screen which will be accessed by clicking the book in your inventory.
+
+@summary
+if your pet claims the book is boring change the language to korean (한국어) at the bottom of the page, if your pet refuses to read a book.
+
+@summary
+check your pet's status to see how intelligent your pet is.
+
+@summary
+complete library faerie crosswords to make your pet smarter.
+
+@summary
+play cliffhanger on hard.
+
+@summary
+you can get a trophy.
+@article
+ Don't spend too much money though. There are some relatively cheap books out there.;
+, In the drop down list are your options for what you can do with an item. Each book can only be read once and will vanish once read.
+ Sometimes you may need to use another language. The key here is to change the number of characters in the name of the book (also works when you want to feed your pet and they don't like the food).
+ If you click your pet's intelligence you can see a list of books your pet has read.
+ Various fan sites have solutions updated daily.
+ A guide is available on various fan sites.
+ If your pet reads more books than other pets you will win a trophy for your pets quick reference page. The current highest tally is somewhere around 2000 books.
+

@@ -1,0 +1,48 @@
+@summary
+log into your world of warcraft account and enter the game.
+
+@summary
+hit the prt scr (print screen) button from within world of warcraft to take as many screenshots as you desire.
+
+@summary
+,
+
+@summary
+exit world of warcraft and close out of the program.
+
+@summary
+,
+
+@summary
+browse to the directory where world of warcraft stores its screenshots in windows xp, which is located at c:\program files\world of warcraft\screenshots.
+
+@summary
+locate your screenshots in vista in c:\users\%username%\appdata\local\virtualstore\program files\world of warcraft\screenshots.
+
+@summary
+double-click on the screenshot you wish to open and it will automatically be sent to your default image editing program.
+
+@summary
+view and edit your wow screen shots once they have been loaded into the image editing program of your choice.
+
+@article
+;
+,,,
+
+
+Double-click on My Computer on your desktop, or click on the Start button and select My Computer.
+Double-click on the C:\ drive.
+Double-click on the Program Files directory.
+Double-click on the World of Warcraft directory.
+Double-click on the Screenshots directory.
+
+
+
+Double-click on Computer on your desktop, or push the Start button on your taskbar and select Computer.
+Double-click on the C:\ drive.
+Drill down through the Users, %username%, AppData, Local, VirtualStore, ProgramFiles and World of Warcraft folders by double-clicking consecutively on each.
+Double-click on the Screenshots directory.
+ You can also right-click on the screenshot and choose “Open With…” and select the appropriate program.
+
+
+If your screenshots are in TGA format, you may receive an error message stating that TGA is an unknown file type. This means that you do not have an image editing program installed that supports viewing TGA files. You can download a free image viewer to view TGA files by performing a search engine query on the following terms: “image viewer tga”.

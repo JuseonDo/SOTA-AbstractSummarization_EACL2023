@@ -1,0 +1,21 @@
+@summary
+obtain the number of minutes on top of 0 the object is.
+
+@summary
+divide that number of minutes you obtained by 60.
+
+@summary
+,
+
+@summary
+take the answer you obtained above (after dividing by 60) and write this portion of the answer to the right of the decimal point, to obtain your final answer.
+@article
+ If the item is located at 35 degrees AND 2 minutes write down 35* 2' .
+
+
+Be sure to write down a decimal point (.) to the right of the degrees portion you wrote on the one side of the paper.;
+,,
+
+
+Be sure to mention your units, which, as the answer to this problem signifies, should be degrees, and, if this problem is a vector unit, display the direction in which the item is found at.
+

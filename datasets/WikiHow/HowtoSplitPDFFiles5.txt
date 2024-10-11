@@ -1,0 +1,35 @@
+@summary
+open the pdf you want to split in adobe acrobat.
+
+@summary
+click the "tools" button on the left side of the window.
+
+@summary
+expand the "pages" section of the tools panel.
+
+@summary
+,
+
+@summary
+click the "split document" button.
+
+@summary
+,
+
+@summary
+set how many pages you want each new file to be.
+
+@summary
+click the .output options button to select where you want the new files to be saved.
+
+@summary
+click .ok to split the file.
+@article
+ If you have the paid version of Adobe Acrobat installed, you can use it to split your PDFs. You can't split PDFs with the free Adobe Reader, so if that's all you have you'll need to use one of the other methods in this article.
+ This will open the Tools panel.
+,, Acrobat allows you to split by a pre-determined number of pages. For example, setting the split at 3 max pages will split the document into separate files of 3 pages each.
+
+
+You can also select to split by your bookmarks, or by a maximum file size.
+ You can save to the same folder as the original file, or you can select a new folder. You can also set how you want the new files to be labeled.
+ Your new files will be placed in the location that you set in the previous step.

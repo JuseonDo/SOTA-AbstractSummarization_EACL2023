@@ -1,0 +1,18 @@
+@summary
+locate the power button on your galaxy s. it should be at the top-right side of the phone.
+
+@summary
+,
+
+@summary
+try to reboot the phone normally.
+
+@summary
+hold the power button until the phone screen shuts off and the phone vibrates.
+@article
+, Do this by pressing and holding the Power button until the Power menu comes up then selecting “Reboot” from the options there. This will reboot the device normally.
+
+
+If for some reason the Power menu does not appear and the screen remains frozen, and even pressing the Home button of the device does not work, proceed to the next step.
+ This signals that the phone is performing a reboot. Simply wait for the phone to start up again, and it should be operational.
+

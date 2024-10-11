@@ -1,0 +1,55 @@
+@summary
+log in to your paypal account.
+
+@summary
+select "merchant tools.",
+
+@summary
+look for the option that states, "paypal website payments standard.",
+
+@summary
+look for the "donations" link.
+
+@summary
+fill in the information for the "organization name/service" field.
+
+@summary
+customize the button's appearance, if desired.
+
+@summary
+choose the currency for the donations.
+
+@summary
+choose whether to use your email address when the donor sends a donation or your secure merchant account id provided by paypal.
+
+@summary
+click to move to step 2 if you want to save your button for future use.
+
+@summary
+click to move to step 3 if you want to customize the button with a specific checkout page and/or a specific page if the donation is canceled.
+
+@summary
+click the "create button.",
+
+@summary
+copy the appropriate button code by highlighting all of it.
+
+@summary
+paste the button code in the appropriate location either in your email or on your website.
+@article
+ If you do not have one, visit PayPal.com, click "Join," and follow the on-screen steps to create your account. For the purposes of a donation button, the account type you create does not matter.;
+,
+
+, You may have to scroll down a bit to find it.
+ Click it to start the donations button set-up wizard.
+ The ID is optional and can be anything you desire.
+ Choose between 2 PayPal donation buttons: whether or not to display credit card logos or use your own button image. If you use your own button image, enter the URL to where the image is hosted. All of this is optional.
+ Set a fixed-contribution amount, or allow the donor to choose the amount he or she sends. If you choose a fixed-contribution amount, the donor is not allowed to send any more or less than this amount.
+ If you do not want to give out your email address, the merchant ID is the better choice.
+ If not, you can skip to step 3.
+ This is also where you indicate whether or not the donor can send special instructions to you or if you require the donor's address. There is another field for advanced variables that most people will not need to use. This is only there for programmers too further customize the button. If you do not want to customize the button any further, click "create button."
+
+, You will be taken to a page that features 2 codes for your button. One code is for use on your website, and the other is for use in your email. Use the email code if you want to include the payment option in your signature, or if you want someone to be able to donate without visiting the website. Use the website code if you want to add the PayPal button to website.
+ You can right-click and select the copy option, press control and C on your Windows keyboard, or press CMD and C on your Mac keyboard.
+ Right-click and select the paste option, press control and V on your Windows keyboard, or press CMD and V on your Mac keyboard.
+

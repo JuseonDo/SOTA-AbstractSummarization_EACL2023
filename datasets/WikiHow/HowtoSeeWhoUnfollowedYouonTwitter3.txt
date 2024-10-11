@@ -1,0 +1,58 @@
+@summary
+open a web browser.
+
+@summary
+navigate to http://www.statusbrew.com.
+
+@summary
+,
+
+@summary
+click sign up.
+
+@summary
+,
+
+@summary
+click sign up with twitter.
+
+@summary
+,
+
+@summary
+type your twitter username and password.
+
+@summary
+,
+
+@summary
+click authorize app.
+
+@summary
+,
+
+@summary
+type the requested personal information.
+
+@summary
+click the “proceed” link.
+
+@summary
+,
+
+@summary
+click your twitter name.
+
+@summary
+,
+
+@summary
+click “new unfollowers” link.
+@article
+ Statusbrew is a free website (and mobile app) that can monitor your Twitter followers.You can use Statusbrew to watch one Twitter account for free, but adding other accounts will cost money.
+,,,,, You’ll have to provide your email address, name, a and a new password for logging in to Statusbrew.
+,,
+
+
+If it’s your first time using Statusbrew, you won’t see any unfollowers listed. This is because it hasn’t been monitoring your Twitter followers until now.
+

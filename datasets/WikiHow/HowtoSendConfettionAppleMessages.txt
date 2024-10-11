@@ -1,0 +1,38 @@
+@summary
+open the messages app.
+
+@summary
+tap on a conversation.
+
+@summary
+,
+
+@summary
+type your message in the text field.
+
+@summary
+,
+
+@summary
+tap and hold the ↑.
+
+@summary
+tap screen.
+
+@summary
+,
+
+@summary
+swipe once to the left.
+
+@summary
+tap ↑.
+@article
+;
+,,, It's located to the right of the text field and opens a new window.
+, This should cause confetti to fall from the top of your screen.
+
+
+If it does not, check to make sure you do not have Reduce Motion turned on it the Accessibility options.
+ This sends the message and causes confetti to fall from the top of your screen again. When the recipient of the message opens the message confetti will fall from the top of their screen.
+

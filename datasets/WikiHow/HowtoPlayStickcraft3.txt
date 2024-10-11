@@ -1,0 +1,39 @@
+@summary
+now that you know these facts, you begin to create your stick figure:
+
+@summary
+get 10 points to divide up on these attribute scores: strength, reflexes, wits, and cheek.
+
+@summary
+select one special ability your species has.
+
+@summary
+you have the option of 1 reasonable special ability that your stick figure possesses example: a spy in a fantasy game might pick extremely silent.
+
+@summary
+get 20 points to create your character's equipment.
+
+@summary
+calculate your stick figure's health: add your strength + reflexes and multiply that number times 2.draw your completed character.
+
+@summary
+perform actions in adventure mode with stick figures.
+
+@summary
+roll 2d6 again and compare the results.
+
+@summary
+when rolling to see if you hit a target, roll just as a non-combat action is rolled except that the stick figure can roll to dodge.know the war rules for battles.set limits (if any) on what units can be deployed and what cannot be deployed.draw the battlefield terrain on paper.set a point budget of how many points each army gets (it can be almost any number, minimum 10).
+
+@summary
+buy things for your army.set fair victory conditions before the battle begins.
+@article
+ All attribute scores begin at 1, putting 1 point into one increases it by one.
+Divide up 10 points and your stick figure's wits. Spend them on skills. Putting 1 point in a skill increases it by one.
+Make up your stick figure's species. (Humans, elves, etc...).
+ Examples: flight, night vision, natural armor, etc...)
+
+Choose another one but must choose a flaw that your stick figures species has, such as: Bad reputation, ugly, no resistance to fire, etc...).
+Make your specie's arch-type. Arch-types are something like a job, such as: Knight, assassin, sniper ,gunslinger, etc...) After picking arch-type select 1 special skill (for a gunslinger a good one would be quick draw for example)
+
+,, Use the equipment creator in the other section of this article., The result is how much your health your stick figure has.,, For a non-combat action, the person controlling the stick figure rolls 2d6 and adds the skill or attribute that affects chance of it succeeding For example, when forging swords a skill of that type would be used., If the stick figures player rolls higher then he has succeeded. For combat stick figures, make rolls of 2d6+reflexes this establishes who goes first starting with the highest roller and ending with the lowest roller after all have done one action(such as firing a gun, drawing a gun, moving, etc)a new round begins., When a stick figure is struck with an attack the struck stick figure takes damage an unarmed attack by a average size stick figure deals 1d6 damaged but weapons deal different amounts of damage(see equipment creation for how much a weapon deals.,,,,, To buy a plain stick figure it costs 1pt. It has 10 health, but no gear and no skills. To give it skill it costs 1pt per skill level, remember: You need to provide skills for each member of your army. Otherwise, how did he get in the military in the first place? # 5e.combat is the same as it is in adventure mode.,

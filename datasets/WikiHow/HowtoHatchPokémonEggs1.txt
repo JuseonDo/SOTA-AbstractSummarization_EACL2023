@@ -1,0 +1,14 @@
+@summary
+get a pokémon egg by leaving two pokémon in the same egg group or a non-legendary pokémon with ditto.
+
+@summary
+get a pokémon with the ability magma armor or flame body.
+
+@summary
+put the pokémon with flame body or magma armor in your party.
+
+@summary
+hatch the pokémon egg by running around.
+@article
+ Every 255 steps there is a chance your Pokémon have laid an egg.
+ Slugma, Magcargo, Magby, Magmar, Magmortar Litwick, Lampent, Chandelure, Larvesta, and Volcarona have these abilities. Litwick and its evolutions may have Flash Fire as an ability, so check to make sure for them., Magma Armor halves the number of egg cycles, and Flame Body halves the number of steps needed for the egg to hatch, thus making egg hatching more efficient., Use a fast bike and cycle up and down somewhere with a long stretch of open ground. Use the Mauville breeding line in Hoenn, the Solaceon breeding line in Sinnoh and the Cycling Road in Kanto. You can tell the egg's progress in hatching by checking its summary.

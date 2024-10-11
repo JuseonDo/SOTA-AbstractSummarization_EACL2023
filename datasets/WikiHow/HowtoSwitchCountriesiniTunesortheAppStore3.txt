@@ -1,0 +1,9 @@
+@summary
+open the itunes store and scroll to the bottom right of the screen.
+
+@summary
+scroll down the list of flags and choose the flag of the country you wish to browse.
+@article
+ Click on the flag on the bottom of the screen. The flag should match the current country you reside in.
+ You should be routed to the homepage of the iTunes or App Store of that country. You will be able to browse what's offered in that country, but you will not be able to buy any music, movies, or apps.
+

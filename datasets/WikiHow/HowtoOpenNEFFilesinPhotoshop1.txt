@@ -1,0 +1,4 @@
+@summary
+don't use the nikon transfer program to transfer the images to your computer.
+@article
+ Older versions of this program can corrupt NEF files as they're transferred to your computer. Use the operating system's File Explorer to copy the NEF files instead.

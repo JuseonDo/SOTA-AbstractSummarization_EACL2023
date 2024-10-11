@@ -1,0 +1,37 @@
+@summary
+go to the website where you can find gnucash to download it.
+
+@summary
+download and install the file.
+
+@summary
+start up the program.
+
+@summary
+let the computer know what you want to do.
+
+@summary
+click 'forward'.
+
+@summary
+choose the type of currency that you will be using.
+
+@summary
+choose the type of accounts that you will be setting up.
+
+@summary
+decide if you want to change the name of what you are setting up, as far as account titles/names.
+
+@summary
+get down to the nuts and bolts.
+@article
+ There are Windows versions, Linux and Mac. This article will be using the Windows version for screenshots.;
+, The Windows version is an *.exe file and doesn't need a program for unzipping it.
+ The first time you run it, it will need to go through a few more steps to set things up.
+ You have three options when you first start up the software.
+ The next screen will be the New Account Hierarchy Setup screen.
+ GnuCash has quite a few choices.
+ The ones showing in the screenshot are just a few.
+ If you are unsure, leave them as they are.
+ This screen is your first screen after you have done all the setting up.
+

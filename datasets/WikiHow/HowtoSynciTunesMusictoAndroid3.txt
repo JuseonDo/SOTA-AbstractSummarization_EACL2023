@@ -1,0 +1,16 @@
+@summary
+download isyncr for pc to your android device from google play or the amazon appstore.
+
+@summary
+take a usb cable and connect it to your computer.
+
+@summary
+on windows, right click on the isyncr icon in the system tray.
+
+@summary
+click on your device to being the sync process.
+@article
+ Or download iSyncr for Mac from Google Play or the Amazon Appstore. Download and install iSyncr desktop on your PC or Mac., On Windows, the device should show up in "My Computer" or "Computer". On a Mac, the device does not show up in Finder., On Mac, left click on the iSyncr icon in the menu bar. Your device should now show up, just like the Xoom did in this case., Select playlists, artists, albums, genres and/or podcasts and press "Sync"!
+
+Your music and playlists should be available on your Android device a couple of minutes after unplugging the device.
+

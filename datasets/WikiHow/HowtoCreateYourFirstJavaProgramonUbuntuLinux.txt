@@ -1,0 +1,87 @@
+@summary
+open terminal on your system after installing java on your system.
+
+@summary
+create a directory to hold your java programs.
+
+@summary
+type: mkdir java_applications
+
+@summary
+this will create your java_applications directory.
+
+@summary
+,
+
+@summary
+navigate to your java_applications directory.
+
+@summary
+use a text editor such as nano or gedit to create a java file.
+
+@summary
+enter the following code below.save the file as helloworld.java
+
+@summary
+,
+
+@summary
+compile the helloworld.java file into a java class file by issuing the following command below.
+
+@summary
+run or execute your java class file by issuing the following command.
+@article
+;
+, Open up a terminal on Ubuntu Linux and create your Java applications directory.
+, Type or copy/paste: cd Java_Applications
+
+
+This will change you into your newly created Java_Applications directory.
+ In this example we will use the traditional first program known as “Hello world”. This will open up a blank Java text file to work with and now we will insert some text into our Java file.
+
+
+So using nano or gedit we will issue the following command:
+Type: nano HelloWorld.java or type gedit HelloWorld.java
+
+
+,
+
+
+
+
+
+
+import javax.swing.*;
+public class HelloWorld extends JFrame
+{
+public static void main(String[] args)
+{
+new HelloWorld();
+}
+public HelloWorld()
+{
+JPanel panel1 = new JPanel();
+JLabel label1 = new JLabel("Hello, World, this is my first Java  program on Ubuntu Linux");
+panel1.add(label1);
+this.add(panel1);
+this.setTitle("Hello World");
+this.setSize(500,500);
+this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+this.setVisible(true);
+}
+}
+
+
+
+
+
+,,
+
+Type javac HelloWorld.java
+
+(This will fail if you don't have javac installed, if it fails, either follow the instructions in the introduction or type on your command line: sudo apt-get install openjdk-7-jdk)
+
+,
+
+Type: java HelloWorld
+

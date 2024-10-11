@@ -1,0 +1,30 @@
+@summary
+check to see if you already have flip4mac installed.
+
+@summary
+locate the wmv file in the finder.
+
+@summary
+,
+
+@summary
+right-click on it and choose open with>quicktime player.
+
+@summary
+,
+
+@summary
+wait for the progress bar to finish.
+
+@summary
+,
+
+@summary
+if desired, go to file>save to export as a .mov file.
+@article
+ Go to System Preferences and look at the bottom. If you see a pane called "Flip4Mac," you have it installed. If it is not installed, click here to buy it. Note that Flip4Mac is no longer offered for free. If you are willing to pay, or downloaded Flip4Mac while it was free, continue with these steps.
+,,,
+
+
+Note that the resulting video will have a watermark. To eliminate the watermark, download the pro version of Flip4Mac.
+

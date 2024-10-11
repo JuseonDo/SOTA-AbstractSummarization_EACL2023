@@ -1,0 +1,5 @@
+@summary
+give the command to lift the litter.
+@article
+ All bearers should raise the litter simultaneously.
+

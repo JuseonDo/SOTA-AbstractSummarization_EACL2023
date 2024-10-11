@@ -1,0 +1,22 @@
+@summary
+first make a list of some songs that you like that go well with your background.
+
+@summary
+next go to one of the many websites that have music playlist makers on them.
+
+@summary
+now that you're on the website, follow the instructions to create the playlist.
+
+@summary
+get the necessary code.
+
+@summary
+go back to your page to check if it works.
+@article
+ If you have girly things on your page, don't put up some heavy metal music.;
+, For example, Imeem.com, myflashfetish.com
+
+, Once you get done with the steps, towards the end of the steps, an option should be "automatic play" or something similar to that. Check that off or click that.
+ Now you're almost done. Once you are finished, a few codes should come up. Copy the code you need for your profile and then paste it in the same place you type about yourself. Save.
+ If you did this right, then it should play music when the page it loaded.
+

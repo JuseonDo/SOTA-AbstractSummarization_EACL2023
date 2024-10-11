@@ -1,0 +1,25 @@
+@summary
+fix date & time.
+
+@summary
+go to settings > date & time.
+
+@summary
+,
+
+@summary
+check automatic date & time.
+
+@summary
+,
+
+@summary
+or uncheck automatic date & time and correct it yourself.
+
+@article
+ It works 80 percent of the time.
+
+
+Google Play Services sync with their master servers to send and receive data, to do this your device time and date should be correctly set.
+Most of us change time settings to cheat extra lives on Candy Crash Saga and later that turned out to be the main culprit behind connection error issue.
+,,

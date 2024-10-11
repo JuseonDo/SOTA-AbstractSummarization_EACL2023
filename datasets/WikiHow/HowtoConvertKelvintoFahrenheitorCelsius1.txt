@@ -1,0 +1,20 @@
+@summary
+write down the formula for converting kelvin to fahrenheit.
+
+@summary
+write down the kelvin temperature.
+
+@summary
+subtract 273 from the kelvin temperature.
+
+@summary
+multiply the result by 9/5 or 1.8.
+
+@summary
+add 32 to your final answer.
+@article
+ The formula is: ºF = 1.8 x (K - 273) + 32.;
+, The Kelvin temperature in this example is 373 K. Remember that you should not use degrees when measuring the temperature in Kelvin., Just subtract 273 from 373. 373 - 273 = 100.
+ Now, multiply the answer, 100, by 1.8. 100 * 1.8 = 180.
+ Just add 32 to 180 to get your final answer. 180 + 32 = 212. Therefore, 373 K = 212ºF.
+

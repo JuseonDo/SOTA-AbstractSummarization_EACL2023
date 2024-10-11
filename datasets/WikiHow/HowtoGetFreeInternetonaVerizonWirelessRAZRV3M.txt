@@ -1,0 +1,60 @@
+@summary
+open your phone.
+
+@summary
+"enter security code:" should be on the screen - type 000000 which is six zeros and then press the right soft-key which is the top-right button, closest to the screen.
+
+@summary
+,
+
+@summary
+web sessions should be the first item in the list, and should be highlighted.press down to highlight and then press the right soft-key for select
+
+@summary
+,
+
+@summary
+here we will setup the new web session to in essence give us free wap.
+
+@summary
+homepage should be highlighted.
+
+@summary
+to enter the ip address, simply start typing by pressing the 6 key which will take you to a text input screen with a 6 on the screen at the far left.
+
+@summary
+now we need to enter the rest of the numbers.
+
+@summary
+press the down key twice or until port 1: is highlighted.
+
+@summary
+make sure that service type 1 is set to wap.
+
+@summary
+and now we're done!,
+
+@summary
+you should be taken back to the list of web sessions.
+
+@summary
+and voila!
+@article
+ Press #0SETUP* or #073887* -- QUICKLY -- If you pause while typing #0SETUP* in, it may not work. Also note that that's a ZERO not an OH OR you can enter ##02679737 on your phone and it brings you there without security code(if it does not work then use #0SETUP* (quickly);
+,, Press the right soft-key for Select
+
+,, Name should be highlighted. Simply start typing a name and it will take you to another screen to input text. This is not that important, and you can name the web session anything. For this application, we named our web session Google. After you're done naming your web session, press the left soft-key for OK
+
+, If it is, Press the down key 3 times or simply scroll until you highlight Gateway IP 1:. Here we will put the IP address of Google, which will serve as our proxy. I believe that simply typing in google.com for the "Gateway" will work as well... but the following is how free wrap is usually described.
+ This is the first number of our IP address. Press 4 then press the right arrow key so that the cursor is after the first period. The screen should now read 64 .__| .___ .___
+
+, Type 233 and pause then Type 167 and pause then Type 99 and that should be the end. Your screen should now read 64 .233 .167 . 99| and if it does, Press the right soft-key for OK
+
+, Press 8 as that's the first number for the port and will get you into the text editor. Then press 0 which should make it say 80 on the screen, and if it does, Press the left soft-key for OK. The other ports listed below Port 1: can be left as their default.
+ If it is not, press the center button, highlight the WAP selection with your arrow keys, and then press Select (right soft-key)
+
+, Press the right soft-key for Done and the screen should say Stored: Google
+
+, Highlight Google then Press the center button (in the middle of the up/down/left/right keys) and it should begin your web session with Google.
+ You now have FREE WAP by using Google as a proxy. You should start out at the google web page, and you should be able to steer away to another page by using your phones menu.
+

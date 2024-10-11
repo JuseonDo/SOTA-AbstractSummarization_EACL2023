@@ -1,0 +1,37 @@
+@summary
+go to the system settings menu.
+
+@summary
+find the button which says internet, and tap it.
+
+@summary
+,
+
+@summary
+tap one of the three connection menus (1, 2 or 3).
+
+@summary
+tap 'search for an access point'.
+
+@summary
+when access points are found, they will appear on the screen as a list.
+
+@summary
+if your access point is secured by a wep key, type in the wep key and proceed to the connection test.
+
+@summary
+,
+
+@summary
+test the connection.
+@article
+;
+,,
+
+Some Internet access points have security features enabled which render them inaccessible from your DS unless you use Advanced Setup. These access points will have a grey padlock next to their names. To connect to one of these access points, tap Advanced setup and choose a connection file (4, 5 or 6).
+ Your DS will search for nearby Internet access points.
+ Tap the name of the access point you want to connect to.
+
+If your access point is not shown, move closer to it and try again.
+, Once the connection test completes successfully, you will now be able to connect your DS to the Internet.
+

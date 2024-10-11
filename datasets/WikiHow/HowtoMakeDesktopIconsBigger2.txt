@@ -1,0 +1,12 @@
+@summary
+right-click on the desktop background image.
+
+@summary
+click on view.
+
+@summary
+select an icon size.
+@article
+ Do so with the right button on your trackpad or mouse. This opens the contextual menu., It's at the top of the menu.
+ Click on "Large Icons" or "Medium Icons" to increase the size of the icons on your screen. Now you've made the icons your desktop bigger.
+

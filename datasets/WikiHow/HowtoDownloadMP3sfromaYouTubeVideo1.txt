@@ -1,0 +1,21 @@
+@summary
+go to a conversion website.
+
+@summary
+enter in the url of the youtube video.
+
+@summary
+choose mp3 (audio only).
+
+@summary
+,
+
+@summary
+click start and wait for it to convert.
+
+@summary
+right-click "download the converted video.",enjoy your new mp3.
+@article
+ These are online video conversion sites that allow you to download streaming video as either video or audio onto your computer without having to download any programs first. Some popular options include YouTube-MP3.org, http://www.thatmp3.com, and ListenToYouTube.com, You can simply copy and paste the URL from YouTube.
+, This may take a few minutes depending on the size of the file that you are converting.
+ For Macs, use Control + Click. Once it has been downloaded onto your computer, click "Save Target As" and choose your location for it.

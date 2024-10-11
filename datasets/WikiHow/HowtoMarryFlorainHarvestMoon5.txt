@@ -1,0 +1,11 @@
+@summary
+when flora has an orange heart color, buy a blue feather.
+
+@summary
+,
+
+@summary
+when flora has a red heart colour, give the feather to her.
+@article
+, By doing this, you are proposing to her and it means that you want to marry her. If she accepts (which she will, if the heart colour is red), then you will have a wedding with her in a week.
+

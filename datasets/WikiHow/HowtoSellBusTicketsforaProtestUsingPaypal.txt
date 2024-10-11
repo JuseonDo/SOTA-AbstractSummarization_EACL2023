@@ -1,0 +1,19 @@
+@summary
+set up a paypal merchant account.
+
+@summary
+create a buy it now button.
+
+@summary
+make sure to figure the 3% fee into your price, if you want to get $75.00 for the seat, you will have to charge $78.00 in order to get all your money.
+
+@summary
+,
+
+@summary
+you can also email the buy it now button to anyone and all they have to do is click on the button in their email.
+
+@article
+ You will need to give PayPal your credit card info along with bank account info. This level of account will allow you to buy and sell, not only to PayPal members but it will allow you except credit and debit cards from non-members.;
+, Go to the merchant tools section and then click on the create a buy it now button option. Follow the step by step instructions; do not encrypt your button because that will make it harder to post online. Then copy the code and paste it onto a webpage.
+,

@@ -1,0 +1,24 @@
+@summary
+use a bow and arrow.
+
+@summary
+try to keep a distance.
+
+@summary
+wear armor.
+
+@summary
+look around for them when you are outside or in a cave.
+
+@summary
+be cautious, even with the best items in the game, they'll still blow up and they'll still cause damage.
+
+@article
+ Without it, avoiding explosions from those annoying creatures can be a lot tougher. Going in with a sword can cause fatal accidents and destruction.;
+, Staying close to them won't help at all! They'll just blow up right in your face!
+
+, If you don't have any, don't go near those pesky fellas! If you were to get into an accident, chances are you'll die!
+
+, Make sure what you see isn't a creeper!
+
+,

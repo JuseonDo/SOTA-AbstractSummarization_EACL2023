@@ -1,0 +1,35 @@
+@summary
+head to the base.
+
+@summary
+get a car.
+
+@summary
+use the car.
+
+@summary
+find the jet.
+
+@summary
+get the jet.
+
+@summary
+avoid the police.
+
+@summary
+fly to trevor's airfield and park in the hangar.
+
+@summary
+,
+
+@summary
+save it.
+@article
+ Near the base, there is a tunnel and a significant slope up to the military base.;
+, To get over the wall, you'll need a good car with a lot of speed.
+ Drive fast and get over the wall.
+ There is a jet in outside, about halfway down the runway.
+ Fly out of there and stay low.
+ When you are low, fly around the mountains until you have no stars.
+, Enjoy a massive jet for future use!
+

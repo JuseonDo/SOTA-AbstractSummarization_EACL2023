@@ -1,0 +1,21 @@
+@summary
+open your phone app.
+
+@summary
+tap recents.
+
+@summary
+tap ⓘ next to a number you want to block.
+
+@summary
+scroll down and tap block this caller.
+
+@summary
+tap block contact.
+@article
+ It's a green app that contains a white telephone icon and is typically located on your home screen.
+ It's a clock icon in the bottom left corner of the screen.
+ It's on the right side of the screen.
+ It's at the bottom of the menu.
+ Now, calls from this number will not reach your iPhone.
+

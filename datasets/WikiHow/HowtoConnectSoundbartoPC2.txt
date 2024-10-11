@@ -1,0 +1,9 @@
+@summary
+use a cable to connect the devices together.
+
+@summary
+use the soundbar.
+@article
+ Plug the 3.5 mm jack in your computer’s 3.5 mm port.
+ It will act as a regular external speaker.
+

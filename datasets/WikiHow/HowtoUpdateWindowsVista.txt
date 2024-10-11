@@ -1,0 +1,20 @@
+@summary
+make sure that all other programs are closed.
+
+@summary
+click on the start menu.
+
+@summary
+go to security.
+
+@summary
+wait for a new window to open.
+
+@summary
+begin the updates.
+
+@summary
+restart.
+@article
+ This includes the browser, Task Manager, etc.
+ Select the Control Panel., Click Check for Updates., Click Check for Updates again., When it's done searching, click on Install Updates., After updates are done installing, restart your computer and Windows Vista should be updated.

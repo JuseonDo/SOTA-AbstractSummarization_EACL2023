@@ -1,0 +1,22 @@
+@summary
+open firefox.
+
+@summary
+click ☰.
+
+@summary
+click options.
+
+@summary
+click privacy.
+
+@summary
+click remove individual cookies.
+
+@summary
+review your browser's cookies.
+@article
+ It resembles a blue globe with an orange fox encircling it., This icon is in the top-right corner of the browser window., It's a gear-shaped icon in the drop-down menu., This tab is on the left side of the page., It's a link in the middle of the page. Doing so will bring up a list of your Firefox browser's cookies.
+
+If you're using custom settings for your Firefox history, you won't have the remove individual cookies option; instead, click the Show Cookies button on the right side of the page.
+ Firefox cookies are organized by site. Double-clicking a site's folder will display its cookies, and clicking a cookie will display its specific attributes.

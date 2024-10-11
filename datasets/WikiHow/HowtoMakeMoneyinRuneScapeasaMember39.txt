@@ -1,0 +1,15 @@
+@summary
+complete the quest "nature spirit" and have the nature spirit bless your silver sickle.
+
+@summary
+,
+
+@summary
+charge your prayer.
+
+@summary
+equip the sickle and go into the mort myre swamp.
+@article
+, Be sure to bring something to restore your prayer points, such as super restore or prayer potions. You may want to have the Holy Wrench from the Great Brain Robbery.
+ Find and area that has at least logs near each other. Cast Bloom and pick up the fungi on the logs. These are used in herblore making Super Energy potions to train herblore.
+

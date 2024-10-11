@@ -1,0 +1,87 @@
+@summary
+go to microsoft.com to download their web platform installer 3.0.;
+
+@summary
+,
+
+@summary
+click on the 'download it now' button on the right.
+
+@summary
+make your selections for what you want to install.
+
+@summary
+wait for it to install.
+
+@summary
+once it has done some of the installation, you will start to get a series of screens.
+
+@summary
+start filling out the pertinent information for your tiki.
+
+@summary
+click on 'continue'.
+
+@summary
+,
+
+@summary
+launch your tiki.
+
+@summary
+validate your tiki install.
+
+@summary
+read the license agreement and click on 'continue'.
+
+@summary
+,
+
+@summary
+check the system requirements.
+
+@summary
+set the database connection.
+
+@summary
+populate the database.
+
+@summary
+review the installation.
+
+@summary
+configure the general settings.
+
+@summary
+choose to lock the installer or not.
+
+@summary
+start looking around your local tiki.
+@article
+,
+
+
+This will download the WPI Launcher.
+ It is probably better to start out one at a time.
+ Depending on what you chose, this can take quite some time.
+ Read them carefully, to know what you are doing.
+
+
+After you have done all of this, the next part of the installation will start.
+
+
+
+It is a good idea to write down your responses for anything that you enter, unless you have a pretty good memory.
+, Once you have completed all of the necessary info, you will be able to launch your Tiki. It will open into your default web browser.
+ You will need to enter in the database name and password.
+, This screen will tell you if your system has what it needs.
+ Your install will probably be able to find it, but if you choose, you can modify it.
+ You will see 'Install' in the center of your screen. Click on it to populate the database.
+ This lets you know that the installation is complete.
+ Click 'Continue'.
+ This screen indicates that your install of Tiki was completely successful.
+ The URL that it will probably be under is:
+
+
+http://localhost/tiki-index.php
+

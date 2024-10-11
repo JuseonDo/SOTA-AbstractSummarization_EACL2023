@@ -1,0 +1,24 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll to the fifth group of options and select contacts.
+
+@summary
+,
+
+@summary
+tap sort order.
+
+@summary
+,
+
+@summary
+select last, first.
+@article
+ Do this by tapping the grey gear icon on one of your iPhone's Home screens (the Settings app may be in a folder entitled "Utilities").;
+,,, Your contacts will rearrange to reflect their last names in alphabetical order.
+
+
+If there's already a checkmark next to Last, First, your contacts are already being sorted by their last names.
+

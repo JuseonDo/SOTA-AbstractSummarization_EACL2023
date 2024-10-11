@@ -1,0 +1,22 @@
+@summary
+open the device's settings.
+
+@summary
+scroll down and tap safari.
+
+@summary
+scroll down and tap clear history and website data.
+
+@summary
+,
+
+@summary
+tap clear history and data.
+@article
+ This is the grey icon with gears on your home screen.;
+, This is about half way down the page.
+, This will delete the stored website cache, cookies, and browsing history on your device.
+
+
+On iPad this button is just Clear.
+

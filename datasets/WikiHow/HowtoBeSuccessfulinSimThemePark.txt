@@ -1,0 +1,39 @@
+@summary
+choose your park.
+
+@summary
+familiarize yourself with the various menus.
+
+@summary
+build all the available rides, sideshows, and stores available to you.
+
+@summary
+set patrol areas.
+
+@summary
+never take out a loan unless you're really under, or close to a "game over".
+
+@summary
+adjust all shop quality meters to the lowest quality, raise the "amount of salt" or "amount of sugar" (or whatever is the middle slider, if it increases the quality go for it) and raise the ticket price.
+
+@summary
+don't forget to put down trash cans and bathrooms, they're really important.
+
+@summary
+,
+
+@summary
+set entertainers at places that tend to have long ride waits.
+
+@summary
+when you've built all the rides, don't forgot to upgrade all the rides you can.
+@article
+ If you're just starting out, you'll have two parks to chose from- the Lost Kingdom, and Halloween World.;
+, The walkie talkie at the bottom displays a Build Rides, Attractions, Sideshows, Features, and Hire Staff button (all one button, it's on the top left),next, an info button for information on all your rides and staff, next, a map, in which you can see staff patrol areas, areas that are the most popular, most messy, etc,. The light bulb is for research, and the coins button is for Financial information. (Staff training, ticket price, and loans.
+ Don't put them to close. Build security cameras around and hire staff.
+ Your advisor will drive you crazy if you don't.
+ A game over occurs when you are bankrupt for 6 months. If you're only about 1000 under or so, don't take out a loan.
+ The low quality won't make a difference.
+, Check the map for this.
+ In research, don't do ride upgrades until everything else has been researched, that way, you can simply upgrade when its announced to avoid having to go to every ride to check if it has an upgrade.
+

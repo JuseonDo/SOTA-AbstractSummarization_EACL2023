@@ -1,0 +1,218 @@
+@summary
+unplug washer or disconnect power.
+
+@summary
+turn off the water to the washer.
+
+@summary
+pull the machine out far enough to tip it back against the wall.
+
+@summary
+disconnect the wire harness from the motor.
+
+@summary
+remove the two snap clamps from the water pump (do not disconnect the water lines or you will have a bit of mess).
+
+@summary
+remove the cabinet from the base:
+
+@summary
+look at the console (the thing with the knobs).
+
+@summary
+remove the motor.
+
+@summary
+remove the bad coupler.
+
+@summary
+reinstall the motor.
+
+@summary
+remove the pump:
+
+@summary
+using a screwdriver or your hand, unsnap the bottom retainer from the pump.
+
+@summary
+remove the drive motor:
+
+@summary
+using a screwdriver, remove the screws (if used) which hold the top and bottom retainers to the front of the drive motor.
+
+@summary
+pry or break the motor couplings off of the drive shaft and gear case shaft.
+
+@summary
+,
+
+@summary
+push one of the new plastic motor couplings on the shaft of the drive motor.
+
+@summary
+,
+
+@summary
+push the other new plastic motor coupling on the shaft of the gear case.
+
+@summary
+,
+
+@summary
+place the new rubber isolation coupling on the drive motor coupling by lining up the holes in the isolation with the studs in the coupling, and then push on.
+
+@summary
+,
+
+@summary
+turn the isolation a coupling on the drive motor lining up the holes with the studs on the other coupling on the gear case.
+
+@summary
+,
+
+@summary
+replace the drive motor.
+
+@summary
+,
+
+@summary
+replace the pump.
+
+@summary
+replace the cabinet.
+
+@summary
+,reconnect the wire harness and extra wire to the motor.put the washer back down on all fours.
+
+@summary
+plug in washer or reconnect power.
+
+@article
+;
+, (Do NOT skip this step if you are going to completely remove the water pump down the line.), (Make sure to overcenter the CG behind the back legs when you tip it back or brace the front end up in the air.), (Both the connecter and the separate wire.), Stowe the pump up out of the way. Mine fit nicely above the plate above its location.Remove the two pump clamps from the motor., If there are visible screws, remove them. If not, slide off the end caps to expose screws, and remove them. Remove the clamps for the motor and from the machine.Support the weight of the motor with your spare hand.
+
+
+
+
+
+
+Pull console forward and up to remove the tabs on the bottom of the console from the holes on the top of the cabinet.
+
+
+
+
+
+
+Lift up the console and lay it back until it rests on the hinges.
+
+
+
+
+
+
+Disconnect the lid switch harness connector by pressing on the tab (located in the middle), and pulling up.
+
+
+
+
+
+
+Insert a screwdriver into the turned-up edge of the clip (located on both sides), and pry back. This removes the clip from the hole in the cabinet.
+
+
+
+
+
+
+Slide the other end of the clip down and out the slot in the rear panel.
+
+
+
+
+
+
+Do the same thing to the other clip.
+
+
+
+
+
+
+Open and hold the lid while grabbing the cabinet front opening.
+
+
+
+
+
+
+Tilt the top of the cabinet toward you by pulling on the lid and opening of the cabinet. This releases the back slots of the cabinet from the tabs in the back of the base. Be sure that the back edge clears the vacuum break.
+
+
+
+
+
+
+Using the back of your leg and/or body as a support for the front of the cabinet, carefully lift while pulling it away from the base of the washer. This releases the front slots of the cabinet from the tabs in the front of the base.
+
+
+
+
+
+
+Set the cabinet aside
+
+
+
+
+
+
+
+, (May take a little bit of force to dislodge it from the rubber grommets) Do NOT panic if the grommets come off with the motor. Do NOT rest the motor on either driveshaft., The new metal re-enforced couplers may need a little motivation to be installed. Tap VERY LIGHTLY with a 1.5" rubber mallet, so as not to damage the gearbox., Snap the motor clamps back into place. Tighten down the 1/4" snap clamp screws.,
+
+
+
+
+
+
+Using pliers, slide the clamp on the top hose off the port of the pump.
+
+
+
+
+
+
+Carefully remove this hose.
+
+
+
+
+
+
+Using a pail, drain excess water from this hose.
+
+
+
+
+
+
+Using pliers, slide the clamp on the bottom hose off the port of the pump.
+Carefully remove this hose.
+Using a pail, drain the excess water from this hose.
+
+
+
+
+
+
+
+Using a screwdriver or your hand, unsnap the bottom retainer from the drive motor.
+
+
+
+
+
+
+Carefully pull the drive motor straight out.
+,,,,,, You may need to turn the pump, do so in the correct direction of the rotation of the pump. Snap the pump clamps back into place.
+,,,

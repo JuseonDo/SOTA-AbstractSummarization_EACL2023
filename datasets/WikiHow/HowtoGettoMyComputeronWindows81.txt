@@ -1,0 +1,9 @@
+@summary
+press ⊞ win+e.
+
+@summary
+click "this pc" or "computer" in the navigation pane.
+@article
+ This will automatically open the File Explorer window.;
+, The pane is located in the left-hand side of the Explorer window (you may need to scroll down a bit to see '"This PC" it if you have a lot of folders).
+

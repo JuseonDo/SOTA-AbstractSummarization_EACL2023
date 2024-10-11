@@ -1,0 +1,22 @@
+@summary
+open the messages application.
+
+@summary
+,
+
+@summary
+hover the cursor over the conversation you wish to delete.
+
+@summary
+click on "x".
+
+@summary
+click on delete.
+@article
+, The conversations are listed on the left side of the of the window.
+ It will appear just below the time stamp.
+ The messages in the conversation are now deleted.
+
+
+Repeat for all messages you wish to delete.
+

@@ -1,0 +1,18 @@
+@summary
+listen carefully to the question.
+
+@summary
+repeat the main verb.
+
+@summary
+don't use this method with long questions.
+@article
+ Determine the main verb.;
+, Some examples:
+
+
+"Estne puella pulchra?"  "Est."  ("Is the girl beautiful?"  "She is.")
+"Villam emit?"  "Emit."  ("Does he buy a villa?"  "He buys" )
+
+, If you're dealing with a long sentence and multiple parts, this method isn't the best one.
+

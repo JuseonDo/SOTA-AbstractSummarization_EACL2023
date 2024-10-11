@@ -1,0 +1,35 @@
+@summary
+log in to your twitter account with your username and password.
+
+@summary
+type a new tweet into the box labeled "compose new tweet.",
+
+@summary
+click on the grayed-out icon that depicts a "picture" located below your tweet on the left.
+
+@summary
+navigate to the photo you want uploaded from your computer and into twitter.
+
+@summary
+click on your photo to select the image and have it added to your tweet.
+
+@summary
+verify that your tweet has enough characters to accommodate the photo you added.
+
+@summary
+click on the "tweet" button to publish your photo to twitter.
+@article
+ If you have not created a Twitter account yet, sign up.;
+, This can be found on the left-hand side of the "home" screen. Alternatively you can press "n" on your keyboard to compose a new tweet.
+ A pop-up window will display prompting you to upload a photo from your computer.
+ The image you choose must not exceed 3 megabytes in size, and must either be in the ".gif," ".jpeg," or ".png" file formats.
+
+
+If your photo does not meet these requirements, consider changing the file format or downsizing your photo in your favorite photo editing software.
+ Your image will appear below your tweet in the size of a thumbnail and the camera icon will now be blue.
+ When you add a photo, a shortened website link will appear in your tweet that your friends and followers can click on to see your photo in their browser. The website link for your photo will use a portion of the 140 characters allowed for a tweet.
+
+
+If the character count for your tweet is below 0 after adding your photo, adjust and shorten the text you typed for your tweet so the link for your photo will fully display in your tweet.
+ Your friends and followers will now have the ability to view your photo after clicking on its link in your tweet.
+

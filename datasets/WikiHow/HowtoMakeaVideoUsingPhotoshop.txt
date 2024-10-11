@@ -1,0 +1,31 @@
+@summary
+open photoshop, then click file- open file, click on the first image and image sequence box.
+
+@summary
+the frame rate box will appear, decide how many frames per second you would like.
+
+@summary
+once the first image appears go to file, export.
+
+@summary
+wait for a bit while the movie exports.
+
+@summary
+your film will automatically save to your selected location once it is finished exporting.
+
+@summary
+,
+
+@summary
+enjoy and share!
+
+@article
+;
+, It will have options in a drop down box to select or you can have a custom number of your choosing, OK.
+ In the dialogue box, select the Location to save to. File options, select QuickTime Movie, Settings, Settings, Compression Type H.264, OK. Size, 1280 X 720 HD, check Preserve Ratio box, in the drop down select Letterbox, OK. Render.
+
+
+
+If you do not like the "timing" you can open Window, Animation. This will open up the animation bar, the bottom right corner of the toolbar is a little "film strip". The small image in the toolbar has a little upside down triangle, click this and a list of times will appear, you can try out different time delays between frames. To check out the different times click back on the little "film strip" and you will be able to watch the video.
+Or you can start over and re-render your video selecting a different number of frames per second.
+,

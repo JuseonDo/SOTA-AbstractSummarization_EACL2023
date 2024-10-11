@@ -1,0 +1,29 @@
+@summary
+highlight text.
+
+@summary
+click on ⋮.
+
+@summary
+click on copy.
+
+@summary
+go to the place where you want to insert the content.
+
+@summary
+click on the place where you want to insert the content.
+
+@summary
+click on ⋮.
+
+@summary
+click on paste.
+@article
+ Use the touchpad to highlight the text or content you want to copy.
+ It's in the top-right corner of the window.
+ It's near the bottom of the menu, to the right of "Edit".
+ Navigate to the place or the document in which you want to insert the content.
+ Position the cursor in the location where you want your content pasted.
+ It's in the top-right corner of the window.
+ It's near the bottom of the menu to the right of "Edit".
+

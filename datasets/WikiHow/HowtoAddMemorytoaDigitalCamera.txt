@@ -1,0 +1,17 @@
+@summary
+find out what type of cards your camera is compatible with.
+
+@summary
+determine how much more memory you require.
+
+@summary
+read your camera's manual to find out the largest card with which your camera is compatible.
+
+@summary
+if you can afford it, stick to well known brands such as lexar and sandisk.
+@article
+ The majority of cameras are only compatible with one type of card.;
+, This will depend on the resolution of your camera, whether you are shooting raw or JPEG and how many photos you take in one outing. You can easily work this out by seeing how large the photos you are taking are, and multiplying this figure by the amount of photos you are likely to take in a single outing.
+ This refers to the amount of memory on the card, not the physical size. Some cameras will have a limit as to how large the card can be.
+ While cheap cards will usually work fine, a card from a well known brand will be faster and more reliable.
+

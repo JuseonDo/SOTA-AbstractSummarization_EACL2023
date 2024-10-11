@@ -1,0 +1,25 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll down to the third group of apps and tap sounds & haptics.
+
+@summary
+scroll down to the third section of options and tap reminder alerts.
+
+@summary
+,
+
+@summary
+tap a sound.
+
+@summary
+,
+
+@summary
+tap < sounds & haptics.
+@article
+ This is the grey gear icon that you'll see on one of your Home screens (or a folder named "Utilities").;
+, Depending on your model of phone, this menu might just say Sounds.
+,, This is in the top left corner of your screen. Your selected sound should now be your reminder alert sound.
+

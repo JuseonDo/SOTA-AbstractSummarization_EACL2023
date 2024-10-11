@@ -1,0 +1,44 @@
+@summary
+use a specialist mobile solutions provider.
+
+@summary
+review the total cost of ownership of hardware and at least consider the rugged device.
+
+@summary
+,
+
+@summary
+consider an outsourced or application service provider solution to avoid complexity and support headaches.
+
+@summary
+,
+
+@summary
+simple is best.
+
+@summary
+keep the first project manageable.
+
+@summary
+don’t go online.
+
+@summary
+put something in for the field worker.
+
+@summary
+allow time for design.
+
+@summary
+don’t allow integration to be shrugged off.
+
+@summary
+appoint “tech-savvy” power users to learn the system first, train their peers, and be the first port-of-call for support.
+
+@article
+ Don’t get fooled into engaging a non-specialist software writer.;
+,,, Keep the application simple to make training easier and avoid mistakes.
+ Focus on paper-heavy tasks and quick ROI.
+ Mobile coverage can be patchy so opt for an occasionally connected model with a thick client that will allow your drivers to do their jobs even when they don’t have coverage.
+ To achieve greater field worker acceptance, include something in the application which makes the life of the field worker easier eg. Time sheets.
+ The design phase of a project is the most underestimated. It is usually more difficult to agree the requirement than to build the final application.
+ Data is useless if it can’t be integrated to internal systems and external customers. Make sure that the solution provider understands how to integrate to your systems.

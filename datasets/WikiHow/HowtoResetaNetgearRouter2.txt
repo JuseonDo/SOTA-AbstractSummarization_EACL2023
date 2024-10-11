@@ -1,0 +1,15 @@
+@summary
+locate the buttons on the side of the router labeled "wireless" and "wps.",
+
+@summary
+press and hold the "wireless" and "wps" buttons simultaneously for 6 seconds.
+
+@summary
+release the buttons.
+@article
+, The power LED will blink red.
+ The router will reboot and the power LED will be solid.
+
+
+The Netgear router will be restored to its factory settings. Follow the instructions in the documentation for your model to set up and configure your router.
+

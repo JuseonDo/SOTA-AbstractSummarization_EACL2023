@@ -1,0 +1,35 @@
+@summary
+hover over “mailpoet.” click “newsletters.”
+
+@summary
+,
+
+@summary
+click “create a new e-mail” on the “all newsletters” page.
+
+@summary
+select the appropriate choice for your e-mail.
+
+@summary
+select the period and time over which the e-mails are sent.
+
+@summary
+select the list you wish to use.
+
+@summary
+,
+
+@summary
+click “next step.” on this page, your automatic e-mail template is set up with the “automatic latest content” added.
+@article
+, This should be at the top of the screen. The “First Step: Main Details” page will come up.
+
+
+Make sure the radio button next to “Automatic Newsletter” is selected.
+ Next to “Automatically Sent,” there’s a dropdown menu. The choices are “When there’s new content . . . ,” “When someone subscribes to the list,” and “When a new WordPress User is added to your site.” Select which option best suits your e-mail.
+ Enter a subject line.
+,
+
+
+From this point, editing, saving, and sending your automatic newsletter is the same as the standard newsletter EXCEPT you do not have the option to schedule it on the “Final Step: last details” page.
+

@@ -1,0 +1,21 @@
+@summary
+go into the boss room to start the battle.
+
+@summary
+knucklemaster will try to ram link by turning into a fist and charging towards him.
+
+@summary
+should it miss, it will ram into the wall, and its eye will become vulnerable.
+
+@summary
+it will try to squash link after it gets back up.
+
+@summary
+it will try to ram into you again after a while.
+@article
+;
+, Use a Tornado Rod or turn into a painting when it charges towards you.
+ Slash it repeatedly until it gets back up.
+ Avoid this by turning into a painting. Beware though, that should it hit a crack in the floor, it will destroy it. This will make it harder to maneuver around the arena.
+ Repeat the pattern of avoiding it and slashing its eye until it's defeated. Halfway through the battle, it will become faster and try to squash you more often.
+

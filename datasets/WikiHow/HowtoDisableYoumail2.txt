@@ -1,0 +1,18 @@
+@summary
+open the voicemail app on your device.
+
+@summary
+,
+
+@summary
+dial *73 and press .
+
+@summary
+set your voicemail speed dial number to *86.
+@article
+,
+
+
+Alternatively, you can dial *710 if the first code doesn’t work.
+ Your device should now revert back to the default Verizon voicemail.
+

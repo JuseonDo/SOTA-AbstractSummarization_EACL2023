@@ -1,0 +1,35 @@
+@summary
+open facebook.
+
+@summary
+tap the camera icon.
+
+@summary
+press and hold the shutter button to record your video.
+
+@summary
+tap the speaker icon.
+
+@summary
+edit your video.
+
+@summary
+tap the arrow in a circle.
+
+@summary
+place a check mark next to “your story.” if you already see a check mark, there’s no need to change anything.
+
+@summary
+,
+
+@summary
+tap the send icon.
+@article
+ It’s a blue icon with a white “f.” You’ll usually find it on your home screen.;
+, It’s near the top-left corner of the screen. You should now see a camera viewfinder.
+ It’s the large circle near the bottom of the screen. You can lift your finger at any time to stop recording.
+ It’s near the top of the screen. An “x” will appear near the speaker, indicating the that volume is now muted.
+ This is optional, but you can tap the magic wand to view editing options, then edit your video as you wish. When you’re finished, tap Done.
+ It’s near the bottom of the screen. This brings you to a screen with sharing options.
+, It’s the paper airplane icon at the bottom of the screen. Your soundless video will now be posted to your Facebook story.
+

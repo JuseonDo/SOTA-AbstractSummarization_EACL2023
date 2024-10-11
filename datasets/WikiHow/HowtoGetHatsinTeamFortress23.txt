@@ -1,0 +1,15 @@
+@summary
+click 'shop' in the game's main menu.
+
+@summary
+,
+
+@summary
+browse the new items or see everything in the store using the options at the top of the screen.
+
+@summary
+to make a purchase, click 'add item to cart', then check out.
+@article
+, You can view bundles of hats and weapons as well as individual items for each class.
+ Follow the prompts onscreen. Steam requires that the funds for your purchase be added to your Steam account before the purchase is made. Once added, the funds will be used to finish the purchase.
+

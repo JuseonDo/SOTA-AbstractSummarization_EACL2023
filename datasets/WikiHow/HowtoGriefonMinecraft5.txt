@@ -1,0 +1,8 @@
+@summary
+walk around.
+
+@summary
+remove some of the walls to make letters.
+@article
+ Find a large house with tall walls.
+ You can spell out your name, "Hello," "I hate you," or whatever else you wish to do.

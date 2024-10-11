@@ -1,0 +1,52 @@
+@summary
+power on your samsung tv and press “menu” on your television remote.
+
+@summary
+use your remote to scroll to and select “network.” this will open the network menu.
+
+@summary
+,
+
+@summary
+scroll to “network type” and select “wireless.”
+
+@summary
+,
+
+@summary
+scroll to and select “network setup,” then select “select a network.” a list of nearby wi-fi networks will display on-screen.
+
+@summary
+,
+
+@summary
+scroll to and select the name of your wi-fi network.
+
+@summary
+enter the password for your wi-fi network using the on-screen keypad, then press the blue button on your samsung remote.
+
+@summary
+select “ok” when the “connection successful” message displays on-screen.
+
+@summary
+try powering your samsung television off and on after setting up your wi-fi connection.
+
+@summary
+upgrade the firmware for your samsung tv via usb if you are unable to connect to your wi-fi network.
+
+@summary
+try resetting your internet router if the router recognizes other devices in your home, but not your television.
+@article
+;
+,,,, This will bring up the “Security Key” dialog box.
+ Your Samsung TV will attempt to connect to your Wi-Fi network., Your Samsung TV will now be connected to your Wi-Fi network., Some television models may require this extra step for changes to take effect.
+ Samsung TVs with outdated firmware may not be able to connect to Wi-Fi until firmware is updated.
+
+
+Navigate to Samsung’s Download website at http://www.samsung.com/us/support/downloads on a computer.
+Click on “TVs,” then select the model of your Samsung TV.
+Select the option to download the latest firmware to your computer, then copy the file over to a USB flash drive.
+Insert the USB flash drive into a USB port on your Samsung TV, then power on your television.
+Press the “Menu” button on your remote, then navigate to Support > Software Upgrade > By USB.
+Select “Yes” to install the latest firmware. Your Samsung TV will install the latest firmware from USB, then restart., This will restore the router’s default factory settings and can help resolve connectivity issues.Press and release the “reset” button on your Internet router, or contact the router’s manufacturer for instructions on how to restore default factory settings.
+

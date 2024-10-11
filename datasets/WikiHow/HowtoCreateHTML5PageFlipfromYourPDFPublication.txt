@@ -1,0 +1,38 @@
+@summary
+split your publication into individual pictures.
+
+@summary
+rename the converted images in the following format: -.e.g.
+
+@summary
+insert the images generated from step 1 into a folder.
+
+@summary
+create another folder.
+
+@summary
+put the folder containing the converted images into the folder created during the previous step.
+
+@summary
+,
+
+@summary
+get javascript html5 libraries that can do the page flip effect for you.
+
+@summary
+insert a div tag inside the html file.
+
+@summary
+,
+
+@summary
+done.
+@article
+ There are various software programs that can do this for you online.;
+, (book-0.png).
+ Make sure you name the folder something you can remember, e.g. "book1".
+ Rename the newly created folder to the name of your publication, e.g. "issue3".
+, A good library to use is "http://livelypaper.com/demo". If you decide to use livelypaper library, then copy the file livelypaper.js into the folder created in step 4. Then proceed to create an html file the file should have JavaScript code similar to the following ready(function() Lpflipbook({ filePath: "book", startPage: 0, endPage: 4, format: "png", fileName: "page" }); });
+
+,, Your flipbook should be ready. Upload the files to your web server!
+

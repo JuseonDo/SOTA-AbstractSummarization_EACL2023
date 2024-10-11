@@ -1,0 +1,59 @@
+@summary
+select an empty bottle.
+
+@summary
+pour equal amounts of each liquid.
+
+@summary
+pour corn syrup first.
+
+@summary
+pour dish washing liquid next.
+
+@summary
+,
+
+@summary
+tilt the bottle while you add colored water.
+
+@summary
+,
+
+@summary
+tilt the bottle while you add oil.
+
+@summary
+,
+
+@summary
+tilt the bottle while adding colored alcohol (or rubbing alcohol).
+
+@summary
+,
+
+@summary
+close the cap.
+
+@summary
+,
+
+@summary
+your liquid stacked bottle is ready!
+
+@summary
+,
+
+@summary
+you can even turn it upside down!
+
+@summary
+,
+
+@summary
+done.
+
+@article
+ The best bottle or container is one that is tall (long) and not too wide. This will show the layering to its best effect and will lessen the amount of liquid needed for each layer.;
+, Measure the liquids using a measuring beaker, with the idea being that you use the same ratio for each liquid layer. It is best if you have a minimum of 1 inch (2.5cm) for each layer, to make the layer differences obvious; even wider layers are preferable. The following steps explain which liquid to add in sequence, according to their density.
+ As this is the densest liquid, it needs to sit at the base of the layers.
+,,,,,,,

@@ -1,0 +1,15 @@
+@summary
+learn every single map you have.
+
+@summary
+every time you see a new map that you don't recognize in custom games, follow these steps.now explore it.
+@article
+ Go to Custom Game, and just jump around, and explore!,
+
+Click start to see Spartan hub.
+Scroll down and click file share
+Click map variants
+Click temporary history
+Find latest game you played, click Y on it, and it will be installed in custom game
+
+,

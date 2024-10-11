@@ -1,0 +1,15 @@
+@summary
+learn about “do not disturb” mode.
+
+@summary
+swipe up from the bottom to the top of your screen.
+
+@summary
+press on the crescent moon icon.
+
+@summary
+turn off “do not disturb” mode by pressing the crescent moon button again.
+@article
+ This mode allows you to temporarily suspend noises and notifications associated with SMS text messages, phone calls, and FaceTime requests. You will still receive calls, texts, and FaceTime requests, but your iPhone will not ring, vibrate, and/or light up., The iPhone control panel will appear.
+ It will turn from grey to white. This icon, which turns on “do not disturb” mode, is located at the top of the control panel between the bluetooth icon and the screen lock icon.
+ It will turn from white to grey.

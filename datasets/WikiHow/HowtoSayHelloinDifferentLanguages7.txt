@@ -1,0 +1,25 @@
+@summary
+say hello in alibamu: hello in alibamu is chíkmàa.
+
+@summary
+say hello in cayuga: hello in cayuga is scan noh.
+
+@summary
+say hello in cree: hello in cree is tansi, pronounced "tawnsay".
+
+@summary
+say hello in haida: hello is kii-te-daas a.
+
+@summary
+say hello in hopi: hello in hopi is ha'u, pronounced "hah-uh".
+
+@summary
+say hello in kanien'kéha: hello in kanien'kéha is kwe kwe, pronounced "gway gway".
+
+@summary
+say hello in nahuatl: hello in nahuatl is nano toka, pronounced "na-no to-kah".
+
+@summary
+say hello in navajo: hello in navajo is yá'át'ééh, pronounced "yah-at-eh".
+@article
+ This is a southeastern Native American language., This is a Northern Iroquois language., Cree is an Algonquian language spoken by Native Americans across Canada., This language is spoken on Haida Gwaii (formerly Queen Charlotte Islands), Canada., However this word is not used as often as it is in English. It's more traditional to greet someone by saying um waynuma?, which literally translates as "you're around?". Hopi is a Uto-Aztecan language spoken by the Hopi people in northeastern Arizona, USA., Kanien'kéha is an Iroquoian language spoken by the Mohawk people of North America., Nahuatl is an Uto-Aztecan language spoken by the Nahua people in Central Mexico., This word also means "good". Navajo is an Athabaskan language spoken by the Navajo people, who are based mainly in the southwestern United States. Navajo is the most widely spoken Native American language north of the US-Mexican border.

@@ -1,0 +1,127 @@
+@summary
+whether you are 18 or 81, most community colleges offer welding classes you can attend.
+
+@summary
+go to your local community college and ask for a class schedule that lists all the different classes that they offer.
+
+@summary
+,
+
+@summary
+take a walk around the campus and check out its welding facilities to help determine if welding is something that you would be interested in.
+
+@summary
+,
+
+@summary
+find out when the welding class ends for the day and talk to the instructor who teaches it.
+
+@summary
+learn on your own.
+
+@summary
+buy, borrow or rent a welder.
+
+@summary
+obtain your welding rods (electrodes).
+
+@summary
+find some mild steel to practice with.
+
+@summary
+set your piece of steel on a clean, dry, level surface which is heat resistant and nonflammable.
+
+@summary
+attach your ground clamp.
+
+@summary
+put on your welding gloves.
+
+@summary
+insert the "clean end" (the end without the powder flux coating) of your electrode into the electrode holder.
+
+@summary
+practice "striking" the electrode against the welding stock (the sample metal you will be welding on).
+
+@summary
+set the temperature range (or amperage) of your welder to about 80a (amps).
+
+@summary
+,
+
+@summary
+put on your safety glasses and welding hood (or helmet, as it is sometimes called), with the dark lens flipped up to allow you to see.
+
+@summary
+turn the welder on.
+
+@summary
+flip the dark lens or full face helmet down before you strike the electrode against the practice metal.
+
+@summary
+move the electrode along the surface of the metal slowly, watching the pool of molten metal beneath the arc flame.
+
+@summary
+run your bead an inch or so along the metal, then pull the electrode back to break the arc.
+
+@summary
+,
+
+@summary
+when you raise your shield, to look at your weld and evaluate it, you must have your safety glasses on.
+
+@summary
+use a chipping hammer (or other tool) to knock the slag (oxidized metal and melted flux) off the bead to see the new metal you have deposited from the welding rod.
+
+@summary
+continue practicing on pieces of scrap metal, using the same rods and amperage setting, until you get a good, consistent bead.
+
+@summary
+,
+
+@summary
+try joining two pieces of metal by welding.
+
+@summary
+experiment with other rods (electrodes) and amperage to see the different effects you get.
+
+@summary
+look into other welding processes, such as mig (metal, inert gas) with solid and flux-core wire, or tig (tungsten, inert gas) and oxyacetylene.
+@article
+ Community college class fees are very inexpensive.;
+,,, Usually, they are more than willing to answer your questions and give you a basic description of the class and what you will be able to do after completing it.
+ If you have access to a welder and some metal, you may want to attempt to learn welding on your own.
+ For simplicity, we will look at a standard AC arc welder using welding rods.
+ Welding rods are sold according to their intended use and are usually identified by a coded number. A 1⁄8 inch (0.3 cm) 6011 rod is a mild steel electrode. This electrode is designed to use Alternating Current (AC) or Direct Current Electrode Positive (DCEP).This is a good rod to use for learning about basic welding using practice steel.
+ It should be clean, unpainted and ungalvanized and thick enough that you will not easily burn through it when welding. A good piece of steel to start with is a 6" X 6" X 3/8" piece of flat stock, but just about any scrap of flat plate or angle will work.
+ Ideally, use a welding table, if one is available. If you end up having your workpiece on the ground, clear away any flammable items from the area.
+ This is usually an uninsulated copper clamp from the welder. Make sure it has a good contact, is firmly clamping the metal and is out of the way of the welding process.
+ You will be practicing without the welder powered up, but getting used to the feel of the electrode holder (stinger) by practicing with gloves on will make the transition easier once the welder is powered up.
+ The stinger is a high amperage, insulated clamp with a handle you will be holding while welding. It should have grooves in the "jaws" to hold the electrode in either a 180, 45 or 90 degree position to the handle.
+ You will want the end of the electrode to hit the metal and pull back about 1⁄8 inch (0.3 cm), so the "arc" will strike, or begin. By practicing with the welder off, you will "feel" the metal and be able to watch the tip to become familiar with how far to pull back after you contact the metal. Sustaining the "arc flame" will require you keep the end of your electrode very near the metal without actually touching it, which takes a bit of practice.
+, Some hoods do not have a hinged lens, so you will have to push the whole helmet up. Most helmets are hinged at the headband also, to allow you to do this, and keep the helmet in the up position while you are replacing your electrode or working on the metal.
+ The electrode is now energized with 80 amps of electricity at about 28 volts and is very dangerous. Do not touch any uninsulated parts of the stinger while the welder is on. You may install new electrodes with a dry gloved hand by gripping it where it is coated with unbroken flux.
+ You will see a flash when the arc is formed and most likely you will tend to jerk back. This is a natural reaction that will soon subside. You may have to practice striking your arc and moving the rod back quickly several times before you actually are able to sustain a steady arc flame. This is the first step in beginning welding.
+ You will have a more consistent weld bead if you weave or move the electrode back and forth as you move the electrode along the path of your weld. Usually, the finished weld is about the same width as two electrode diameters. If the electrode used for welding is 1/8" diameter, without the flux, the completed weld should be approximately 1/4" ( 2/8" )wide.
+, This is where people get hot slag in their eye if the glasses are not worn under the shield. Looking at your weld bead, is it straight? Is it uniform in width? Is the height of the bead uniform?
+
+, Safety glasses are essential when chipping the slag, and you may want to either cool the metal or wait for it to cool before doing this. You will want a smooth, even bead (path of new welded metal) on your work piece. If there are bumps, or places where little metal is deposited, it probably means you moved at an irregular speed.
+, You will want to "prep" the surfaces to be joined by grinding an angle on each side to form a "v" where they meet and clamp them together to hold them in place while you weld.
+ Thicker metal requires more amperage and larger diameter rods, while thin metal requires lower amperage and smaller diameter rods. Special electrodes are available for welding certain steel alloys, cast and ductile iron and aluminum. Electrodes can be found at a local welding shop or home improvement store.
+
+
+MIG.
+
+
+
+
+
+
+TIG.
+
+
+
+
+
+
+

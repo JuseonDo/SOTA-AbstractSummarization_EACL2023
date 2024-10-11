@@ -1,0 +1,30 @@
+@summary
+open the iphone’s settings.
+
+@summary
+scroll down and tap general.
+
+@summary
+tap accessibility.
+
+@summary
+scroll down and tap switch control.
+
+@summary
+scroll down to the bottom of the page.
+
+@summary
+,
+
+@summary
+slide the group items button to the on position.
+@article
+ This is the grey icon with cogs on one of the home screens.
+
+
+This may also be located in the “Utilities” folder on a home screen.;
+, This is in the third set of options.
+ This is in the third set of options.
+ This is in the third set of options, titled “Interaction”.
+, Items will now be group by rows, increasing how many options can be scrolled through at once with switch control.
+

@@ -1,0 +1,15 @@
+@summary
+find someone you want to add as a friend.
+
+@summary
+,
+
+@summary
+go to their profile page by clicking on their name.
+
+@summary
+be prepared to answer a question.
+@article
+, Below their personal information, there will be an "add as a friend" option.
+ Sometimes the user requires for anyone who wants to be their friend to answer a question. This can be for security reasons, or simply out of curiosity.
+

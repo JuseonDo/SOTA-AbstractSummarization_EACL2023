@@ -1,0 +1,17 @@
+@summary
+use this method if you just happen to have a bucket of water with you.
+
+@summary
+select the bucket of water.
+
+@summary
+float up the water until you come out of the top.
+
+@summary
+repeat step two and float up to the top.
+@article
+ You need a spade and/or a pickaxe as well, for quick digging. You can do it without, but prepare for a long, hard, risky slog up to the surface.
+ Tap on a place as far up as you can reach until the water flows down.
+ Then, with your spade or pickaxe, make a small two block crevice in the nearest wall and go into it. Get the water back into the bucket again.
+ Then repeat step three until you emerge at the surface.
+

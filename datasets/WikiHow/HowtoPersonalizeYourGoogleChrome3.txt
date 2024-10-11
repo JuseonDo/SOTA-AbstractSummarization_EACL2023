@@ -1,0 +1,15 @@
+@summary
+go to one of your favorite websites.
+
+@summary
+,
+
+@summary
+find the gray outline of a star in the search bar.
+
+@summary
+keep your bookmarks bar visible.
+@article
+, Click on it. Repeat for other favorite websites, and you will be able to get access to these sites fast.
+ Right click on a blank space on the bar, select "show bookmarks bar", then go to a website to ensure that the change was saved.
+

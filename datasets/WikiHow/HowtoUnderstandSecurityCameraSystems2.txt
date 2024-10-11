@@ -1,0 +1,13 @@
+@summary
+use pre-cut cable or spools or 500 or 100 foot (152.4 or 30.5 m) combo video (bnc connection) / power rg59 siamese coax cable.
+
+@summary
+designate one location for your dvr and monitor to be stationed and be sure you have enough wire to connect the dvr to the camera (leave some slack).
+
+@summary
+if you purchased a pre-made rg59 cable with the bnc connections already attached to the line, then at this point you would connect it to the dvr.
+@article
+ All CCTV security cameras need both power and video (2 in one cable), so you can run just one cable from the DVR to each camera. You can run each camera's cable up to 700 feet (213.4 m) without any video loss. Simply connect the video cable to the DVR (it says BNC), and plug the power into the power supply RG59 Siamese Cable. It is the type of cable used to run most CCTV installs. This cable consists of one video cable and one power cable (positive and negative), thus the name siamese.
+ Designate the location for your DVR and Monitor to be stationed.
+ If you purchased a bulk roll of RG59, ask if the company will automatically supply the BNC connections free of charge. You may use twist-ons (most commonly used), or crimp on connections.
+

@@ -1,0 +1,28 @@
+@summary
+connect the android device to your computer using a usb cable.
+
+@summary
+wait for windows explorer to recognize your android, and select the option to view files.
+
+@summary
+click on the name of your android device when it displays in the left sidebar of windows explorer or android file transfer.
+
+@summary
+,
+
+@summary
+navigate to the photos you want uploaded to your computer.
+
+@summary
+click and drag the photos to your desktop or desired folder.
+@article
+
+
+Alternately, you can insert the SD card from your Android into an SD card adapter if you don’t have a compatible USB cable.;
+,
+
+
+If using Mac OS X, you must first download the Android File Transfer application on your computer at https://www.android.com/filetransfer/. Mac OS X will not automatically read or view files on your Android without the file transfer app. After installing the file transfer app, your Mac computer will automatically launch the app upon recognizing your Android via USB.
+, The photos on your Android will either be stored in the “Pictures” folder, or in the “Camera” folder under “DCIM.”
+
+, The photos you selected will transfer from the Android to your computer.

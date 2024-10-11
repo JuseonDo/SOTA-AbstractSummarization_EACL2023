@@ -1,0 +1,9 @@
+@summary
+locate the destination for your apple logo.
+
+@summary
+type the apple logo using your keyboard.
+@article
+ You can place one in any text field that allows editing. Place your cursor wherever you intend the logo to go.
+ Hold down ⌥ Option + ⇧ Shift + K simultaneously. This will cause the Apple logo to be immediately inserted.
+

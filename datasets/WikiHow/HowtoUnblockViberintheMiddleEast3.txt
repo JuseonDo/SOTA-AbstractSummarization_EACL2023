@@ -1,0 +1,47 @@
+@summary
+click the settings icon.
+
+@summary
+,
+
+@summary
+select the wireless and networks and tap on the vpn.
+
+@summary
+,
+
+@summary
+tap add vpn network.
+
+@summary
+,input the connection name.
+
+@summary
+input your username and password that you received from the vpn account service in e-mail.
+
+@summary
+select home > menu > settings.
+
+@summary
+,
+
+@summary
+tap wireless and networks.
+
+@summary
+,
+
+@summary
+tap vpn settings.
+
+@summary
+tap the vpn you wish to connect to.
+@article
+,,, Then select the type of your VPN connection - PPTP VPN, input VPN server address from your account data. Please be carefully - don't use any additional symbols like spaces, http://, www, / ...etc in the server address.
+ Save it and tap Connect.
+,, The VPN connections you have added are present in the list.
+ A dialog box will open asking for your credentials, enter them and click connect.
+
+
+For connecting to the VPN server: When you are connected to VPN, you will see an ongoing notification in the Status bar on your Android device. If you are disconnected, you will receive a notification and an option to go back to the VPN settings section. Once you have created VPN connection you can switch it on and off on the main settings screen.
+

@@ -1,0 +1,26 @@
+@summary
+log into your computer and open up the start menu.
+
+@summary
+at the bottom of the menu should be a search box.
+
+@summary
+once your calculator is set up on your desktop, click help, then help topics.
+
+@summary
+,
+
+@summary
+when help topics comes up, go all the way to the top of the page.go to search/jump to url.
+
+@summary
+surf the web as much as you want to.
+@article
+ If you're using a Mac, go to the dock.;
+, Type in Calculator. When the result pops up, click it and the calculator program should open up. If you're using a Mac, go to the Applications folder and select Calculator.
+, Right click the blue car and click "Jump To URL".
+ Type in the web address you want to go to. Remember to always start with http://
+
+
+, If a teacher or your boss comes up to see what you are on, quickly minimize your screen when you see them approaching. Then, they will only see you on the calculator. Ensure you completely minimize your screen before your boss sees you.
+

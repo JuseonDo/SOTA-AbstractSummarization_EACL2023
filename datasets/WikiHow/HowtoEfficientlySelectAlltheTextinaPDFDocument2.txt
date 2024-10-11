@@ -1,0 +1,23 @@
+@summary
+open the pdf in preview.double-click the pdf to open it in preview.
+
+@summary
+show the editing toolbar.
+
+@summary
+allow continuous scrolling.to ensure that all text in the document can be selected (not just the current page), click the view menu (the top left of the document, signified by a small box with a downward-facing arrow to its right) and place a check next to “continuous scroll.”
+
+@summary
+,
+
+@summary
+select all text in the document.
+@article
+ If the PDF opens in software other than Preview, drag the PDF file to the Preview icon in the dock.
+ Click the Edit button (a small square with a pencil icon) to display the editing toolbar.
+, First, enable text selection by clicking the editing toolbar icon signified by the letter A next to a cursor. Now, click somewhere in the document, then press ⌘ Command+A to select all text in the document.
+
+
+To copy the selected text, press ⌘ Command+C.
+To paste the selected text into another document, click in the desired paste location and press ⌘ Command+V.
+

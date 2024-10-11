@@ -1,0 +1,38 @@
+@summary
+decide the seed and increment of your series.
+
+@summary
+clear the data and operation in memory.
+
+@summary
+put the seed number on the calculator.
+
+@summary
+,press the addition button (+)
+
+@summary
+,
+
+@summary
+enter the increment number using the keypad.
+
+@summary
+,
+
+@summary
+press the "=" button to get the next result in the series.
+@article
+
+
+The seed is the number from which to begin counting
+The increment is the amount to increment in each step/item of the series.
+ In most calculators this is done by a "C", "CA" or "CE" button. However, turning the calculator off then back on is a more guaranteed method in most calculators.
+
+
+If not sure, do them all!
+
+,,,, Keep pressing the "=" button for more results.
+
+
+In some calculators, the "=" must be followed by an "Ans" (short for "Answer") key. In which case you should try pressing the "Ans" key repetitively.
+

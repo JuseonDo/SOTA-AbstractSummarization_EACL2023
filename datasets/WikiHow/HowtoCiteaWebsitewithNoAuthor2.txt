@@ -1,0 +1,40 @@
+@summary
+start with the title of the article in quotation marks.
+
+@summary
+add the name of the site in italics.
+
+@summary
+include the owner of the site.
+
+@summary
+add the date of publishing in day, month and year format.
+
+@summary
+if there is no date on the article, put the letters "n.d." in place of the date.
+
+@summary
+,
+
+@summary
+write the word "web.",
+
+@summary
+finish with the date you accessed it.
+@article
+ Use a period before the last quote. For example, "Childrearing in Asia."
+
+, Place a period after the name.
+ For example, a publisher like Harper Collins might own the site, so you place the full name next.
+
+
+Look at the bottom of the page for the owner. If you can't find it, go to the "About" section of the website.
+ For example, "16 Nov. 2013."
+
+,,
+
+,
+
+
+For example, using the same source of a Wikipedia page on Neuropathy, you would write "Neuropathy." Wikipedia. Wikimedia Foundation. n.d. Web. 15 July 2013.
+

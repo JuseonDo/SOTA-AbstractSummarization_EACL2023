@@ -1,0 +1,21 @@
+@summary
+build a small room.
+
+@summary
+get your sim in the room.
+
+@summary
+delete the door.
+
+@summary
+buy lots and lots and lots of furniture.
+
+@summary
+activate the "fire storm" karma power.
+@article
+ Large enough for how many Sims you want to burn.;
+, Try to make their/the mood(s) higher.
+ They are locked in.
+ So the Sim can hardly move.
+ When it hits a piece of furniture, it sets fire to the next piece of furniture, etc, etc.
+

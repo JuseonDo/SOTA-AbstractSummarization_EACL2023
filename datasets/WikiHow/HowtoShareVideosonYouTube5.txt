@@ -1,0 +1,61 @@
+@summary
+navigate to youtube.com.
+
+@summary
+,
+
+@summary
+sign in to your youtube account.
+
+@summary
+click on the account icon.
+
+@summary
+select “creator studio” from the drop-down menu.
+
+@summary
+click “video manager”.
+
+@summary
+locate the private video you want to share.
+
+@summary
+,
+
+@summary
+click on the blue lock.
+
+@summary
+select the “basic information” tab.
+
+@summary
+,
+
+@summary
+click share.
+
+@summary
+click “enter email addresses”.
+
+@summary
+,
+
+@summary
+type the email addresses of the people you’d like to share the video with.
+
+@summary
+click send email.
+@article
+, You must be signed in to send a video via email.
+
+
+Click Sign In. It is located in the very top, right corner of the page.
+Enter your Google email address and click Next.
+Enter your Google account password and click Next.
+You will automatically return to the Home screen when the login is successful.
+ This icon will display your profile picture or a blue bust. It is located in the very top, right corner of the screen.
+, It is located in the left sidebar.
+, It is located to the right of the video’s title. This will open up the video’s settings.
+, This button is located to the right of the “Description” field.
+, As you type, suggested contacts will appear below the field.
+ The recipients will receive a link to your private video. They may only access the video through this link.

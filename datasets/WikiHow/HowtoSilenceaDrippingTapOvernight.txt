@@ -1,0 +1,19 @@
+@summary
+locate the dripping tap.
+
+@summary
+find a piece of string.
+
+@summary
+tie the piece of string to the tap.
+
+@summary
+,
+
+@summary
+adjust the string so that it falls into the drain.
+@article
+;
+, It should be long enough to reach from the tap to the drain.
+, The drips will run straight down the string, silently, and into the drain. You can enjoy a good night's rest and call the plumber first thing in the morning.
+

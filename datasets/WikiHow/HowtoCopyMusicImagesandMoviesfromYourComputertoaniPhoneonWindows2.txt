@@ -1,0 +1,42 @@
+@summary
+add your music files to your itunes library.
+
+@summary
+convert any protected wma files.
+
+@summary
+select your iphone from the row of buttons at the top of the itunes window.
+
+@summary
+,
+
+@summary
+click the music tab in the left menu.
+
+@summary
+,
+
+@summary
+check the "sync music" box.
+
+@summary
+,
+
+@summary
+select the artists, albums, playlists, or genres you want to add to your iphone.
+
+@summary
+click the sync button.
+@article
+ In order to add music to your iPhone using iTunes, you will need to add your music files to your iTunes library.
+
+
+Click File → Add Folder to Library. If you don't see the File menu, press the Alt key.
+Select your music folder to add the songs to your iTunes library. Repeat if you have multiple folders.
+
+Click here for more detailed instructions on adding music to iTunes.
+Any music purchased in iTunes will automatically be added to your library.
+ If you're importing music purchased through Windows Media Player, it may have DRM protection that prevents iTunes from importing it. In order to add the music to your iTunes library, you'll need to strip the DRM from the files. Click here for detailed instructions.
+,,, You can monitor the free space available on your iPhone using the bar at the bottom of the window.
+ All of the checked music will be copied onto your iPhone.
+

@@ -1,0 +1,25 @@
+@summary
+copy html code from your webreserv account.
+
+@summary
+click the preview button.now switch to your wix editor, and click add in the left toolbar
+
+@summary
+,within the add tab select apps
+
+@summary
+,then select html
+
+@summary
+,
+
+@summary
+a new window will show in the middle of your page.
+
+@summary
+click update and your are done!
+
+@article
+ If you don't have a WebReserv, create a free account http://www.webreserv.eu/signup.do. If you already have a WebReserv account login and select Website from the top menu.Select the version of the calendar, the calendar options and the appearance. Click http://www.webreserv.eu/help/booking_calendar_advanced_features.htm for more information about calendar options and colors.;
+, You will now see a preview of the booking calendar to the right. If everything looks good, highlight and copy the text in the HTML field.
+,,, Click on it and select Settings, then in the left menu select HTML code and paste the HTML code of the booking calendar.

@@ -1,0 +1,28 @@
+@summary
+ensure that your pokémon is at a rather high level.
+
+@summary
+ensure that your lead pokémon has either luck incense or an amulet coin as an item they're holding.
+
+@summary
+go down from veilstone city or left from pastoria city.
+
+@summary
+along the hotel resort area, you'll eventually come across a flight of stairs that directly to sunyshore.
+
+@summary
+when you get to route 222, look for a big patch of grass and a sign next to it.
+
+@summary
+battle the trainer.
+@article
+ This needs to be level 40+.
+ The player must also have a vs. seeker.
+ Either way will lead you to the same place.
+ Do not go there. When you pass the stairs, go to route 222. This is the first thing you'll come across.
+ Travel slightly up from there. You'll see a trainer sitting there alone. He is a rich boy trainer.
+ You will get a lot of money if you win ($4500+). if your lead Pokémon has either a luck incense or Amulet Coin, you'll get double the money, so you'll end up getting around $12000+.
+
+
+If you have already battled him before, use the vs. seeker near him. He will often battle again.
+

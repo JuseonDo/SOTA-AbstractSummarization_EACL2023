@@ -1,0 +1,11 @@
+@summary
+open the settings app.tap applications.tap phone.tap call blocking.tap block list.
+
+@summary
+add the phone number you wish to block.
+
+@summary
+tap the green plus button.
+@article
+ The Settings app can be identified by its gear icon in the apps drawer of the Galaxy device.
+,,,, You can enter it manually or select it from your call logs or contacts., This adds the number to the block list.

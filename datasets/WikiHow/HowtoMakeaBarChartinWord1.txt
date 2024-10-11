@@ -1,0 +1,49 @@
+@summary
+open the microsoft word program.
+
+@summary
+click the "blank document" option.
+
+@summary
+click insert.
+
+@summary
+click chart.
+
+@summary
+,
+
+@summary
+click a chart layout.
+
+@summary
+click on a chart style.
+
+@summary
+click ok. a microsoft excel window will pop up beneath the graph image.
+
+@summary
+,
+
+@summary
+add data to your chart.
+
+@summary
+click the x in the excel section.
+@article
+ You can also double-click an existing Word document to open it in Word.;
+, Skip this step if you're opening an existing document.
+ This is a tab in the top left corner of Word's interface.
+, These are listed on the left side of the Chart menu.
+
+
+Depending on the information you need to display, your preferred format will vary.
+ Stylistic options appear above your chosen chart layout.
+, To do so:
+
+
+Click an Excel cell.
+Type in a data point.
+Press ↵ Enter.
+ This will close the Excel window--your data will be saved in your chart.
+

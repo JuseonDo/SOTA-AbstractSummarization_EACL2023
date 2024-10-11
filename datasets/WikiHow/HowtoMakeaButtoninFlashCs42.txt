@@ -1,0 +1,35 @@
+@summary
+double-click the button and select edit in place from the drop-down menu.
+
+@summary
+,
+
+@summary
+view your timeline.
+
+@summary
+right-click on layer 1 and choose insert layer.
+
+@summary
+select all 3 frames in the over column.
+
+@summary
+click the over keyframe in layer 2.
+
+@summary
+select the layer 3 keyframe under over.
+
+@summary
+choose the down column, right-click, and choose insert keyframe.
+
+@summary
+click on the rectangle to the left of the up column heading.
+@article
+, You should see headings that say Up, Over, Down and Hit.
+ Rearrange the layers so that Layer 1, which contains your image and text, is on top.
+ The Over column determine how your button will appear when you hover your cursor over it. Right-click and select Insert Keyframe from the drop-down menu.
+ When the button appears, use your line tool to draw a straight line beneath the text of your button. Your Layer 2 keyframe will appear solid on the Timeline.
+ Draw a rectangle that is just large enough to surround your button. When your cursor hovers over the button, you will now see an underline and a rectangle appear along with the button.
+ Make sure that your Down column remains highlighted.
+ Change the color of the button from its hover color to another color. Doing this will enable your button to change colors when you click it.
+

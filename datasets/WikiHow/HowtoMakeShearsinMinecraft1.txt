@@ -1,0 +1,12 @@
+@summary
+mine for iron.
+
+@summary
+smelt it.
+
+@summary
+retrieve the two iron ingots that you have smelted.
+
+@article
+ You'll need two iron ores.;
+, This is done by placing the two ores into a furnace. Place iron in the top slot, fuel (coal) in the bottom slot.

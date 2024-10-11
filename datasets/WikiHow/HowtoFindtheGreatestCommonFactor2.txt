@@ -1,0 +1,16 @@
+@summary
+factor each number completely into its prime numbers.
+
+@summary
+identify any common prime factors.
+
+@summary
+calculate: if there's  only one prime common factor, then that's your common factor.
+
+@summary
+ to demonstrate this method, study this example.
+
+@article
+ A prime number is number greater than 1 that has no factors but itself. Examples of prime numbers include 5, 17, 97, and 331, to name just a few.
+ Pick out any prime numbers between the set that are the same. There can be several common factors.
+ If there are multiple prime common factors, then multiply all the prime common factors together to get your greatest common factor.

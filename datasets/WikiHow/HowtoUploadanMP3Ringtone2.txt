@@ -1,0 +1,13 @@
+@summary
+look for a memory card slot.
+
+@summary
+insert your memory card into the card reader.
+
+@summary
+copy the ring tone to the card.plug the card into your cell phone.
+
+@summary
+copy the ringtone to internal memory.
+@article
+ Usually this will be marked with "microSD", "T-Flash", or "M2", depending on the type of slot., The card needs to work with both your cell phone's card slot and a card reader that plugs into your computer., Some phones may require that the ring tone be located in a specific folder. Older phones sometimes require changing the file extension or using a different file format.,, Check your cell phone's manual for details, since the exact procedure differs between models.

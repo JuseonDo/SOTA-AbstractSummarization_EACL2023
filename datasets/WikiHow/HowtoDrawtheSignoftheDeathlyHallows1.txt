@@ -1,0 +1,13 @@
+@summary
+the first hallow is the elder wand.
+
+@summary
+the second hallow: the resurrection stone.
+
+@summary
+the final hallow is the cloak of invisibility.
+@article
+ The Elder wand can beat any other wand, making it the most powerful wand made. Its sign is a vertical line.;
+, This recalls one from the grave (or, an imitation of them...) Draw a circle over the line to represent the Resurrection Stone.
+ It makes the user invisible, and is represented by a triangle drawn over the other two hallows.
+

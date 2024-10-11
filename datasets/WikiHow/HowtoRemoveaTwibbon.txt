@@ -1,0 +1,45 @@
+@summary
+return to the twibbon homepage.
+
+@summary
+sign in.
+
+@summary
+click on the dropdown list besides your login name.
+
+@summary
+,
+
+@summary
+click on the "history".
+
+@summary
+go through your different.
+
+@summary
+check your twitter account to see your new avatar.
+
+@summary
+change your original avatar by going to twitter.
+
+@summary
+click "edit profile" button.
+
+@summary
+,
+
+@summary
+the first option will be "picture".
+
+@summary
+place your new avatar on twitter.
+@article
+ This is located at http://www.twibbon.com.
+ You can sign in using your Twitter name if wished - the link is at the top right hand corner of the page.
+, This is where you will find the "Avatar History" retained since you joined Twibbon.
+ Select the one that you want to remove and click on "Hide this". The avatar image you have selected will be removed as your profile image.
+ Be patient if the avatar image does not revert on Twitter - it may be immediate, or it can take up to 24 hours for this change to come through.
+ This can be found at: https://www.twitter.com.;
+,, You have the options to "Change Image" or "Delete Image". Choose whichever you prefer.
+ The Twibbon will have been removed because you have removed the avatar image that carried it. Upload either your original avatar or a new one, as wished.
+

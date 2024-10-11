@@ -1,0 +1,19 @@
+@summary
+launch blackberry app world on your blackberry device.
+
+@summary
+browse app world for the app you want downloaded to your blackberry.select or click the app name to view additional details about the app.
+
+@summary
+scroll to and select “download,” then follow the on-screen prompts to install the app on your device.
+
+@summary
+wait for the app to finishing downloading on your blackberry.
+@article
+
+
+If Blackberry App World is not already installed on your device, navigate to www.blackberry.com/appworld/download on your Blackberry and select the option to download the app to your device.
+
+
+Alternately, tap on “Search” and enter search criteria for the app you want downloaded.
+, If downloading a paid app, your Blackberry will guide you through purchasing the app using a credit card or PayPal., The download may take up to several minutes to complete, depending on the speed of your wireless connection. When complete, the app will display in your Apps folder.

@@ -1,0 +1,33 @@
+@summary
+click the firefox menu button (☰) and select options.
+
+@summary
+,
+
+@summary
+click the privacy tab and then click the drop-down menu in the history section.
+
+@summary
+,
+
+@summary
+select "use custom settings for history".
+
+@summary
+,
+
+@summary
+check the "accept cookies from sites" box to allow all cookies.
+
+@summary
+,
+
+@summary
+set your third-party cookie settings.
+
+@summary
+uncheck the box to block cookies from all sites.
+@article
+,,,, Use the drop-down menu to set your third-party cookie settings. These are cookies for another site on the site you are currently visiting. For example, a news site may have a Facebook "Like" button, which will generate a third-party cookie.You can use the drop-down menu to accept all third-party cookies, or just from sites you've visited. You can also disable them completely.
+ You can then allow specific sites by clicking the "Exceptions" button and entering the sites you want to allow.
+

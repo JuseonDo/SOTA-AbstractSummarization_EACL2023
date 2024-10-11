@@ -1,0 +1,21 @@
+@summary
+log in to your gmail account.
+
+@summary
+click on "settings" in the top right-hand corner.
+
+@summary
+click on "accounts.",
+
+@summary
+scroll down to the "send mail as" section and find the email address you want to edit by clicking on "edit info.",
+
+@summary
+type your new name in the empty box below your old name and click "save changes."
+@article
+ Just type in your user name and password and click on "Sign in.";
+, Just click on the gear on the top right of the page and select "Settings" from the drop down menu. It'll be fourth from the bottom.
+ This option will be fourth from the left on the top of the settings panel.
+ This option will appear to the right of your email address.
+ This will finalize your new email name. If you want to check your handiwork, send an email to a friend and see if it has been successfully changed.
+

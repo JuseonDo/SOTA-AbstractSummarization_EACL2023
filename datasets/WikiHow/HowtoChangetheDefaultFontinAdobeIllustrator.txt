@@ -1,0 +1,37 @@
+@summary
+start by going to your computer folder and looking for your name folder.
+
+@summary
+after selecting the folder options, a window box will appear.
+
+@summary
+now that we can see all the hidden files and folders, we can click on our appdata folder.
+
+@summary
+once opened go to windows > type > character styles.
+
+@summary
+,
+
+@summary
+your character styles panel will appear, click on normal character style to be able to change the default font.
+
+@summary
+close the panels and then save the file.
+
+@summary
+check your saved settings.
+
+@summary
+here is a sample of how your new basic rgb document file should look.
+
+@article
+ Or you can simply just look for the folder that has your name on it. Follow the illustration below if you’re having a hard time finding it. Then go to your tools and select folder options.;
+, Go to view and select show hidden files and folders. This will reveal all the hidden files and folders on your name folder.
+ On your AppData folder open another folder named Roaming and so on until we reached the New Document Profiles folder. On your New Document Profiles folder you will be able to see you Basic CMYK files, Basic RGB files, etc. Click on the Basic RGB file and your Adobe Illustrator software will open.
+
+
+Please follow the following illustrations to guide you to which folders to open.
+, After this, another window will appear. Go to basic character formats and change the font and the font size according to your preference.
+ Close your Illustrator software and open it again to check your saved settings.
+ To do this, open a new document and select Basic RGB on your new document profile. A new document will open showing your changed settings. If this doesn't work, you can also check by using Ctrl+T.

@@ -1,0 +1,19 @@
+@summary
+remove the magazine from the firearm.
+
+@summary
+,
+
+@summary
+open the action to visually confirm there is an expended round in the chamber.
+
+@summary
+use a small, sharp tool to pry the round out of the chamber if the action is shallow enough to allow this method.
+
+@summary
+use a cleaning rod to tap the cartridge out of the chamber.
+@article
+, This event can be caused by either a weak ejector tang, a dirty chamber, or a damaged shell casing. If sliding the action back doesn't dislodge the jammed round, you may be able to visually inspect the shell extractor, it is a small metal item that grips the edge of the round to remove it from the chamber. If the bend at the end doesn't look clean or is deformed, continuing without repairing it will not be advisable. If the extractor appears to be in good condition, continue reading.
+ With the action locked open, use a metal pick, or a very small flat bladed screw driver, to pry the edge of the cartridge out of the chamber. Look closely at the chamber and cartridge for visual indications of why the cartridge jammed.
+ If you are not able to pry out the cartridge, lock the gun's action open and run a cleaning rod down the barrel to push out the jammed cartridge.
+

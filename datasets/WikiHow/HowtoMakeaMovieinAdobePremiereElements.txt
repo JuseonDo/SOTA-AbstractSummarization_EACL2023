@@ -1,0 +1,20 @@
+@summary
+ 
+
+@summary
+capture: hook your digital video camera up to a fire wire cord.
+
+@summary
+edit: click on the edit tab to open the editing workspace.
+
+@summary
+effects: put in transitions and effects by going to the effects tab.
+
+@summary
+titles: user the titler to create titles which are then added as media to your media bin.
+
+@summary
+dvd: use the dvd window to add main menu, scene and stop markers.
+@article
+ Open Premiere Elements. It should ask you to open a new movie, which is a .prel file.Click the capture tab to open up the capture window. Use the device controls and capture button to capture your video. It should stop playing when you stop the capture or when the tape ends. Timecode gaps will not be recorded.
+ Trim, cut and move your clips as you like. Get rid of undesired footage and order the clips in a sensible way. Add music by adding the song to audio 2 to have the camera audio two, or go to one of the upper bar options, and go to clip options and go to audio and go to render and replace and in add media, delete the audio and say yes to deleting and drag the audio to audio, Go in to transitions and drag the transitions to between the scenes., Place them into the timeline at the desired position above the existing video track(s), You can also choose DVD templates and customize them Burn the DVD by clicking Burn.

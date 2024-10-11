@@ -1,0 +1,39 @@
+@summary
+know the size of your tank.
+
+@summary
+plan.
+
+@summary
+go out to your local hardware store and pick up lengths of 1/2" or 3/4" pvc.
+
+@summary
+while at the hardware store, ask the clerk where you can get pvc cutters, i got a decent pair for $6.87.
+
+@summary
+once you've got the filter pattern planned out, begin cutting and assembling the pieces outside of the empty tank.
+
+@summary
+,
+
+@summary
+after all pieces are assembled, use a hammer and nail, or a power drill to punch holes into the bottom of the pvc pipes.
+
+@summary
+now take the completed ugf and put it into the fish tank.
+
+@summary
+run the air tube(s) down to the bottom of the uplift tube(s).
+
+@summary
+using proper techniques, finish setting up the aquarium (washed gravel, de-chlorinated water, additional power filter (if desired).
+
+@article
+ Measure its length width and height.;
+, Try to think of a design that would allow the PVC to make a closed circuit, and cover a good amount of area. Also leave about a half inch from the sides of the tank and the PVC tubing, as this will allow your substrate to fill in the gap hiding the UGF. Making a closed circuit simply cuts a few dollars off the price of the build by not having to buy caps. Double check to be sure.
+ My local store sold it in 10' lengths, and it cost > $2.00. 1/2" would be best for 5 1/2 - 20 gallon tanks. 3/4" would be better for 30 or more gallon tanks. Make sure you have all of the elbows and T connectors you'll need. Take into account the lift tubes, which will need 1 T connector for each lift tube
+
+, Try to get the kind that ratchet, it will make cutting easier.
+, This will allow water to be drawn into the UGF as it operates. Be careful not to hurt yourself, or go through the other side of the PVC pipe.
+ Make sure the uplift tubes are not sticking out of the tank.
+ For PVC pipe 1" or greater in diameter attach an air stone at the end of the air tube and drop that into the uplift tube.

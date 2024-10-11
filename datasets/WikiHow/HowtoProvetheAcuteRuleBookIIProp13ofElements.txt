@@ -1,0 +1,74 @@
+@summary
+take a look at the diagram at hand.
+
+@summary
+understand the objective.
+
+@summary
+apply pythagorean theorem to triangle abd to get:
+
+@summary
+ab2 = ad2 + bd2 ...(1)
+
+@summary
+,
+
+@summary
+we already know that:
+
+@summary
+bd = bc - cd
+
+@summary
+squaring both sides,
+
+@summary
+bd2 = (bc - cd)2
+
+@summary
+=> bd2 = bc2 + cd2 - 2.bc.cd ...(2)
+
+@summary
+,
+
+@summary
+substitute bd2 from (2) into (1) to get:
+
+@summary
+ab2 = ad2 + bc2 + cd2 - 2.bc.cd ...(3)
+
+@summary
+,
+
+@summary
+apply pythagorean theorem in triangle acd to get:
+
+@summary
+ac2 = ad2 + cd2 ...(4)
+
+@summary
+,
+
+@summary
+substitute ad2 + cd2 = ac2, from (4) into (3) to get:
+
+@summary
+ab2 = bc2 + ac2 - 2.bc.cd.
+
+@summary
+make use of helper articles when proceeding through this tutorial:
+
+@summary
+see the article how to prove the obtuse rule, book ii prop.
+@article
+
+Triangle ABC is an acute angled triangle. Squares are constructed on each of the three sides AB, BC and AC. Further, a perpendicular is dropped from the vertex A which intercepts the opposite side BC at point D;
+,
+We need to prove that the square constructed on any side (say AB) is smaller than the other two squares taken together by twice the rectangle contained by either of the other two sides (say BC) and the intercept (CD) between the acute angle and the foot of the perpendicular on it from the opposite angle (A). This can be done if we prove that the area of the square constructed on side AB equals the sum of the areas of the squares on the other two sides minus twice the area of the rectangle which can be formed by BC and CD.
+Mathematically, we need to prove that
+AB2 = BC2 + AC2 - 2.BC.CD
+
+,,,,, Thus we have proved what we needed to.
+ 12 of Elements for a list of articles related to Excel, Geometric and/or Trigonometric Art, Charting/Diagramming and Algebraic Formulation.
+For more art charts and graphs, you might also want to click on Category:Microsoft Excel Imagery, Category:Mathematics, Category:Spreadsheets or Category:Graphics to view many Excel worksheets and charts where Trigonometry, Geometry and Calculus have been turned into Art, or simply click on the category as appears in the upper right white portion of this page, or at the bottom left of the page.
+

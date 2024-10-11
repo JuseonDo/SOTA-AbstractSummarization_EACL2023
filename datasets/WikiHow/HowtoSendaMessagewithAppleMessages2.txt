@@ -1,0 +1,38 @@
+@summary
+open the messages app.
+
+@summary
+,
+
+@summary
+click the new message icon.
+
+@summary
+type in a recipient.
+
+@summary
+click on the recipient's name.
+
+@summary
+,
+
+@summary
+click on the message bar.
+
+@summary
+type in your message.
+
+@summary
+,
+
+@summary
+hit ↵ enter.
+@article
+, It's at the top of the window, to the right of the search bar.
+ It can be a name from your address book, a phone number, or an email address.
+
+
+Alternatively, you can click + to add a contact directly from your address book. It's located on the far right of the window.
+, It's at the bottom of the window.
+, Your new message will be sent!
+

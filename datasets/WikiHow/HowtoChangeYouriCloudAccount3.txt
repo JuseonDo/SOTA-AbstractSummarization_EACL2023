@@ -1,0 +1,21 @@
+@summary
+contact the previous owner.
+
+@summary
+ask the previous owner to log into their icloud website.
+
+@summary
+direct them to click the settings button on the icloud website.
+
+@summary
+have the previous owner click their old iphone in the list of devices.
+
+@summary
+instruct them to click the "x" button next to the iphone's name.
+@article
+ If you purchased your iPhone used from someone and their iCloud account is still signed in, you'll need to contact them to have them remove the iPhone from their account. There is no other way to remove this account from the device. Even after a factory reset, you will still be asked for their login information.
+ The previous owner can quickly release the iPhone from their account by way of the iCloud website. Instruct them to log into icloud.com with the account that is associated with your device.
+ This will open their iCloud Settings page.
+ This will open a new window with the iPhone's details.
+ This will remove the iPhone from their account, allowing you to log in with your own iCloud account.
+

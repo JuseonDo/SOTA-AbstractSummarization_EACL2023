@@ -1,0 +1,38 @@
+@summary
+close the microsoft outlook program.
+
+@summary
+,
+
+@summary
+sign into your yahoo account.
+
+@summary
+,
+
+@summary
+go to info.yahoo.com/legal/us/yahoo/sync/.
+
+@summary
+open the yahoo sync program when you are finished installing.
+
+@summary
+decide if you want it to sync every 30 minutes, or if you want to manually sync it.
+
+@summary
+type in your yahoo account email and password.
+
+@summary
+,
+
+@summary
+click on the "finish" button.
+@article
+,, Agree to the terms and conditions and download the Yahoo Sync program.
+ Select your synchronization preferences. Click on the circle to select your preference.
+
+
+You can choose to sync in both directions, from Yahoo to Outlook and vice versa, or you can choose to sync it in a single direction.
+ If this is a 1-time sync of the data, then choose the manual option. Click the "Next" button.
+, The Yahoo Sync application will complete the synchronization. Open either account to use the shared data.
+

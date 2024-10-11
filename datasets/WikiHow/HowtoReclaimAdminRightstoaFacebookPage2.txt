@@ -1,0 +1,73 @@
+@summary
+navigate to facebook.
+
+@summary
+,
+
+@summary
+open your target page.
+
+@summary
+hover over "more" at the top of the page.
+
+@summary
+,
+
+@summary
+click "report this page".
+
+@summary
+,
+
+@summary
+click "i think it's an unauthorized use of my intellectual property".
+
+@summary
+,
+
+@summary
+click "continue".
+
+@summary
+,
+
+@summary
+click "learn more about reporting intellectual property".
+
+@summary
+,
+
+@summary
+click "reporting copyright violations".
+
+@summary
+click "contact our designated agent".
+
+@summary
+click "complete copyright claim".
+
+@summary
+return to the agent's contact page.
+
+@summary
+,
+
+@summary
+call the number listed on-screen.
+
+@summary
+provide the agent with your copyright information.
+
+@summary
+wait for a verdict.
+
+@article
+, You can do this by typing its name into Facebook's search bar and clicking on the pertinent result.
+
+
+You may also see your target page in the "Your Pages" tab in the top right corner of your News Feed.
+,,,,, If an admin has removed you and taken over your page, this is your best option., Make sure you click the version of this link that is beneath the "Reporting Copyright Infringements"., This page should give you a good idea of the copyright information you'll need to have on hand, including your contact information, a description of your content, and so on.,, Be aware that, since Facebook doesn't prefer this style of contact, you may have to wait several hours before getting a reply.
+
+
+You can also send mail to the address listed here.
+ They will likely ask you questions regarding your page's issues directly from the "copyright claim" page.

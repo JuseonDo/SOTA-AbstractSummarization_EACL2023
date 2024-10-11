@@ -1,0 +1,107 @@
+@summary
+obtain a tire gauge from an auto store or auto department of a hardware store.
+
+@summary
+determine how much air should be in your tires.
+
+@summary
+check the air in your tires when the tires are cold.
+
+@summary
+unscrew the cap off of the tire's valve stem.
+
+@summary
+,
+
+@summary
+place the tire gauge onto the tire valve stem.
+
+@summary
+,
+
+@summary
+press the tire gauge firmly down on top of the valve stem.
+
+@summary
+read the gauge to gain information about the psi or kpa in your tires.
+
+@summary
+carry out the process with all 4 tires to maintain a balance among them.
+
+@summary
+,
+
+@summary
+gain access to air either by getting an air hose and compressor ready or putting money into an air machine.
+
+@summary
+,
+
+@summary
+place the air hose nozzle over the open valve stem.
+
+@summary
+,
+
+@summary
+add pressure to the nozzle as you did with the tire gauge.
+
+@summary
+allow a small burst of air to go inside of the tire.
+
+@summary
+,
+
+@summary
+remove the hose when the burst is complete.
+
+@summary
+,
+
+@summary
+use the tire gauge to see the new pressure of air in the tire.
+
+@summary
+replace the valve stem cap.
+
+@article
+
+
+
+Simple gauges work well. Digital gauges are not necessary.
+Gauge prices range from a couple of dollars to $20.
+Tire gauges measure pounds per square inch (standard) or kilo Pascal's (metric).;
+, This will be printed on a sticker on the inside of the driver's side door or in the owner's manual. If you can't find the sticker, it may also be located inside the glove box door or fuel door.
+
+
+Look at the writing on the side of your tires. The tire will have a maximum PSI or KPA number. This is the maximum pounds per square inch or kilo Pascal's that your tires can handle. It is not advisable to fill your tires to this pressure.
+ Try checking the tires first thing in the morning after the car has been turned off all night.
+
+Allow the car to sit for 30 minutes to three hours before checking air in car tires for the most accurate reading.
+
+
+
+
+
+
+If you must drive to check the air in your tires, try to make the trip less than 1 mile (1.6 km).
+,,
+
+
+Some air may escape when you begin applying pressure. However, the air should stop leaking out once the pressure is increased and the gauge is evenly on the valve.
+
+
+
+Standard gauges will blow out a stick. The notch on the stick where it stopped when blown out is the reading.
+Digital gauges will give a digital number as the reading.
+,,,
+
+
+The nozzle is on correctly when air stops leaking from the outside of the tire and is going inside of the tire.
+,,
+
+
+Do not go over 5 PSI or KPA than is recommended for your tires.
+If the pressure is still too low, add another small burst of air and recheck the pressure.
+Continue the process until the PSI is met.
+If you put too much air in the tire, press against the pin in the valve stem with the gauge and let a small amount of air release from the tire. Recheck the tire pressure.

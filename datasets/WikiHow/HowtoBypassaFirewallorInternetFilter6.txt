@@ -1,0 +1,26 @@
+@summary
+find a free php host, like bravenet, on an unblocked computer.
+
+@summary
+on an unblocked computer, find a php proxy script.
+
+@summary
+upload the php proxy script to your php host.
+
+@summary
+type in the address of your script into your school computer.
+
+@summary
+,
+
+@summary
+as an example: if you went to bravenet, your host might be youngone.bravenet.com.
+@article
+ Make sure it has FTP support or a way to upload PHP scripts. Create an account.
+ There are many available and is usually just one file.
+ Test it by executing the script from your browser.
+, Upload your proxy, that is, "snake.php", and execute it by going to "youngone.bravenet.com/snake.php". That's it.
+
+
+If you create a PHP proxy, use a different name. Do not create a host called "mycoolproxy.phphost.com/hacker-proxy.php"
+

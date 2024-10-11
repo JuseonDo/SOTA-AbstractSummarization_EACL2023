@@ -1,0 +1,14 @@
+@summary
+open your web browser.
+
+@summary
+copy and paste the following address.
+
+@summary
+replace .http://example.com/ with the site you want to visit.
+@article
+ You may be able to access a cached version of the site, since it loads through Google. The cached version will typically not be completely current, but usually won't be too old., Paste this into your browser's address bar:
+
+webcache.googleusercontent.com/search?q=cache:http://example.com/
+
+, For example, to visit the cached version of Facebook, type webcache.googleusercontent.com/search?q=cache:https://facebook.com/.

@@ -1,0 +1,5 @@
+@summary
+assemble the neck curve restorer.
+@article
+ Make sure the handles are screwed in tightly to the main unit by tightening the thumb screws.
+

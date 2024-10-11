@@ -1,0 +1,52 @@
+@summary
+open the settings tab on your iphone.
+
+@summary
+scroll down and tap icloud, login your apple account.
+
+@summary
+,
+
+@summary
+scroll down and tap “find myiphone” and switch “find myiphone” status to on.
+
+@summary
+open a web browser, enter the url of icloud: https://www.icloud.com/ or launch the find my iphone app on another ios device.
+
+@summary
+,
+
+@summary
+login with your icloud account.
+
+@summary
+in the web interface, click the “find myiphone” icon.
+
+@summary
+,
+
+@summary
+select the ios device that was lost and locate the current location of it on the map controls.
+
+@summary
+,
+
+@summary
+lock your phone down.
+
+@summary
+sound an alarm.
+
+@summary
+make your phone display a message to whoever finds it.
+@article
+;
+,,
+
+
+If you like, enable “Send Last Location”, which will automatically send the location of your iPhone to Apple when the battery is critically low.
+After finishing the steps above, you’ve make the preparation before your iPhone may be lost or stolen.
+, This account should be the same iCloud account that you've logged on your lost iPhone.
+,, Turn on Lost Mode button to make sure your iPhone is locked down.
+ If you found your iPhone was lost or stolen and believe that it may be nearby, you can tap on the Play Sound button to have your lost iPhone play a loud sound alarm.
+ The last action you can try is to type a quick message including adding a contact number for someone who might find the phone and contact you, and click Done. (Remember not to enter your phone number, it’s useless!)

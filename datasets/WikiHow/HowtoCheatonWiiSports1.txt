@@ -1,0 +1,15 @@
+@summary
+when you choose single game, best of 3, or best of 5, select one of your miis.
+
+@summary
+select it again to change it back.
+
+@summary
+,
+
+@summary
+click on a computer character.
+@article
+ It will become a question mark. This is a computer player now. There is only 1 of you.;
+,, Now he is you! You can change sides, watch the computer play, all that stuff by doing this. You can even play as all 4 of them with a split screen (which can get kind of confusing, but it's really cool).
+

@@ -1,0 +1,27 @@
+@summary
+open the messages app.
+
+@summary
+tap on a text from a person you want to block.
+
+@summary
+tap the i icon in the upper-right corner.
+
+@summary
+tap the name or number of the sender.
+
+@summary
+scroll down and tap block this caller.
+
+@summary
+,
+
+@summary
+tap block contact.
+@article
+ It has an icon with a white talk bubble and is located on the Home Screen.;
+, You can block any contact or number that has sent you a text.
+ This will display the details for that text conversation.
+ This will open the contact information screen.
+, This will add the contact or number to your iPhone's block list. Any future messages from that number will not be received, and the sender will not be informed that they are blocked.If you need to remove a number or contact from your block list, go to Settings → Tap Messages → Tap Blocked → Tap Edit → Tap the - button next to a contact or number from the list to unblock them.
+

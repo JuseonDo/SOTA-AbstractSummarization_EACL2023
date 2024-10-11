@@ -1,0 +1,50 @@
+@summary
+before we start, let's get an understanding of what happens when we strike an arc with welding electrodes.
+
+@summary
+prepare the bevels and lands
+
+@summary
+prepare to clean the steel plates by donning your safety equipment, welding helmet, welding gloves and a dust mask for particles.
+
+@summary
+set the root gap
+
+@summary
+when the bevel has been applied to both steel plates, turn them face down, set the root gap (i use the metal stub of the welding electrode i'm welding with) and employ spot welding to tack them into position.
+
+@summary
+,
+
+@summary
+position the steel plates
+
+@summary
+now that the plates have been cleaned, beveled and tacked, clamp the steel plate in a position of comfort and prepare to weld the root pass.
+
+@summary
+preheat the steel plates
+
+@summary
+it is never a bad idea to preheat, in fact, almost every welding job i perform professionally demands a preheat temp of 400 degrees and up.
+
+@summary
+run the root pass
+
+@summary
+extra care should be taken when running the root pass because if the root pass has good fusion and is watertight, the rest of the welding is just formality especially when welding pipe.
+
+@summary
+run the fill passes
+
+@summary
+run the welds in steps starting with the root pass, the intermediate fill pass and the final fill.
+@article
+ The size of the welding rod, amperage and plate thickness determine weld fusion (adhesion) initially. In other words, a large diameter welding rod on a thin steel plate will blow right through it. On the flip side, a small diameter welding rod on thick steel plate may not start the arc and, if you do, the weld will not fuse to the steel but simply lay on the surface of the steel plate. This is where preheat comes to your aide. Preheat allows you to use small welding electrodes with your buzz box on thick steel plate.
+ "Junk In, Junk Out", is exactly what you will get if you do not prepare the steel plates for welding. Never weld through trash, rust or scale if you have the means to clean the steel. The bevel should approximate 45 degrees with a 1/8" land (flat) at its base.
+, Gather your welding supplies, gas and torch for preheating, welding electrodes, stinger and your Buzz Box.
+ You will be amazed at how easily the arc strikes and how well the welding rod burns, improving welding quality significantly. Bear in mind, once the steel has reached preheat temp, this temp must be maintained throughout the procedure till all welding is finished.
+ Make sure the joint is good and hot and you are comfortable during the weld. Comfort means control.
+ As you step up the welds, pay particular attention to tying in the sides, this is the strength of your welding.
+The "Cap" passes are where you let your skills shine. They can be as few as one or as many as it will take to cover the filled joint you just welded. This is your signature so take your time and get them straight and the proper height. The grand finale' of this episode is to turn the plate over, grind out the root opening down to flawless metal, preheat the steel plate, fill the joint and run the caps, you're done.
+

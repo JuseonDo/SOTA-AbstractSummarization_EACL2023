@@ -1,0 +1,26 @@
+@summary
+tap the uber app.
+
+@summary
+,
+
+@summary
+tap the "where to?",enter the address you want to go to.
+
+@summary
+tap the "current location" button to change your pickup spot.
+
+@summary
+tap the type of ride you want.
+
+@summary
+tap "request uber" to order your ride.
+
+@summary
+swipe up on the driver name.
+
+@summary
+tap "share status.",tap the contact that you want to share with.copy and paste the link if you want to share manually.
+@article
+, button.
+, By default, you'll be picked up at your current location. You can change this by tapping the "Current Location" button on the map., You'll see the different ride options and the estimated fare. Tapping an option will show the estimated pickup time., If you didn't change your pickup location, you'll be asked to confirm that you want to order a pickup at your current location., The driver name will appear at the bottom of the screen after someone accepts your request.,,,

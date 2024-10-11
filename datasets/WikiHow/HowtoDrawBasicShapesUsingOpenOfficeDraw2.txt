@@ -1,0 +1,19 @@
+@summary
+get the tools for drawing flowcharts by clicking on the icon.
+
+@summary
+use callouts by clicking on this icon .
+
+@summary
+access the stars and banners by clicking on this icon.
+@article
+;
+, It open the Callouts toolbar.
+
+
+Note: These new callouts replace the old ones in Version 1. If you still need the old ones, you can add them manually to this or another toolbar.
+
+
+
+You can add text to all these shapes.
+

@@ -1,0 +1,37 @@
+@summary
+right-click on the desktop background image.
+
+@summary
+click on properties.
+
+@summary
+click on appearance.
+
+@summary
+click on advanced.
+
+@summary
+click on the drop-down menu labeled "item".
+
+@summary
+click on icon.
+
+@summary
+click the "up" arrow.
+
+@summary
+click on apply.
+
+@summary
+click on ok.
+@article
+ Do so with the right button on your trackpad or mouse. This opens the contextual menu., It's at the bottom of the menu.
+ It's a tab at the top of the dialog box., It's in the bottom-right corner of the dialog box.
+ It's in the lower-left corner of the screen., It's near the middle of the drop-down menu.
+ It's located to the right of the field labeled "Size". Doing so increase the size of desktop icons incrementally.
+
+
+Alternatively, type a larger number into the "Size" field.
+ It's in the lower-right corner of the dialog box.
+ It's at the bottom-center of the dialog box. Now, the icons on your desktop will be bigger.
+

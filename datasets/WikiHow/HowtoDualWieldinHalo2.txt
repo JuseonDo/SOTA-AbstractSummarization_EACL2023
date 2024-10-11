@@ -1,0 +1,23 @@
+@summary
+get a dual-wieldable weapon.
+
+@summary
+find a second weapon.
+
+@summary
+now that you have two weapons you are currently dual wielding.
+
+@summary
+,
+
+@summary
+to fire your weapons hit both the right trigger and the left trigger at the same time.
+
+@summary
+experiment with multiple weapon combinations.
+@article
+ The easiest one to get is the smg, because you often spawn with it. There should be many more around the map though.;
+, Using the secondary weapon controls, hold Y for the XBOX and The XBOX 360 but for the PC Hold Q. You should now have both weapons in your hands.
+, Or for the PC use the left click for the left weapon and the right click for the right.
+ An SMG and a Plasma Rifle's different damage styles but fast rate of fire wear through shields faster than two SMGs or two Plasma Rifles. Also, a Plasma Pistol and any other weapon is effective for neutralizing enemy shields with a charged shot.
+

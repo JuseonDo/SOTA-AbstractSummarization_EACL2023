@@ -1,0 +1,18 @@
+@summary
+log in to hipmunk and scroll all the way down to where it says "faq.",
+
+@summary
+click on your screen name in the blue bar on the right.
+
+@summary
+check under where it says "my bookings" for your recent bookings.
+
+@summary
+click on the "chat with hipmunk" box in the bottom right for more help.
+@article
+ Click on this at the bottom of the page. Wait for a new page to come up.;
+, Select "My Bookings."
+
+, Use the contact info listed there to contact the site where you made the original booking. The policies about when you can change bookings can vary based on the booking company.
+ Type in a question you have about bookings and press "Enter" on your keyboard to ask the question.
+

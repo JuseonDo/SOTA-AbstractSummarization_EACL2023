@@ -1,0 +1,17 @@
+@summary
+log on to your runescape account.
+
+@summary
+turn on the chat effects feature under the "options" bar; this is marked by a wrench.
+
+@summary
+think of the type of text you want.
+
+@summary
+type the effects you want into the chat.
+@article
+ This will not work on Runescape Classic, which is really old.;
+, If this is off the syntax will not work.
+ It's good to visualize what you want your text to look like. If you don't you may end up with something people can't understand.
+ Use this syntax: colour:effect:text. Do not put spaces in between the code and the text, or it will not display correctly. If you like, you can specify only a colour, or only an effect - there is no obligation to use both.
+

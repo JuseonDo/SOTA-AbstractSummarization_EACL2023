@@ -1,0 +1,26 @@
+@summary
+open notepad.
+
+@summary
+copy the code in the reference to the right. ,
+
+@summary
+paste the code onto notepad.
+
+@summary
+,
+
+@summary
+save the notepad file.
+
+@summary
+name your css file.
+
+@summary
+click the "save" button.
+
+@article
+;
+,,, Save it to "SimpleCSS.css" by clicking "File" and select "Save." A "Save As" dialog blox is displayed after you click "Save."
+
+, Type "SimpleCSS.css" or any name you want into the "File Name" text box with the ".css" extension.

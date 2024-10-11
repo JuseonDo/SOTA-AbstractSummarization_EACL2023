@@ -1,0 +1,51 @@
+@summary
+open the messages app.
+
+@summary
+click messages.
+
+@summary
+click preferences.
+
+@summary
+,
+
+@summary
+click accounts.
+
+@summary
+click on your imessage account.
+
+@summary
+,
+
+@summary
+deselect your phone number.
+
+@summary
+open the facetime app.
+
+@summary
+,
+
+@summary
+click facetime.
+
+@summary
+,
+
+@summary
+click preferences.
+
+@summary
+,
+
+@summary
+deselect your phone number.
+@article
+ You may be asked to sign in with your Apple ID. If you are, make sure to sign in with the same Apple ID you use on your iPhone.
+ It's at the top left of your screen on the menu bar.
+, It looks like a blue @ symbol.
+, This will turn your phone number off for iMessages.
+,,, This will turn your phone number off for FaceTime.
+

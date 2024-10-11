@@ -1,0 +1,31 @@
+@summary
+download and install java, version 1.5.x or greater, if you don't already have it on your pc.
+
+@summary
+download and install azureus client.
+
+@summary
+download and install the azureus safepeer plugin.
+
+@summary
+change the default port for azureus.
+
+@summary
+while you are in the config area, click the transfer section to set your max upload and download speed.
+
+@summary
+also in the config area, you can set things like the default download folder and where you want the .torrent files to be saved until you have finished the download.
+
+@summary
+,
+
+@summary
+to hitch in to the network, you need .torrent files.
+@article
+ See external links below.;
+, See external links below for download link.
+ See external links below for download link.
+ Azureus only uses 1 port (unlike some other BitTorrent clients) and the default BitTorrent ports (6881-6889) may be blocked by your ISP. Open Azureus, click View > Config > Server and change the number before Incoming TCP listen port. Choose any number between 49152 and 65535. If you use a firewall you will have to add this port for forwarding to your computer's IP address.
+ Try download 0 (i.e. maximum) and upload between 10-25. Adjust downward if you find it is slowing your web browsing.
+, These tell your Azureus client where to find files on other BitTorrent PCs on the internet. See external links.
+

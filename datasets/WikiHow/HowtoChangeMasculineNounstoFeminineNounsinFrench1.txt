@@ -1,0 +1,9 @@
+@summary
+look at the word.
+
+@summary
+if you want the noun to be for a female, make sure it ends in an "e".
+@article
+ See if it currently ends in an "e" (such as amie, employée, or cousine) or ends in another letter (such as ami, employé, or cousin). If it ends in an "e" it is most likely feminine.;
+, If it should be male, omit the "e".
+

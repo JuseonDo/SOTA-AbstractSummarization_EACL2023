@@ -1,0 +1,32 @@
+@summary
+look for google chrome on your computer and open it.
+
+@summary
+open the settings menu.
+
+@summary
+show advanced settings.
+
+@summary
+scroll down and look for the “passwords and forms” section.
+
+@summary
+click the “manage autofill settings” link on the first option.
+
+@summary
+click on the autofill data you want to remove.
+
+@summary
+click the “x” button.
+@article
+ The web browser will load.
+ Click the button with three horizontal bars on the upper right corner of the browser. This will bring down the main menu. Scroll down and click “Settings.” The Settings page will load in a new tab.
+
+
+You can also go directly to this page by entering “chrome://settings/” on the address bar of the browser.
+ Scroll to the bottom of the Settings page and click the “Show advanced settings” link to expand the Settings page. You will see more settings after that.
+ This section controls how Google manages the data you enter on the web forms, including your passwords.
+ The Autofill settings window will appear. It will display all the autofill data you currently have stored on Google. You can see your addresses and credit card details.
+ For example, you want to remove a specific address or credit card from the list, click on it, and a couple of buttons will appear on the right.
+ The selected autofill data will be removed.
+

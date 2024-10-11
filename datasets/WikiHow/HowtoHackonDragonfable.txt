@@ -1,0 +1,49 @@
+@summary
+first open up ce;
+
+@summary
+,now open up the df window
+
+@summary
+,go to process in ce and click window list
+
+@summary
+,find dragonfable's process then choose it
+
+@summary
+,log in to dragonfable then select the character which you wish to hack in
+
+@summary
+,1 first locate your total hp
+
+@summary
+,
+
+@summary
+x your total hp by 8.2 first locate your total mp
+
+@summary
+,
+
+@summary
+x your total mp by 8.
+
+@summary
+3 first equip your beginner weapon.
+
+@summary
+4 first equip your beginner weapon.
+
+@summary
+5 first locate your local stat (the stat that your hacking) x the value of the stat by 8 then scan it.
+@article
+,,,,,, Then scan it. Change the value of your TOTAL HP and then X the after value by 8 and then scan it. There should be 1 address left in the address scanning area. Drag it down into the box area. Change value to 15000 and then freeze. Done!
+
+,, Then scan it. Change the value of your TOTAL MP and then X the after value by 8 and then scan it. There should be 1 address left in the address scanning area. Drag it down into the box area. Change value to 15000 and then freeze. Done!
+
+, X the minimum attack by 8 which is 40. Scan it. Equip a different weapon. X that minimum attack by 8. Scan it. There should be 1 address left in the scanning area. Drag the address in to the box area. Change value to 1500 and then freeze. Done!
+
+, X the maximum attack by 8 which is 80. Scan it. Equip a different weapon. X that maximum attack by 8. Scan it. There should be 1 address left in the scanning area. Drag the address in to the box area. Change value to 5000 and then freeze. Done!
+
+, Change the value of the stat then scan it. There should be 1 address in the scanning area. Drag it into the box area. Change the value to 20000 and then freeze it.
+

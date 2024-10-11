@@ -1,0 +1,21 @@
+@summary
+the pharmacy must require a prescription.
+
+@summary
+the pharmacy must ask for a medical and prescription history.
+
+@summary
+the pharmacy should not advertise or offer to sell any narcotics, controlled, or targeted substances.
+
+@summary
+the pharmacy should offer a full range of prescription pharmaceuticals (apart from the narcotics mentioned above).
+
+@summary
+finally, choose a fully licensed internet pharmacy located in canada, the u.s. western europe, asia, australia or new zealand.
+@article
+ A prescription is the most basic link in the medical chain of responsibility from doctor to patient to pharmacy.;
+, Without this information, the online pharmacy has no way of checking for drug interactions or inappropriate prescribing.
+ It is illegal for any Internet pharmacy to sell or ship these products.
+ Many online pharmacies offer only the best sellers or "lifestyle" medications such as Viagra. These pharmacies are more interested in your wallet than your health.
+ Most licensed pharmacies will indicated their licensing number on their website, or you can ask them for it, and verify it with the licensing organization. For instance, pharmacies in the UK are licensed by the Royal Pharmaceutical Society, and in India, they are licensed by the Indian Pharmaceutical Association.
+

@@ -1,0 +1,20 @@
+@summary
+draw a fat-shaped oval.
+
+@summary
+draw the mushroom cap.
+
+@summary
+add the spots.
+
+@summary
+add the mushroom's eyes.
+
+@summary
+color the mushroom in.
+
+@article
+ This will become the face of the mushroom.;
+, Spiral a good sized circle around the top of the oval.
+ Draw two oval shapes against the sides of the cap and a complete circle in the middle.
+ Insert two thin ovals symmetrical on the face.

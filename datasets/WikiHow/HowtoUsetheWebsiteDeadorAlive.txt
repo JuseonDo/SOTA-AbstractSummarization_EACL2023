@@ -1,0 +1,16 @@
+@summary
+go to deadoraliveinfo.com.
+
+@summary
+once you are on the front page, you will see there is a list of people who died within the past six months.
+
+@summary
+if you want to look up a name, type the person's full name where it says "search for" at the top of the page.
+
+@summary
+read the profile which appears, if the name you entered exists in the database.
+
+@article
+ Click where it says, "Click to Enter," to go to the site. This site has more names than Who's Alive and Who's Dead does. There are currently 7,888 listings as of March 23, 2017, a combination of people and a few animals, the oldest living of all is Irwin Corey, not Ruby Muhammad.;
+, Then you can go to any of the categories on the left side of the website. The categories are: Birthdays Today, Died on this Date, Died in the last 6 months, Died Before Age 30, People Alive Over 85, Lived to 100, By Field, By Sex, By Cause of Death, Random Name, Added Recently, Dead or Alive Quizzes, Put 'em In Order Quizzes, Guess the Age Quiz, Two New Quizzes, Who Have You Outlived?, Visitor Stories, Related Links, RSS Feed, Statistics, Privacy Policy, and Advertising Info.
+ If there is no profile with that exact name in the database, other names related to that name will appear.

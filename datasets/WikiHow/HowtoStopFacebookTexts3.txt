@@ -1,0 +1,35 @@
+@summary
+open the facebook app.
+
+@summary
+tap the ☰ button.
+
+@summary
+scroll down and tap account settings.
+
+@summary
+tap notifications.
+
+@summary
+,
+
+@summary
+tap text message.
+
+@summary
+,
+
+@summary
+tap edit in the notifications section.
+
+@summary
+,
+
+@summary
+tap the get text notifications box to uncheck it.
+@article
+ You'll need to be signed in with the Facebook account that you want to change the text notification settings for.
+ You'll see this in the upper-right corner.
+ You'll see this in the Help & Settings section.
+,,, You'll no longer receive text message notifications for your Facebook account.
+

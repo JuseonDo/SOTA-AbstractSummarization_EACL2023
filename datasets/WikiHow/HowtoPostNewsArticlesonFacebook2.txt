@@ -1,0 +1,25 @@
+@summary
+visit facebook.
+
+@summary
+log into your account.
+
+@summary
+find an article posted by your friends that you want to share.
+
+@summary
+click the “share” button beneath the article you want to share.
+
+@summary
+write your thoughts about the article.
+
+@summary
+click the “share” button.
+@article
+ Open another browser tab or window, and visit the Facebook website.
+ Enter your login information into the fields at the top right of the page. Click “Log in” to continue.
+ Do this by scrolling through your news feed until you see something particularly interesting.
+ A small Share window will appear containing the article.
+ You can do this in the text field at the top of the article.
+ The news article will be posted on your timeline for friends and family to see.
+

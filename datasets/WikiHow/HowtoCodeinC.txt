@@ -1,0 +1,36 @@
+@summary
+before anything else, you are going to need a text editor.if you have no programming experience, learning c might not be a good idea, for it is known to be a difficult and tricky language.
+
+@summary
+understand that you need to invest a serious amount of your time learning c. programming is a science that requires a lot of reading, patience, constant practising, versatility and an open mind.
+
+@summary
+,
+
+@summary
+read books that explain c's syntax and lexis.
+
+@summary
+cooperate with others.
+
+@summary
+don't bite more than you can chew.
+
+@summary
+experiment.
+
+@summary
+in order to execute your c programs, you are going to need a compiler like gcc.
+@article
+ Each operating system has its own editors already installed (Windows has Notepad, Linux distributions have Kwrite etc), but consider getting another. Notepad++ is an excellent editor you can use (and not only to write C code).;
+,,, Study example algorithms and the use of various libraries.
+ Ask more experienced programmers about various programming techniques, tips and tricks in C. There are more than one ways to code the same thing. Some of them are easier, some are more advanced. The way you write your code depends on your programming style.
+ Start slowly and steady. Experience and skill comes with time., Download free source code in C and start tweaking things, adding or removing lines etc. See what's happening and try to understand why it happened. No book will magically turn you into a programmer. If you don't practise and experiment, you will never learn.
+ Let's say that you have a file named test.c, which you want to compile. Go to the directory of that file and type gcc test.c -o test
+
+
+gcc: the command that orders GCC to compile your code.
+test.c: the name of the file you want compiled.
+-o: a flag that stands for output. Tells GCC to actually compile your file.
+test: the name of your executable. Once compiled, type test to run it
+

@@ -1,0 +1,14 @@
+@summary
+click on start;
+
+@summary
+,right click on my computer
+
+@summary
+,
+
+@summary
+click on properties.
+@article
+,, On the General tab, under System, if the words "Service Pack 1" are listed, then you have Service Pack 1 installed.
+

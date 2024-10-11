@@ -1,0 +1,16 @@
+@summary
+link your goodreads account to your kindle app.
+
+@summary
+open the book you'd like to share the quote from and make sure the quote is set to completely display on the screen without scrolling over into another page (page before or the page after).
+
+@summary
+select the passage of text in the book.tap the share button from the dialog box that displays (some of the time, on top of the phrase you've selected).select "goodreads" in the dialog box that displays.
+
+@summary
+type a personal message describing why you have decided to share it in the big box on the screen, then tap the "share button".
+@article
+ Slide in the left-hand side bar from the home page of the Kindle app showing all of your available books. Select Settings, then tap Social Networks option. Look for the Goodreads option that should say "Link" to the right side of that option.  Fill out the login form (which needs your Goodreads username and password). You don't need to have the Goodreads app installed, but it might be best to have it., Utilize the "Go to">"Location" feature to go right to the place of the quote.
+
+  A great way to get right to the quote is to highlight the quote and then a few moments later go to this quote from the book menu at the top of the book screen when you are inside of a book.
+ Make sure the entire passage is highlighted, if you haven't done so already. If you've already highlighted it from the substep directly above this step, single tap on the passage in the book.,,,  This message is the personal message Goodreads will use, when Goodreads shares to other social media outlets.

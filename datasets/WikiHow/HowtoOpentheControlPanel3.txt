@@ -1,0 +1,9 @@
+@summary
+locate the windows icon on your keyboard, press it and press 'r' at the same time.
+
+@summary
+type in 'control admintools'.
+@article
+ A window will pop up.
+ This will open a unique way of accessing the Control panel, and you will be able to click on shortcuts that will allow you to change settings.
+

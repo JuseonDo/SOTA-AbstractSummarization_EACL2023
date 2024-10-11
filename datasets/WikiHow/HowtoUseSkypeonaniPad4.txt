@@ -1,0 +1,15 @@
+@summary
+tap the im button.
+
+@summary
+,
+
+@summary
+the im interface now appears.
+
+@summary
+the message is sent to your contact.
+@article
+, Type your message using the software keyboard and tap the Send button.
+ Responses to your message will be shown on the same screen.
+

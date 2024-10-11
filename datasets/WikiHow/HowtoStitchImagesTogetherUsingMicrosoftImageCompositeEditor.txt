@@ -1,0 +1,35 @@
+@summary
+if you don't already have the software, go to microsoft.com.
+
+@summary
+after installing it, start up the software.
+
+@summary
+click on file >> new and then navigate to where your images are.
+
+@summary
+wait a bit, depending on how many images you are using.
+
+@summary
+zoom into your image.
+
+@summary
+using the 'handlebars' on the crop outline that you see, move them so that the images is cropped the way you want it to be.
+
+@summary
+,
+
+@summary
+once you have it how you want it, click on the crop icon.
+
+@summary
+click on 'export to disk...'.
+@article
+ Download and install it. It comes in the Microsoft installer package.;
+, This image shows you what you will see then.
+ If they are not contiguous, use CTRL to select them. Click on Open.
+ Once it is completed, you will see it come up on the screen.
+ You will notice that adjustments had to be made for it to fit together. You will need to crop it.
+, Alternatively, you can select Automatic Cropping and it will crop it how it sees fit...without the rough edges. Be aware that it won't look any different in the program. You will see the difference when you Export it.
+ You will be saving it in another format, such as JPG. Be sure you save it where you can find it.
+

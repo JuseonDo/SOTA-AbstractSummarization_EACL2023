@@ -1,0 +1,22 @@
+@summary
+open your iphone's settings menu.
+
+@summary
+tap general.
+
+@summary
+tap accessibility.
+
+@summary
+,
+
+@summary
+scroll down and tap hearing aids.
+
+@summary
+tap the hearing aid mode slider.
+@article
+ Tap the Settings app on one of your Home screens. The Settings app may be in a folder labeled "Utilities.";
+, You may have to scroll down a bit to see it.
+, You'll find this in the Hearing section.
+ If Hearing Aid Mode was enabled, this will disable it. When Hearing Aid mode is disabled, the slider moves to the left.

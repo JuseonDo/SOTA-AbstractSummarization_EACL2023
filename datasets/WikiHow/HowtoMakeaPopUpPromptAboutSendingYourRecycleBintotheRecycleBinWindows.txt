@@ -1,0 +1,50 @@
+@summary
+open up notepad.
+
+@summary
+in the name box, type "recycle bin" without ".txt" and save it somewhere else; not in your desktop.
+
+@summary
+,
+
+@summary
+open explorer.
+
+@summary
+close both the dialogue box and explorer.
+
+@summary
+,
+
+@summary
+go to the place where the saved file is.
+
+@summary
+,
+
+@summary
+if at the end is ".txt" in the file name, then remove ".txt" only.
+
+@summary
+,
+
+@summary
+right-click the file and choose 'delete'.
+
+@summary
+,
+
+@summary
+finished!
+@article
+ After you open Notepad, go to File > Save. Don't type anything. It must be blank.;
+,,
+
+
+For Windows 7: Go to "Organize" menu and select "Folder and search options". Then go to the "View" tab and search for the check box saying "Hide extensions for known file types". If checked, uncheck it.
+For Windows 8: Go to "View" menu and select "Folder and search options". Then go to the "View" tab and search for the check-box saying "Hide extensions for known file types". If checked, uncheck it.
+,,,, A message box like the image above will appear:
+
+
+Screenshot the image if desired. Paste it and save it as an image!
+

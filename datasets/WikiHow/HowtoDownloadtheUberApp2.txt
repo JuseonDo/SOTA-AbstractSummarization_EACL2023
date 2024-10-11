@@ -1,0 +1,35 @@
+@summary
+open the google play store.
+
+@summary
+,
+
+@summary
+tap the magnifying glass icon.
+
+@summary
+,
+
+@summary
+type in "uber.",
+
+@summary
+tap go.
+
+@summary
+,
+
+@summary
+tap "uber.",
+
+@summary
+tap install.
+
+@summary
+tap accept if prompted.
+@article
+,,
+
+,, Make sure the version you're accessing was developed by "Uber Technologies, Inc.", This will be in the top right section of your screen.
+ Once you do so, your app download will commence.
+

@@ -1,0 +1,12 @@
+@summary
+call the first person.
+
+@summary
+dial the second person.
+
+@summary
+have a great conversation!
+
+@article
+ When that call is established, press the "Flash" button.
+ When they've answered, press "Flash" again.

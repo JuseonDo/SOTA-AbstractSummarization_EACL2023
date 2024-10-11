@@ -1,0 +1,37 @@
+@summary
+root your device.
+
+@summary
+install clockworkmod recovery.
+
+@summary
+go to http://d-h.st/8cw.
+
+@summary
+copy and paste the zip file to your tablet's sd card.
+
+@summary
+boot your tablet using fastboot mode.
+
+@summary
+boot into clockworkmod recovery.
+
+@summary
+make a backup (nandroid) of your current rom.
+
+@summary
+tap on the mod file in the zip folder.
+
+@summary
+tap on go back then reboot system now.
+@article
+ It is important that your Nexus 7 is rooted. Search online for numerous how-tos on rooting your device.;
+, Visit https://clockworkmod.com/rommanager and follow the prompts to download the software to your device.
+ Download the file shown there (N7-720p_camera_mod-tl-aosp.zip).
+ Switch off your tablet.
+ To boot this way, simply press the volume down, the volume up, and the power keys until Fastboot Mode boots.
+ Select Recovery.
+ Click Backup and Restore, then tap on Backup. Tap on Install ZIP from SD Card, then select ZIP from the SD Card.
+ Tap Yes.
+ That's it! You're done.
+

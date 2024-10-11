@@ -1,0 +1,16 @@
+@summary
+go to the gmail drive website.
+
+@summary
+extract the setup file from the zip and install it.
+
+@summary
+create a filter and a label called "gmail drive" or something similar.
+@article
+ See the first external link below for this address. Scroll to the bottom and pick a download site, and download the file.
+
+
+Gmail drive is not an official tool maintained by Google. It is built by a third party developer that you need to trust in order to install. Install at your own risk.;
+, The Gmail Drive will now appear in "My Computer2".
+ The filter should put everything with "GMAILFS:" in the subject into the label. You should also have it skip the "inbox". This will prevent your inbox from filling up with Gmail Drive stuff.
+

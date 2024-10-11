@@ -1,0 +1,20 @@
+@summary
+create a backup of your important data, so that if something wrong happens then you can restore all your important data from system backup.
+
+@summary
+use third party tools to remove any registry errors that exist.
+
+@summary
+scan all your files on your computer, while downloading form the internet as they may contain suspicious element like virus, malware etc which can cause problem for your computer.
+
+@summary
+check the compatibility of your piece of software with your computer's operating system.
+
+@summary
+use computer maintenance tools like registry cleaner, windows manger to regulate proper functioning of your computer.
+
+@article
+ You have another option “system image”, by creating system image you can create backup of system settings, data, programs which are required to run your computer properly.
+ You can also use third party tools like Registry Cleaner offered by some of the well renowned companies like impcsupport. This tool can remove all registry error and also provide option to create backup of registry files.
+ Use a good antivirus program and update it regularly with latest virus definition. In my opinion you must use paid version as the free version antivirus has limited capability so it cannot provide full protection. The paid version offers maximum security and protects your computer from all harmful threats like virus, malware etc.
+ Before installing any software or updating any existing software it is always advised to check its compatibility with your computer.

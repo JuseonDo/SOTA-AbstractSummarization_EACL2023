@@ -1,0 +1,44 @@
+@summary
+open the settings app.
+
+@summary
+tap wi-fi.
+
+@summary
+,
+
+@summary
+make sure your phone's wifi is enabled.
+
+@summary
+tap a network name.
+
+@summary
+type in the network password.
+
+@summary
+,
+
+@summary
+tap join.
+
+@summary
+click the apple menu icon.click system preferences.
+
+@summary
+click network.click wi-fi.click advanced.
+
+@summary
+find your favorite network.click and drag your network to the top of the list.
+
+@summary
+click ok.
+@article
+;
+,, If the switch at the top of the screen next to "Wi-Fi" is green, you can proceed.
+
+
+If the switch is grey, tap it once to enable wifi.
+ This should be the network you wish to set as your default.
+, As long as your password is correct, your phone should connect to the network. Whenever you're near this network, your phone will connect automatically.
+ This is in the top left corner of your Mac's screen.,, This is in the "Internet & Wireless" group of options.,,, This will be somewhere in the "Preferred Networks" section.,, Both your Mac and your iPhone should now connect to your top network by default.

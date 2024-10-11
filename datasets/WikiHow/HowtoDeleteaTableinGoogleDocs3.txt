@@ -1,0 +1,30 @@
+@summary
+open the "docs" app.
+
+@summary
+,
+
+@summary
+tap the document you wish to edit.
+
+@summary
+,
+
+@summary
+tap your screen.
+
+@summary
+tap the edit icon.
+
+@summary
+tap your table.
+
+@summary
+,
+
+@summary
+tap delete table.
+@article
+,, Doing so should bring up the option to edit your document., This resembles a white pen in a blue circle in the bottom right corner of your screen.
+, Your table should disappear immediately!
+

@@ -1,0 +1,23 @@
+@summary
+open the spotify app.
+
+@summary
+tap ☰.
+
+@summary
+tap go premium start my 7 day trial.
+
+@summary
+tap start my 7 day trial.
+
+@summary
+,
+
+@summary
+tap ok let's go!.
+@article
+ If you aren't already logged in, you'll need to tap Log In and enter your username/email address and password (or Facebook credentials).
+ This is in the top left corner of your screen.
+ Located at the lower left of the screen.
+, Your 7-day free trial is now active!
+

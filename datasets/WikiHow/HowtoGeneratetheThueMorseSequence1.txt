@@ -1,0 +1,19 @@
+@summary
+start with 0 as the first element of the sequence (element t);
+
+@summary
+,
+
+@summary
+calculate each subsequent element one at a time, starting from t1.
+
+@summary
+repeat step 2 to determine as many digits of the sequence as you like.
+
+@article
+, To calculate the nth element:
+
+
+Convert n to the binary format. For example, 5 becomes 101
+Count the number of 1s in the binary format of n. For example, 5 has 2 "1"s in its binary representation
+Determine the digit at position n by setting it to 1 if the number of "1"s is odd and 0 if the number of "1"s is even.

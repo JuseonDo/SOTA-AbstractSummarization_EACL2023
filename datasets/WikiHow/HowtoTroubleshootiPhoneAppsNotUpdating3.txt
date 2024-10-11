@@ -1,0 +1,27 @@
+@summary
+open the settings app.
+
+@summary
+tap itunes and app store.
+
+@summary
+tap your apple id.
+
+@summary
+tap sign out.
+
+@summary
+,
+
+@summary
+tap sign in.
+
+@summary
+,
+
+@summary
+enter your apple id and password.
+@article
+ You may be able to fix update issues by signing out iCloud and then signing in again.,, This is the ID you use to sign in to iTunes.
+,, When the password is accepted, you’ll be signed back in to iCloud.
+

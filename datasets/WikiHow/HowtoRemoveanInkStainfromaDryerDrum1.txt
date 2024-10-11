@@ -1,0 +1,5 @@
+@summary
+unplug the dryer for any method used.
+@article
+ This is very important to avoid an electrical shock incident.
+

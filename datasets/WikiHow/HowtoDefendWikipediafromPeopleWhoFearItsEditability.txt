@@ -1,0 +1,35 @@
+@summary
+explain that wikipedia is teaming with administrators who patrol it just looking for errors, spelling mistakes, vandalism, plagiarism, and much more.
+
+@summary
+show them how users can patrol recent changes to the site and demonstrate how to reverse a bad edit by doing so yourself.
+
+@summary
+,
+
+@summary
+show them how citations are required for information on wikipedia.
+
+@summary
+suggest that whoever is attacking wikipedia for its "edit ability" spend some time there researching topics.
+
+@summary
+remind them that vandalism is usually obvious.
+
+@summary
+point to studies comparing it to other encyclopedias.
+
+@summary
+if they still insist that wikipedia is unreliable, then simply disregard their opinion.
+
+@summary
+refute their opposition when they claim anyone can edit it by saying that anyone can create a non-wiki website.
+@article
+ Explain to them the process that users go through before becoming admins. It takes months and thousands of accurate edits to become one. Explain the power that administrators possess, like blocking irresponsible users and vandals from editing the site, locking topics that are frequently subject to vandals, and more.;
+,, People often claim that completely false information could be added to Wikipedia. However, such information would be removed if no reliable citations were included to back it up. Thus, most information on Wikipedia is perfectly reliable.
+ Maybe cars, medical conditions, and other things that he or she may be knowledgeable about.
+ For example, when the article on George W. Bush states that he's a "big doo-doo head," it's probably vandalized.
+ For example, note there was a Nature magazine study which compared article quality between Wikipedia and Britannica and found it to be similar.
+ Tell them that if they want to believe Wikipedia is flawed, they may do so. If they are opposed to wikis, then they don't have to use them.
+ Although many non-wiki websites are of high quality and accuracy, almost anyone can create one. Thus, it isn't any less reliable than a lot of websites.
+

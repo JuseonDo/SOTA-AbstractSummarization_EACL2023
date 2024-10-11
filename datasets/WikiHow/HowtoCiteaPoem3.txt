@@ -1,0 +1,29 @@
+@summary
+quote 4 or more consecutive lines of a poem without quotation marks, but by setting the poem apart within whatever you are writing.
+
+@summary
+introduce the quote with your own words.
+
+@summary
+begin your blockquote on the next line, after your introduction.
+
+@summary
+indent twice.
+
+@summary
+punctuate the poem exactly as it reads in the original.
+
+@summary
+cite the lines of the entire blockquote at the end of the last line, without punctuation.
+@article
+ A block quote is also often called a long quotation.
+ This will link the poem to what you are discussing in your paper, essay or article.
+
+
+End your introduction with a colon. For example, when writing about Barrett Browning's poem and preparing for a block quote, you might say: Barrett Browning shares how she loves here:
+
+, It should be set apart.
+ The entire blockquote should be aligned at the second indentation within the body of your work. This will continue to provide a separate feel to your blockquote.
+ You will not use backslashes. Instead, you will mirror the lines of the poem you cite.
+ For example, if you cite several consecutive lines of Barrett Browning's poem, after your blockquote you would put: (7-11) without punctuation.
+

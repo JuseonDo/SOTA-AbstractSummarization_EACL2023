@@ -1,0 +1,46 @@
+@summary
+open whatsapp.
+
+@summary
+tap contacts.
+
+@summary
+,
+
+@summary
+select a contact.
+
+@summary
+,
+
+@summary
+scroll down and tap send message.
+
+@summary
+tap the text field.
+
+@summary
+write your message.
+
+@summary
+,
+
+@summary
+change the text.to change the font style, surround the text (or parts of the text) with specific symbols:
+
+@summary
+to bold text, add an asterisk (*) before and after the text.
+
+@summary
+tap ► to send the message.
+@article
+ The icon for this app looks like a phone inside of a thought bubble and is located on the home screen.;
+,,, It is located below the contact’s information section.
+ It is at the bottom of the screen.
+, For example: *This text would be bolded.*
+To italicize text, add an underscore (_) before and after the text. For example: _This text would be italicized._
+To strikethrough text, add a tilde (~) before and after the text. For example: ~This text would be struck through.~
+To use WhatsApp's new FixedSys font, type three backquotes (```) before and after the desired text. For example, ```This text would be changed to the FixedSys font.```
+
+, Your message will be sent with the enclosed text now changed. The receiver will see the changed text instead of the formatting symbols.
+

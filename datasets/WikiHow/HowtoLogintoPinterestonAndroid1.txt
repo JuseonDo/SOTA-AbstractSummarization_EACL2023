@@ -1,0 +1,30 @@
+@summary
+open pinterest.
+
+@summary
+type your email address into the box.
+
+@summary
+,
+
+@summary
+tap continue.
+
+@summary
+,
+
+@summary
+enter your pinterest password.
+
+@summary
+,
+
+@summary
+tap log in.
+@article
+ The app has a red icon with a white “p.” If you’ve installed the Pinterest app, you should find it on your home screen or in the app drawer.
+
+
+If you don’t have the Pinterest app, download it free from the Play Store.;
+,,,, You are now signed in to your Pinterest account.
+

@@ -1,0 +1,69 @@
+@summary
+forage four stones.
+
+@summary
+craft a stone pickaxe.
+
+@summary
+,
+
+@summary
+mine three tin ore, and three copper ore.
+
+@summary
+,
+
+@summary
+smelt the ores.
+
+@summary
+once they are smelted, put them in your inventory.
+
+@summary
+with another haft, go to tools and make the bronze pickaxe.
+
+@summary
+,
+
+@summary
+get iron.
+
+@summary
+smelt the iron, not the coal.
+
+@summary
+,
+
+@summary
+go to craft and choose four steel.
+
+@summary
+,
+
+@summary
+make a steel pickaxe.
+
+@summary
+get the mithril.
+
+@summary
+go to desert island, and forage lots of cacti.
+
+@summary
+,
+
+@summary
+go to the arch.
+@article
+ These can be found at the gray ore islands. Then get a haft. To get that, forage a tree trunk.;
+,,, Use your flint to set something on fire, and put your ores next to it. Wait.
+ Go to craft, and choose the "Bronze" option. There should be three.
+, You also need coal. Get four of both.
+,, (You will nee another haft.)
+
+, Try going to The Arch or the Mainland. In this tutorial, you'll go to The Arch.
+, Place the cacti on the stone and it will stick. You can climb it up and get the Mithril, using the Stone Pickaxe.
+
+
+Be careful not to fall off the arch. Keep an open eye for others there who may try to kill you.
+

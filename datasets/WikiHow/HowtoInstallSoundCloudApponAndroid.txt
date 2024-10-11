@@ -1,0 +1,29 @@
+@summary
+open google play store.
+
+@summary
+search for "sound cloud.",
+
+@summary
+install the app.
+
+@summary
+open the soundcloud app.
+
+@summary
+log in to soundcloud.
+
+@summary
+accept.
+@article
+;
+,
+
+, It has an orange icon with a cloud on it.
+ After the installation is successful, open the app and it will ask you to log in.
+ Enter your SoundCloud account details, or simply log in via Facebook.
+ After logging in, it will ask for the permissions. Simply press "Accept."
+
+
+You're done with setting up! You will be then taken to a screen where your "Stream" will be available showing all the songs that you have reposted.
+

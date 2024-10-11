@@ -1,0 +1,12 @@
+@summary
+remove the doorknob and faceplate from your side of the door.
+
+@summary
+grab onto the door lever with a pair of pliers.
+
+@summary
+twist the middle shaft with the pliers.
+@article
+ Remove the doorknob from the door by either engaging the hidden latch near the base of the doorknob or by unscrewing it. Once the knob is removed, you'll have to use a flathead screwdriver or other object to pry the faceplate from the door. This should reveal the interior door lever on the door.
+ There will be a small lever that pokes out of the hole in your lock. Grab onto this lever with a pair of pliers and twist your pliers clockwise to disengage the lock. You should feel resistance as you turn the pliers., Use the pliers to grab onto the shaft that houses the door lever. Turning this part clockwise will pull the plunger in and allow you to open your door. Once you're door is open and unlocked, you can resume in removing the rest of the lock.
+

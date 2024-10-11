@@ -1,0 +1,4 @@
+@summary
+swipe three fingers up to launch mission control.
+@article
+ In OS X Lion, Mission Control is a new feature that combines the Expose´ and Spaces features from the previous version of OS X.;

@@ -1,0 +1,81 @@
+@summary
+log in to your facebook account as you normally would.
+
+@summary
+click "can't find your code?",
+
+@summary
+click "submit a request to facebook".
+
+@summary
+,
+
+@summary
+supply the information being asked for.
+
+@summary
+click "choose file".
+
+@summary
+,
+
+@summary
+select the photo of the government id that you will use.
+
+@summary
+once the image is ready, click "send".
+
+@summary
+,
+
+@summary
+you will be taken to the "support dashboard", displaying the summary of your request.
+
+@summary
+,
+
+@summary
+facebook will then send a message to the e-mail associated with your facebook account asking you again to send a description of the issue and a picture of a government-issued id.
+
+@summary
+reply to the e-mail with an (a)explanation of the issue and (b)attached identification.
+
+@summary
+once facebook has processed your request, you will be notified via the support dashboard and also through an e-mail.
+@article
+ This article presupposes that you still know your working username and password, and you are just locked out by Facebook's two-step authentication.;
+, in the dialog box that would appear.
+,
+
+
+
+A. Enter your full name. In case your account name is different from your real name, use the account name.
+
+B. Enter the e-mail address you use as login credential.
+
+C. Enter the name of the phone network your "lost phone" used (e.g. Verizon).
+
+D. From the drop down menu, choose the issue that you are encountering with the security code. "I have lost complete access to this phone number" pretty much cover every other option.
+
+E. Give a brief explanation of your situation, i.e., that you're locked out of your account.
+, Make sure that you cover up any information that you don't want anyone else to see. The essential information that should not be covered up are:
+
+
+Your full name
+Your birthday (which hopefully is the same as what you put in Facebook)
+Your picture
+Some indicators that that ID is in fact government-issued (Though this author have not tried uploading a non-government-issued ID at this stage, there are indications that such a requirement MIGHT not be absolute. More on this later.)
+
+,,,
+
+
+A. You will notice that in this e-mail that, in contrast to what the Login Approvals Code Issues page provide, Facebook allows alternative forms of identification to be used in case there you have no government IDs.
+
+B. A more comprehensive discussion of accepted IDs is provided by Facebook here.
+
+
+
+In the author's case, he attached other alternative forms of identification, aside from the government issued ID, "just to be sure".
+The author used an ATM card and a school ID, but other kinds of ID may also be used.
+ At this point, your Login Approvals has been turned off, and you may access your account using only your login credentials.
+

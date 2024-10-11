@@ -1,0 +1,19 @@
+@summary
+click on start menu.
+
+@summary
+from there, click on the system icon option.
+
+@summary
+,
+
+@summary
+find the option power & sleep.
+
+@summary
+choose the duration as per your requirement from the drop down menus.
+@article
+ Then click on Settings option.;
+,, Click on it. From there, you will be able to see the settings for Sleep Mode at the right window pane.
+ The duration which you can set after your PC should go to sleep when on battery, and on plugged in both states.
+

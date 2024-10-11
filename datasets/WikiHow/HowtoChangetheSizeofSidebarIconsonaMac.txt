@@ -1,0 +1,23 @@
+@summary
+click on the apple menu.
+
+@summary
+click on system preferences.
+
+@summary
+,
+
+@summary
+click on general.
+
+@summary
+click on the "sidebar icon size" drop-down menu.
+
+@summary
+click on your preferred icon size.
+@article
+ It's the black, apple-shaped icon in the upper-left of your screen.;
+,, It's in the upper-left of the preferences window.
+ It's near the top of the dialog box.
+ The selections are small, medium, or large, and are not customizable.
+

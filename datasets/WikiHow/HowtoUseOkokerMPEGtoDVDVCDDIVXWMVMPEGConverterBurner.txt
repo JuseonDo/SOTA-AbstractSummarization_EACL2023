@@ -1,0 +1,27 @@
+@summary
+start okoker mpeg to dvd vcd divx wmv mpeg converter&burner.
+
+@summary
+click the toolbar item "add" to add some media files that you want to convert, then you will see the media files in the list.
+
+@summary
+click the toolbar item "convert" to convert your media files, then you will see a window in the middle of the software.
+
+@summary
+congratulate you!
+@article
+;
+,
+
+
+The box we've highlighted in red is the contents table, it show will show all the files you've chosen to convert.
+
+
+
+
+
+
+The panel we've highlighted in this step shows the conversion settings, at present they will be set to the default setting but you can change them to whatever your personal requirements are. If you aren't familiar with what one of the settings means then leave it as it is for now and you can always tinker with them later.
+ The window has a video is being played.
+ The conversion is done. Please click the blue button to browse output directory, you can see the media files that you want to get. Please click toolbar item "Burn VCD" or "Burn DVD" If you want to burn them into a CD/DVD disc. It can be played by the player in your computer.
+

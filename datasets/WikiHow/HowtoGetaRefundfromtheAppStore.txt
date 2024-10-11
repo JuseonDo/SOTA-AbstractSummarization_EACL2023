@@ -1,0 +1,31 @@
+@summary
+open itunes on your computer.
+
+@summary
+scroll down until you see the "purchase history" section.
+
+@summary
+find the app you wish to get a refund on.
+
+@summary
+sign in with your apple id and password.
+
+@summary
+,
+
+@summary
+explain why you should get a refund:
+
+@summary
+select a general category of your problem.
+
+@summary
+wait for a response.
+@article
+ Click the "iTunes Store" button on the right top corner. Then click your Apple ID, and select "Account" from the drop-down menu.;
+, Then click the "See All" link to the right side of it.
+ Then click the "Report a Problem" link next it.
+,
+Elaborate on the problem you are experiencing.
+ This time varies, so be patient. You will receive the reply on the email associated with your Apple ID.
+

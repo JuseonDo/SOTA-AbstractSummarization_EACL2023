@@ -1,0 +1,26 @@
+@summary
+open the breathe app.
+
+@summary
+turn the digital crown to set the length of your exercise.
+
+@summary
+move to a location where you can remain still and uninterrupted.
+
+@summary
+tap start.
+
+@summary
+inhale deeply as the round animation expands.
+
+@summary
+exhale slowly as the animation shrinks.
+
+@summary
+breathe until the watch taps your wrist twice and chimes.
+@article
+ The icon is green and contains a white curved arrow.
+ You can choose from 1 to 5 minutes., The Breathe session will end if you move too much during your exercise., The Breathe app will now guide you through a series of deep breaths. Remain still as you follow the instruction on the screen., The watch will also tap your wrist continuously you inhale, which is helpful if you’re visually impaired or want to close your eyes.
+
+One full breath lasts about 7 seconds by default, but you can change that in “My Watch” on your iPhone.
+ The tapping stops during your exhale., When the exercise is complete, you’ll see the Summary screen, which displays the amount of breathing you’ve completed today, as well as your heart rate.

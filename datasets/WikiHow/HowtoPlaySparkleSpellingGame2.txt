@@ -1,0 +1,30 @@
+@summary
+teach a memory verse to the class.
+
+@summary
+,
+
+@summary
+arrange students to stand in a circle.
+
+@summary
+choose one student to start.
+
+@summary
+follow through.
+
+@summary
+remove those who get it wrong.
+
+@summary
+say sparkle.
+
+@summary
+continue until only one person is left standing.
+
+@article
+, Have each student face the center of the circle.
+ This student says the first word of the memory verse.
+ The student to the right must say the second word of the verse, the next student says the next word in the sequence.
+ If any student gets the word or sequence wrong, they are out and must sit down.
+ After the last word of the memory verse is quoted, the next student says, "Sparkle". The student to the right must sit down, they are out.

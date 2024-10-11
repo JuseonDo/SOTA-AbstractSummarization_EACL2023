@@ -1,0 +1,25 @@
+@summary
+install tor if you haven't already from www.torproject.org;
+
+@summary
+,launch tor (and the tor browser if you don't have that set to open when tor does)
+
+@summary
+,in the tor browser, go to settings->network-> proxy settings and scroll down to where you can see either localhost or 127.0.0.1
+
+@summary
+,
+
+@summary
+where you see localhost or 127.0.0.1, look on the right for the port number.
+
+@summary
+go to your os/system proxy settings and set up a new proxy.
+@article
+,,, Copy the port number.
+ The IP will be 127.0.0.1 (or localhost) and the port number will be the one you copied from the tor browser earlier (see where I'm going with this?). Save the settings/activate the new proxy.
+
+
+This will route all your network traffic through tor using the same port as the tor browser, making EVERYTHING you do anonymous, and giving you the ability to view onion links in any browser application (chrome!!!!!)
+Since tor usually switches ports On each re-connect to the tor network, you will need to redo steps 2-5 each time you reconnect to tor. This isn't a problem if you stay connected to tor all the time like me.
+

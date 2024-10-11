@@ -1,0 +1,24 @@
+@summary
+open the settings application.
+
+@summary
+tap notifications.
+
+@summary
+,
+
+@summary
+scroll to the bottom of the page.
+
+@summary
+,
+
+@summary
+tap the slider next to "amber alerts."
+@article
+ It's the gray icon containing gears.;
+,,, It's under the "Government Alerts" section at the very bottom of the menu. Once no green is showing, AMBER alerts have been turned off for your iPhone.
+
+
+Tap the slider next to "Emergency Alerts" to disable all government alerts on your iPhone.
+

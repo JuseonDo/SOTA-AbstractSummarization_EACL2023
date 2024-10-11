@@ -1,0 +1,17 @@
+@summary
+add dvd files to fce converter.
+
+@summary
+select output format: "mpeg-4 movie (*mp4)".
+
+@summary
+click the "convert" button.
+
+@summary
+import the output video into your fce.
+@article
+ Get the free download DVD Ripper for Mac, install and run it, then click "load DVD" button to import your dvd movie.;
+, In the "down-list", just select the right format .mp4 which can be supported by Final Cut Express.
+ Click "Convert" button, it begins to convert your dvd files to FCE mp4 format.
+ Launch FCE, go to "file > import movies". Select the converted MP4 video then click "import". Now you can edit to your hearts content.
+

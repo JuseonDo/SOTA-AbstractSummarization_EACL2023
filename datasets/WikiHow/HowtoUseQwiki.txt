@@ -1,0 +1,16 @@
+@summary
+go to the qwiki homepage.
+
+@summary
+enter a topic.
+
+@summary
+select a qwiki from the search results displayed in real-time below the search bar.
+@article
+;
+, For example, some of the millions of topics Qwiki knows include locations, people, and events.
+ Your Qwiki experience will begin immediately.
+
+
+You can also select one of the featured Qwikis and sign up for the Qwiki of the Day emails from the homepage.
+

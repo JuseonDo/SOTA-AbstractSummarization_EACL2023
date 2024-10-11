@@ -1,0 +1,46 @@
+@summary
+scan the form.
+
+@summary
+you should use 300 or 400 dpi, no more or less.
+
+@summary
+open word.
+
+@summary
+resize the picture so that it fills the entire page.
+
+@summary
+you need to "zoom" into the work now, as the work will get tedious and close from here on in.
+
+@summary
+use your mouse to move to the first spot on the page you want to write text.
+
+@summary
+,click on "insert" tab on slightly to the left of center,
+
+@summary
+,
+
+@summary
+click on the "insert text box" button.
+
+@summary
+right click the text box and select format text box from the popup menu.
+
+@summary
+type in some dummy text, and experiment with the text attributes (font, size, etc).
+
+@summary
+now, you can fill out the form, and just print it out in color.
+@article
+ Put a piece of blank white paper behind the original in order to minimize the degree to which the reverse of the form shows on the front.;
+, Select the "Reduce Moire" option. Ensure the scan is very straight and very clean.
+ Select Insert, Picture, From file, and navigate to the scan file, highlight that file and click OK.
+ You can do this by left-clicking on the picture. This will enable "handles" on the sides and corners of the picture. Drag the corner handles to the far corner of the page.
+ From the pulldown main menus, select View, Zoom, and select 200%. Click on OK.
+,, Your cursor will turn into a vertical cross. Use the mouse to draw a text box from upper left to lower right corner, by dragging the mouse.
+ On the Colors and Lines tab, I recommend you select Color: No Fill, and Line Color: No Line. On the Text Box tab, try setting all Internal Margins to their minimums and enabling the Word Wrap Text in AutoShape.
+ Then delete the dummy text and leave the settings.
+ Save it for later reference or re-use.
+

@@ -1,0 +1,9 @@
+@summary
+open your internet browser and search for an online xps-to-pdf converter tool.
+
+@summary
+follow the on-screen instructions to convert the xps document to pdf.
+@article
+ Examples of free online converter tools are Convert Files at http://convertfiles.com/ and Online PDF Converter at https://online2pdf.com/convert-xps-to-pdf.
+ The XPS document selected will now be converted to PDF and saved to your computer.
+

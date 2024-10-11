@@ -1,0 +1,42 @@
+@summary
+tap the uber app.
+
+@summary
+,
+
+@summary
+tap and drag the map to set your pickup location.
+
+@summary
+,
+
+@summary
+swipe up from the bottom of the screen.
+
+@summary
+,
+
+@summary
+tap "get fare estimate.",
+
+@summary
+type in your destination name or address.
+
+@summary
+,
+
+@summary
+tap the different ride options.
+
+@summary
+find the fare estimate below the eta.
+
+@summary
+tap "set pickup location."
+@article
+,,,
+
+,, Some types of rides, such as Access rides, will have multiple options available above.
+ The estimate is displayed as a range (i.e $27-36). You can expect your fare to generally be within this range, but it may end up more if you encounter bad traffic.
+ In many cities you'll see the exact fare you'll be charged and will be able to confirm that you want to order your ride.
+

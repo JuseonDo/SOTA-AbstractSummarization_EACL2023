@@ -1,0 +1,28 @@
+@summary
+learn the following rules and order of the game: each round, the dealer deals a certain number of cards (from a full deck, jokers removed) to all the players, including himself.
+
+@summary
+after dealing, the dealer takes the remaining deck and cuts it.
+
+@summary
+starting with the player to the left of the dealer, players begin to bid how many tricks they can take.
+
+@summary
+the player to the left of the dealer plays first.
+
+@summary
+once all cards have been played, the dealer tallies up the score.
+
+@summary
+the player to the left of the dealer deals the next round.
+
+@summary
+the game continues until the cards can no longer be divided equally among all the players, or until someone reaches a score of 100.
+
+@article
+ One card is dealt in the first round, two in the second, three in the third, etc.;
+, The suit of the card he draws becomes trump (see below) for that round.
+ A player may bid any number between zero and the number of cards dealt that round. The dealer records the bids on a score sheet. When it comes his turn to bid, he may not bid so that the sum of the bids of all the players is exactly equal to the number of cards dealt. If the sum of the bids is exactly equal to the number of cards, there is a chance that there will be no loser.
+ All subsequent players must follow suit (see below). The player who wins the trick leads the next hand, if there is one.
+ If a player takes the exact number of tricks he bid, he receives 10 points, plus the number he bid. For example, if Jane bid 0 and took 0 and Ricardo bid 5 and took 5, Jane's score would be 10 and Ricardo's would be 15. If a player takes any other number of tricks, he receives no points. For example, of Hilda bid 3 but took 2, and Naomi bid 1 but took 3, both would receive a score of 0.
+ One more card is dealt.

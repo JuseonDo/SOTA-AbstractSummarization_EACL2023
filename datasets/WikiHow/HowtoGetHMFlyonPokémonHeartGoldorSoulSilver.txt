@@ -1,0 +1,35 @@
+@summary
+go to ecruteak city.
+
+@summary
+after defeating morty, go southeast in the city to find the dance theater.
+
+@summary
+find the team rocket grunt bullying a kimono girl on the stage.
+
+@summary
+walk down off the stage and talk to the gentleman who approaches you.
+
+@summary
+go to olivine city.
+
+@summary
+keep surfing downwards.
+
+@summary
+enter the cianwood city gym and defeat chuck.
+
+@summary
+,
+
+@summary
+once you beat chuck and get the storm badge, walk outside the gym.
+@article
+ Visit the Ecruteak City Gym and defeat Morty to get the Fog Badge. This allows you to use HM Surf outside of battle.;
+, Enter it.
+ Walk up to the Grunt and talk to him. Defeat him in battle.
+ He gives you HM Surf because of your bravery. Now teach Surf to one of your Pokémon.
+ Go down from the entrance to the beach. Surf into the water.
+ Gradually turn to the left at the bottom of the screen when you reach the rocks. Avoid the whirlpool and continue west. You'll wash up on Cianwood City.
+, Talk to the lady near the entrance and receive HM Fly.
+

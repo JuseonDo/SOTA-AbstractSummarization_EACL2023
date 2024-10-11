@@ -1,0 +1,27 @@
+@summary
+right-click on the chrome desktop shortcut.select properties
+
+@summary
+,
+
+@summary
+click the .shortcut tab.
+
+@summary
+,
+
+@summary
+add .
+
+@summary
+click .ok.
+
+@summary
+,
+
+@summary
+start chrome using the shortcut.
+@article
+ Sandbox mode is a security feature for Chrome that could be causing your pages to be blank. Try disabling it to see if you can load webpages again.,,, --no-sandbox to the end of the text in the "Target" field.
+, If you can load webpages, then something is wrong with the sandbox mode. This could be caused by corrupted files or by a malware infection. It is very dangerous to browse the web while not in sandbox mode, so close Chrome and proceed to remove the malware or reinstall Chrome.
+

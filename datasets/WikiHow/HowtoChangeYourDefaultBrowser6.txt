@@ -1,0 +1,20 @@
+@summary
+click the gear icon in the upper-right corner and select "system settings".
+
+@summary
+select "details" in the "system" section.
+
+@summary
+click the "default applications" option.
+
+@summary
+click the "web" drop-down menu.
+
+@summary
+select the browser you want to use.
+@article
+ This will open the System Settings window.
+ This will display the system information.
+ This will open a list of your default applications for major system functions.
+ A list of available browsers will be displayed. You'll need to have your new browser installed in order for it to appear in this list.
+ Your new settings will be saved automatically. Whenever you click a web link, the browser you selected will load it.

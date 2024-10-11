@@ -1,0 +1,43 @@
+@summary
+next you are going to startup your firefox web browser and go to a site which has embedded flash videos in it, such as cnn videos.please allow the flash video to play/load in the web browser until it is completely finished playing/loading or completely loaded into the browsers cache.
+
+@summary
+keep your firefox web browser open with the flash video completely loaded and simply return to your open terminal and run the flashvideocapture.pl script by issuing the following command below.
+
+@summary
+if this was done correctly, you will see a statement such as this:
+
+@summary
+/proc/13509/fd/28 -> foundflash.1.flv
+
+@summary
+this means the flash video was captured as foundflash1.flv.
+
+@summary
+now it is time to playback your captured *.flv video files.congratulations, at this point you can rename the foundflash1.flv to anything you like.
+@article
+ Remember the FlashVideoCapture.pl script is not limited to video captures of videos in CNN Videos, MSNBC Videos or Bing Videos. I would encourage you to experiment with the script and try to capture embedded *.flv videos on other web sites., You can tell the video has completely loaded by the grey bar at the bottom of the flash video, which will usually indicate the load and completion of the video. Once the grey bar load cycle is complete and 100% of the video has been loaded it's now time to capture the video stored in your web browsers cache.,
+
+
+Type/Copy/Paste: cd /home/"your_user_name"/Videos
+
+this will change you into your Videos directory, make sure you are in the Videos directory and you have the FlashVideoCapture.pl script in this directory.
+
+
+
+Type/Copy/Paste: ./FlashVideoCapture.pl
+
+this command will execute the FlashVideoCapture.pl script and capture the *.flv video files to your /home/"your_user_name"/Videos directory.
+ In order to view the video you can use the VLC mediaplayer to view the captured *.flv file.
+ Make sure you are in the /home/"your_user_name"/Videos directory before running the following commands.
+
+
+Type/Copy/Paste: cd /home/"your_user_name"/Videos
+
+Type/Copy/Paste: vlc foundflash1.flv.
+or
+
+Type/Copy/Paste: vlc *.flv
+
+this will playback all *.flv video files stored in your /home/"your_user_home"/Videos directory.
+ So that you can view the captured *.flv video over and over again using the VLC media player without loading it from your FireFox web browser.

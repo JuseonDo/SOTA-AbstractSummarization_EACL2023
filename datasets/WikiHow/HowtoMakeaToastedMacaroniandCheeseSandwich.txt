@@ -1,0 +1,33 @@
+@summary
+preheat the stovetop to medium heat.
+
+@summary
+make the macaroni and cheese.
+
+@summary
+spread the butter on the sandwich bread pieces.
+
+@summary
+,
+
+@summary
+lay a slice of cheese onto each each piece of bread.
+
+@summary
+,
+
+@summary
+add the macaroni and cheese over each piece of bread.
+
+@summary
+grill the sandwiches.
+
+@summary
+serve.
+@article
+ Place a frying pan onto a stovetop and spread butter over the frying pan.;
+, Follow your recipe's instructions to make the macaroni and cheese. Set aside to cool until warm.
+,, Close the bread pieces together, making two sandwiches.
+ Place the sandwiches on the frying pan. Grill on both sides for about 2-3 minutes, until the sandwiches golden brown and the cheese melts.
+ Place the sandwiches on a serving plate. Cut into pieces, if desired. Enjoy!
+

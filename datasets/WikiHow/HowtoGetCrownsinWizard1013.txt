@@ -1,0 +1,20 @@
+@summary
+go onto wizard101.com and log in.
+
+@summary
+wait for a new tab to open up.
+
+@summary
+first click 'log in' and login using your wizard101 details.
+
+@summary
+,
+
+@summary
+then select a quiz you would like to take.
+@article
+ On the left hand side of the screen there will be a column with a number of options listed. Select the 'Earn Crowns' option. Now click on the green button saying 'Play Trivia.'
+
+, You will be on the FreeKI Games page.
+, You can earn 10 Crowns per quiz, but that is provided you pass the quiz. In order to pass you must answer 9 out of 12 questions correctly so it is advisable that you choose easy quizzes that you have a better chance of passing. You may only do 10 quizzes per day.
+

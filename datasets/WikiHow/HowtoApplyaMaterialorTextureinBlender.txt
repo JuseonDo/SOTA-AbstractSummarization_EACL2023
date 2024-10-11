@@ -1,0 +1,62 @@
+@summary
+go to the "materials" tab.
+
+@summary
+click the "new" button.
+
+@summary
+,
+
+@summary
+review the materials setting that appears.
+
+@summary
+press f12 to render the image.
+
+@summary
+if you want to add a texture to the model, go to the "texture" tab.
+
+@summary
+click on the drop-down box next to the "type" label.
+
+@summary
+adjust the size and detail of the texture using these sliders.
+
+@summary
+preview the texture will now .
+
+@summary
+,
+
+@summary
+adjust the color.
+
+@summary
+press f12 to render the image.
+
+@summary
+to fix the stretching, go to the textures tab and adjust the size sliders.
+
+@summary
+finished!
+
+@article
+;
+,, You can adjust the color and reflection (diffuse and specular) settings here. The intensity slider will adjust how prominent the reflection is, and the "hardness" slider will affect the sharpness.
+
+
+For this example, an orange material with a soft reflection will be used.
+ It should have the selected material applied to it.
+ You can find it right next to the "Materials" tab, then click the "New" button.
+ This will allow you to select a texture. The "Clouds" option will be selected for this example.
+
+
+
+For this example, a size of 0.1 and a depth of 6 will be used.
+, If you don't want the texture to be a very saturated pink color (when will you need to use that?) go down to the "Influence" panel in the Textures tab and click on the color swatch.
+
+
+Change the color to something more reasonable (for this example it will be a dark brown).
+The updated texture will show in the Preview panel.
+ The texture has appeared; however it's a little stretched out.
+ Since the texture is stretched vertically here, the Z value will be changed to 3. This will squish the texture so it appears normally.

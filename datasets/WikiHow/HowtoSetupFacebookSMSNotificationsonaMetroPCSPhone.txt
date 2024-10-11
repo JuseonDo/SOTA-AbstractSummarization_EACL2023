@@ -1,0 +1,33 @@
+@summary
+know what you need to know.
+
+@summary
+send a text message from your metro pcs phone to an e-mail account that you use.
+
+@summary
+,
+
+@summary
+check your e-mail and retrieve your phone's direct e-mail address from the message you just sent.
+
+@summary
+go into your account settings on facebook and add your phone's direct e-mail address to your e-mail accounts.
+
+@summary
+after you've received this text, click on the link inside (or, if your phone doesn't have internet, type it in on a computer browser) and now, your phone will be added to your e-mail list.
+
+@summary
+,
+
+@summary
+check your facebook e-mail settings and select your phone's e-mail as your default notification address.
+@article
+ Before you start this set up, you need to know a few things: Facebook currently doesn't support Metro PCS in their regular SMS set up menu, BUT, there is a way around it. You must be willing to change your login e-mail in order to do so, though. With that said, follow the instructions below to start setting up your notifications.;
+,, (it should be your number, followed by @metropcs.com or @mymetropcs.com, etc.)
+
+, Facebook should send you a confirmation text shortly after, which may come in several separate messages.
+, Now, you will receive all of your notifications via text to your phone.
+
+
+A few more things to note: once you have successfully completed this setup, your phone's e-mail address is now the address you will need to use to log in to facebook. It will also be displayed on your profile. You can change who can see it in your privacy settings in case you don't want to share your number with everyone.
+

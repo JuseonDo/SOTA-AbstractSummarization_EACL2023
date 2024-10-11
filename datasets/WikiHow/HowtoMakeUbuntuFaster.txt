@@ -1,0 +1,13 @@
+@summary
+install "preload" from the software center.
+
+@summary
+change the swapiness value to 10.
+
+@summary
+did you do as instructed above?
+@article
+;
+, Your default is 60. Preload itself improves system performance. To do this, open terminal and type: gksu gedit /etc/sysctrl.conf
+
+, If so, then you should have found "swappiness" or something of the sort and changed the number from 60 to 10. 

@@ -1,0 +1,12 @@
+@summary
+launch messenger.
+
+@summary
+go to settings.
+
+@summary
+turn off notifications.
+@article
+ Tap the Messenger app on your iOS device. The app icon is a dialogue circle with a zigzag in the middle.;
+, Tap the gear button on the bottom toolbar. This will bring out the Settings menu.
+ Tap “Notifications” from the menu. This will toggle and disable the notifications. The toggle button should be set to “OFF.”

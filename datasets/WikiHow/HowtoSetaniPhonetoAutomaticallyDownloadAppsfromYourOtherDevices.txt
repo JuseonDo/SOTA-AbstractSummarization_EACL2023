@@ -1,0 +1,13 @@
+@summary
+open the settings.
+
+@summary
+tap itunes & app store.
+
+@summary
+slide the button next to apps to the "on" position.
+@article
+ This is the app with the gears icon. You can usually find it on one of your home screens or in a folder labeled “Utilities.”;
+, This will be in the middle of the fourth section of menu options.
+ Apps that are downloaded on any of your devices logged into the same Apple ID will now automatically download to your iPhone.
+

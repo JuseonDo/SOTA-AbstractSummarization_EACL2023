@@ -1,0 +1,7 @@
+@summary
+press fn + f11.
+@article
+ Doing so will reveal your desktop.
+
+
+Alternatively, you can press ⌘ Command + F3.;

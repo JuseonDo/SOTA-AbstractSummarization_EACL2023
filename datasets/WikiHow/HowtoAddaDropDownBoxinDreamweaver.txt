@@ -1,0 +1,76 @@
+@summary
+run the dreamweaver software.
+
+@summary
+,
+
+@summary
+access the document in dreamweaver.
+
+@summary
+click on the area where you want to insert the drop down box.
+
+@summary
+,
+
+@summary
+go to "insert" in the top menu.
+
+@summary
+,
+
+@summary
+select "form.",
+
+@summary
+choose the correct form type.
+
+@summary
+enter the list of menu items.
+
+@summary
+assign a menu id.
+
+@summary
+press the "ok" button.
+
+@summary
+download vista buttons using the download link on the vista buttons website.
+
+@summary
+run the installation wizard.
+
+@summary
+put a tick next to "dreamweaver" when you are asked which programs you want to install the plug-ins for.
+
+@summary
+,
+
+@summary
+continue to press the "next" button until the installation process is complete.
+
+@summary
+,
+
+@summary
+run the dreamweaver software.
+
+@summary
+press the "insert menu" button on the vista buttons toolbar.
+
+@summary
+select "save and close" to finalize your settings.
+@article
+, You can create a new HTML document or open the web page that you want to add the drop down box to in Dreamweaver (you can create new documents or open existing documents in Dreamweaver through the File menu on the top left).
+,,
+
+, It may be labeled as "Jump Menu" or "List/Menu" depending on which version of Dreamweaver you are using.
+ These will be the menu options that will appear in the drop down box. You need to click on the plus sign every time you need to add a new option in the list.
+ This is for your own reference and you can assign an ID such as "dropdown" to remember what this form is for.
+ The drop down menu will be inserted as a form.
+;
+, It is preferable to not be running Dreamweaver while doing this.
+,, You should see the Vista Buttons toolbar appear at the top.
+ This will launch the Vista Buttons wizard allowing you to add a drop down box in Dreamweaver using various preset templates.
+ The drop down box will be added in your Dreamweaver document with the appearance that you specified.
+

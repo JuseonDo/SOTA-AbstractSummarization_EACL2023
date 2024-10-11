@@ -1,0 +1,39 @@
+@summary
+open the adblock plus webpage in your firefox browser.
+
+@summary
+,
+
+@summary
+click install for firefox.
+
+@summary
+,
+
+@summary
+click allow.
+
+@summary
+click install.
+
+@summary
+open the youtube website.
+
+@summary
+,
+
+@summary
+click the search bar.
+
+@summary
+type in the name of a popular video.
+
+@summary
+select your preferred video.
+@article
+,, This will pop up in the top left corner of your screen.
+ This option will also be in the top left corner of your screen.
+, It's at the top of the YouTube home page.
+ To ensure your adblocker is working, you'll need to search for a video you know has ads (e.g., a music video).
+ You shouldn't see any ads playing before or during the video, nor should you see any sidebar ads.
+

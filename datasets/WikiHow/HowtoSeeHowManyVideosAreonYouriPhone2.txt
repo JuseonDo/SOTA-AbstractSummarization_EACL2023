@@ -1,0 +1,21 @@
+@summary
+open the photos app.
+
+@summary
+,
+
+@summary
+tap albums.
+
+@summary
+scroll down to the "videos" album.
+
+@summary
+,
+
+@summary
+look for a number below the album cover.
+@article
+, This is in the bottom right corner of your screen.
+, This number should be directly beneath the "Videos" text. It will tell you how many videos are on your iPhone.
+

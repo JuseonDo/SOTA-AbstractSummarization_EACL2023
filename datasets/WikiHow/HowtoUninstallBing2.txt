@@ -1,0 +1,21 @@
+@summary
+tap the applications button.
+
+@summary
+scroll through your apps until you find the bing app.
+
+@summary
+tap and hold your finger on the bing app so that you can move it around freely.
+
+@summary
+drag the app under the “uninstall” button or icon (usually a trash can) at the top.
+
+@summary
+select “yes” to confirm.
+@article
+ By default, this should be located on the bottom left side of your screen. Your list of applications, also called app drawer, will then load on the page.
+ Your phone may list your applications in alphabetical order.
+ This is because you are going to want to move it towards the top of the window.
+ A window will pop up on your screen asking for confirmation if you really want to uninstall this app.
+ Your phone will then begin uninstalling the app.
+

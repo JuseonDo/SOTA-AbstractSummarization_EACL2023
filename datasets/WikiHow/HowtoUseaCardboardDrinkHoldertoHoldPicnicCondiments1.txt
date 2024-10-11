@@ -1,0 +1,13 @@
+@summary
+store a pile of pre-used cardboard drink holders.
+
+@summary
+evaluate which fast food restaurant distributes the most handy drink holders.
+
+@summary
+visit a restaurant supply store for a supply to keep on-hand.
+@article
+ Maintain a supply only of the gently used drink holders. Anything with rips or damaged should be recycled.;
+, Request a drink holder whenever you visit, even if you only one or two drinks.
+ If you buy in bulk you can use the drink holders for multiple uses.
+

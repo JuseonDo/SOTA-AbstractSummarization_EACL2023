@@ -1,0 +1,28 @@
+@summary
+go to the pinterest website.
+
+@summary
+click the "search" bar.
+
+@summary
+type in a user's name, a topic, or a product name.
+
+@summary
+click a search suggestion or press ↵ enter.
+
+@summary
+click boards.
+
+@summary
+click follow below a board.
+@article
+ It's located at https://www.pinterest.com/. If you're already logged into Pinterest, this will open your home page.
+
+
+If you aren't logged into Pinterest, click Log in in the top-right corner of the page, enter your username and password, and click Log in.
+ This bar is at the top of the page.
+ As you type, search suggestions will appear below the search bar.
+ Doing this will search for your pins, people, and boards using your selected keyword(s).
+ This tab is on the right side of the page, below the search bar.
+ Doing so will add the board to your profile's "Following" list.
+

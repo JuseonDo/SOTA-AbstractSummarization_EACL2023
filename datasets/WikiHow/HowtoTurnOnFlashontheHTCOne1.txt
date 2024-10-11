@@ -1,0 +1,23 @@
+@summary
+tap the camera icon on your home screen.
+
+@summary
+locate the flash icon.
+
+@summary
+tap the flash icon again to cycle through other flash modes.
+
+@summary
+tap the shutter icon to take a picture.
+@article
+ This will launch your camera app.;
+, The flash icon appears as a lightning bolt and will appear in the top right corner of the screen if you are holding your phone in portrait mode, and possibly in the top left corner if you are holding it in landscape mode., Flash is indicated by the lightning bolt, Auto Flash is indicated by the lightning bolt with an ‘A’, and No Flash is indicated by the lightning bolt in a circle with a line running through it.
+
+
+Whichever icon is displayed on the screen is the flash mode that is currently in use.
+When in Auto Flash mode, your phone will automatically detect lighting conditions and determine if flash is necessary.
+ With flash turned on, the light will go off automatically as the picture is taken.
+
+
+You can tap the screen to focus the camera on a specific area before you take the picture.
+

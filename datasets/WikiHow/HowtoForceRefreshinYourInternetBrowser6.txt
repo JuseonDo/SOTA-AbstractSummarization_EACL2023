@@ -1,0 +1,25 @@
+@summary
+open the settings app.
+
+@summary
+tap "safari".
+
+@summary
+,
+
+@summary
+tap "clear history and website data".
+
+@summary
+return to safari.
+
+@summary
+,
+
+@summary
+reload the webpage.
+
+@article
+ You cannot force refresh in Safari for iOS. You will need to delete your existing cache and then reload the website.
+, Tap "Clear History and Data" to confirm.
+,

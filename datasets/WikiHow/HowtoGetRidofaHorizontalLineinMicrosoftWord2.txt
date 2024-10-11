@@ -1,0 +1,18 @@
+@summary
+open the word document that contains the line.
+
+@summary
+click in the document immediately above the line.click on format in the menu bar.click on borders and shading….click on the borders tab at the top of the dialog box.
+
+@summary
+click on none.
+
+@summary
+click on ok.
+@article
+
+
+Such lines can be generated inadvertently if you typed three hyphens (-), underscores (_), equal signs (=), or asterisks (*), and pressed return.
+ If there is any text immediately above the line, select the entire row above the line.
+,,, It's under "Setting:" on the left side of the dialog box.
+ The border line will disappear.

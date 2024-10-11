@@ -1,0 +1,40 @@
+@summary
+detune your sixth string to a d. assuming your guitar is in standard tuning, use your third string as a reference tone and drop your thickest string to a d. your third string is an octave higher than the target note you're going for, but the tone is the same.
+
+@summary
+find the reference tones for the rest of your strings.
+
+@summary
+drop your sixth string to a c. because your fourth open string is now a c, you can use it to drop your sixth string to a c and finish tuning your guitar.
+@article
+
+
+
+
+
+
+
+
+
+Once you're in Drop D, all you have to do is lower each string one whole tone. This is why you may find it easier to tune your guitar in Drop C from Drop D rather than from standard tuning.
+ To finish tuning your guitar to Drop C, you'll start by fretting the sixth string on the fifth fret to produce the G that you need to tune your fifth string.
+
+
+
+
+
+
+
+
+Continue to do this string by string, using the fifth fret of the string you've just tuned. The only exception comes when you go to tune your second string. To find the A you need for your second string, you'll need to fret your third string at the fourth fret, not the fifth.
+ Keep in mind that your sixth string will be an octave lower than the tone produced by the open string.
+
+
+
+
+
+
+
+
+Once your guitar is tuned to Drop C, make any adjustments to your guitar that are necessary for you to play it correctly.
+

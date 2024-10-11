@@ -1,0 +1,35 @@
+@summary
+make sure you know how to perform each action you want and where to find all the menu options you need to select so you don't have to search for them while recording.
+
+@summary
+find the macros menu and select the option to record a macro.
+
+@summary
+name the macro.
+
+@summary
+perform the actions you want the macro to perform automatically for you.
+
+@summary
+stop recording.
+
+@summary
+,
+
+@summary
+test the macro by using the keystrokes you assigned to it, or by selecting the macro from the menu and running it.
+
+@summary
+edit the macro if you can; otherwise, re-record it.
+
+@summary
+save the macro, if prompted to do so as a separate step.
+@article
+ The macro will record every keystroke and mouse click, including those that are mistakes, such as clicking on menu options that aren't what you want. These mistakes will occur each time you run the macro.;
+, You will see an icon or another indicator that you are recording. For instance, Microsoft Word will display an icon near your mouse pointer that resembles a cassette tape.
+ Give it a name that will make it easy for you to remember what the macro does, and select one or a few keystrokes that you will use to run the macro.
+ Examples are setting margins, fonts, and tabs; creating headers and footers; choosing how the pages will be numbered and how you will view the document on the screen.
+, See if it performs the functions you intend and that you get the correct result.
+ If you don't know anything about writing programs, you probably will not be able to edit the macro. Instead, re-record the macro to make changes, replacing the existing macro with a new one under the same name.
+ Macros are saved in a specific directory with a specific file extension. If you change either of these, the software may not be able to find the macro the next time you want to use it.
+

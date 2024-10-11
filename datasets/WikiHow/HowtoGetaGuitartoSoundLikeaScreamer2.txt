@@ -1,0 +1,13 @@
+@summary
+try octave harmonics.
+
+@summary
+remove your finger while simultaneously picking the string.
+
+@summary
+experiment with other places on the neck to try this.
+@article
+ Choose any string and pick it open. Just lightly touch that string at the twelfth fret.
+ (Use this effect with a bass guitar to emulate the bells when playing AC/DC's "Hell's Bells".) This is a natural harmonic.
+ The 7th fret is a good place to start. You'll always have to pick the note 12 frets after the one you begin with, so for the 7th fret, lightly touch the 19th fret.
+

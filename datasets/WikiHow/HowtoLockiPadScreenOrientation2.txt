@@ -1,0 +1,20 @@
+@summary
+rotate your ipad to the orientation you want.
+
+@summary
+swipe up from the bottom of the screen to open the ipad’s control center.
+
+@summary
+tap the lock rotation button.
+
+@summary
+swipe down anywhere on the screen to close the control center.
+@article
+ Once you lock your iPad, it won't turn when you rotate the screen, so rotate it first to orient the screen how you'd like.
+ This allows you to quickly adjust the settings for your iPad.
+ This will toggle the Orientation Lock, which will prevent your iPad’s screen from rotating. The button will turn white when it is toggled “On”.
+
+
+If you see a Mute button instead of the Lock Rotation button, click here.
+ If you want to enable the screen rotation again, open the Control Panel and toggle the button.
+

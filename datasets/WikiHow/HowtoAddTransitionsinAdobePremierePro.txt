@@ -1,0 +1,32 @@
+@summary
+select the "effects" panel in the lower-left corner of the interface.
+
+@summary
+open the "video transitions" folder.
+
+@summary
+,
+
+@summary
+select the folder of the type of transition you want to use.
+
+@summary
+click and hold on the transition you want to use, then drag it over to your video clip panel.
+
+@summary
+,
+
+@summary
+drop the transition into a position on the video clip bar.
+
+@summary
+click and drag the left and right edges of the transition to shorten it or extend it.
+@article
+;
+,, The number and types of transitions depend on your version of Premiere Pro. Common transition types include dissolve, 3D motion, and slide. Each folder contains transitions that are stylistically similar but offer slightly different effects.
+, Transitions can be placed in between two overlapped clips, as well as at the beginnings and endings of each clip.
+ Each transition has a default time length you can alter in this way.
+
+
+When you play the video clips back, the transition may stutter and jerk, depending how much you shortened or lengthened the effect. It is signified by a red bar at the top of the video clip panel. Simply hit the "Return" key on Mac or "Enter" key on Windows to create a rendered video preview. This will make the video and transitions flow smoothly.
+

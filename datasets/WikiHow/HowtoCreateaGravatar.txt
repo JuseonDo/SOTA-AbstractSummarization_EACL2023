@@ -1,0 +1,34 @@
+@summary
+visit the gravatar website to sign up.
+
+@summary
+enter your email address and click on "get your gravatar".
+
+@summary
+,
+
+@summary
+you will receive a confirmation email.
+
+@summary
+crop your image by moving the box that is overlaid on the image you choose.
+
+@summary
+choose an image rating that reflects the content of your avatar.
+
+@summary
+start using it.
+@article
+ It's located at: http://gravatar.com. There is a "Create Your Own Gravatar" button.;
+,, Click on the provided link and you will be able to choose how to input your image.
+ Then click on "Crop and Finish".
+
+
+
+Be aware that the use of an image that is X-rated will automatically prevent you from using it on a number of websites.
+ When you visit websites that enable the avatar, you should now find it appearing as an option when joining or using the website.
+
+
+
+
+

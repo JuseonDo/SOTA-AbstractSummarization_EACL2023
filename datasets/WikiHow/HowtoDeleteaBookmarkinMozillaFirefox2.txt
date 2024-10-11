@@ -1,0 +1,21 @@
+@summary
+open your mozilla firefox browser.
+
+@summary
+,
+
+@summary
+click on the bookmarks button from your toolbar.
+
+@summary
+click the folder you wish to edit.
+
+@summary
+select the bookmarks you want to delete.
+
+@summary
+select the cog icon.
+@article
+, From here a dropdown menu will appear where you can select "Show All Bookmarks." This will open your library window., Select this folder from the left-hand pane. Its contents will appear in the right-hand window.
+ Click on the file you want to delete and hold down the ⌘ Command key while you scroll over the other bookmarks you wish to delete., This can be found in the upper left-hand corner and it will cause a dropdown menu to appear. Select "Delete."
+

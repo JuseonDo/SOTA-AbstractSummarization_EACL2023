@@ -1,0 +1,72 @@
+@summary
+download skse.
+
+@summary
+download and install 7-zip.
+
+@summary
+extract the skse files.
+
+@summary
+find your skyrim directory.
+
+@summary
+open the folder containing the extracted files in another window.
+
+@summary
+copy all of the ..dll and .exe files from the skse folder to the skyrim folder.
+
+@summary
+open the .data\scripts\ folders in both the skyrim and skse folders.
+
+@summary
+,
+
+@summary
+copy all of the ..pex files from the skse folder to the skyrim scripts folder.
+
+@summary
+return to the skyrim game directory.
+
+@summary
+,
+
+@summary
+right-click on .skse_loader.exe and select "create shortcut".
+
+@summary
+,
+
+@summary
+drag the shortcut to your desktop.
+
+@summary
+,
+
+@summary
+start steam.
+
+@summary
+double-click the .skse_loader.exe shortcut to start skyrim.
+@article
+ You can download Skyrim Script Extender (SKSE) from the developer's website. Download the "7z archive", not the "installer" The self-installer can cause problems, and you'll generally have a much smoother experience if you install the files yourself.;
+, This is a free archiving program that can open .7z files. You can download it from 7-zip.org.
+ After installing 7-Zip, right-click on the archive and select 7-Zip → Extract Here. A folder will be created in the same location with the extracted files.
+ Skyrim requires Steam to install, so you'll need to look in your Steam directory. The most common default installation directory is:
+
+
+C:\Program Files\Steam\steammapps\common\skyrim\
+
+, You should now have two folders open: your Skyrim game directory and the folder with your SKSE files.
+ This should be all of the SKSE files except the two folders.
+
+
+If prompted, choose to overwrite or replace any existing files.
+,
+
+
+If prompted, choose to overwrite or replace any existing files.
+The rest of the files can be left as is. They are only required if you plan on coding your own mods from scratch.
+,,, You must have Steam running already before you can start your modified Skyrim.
+ You can now download and install Skyrim mods that require SKSE.
+

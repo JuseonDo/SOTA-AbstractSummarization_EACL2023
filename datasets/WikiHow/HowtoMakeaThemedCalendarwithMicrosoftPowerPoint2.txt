@@ -1,0 +1,20 @@
+@summary
+go to insert and make a table that is 7 squares in width and 6 squares in length.
+
+@summary
+expand your image until it is big enough.
+
+@summary
+now take the graph and number to it.
+
+@summary
+now you can add effects to it.
+@article
+ This is your Calendar. Make it to these exact lengths or you won't be able to make a proper calendar.
+ You will go to the side of the image and use the arrow that will appear to expand it until it fits like you want it to.
+ You will need to add at least 31 numbers. 1-31.
+ This graph has been shadowed, recolored, added bevel and reflection.
+
+
+By going to Design after clicking on the graph you can do a variety of things to better its appearance.
+

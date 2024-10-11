@@ -1,0 +1,32 @@
+@summary
+insert the windows installation disc, i.e.
+
+@summary
+during the boot-up process, press f8 key until the boot-up menu appears (this boot menu key may differ in different models.
+
+@summary
+thereafter, you will see a blue screen with series of messages.
+
+@summary
+a new page appears with a list of options on where to install windows.
+
+@summary
+upon completion, the process will take you back to the initial screen of where to install windows.
+
+@summary
+choose the new partition as the primary partition to install windows in.
+
+@summary
+thereafter, windows will format the hard disk and proceed with the installation process.
+@article
+ Home or Professional edition into the CD-ROM and restart the PC.;
+,
+
+
+Using the arrow keys, scroll and select “Boot from CD”.
+ This might take a while as it gathers the files it requires. Upon finishing the process, a list of options will appear on your screen, using the arrow keys scroll and select “Press Enter to set up Windows”.
+ At this point you can delete the current partitions and format the hard disk. A section at the bottom of the screen will list all the partition that exists in the system. Use the arrow keys to scroll and select the partitions. To delete a partition, press ‘D’ and in the new screen that appears press ‘L’.
+ Given that all the partitions were deleted, you need to create a new primary partition to install Windows in. Use the arrow keys to select the “Unpartitioned space…” and press ‘C’ to create a new partition on the hard disk. A new page appears prompting you to select the size to use on the partition, enter the maximum figure shown therein and presses enter.
+ When prompted for the file system to use on the disk, select NTFS. Unlike other file systems displayed therein, NTFS is fast and secure.
+ The procedure may take approximately two hours to complete, so you have to be patient.
+

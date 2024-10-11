@@ -1,0 +1,29 @@
+@summary
+tap settings.
+
+@summary
+select “general.” once you have selected "settings," click on "general" from within the settings app.
+
+@summary
+,
+
+@summary
+tap the “keyboard” tab.
+
+@summary
+,select the “add new shortcut…”,
+
+@summary
+enter the text you want.
+
+@summary
+enter your shortcut.
+
+@summary
+click the “save” button.
+@article
+ This is the silver cog icon on your device's home screen.;
+,,,, In the "Phrase" input field, enter the text you want to appear when you enter your shortcut.
+ In the "Shortcut" field, enter the text you would like to use as your shortcut.
+ This can be found in the upper right-hand corner. Now when you enter your shortcut, the text will automatically be replaced with the text you entered in the “Phrase” field.
+

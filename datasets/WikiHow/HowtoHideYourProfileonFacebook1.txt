@@ -1,0 +1,26 @@
+@summary
+deactivate your page if you want to hide it for a while.
+
+@summary
+click the arrow button in the upper-right corner of page and select "settings.",
+
+@summary
+click the "security" option.
+
+@summary
+click "edit" next to "deactivate your account.",
+
+@summary
+click the "deactivate your account" link and follow the prompts.
+
+@summary
+sign in again to restore your account.
+@article
+ Deactivate your Facebook page if you aren't planning on using Facebook for a while. Deactivation isn't permanent, and your page will be restored when you log in next time. Your profile will be completely hidden while your page is deactivated.
+
+While your page is deactivated, you won't be able to view anyone else's Facebook content that is not set to "Public.";
+, This will open your Settings screen.
+ This will open your account security options.
+ This will expand the section.
+ This will hide your account and sign you out of Facebook. Your account will remain hidden until you sign in again. Your name will be removed from most things that you've shared, but not all messages. You will not lose any data., If you no longer want to have your account private, you can log back in with your regular Facebook credentials. This will restore all of your account data and make it visible again.
+

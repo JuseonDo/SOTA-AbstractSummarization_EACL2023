@@ -1,0 +1,34 @@
+@summary
+load the firefox browser.
+
+@summary
+,
+
+@summary
+choose the options link from the tools drop down menu.
+@article
+,
+
+
+This will open the Options window. Click the Content tab in this window. You can uncheck the Block pop-up windows option,or
+
+
+
+
+
+
+Allow specific websites under the Exceptions button.
+
+
+
+
+
+
+After making the changes, click the OK button to close the Options window.
+
+
+
+
+
+
+

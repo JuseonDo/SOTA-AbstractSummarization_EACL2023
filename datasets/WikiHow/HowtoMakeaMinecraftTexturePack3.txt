@@ -1,0 +1,28 @@
+@summary
+open minecraft folder.
+
+@summary
+,
+
+@summary
+find “texture packs” folder.
+
+@summary
+,
+
+@summary
+open "texture pack" folder.
+
+@summary
+,
+
+@summary
+copy your new texture pack folder into the folder which opens.
+
+@summary
+use your new texture pack.
+@article
+,,, Copy the folder with your edited textures into the folder which opens when you click “Open texture pack folder”.
+
+For OS X users, go to: /Users/your username/Library/Application Support/minecraft/texturepacks and place the texture pack in there.
+ Make use of your new texture pack and experiment with your new materials.

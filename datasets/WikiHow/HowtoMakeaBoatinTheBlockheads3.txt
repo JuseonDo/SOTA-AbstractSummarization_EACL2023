@@ -1,0 +1,12 @@
+@summary
+tap on the boat.
+
+@summary
+tap on "embark".
+
+@summary
+tilt the screen in the direction you wish to sail.
+
+@article
+ A user interface box will open, asking you if you want to remove the boat or embark.
+ Your Blockhead character will jump into the boat.

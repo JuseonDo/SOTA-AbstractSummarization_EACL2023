@@ -1,0 +1,25 @@
+@summary
+power up your wii, and go to the main menu.
+
+@summary
+click on the wii shop channel icon.
+
+@summary
+click on “wii channels”.
+
+@summary
+choose a download location.
+
+@summary
+approve the following scripts to confirm that you want to download this channel.
+
+@summary
+return to the main menu after downloading.
+@article
+;
+, Click on “Start” to open the Shop.
+ The main menu should have this option, which should open up to a list of channels that you can download. Click “Netflix Instant Streaming for Wii”, and agree to purchase the download for free.
+ This will either be the Wii’s system memory, or any memory SD cards that you may be using.
+ The downloading will begin immediately, showing a small animation while you wait.
+ You should see the Netflix channel there.
+

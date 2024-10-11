@@ -1,0 +1,33 @@
+@summary
+visit the save editor download page.
+
+@summary
+click the green download button on the page.
+
+@summary
+extract the save editor file.
+
+@summary
+transfer the saveeditor.exe file to your desktop.
+
+@summary
+run saveeditor.exe by double-clicking it.
+
+@summary
+enter the value for money and bounty.
+
+@summary
+click “save.” this will instantly update your need for speed most wanted cash and bounty balances with the figures you entered.
+
+@article
+ On your computer browser, go to the download page on Media Fire.;
+, This will download a zipped file named NFS Most Wanted - Save Editor.rar to your computer.
+ Locate NFS Most Wanted - Save Editor.rar on your computer, right-click, and select “Extract here.”
+
+, Do this by dragging the file onto the desktop using your mouse.
+ The name of your NFSMW 2005 alias (the name you saved your profile as) should be displayed in the alias box on the application.
+
+
+If your save game files (the files in which your progress in the game is stored) are in another location other than the default path, type the path in the box labelled “Folder containing saved profiles” and click ‘Update.”
+
+, Do this in the boxes marked with “Money” and “Bounty” respectively. You can type any value you want.

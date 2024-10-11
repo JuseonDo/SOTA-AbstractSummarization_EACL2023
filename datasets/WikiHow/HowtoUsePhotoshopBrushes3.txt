@@ -1,0 +1,5 @@
+@summary
+understand the opacity value.
+@article
+ It's a percentage of transparency. 100% means a full color stroke, a small percentage means a more transparent painting.
+

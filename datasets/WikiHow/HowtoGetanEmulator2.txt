@@ -1,0 +1,117 @@
+@summary
+decide which system you want to emulate.
+
+@summary
+visit the retroarch download site.
+
+@summary
+click the downloads link.
+
+@summary
+,
+
+@summary
+click the apple folder and then the osx folder.
+
+@summary
+,
+
+@summary
+click the x86_64 folder.
+
+@summary
+,
+
+@summary
+click the retroarch.dmg file.
+
+@summary
+click the retroarch.dmg file after downloading.
+
+@summary
+,
+
+@summary
+drag retroarch into your applications folder.
+
+@summary
+,
+
+@summary
+right-click the retroarch program and select open.
+
+@summary
+click the open button.
+
+@summary
+,
+
+@summary
+highlight load core and press x.
+
+@summary
+,
+
+@summary
+highlight download core and press x.
+
+@summary
+,
+
+@summary
+highlight the emulator you want to download.
+
+@summary
+press x to download the emulator.
+
+@summary
+,
+
+@summary
+press z to return to the previous menu.
+
+@summary
+,
+
+@summary
+download some rom (game) files.
+
+@summary
+place the rom files in a dedicated directory.
+
+@summary
+highlight the + column in retroarch.
+
+@summary
+press x to select scan directory.
+
+@summary
+,
+
+@summary
+navigate to and select the folder containing your game files.
+
+@summary
+,
+
+@summary
+select a game in the list added to retroarch and press x.
+@article
+ Your options for emulators on Mac are slightly more limited than on Windows, but you still have access to some of the most popular ones.
+
+
+For most retro systems, handhelds, and early 3D consoles, you'll want to use RetroArch. This guide will focus on RetroArch.
+For PlayStation 2, you'll want to use PCSX2.
+For Wii and GameCube, you'll want to use Dolphin.
+ This guide will focus on using RetroArch, as it gives you access to the widest variety of systems.
+,,, This will begin downloading the RetroArch installer.
+,, You won't be able to launch it by double-clicking.
+,,, If there are multiple emulators for the system you want to play, just try the first one on the list for now. You can always download a different one later.
+,, RetroArch doesn't come with any games, so you'll need to obtain game files (called "ROMs") on your own. Search for "game name rom" or "system name rom" to find games for your emulator.
+
+
+It is illegal in most areas to download ROM files for games you don't own.
+ Create a folder for each system that you're downloading ROMs for and place the ROM files in them. For example, if you're downloading SNES ROMs, create an "SNES" folder on your desktop and place all of the games inside it.
+ This will allow you to add game files to RetroArch.
+,, This will start the game in the emulator.
+

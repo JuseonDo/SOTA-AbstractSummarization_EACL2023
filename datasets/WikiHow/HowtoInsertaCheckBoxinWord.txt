@@ -1,0 +1,55 @@
+@summary
+open a new file in microsoft word.
+
+@summary
+click on file in the menu bar and then options in the menu.
+
+@summary
+click on customize ribbon and then main tabs in the "customize the ribbon:" drop-down menu.
+
+@summary
+check "developer" in the "main tabs" pane.
+
+@summary
+,
+
+@summary
+click on save.
+
+@summary
+,
+
+@summary
+click on developer.
+
+@summary
+position the cursor where you'd like to insert the check box.
+
+@summary
+,
+
+@summary
+click on check box.
+
+@summary
+add additional check boxes and text as needed.
+
+@summary
+,
+
+@summary
+lock the form.
+@article
+ Do so by opening the app shaped like a blue W. Then click on File in the menu bar at the top of the screen, and click on New Blank Document.;
+,
+
+
+On Mac, click on Word in the menu bar and then Preferences… in the menu.
+"On Mac, click on Ribbon & Toolbar in the "Authoring and Proofing Tools" section of the dialog box, then click on the Ribbon tab at the top of the dialog box.
+,, It's a tab in the upper-right part of the window.
+, It's in the menu bar at the top of the window.
+, To do so, select the entire list, click on Controls on the Developer tab, then click on Group and Group.
+
+
+On Mac, click Protect Form in the Developer tab toolbar.
+

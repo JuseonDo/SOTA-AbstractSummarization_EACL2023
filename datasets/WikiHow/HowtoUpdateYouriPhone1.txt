@@ -1,0 +1,27 @@
+@summary
+back up and save your personal data to icloud or itunes.
+
+@summary
+connect your iphone to a power source.
+
+@summary
+tap on “settings,” then tap on “general.”
+
+@summary
+,
+
+@summary
+tap on “software update,” then tap on “download and install.”
+
+@summary
+,
+
+@summary
+tap on “install,” then enter the passcode for your iphone, if applicable.
+@article
+ This will help prevent data loss in the event the update fails to complete.
+
+
+Tap on “Settings” > “iCloud” > “Backup,” then tap on “Back Up Now.” Alternately, follow these steps to back up your iPhone to iTunes.;
+, This will prevent your device from powering down unexpectedly at any point during the update.,,, Apple will download and install the latest updates to your device, which may take up to several minutes to complete.If your iPhone displays an error saying it lacks enough free space to complete the update, either delete apps from your device manually to free up space, or follow the steps outlined in Method Two to update your iPhone using iTunes.
+

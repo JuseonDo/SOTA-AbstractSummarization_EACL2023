@@ -1,0 +1,17 @@
+@summary
+swap gem (4,5) to the right.
+
+@summary
+swap gem (4,1) to the right.
+
+@summary
+swap gem (2,3) up.
+
+@summary
+swap gem (5,1) up, obviously.
+@article
+ This will match them.;
+, This will create two special gems, one Power Gem and one Hypercube.
+ This will detonate both the Hypercube and the Power Gem. Most of the white gems will match, except three of them. This will also create another Hypercube.
+ Congratulations! You just cleared the puzzle!
+

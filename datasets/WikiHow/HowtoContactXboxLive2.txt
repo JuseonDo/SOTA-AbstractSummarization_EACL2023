@@ -1,0 +1,25 @@
+@summary
+go to the xbox forums home page at http://forums.xbox.com/.
+
+@summary
+,
+
+@summary
+click on “xbox support forum.”
+
+@summary
+,
+
+@summary
+click on the sub-group that best describes the nature of your issue.
+
+@summary
+browse through and click on the forum conversation that best fits your inquiry.
+@article
+,, The two categories you may choose from are “Networking Hardware Information” and “Xbox 360 Support.”
+
+, For example, if you are having problems connecting to Xbox Live from your console, click on “Connecting to Xbox Live for information on troubleshooting and resolving your Xbox Live issue.”
+
+
+If there are no categories that fit the nature of your inquiry, you may post a new question or message to the forum after signing into your Microsoft account. A Xbox support representative or other Xbox Live user will then respond to your message shortly.
+

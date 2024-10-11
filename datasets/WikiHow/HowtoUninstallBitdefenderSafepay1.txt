@@ -1,0 +1,5 @@
+@summary
+log on to your device as the admin user.
+@article
+ Save your sensitive data and close all of the running apps. In addition, you may need to sign out your Bitdefender account then.
+

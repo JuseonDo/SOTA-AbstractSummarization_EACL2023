@@ -1,0 +1,23 @@
+@summary
+open itunes on your computer.
+
+@summary
+go to the itunes store.
+
+@summary
+go to the search bar and type in "free" and press enter.
+
+@summary
+,
+
+@summary
+look at the different choices.
+
+@summary
+click the tab that says "free".
+@article
+ If you don't have iTunes, you can download it from www.apple.com.;
+, It is in the left column under library.
+, There is free music, free TV shows, free podcasts, free featurettes , and free apps. Clicking on one will bring you to a page about it, so you can read about what it is and listen to part of the music.
+ A window may pop up asking you to sign in. Do that, and then click download. If it doesn't, then the song will come up under "downloads", under your "Purchased" playlist.
+

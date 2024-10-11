@@ -1,0 +1,21 @@
+@summary
+log in to your hootsuite account at https://hootsuite.com/, or select the option to sign up for an account.
+
+@summary
+type the tweet you want scheduled into the “compose message” field.
+
+@summary
+,
+
+@summary
+click on the calendar icon inside the “compose message” dialog box.
+
+@summary
+select the date and time at which you want the tweet posted, then click on “send now.” your tweet will now be scheduled to post at the date and time indicated.
+@article
+ When signing up for HootSuite, you’ll be required to provide your Twitter login credentials so your Twitter account can be linked with HootSuite.;
+,, The dialog box will expand to display scheduling options.
+
+
+
+Consider having HootSuite schedule your tweets automatically based on when your tweets perform the best. When scheduling a tweet, toggle “AutoSchedule” to the “On” position, click on “Settings,” then select the number of posts you want automatically scheduled every week. HootSuite will automatically schedule tweets based on when your tweets generate the most engagement.

@@ -1,0 +1,9 @@
+@summary
+find ammo for a gun.
+
+@summary
+once you find ammo for a gun, keep it in your inventory.
+@article
+ You can rarely find these in chests scattered around the world.;
+, Then, wait patiently till the Arms Dealer shows up!
+

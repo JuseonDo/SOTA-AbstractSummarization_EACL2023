@@ -1,0 +1,90 @@
+@summary
+install samba file system utilities.
+
+@summary
+create a directory to use as the mount point.
+
+@summary
+edit the file system table to include the new mount point.
+
+@summary
+append the following snippet to the end of the file.
+
+@summary
+save and exit.
+
+@summary
+reload the fstab file to mount the share.
+
+@summary
+check the mount was successful by listing the contents of the share.
+@article
+
+
+sudo apt-get install smbfs (In new version install sudo apt-get install cifs-utils)
+
+
+
+ 
+
+;
+,
+
+sudo mkdir /mnt/backup
+
+
+
+
+
+
+
+,
+
+sudo vi /etc/fstab
+
+
+
+
+
+
+
+, Scroll to the end and press a to append text. Note that the text should all be on one line.
+
+//YOUR_SERVER/YOUR_SHARE /mnt/backup cifs domain=YOUR_DOMAIN,username=YOUR_USERNAME,password=YOUR_PASSWORD 0 0
+
+
+
+
+
+
+
+, To exit vi you leave edit mode by pressing escape. Then enter command mode by typing colon. Then enter wq to write and quit.
+
+Type <escape>:wq<return>
+
+
+
+
+
+
+
+,
+
+sudo mount -a
+
+
+
+
+
+
+
+,
+
+ls /mnt/backup
+
+
+
+
+
+
+

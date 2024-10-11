@@ -1,0 +1,32 @@
+@summary
+open photos.
+
+@summary
+tap a photo.
+
+@summary
+tap the "share" button.
+
+@summary
+tap copy.
+
+@summary
+tap and hold the location where you want to paste the image.
+
+@summary
+tap paste.
+@article
+ It's a white app containing a flower made from the color spectrum.
+
+
+If you don't see a grid of thumbnail pictures on your screen, tap Albums in the lower-right corner and tap an album to select it.
+ Select the photo you want to copy and hold it until it expands to fill the window.
+ It's a blue, rectangular icon that contains an upward-pointing arrow.
+
+
+On iPhone it's in the lower-left corner; on iPad it's in the upper-right corner,
+
+, It's a gray icon in the lower-left corner of the screen that looks like two overlapping rectangles.
+ Do so in an app that allows you to paste images, such as Messages, Mail, or Notes.
+ Now you've pasted the copied image into the selected location.
+

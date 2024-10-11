@@ -1,0 +1,25 @@
+@summary
+go to https://github.com/powershell/powershell in your web browser.
+
+@summary
+download and install the .pkg file for mac.
+
+@summary
+open the launchpad.
+
+@summary
+enter "terminal" into the search field.
+
+@summary
+launch terminal.
+
+@summary
+enter “powershell” and hit ↵ enter.
+@article
+ This is the official github page for Powershell.
+ You must be running OSX 10.11 or newer.
+ This is the rocket icon in the bottom dock.
+ You can also find the Terminal in "Applications > Utilities".
+ A blank terminal window will appear.
+ A powershell prompt will appear with “PS” displayed. This means that powershell is running and you can use the Terminal to enter cmdlets.
+

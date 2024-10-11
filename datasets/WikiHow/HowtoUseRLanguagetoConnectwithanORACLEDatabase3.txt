@@ -1,0 +1,11 @@
+@summary
+find the two .ini files.
+
+@summary
+add a new entry like this:
+
+@summary
+for odbc.ini ...
+
+@article
+ These are located in /etc/ (Ubuntu). Perhaps there are similar files in other locations; if so, it's recommended that you delete them.

@@ -1,0 +1,20 @@
+@summary
+go to the homepage of casting call club.
+
+@summary
+find the voice actor or actress you want to recommend.
+
+@summary
+go to the voice actor's userpage.fill out how you know the user.
+
+@summary
+put your recommendation in the second text box.
+
+@summary
+find a link to a project you've worked on with the user.
+
+@summary
+hit send when you're finished.
+@article
+ Sign in or create an account.
+ You may have to search for them., There will be a little box on the left side under their avatar that says "Recommend". Click it.,, Fill it up with all the positive things you have to say about them., Copy the link and paste it into the third text box., A mod will look over your recommendation before it can be listed on their userpage. Once it is up, your recommendation will be seen by anyone who visits their userpage.

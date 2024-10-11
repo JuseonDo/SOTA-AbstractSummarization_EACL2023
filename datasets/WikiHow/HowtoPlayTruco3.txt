@@ -1,0 +1,35 @@
+@summary
+if your opponent agrees to the play, the value of the cards is added up and the player with the most points wins the "envido.",
+
+@summary
+when the round ends, if the "envido" play was accepted, whoever wins the most points should show the cards that make up his "envido.",
+
+@summary
+to add up card values:
+
+@summary
+if you have two cards of the same suit that aren't 10s, 11s, or 12s, add them up and add 20.
+
+@summary
+"envido" should be called out before the end of phase 1.
+
+@summary
+in general, the "envido" is called by the "foot" of each team.
+
+@summary
+once the opposing team has agreed to the "envido" with the word "quiero," the play is automatically over.
+@article
+, If the cards are removed from the table before showing the winning "Envido" cards, those points go to the opposing team.
+
+In order to win more points, you can call a "Real Envido" or "Falta Envido."
+Note: if the word "Envido" is spoken during the game, it is assumed that the play is being called, so you should refrain from using that word unless you want to play an "Envido."
+
+, For example, if you have the 3 and 4 of cups, your total "Envido" value would be: 3+4+20=27.
+If you have a 10s, 11s, or 12s, they are worth 20 points on their own. For example, if you have the 10 and the 7 of cups, your total "Envido" value would be: 27.
+
+These point values cannot overlap. In other words, if you are lucky (or unlucky) enough to have a 10, 11, and 12 of the same suit, you total point value would be 20.
+ Once all of the players have played their first card, "Envido" cannot be played., As previously mentioned, one "foot" is the dealer and the other is the player of the opposing team seated to the left of the dealer., In other words, no one else will be able to call out "Real Envido" or "Falta Envido."
+
+No other confirmation is accepted, such as "Okay," "Yes," "Sure." If the opposing team doesn't say the word "Quiero," the "Envido" play is invalid.
+The player who is the "hand" for the round is responsible for calling out scores.
+

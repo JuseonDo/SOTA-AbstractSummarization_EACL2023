@@ -1,0 +1,47 @@
+@summary
+scan and/or open the document with paint.
+
+@summary
+go to file > save or save as as necessary.
+
+@summary
+,
+
+@summary
+select tiff from the drop-down list and hit save.
+
+@summary
+open microsoft office document imaging.
+
+@summary
+open the .tiff file.
+
+@summary
+hit ctrl+a to select all and ctrl+c to copy.
+
+@summary
+open a blank word document and hit ctrl+v to paste.
+
+@summary
+,
+
+@summary
+correct misspellings as necessary.
+
+@article
+ If scanning, follow the sub-steps below. Otherwise, simply open the scanned image with Paint and skip to Step 2.
+
+
+Go to File > From Scanner or Camera to initiate scan if necessary.
+
+
+
+
+
+Choose the settings that best fit your document and hit Scan. Since you are primarily interested in the text, Black and white picture or text is probably best.
+, You can now close Paint if you want.
+ Go to Start > All Programs > Microsoft Office > Microsoft Office Tools and select it from the list, or simply do a search for “microsoft office document imaging.”
+
+, Simply go to File > Open and locate the file you saved.
+ This will initialize text recognition.
+,

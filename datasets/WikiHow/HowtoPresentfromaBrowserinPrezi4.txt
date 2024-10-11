@@ -1,0 +1,5 @@
+@summary
+type “m” to hide the prezi menu when presenting in a browser.
+@article
+ Note: This option is for advanced users that can present using keyboard shortcuts.
+

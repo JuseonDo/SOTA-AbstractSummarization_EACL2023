@@ -1,0 +1,38 @@
+@summary
+turn your tv on.
+
+@summary
+wake your apple tv.
+
+@summary
+on your ipad, access the multitasking bar.
+
+@summary
+tap the airplay icon.
+
+@summary
+choose “appletv” from the list.
+
+@summary
+slide the “mirroring” switch to the “on” position.
+
+@summary
+,
+
+@summary
+your ipad is now mirrored to your apple tv.
+
+@article
+;
+, Press any button on your Apple TV remote to wake the device.
+
+
+
+Press the home button twice rapidly. On the bottom of the screen, you’ll see a strip of icons showing all your open apps.
+Swipe the bar from left to right. This will bring up a strip that includes controls for your iPad’s volume, brightness, music, and AirPlay.
+ This will display a list of AirPlay-enabled devices connected to your network, including your iPad and your AppleTV.
+ If you have multiple Apple TV's on your network, select the one to which you would like to mirror your iPad’s display.
+
+
+Enter the password (if any) for the Apple TV.
+,

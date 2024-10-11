@@ -1,0 +1,15 @@
+@summary
+understand how spy wares work.
+
+@summary
+never at any one time accept free software from firms that you do not trust.
+
+@summary
+,
+
+@summary
+install both antivirus and antispyware and make certain to update them on regular basis.
+
+@article
+ The word “spyware” denote to application programs that are downloaded from the web onto your PC without your knowledge. These programs have been specially designed to display spontaneous adverts commonly referred to as “adware”, gather personal details about the user or to make changes to the system such that it opens back doors to allow unauthorized users to gain access to your PC without your consent.
+,

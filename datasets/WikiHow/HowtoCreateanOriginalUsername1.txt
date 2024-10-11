@@ -1,0 +1,4 @@
+@summary
+find some words that you like: favorite flowers, names, animals, songs, genres, etc.
+@article
+ Getting words that you like the sound of, not the meaning, is a must. Then mix them together to create something you like.;

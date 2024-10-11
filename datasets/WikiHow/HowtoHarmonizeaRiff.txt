@@ -1,0 +1,32 @@
+@summary
+create a riff.
+
+@summary
+determine what notes you are using, and try to figure out what scale you are using.
+
+@summary
+decide whether you're using a major, or minor key.
+
+@summary
+use the scale constructed in step 2 to determine the key your riff is in.
+
+@summary
+write down the notes of your scale, and write the scale intervals (roman numerals) underneath each in order.
+
+@summary
+decide what interval you want to harmonize in.
+
+@summary
+using the list you wrote in step five, write the notes down again, adjusting them for the interval you chose.
+
+@summary
+using this finished list, play the riff again, playing the notes that are underneath the original notes.
+
+@article
+ Memorize it and the pattern.;
+, The best way to do this is to construct a scale using the notes you used, and ascend with notes that sound "nice". This will become easier with experience.
+ In general, major keys will sound happy and upbeat, while minor keys will sound sad (although this is not a hard and fast rule, a minor key can certainly sound happy). Also, metal songs will generally use minor keys.
+ Ex: Your riff uses the notes Eb, F, Ab, and D. You determine the other notes to be C, G, and Bb. You know now that your riff is in either Eb Major, or C Minor. You decide to use C Minor.
+ Ex: You write C, D, Eb, F, G, Ab, Bb, and C. Under the first C, you write "I", under the D you write "II", under the Eb you write "III", and so on until you reach the second C, where you put "I" once again.
+ Thirds are the most common, as they usually sound the best, and are the easiest, however sixths and fourths can also sound very good, and even a second or seventh can sound good, used sparingly.
+ Ex: You decided to harmonize in thirds, so you write Eb under the first C, F under the D, and so on.

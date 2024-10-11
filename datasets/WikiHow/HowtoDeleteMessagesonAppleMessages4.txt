@@ -1,0 +1,21 @@
+@summary
+open the settings app.
+
+@summary
+tap messages.
+
+@summary
+,
+
+@summary
+tap keep messages.
+
+@summary
+,
+
+@summary
+tap a time period.
+@article
+ It's a gray icon containing gears.
+,, You can choose to keep messages for 30 days, 1 year, or forever. If you choose 30 days or 1 year, messages will be automatically deleted after the chosen time period.
+

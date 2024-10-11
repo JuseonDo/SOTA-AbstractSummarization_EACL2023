@@ -1,0 +1,4 @@
+@summary
+note which nancy drew game are you playing.
+@article
+ Each of the following methods pertains the particular game being played.

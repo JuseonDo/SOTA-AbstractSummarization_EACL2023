@@ -1,0 +1,21 @@
+@summary
+identify the first term in the sequence, call this number a.;
+
+@summary
+,
+
+@summary
+calculate the common ratio (r) of the sequence.
+
+@summary
+identify the number of term you wish to find in the sequence.
+
+@summary
+the nth term is given by arn-1.
+@article
+, It can be calculated by dividing any term of the geometric sequence by the term preceding it.
+ Call this number n.
+
+For example, if you wish to find the 8th term in the sequence, then n = 8.
+ Simply insert the values of a, r and n in this formula and evaluate the resulting expression to get the nth term.
+

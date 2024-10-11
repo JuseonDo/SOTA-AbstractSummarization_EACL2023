@@ -1,0 +1,16 @@
+@summary
+tap the bookmarks button at the bottom of the screen.
+
+@summary
+tap and hold the bookmark you want to delete.
+
+@summary
+tap "delete bookmark" to remove the bookmark.
+@article
+ The button has an icon of a bookmark. This will open your browser's bookmark manager.
+ This will open a new menu.
+ After confirming it will be deleted, and you won't be able to restore it.
+
+
+Deleting a folder will delete all of the bookmarks in that folder, but you'll be asked to confirm the deletion for each one.
+

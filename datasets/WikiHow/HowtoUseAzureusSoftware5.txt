@@ -1,0 +1,19 @@
+@summary
+find a torrent file to download from.
+
+@summary
+click on the link to download the torrent file, but when the download options window appears choose the "open with" option and select "azureus.exe" as the program that should be used to open the torrent file.
+
+@summary
+,
+
+@summary
+hit the "ok" button.
+
+@summary
+go to the folder that you had selected as the default directory for saved files after the download has completed.
+@article
+ The ZeroPaid website has links to many websites related to peer to peer networks where you can find and download torrent files for movies, music and more.
+, You will see the torrent file added to the "My Torrents" list in Azureus. The complete file (such as the movie or song) associated with the torrent will begin to download automatically from P2P networks. You will see the status and statistics of the download such as percent completed, estimated time before completion, and amount of data that has been downloaded.
+ You will be able to access the complete file (for example, play the movie that you downloaded) by clicking on its icon from this folder.
+

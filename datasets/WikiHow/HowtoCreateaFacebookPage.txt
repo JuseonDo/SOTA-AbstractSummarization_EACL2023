@@ -1,0 +1,76 @@
+@summary
+go to a page that doesn't scroll down that much so you can reach the bottom of the page.
+
+@summary
+click on the create page button that will be in small text and blue.
+
+@summary
+,
+
+@summary
+choose a genre that best describes what you are trying to promote.
+
+@summary
+choose a subcategory within the larger genre.
+
+@summary
+,
+
+@summary
+enter a title for your facebook page, agree to the terms of use, and click get started.
+
+@summary
+,
+
+@summary
+upload a picture for your page, or import one from your website.
+
+@summary
+once you have chosen your picture, click next to proceed.
+
+@summary
+,
+
+@summary
+write a short blurb in your about section.
+
+@summary
+choose a personalized facebook web address.
+
+@summary
+you have now created your facebook page!,
+
+@summary
+invite your friends.
+
+@summary
+invite your email contact list to make sure that you have invited everyone you can to come and view your page.
+
+@summary
+,
+
+@summary
+start writing!,
+
+@summary
+fill in important dates or events in your company's history.
+
+@summary
+explore the admin panel.
+
+@summary
+add an image as photo cover.
+@article
+ Example: going back to a notification for a post. If you click on that notification it will only show that post.;
+,, Click on the appropriate box.
+,, This picture is important, as it will become the face of your page and represent your company or product, so choose wisely!
+
+,, This could include the purpose of your company, a short history, or a mission statement. Try to keep this section light, interesting and readable in order to draw viewers in. On this page, you should also add a link to your website, in addition to related links, such as to a Twitter account or Google+ page.
+ This will make it easier for people to find your page. A personalized address will also help people to remember the URL if they see it on a poster or a similar advertisement.
+ Like your page so that people will know that they are not the first to have seen the page.
+ There is no point to having a Facebook page that nobody sees. Invite all your friends, or at least some, so that your page can start to gather likes and become known.
+, Add updates, tips, videos, and other posts to share news about your company or interact with your consumer base.
+ See How to Customize Your Facebook Timeline for more tips. Click on the "Admin Panel" tab in the upper right-hand side.
+ In particular, notice the Notifications section, the Messages section, and the New Likes section. Here, you will be able to see at a glance recent interaction between you and your fans.
+ This image is displayed at the top of your page. A button "Change cover" is available while passing mouse on the cover area in order to edit it. Upload an image respecting the right size (851 pixels wide and 315 pixels tall). Lots of tools can help you to resize or create a cover (Pic Scatter, Page Modo, Canva, FaceItPages, CoverJunction).
+

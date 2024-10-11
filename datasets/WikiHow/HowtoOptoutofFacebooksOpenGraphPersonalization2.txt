@@ -1,0 +1,9 @@
+@summary
+hide your "likes".
+
+@summary
+for an extra measure of privacy, edit your profile and erase all of your likes and interests, so they can't be "connected" to other pages on facebook.
+@article
+ Select "Account", then "Privacy Settings" then to "Profile Information". In the dropdown menu, choose "Customize". From "These People" dropdown menu, choose "Only Me".
+ If you want, move that kind of information to the "About Me" section.
+

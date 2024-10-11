@@ -1,0 +1,20 @@
+@summary
+look to your left and you will see a "launcher.
+
+@summary
+on the bottom, there will be an icon that looks like a trash can.
+
+@summary
+let it load.
+
+@summary
+look for a button called "empty".
+
+@summary
+done!
+@article
+";
+, Click on it.
+ Once that is done, you will see all your files or programs that you want to delete.
+ If you want to save a file, click it once and click the "Restore" button next to it. It will say: "Delete all trash?". Click "Empty Trash" and it will delete.
+ You have deleted your trash on Ubuntu.

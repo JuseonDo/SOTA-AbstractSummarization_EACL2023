@@ -1,0 +1,27 @@
+@summary
+draw a rough draft of the room you are working in.
+
+@summary
+run wires where they will not be disturbed.
+
+@summary
+for power cables (source cables) try to make the supply socket reach the electronic cabinet (the place with all your devices).
+
+@summary
+do not try to make wires 'just long enough'.
+
+@summary
+if wires must be visible, try to ensure that they are not strewn across the floor, getting in the way.
+
+@summary
+for thick cables, letting them hang off the ground is a good option.
+
+@article
+ Make note of where your components will placed/mounted and measure the distance from the origin of the wire to the connected component. Add several feet to measurement to deal with unforeseen obstacles.
+
+
+For speakers, always use a thick gauge high quality wire (check Radio Shack or MonoPrice.com ).;
+, The best route is around the edges of the room concealed under carpet or the base board. When running through doorways, there are two ways of going.
+ This is usually simpler with a single power extension cable, rather than extending the power cables for all your devices.
+ A bit of slack never hurt anyone, and it makes future adjustments easier.
+ Instead, try to keep them orderly, preferably tied up.

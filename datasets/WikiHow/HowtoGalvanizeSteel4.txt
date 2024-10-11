@@ -1,0 +1,17 @@
+@summary
+prepare the steel as with the other methods.
+
+@summary
+spray on a fine molten zinc coating.
+
+@summary
+,
+
+@summary
+heat the coated steel to ensure proper bonding.
+@article
+ Clean off all the dirt and remove the rust so it’s ready to be sprayed.
+,
+
+
+Galvanic coatings produced with this method are less brittle and less prone to peeling and flaking, but provide less protection from rusting for the steel underneath.

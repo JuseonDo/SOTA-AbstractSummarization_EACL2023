@@ -1,0 +1,13 @@
+@summary
+be prepared if you get stuck in a fight and you are forced to use guns at a long range.
+
+@summary
+get plenty of cover.
+
+@summary
+avoid snipers.
+
+@summary
+use the armour lock ability.
+@article
+, If there is no cover, then move and jump sideways so it's harder to aim., Any good sniper-rifle user can kill you from any range, possibly even across the map. The best way to avoid them is to find an angled cover block., It makes you immune to any form of damage (until, of course, the armour lock wears off or you let go of RB). However, just about any player knows that it makes you invulnerable, so they would wait to shoot.

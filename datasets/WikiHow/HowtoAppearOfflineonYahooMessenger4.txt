@@ -1,0 +1,13 @@
+@summary
+launch yahoo messenger.
+
+@summary
+tap the checkbox for the “sign in as invisible” option.
+
+@summary
+tap on the “sign in” button.
+@article
+ Look for the app and tap on it. It has an app icon of a yellow smiley on purple background.
+ This is right below the Sign In button.
+ You will be logged in as invisible right away. Nobody will know you’ve even logged in.
+

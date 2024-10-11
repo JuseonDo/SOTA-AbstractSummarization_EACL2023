@@ -1,0 +1,9 @@
+@summary
+move or re-categorize a thread in a vanilla forum by using the edit button.
+
+@summary
+use the categorization drop down menu to re-categorize.
+@article
+  Go to the moderator options on the discussion page or the very top of the thread and press "edit". Note that if you are within the thread itself, you must press edit on the original post, not on the reply posts.;
+,  This will move the thread into a new forum and not leave a shadow in the old one.
+

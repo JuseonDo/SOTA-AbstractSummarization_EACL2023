@@ -1,0 +1,65 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll to the fourth group of options and select icloud.
+
+@summary
+,
+
+@summary
+tap your apple id at the top of the page.
+
+@summary
+tap password & security.
+
+@summary
+,
+
+@summary
+select add rescue email.
+
+@summary
+type in the answers to two of your security questions.
+
+@summary
+,
+
+@summary
+tap verify.
+
+@summary
+type in an email address.
+
+@summary
+,
+
+@summary
+tap done.
+
+@summary
+log into the email account you just typed in.
+
+@summary
+open the email from apple entitled "verify your email address.",
+
+@summary
+select the verify now > link.
+
+@summary
+type in your apple id email address and password.
+
+@summary
+select continue.
+@article
+ Do so by tapping the grey gear icon on one of your Home screens (it might also be in a folder named "Utilities").;
+,, You may have to enter your Apple ID password to proceed.
+, This is under the "Rescue Email Address" heading. If you already have an email listed here, select it instead.
+, It's in the top right corner of your screen.
+, Now that your rescue email address has been added, you'll need to verify that it's an active address to complete the process.
+ For the easiest time possible, do this on a computer.
+ If you don't see it, check your Spam folder (and your Updates folder if you're using Gmail).
+ It's in the body of the verification email.
+ These are different than your rescue email credentials.
+ As long as your Apple ID email address and password are correct, your rescue email address is now verified. You can use it to gain access to your account if you lose your password and/or security questions.
+

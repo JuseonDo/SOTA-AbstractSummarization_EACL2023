@@ -1,0 +1,13 @@
+@summary
+download a truetype font.
+
+@summary
+double click on the downloaded file.
+
+@summary
+click install font in the lower right-hand corner.
+@article
+ (The file extension will be .ttf.) Unzip your file if necessary.
+ This should open a font-viewer window.
+ Congratulations! Your font has been installed.
+

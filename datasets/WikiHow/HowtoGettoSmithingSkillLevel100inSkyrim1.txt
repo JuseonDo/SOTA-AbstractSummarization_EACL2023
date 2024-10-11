@@ -1,0 +1,13 @@
+@summary
+obtain some iron ingots and leather strips, these can be bought from smithers, general stores and/or looted from various locations.
+
+@summary
+go up to any forge once you've obtained the above items.
+
+@summary
+sell all of the daggers you make so as not to over-encumber yourself, and repeat.
+@article
+ You may also steal them if you want to take the risk.;
+, Spam iron daggers (1 dagger requires 1 iron ingot and 1 leather strip), these short blades give you the most xp, for the least money/equipment out of all create-able armor/weapons. You also don't need any perks, you'll be able to make them from the start of the game.
+ You only need around 500 daggers to get to level 100 smithing from scratch, this may sound like a lot but you'll get there in around 5 hours. (including waiting for stock to resupply e.t.c...)
+

@@ -1,0 +1,36 @@
+@summary
+make sure you're connected to the internet.
+
+@summary
+launch the app store.
+
+@summary
+search for the app you want to download, or browse the featured apps or categories.
+
+@summary
+,
+
+@summary
+click on an app that looks interesting.
+
+@summary
+if you would like to download the app, tap the blue button with the small plus sign in the top corner.
+
+@summary
+the button will turn green and read "install app".
+
+@summary
+enter your password.
+
+@summary
+wait for your app to download.
+@article
+ To do this go to Settings > Wi-Fi > and select your network. If the network is password-protected enter your password at the prompt. If you don't have a network or there isn't an unprotected one nearby, you can buy an inexpensive Wi-Fi router to hook up to your modem.;
+, Look for the light blue icon with a white A in it, or search for "App Store" in the search bar that appears when you swipe to the right.
+, You will be able to read more about the app, view screenshots, and read ratings.
+ It will either say the price or say "Free."
+
+, Tap it again.
+ You will be prompted for your password whether or not the app is free.
+ This may take some time. An icon should appear
+

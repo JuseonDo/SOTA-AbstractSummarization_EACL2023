@@ -1,0 +1,21 @@
+@summary
+go into a branch of your bank.
+
+@summary
+,
+
+@summary
+ask to get a proof of your balance.
+
+@summary
+wait for the teller to print out a small receipt, like one you would receive at the atm.
+
+@summary
+,
+
+@summary
+ask the teller about signing up to receive monthly account statements by mail.
+@article
+, Give the banker your government-issued photo ID and your debit card. You may only need to give your ID and an account password.
+, Many checking accounts require you to opt in to this procedure, because electronic statements require paper and postage. Check to make sure you aren’t charged a fee for every statement you receive.
+

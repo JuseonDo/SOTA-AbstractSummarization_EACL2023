@@ -1,0 +1,31 @@
+@summary
+have your images in a particular folder.
+
+@summary
+in elements, click on organizer.
+
+@summary
+click on the large green plus sign.
+
+@summary
+select the name that you want to have for your album.
+
+@summary
+click on display in the upper right hand corner.
+
+@summary
+go to the folder that has your images in it.
+
+@summary
+,
+
+@summary
+drag and drop the images that you want to use.
+@article
+ Be sure that they are pretty much the way you want them to be when they are in the album.;
+, This will bring you to the screen where you will create your album.
+ This will give you the option for creating the album.
+ If it was a family reunion event, you might want to title the album 'Family Reunion 2011'.
+ You will be able to select how you see your screen and find the images.
+, If you need to fix an image, you can. Select the one that you want to edit, then click on Fix.
+

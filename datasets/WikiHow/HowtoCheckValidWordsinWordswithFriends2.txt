@@ -1,0 +1,15 @@
+@summary
+go to the word checker website.
+
+@summary
+,
+
+@summary
+enter the word you’d like to validate in the white text bar.
+
+@summary
+check this icon to know whether your word is valid or not.
+@article
+, Immediately after typing, an icon will appear at the right.
+ If valid, a checkmark will appear on the right side of the text bar. If invalid, a "No" or "Prohibition" icon (a red circle with a diagonal slash through it) will be displayed.
+

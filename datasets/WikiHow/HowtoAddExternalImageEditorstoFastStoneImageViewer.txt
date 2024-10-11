@@ -1,0 +1,33 @@
+@summary
+open faststone.
+
+@summary
+add the programs.
+
+@summary
+click on programs.
+
+@summary
+click on add and then navigate your folder structure to where your graphic software is kept.
+
+@summary
+,
+
+@summary
+after you have selected it, you can change its name if you wish, or leave it as is.
+
+@summary
+,
+
+@summary
+access the programs.
+@article
+
+
+
+
+ ;
+, Click on Settings >> Settings (F12) or right clicking on an image >> Edit with External Program >> Add/Remove Programs.
+ However you get to the Settings, click on Programs. This will take you to this screen.
+,, You can do that by right clicking on the image or click on Edit >> Edit with External Program and select the program. You will also find that there are shortcuts that may be assigned to each editing application.
+

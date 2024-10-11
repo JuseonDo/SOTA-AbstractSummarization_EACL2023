@@ -1,0 +1,20 @@
+@summary
+find a wi-fi capable device such as some smart phones, some laptops, or anything else.
+
+@summary
+search for a network using the device's "scan for networks" feature.
+
+@summary
+choose the network you want from the list.
+
+@summary
+connect to the network using the "connect" option, which is usually close by.
+
+@summary
+enjoy the internet using your web browser or other web-enabled software.
+
+@article
+ Be sure there is enough battery power left on the device (providing you're away from a power outlet) as Wi-Fi can drain a battery very fast.;
+, Where this option can be found on devices varies but is usually in a connection options area.
+ Most Wi-Fi-capable devices show a lock symbol next to the name of a secured network. For an unsecured network, a lock may be greyed out or most likely will not be shown.
+ Connecting to networks can be very fast or take several seconds depending on the speed, traffic, and other factors of the network.

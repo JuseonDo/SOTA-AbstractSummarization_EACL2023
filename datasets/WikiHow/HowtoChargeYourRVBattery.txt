@@ -1,0 +1,88 @@
+@summary
+turn off your rv and make sure you set the emergency brake.
+
+@summary
+locate the rv battery.
+
+@summary
+remove the battery cables from the battery using a wrench.
+
+@summary
+clean the connections on the battery from any corrosive substance.
+
+@summary
+open the fill cap on the top of the battery to see whether the distilled water level is low.
+
+@summary
+attach the rv battery charger to the battery.
+
+@summary
+plug in the charger and turn it on.
+
+@summary
+,
+
+@summary
+allow the charger to charge the rv battery completely.
+
+@summary
+unplug the charger and remove the connections.
+
+@summary
+,
+
+@summary
+reconnect the battery.
+
+@summary
+charge the other batteries in the same way if your rv has more than one battery.
+
+@summary
+,
+
+@summary
+take extra precaution not to cross group house & chassis battery systems as you could blow a charger inverter [[image:
+
+@summary
+example.jpg]]
+@article
+ This will prevent unintentional injury.;
+, You could have more than one battery, depending on the size of your RV. The battery location can vary from one RV model to the next.
+ Wear heavy gloves when removing the cables and always remove the black cable (the negative side) first before removing the red cable (positive side).
+
+
+
+Mix 2 to 3 tablespoons (30 to 45 milliliters) baking soda with enough water to make a paste.
+
+
+
+
+
+
+Apply the paste to the connections on the battery.
+
+
+
+
+
+
+Use a wire brush to scrub off the corrosive material.
+
+
+
+
+
+
+Wipe the paste off with clean water and a rag.
+
+
+
+
+
+
+Apply petroleum jelly to the terminals to prevent further corrosion.
+ If it is low, pour distilled water into the battery using a funnel. Fill up to the fill line.
+ Connect the positive side to the red connection first and then attach the negative side of the battery with the black connection or clamp the black connection to a metal piece to ground it.
+, The indicator light will come on when the charger finishes.
+, First, replace the positive cable and tighten it with the wrench. Then reattach and tighten the negative side.
+,

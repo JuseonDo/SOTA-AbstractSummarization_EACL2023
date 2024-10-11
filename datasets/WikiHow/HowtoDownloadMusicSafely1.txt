@@ -1,0 +1,25 @@
+@summary
+download torrents from verified or trusted uploaders.
+
+@summary
+click the uploader’s name to see his or her other uploaded torrents.if any of these things are true, you should steer clear of downloading these torrents:
+
+@summary
+multiple uploads are all the same size, despite being different movies or applications.
+
+@summary
+upload the .torrent file to virustotal.virustotal is a website that uses multiple antivirus apps to scan files for malware.
+
+@summary
+protect your computer with anti-malware software.
+@article
+ If you’re a BitTorrent user looking for safety tips, use this method. Both of the big-name BitTorrent indexers (The Pirate Bay and KickAssTorrents) use symbols to highlight torrents uploaded by verified users.
+
+
+The Pirate Bay: Look for a pink skull (trusted users) or green skull (trusted V.I.P users)) next to the torrent link in the search results.KickAssTorrents: Look for a yellow crown (verified user) or blue star (verified elite user) next to the download link.;
+,
+The uploader offers several still-in-theaters films.
+The files were all uploaded too fast for their size. For example, multiple movies uploaded within a few minutes of one another.
+ Once you’ve downloaded the .torrent file, launch VirusTotal in a web browser, click “Choose File,” and select file on your computer.When the scan is complete, the site will report whether or not malware was found.
+ Install a highly-recommended anti-malware program like Malwarebytes Anti-Malwareor Spybot Search & Destroy. Make sure these programs are always running on your computer so they can catch rogue software in the act of installing.
+

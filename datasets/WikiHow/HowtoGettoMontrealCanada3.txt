@@ -1,0 +1,5 @@
+@summary
+search for routes on via rail canada, which offers train service into montreal.
+@article
+ Trains operate here to and from several cities throughout Canada, and is a scenic way to travel through Ontario and Quebec.
+

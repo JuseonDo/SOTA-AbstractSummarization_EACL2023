@@ -1,0 +1,32 @@
+@summary
+tap the "more" button in the lower-right corner and select "photos".
+
+@summary
+select the "photos of you" tab.
+
+@summary
+open the photo you want to untag yourself from.
+
+@summary
+tap the "tag" button at the bottom of the photo.
+
+@summary
+,
+
+@summary
+tap your tag when it appears on the photo.
+
+@summary
+,
+
+@summary
+tap the "x" next to your name to remove the tag.
+@article
+ You can find it in the "Apps" section.
+ This is usually selected by default, and shows all of the images that you have been tagged in by others.
+ The photos will be arranged from newest to oldest.
+,, You will be asked to confirm that you want to untag yourself. This will remove your name from the photo, but will not delete it.
+
+
+If you really need the photo deleted, the best option is to get in touch with the person who uploaded it.
+

@@ -1,0 +1,14 @@
+@summary
+bring up the cellphone.
+
+@summary
+go to the cellphone menu.
+
+@summary
+start playing online.
+@article
+ Press UP on the D-pad. Your character should pull out his cellphone.;
+, Select “Multiplayer.”
+
+, From the "Multiplayer" menu, players can customize characters, matches, or view the multiplayer tutorial.
+

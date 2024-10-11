@@ -1,0 +1,25 @@
+@summary
+swipe left to reveal stories.
+
+@summary
+tap the icon with three vertically stacked dots.
+
+@summary
+tap on a snap within your story.
+
+@summary
+,
+
+@summary
+tap the trash can icon to delete the snap.
+
+@summary
+,
+
+@summary
+tap delete.
+@article
+ Once a Snap has been posted to your Story, you cannot add special effects and filters.
+ It appears at the top of the screen to the right of your Story, and tapping it reveals all the different Snaps that make up your Story.
+,, Doing so will remove the Snap from your Story.
+

@@ -1,0 +1,16 @@
+@summary
+adjust the print speed on the device to the highest available quality setting.
+
+@summary
+adjust the resolution settings on the printer to the highest possible dpi.
+
+@summary
+adjust the print settings in the software application being used to process and print the photographs or images to the highest possible quality or image resolution settings.
+@article
+ The print speed control setting usually is found in the printer's control panel, located on top or in front of the device.
+
+
+Decrease the print speed when image colors are faded. Increase the print speed on the device when images bleed or are oversaturated.
+ The dpi setting usually can be adjusted from the device's control panel.
+ These settings typically can be accessed from the "Print" dialog box or the "Preferences" option located in the file menu of the application being used.
+

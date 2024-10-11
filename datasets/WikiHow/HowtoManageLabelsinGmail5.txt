@@ -1,0 +1,9 @@
+@summary
+access the label you’d like to edit or remove via the pull-down list of labels on the left side of your gmail display.
+
+@summary
+click the down arrow to the left of the label.
+@article
+ If the label you’re looking for isn’t displayed as a clickable link, you’ll find it underneath the “(#) more” heading, where (#) is the number of additional labels not being displayed.
+ This supplies a menu that allows you to hide, rename or delete labels. You can also use this menu to add color to labels.
+

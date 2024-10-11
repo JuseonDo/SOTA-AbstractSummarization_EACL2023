@@ -1,0 +1,35 @@
+@summary
+tap the ☰ button to open the google inbox menu.
+
+@summary
+tap the ▾ next to your account name at the top of the menu.
+
+@summary
+,
+
+@summary
+tap "manage accounts".
+
+@summary
+,
+
+@summary
+toggle the sliders for any accounts currently associated with your device.
+
+@summary
+tap "add another account" to sign in with another google account.
+
+@summary
+tap the profile images in the ☰ menu to switch between accounts.
+@article
+
+
+
+You won’t be able to add a non-Gmail address, but you can forward messages to your Gmail address in the other account’s “forwarding” settings.Once the messages are forwarded, they will be organized in the same manner as your Gmail messages.
+To add another Gmail account to Inbox, continue with this method.
+,,
+
+
+Google Inbox does not currently support Google Apps for Education, Google Apps for Government, or Google Apps for Nonprofits., You can also use this option to create a new account.
+ Each of your Gmail accounts has a different Inbox. The profile photos in the “hamburger” menu make it fast and easy to switch between users.
+

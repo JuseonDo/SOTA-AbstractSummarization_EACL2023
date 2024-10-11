@@ -1,0 +1,17 @@
+@summary
+open settings.
+
+@summary
+open privacy settings.
+
+@summary
+open camera privacy settings.
+
+@summary
+choose apps that can use your camera.
+@article
+ Press ⊞ Win and click Settings from the sidebar.;
+, Just click on Privacy from the window.
+ Select Camera from the sidebar.
+ You can toggle them on or off using the switches.
+

@@ -1,0 +1,4 @@
+@summary
+text the word “stop” to “729669”.
+@article
+ This is the SayNow opt out short code and will automatically stop text notifications.;

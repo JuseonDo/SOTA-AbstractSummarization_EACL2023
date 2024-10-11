@@ -1,0 +1,20 @@
+@summary
+open your iphone’s settings.
+
+@summary
+tap general.
+
+@summary
+tap accessibility.
+
+@summary
+scroll down and tap subtitles & captioning.
+
+@summary
+slide the “closed captions + sdh” switch to the off position.
+@article
+ It’s an app on your iPhone labeled with a gray gear icon. You’ll find it on one of your home screens, possibly in the Utilities folder.;
+, It’s in the third section.
+ You’ll see it in the third section.
+ It’s one of the last options in the list, so you’ll have to scroll down several screens.
+ Now you won’t see captions or language subtitles in the Videos app.

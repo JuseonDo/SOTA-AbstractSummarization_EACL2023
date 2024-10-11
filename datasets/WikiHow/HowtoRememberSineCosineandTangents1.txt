@@ -1,0 +1,18 @@
+@summary
+remember what sines do.
+
+@summary
+think of how to remember this:
+
+@summary
+o for opposite; and
+
+@summary
+h for hypotenuse.
+@article
+ Sines are Opposites and Hypotenuse.
+
+
+
+That makes OH. So, you can have OH or SOH (as in Sine OH). Thus, OH or SOH starts it off.
+

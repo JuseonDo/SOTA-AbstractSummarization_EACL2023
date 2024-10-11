@@ -1,0 +1,12 @@
+@summary
+right-click on your desktop.
+
+@summary
+go to manage 3d settings.
+
+@summary
+personalize your settings.
+@article
+ Select Catalyst Control Center.
+ This can be found to your left. Here you will be able to alter the settings of our graphics in order to optimize game play., Each player and each game may require distinct personalized settings for the optimal gaming experience.
+

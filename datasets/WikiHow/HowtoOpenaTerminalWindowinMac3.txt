@@ -1,0 +1,65 @@
+@summary
+open automator.
+
+@summary
+double-click service (gear icon) as the "type for your document.",
+
+@summary
+click the double-headed arrow by service receives.
+
+@summary
+change the drop-down menu selection from text to no input.
+
+@summary
+search in the left part of the window for launch application.
+
+@summary
+,
+
+@summary
+double-click launch application.
+
+@summary
+open the drop-down menu by clicking the double-headed arrow.
+
+@summary
+,
+
+@summary
+choose terminal.
+
+@summary
+close and save your new automator file.
+
+@summary
+open system preferences.
+
+@summary
+open keyboard and then select the shortcuts tab.
+
+@summary
+,
+
+@summary
+click on services and scroll down to general.
+
+@summary
+,
+
+@summary
+find and select your newly-named service, and now add your own shortcut.
+
+@summary
+close system preferences and try opening the terminal window with your new shortcut.
+
+@article
+ Run the cursor to the top of the screen to expose the menu bar. Click on the Spotlight icon (magnifying glass), or press ⌘ Command+Space and start inputting Automator, then click on the Automator icon once it appears.
+ Alternatively, highlight "Service" with a single click, then click Choose.
+ This will expose the drop-down menu.
+ It should look like this: Service requires no input in any application.
+, Alternatively, click and drag Launch Application to the rightmost window that says "Drag actions or files here to build your workflow."
+
+,, If it is not in the drop-down list, select "Other" and type Terminal in Spotlight, then click Choose.
+ Click the red radio button, give the file a recognisable name, and click Save.
+ You can find this by running the cursor to the bottom of the screen to expose the dock, then clicking on the set of gears. Alternatively, you can find System Preferences in Spotlight.
+,, For example: ⌘ Command+⌥ Option+T.

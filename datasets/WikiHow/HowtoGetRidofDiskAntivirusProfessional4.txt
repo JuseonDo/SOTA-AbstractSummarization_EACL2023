@@ -1,0 +1,27 @@
+@summary
+power on your windows computer.
+
+@summary
+,
+
+@summary
+click on the “start” menu.
+
+@summary
+,
+
+@summary
+type “rstrui.exe” into the search field and press the “enter” key.
+
+@summary
+follow the prompts provided in the system restore wizard.
+
+@summary
+click on “finish” in the system restore wizard when prompted to confirm your restore point.
+@article
+,, This command will pull up your computer’s System Restore application.
+ You will be instructed to select a previous restore point.
+
+
+Be sure to choose a restore point of a date and time prior to when your computer became infected by the Disk Antivirus Professional malware.
+ Windows will then return your computer to a previous state it was in before it became infected by the virus, and the Disk Antivirus Professional malware will be removed from your machine.

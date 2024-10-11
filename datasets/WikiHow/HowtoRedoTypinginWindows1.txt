@@ -1,0 +1,14 @@
+@summary
+hold down the ctrl key, and press the letter y on your keyboard.
+
+@summary
+confirm the action was executed.
+
+@summary
+repeat as needed to go back even further.
+@article
+;
+, Your document or text should have reverted to where it was before you accidentally used "undo."
+
+, You can use the "redo" command until all the mistakes you made with the "undo" command have been corrected.
+

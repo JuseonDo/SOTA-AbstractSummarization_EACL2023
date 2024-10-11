@@ -1,0 +1,12 @@
+@summary
+click on a person's name to access their timeline.
+
+@summary
+in their timeline, click on the follow button.
+
+@summary
+enjoy their feed.
+@article
+ You can do this anywhere a name appears in blue.;
+, It's located next to the Add Friend button.
+ They will be notified that you are following them, and you'll see all their public posts and comments.

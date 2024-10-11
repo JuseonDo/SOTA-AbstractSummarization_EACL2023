@@ -1,0 +1,22 @@
+@summary
+acquire a pot.
+
+@summary
+gather the ingredients needed to make the stew.have the ingredients in your rucksack.
+
+@summary
+walk to the pot on your kitchen counter.
+
+@summary
+choose the ingredients that you need for the recipe.
+@article
+ If you don't have it, you can go to the General Store and pay 2,000 G for it.
+
+
+Milk: can be acquired from your cow
+Butter: You can process milk in a butter maker (purchased from the General Store for 3,800 G).
+Onion: can be grown in your crops during Summer
+Potato: can be grown in your crops during Spring
+Carrot: can be grown in your crops during Autumn
+
+,, Press the "A" button., Press the "A" button again and "Start" to make the dish.

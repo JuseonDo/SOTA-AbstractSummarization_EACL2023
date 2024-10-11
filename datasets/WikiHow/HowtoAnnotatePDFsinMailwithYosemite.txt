@@ -1,0 +1,37 @@
+@summary
+start a new message, or reply to a thread with pdf's attached.
+
+@summary
+make sure that the pdf is attached.
+
+@summary
+hover over the attachment.
+
+@summary
+select markup.
+
+@summary
+,
+
+@summary
+annotate your pdf!,
+
+@summary
+click done when finished.
+
+@summary
+,
+
+@summary
+finish your email, and send as normal when complete.
+
+@article
+;
+,
+
+
+If you are attaching a new message, simply add an attachment as normal by clicking on the paperclip icon.
+If you are replying to a message that had the PDF attached, ensure that the PDF is attached to your reply as well. Go to Edits --> Attachments --> Include Original Attachments in Reply.
+ You should see a downward facing arrow appear. Click it.
+, Using the above tools, you can draw on the PDF, create a text box, add shapes and lines, or add a signature.
+,

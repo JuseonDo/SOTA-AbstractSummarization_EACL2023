@@ -1,0 +1,23 @@
+@summary
+make the first stroke.
+
+@summary
+make the second stroke.
+
+@summary
+make the final stroke.
+
+@summary
+finished.
+
+@summary
+,
+
+@summary
+practice writing it.
+@article
+ Draw a small snip stroke, going from left to right.;
+, Draw another snip under the first stroke, going from left to right.
+ Draw a slated line, going from down to up. Yes, the katakana shi resembles a smiley face.
+, Use blank kana practice sheets and go across the sheet.
+

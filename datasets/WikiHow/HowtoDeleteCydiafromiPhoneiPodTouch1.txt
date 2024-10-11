@@ -1,0 +1,35 @@
+@summary
+open cydia.
+
+@summary
+tap the "installed" tab at the bottom of the screen.
+
+@summary
+tap a tweak or app that you want to remove from your device.
+
+@summary
+tap the "modify" button in the upper-right corner and then tap "remove".
+
+@summary
+tap "continue queuing".
+
+@summary
+repeat the queuing process until you've selected all the packages you want to remove.
+
+@summary
+tap the "queue" button and then tap "confirm".
+
+@summary
+return to the "installed" tab and select the "user" list.
+
+@summary
+uninstall the "cydia installer" package.
+@article
+ You can remove Cydia from your device without losing your jailbreak. Without Cydia, your device won't be able to boot into safe mode if something goes wrong with your jailbreak.;
+, This will open a list of all of your installed packages.
+ This will open its Details page.
+ This will add the item to your uninstallation queue.
+ This will allow you to select more packages to add to the uninstallation queue.
+ Return to the "Installed" tab after you have finished queuing.
+ This will remove all of the packages that you have selected., This will display a list of just the most important packages.
+ Open the "Cydia Installer"" Details page and tap "Modify". Select "Remove" and then tap "Confirm". Cydia will be uninstalled, and your device will reboot afterwards.

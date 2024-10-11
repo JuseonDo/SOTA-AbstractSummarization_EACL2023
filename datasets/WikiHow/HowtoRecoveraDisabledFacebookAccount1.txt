@@ -1,0 +1,17 @@
+@summary
+go to facebook.com.
+
+@summary
+type in your email address and facebook password.
+
+@summary
+click "log in.",
+
+@summary
+reacquaint yourself with the updated privacy settings (optional).
+@article
+;
+, Make sure to use the same email address you used to sign up for Facebook. Type in your old password. If you haven't been on Facebook for so long that you've forgotten your password, just click on "Forgotten your password?" and follow the cues.
+ This will recover your old account.
+ If you've been off Facebook for a while, click on "privacy settings" or "privacy guide" to read about the updates in privacy settings so that you're well-informed as you re-enter the Facebook world.
+

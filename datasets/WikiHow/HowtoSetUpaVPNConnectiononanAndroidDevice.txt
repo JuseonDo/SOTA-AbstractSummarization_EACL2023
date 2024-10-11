@@ -1,0 +1,29 @@
+@summary
+open ‘settings’ on your android device, now under ‘wireless & networks’, tap ‘more…’;
+
+@summary
+,
+
+@summary
+find ‘vpn’ and tap on it.
+
+@summary
+,
+
+@summary
+to add a new vpn connection, select ‘add vpn profile’ or the ‘+’ sign on the right top corner of the screen.
+
+@summary
+,
+
+@summary
+enter the vpn details and select a protocol.
+
+@summary
+once you have added a new vpn connection, just tap on it to get started.tap ‘connect’ and you should be connected to your vpn.
+@article
+,,, PPTP is very simple to setup as all you have to do is give your VPN a suitable name, enter the ‘server address’ you want to connect, and hit ‘Save’.
+
+
+For L2TP/IPSec protocol, you will have to enter a few more details such as Server address, L2TP secret (if required), IPSec user certificate (if required), IPSec identifier (if required), a pre-shared key (which can be easily obtained from your VPN provider). Then hit ‘Save’.
+ Enter the username and password (usually given by your VPN provider or you can create your own). Check ‘Save account information’ so that you don’t have to enter these details again.

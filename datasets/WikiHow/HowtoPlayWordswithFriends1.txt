@@ -1,0 +1,9 @@
+@summary
+decide how you want to play words with friends.
+
+@summary
+decide whether you want to connect your facebook account to wwf or to create a separate account with your email address.
+@article
+ You can connect your Facebook account to the WWF application, download the App on your iOS device, or download the App on your Android device. When you have it installed, launch the application.
+ It's easier to find friends to play with if you allow WWF to access your Facebook.
+

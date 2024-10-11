@@ -1,0 +1,5 @@
+@summary
+audacity may be free, but it’s an immensely powerful sound application.
+@article
+ It’s loaded with great effects, sound generators, and a fairly flexible editing system. Once you get the hang of how it feels, you’ll be able to turn out some great stuff.
+

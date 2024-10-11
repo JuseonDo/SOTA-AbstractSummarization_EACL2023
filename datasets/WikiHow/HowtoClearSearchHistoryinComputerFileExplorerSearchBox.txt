@@ -1,0 +1,13 @@
+@summary
+open local group policy editor.
+
+@summary
+find and access the setting called “turn off display of recent search entries in the file explorer search box”.
+
+@summary
+enable the setting specified.
+@article
+ In more detail, you can open Run dialog with Windows+R hotkeys, type gpedit.msc in the box and click OK to open it.;
+, FYR, it is located in User Configuration/Administrative Templates/Windows Components/File Explorer.
+ That is, choose Enabled and click OK in the next window.
+

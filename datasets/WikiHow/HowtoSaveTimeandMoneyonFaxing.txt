@@ -1,0 +1,24 @@
+@summary
+determine your usage.
+
+@summary
+decide what kind of faxing solution you need.
+
+@summary
+evaluate different services and find out what they offer in terms of reliability and costs.
+
+@summary
+find a provider that will offer you personal, proactive customer support and service to ensure fast and easy implementation and ongoing support.
+
+@summary
+,
+
+@summary
+start faxing.
+@article
+ How many faxes do you send and receive or anticipate sending and receiving? How many people in your organization will be using the fax service?;
+, For example, are you looking for a fax solution to support user environments or a service to integrate with your own application or web site?
+
+, Important things to ask about are the level of fax security, reliability of their infrastructure, and pricing.
+, You'll quickly discover the ease and convenience of online faxing.
+

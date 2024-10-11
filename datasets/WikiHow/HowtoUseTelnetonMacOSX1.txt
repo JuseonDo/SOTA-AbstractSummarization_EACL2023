@@ -1,0 +1,8 @@
+@summary
+open up the terminal application found in the utilities folder under applications.
+@article
+
+
+
+This is similar to the command prompt found on Windows. Because OS X is based on UNIX, not MS-DOS, the commands are a bit different.
+

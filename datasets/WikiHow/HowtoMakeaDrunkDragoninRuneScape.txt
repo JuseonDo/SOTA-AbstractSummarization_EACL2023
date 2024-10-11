@@ -1,0 +1,28 @@
+@summary
+achieve a level 32 cooking.
+
+@summary
+gather the following ingredients, along with a cocktail shaker and cocktail glass.
+
+@summary
+make the cocktail.
+
+@summary
+click on the shaker again.
+
+@summary
+garnish the cocktail.use the cocktail glass on a range.
+@article
+;
+,
+
+
+1 bottle of gin
+1 bottle of vodka
+1 dwellberry
+Pot of cream
+Pineapple chunks (from a pineapple used with a knife)
+
+, Click on the cocktail shaker. This will automatically use the ingredients to the shaker.
+ This will pour the mixture into your cocktail glass.
+ Use the pot of cream and pineapple chunks on the cocktail glass.

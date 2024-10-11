@@ -1,0 +1,21 @@
+@summary
+open your iphone’s settings.
+
+@summary
+tap mail.
+
+@summary
+slide the button next to organize by thread to the “on" position.
+
+@summary
+slide the button next to most recent messages to the “off” position.
+
+@summary
+slide the button next to complete threads to the “on” position.
+@article
+ This is the app with the gray cogs icon, usually found on one of your home screens or in a folder labeled “Utilities.”;
+, You can find this at the top of the fifth section of menu options.
+ This will allow you to view Email messages with the same subject as one conversation.
+ This will stop the newest message in a thread of Emails from displaying at the top of your email thread.
+ Your Emails in a thread will now show you the entire thread of the conversation with the oldest email message displaying first.
+

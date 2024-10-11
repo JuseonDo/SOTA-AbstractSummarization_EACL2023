@@ -1,0 +1,7 @@
+@summary
+simultaneously press control-shift-eject.
+@article
+
+
+
+If you don't have an eject key, press Control-Shift-Power.;

@@ -1,0 +1,9 @@
+@summary
+make sure the child can count to 60.
+
+@summary
+teach the 5 times tables.
+@article
+ Trying to teach the minutes in an hour before the child can count that high will be discouraging for the child and unproductive for both of you.
+ Understanding 5...10...15...20...etc. will make it much easier to conceptualize the minute hand on a clock.
+

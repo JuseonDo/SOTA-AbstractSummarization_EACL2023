@@ -1,0 +1,9 @@
+@summary
+in the chat type /give player 137  num.hit ↵ enter.
+@article
+
+
+Change the player text into your name
+Change the num into a number from 1-64
+
+,

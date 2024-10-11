@@ -1,0 +1,43 @@
+@summary
+open whatsapp.
+
+@summary
+slide the group name to the left.
+
+@summary
+tap more.
+
+@summary
+select exit group.
+
+@summary
+,
+
+@summary
+tap exit group again to confirm.
+
+@summary
+slide the group name to the left.
+
+@summary
+,
+
+@summary
+tap more.
+
+@summary
+select delete group.
+
+@summary
+,
+
+@summary
+tap delete group again to confirm.
+@article
+ It’s the green speech bubble icon with a phone receiver inside, typically located on the home screen.;
+, Two new buttons will appear to the right of the group’s name.
+ It’s the first of the two new buttons.
+, You’ll return to the main screen. Now you’ll see “you left” beneath the name of the group.
+, A pop-up will appear.
+, The group chat is now deleted.
+

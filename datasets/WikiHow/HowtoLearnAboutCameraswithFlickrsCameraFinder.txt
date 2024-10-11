@@ -1,0 +1,50 @@
+@summary
+go to the camera finder that you can find on flickr.
+
+@summary
+select the camera that you are thinking about getting or switching to.
+
+@summary
+take a screenshot of it.
+
+@summary
+look at the various data that you will want to compare.
+
+@summary
+look over at the side of the page and the usage that flickr is seeing for the d3100.
+
+@summary
+do the same thing with other cameras that you are considering.
+
+@summary
+,
+
+@summary
+compare usage.
+
+@summary
+scroll down the page and look at the images that people have shared made with those particular cameras.
+
+@summary
+check out the page for the camera body you are looking at.
+@article
+;
+, Here, the Nikon D3100 has been selected.
+ This will make it easier to compare it with your other possible choices.
+ A few are:
+
+
+
+Sensor Resolution/pixel count - 14.2 megapixels here
+LCD Size - This is pretty specific to you. Big is nice, but not necessary.
+Media Type - SD cards are a little easier to get hold of
+Weight - If you are carrying it around, this is information you will want to know
+
+Lens Mount - There are various types of lens and while most cameras will use the same mount for their make of camera, some don't. It is good information to have.
+ Here you see that it had a steady decline until recently?? Nikon have a big sale??
+
+,, You might want to do this to see how they compare with each other. For the most part, digital cameras, on Flickr, seemed to decline a bit. At least 2 of the Nikons. The D800 was all over the place and the Canon did fairly well but has a similar pattern as the 2 Nikons. Maybe, it's the iPhone?
+
+, Flickr can do this as long as your images retain their EXIF information.
+ Nikon here. You can see lots of different kinds of Nikons and the various data that they collect.
+

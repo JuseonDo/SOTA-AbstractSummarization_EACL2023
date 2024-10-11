@@ -1,0 +1,17 @@
+@summary
+visit the squareup.com site and click on the grey "sign in" button.
+
+@summary
+add your email address and password and click the "sign in" button in blue.
+
+@summary
+click on "public profile" in your square account.
+
+@summary
+click on the box underneath "enter bio."
+@article
+ This is in the top right corner.;
+, You can use the "Forgot password?" button if you can't remember the info. You can also sign up from this page if you haven't yet.
+ Scroll down to the bottom of the page.
+ Type in some info about yourself, including how you got started in your business and why people should buy from you. Click "Save" at the bottom of the screen on the right to
+

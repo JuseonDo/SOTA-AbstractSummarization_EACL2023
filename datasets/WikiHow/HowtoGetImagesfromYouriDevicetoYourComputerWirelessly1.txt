@@ -1,0 +1,15 @@
+@summary
+use the cloud.
+
+@summary
+go into the settings on your ipad and make sure that the photostream is set to on.
+
+@summary
+,
+
+@summary
+take your screenshots.
+@article
+ You can link your computer and your iPad pretty easily. If you have a PC and not another Apple product, you will need to download and install the iCloud Control Panel for Windows v2.0.;
+,, Since you have enabled the Photo Stream, they will go into there and then be uploaded onto your computer through the iCloud.
+

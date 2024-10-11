@@ -1,0 +1,37 @@
+@summary
+connect the two computers using an ethernet cable.
+
+@summary
+click the apple menu on your mac that has internet access and select system preferences.
+
+@summary
+click the "internet sharing" option in the left frame.
+
+@summary
+select your mac's internet connection from the drop-down menu.
+
+@summary
+check the "ethernet" option in the "to computers using" list.
+
+@summary
+check the "internet sharing" box.
+
+@summary
+browse the internet on the second computer.
+@article
+ Newer computers can use a standard Ethernet cable, as the network adapter will automatically detect that you are connecting two computers. Older computers may need to use a crossover cable, which is a standard Ethernet cable with the connection reversed on one end.
+
+
+You can use internet connection sharing to share your internet connection with any computer that can connect via Ethernet, regardless of operating system.
+ Select "Sharing" from the System Preferences menu.
+ Do not check the box yet.
+ If you are connecting two computer's via Ethernet, you'll usually be sharing your Wi-Fi connection
+
+
+Older Macs will display "Airport" instead of "Wi-Fi".
+ This will share the connection with any computer connected via Ethernet.
+ Click Start if prompted.
+ Once internet connection sharing has been activated on the first computer, the second computer should immediately have access to the internet.
+
+
+It may take a moment for the second computer to retrieve a new IP address.

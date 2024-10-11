@@ -1,0 +1,48 @@
+@summary
+open the contacts app.
+
+@summary
+tap +.
+
+@summary
+enter the name you want.
+
+@summary
+,
+
+@summary
+tap done.
+
+@summary
+,
+
+@summary
+tap the home button to exit the siri menu.
+
+@summary
+,
+
+@summary
+open the settings app.
+
+@summary
+scroll down and tap siri.
+
+@summary
+tap my info.
+
+@summary
+,
+
+@summary
+select your preferred name from the list of contacts.
+@article
+ This icon looks like an address book with a silhouette on it.;
+, This is in the upper right corner.
+,,, Its icon is a set of gray cogs and is usually located on your home screen.
+
+
+If you don't see the app on your home screen, check inside a folder labelled Utilities.
+ This will be in the third set of options.
+, Siri will now use the name in the contact card you selected to address you.
+

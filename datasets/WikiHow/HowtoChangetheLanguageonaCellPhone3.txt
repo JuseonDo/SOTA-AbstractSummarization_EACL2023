@@ -1,0 +1,12 @@
+@summary
+find “settings.” search through your phone for your settings, possibly labeled settings & tools.
+
+@summary
+select “phone settings.” within your settings, you may see an option that’s titled phone settings or something similar.
+
+@summary
+select “language” and find your desired language.
+@article
+ It may be an icon with gears on it or, in older models, you may need to open your menu and scroll down through a list to find it., This will lead you to another menu.
+ A list will appear with the different languages that are installed on your phone. This list will likely not be as extensive as on an iPhone or Android, but will contain the most popular languages spoken globally.
+

@@ -1,0 +1,57 @@
+@summary
+open the settings app.
+
+@summary
+tap notifications.
+
+@summary
+,
+
+@summary
+tap messages.
+
+@summary
+,
+
+@summary
+tap allow notifications.
+
+@summary
+tap either banners or alerts.
+
+@summary
+tap notifications.
+
+@summary
+tap the home button on your device.
+
+@summary
+,
+
+@summary
+wait for a message to arrive.
+
+@summary
+,
+
+@summary
+slide down on the messages notification.
+
+@summary
+,
+
+@summary
+type your quick reply.
+
+@summary
+,
+
+@summary
+tap ↑.
+@article
+ It's a gray icon containing gears.;
+,,, The slider to the right should be green.
+ This selects the style of notification you'd like to receive. Banners go away after a short time; you have to dismiss an alert to make it go away.
+ It's a blue link in the upper left of the screen.
+,,,, It's in a green circle on the right side of the message field. Your quick reply has been sent.
+

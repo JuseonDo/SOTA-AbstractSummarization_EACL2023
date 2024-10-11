@@ -1,0 +1,39 @@
+@summary
+visit the website of the news you would like to share.
+
+@summary
+copy the website’s url.
+
+@summary
+visit facebook.
+
+@summary
+log into your account.
+
+@summary
+click inside the top box on your facebook activity page that says “what’s on your mind?” this is where you will post your article.
+
+@summary
+,
+
+@summary
+paste the link you copied earlier.
+
+@summary
+type some of your own thoughts about the article if you wish.
+
+@summary
+click the “post” button below the status box.
+@article
+ Make sure the article is not grossly offensive and does not contain nudity, as this violates Facebook’s policy.;
+, Do this by clicking and dragging your mouse inside the address bar. Make sure you highlight the entire URL. Left-click the highlighted space to open the context menu, and select “Copy.”
+
+, Open another browser tab, and visit the Facebook website in your address bar.
+ Enter your login information into the fields at the top right of the page. Click “Log in” to continue.
+, Right-click anywhere inside the status box, and a drop-down list will appear. Select “Paste” from this list, and the link to your article will appear in the box.
+ You can express your point of view to your friends and family who will read the article.
+
+
+If you want to, you can delete the link after Facebook has recognized what you want to post. You will know this has happened because under the link, a box will pop up usually with a picture, title, and information related to the article.
+ The link will be posted as a status update on your wall, or timeline, and your friends’ news feed. Your friends can click on the link to read the news article.
+

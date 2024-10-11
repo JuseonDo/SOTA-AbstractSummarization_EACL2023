@@ -1,0 +1,24 @@
+@summary
+shut down an oblivion gate.
+
+@summary
+when you have progressed through oblivion and reached the final tower, simply take the sigil stone in the main building.
+
+@summary
+,
+
+@summary
+after it is shut down, click on the stone in your inventory.
+@article
+;
+,, Its effects are already selected for you, so just add any unenchanted item in your inventory and name it. You're done!
+
+
+This way, however, the effects are not up to you, but are random, specific to the sigil stone. The strength of the enchantment will also depend on what level you were at when you took the sigil stone.
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+@summary
+navigate to the adobe photoshop landing page at http://www.adobe.com/products/photoshop.html and click on “buy now.”;
+
+@summary
+,
+
+@summary
+click on the tab that best represents who you are.
+
+@summary
+select “buy now” next to the photoshop package that best meets your needs.
+
+@summary
+sign in to adobe with your existing adobe id, or select the option to create an adobe account.
+
+@summary
+follow the on-screen instructions to complete your transaction and buy photoshop.
+
+@summary
+launch photoshop when installation is complete.
+@article
+, Photoshop can be purchased for individual use, business use, students and teachers, or for schools and universities.
+ Adobe Photoshop can be purchased alone or bundled with other Adobe programs, including Lightroom, Illustrator, and more.
+ This login can also be used with Creative Cloud, which is the application that manages all Adobe products, including Photoshop.
+ When complete, Photoshop will begin downloading along with the Creative Cloud desktop app, which will manage the remainder of the installation process. The download process may take up to several minutes to complete, depending on your network speed.
+ Photoshop can be launched directly from the Creative Cloud Apps panel, or from the Program Files folder on Windows PCs and from the Applications folder in Mac OS X.

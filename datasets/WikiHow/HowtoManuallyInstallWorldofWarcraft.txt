@@ -1,0 +1,72 @@
+@summary
+start windows in safe mode.
+
+@summary
+uninstall world of warcraft.
+
+@summary
+create a new folder on your desktop.
+
+@summary
+put "disc 1" of world of warcraft into your computer.
+
+@summary
+copy and paste the contents of the world of warcraft cd to the new folder.
+
+@summary
+copy and paste the 'tome' file from disc 2 to your computer.
+
+@summary
+repeat the previous step for your remaining cds.
+
+@summary
+open your new folder and run the installer program.
+@article
+;
+, After completing the uninstallation, open "My Programs" from the "Start Menu" and delete the WoW folder left behind by the uninstallation. If this is your first installation, then skip this step.
+ You might call it 'wow installer', or something similar. You can do this by right-clicking the desktop, clicking New, and "Folder".
+ Do not start the installer. Instead, Open "My Computer", right click the CD drive, and click "Explore".
+
+
+
+Press
+
+
+
+
+
+
+
+
+
+
+to select all of the contents of your World of Warcraft CD.
+Press
+
+
+
+
+
+
+
+
+
+
+to copy the contents.
+Open your new folder and press
+
+
+
+
+
+
+
+
+
+
+to paste the copied content to your computer.
+Close the disk drive window and take out the CD.
+ Do not copy the entire CD. Instead, select 'tome', copy it, and paste it to your new folder.
+ Remove Disc 2 and copy each 'tome' file from each of your other CDs (i.e. Discs 3-5).
+ The game should install as normal.
+

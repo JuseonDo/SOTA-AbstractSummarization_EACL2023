@@ -1,0 +1,70 @@
+@summary
+get an empty lot.
+
+@summary
+click on your lot so that your sim(s) can move in.
+
+@summary
+position a driveway on the far left of the lot.
+
+@summary
+,
+
+@summary
+press "control" "shift" "c" simultaneously.
+
+@summary
+make a driveway on the far right hand side of your lot.
+
+@summary
+remove the cheat by bringing up the cheat box and typing in move_objects off.
+
+@summary
+,
+
+@summary
+create walls on the inner sides of the both driveways.
+
+@summary
+,turn the cheat back on by using move_objects on in the cheat box.
+
+@summary
+remove the sidewalk on the opposite side of the street.
+
+@summary
+get a driveway extension and look at the arrows.
+
+@summary
+place the extension down to start the garage.
+
+@summary
+add a garage door to the wall.
+
+@summary
+,
+
+@summary
+remove and delete items from the other side.
+
+@summary
+close up your driveway by adding walls all around.
+
+@summary
+fill in the "grass" with concrete flooring.
+
+@summary
+redo the sidewalk.remove the cheat by bringing up the cheat box and typing in move_objects off.
+@article
+ Go into the Neighborhood screen, click on "Lots and Houses", and then click on "Empty Lots". Choose a reasonable good size lot for your house. Place your desired lot on a straight road; as you'll be needing both sides of your lot.
+
+
+
+ ;
+, After the van animation, pause the game and click on the "Build Mode" button.,, This will bring up the cheat box, which is a long white text box at the top. Type in move_objects on and press "Enter".
+ This method allows you to determine which direction you're going to have your garage on.
+,,, A suggestion is to use the sledgehammer tool (which comes in the Pets Expansion Pack).
+ If the arrows are pointing to the right, like the image provided, it goes on the left-hand driveway. If the arrows are pointing left, it goes on the right-hand driveway.
+ It's easier if you match the tiles up with the tips of the driveway.
+, These will not be used, as you've already succeeded in starting your L shaped garage.
+ Leave at least one tile around the driveway extension to add doors and other items to the walls.
+ Concrete can be found in the "Poured" category., Use the "Discrete Concrete" to add the sidewalk again.

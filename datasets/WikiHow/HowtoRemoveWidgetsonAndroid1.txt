@@ -1,0 +1,22 @@
+@summary
+unlock your android.
+
+@summary
+locate the widget you wish to remove.
+
+@summary
+tap and hold the offending widget.
+
+@summary
+,
+
+@summary
+drag the widget to the "remove" section.
+
+@summary
+remove your finger.
+@article
+;
+, Since the Home screen comprises multiple pages, you may have to swipe left or right to find the widget(s) you want.
+,, Doing this will drop the widget into the "Remove" section, effectively removing it from your Home screen. You can repeat this process for any widget on your Home screen.
+

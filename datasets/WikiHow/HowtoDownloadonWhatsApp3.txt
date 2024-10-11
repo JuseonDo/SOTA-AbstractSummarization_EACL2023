@@ -1,0 +1,24 @@
+@summary
+open the whatsapp application.
+
+@summary
+,
+
+@summary
+click on a chat.
+
+@summary
+click on an attachment.
+
+@summary
+,
+
+@summary
+click on ↓.
+
+@summary
+click on save.
+@article
+, Select the chat with the attachment you wish to download.
+, It's in the upper-right part of the window.
+ The attachment has been saved to your computer.

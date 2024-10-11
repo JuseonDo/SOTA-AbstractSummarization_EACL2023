@@ -1,0 +1,55 @@
+@summary
+press ⇧ shift, then drag the mouse over the files that you want to select, to select multiple files at once.
+@article
+ Alternatively you can hold Ctrl and click on each file individually.
+
+
+
+Ctrl+A Select All
+
+
+
+
+
+
+
+Ctrl+C - Copy.
+
+
+
+
+
+
+
+Ctrl+X - Cut
+
+
+
+
+
+
+
+Ctrl+V - Paste
+
+
+
+
+
+
+
+Ctrl+Z - Undo
+
+
+
+
+
+
+
+Ctrl+Y - Redo
+
+
+
+
+
+
+

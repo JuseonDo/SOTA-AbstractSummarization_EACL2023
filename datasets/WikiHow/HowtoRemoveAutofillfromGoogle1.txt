@@ -1,0 +1,25 @@
+@summary
+look for google chrome on your computer and open it.
+
+@summary
+click the button with three horizontal bars on the upper right corner of the browser.
+
+@summary
+open the “clear browsing data” window.
+
+@summary
+select the “autofill form data” option.
+
+@summary
+select the timeframe for clearing.
+
+@summary
+click the “clear browsing data” button at the bottom.
+@article
+ The web browser will load.;
+, This will bring down the main menu.
+ Scroll down until you see “More tools” then expand it. Select “Clear browsing data” from here. The “Clear browsing data” window will appear.
+ On the window, you can see several types of data being stored by Google. There’s browsing history, download history, cookies, cache, passwords, and others. Tick on the checkbox for “Autofill Form Data.”
+
+, At the top of the window is a drop-down list. Click on it and select “The beginning of time.” This sets the timeframe up until when the data will be cleared.
+ This will clear all your autofill form data.

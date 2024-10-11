@@ -1,0 +1,26 @@
+@summary
+close skype.
+
+@summary
+open the control panel.
+
+@summary
+select “programs” or “programs and features.” all the installed programs on your computer will be listed.
+
+@summary
+,
+
+@summary
+find and select skype.
+
+@summary
+click on the “uninstall” or “uninstall/change” button on the header toolbar.
+
+@summary
+follow the on-screen prompts and wait until the program is fully removed.
+@article
+ If Skype is running, close it first. Look for the Skype icon on the system tray on the lower right corner of the screen. Right-click on it to bring out a menu, then choose “Quit” or “Exit.”;
+, Click on the Start menu on the lower left corner of your screen, and click on “Control Panel” to open it.
+, The program will be highlighted.
+ In Windows XP, the button will be named “Remove” or “Change/Remove” and will be located to the right of the program.
+ Skype should now be removed from your Windows computer.

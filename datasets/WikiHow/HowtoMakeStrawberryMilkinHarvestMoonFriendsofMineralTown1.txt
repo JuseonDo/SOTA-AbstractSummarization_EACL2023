@@ -1,0 +1,28 @@
+@summary
+acquire the mixer.
+
+@summary
+gather the ingredients needed to make the strawberry milk.have the ingredients in your rucksack.
+
+@summary
+go to the kitchen counter.
+
+@summary
+choose the utensil you need to use.
+
+@summary
+confirm your counter decision.
+
+@summary
+choose your ingredients.
+
+@summary
+confirm your decision.
+@article
+ If you don't have it, you will need to watch the Shopping Network on Saturdays and pay 1,200 G for it when it comes on the television.
+
+
+Strawberry: can be grown in your crops during the spring
+Milk (s): can be acquired by your cow
+
+,, Press the "A" button., Select the mixer and press the "A" button., Press the "Start" button, then the "A" button again., Select the specific ingredients you wish to use from your rucksack. Press the "Start" button., If you are satisfied with what you have chosen, start cooking.

@@ -1,0 +1,58 @@
+@summary
+launch winamp.
+
+@summary
+put your audio cd in your drive.
+
+@summary
+click on the media library tab.this is found in the upper-left area of the window, below the media control buttons.
+
+@summary
+,
+
+@summary
+look for the cd album you want to rip.
+
+@summary
+right click on it and select “rip audio cd” from the pop-up menu.
+
+@summary
+wait for winamp to finish ripping your audio cd.
+
+@summary
+click on “options” on the menu toolbar.
+
+@summary
+scroll down the panel on the left side of winamp’s preferences window.
+
+@summary
+click on the “output file settings” tab.
+
+@summary
+,
+
+@summary
+look for the text field labeled “specify the destination folder for ripped tracks.” take note of the location displayed on this field.
+
+@summary
+navigate to the files.
+@article
+ Just double-click on the shortcut icon on your desktop.;
+, Wait for Winamp to recognize the file.
+, Just navigate down the panel and choose “Audio CD” or the name of the CD album you’re going to rip.
+ A small window labeled “Rip CDs faster in MP3” will appear.
+
+
+The window only notifies you that the free version of Winamp only rip CDs at 8x speed. To continue, simply click “Rip at 8x in AAC.”
+If you don’t want to see this window the next time you rip a CD, simply put a check on “Never show me this again.”
+
+, You can view the progress on the main window.
+ When you’re there, select “Preferences” from the pop-up menu.
+
+
+You can also open the Preferences window by using the CTRL + P keyboard shortcut.
+ Look for the “Media Library” directory. Under Media Library, click on "CD Ripping."
+
+,, This is where Winamp places the ripped audio files. You can change this location to the directory you want.
+ You'll need to locate where your audio files are.
+

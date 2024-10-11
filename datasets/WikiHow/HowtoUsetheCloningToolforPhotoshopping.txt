@@ -1,0 +1,17 @@
+@summary
+open the image that you want to change in the image editor of your choice and select the cloning tool (in adobe photoshop it is a rubber stamp icon).
+
+@summary
+zoom into the image to between 200 and 300%, focusing on the part where you want to clone your pixels to.
+
+@summary
+start cloning in easier areas, such as in sky or on very smooth or dark textures, first.
+
+@summary
+do not rush while working.
+@article
+ Carefully choose which part of the image you want to clone away.;
+, This is done not only to give you a better view for fine details, but also to make sure you work on a smaller area of the photo at a time. From this area, select the pixels that you want to clone from. In Adobe Photoshop this is done by holding down the Alt or Option key while selecting the proper area. Choose an area that is near the part of the image that you want to cover to make sure that the colors and patterns match as closely as possible. For example, to clone over a person standing in front of a wall, take advantage of nearby wall textures.
+ Select a nearby area and then click to clone that area over the part to be obscured. Use small strokes and take your time with detailed areas. Be sure to zoom back out from time to time to check on your progress as it is very difficult to spot mistakes while zoomed in. If you do make a mistake, use the Undo (Control-Z) command to undo the last stroke you made.
+ Experiment with cloning specific details onto your image by picking sections that are farther away from the cloned area. For example, when cloning over specific details, pick a matching detail from another part of the image to prevent similar sections from appearing. Pay special attention to fine lines and ridges, duplicating them from similar areas whenever possible.
+

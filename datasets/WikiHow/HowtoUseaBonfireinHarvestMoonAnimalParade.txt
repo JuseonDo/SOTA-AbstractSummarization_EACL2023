@@ -1,0 +1,32 @@
+@summary
+have the necessary items in your rucksack.
+
+@summary
+go outside and use the matches on the ground.
+
+@summary
+,
+
+@summary
+use the fish on the fire.
+
+@summary
+,
+
+@summary
+get a grilled fish after it's cooked.
+
+@summary
+,
+
+@summary
+use your watering can on the fire.
+@article
+
+
+
+Fish: You can buy them from the Fishery or fish at one of the available spots with your fishing rod.
+Matches: You can purchase them from Barbara's shop for 480 G.
+Watering can;
+,,,, You must extinguish the fire, or the Mayor will pay you a visit and lecture you.
+

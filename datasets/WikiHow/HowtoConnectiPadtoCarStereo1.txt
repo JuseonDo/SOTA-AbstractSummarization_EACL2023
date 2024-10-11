@@ -1,0 +1,49 @@
+@summary
+ensure your car stereo is compatible.
+
+@summary
+open the settings app on your ipad.
+
+@summary
+,
+
+@summary
+tap "bluetooth" then tap the bluetooth slider to toggle it on.
+
+@summary
+,
+
+@summary
+open the "setup" menu on your car stereo.
+
+@summary
+select the "phone" option.
+
+@summary
+select "pair".
+
+@summary
+select your stereo or car from your ipad's bluetooth menu.
+
+@summary
+enter the pin shown in the stereo's display.
+
+@summary
+wait for the connection to be made.
+
+@summary
+start playing music.
+@article
+ You'll need a car stereo that supports Bluetooth devices and audio. Many newer stereos do this, but if you have an older car you may need to install a new stereo first or use one of the other methods in this article.
+
+
+Your car stereo must support the A2DP Bluetooth profile in order to play back music from your iPad.
+If your stereo has an auxiliary jack but no Bluetooth support, you can use a Bluetooth dongle that connects to the auxiliary jack.;
+,,, This process will vary significantly depending on the stereo brand and car manufacturer.
+ Even though you are connecting your iPad, select the "Phone" option.
+ This will make the stereo begin searching for your iPad's Bluetooth signal.
+ It should appear in the list of available devices.
+ This is usually 0000.
+ This may take a few moments. You should see a message on your car stereo informing you that the connection has been made.
+ Now that your iPad is connected, you can start playing music on your car stereo. You will need to switch to the AUX or Bluetooth input.
+

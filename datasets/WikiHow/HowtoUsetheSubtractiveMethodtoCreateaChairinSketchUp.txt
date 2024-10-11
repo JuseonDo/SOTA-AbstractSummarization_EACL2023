@@ -1,0 +1,44 @@
+@summary
+start up sketchup and select the icon for creating a rectangular shape.
+
+@summary
+select the push/pull icon and then 'pull' it up somewhat.
+
+@summary
+click on the line tool icon and draw 2 straight lines perpendicular to each other.
+
+@summary
+after you have completed that, hover over the end point indicated here, using the rectangle tool, hover over the indicated endpoint here.
+
+@summary
+continuing down from the endpoint, go to the bottom of the shape and create a rectangle.
+
+@summary
+check it out to see if you are doing all right.
+
+@summary
+use the rectangle tool and the push/pull tool, create the legs.
+
+@summary
+with the push/pull tool still selected, first get one leg to look the way you want.
+
+@summary
+create a nice arched back to your chair.
+@article
+ Draw a shape and then type in the following. You don't need to type it in a certain place, just type it and your square will do what it needs to do, as per your instructions.
+
+
+
+18",18" and then Enter;
+, After doing that, type in the following:
+
+
+4' and then Enter.
+ This will form the basic seat of the chair.
+ This will make sure that your line from above continues on down.
+ This is approximately what it should look like, at this point.
+ This is what it should look like, approximately, up to this point.
+ It doesn't matter if the legs aren't all the same size, you will fix that using inference.
+ Select a spot on the chosen leg (say the one in front), and drag the mouse to the back leg. The leg will move around initially, but then it will match the other leg. Do this on both sides.
+ Select the Arc tool icon and select a spot on each side of the chair. Using the push pool tool, push it back until it is gone.
+

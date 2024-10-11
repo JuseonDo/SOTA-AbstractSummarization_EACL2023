@@ -1,0 +1,25 @@
+@summary
+select "run" from the start menu
+
+@summary
+,
+
+@summary
+type regedit and click ok.
+
+@summary
+,
+
+@summary
+the registry editor application will open.
+
+@summary
+check the subkeys run and runonce for a path to the application you wish to stop starting automatically at startup.
+
+@summary
+if you choose to delete a value, a dialog will result to confirm the deletion.
+@article
+,, Use the tree view on the left to navigate to HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\.
+ If you find such a path, right click the individual path and click "Delete" from the pop up menu.
+ Click "Yes" if you really wish to delete the selected value. Note: The above steps assume that the program is running for every user on the computer. HKEY_CURRENT_USER contains the same path and keys for the currently logged on user.
+

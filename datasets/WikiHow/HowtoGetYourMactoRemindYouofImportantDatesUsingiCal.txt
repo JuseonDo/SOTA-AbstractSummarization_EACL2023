@@ -1,0 +1,13 @@
+@summary
+open ical.
+
+@summary
+when the program loads click on the time you want a reminder for.
+
+@summary
+next to the word alarm, choose the message option.
+@article
+ You can find it in your applications folder, if you do not have it on your doc.;
+, This will automatically generate a new event. Click on the event again and you will see the option to edit the event. Name then event, then click on the word 'edit'. This will take you into the options menu for the event.
+ If you want an audio alert as well then choose 'message with sound'. Now when your designated time comes around, your Mac will remind you.
+

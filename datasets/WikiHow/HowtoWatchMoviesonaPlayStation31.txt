@@ -1,0 +1,21 @@
+@summary
+start up your ps3.
+
+@summary
+log in if needed.
+
+@summary
+,
+
+@summary
+put your dvd or blu-ray disc into the ps3.
+
+@summary
+,
+
+@summary
+start the movie.
+@article
+;
+,,, Normally the movie should start itself. If not, go to the video section in your XMB menu and press the X button on the title of your movie to start it up.
+

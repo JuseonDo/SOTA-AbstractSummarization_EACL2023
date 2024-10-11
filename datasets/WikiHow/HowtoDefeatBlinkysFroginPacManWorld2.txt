@@ -1,0 +1,17 @@
+@summary
+go to the level titled "blinky's frog".
+
+@summary
+when the frog sticks out its wooden "tongue", avoid the spiky ball attached to the end of it and butt bounce on the "tongue".
+
+@summary
+now, blinky will get angry and turn the wooden tongue into a steel tongue.
+
+@summary
+congratulations!
+@article
+;
+, Do this three times.
+ Obviously, this time, its weakness is rev rolling, since Blinky mentioned it. So, when the frog sticks out its steel tongue, avoid the spiky ball at the end of it and rev roll into its mouth. Do this three times to obtain the golden cherry.
+ You have collected the first golden fruit and beaten the first boss on Pac-Man World 2!
+

@@ -1,0 +1,30 @@
+@summary
+open your iphone's settings.
+
+@summary
+tap general.
+
+@summary
+,
+
+@summary
+tap accessibility.
+
+@summary
+,
+
+@summary
+scroll down and tap reduce motion.
+
+@summary
+,
+
+@summary
+tap the reduce motion slider.
+
+@summary
+press the home button.
+@article
+ You can do this by tapping the Settings app on one of your Home screens. It may be in a folder labeled "Utilities.";
+,,,, The button will move to the right and turn green when enabled.
+ You'll notice that the background no longer moves as you tilt your iPhone.

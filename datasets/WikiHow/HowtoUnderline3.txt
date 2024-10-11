@@ -1,0 +1,23 @@
+@summary
+highlight text and press ctrl+u.
+
+@summary
+highlight text and press command + d. this will bring put he font options in microsoft word, and allow you to select among the various underline styles.
+
+@summary
+,
+
+@summary
+highlight text and right-click the text.
+
+@summary
+underline words but not the spaces between them.
+
+@summary
+press shift + hyphen to underline blank space manually.
+@article
+ The quick key-combo for underlining text in Microsoft Word is holding Control and pressing the "U" key.
+, After right-clicking the text in Word, you should be able to select font from the options available, then select your underlining options.
+ If you want to do this, select "Words only" in the Underline style box on Microsoft Word, or select each word one at a time and underline them.
+ If you just want to draw an underline manually, hold the shift button down while you press the "-" key.
+

@@ -1,0 +1,33 @@
+@summary
+head to the project gutenberg website .
+
+@summary
+you will now be taken to the listings for the author.
+
+@summary
+click on the download tab.
+
+@summary
+,
+
+@summary
+choose the download entry labeled kindle by clicking on the blue arrow.
+
+@summary
+,
+
+@summary
+save the file.
+
+@summary
+if you did not save to the desktop, you will need to find the file and bring it to the desktop.
+
+@summary
+plug your kindle into your computer and open the documents file in the kindle.
+@article
+ You will notice a search field in the left hand corner. Here you can look for a title or author name. In this case, we will look for Jane Austen. Click on the 'Go' button.;
+, You can see all of the books that are listed by this author. When you find the book you want, click on the title.
+,, Depending on the size of your target book this may take some time. Take note of the file name, since it may not be the same as the title of your book.
+ If the file name is bugging you, this is the perfect time to re-name it to something more recognizable.
+ Then you can drag in the file from your hard drive into the Kindle documents folder. Once the file is there, your book is loaded. You can eject your Kindle and enjoy your read.
+

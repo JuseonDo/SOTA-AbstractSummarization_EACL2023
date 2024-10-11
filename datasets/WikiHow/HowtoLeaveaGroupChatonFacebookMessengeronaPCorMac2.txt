@@ -1,0 +1,24 @@
+@summary
+go to https://www.messenger.com.
+
+@summary
+select the group chat you want to leave.
+
+@summary
+click the gear icon.
+
+@summary
+click leave group.
+
+@summary
+click leave the conversation to confirm.
+@article
+ You can access Facebook’s official Messenger app for PC or macOS in any modern web browser, such as Safari or Chrome.
+
+
+If you’re not signed in to Messenger, enter your Facebook login information and click Log In.
+ All chats are listed along the left side of the screen.
+ It’s at the top of the right panel.
+ A pop-up will appear.
+ You are no longer a part of the group chat.
+

@@ -1,0 +1,36 @@
+@summary
+draw a square.
+
+@summary
+divide the square into a three-by-three grid.
+
+@summary
+,
+
+@summary
+erase the corner squares.
+
+@summary
+,
+
+@summary
+divide each remaining square into a three-by-three grid.
+
+@summary
+,
+
+@summary
+erase all the corner squares from these new grids.
+
+@summary
+repeat this process until you're satisfied with the shape.
+
+@summary
+decorate the fractal.
+@article
+ The bigger the square, the more iterations you'll be able to draw.
+
+
+Make sure you don't make the lines too visible, as we will erase most of them later.;
+,,,, This is the second iteration of the Vicsek fractal.
+ Remember the pattern: divide into nine squares, erase the corners, divide in nine squares, erase the corners, etc., This is completely optional, but try drawing some different patterns, you never know what new patterns will unfold.

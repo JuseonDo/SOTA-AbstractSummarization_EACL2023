@@ -1,0 +1,29 @@
+@summary
+download all the rooting files for tab 4, in addition to the odin file that will initiate the rooting process.
+
+@summary
+,
+
+@summary
+extract the rooting files in any folder on your desktop.
+
+@summary
+,
+
+@summary
+enter your galaxy tab 4 into the download mode by holding the volume down button and home key buttons simultaneously.
+
+@summary
+connect your device to a computer with a usb cable.
+
+@summary
+click on the pda tab button from odin to choose the ‘tar’ file that you received after extracting the firmware package by clicking on ‘start’ on the odin panel.
+
+@summary
+wait for the reboot.
+@article
+,, Switch On your device while holding these keys.
+ Subsequent to this, the ID: COM section will display a blue or yellow light that is indication towards all the drivers being installed successfully.
+ Your Galaxy Tab 4 now goes into the update mode. The entire update process may take around 4 to 5 minutes to complete, after which the entire rooting process is finalized.
+ After the completion of the update process, your Galaxy Tab 4 reboots automatically which means it is rooted completely and you are good to go with a rooted Samsung Galaxy Tab 4. To check whether your Galaxy Tab 4 is rooted, you can use the root checker application that is available for download across various portals on the internet.
+

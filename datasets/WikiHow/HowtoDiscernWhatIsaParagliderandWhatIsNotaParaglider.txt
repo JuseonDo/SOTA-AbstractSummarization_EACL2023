@@ -1,0 +1,34 @@
+@summary
+locate the tethers.
+
+@summary
+find the wings.
+
+@summary
+find out how the aircraft deals with free falling mass.
+
+@summary
+check to make sure the tether maintains tension.
+
+@summary
+if there are other objects in the aircraft that have the potential to propel the aircraft up or forward, then are those in "off" status?,
+
+@summary
+when the aircraft is set into free-fall, does the aircraft glide even a small positive amount?
+
+@summary
+,
+
+@summary
+with the above steps cleared, one probably has a paraglider in focus.
+
+@article
+ Does the aircraft have one or more tethers? At least one tether is needed.;
+, Does the aircraft have one or more wings? At least one wing is needed. It is narrow perspective and false to force soft canopy for the set of wings; certainly there are soft-canopy paragliders, but there are also stiff-framed paraglider; and fully solid wings may be the wing or wings of a paraglider.
+ Does the aircraft have a freely falling mass at the lower end of the tether or tethers? Some mass is needed to be pulled by gravity at the end of the tether or tethers that go up to the wing or wings.
+ In flight, does the tether generally stay in tension because of the deflective actions of the coupled wing or wings with the mass at the lower end of the tether or tethers?
+
+, A paraglider is unpowered; if powered, then it becomes a powered paraglider.
+, You will notice that some "hang gliders" that are not regularly called paragliders are actually mechanically paragliders. You have done the steps of HOW TO discern an aircraft type. Congratulations!
+
+,

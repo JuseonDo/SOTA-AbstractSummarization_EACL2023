@@ -1,0 +1,22 @@
+@summary
+find an old plastic trash can with lid.
+
+@summary
+fill the can with clean filtration material.
+
+@summary
+,
+
+@summary
+submerge a waterproof pump into the pond.
+
+@summary
+turn on pump.
+
+@summary
+finished.
+
+@article
+ Create a drainage hole in the can, on the side near the bottom. Position the can so that run-off from the drainage hole will return to pond.;
+,, Run the exit pipe from the pump to the top of the filled can.
+ Water will flow out to top of can, through filter material, back out through drainage hole and into pond.

@@ -1,0 +1,31 @@
+@summary
+open notepad and type down the basic html structure.
+
+@summary
+put the <div> tag inside the body tags.
+
+@summary
+in the <style>, give the <div> an id and set its height, width, background-color, etc.
+
+@summary
+put the <span> tag and write some text and then close it with </span>.
+
+@summary
+give you span an id and set its properties.
+
+@summary
+don't forget to enjoy!
+@article
+ It basically contains body inside HTML.;
+, You must remember that div is a container tag so it must have a </div> after it, like <div> </div>
+
+
+<div> is used to make divisions on the page, so you can even use div tags inside a <div>.
+
+
+
+You can use # for making an ID for your <div> or just simply write div and set its height, width, etc. But when you have many divs, its better to use an ID.
+ The span tag is generally used to select a part of line and apply some properties to it. However you can use it for selecting more than a single line.
+ You can have multiple spans in a line.
+ Coding is poetry, match the rhymes and have a long journey!
+

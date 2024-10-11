@@ -1,0 +1,19 @@
+@summary
+click the start button.type "msconfig".hit ↵ enter.click the startup tab.
+
+@summary
+click the checkbox next program or service from the list.
+
+@summary
+click ok.
+@article
+ This is in the lower left corner of the screen.
+
+You can also hit ⊞ Win to perform this without the mouse.
+,,, Checked indicates that the service is enabled, while unchecked indicates it is disabled.
+
+You can click Disable All to prevent all startup programs at once.
+ This will save your changes and close the window. The deselected items will no longer launch on startup.
+
+You can also click Apply to save the changes without closing the window.
+

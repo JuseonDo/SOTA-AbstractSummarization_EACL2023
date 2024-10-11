@@ -1,0 +1,26 @@
+@summary
+fill a bucket with tap water that is the same temperature as what is in the tank.
+
+@summary
+add any necessary additives, like salt for a saltwater tank, or nitrates/potassium.
+
+@summary
+check the ph balance of the water.
+
+@summary
+use the siphon to put the water back into the tank.
+
+@summary
+test the water again after an hour to make sure it has the right chemical balance.
+
+@summary
+,
+
+@summary
+finished.
+
+@article
+ Use a bucket that is only for the aquarium so that you don’t get other chemicals and contaminants in the water. If the tap water is not the right temperature, you can leave it out for a few hours at room temperature.
+ Always add a water conditioner (with Stress Zyme if you need some slime coat protection) to get rid of the chloramines/chlorine. Not doing so will result in damage to fish gills and a slow death!, If you are using straight tap water, you will need to put some neutralizer in it and let it set for a minute. Test it again before putting it into the tank.
+ This is better than pouring it in because it won’t upset the fish or the decorations.
+,

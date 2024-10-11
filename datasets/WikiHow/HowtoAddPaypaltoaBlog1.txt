@@ -1,0 +1,4 @@
+@summary
+go to the paypal website and click on the "sign up" link if you don't already have an account on paypal.
+@article
+ You will need to fill out and submit a registration form. You can then return to the PayPal homepage and use the email address that you submitted and your chosen password to log in.;

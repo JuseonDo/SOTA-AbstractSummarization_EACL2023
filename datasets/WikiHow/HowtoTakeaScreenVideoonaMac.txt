@@ -1,0 +1,14 @@
+@summary
+go to launchpad in your applications bar.click on 'quick time player' and click 'file' at the top of your screen.
+
+@summary
+then, scan down the list and click 'new screen recording'.
+
+@summary
+a bar will come up on your screen with the classic record button on it.
+
+@summary
+finally, save it!
+@article
+ It'll be at the bottom of your page.
+, It will then say "Click the screen if you want to record the whole screen or click and drag where you want the video to be.", Click on the record button and it will change to a stop button. You can move the bar or leave it in the screens view. When you want to stop the video, just click the stop button and a window will open with your video., Now you can do what ever you want with it!

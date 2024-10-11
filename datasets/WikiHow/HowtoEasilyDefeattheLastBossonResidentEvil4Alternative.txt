@@ -1,0 +1,24 @@
+@summary
+begin the final boss fight with osmund saddler.
+
+@summary
+shoot the eyes located on his legs.
+
+@summary
+shoot the explosive barrels positioned around the area whenever saddler is near them, as this stuns him and causes him damage.
+
+@summary
+continue mixing the attacks in steps 2 and 3.
+
+@summary
+pick up the rocket launcher and equip it.
+@article
+ Press the "Dodge" button when prompted during his attacks; it will give you a split second to hit the correct button and get out of the way unscathed;
+, When he is stunned from a shot to one of these eyes, run up to him and press the button prompted, to climb onto him and stab his main eyeball
+
+, Climb onto the walkway at either end, and press the switch when he is close, to cause the scaffolding to crash onto him
+
+, Wait for Ada to throw you a rocket launcher after you have hurt Saddler badly enough; she will throw it automatically when that threshold has been reached
+
+, Wait for Saddler to approach you, and shoot him with the rocket launcher once to defeat him
+

@@ -1,0 +1,31 @@
+@summary
+talk to raminus polus in the arcane university, located in the imperial city about vampirism.
+
+@summary
+upon arrival at castle skingrad, find janus hassildor's steward, hal-liurz, in order to contact hassildor.
+
+@summary
+travel to drakelowe and talk to the witch melisande.
+
+@summary
+the next step is to collect the following ingredients:
+
+@summary
+six cloves of garlic
+
+@summary
+five nightshade leaves
+
+@summary
+two bloodgrass shoots
+
+@summary
+blood of an argonian
+
+@summary
+dust of the powerful vampire, hindaril
+
+@article
+ He will refer your character to Count Hassildor of Skingrad.
+ Once Hassildor comes, he explains that he and his wife are vampires. He lives with it, but his wife, Rona Hassildor, could not and slipped into a coma. Hassildor wants the cure, and tells of a witch that lives near the Corbolo river, south of Cheydinhal in Drakelowe.
+ She will say that she requires five empty grand soul gems before she will help with the cure. Once these are delivered, she asks for a number of ingredients to make the cure. Most can be purchased, but it is not easy to buy items when in the advanced stages of vampirism.

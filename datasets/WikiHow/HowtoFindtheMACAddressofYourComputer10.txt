@@ -1,0 +1,8 @@
+@summary
+click on the network icon.
+
+@summary
+open the network status.
+@article
+ This is located in the lower-right corner of the desktop, and looks like 4 radiating bars.
+ In this menu, click on the “i” icon, located in the lower-right corner. A message will appear listing your device’s MAC address.

@@ -1,0 +1,59 @@
+@summary
+open mozilla thunderbird.
+
+@summary
+find the little "insert" icon on the tool bar (shown in the image).
+
+@summary
+click on the "image" option.
+
+@summary
+ click on "choose file" button.
+
+@summary
+,
+
+@summary
+find an emoticon you want to insert.
+
+@summary
+click "open".
+
+@summary
+click "ok".
+
+@summary
+,
+
+@summary
+do the same procedure for every emoticon you intend to insert.
+
+@summary
+when you are happy with how your email looks, press the "send" button.
+@article
+ Write an email like you usually do,  remembering to enter your addressee's email.
+
+
+The image shows how the email will look like before adding the icons.;
+,
+
+
+Click on the Insert icon to get a pull-down menu.
+
+
+
+This option will open a new  window.
+, Highlight it (see image).
+
+
+
+It will automatically insert the icon's link into a little "image location" window.
+,
+
+
+This image shows how the email looks like after inserting  a few icons.
+
+
+
+Decorate your email in this way for any special occasion.
+

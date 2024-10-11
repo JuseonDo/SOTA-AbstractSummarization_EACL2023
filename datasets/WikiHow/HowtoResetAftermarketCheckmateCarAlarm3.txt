@@ -1,0 +1,13 @@
+@summary
+sit in your driver’s seat.
+
+@summary
+wait for the alarm to reset.
+
+@summary
+turn the key to the “on” position.
+@article
+ Be patient and the alarm will reset itself.
+ Once the alarm resets it will still be armed, but will not be activated.
+ This will disarm your alarm, effectively resetting it.
+

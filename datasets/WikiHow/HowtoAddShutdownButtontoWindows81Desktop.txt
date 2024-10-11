@@ -1,0 +1,17 @@
+@summary
+navigate to the c:\windows\system32 folder.
+
+@summary
+create a shortcut to this executable file.
+
+@summary
+navigate to the desktop and right click on the shortcut you created.
+
+@summary
+click on the shortcut you created above or use a keyboard shortcut if you have configured it.
+@article
+ Scroll down until you find SlidetoShutdown.exe. Double click on it to bring up the shutdown screen.;
+, Right click on Slidetoshutdown.exe and select Send to-Desktop create shortcut as in the image.
+ Select properties. Here you can configure a keyboard shortcut to SlidetoShutdown.exe. You can also drag the shortcut to the Taskbar for easy access.
+ You will experience a grand new way of shutting down your PC. Pull down the screen like a curtain and the shutdown process will start.
+

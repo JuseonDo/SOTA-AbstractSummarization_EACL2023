@@ -1,0 +1,13 @@
+@summary
+post a status update.
+
+@summary
+go to the page.
+
+@summary
+scroll to the status update bar.
+@article
+ Status updates are only visible in the news feeds of fans briefly. They will always be visible on your page, however there is no formal notification outside of the visibility in their news feed.;
+, As the page administrator, use your search bar to arrive at the fan page itself.
+ It says "What's on your mind?" Fill out the update and press "Post".
+

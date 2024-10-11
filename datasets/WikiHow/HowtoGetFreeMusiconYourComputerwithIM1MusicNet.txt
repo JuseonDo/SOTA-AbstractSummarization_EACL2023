@@ -1,0 +1,24 @@
+@summary
+open any web browser.go to http://www.im1music.net/
+
+@summary
+,
+
+@summary
+there will be a bar across the top with the headings: tracks, albums and videos.
+
+@summary
+unzip the album, if needed.
+
+@summary
+enjoy listening to the music.
+@article
+
+
+
+
+ ;
+,, Select tracks to download just one song, select albums to download whole albums at a time, and select videos to download videos. You may download more than one thing at a time.
+ A good application for this is WinZip or even WinRAR. Search for these in Google to get them.
+ iTunes is best for putting the music on your iPod, and also for other mp3 players and phones, although Sony's MediaGo application is just like iTunes, but for PSP's.
+

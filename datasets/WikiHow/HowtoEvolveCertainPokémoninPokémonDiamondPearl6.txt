@@ -1,0 +1,9 @@
+@summary
+details below.
+@article
+
+
+
+Gligar > Gliscor : Evolves when it has Razor Fang at night.
+Sneasel > Weavile: Evolves when it has Razor Claw at night.
+

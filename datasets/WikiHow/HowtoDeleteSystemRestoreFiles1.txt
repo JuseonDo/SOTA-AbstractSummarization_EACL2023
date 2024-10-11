@@ -1,0 +1,22 @@
+@summary
+access the main menu by selecting "start.",
+
+@summary
+choose the "(c:)" drive from the drop-down menu and then press "ok."
+
+@summary
+,
+
+@summary
+choose the tab marked "more options" once disk cleanup has finished running its task.
+
+@summary
+choose "yes" on the dialogue box to delete all old system restore files, except for the most recent.
+@article
+ Hover your cursor arrow over "All Programs," then the folder titled Accessories, and then System Tools. Click on the program called "Disk Cleanup.";
+,, Under the heading "System Restore," click on the "Clean up" button.
+
+
+
+Windows will continue to create new restore points after running this task, so if you would like to frequently free up space on your drive, you will need to perform the process regularly.
+

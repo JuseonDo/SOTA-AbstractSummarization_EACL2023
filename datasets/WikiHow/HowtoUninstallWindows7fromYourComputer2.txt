@@ -1,0 +1,102 @@
+@summary
+boot into the operating system you want to keep.
+
+@summary
+download easybcd.
+
+@summary
+click the start menu and select "run".
+
+@summary
+enter "diskmgmt.msc" and press enter.
+
+@summary
+find the volume that has the "system" status.
+
+@summary
+start easybcd.
+
+@summary
+,
+
+@summary
+click "bcd backup/repair".
+
+@summary
+,
+
+@summary
+select the "change boot drive" option and click "perform action".
+
+@summary
+,
+
+@summary
+ensure that the drop-down menu says "c:\" and click "ok".
+
+@summary
+,
+
+@summary
+return to the disk management screen.
+
+@summary
+right-click on the volume that contains windows 7 and select "delete volume".
+
+@summary
+right-click on the newly-deleted volume and select "delete partition".
+
+@summary
+,
+
+@summary
+right-click on the volume to the left of the new free space.
+
+@summary
+open easybcd if it isn't already.
+
+@summary
+click the "edit boot menu" button.
+
+@summary
+,
+
+@summary
+select windows 7 from the list and click "delete".
+
+@summary
+,
+
+@summary
+click "bcd backup/repair".
+
+@summary
+,
+
+@summary
+select the "reset bcd configuration" and click "perform action".
+
+@summary
+,
+
+@summary
+click "add new entry" and select your current operating system from the type menu.
+
+@summary
+,
+
+@summary
+ensure that the drive drop-down menu is set to c:\ and then click "add entry".
+@article
+ When deleting Windows 7 from a multiboot environment, you'll need to make sure that your boot manager is copied and configured to boot from the remaining operating system. This is typically only necessary if Windows 7 was the first operating system installed on the computer.
+ This is a boot manager configuration tool that will allow you to adjust your boot manager while deleting Windows 7. You can download the Non-commercial version for free from neosmart.net/EasyBCD/#comparison.
+ You can also press the Windows key + R.
+ This will open the Disk Management window.
+ You can expand the Status column if you can't see enough. The volume with the "System" status is the volume that contains the boot manager. If your Windows 7 volume is the one marked "System", read on to the next step. If the volume for your other operating system is marked "System", skip down to Step 10
+
+,,,,, Now that the boot manager has been copied, you can safely start the deletion process.
+ You will be asked to confirm that you want to delete the volume.
+, Select "Extend Volume" and add the newly created free space to it.
+ You'll now need to reconfigure your boot manager so that it boots properly into your remaining operating system.
+,,,,, Your system will now boot properly to your remaining operating system.Repeat this for any additional operating systems you still have installed.
+

@@ -1,0 +1,37 @@
+@summary
+click on the apple menu.
+
+@summary
+click on system preferences.
+
+@summary
+,
+
+@summary
+click on keyboard.
+
+@summary
+click on input sources.
+
+@summary
+click on +.
+
+@summary
+click on a number/language format.
+
+@summary
+click on add.
+@article
+ It's the black, apple-shaped icon in the upper-left of your screen.
+, It's near the center of the preferences window.
+
+
+If you don't see all of the System Preferences icons, click on ⋮⋮⋮⋮ in the top bar of the dialog box.
+ It's near the top of the dialog box.
+ It's below the pane on the left side of the dialog box.
+ They're listed alphabetically by language in the left pane of the dialog box.
+ You've now changed the number format to that of the corresponding language. For example, if you select Bengali, the number keys will display Bengali characters.
+
+
+Check the box next to "Show input menu in menu bar," at the bottom of the dialog box, so you can toggle between number formats and keyboard languages.
+

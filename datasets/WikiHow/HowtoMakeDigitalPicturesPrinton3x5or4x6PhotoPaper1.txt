@@ -1,0 +1,39 @@
+@summary
+choose an appropriate printer.
+
+@summary
+insert your memory card or your usb cable into the printer.
+
+@summary
+load the appropriate ink and paper into your printer.
+
+@summary
+,
+
+@summary
+touch "photo" on the printer's touchscreen home screen.
+
+@summary
+use the arrows to scroll through your images until you find the image that you want to print.
+
+@summary
+,
+
+@summary
+touch "edit" to edit your photo, if desired.
+
+@summary
+,
+
+@summary
+tap "print" and choose the number of copies that you want.
+@article
+
+
+
+To bypass your computer, you'll need to make sure that you purchase a printer that can directly connect with your camera or your smartphone.
+Some printers can print directly from your memory card. Other printers require you to connect your digital camera or smartphone via USB. Some cameras even offer wireless connection to a printer.;
+, If you're using a USB cable, connect the opposite end to your camera or smartphone.
+, Then, touch "View & Print" to select your photo source.
+,, View the preview of the photo. If you like it, print it.
+

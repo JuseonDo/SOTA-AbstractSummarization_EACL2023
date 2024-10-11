@@ -1,0 +1,46 @@
+@summary
+have some categorized data available.
+
+@summary
+open a new workbook in excel from the desktop, from the dock, or from your applications folder inside the microsoft folder.
+
+@summary
+go to preferences.enter to cell m11, zoo animals.enter to cell p11, count.enter to cell l12, 1.
+
+@summary
+select cell range l12:l19 and do edit-fill-series-(columns-linear-step value=1).
+
+@summary
+enter the following animal names to cells m12 to m20: camels, elephants, hippopotami, monkeys, rhinoceri, spiders, tigers, lions and total.
+
+@summary
+enter beneath count in cells p12 to p19 the counts per animal type: 54, 30, 30, 105, 12, 60, 6, 3.
+
+@summary
+,enter to cell p20 the formula =sum(p12:p19).
+
+@summary
+select columns l to p at top and format cells > alignment > (horiz.),
+
+@summary
+enter to cell n12 the formula =p12/$p$20.copy cell n12 and paste it to cell range n13 to n20.select cell range n12:n19 entirely.on the ribbon, select the charts button.select the pie icon.
+
+@summary
+select the plain old 2-d simple pie chart at upper left for now.
+
+@summary
+select along the edge of the chart and drag it away from the data.save the file.
+
+@summary
+adjust the appearance if needed.
+@article
+ It would be helpful if it added up to 100%. This article will provide example data and you can substitute in your own. Above is a picture of the finished example.
+ Double click on Excel (either the green X on the dock or the app title in the folder) and select File New Workbook., In General, set R1C1 to unchecked or Off; in Ribbon, set Ribbon to checked or On; and in View, set Show Formula Bar by Default to checked or On.,,,, Then Hit OK.,,,, Center., The $ signs in "$P$20" make hat an "absolute reference" that does not change automatically as you copy and paste the formula to other cells.
+
+"Relative references" (those without dollar signs) do change automatically. Recommended: investigate the results of the next step in each cell to learn the difference between relative and absolute references.
+,,,, The pie chart will appear with the top right area showing 18% of the chart for Camels; the next right area will be 10% for Elephants and the area next clockwise down will be 10% for Hippos, and the next (largest area on the boom) will be 35% for Monkeys. You have successfully created the pie chart you wanted., Hover the mouse over the corners or edges until the mouse cursor turns into a double-headed arrow and then pull to expand or push to shrink the chart to that it looks good beside your data, and will print out nicely if you are opting to print your work.,, There is a way to substitute the categories for the category numbers given beside the series colors in the chart legend:
+
+Click inside the chart right on one of the chart sections itself and notice up in the formula bar that the following formula appears =SERIES(,,Sheet1!$N$12:$N$19,1).
+If you modify it to read =SERIES(,{"Camels","Elephants", "Hippopotami","Monkeys","Rhinoceri","Spiders","Tigers","Lions"},Sheet1!$N$12:$N$19,1), then the category names will be substituted for the automatic category list-numbers. This is an array. Yes it's a pain but each category must be in quotes w/ no spaces, separated by commas and the whole in braces.
+You may want to resize the legend a bit to correct for formatting problems.
+

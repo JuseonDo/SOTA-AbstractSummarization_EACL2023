@@ -1,0 +1,49 @@
+@summary
+open the task manager.
+
+@summary
+if you know what process you have to terminate, go directly to the "processes" tab in the task manager, and select your process.
+
+@summary
+now right-click on it and select "go to process".
+
+@summary
+now, right click on your process, and select "end process".
+
+@summary
+your process has now been terminated!
+
+@article
+ You can do this by
+
+Right-clicking on the taskbar and choosing "Task manager"
+
+
+
+ 
+
+
+Pressing the ctrl, shift and the esc keys together
+
+
+
+
+
+
+Opening the run dialog box and typing in taskmgr or
+
+
+
+
+
+
+Pressing ctrl, alt and delete together and then selecting "Start Task Manager".
+
+
+
+
+
+;
+, If you do not know your process, first go to the "Applications" tab and select your application.
+ This will take you to the Processes tab and highlight your desired process.
+ The Task Manager will ask you for a confirmation. Hit "End Process".

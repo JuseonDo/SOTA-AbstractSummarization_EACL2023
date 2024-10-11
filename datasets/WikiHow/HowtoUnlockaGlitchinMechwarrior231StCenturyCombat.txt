@@ -1,0 +1,15 @@
+@summary
+choose your chassis and strip it of every single thing equipped to it except armour.
+
+@summary
+once your mech is powered up, self-destruct (ctrl+alt+x) and go to the mech lab after the debriefing.
+
+@summary
+,
+
+@summary
+go to your saved variant and go to the customize screen.
+@article
+ That means weapons, MASC, Engine power, heat sinks,\ and anything that lightens the mech up like ferrous fibre, endo skeleton, or the engine lightweight attachment. Then save the variant and start a mission.;
+,, The heat sink count should be in the negative number range. Now you can reduce your count to almost infinity and you will be able to put anything on it, like a maxed out engine, jump jets and armour.
+

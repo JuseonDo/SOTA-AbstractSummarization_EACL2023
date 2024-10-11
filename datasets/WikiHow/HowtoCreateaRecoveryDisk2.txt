@@ -1,0 +1,34 @@
+@summary
+press ⊞ win+e to launch search, then type “backup.”recovery discs are called “system repair discs” in windows 7.
+
+@summary
+click “backup and restore” in the search results.
+
+@summary
+click “create a system repair disc.” the link is on the left side of the screen.
+
+@summary
+select the cd/dvd rom drive from the dropdown menu.
+
+@summary
+insert a blank disc into the drive.
+
+@summary
+click “create disc.” as the data burns to disc, the green progress bar will grow in length.
+
+@summary
+,
+
+@summary
+click “close” when the process is complete.
+@article
+ In the event of an operating system emergency, you’ll be able to boot from your system repair disc and access both repair and recovery/restore options.
+ This will launch the Backup and Restore center, which is also where system repair/recovery discs are made.
+
+
+
+If you’re prompted to enter a Windows installation disc, do so and follow the prompts. You’ll only see this message if the files necessary to create a recovery disc are missing.
+ Upon choosing your CD/DVD ROM drive, the drive will pop open.
+ The disc can be either a CD or DVD, and should be completely blank.
+, When the CD/DVD is ready, click “Close.” The drive tray will eject.
+

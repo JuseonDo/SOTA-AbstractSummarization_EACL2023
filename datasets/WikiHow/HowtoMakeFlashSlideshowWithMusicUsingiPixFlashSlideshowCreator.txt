@@ -1,0 +1,35 @@
+@summary
+click here to download flash slideshow creator and install it.
+
+@summary
+create a new slideshow and add photos.
+
+@summary
+select a flash template.
+
+@summary
+,
+
+@summary
+decorate the flash slideshow with transition effects and cliparts.
+
+@summary
+,
+
+@summary
+set the "intro and end" for the flash slideshow or disable them if you don't like it.
+
+@summary
+,
+
+@summary
+click the effect box to select effects, including swift and push effects to make the slideshow more vivid.
+
+@summary
+publish the flash slideshow.
+@article
+;
+, After launching the program, click the "New" button to start a new slideshow, a pop-up window as the picture below will guide you to import photos and start your journey.
+,,, You can choose an effect and set the transition and photo duration for each separate slide or apply the same transition effect to all slides. And then,select the photo frame for each slide or apply one to all. Finally, drag and drop the cliparts to decorate the slideshow.
+ Now go to the last step by clicking "Publish". Set output options such as Size, Flash option, Photo option and Loop Style before making the SWF File. Otherwise, you can make Html File,Executable,Screen saver or even Send by Email with Flash Slideshow Creator.
+

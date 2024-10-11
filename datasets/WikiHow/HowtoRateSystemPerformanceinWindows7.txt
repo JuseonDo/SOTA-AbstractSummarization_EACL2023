@@ -1,0 +1,31 @@
+@summary
+go to the start menu.
+
+@summary
+in the start menu textbox, type "check the windows experience index.",
+
+@summary
+click "check the windows experience index.",
+
+@summary
+now, rate your system by clicking "re-run the assessment.",
+
+@summary
+analyze your results.
+
+@summary
+for more information about your computer's performance, click on "what do these numbers mean?",
+
+@summary
+consider which hardware component to upgrade.
+@article
+;
+,
+
+,
+
+, Make sure that your PC is plugged-in before running the assessment.
+ Look at the processor, memory, and graphics rating and see which one has the lowest number. The areas with the lowest number is considered an area of potential improvement or upgrade.
+ Generally, if your system rates below a 3.0, you will need to upgrade your hardware for a faster PC.
+ For example, if you want more graphics for gaming, upgrade your graphics card. A graphics card upgrade will also improve your Windows Aero performance and the general performance of your PC.
+

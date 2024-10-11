@@ -1,0 +1,9 @@
+@summary
+sign up to get 5 gb.
+
+@summary
+refer friends to flipdrive.
+@article
+ FlipDrive provides 5 GB of free storage for new users.
+ You can get an additional 500 MB storage for every referral who starts using FlipDrive.
+

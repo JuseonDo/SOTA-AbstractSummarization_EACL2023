@@ -1,0 +1,14 @@
+@summary
+open the starcraft ii launcher on your computer.
+
+@summary
+navigate to the battle.net site at https://us.battle.net/support/en/blog/9064003/.click on “claim game key,” then log into your existing battle.net account.
+
+@summary
+follow the on-screen instructions to activate heart of the swarm.
+
+@summary
+select “heart of the swarm” from the starcraft ii launcher after activating the game.
+@article
+ This is the program you normally use to access and play Starcraft II: Wings of Liberty. Upon opening the launcher, the program will optimize your existing game files and download any pending updates from the Battle.net servers.
+ This page allows you to claim your unique game key for Heart of the Swarm. Heart of the Swarm is automatically available for all players who have purchased and installed Wings of Liberty.,, The website will guide you through using the game key to activate Heart of the Swarm., Heart of the Swarm will launch, and can be accessed from the Starcraft II launcher going forward.

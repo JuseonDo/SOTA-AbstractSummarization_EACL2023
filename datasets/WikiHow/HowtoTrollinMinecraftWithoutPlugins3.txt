@@ -1,0 +1,18 @@
+@summary
+get into someone's faction.
+
+@summary
+steal their stuff, escape to your home, then leave the faction.
+
+@summary
+leave the faction then kill everyone.
+
+@summary
+destroy a large segment of their base then blame it on another faction.
+@article
+ Then type ./f home to teleport to their base.
+ Be sure to return the stuff afterwards!
+
+, You will have to leave to harm your faction members.
+ This will cause your faction to start battling the one you blamed it on. Be sure they are stronger, to kill your people! Also secretly flee so you don't get killed.
+

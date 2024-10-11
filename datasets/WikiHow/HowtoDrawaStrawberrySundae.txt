@@ -1,0 +1,41 @@
+@summary
+draw the shape of an inverted bell.
+
+@summary
+draw the base just as shown in the accompanying illustration.
+
+@summary
+,
+
+@summary
+now draw a silhouette of a strawberry.
+
+@summary
+draw zigzag lines to separate the strawberry, whipped cream and vanilla ice cream from each other.
+
+@summary
+,
+
+@summary
+draw lines and shapes for the strawberry sauce.
+
+@summary
+on the base, draw two lines.
+
+@summary
+color the strawberry with green and red.
+
+@summary
+add small dots to the strawberry.
+
+@summary
+draw some lines to define the whipped cream.
+@article
+ However, leave the top part open by not drawing it in.;
+,, Under it, draw the whipped cream, then the ice cream below it.
+, Any irregular shape and squiggly lines will do.
+ One short line below the bottom of the glass and one longer line near the bottom.
+ You can color the strawberry sauce with red too. The glass should appear darker at the bottom and lighter on top. The base should appear darker at the top and lighter at the bottom.
+ Create a row of small ovals tilted to about 30 degrees. The next row of ovals should not be aligned with the ovals on top but should be aligned with the spaces.
+ Shade the strawberry sauce and the glass with a lighter shade of red. The glass at the bottom, shade with a darker shade of red. Enjoy your treat!
+

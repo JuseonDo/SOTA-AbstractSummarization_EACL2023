@@ -1,0 +1,33 @@
+@summary
+open network connections to set up network settings in ubuntu.
+
+@summary
+under the “wired” tab, click on “auto eth0” and select “edit.",
+
+@summary
+click on “ipv4 settings” tab.
+
+@summary
+check the ip address settings.
+
+@summary
+type the following command into terminal: “sudo ifconfig” without quotes.
+
+@summary
+,
+
+@summary
+get your new addresses.
+@article
+ Go to “System”, “Preferences” and chose “Network Connections.";
+,
+
+, Chose the “Automatic (DHCP)” option if your network has a DHCP server. The DHCP Server has automatically assigned the IP address to your system. Click "Apply."
+
+
+You also chose the “Manual” option from the Method drop-down list and assign the IP address, netmask and gateway manually. You'll also have to assign the DNS Server address. Click "Apply."
+
+, Go to “Applications” “Accessories” and chose “Terminal."
+
+,, The Ifconfig command will show the inet address, broadcast address and mask address.
+

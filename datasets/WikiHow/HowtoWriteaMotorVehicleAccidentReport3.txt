@@ -1,0 +1,11 @@
+@summary
+include identifying and insurance information for all drivers involved.
+@article
+
+
+
+Names, birth dates, and genders
+Home addresses
+Drivers' license numbers and issuing states
+Drivers' insurance companies and policy numbers
+

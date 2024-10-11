@@ -1,0 +1,57 @@
+@summary
+orient yourself within the zone of badlands.
+
+@summary
+run or ride to new kargath.
+
+@summary
+find the path at x: 12, y: 50 that leads up and to the west.
+
+@summary
+arrive inside searing gorge at a small encampment of thorium brotherhood non-player characters (npcs).
+
+@summary
+,
+
+@summary
+choose the left fork of the "y" in the road and continue southwest to blackrock mountain.
+
+@summary
+head up the wooden planks and enter the large door into the mountain.
+
+@summary
+turn to your right and follow the ring downhill.
+
+@summary
+,
+
+@summary
+enter the first arched opening on your right and exit the mountain.
+@article
+
+
+
+The Uldaman dungeon and Angor Fortress are in the northern part of the zone.
+The main Horde city of New Korgath is at the western edge of the zone. You can find a flight path there.
+The only other Horde flight path in the Badlands is at Bloodwatcher Point, although you can find a neutral flight master at Fuselight, in the eastern area south of Camp Kosh.
+The Alliance maintains a presence in two areas of Badlands: Dustwind Dig and the Dragon's Mouth.;
+, You want to circle to the rear of the city by moving counter-clockwise from east to west.
+ The path is marked by flaming torches.
+
+
+After the path peaks, continue following it downhill and into the Searing Gorge zone.
+,
+
+
+Be sure to pick up the neutral flight path at the foot of the mountain.
+
+
+
+Inside the mountain, you will find yourself on a tilted ring of stone. There will be a floating chunk of rock chained to the sides of the ring.
+,
+
+
+You will receive the message that you have entered Burning Steppes at the bottom of the ramp leading you out of Blackrock Mountain.
+A neutral flight path can be found in the middle of the zone at Chisel grip.
+Members of the Alliance should also pick up the path at Morgan's Vigil in the southeast, while Horde players should make their way to Flame Crest in the north central section.
+

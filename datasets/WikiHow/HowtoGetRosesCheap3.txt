@@ -1,0 +1,17 @@
+@summary
+browse the farmers market for roses.
+
+@summary
+locate a vendor that sells discounted roses.
+
+@summary
+choose the type of roses you need.
+
+@summary
+pay for the roses.
+@article
+ Many vendors have their booths set up on the outside corners.
+ Many vendors sell a dozen roses for around $10 to $15; however, these prices vary from state to state.
+ Proceed to checkout.
+ Some vendors may give you a discount if you purchase a variety of flowers, so if you need other types of flowers you may also get these for an even cheaper price.
+

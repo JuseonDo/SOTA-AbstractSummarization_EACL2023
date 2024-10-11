@@ -1,0 +1,32 @@
+@summary
+draw a circle for the head.
+
+@summary
+add two small circles for the eyes and a small square for the nose.
+
+@summary
+add two small triangles for the ears.
+
+@summary
+add a small circle for the upper body and a large oval for the lower body.
+
+@summary
+add two small ovals for the front legs and three ovals, a large one and two small ones for the back legs.
+
+@summary
+draw a short tail for the ferret.
+
+@summary
+outline the image.
+
+@summary
+now color it in.
+@article
+ Add guidelines for the facial features.
+ Use an inverted Y for the mouth, curling down from the ferret’s nose (which should be about twice the size of an eye).
+ Round them at the edges for more anatomical accuracy.
+ The upper body should overlap the head almost entirely for now. (The resulting angle will make the ferret look as though it’s turned towards you.)
+, Draw flat ovals for the paws, making sure everything stays connected.
+ It should look like what’s shown, falling in a smooth line and curving slightly where it hits the ground.
+ Draw some fur and whiskers. Erase the guidelines.
+ This ferret has the same color scheme as a skunk, which is realistic, but don’t be limited by anything.

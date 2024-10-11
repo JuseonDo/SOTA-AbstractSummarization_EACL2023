@@ -1,0 +1,25 @@
+@summary
+switch your desktop theme from windows 7 basic to windows classic theme.from here you can change the start menu, taskbar and desktop color to any color you want.
+
+@summary
+install a software like personalization panel or oceanis.
+
+@summary
+install microsoft shared view or team viewer.
+
+@summary
+install a software like classic shell.
+
+@summary
+install your favourite software from windows xp and windows vista on windows 7.
+
+@summary
+rename your folders like the documents and pictures folder to my documents and my pictures.to give them the more personal feel of windows xp.
+@article
+;
+, This will enable you to change the desktop wallpaper on Windows 7 Starter, just like you can on other editions of Windows 7.
+ This will enable you to connect from one computer to another computer.Just like Remote Desktop Connection does in the highest editions of Windows 7. And it will also enable you to transfer files from one computer to the other.
+ This gives you the Classic and Windows XP start menu found in Windows Vista and Windows XP.
+ Many of the software you use on Windows XP and Windows Vista works on Windows 7.Such as Windows Live Essentials for Windows XP,Windows Movie Maker and much more. So make the most of it by installing it on Windows 7.
+ But you can rename your folders anything you want.And put the My Computer and My Network folder icons on the desktop.And you can also change the desktop icons.
+

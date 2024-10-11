@@ -1,0 +1,21 @@
+@summary
+measure the ingredients.
+
+@summary
+stir the ingredients.
+
+@summary
+refrigerate the pitcher.
+
+@summary
+pour the mixture into wine glasses.
+
+@summary
+garnish the drinks.
+@article
+ Pour the ingredients (except the garnish) into an 80-ounce pitcher.;
+, Ensure everything is mixed thoroughly.
+ Allow the mixture to chill in the refrigerator for five hours.
+ Distribute the pitcher mixture evenly between 10 10-ounce wine glasses filled with crushed ice.
+ Wedge an apple slice on the side of each glass and serve with cocktail straws.
+

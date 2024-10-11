@@ -1,0 +1,26 @@
+@summary
+work on clearing the licorice locks from the candies positioned at the bottom right side of the playing board.
+
+@summary
+work on bringing the cherry to the right side of the board as quickly as possible.
+
+@summary
+clear any chocolate squares from the right side of the board when nearby matches are available.
+
+@summary
+match special candies with one another as often as possible to clear any existing chocolate squares and the two licorice locks.
+
+@summary
+make any possible matches on the right side of the board first, before working on matching any candies on the left side.
+@article
+ These licorice locks will prevent you from bringing the cherry to the bottom, and will be difficult to clear later on after the chocolate spawners begin releasing chocolate.Clear the licorice locks by matching the candies inside the locks with other nearby candies of the same color.
+Try creating one or more horizontal candies on the left side of the playing board to help clear the licorice locks on the right. Make a horizontal striped candy by matching four of the same-colored candies in a row, while moving the fourth candy into the match in a left or right horizontal direction.;
+, This can help prevent the cherry from getting stuck above any chocolate squares that are blocking the cherry’s path to the bottom.
+ Failing to clear chocolate can result in the chocolate dominating the right side of the board, and blocking the cherry’s path.
+ Striped + wrapped combos are highly effective, as well as color bomb + wrapped or color bomb + striped.
+
+
+Make a color bomb by matching five candies of the same color in a row.
+Make a wrapped candy by matching five candies of the same color in an L shape, T shape, or + shape.
+Make a striped candy by matching four candies of the same color in a row.
+ Any matches you make on the right side will automatically help bring down the cherry from the left side, and can also help eliminate existing chocolate squares.

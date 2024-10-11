@@ -1,0 +1,7 @@
+@summary
+make a maze.
+
+@summary
+add a scary face at end.
+@article
+, You can use the most popular one, Regan MacNeil from The Exorcist.

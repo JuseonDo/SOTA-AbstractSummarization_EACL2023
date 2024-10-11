@@ -1,0 +1,59 @@
+@summary
+get the software.
+
+@summary
+install the software.
+
+@summary
+open the software.
+
+@summary
+if you choose to start with a blank image, you will get to choose the size of it in pixels.
+
+@summary
+,
+
+@summary
+before you start any work, you want to go to image >> zoom >> fit image.
+
+@summary
+check out your opening screen.
+
+@summary
+if you choose to work on a painting, click on the presets button, then go to oils >> large cover.
+
+@summary
+to choose colors for your foreground and your background, you can click on the color that you want and right click or left click depending on which one you want.
+
+@summary
+,
+
+@summary
+choose your colors.
+
+@summary
+using your selected brush, left click on various colors and make a series of stripes.
+
+@summary
+going back to the presets button, select particles and then go to grass.
+
+@summary
+now, use whichever particles catch your eye and continue to add to your artwork.
+@article
+ PD Particles is a software program that can be found at www.thebest3d.com. Although it doesn't appear to be shareware, it can still be purchased and downloaded. Also on the site are some free software and plugins.;
+, After downloading, installing, and registering the software, you will want to play around with it.
+ When you first open the program, it will give you a choice of
+
+
+Open Blank Image
+Open From File
+Open From Clipboard
+
+,, This will make sure that what your artwork is being done on the full 'canvas', as it were. Otherwise, you will end up with a large white space on one side of it.
+ In the upper left hand corner, there is a button called "Presets ->". Click on this and you will see several options to choose from. You can go to the "Particles" option and experiment with those (which is loads of fun), or you can mess around with creating a digital painting.
+ This is a good starting point for someone just learning how to use the program until you have become more familiar with its abilities.
+, Underneath the swatches of color, there is a 'button' entitled "Wells". What those wells are, are several groupings of colors. Click on it and select pastels.
+ One suggest might be to have them gradually lightening or darkening.
+ Using that preset, drag your mouse along the bottom of your canvas however it appeals to you.
+ They make great wallpapers for your computer.
+

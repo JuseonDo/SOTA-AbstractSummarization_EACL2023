@@ -1,0 +1,28 @@
+@summary
+visit wikipedia here.
+
+@summary
+,
+
+@summary
+determine what pages you are interested in the following.
+
+@summary
+go to your user preferences page and visit the watchlist tab.
+
+@summary
+your watchlist rss feed can be found at en.wikipedia.org/w/api.php?action=feedwatchlist&wlowner=username&wltoken=token, where username is your username following the user: prefix and token is the watchlist token you saved in your preferences.
+
+@article
+, There are several ways that you can use the RSS feed, depending on which changes you want to see.
+
+
+
+For changes to any Wikipedia article, go to its history page and use the toolbox link labeled "RSS" to subscribe to this feed.
+
+For all changes, go to Special:RecentChanges and use the toolbox link labeled "RSS" to subscribe to this feed.
+
+For new pages, go to Special:NewPages and use the toolbox link labeled "RSS" to subscribe to this feed.
+To follow all edits by a particular user, go to that user's contributions page and use the toolbox link labeled "RSS".
+ Note the random string in the "token" field. This is required to access your watchlist and keeps your watchlist private.;
+,

@@ -1,0 +1,34 @@
+@summary
+open facebook messenger.
+
+@summary
+tap groups.
+
+@summary
+,
+
+@summary
+tap the conversation you want to leave.
+
+@summary
+,
+
+@summary
+tap the names of the conversation members.
+
+@summary
+scroll down at tap leave group.
+
+@summary
+,
+
+@summary
+tap leave group again to confirm.
+@article
+ If prompted, enter your username and password and tap Log in.;
+,,, This is at the top of the conversation.
+, You will no longer receive messages or notifications from the group chat.
+
+
+Other members of the group will be notified that you have left.
+You cannot leave a one on one conversation, but you can delete or mute the chat instead from the same menu.

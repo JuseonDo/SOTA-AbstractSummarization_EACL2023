@@ -1,0 +1,18 @@
+@summary
+open finder and locate the following folder: ~/library/application support/skype.
+
+@summary
+delete the file shared.xml.
+
+@summary
+,
+
+@summary
+restart skype.
+
+@article
+
+
+
+The ~ sign means your home folder. You can find your home folder by opening Finder and selecting Go > Home from the menu bar or pressing Command (Apple), Shift and H keys at the same time.
+,

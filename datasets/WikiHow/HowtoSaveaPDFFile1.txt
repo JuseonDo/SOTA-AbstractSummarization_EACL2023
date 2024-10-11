@@ -1,0 +1,17 @@
+@summary
+open a document.
+
+@summary
+click on file.
+
+@summary
+click on print….double-click on microsoft print to pdf.
+
+@summary
+name the file.select a location in which to save the file.
+
+@summary
+click on save.
+@article
+ Open the document, file, or web page that you'd like to save in PDF format.
+ It's in the menu bar at the top-left of your screen., It's near the bottom of the drop-down menu.,, Do so in the "File Name:" field near the bottom of the dialog box that opens.,, It's the lower-right corner of the dialog box. The document will be saved as a PDF file in the location you specified.

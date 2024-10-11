@@ -1,0 +1,37 @@
+@summary
+tap the “play store” icon on your home screen.
+
+@summary
+search the play store for “zedge,” then select “zedge” from the search results.
+
+@summary
+,
+
+@summary
+tap “install” to start the installation.
+
+@summary
+open zedge and tap “ringtones” to browse available tones.
+
+@summary
+select a tone, then tap the “play” button to hear a preview.
+
+@summary
+tap the downward-pointing arrow icon to download the ringtone.
+
+@summary
+select your choice from the list of sound options.you’ll see “ringtone,” “notification,” “contact,” and “alarm.” tapping one of those options will send the tone you’ve downloaded as its default option.
+@article
+ Zedge is a popular ringtone app for Android and iPhone that requires no subscription.,, Once the installation is complete, the “Install” button will change to one that says “Open”.
+ You will see options such as “Categories,” “Featured” and “Popular” that host a variety of different tones.
+
+
+If you want to search for a specific tone or song instead of browsing categories, tap the magnifying glass icon, then enter your search.
+ If you don’t like the tone, tap the back button and keep browsing.
+ Depending on your version of Android, you may be prompted to allow permission for Zedge to save files. Tap “Approve” or “OK,” if so.
+
+
+
+Tapping “Contacts” will prompt you to select a specific contact for whom to configure a ringtone.
+Choose “Notification” to assign your tone to notification events, such as incoming email and text messages.
+

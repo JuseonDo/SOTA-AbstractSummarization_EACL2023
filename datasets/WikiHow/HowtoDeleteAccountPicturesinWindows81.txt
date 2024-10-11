@@ -1,0 +1,22 @@
+@summary
+open your computer's "charms bar".
+
+@summary
+click the "settings" option.
+
+@summary
+click the "change pc settings" option.
+
+@summary
+click the "accounts" option.
+
+@summary
+click "your account".
+
+@summary
+right-click an account photo.
+
+@summary
+click "delete", then confirm your decision.
+@article
+ You can do this by moving your cursor to the top right corner of your screen, or you can hold down the ⊞ Win button and tap C. The Charms Bar is a quick-access preferences menu that will open from the right side of your computer's screen., This will bring up a list of your computer's settings options., This will take you to your computer's settings menu., This will open your personal account settings., This will take you to your account page, from which you can alter your account pictures., Make sure this one you wish to delete before proceeding., This will delete your account picture!

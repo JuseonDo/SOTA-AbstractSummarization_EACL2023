@@ -1,0 +1,45 @@
+@summary
+open the iphone’s settings.
+
+@summary
+scroll down and tap icloud.
+
+@summary
+sign in to your icloud account (if necessary).
+
+@summary
+tap storage.
+
+@summary
+,
+
+@summary
+tap change storage plan.
+
+@summary
+,
+
+@summary
+select a storage plan.
+
+@summary
+,
+
+@summary
+tap buy.
+@article
+ This is the grey icon with cogs located on one of the home screens.
+
+
+It may also be located in the “Utilities” folder on a home screen.;
+, This is in the fourth set of options.
+
+
+
+Enter your Apple ID and password.
+Tap Sign in.
+,,, If you are upgrading, your extra space will become available immediately. If you are downgrading, your space will adjust at the beginning of the next month when your current storage plan expires.
+
+
+You may be prompted to enter your Apple ID password before the purchase completes.
+

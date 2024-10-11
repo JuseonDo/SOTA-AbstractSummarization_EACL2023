@@ -1,0 +1,71 @@
+@summary
+understand what has changed in windows 8.
+
+@summary
+open the windows registry editor.
+
+@summary
+use the directory tree on the left to navigate to .hkey_current_user → appevents → eventlabels.
+
+@summary
+,
+
+@summary
+find and open the .windowslogon folder.
+
+@summary
+,
+
+@summary
+double click the .excludefromcpl key.
+
+@summary
+,
+
+@summary
+change the value from .1 to 0.
+
+@summary
+repeat this for any other disabled sounds you want to re-enable.
+
+@summary
+open the control panel.
+
+@summary
+select the "sounds" option and click the .sounds tab.
+
+@summary
+,
+
+@summary
+scroll down and select the "windows logon" entry.
+
+@summary
+,
+
+@summary
+click .browse... to search your computer for a replacement sound.
+
+@summary
+perform a full shutdown.
+
+@summary
+boot your computer up.
+@article
+ Microsoft made a lot of changes to the underlying Windows architecture in order to boost performance for Windows 8. One of the features that got cut was the sounds that plays when Windows starts up and shuts down. You can re-enable these using the Windows Registry, but thanks to another Windows 8 feature (Fast Boot), you'll only hear them when you perform a full manual shutdown.
+
+Note: This method will only change the Logon sound.
+ You can do this by pressing the ⊞ Win key and typing regedit.
+,,, Click OK.
+ This includes WindowsLogoff and SystemExit.
+ You can search for it or press ⊞ Win+X and select it from the menu.
+,, It must be in WAV format.
+ In order to hear your logon sound, you must boot up from a full shutdown. Performing a regular shutdown will enable Fast Boot when you turn your computer on again, skipping the sound.
+
+
+Press ⊞ Win+X
+
+Select "Shut down or sign out" → "Shut down"
+
+, You should hear your new logon sound once the computer logs into Windows.
+

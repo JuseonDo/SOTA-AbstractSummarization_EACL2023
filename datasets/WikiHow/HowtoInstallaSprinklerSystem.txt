@@ -1,0 +1,86 @@
+@summary
+draw a diagram, to scale if possible, of your lawn and garden areas you wish to irrigate.
+
+@summary
+divide the areas into rectangles (if possible) of about 1200 square feet each.
+
+@summary
+chose the appropriate sprinkler heads to cover your zone, using pop-up impulse or gear driven heads for wide grassy areas, shrub heads or bubblers for shrubs and flowers, and fixed pop-up heads for locations adjoining buildings or paved areas like driveways and streets.
+
+@summary
+,
+
+@summary
+mark the location of each head in accordance with the spraying distance of the heads you choose.
+
+@summary
+count the number of heads you use on a zone, and add the gallon per minute volume for each one.
+
+@summary
+draw the main line from the location where your plan to install your control valves, time (if automatically operated), and backflow preventer.
+
+@summary
+,
+
+@summary
+draw branch lines from the main line to each head.
+
+@summary
+use this layout to mark the locations for your pipe ditches and heads, and flag them using markers, survey flags, or ribbons stuck to the ground with large nails.
+
+@summary
+dig your ditches.
+
+@summary
+spread your pipe out along your ditches, along with "tees", "elbows", and bushings for reducing pipe sizes and threading on the sprinkler heads.
+
+@summary
+install your "risers" where each sprinkler head will be located, making sure the terminal fitting is the correct thread size for the head.
+
+@summary
+,
+
+@summary
+tie the main line to the manifold at the timer or control valves, with the appropriate valve for the type of control you are using.
+
+@summary
+,
+
+@summary
+tie the water supply line into the manifold on the supply side.
+
+@summary
+turn the control valve on that supplies your zone, and allow it to flush the pipes of any debris or dirt which has gotten into them.
+
+@summary
+install your sprinkler heads.
+
+@summary
+turn your zone valve back on, and observe the spray coverage and direction of each head.
+
+@summary
+walk the length of your ditches to check for water leaks, and when you are satisfied there are none, turn the valve off and backfill your ditches, packing the soil in firmly.
+
+@summary
+,
+
+@summary
+replace the sod you removed and saved at the beginning of your ditch digging operation, and rake the left over roots, rocks, etc.
+
+@summary
+go on to your next zone, if you have successfully completed your first one.
+
+@article
+ This will enable you to plan the routing of pipelines and placement of sprinkler heads so you can purchase your materials.;
+, These will be your "zones", or areas which will be watered as a unit. Larger areas will require special heads and a higher volume of water than you can normally get from a residential water system.
+, Rain Bird R-50's, a common good quality head, will spray an arc, semicircle, or full circle about 25–30 feet (7.6–9.1 m) in diameter, so heads can be placed about 45 feet (13.7 m) apart to allow some overlap.
+ You should find the typical gear drive head can be rated from 1.5 gpm to 4 gpm, depending on the nozzle diameter. Fixed pop-ups generally run about 1 gpm. Add the total of gpm of the zone's heads, and use this number to size your pipe. As a rule of thumb, a zone with 5-7 heads should require about 12-15 gpm, with the water pressure supplied at a minimum of 20 psi (pounds per square inch). To supply this zone you will need a one inch main pipe (line), with 3⁄4 or 1⁄2 inch (1.9 or 1.3 cm) branch lines from your main.
+, You can route a branch line to more than one head if you use a 3⁄4 inch (1.9 cm) pipe, but two should be the limit. Further down the line, you may decrease the size of the main to 3⁄4 inch (1.9 cm), also, since near the end it will be supplying only 2 or 3 heads.
+ Digging the ditch does not have to be precise if you are using PVC (polyvinyl chloride) pipe, as this material will bend fairly easily.
+ Use an axe or grubbing hoe to cut the turf, taking care to set it aside in clumps so it can be replaced when you are finished. Use a trenching shovel to dig the ditch at least 6 inches (15.2 cm) below the frost level for your area. The ditch should be at least 12 inches (30.5 cm) deep to protect the pipe even in warm climates.
+ "Funny pipe" is a flexible butyl rubber pipe used in sprinkler systems, which has its own unique fittings that slip into the pipes without glue or clamps, and adaptors to thread it into the PVC branch lines and the sprinkler heads. This product allows the heads to be adjusted for height, and is forgiving if you are prone to drive over the head with a riding lawn mower or vehicle.
+,, Be sure to use a backflow preventer so that if the water system loses pressure you will not syphon water from the sprinkler system into the potable water, causing a potential contamination.
+ This should only take a minute or two, but doing this before installing your sprinkler heads will prevent clogged heads later on.
+ Place the heads, according to your plan, where you have chosen them to go. Bury the head deeply enough that the soil will support them and they will be slightly recess below the top of the turf at your preferred mowing height. Pack the soil firmly around the heads to hold them in position.
+ You can change the total rotation of gear drive heads from O degrees to 360 degrees, and the spray pattern and distance with the adjusting features designed in your particular head. Because this can vary greatly from one manufacturer to another, read the literature that comes with your heads.
+, up.

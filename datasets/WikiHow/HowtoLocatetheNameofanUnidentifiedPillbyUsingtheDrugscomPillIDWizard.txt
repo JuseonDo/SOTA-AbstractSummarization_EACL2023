@@ -1,0 +1,37 @@
+@summary
+visit the drugs.com pill id wizard in your web browser.
+
+@summary
+read the statement page that is given to you.
+
+@summary
+click the "i agree" button.
+
+@summary
+look at the pill.
+
+@summary
+type the characters you find on the one side into the "imprint" box followed by a space and if present, the characters on the opposite side of the pill.
+
+@summary
+click the "color" drop-down box and select the color of the pill by clicking the option that best matches it.
+
+@summary
+,
+
+@summary
+click the "shape" drop-down box and select the shape by clicking the item's description.
+
+@summary
+click the "search" button and wait for the website to find your pill name.
+@article
+;
+, The statement page pretty much tells you that this is not a replacement for any knowledge given by a doctor, and that the page is not perfect in any respect.
+ You'll be directed to http://www.drugs.com/imprints.php. This page is the wizard page.
+ Look for any numbers, or letters that may be on the pill. You'll probably need a magnifying glass to see these numbers. You'll need to look carefully to determine whether a character is one letter or another. Common misconceptions include the letter "I" for the number 1, along with many other issues.,
+
+
+If there is a bar in between two numbers insert a space into the box instead of the bar symbol.
+, Click right on the picture of the shape of the pill. Make sure the shape is highlighted in blue, otherwise you'll be selecting the wrong item.
+ It will also pull other information along with it, such as the pill's side effects, drug details, along with a picture of the pill itself (seen from several angles).
+

@@ -1,0 +1,9 @@
+@summary
+impure means that the letter's sound is mixed with another sound without presence of that other.
+
+@summary
+note that for instance, in english student, letter s is impure but s in aspect is not impure.
+@article
+ It happens frequently at the beginning of a word. Such is when "s" followed by a consonant, the "s" could sound tz, dz or es, or even se to the listener.
+ In Italian, s in both studente and asfalto is s-impura, and begins the syllable (/a-sfal-to/) as if it is a sfalto.
+

@@ -1,0 +1,68 @@
+@summary
+go to the relevant web-site www.eurostar.com as no other company operates on this route.
+
+@summary
+decide when you would like to travel.
+
+@summary
+enter the preferred departure station and destination, along with preferred dates and passenger types (adult,senior, child and youth).
+
+@summary
+your outbound journey options will appear.
+
+@summary
+simply select the fare next to the relevant train time under your preferred ticket type.
+
+@summary
+,
+
+@summary
+once you have chosen your outbound train select your return.
+
+@summary
+provide passenger information.
+
+@summary
+select how to get your tickets.
+
+@summary
+regardless of your class of service you can select where you sit during your journey.
+
+@summary
+next is a review page and the t&c's tick box.
+
+@summary
+,
+
+@summary
+then it's the payment page (possibly the longest payment page ever!,
+
+@summary
+once payment details are entered, be careful!,
+
+@summary
+then it's the mastercard or visa page.
+
+@summary
+,
+
+@summary
+once completed a confirmed booking page appears.
+
+@summary
+using the e-mail or web-site log into the booking and print off your pdf travel tickets.
+@article
+;
+, Note that Eurostar tickets can be booked up to 120 days (approximately 4 months) in advance. Thalys and TGV can be booked 90 days (3 months) in advance.
+ A recent web-site update now shows all trains for your date of travel making it easier to compare all fares. Click 'Search'.
+ There are various options for you here ranging from Class of Service to how flexible/refundable your tickets can be (dates/times only).
+, What you can have is defined by your outbound in terms of fare. For example you can only pick Business both ways or if you select a fixed fare out you can only select a fixed fare back.
+ Eurostar does not require passport information but correct names do help.
+ Collect from the station e-ticket machines or print at home. Note that a recent web-site development prevents Print at Home for bookings where travel is within 48 hours. These tickets can only be collected from the e-ticket machines.
+ Choose that all important forward facing seat!
+
+,,).
+ There is one more final review page (it states 'booking confirmation' at the top and can be mistaken for the completed booking), read it carefully to ensure everything is correct. This is the point of no return! Remember to scroll down and click the final continue button.
+, Here you will be given your 6 letter booking reference. Two e-mails will be sent to you.
+ There is a square barcode at the bottom of the page. This is what you will need to scan at the check-in machines at the station.
+

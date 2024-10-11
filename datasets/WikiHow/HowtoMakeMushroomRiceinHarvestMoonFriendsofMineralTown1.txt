@@ -1,0 +1,14 @@
+@summary
+gather the ingredients needed to make the rice dish.have the ingredients in your rucksack.
+
+@summary
+choose your ingredients.
+
+@summary
+confirm your decision.
+@article
+
+
+Rice ball: can be purchased from the supermarket for 100 G
+Mushroom: can be found and forged throughout Autumn;
+,, Select the specific ingredients you wish to use from your rucksack. Press the "Start" button., If you are satisfied with what you have chosen, start cooking.

@@ -1,0 +1,73 @@
+@summary
+start up stellarium in the window mode.
+
+@summary
+set up stellarium so that it is at the given time and sky view that you want to capture a video of.
+
+@summary
+start up cam studio.
+
+@summary
+go to options > video options.
+
+@summary
+go to region.
+
+@summary
+click the red circle button for recording.
+
+@summary
+,
+
+@summary
+move your cursor to the stellarium window.
+
+@summary
+do your stuff to be recorded or run a script.
+
+@summary
+click the blue square button in camstudio to stop recording.
+
+@summary
+,
+
+@summary
+save the file as .avi this can be inserted into presentations directly, but the size will be awfully big!,
+
+@summary
+go to a blank slide in powerpoint.
+
+@summary
+optional combo step (to make the video smaller) :
+
+@summary
+open windows movie maker.
+
+@summary
+you may also use virtualdub to compress the .avi file.
+
+@article
+ (or start it up ad click on the Fullscreen icon on the bottom menu. This will get it out of fullscreen mode to a window mode);
+, Choose the window size properly. (1024x768 is good) Switch on the Time panel.
+ This is a great Screen video capture software. Linux users can use xVidcap.
+ Choose, Compressor - Microsoft Video 1, Quality - 100%
+
+, Select "Region".
+, Make a rectangle around the area that you want to record. The recording will start as soon as you finish drawing the shape!
+
+,
+
+
+Rumour: A video needs to be less than 10 minutes for it to be upload-able to YouTube.
+, (~ 60 Mb for a 20 sec clip for above dimensions)
+
+,
+
+
+Select - Insert > Movie > from File.
+Browse to the .AVI file and click Open.
+
+Drag and Drop AVI file onto the software window to get it imported.
+Now Drag and Drop the imported clip onto the "Timeline".
+Select - File > Publish Movie > This Computer > Filename etc. etc. > Best Quality for playback on my Computer. This should save the file to a size 25 times smaller!
+Play around with Options > Advanced if needed.

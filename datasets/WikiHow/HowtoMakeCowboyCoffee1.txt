@@ -1,0 +1,23 @@
+@summary
+measure water.
+
+@summary
+put the water into a saucepan.
+
+@summary
+add one heaped scoop of coffee per cup into hot water.
+
+@summary
+,
+
+@summary
+stir with a fork.
+
+@summary
+serve the coffee.
+@article
+ To do this, use the cup or mug you want to drink from.;
+, Bring to a boil.
+, Remove the pan from the heat source and wait a couple of minutes for the grounds to settle.
+ Be careful not to disturb the grounds.
+

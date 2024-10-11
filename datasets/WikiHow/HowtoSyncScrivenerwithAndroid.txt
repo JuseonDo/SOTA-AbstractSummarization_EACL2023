@@ -1,0 +1,34 @@
+@summary
+download dropbox.
+
+@summary
+open scrivener.create a folder in your dropbox directory for your scrivener project.
+
+@summary
+click sync with external folder in scrivener.press sync to transfer scrivener files to your dropbox.
+
+@summary
+go the play store and download "officesuite.",navigate to the "hamburger menu" (≡).
+
+@summary
+press open > cloud storage > dropbox.
+
+@summary
+open the scene files from your scrivener folder in officesuite and edit them!,
+
+@summary
+set up future synching.
+
+@summary
+fix any text formatting issues.
+@article
+ Make an account if you do not already have one.
+ Navigate to File > Sync > With External Folder.,, A window will open. Choose your shared folder and navigate to the folder you created in your Dropbox.,,,, Link your Dropbox.,
+
+If it hasn't happened yet, open the hamburger menu again and synchronize your documents.
+ Scrivener automatically detects changes to your Dropbox folder, so accept its offer to sync on its next opening., When you open the files you edited on your phone or tablet, they may appear strange. If the text does not stretch to the end of your screen do the following.
+
+
+Ctrl+A the text.
+Click Format > Formatting > Apply Preset > Body.
+

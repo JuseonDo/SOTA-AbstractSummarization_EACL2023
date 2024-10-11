@@ -1,0 +1,34 @@
+@summary
+obtain an hdmi adapter.obtain an hdmi cable.
+
+@summary
+connect the hdmi adapter to your iphone.
+
+@summary
+,
+
+@summary
+connect one end of the hdmi cable to the adapter and the other to an hdmi port on the tv.power on the tv and iphone, if they are not already on.
+
+@summary
+locate and press the input selector for the tv.
+
+@summary
+select the hdmi port to which your iphone is connected.
+@article
+ Apple and third-party manufacturers make Lightning to HDMI adapters that connect to your iPhone's charging port.
+
+
+An iPhone 4 will require a 30-pin to HDMI adapter.
+Only iPhone 4 or newer can connect to your TV over HDMI.;
+,,,
+
+
+HDMI ports are typically on the back or sides of a TV.
+Take note of the HDMI port number. It will be labeled on the TV.
+, It's a button on the remote or on the TV itself and is typically labeled "Input" or "Source."
+
+, Your iPhone is connected to the TV.
+
+The screen will exactly mirror the screen on iPhone 4S or newer. On iPhone 4, you'll see a black screen until you launch an app, such as TV or YouTube, with video output.
+

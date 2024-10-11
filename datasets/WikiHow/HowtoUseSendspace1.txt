@@ -1,0 +1,22 @@
+@summary
+register with sendspace.
+
+@summary
+wait for the registration link.
+
+@summary
+click on the link to confirm and complete your registration.
+
+@summary
+,
+
+@summary
+log in to sendspace to begin your file transfers or to retrieve links sent by others.
+
+@article
+
+
+
+Sign up to use Sendspace services at its website. Enter your name, username, email, password and primary reason for using Sendspace. Registration is not required, but it is recommend in order to take advantage of all features.;
+, Check your email for a message from Sendspace that includes an activation link.
+,

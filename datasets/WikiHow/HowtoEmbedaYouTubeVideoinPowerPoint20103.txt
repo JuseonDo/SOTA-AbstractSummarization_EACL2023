@@ -1,0 +1,9 @@
+@summary
+install the latest microsoft office updates for powerpoint 2010 if “video from web site” is not listed in the “video” dropdown menu as noted in method one of this article.
+
+@summary
+try installing adobe shockwave player if the “video from web site” option under the “video” dropdown menu is grayed out or disabled.
+@article
+ This step will also resolve the following error message when trying to embed a YouTube video: “PowerPoint cannot insert a video from this embed code. Verify that the embed code is correct, and then try again.”Navigate to Microsoft’s website at https://support.microsoft.com/en-us/kb/2837579 and select the option to download the latest PowerPoint 2010 update. Alternately, use the Windows Update feature to install the latest Office updates.
+ This program is required to embed YouTube videos in PowerPoint 2010.Navigate to Adobe’s website at https://get.adobe.com/shockwave/, click on “Download Now,” and follow the on-screen instructions to install Adobe Shockwave Player to your computer.
+

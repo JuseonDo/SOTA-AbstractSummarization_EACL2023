@@ -1,0 +1,28 @@
+@summary
+open the hosts file in notepad.
+
+@summary
+inside the hosts file, paste all the ip addresses that you found in method two using nslookup.
+
+@summary
+save the hosts file.
+
+@summary
+name the ip addresses.
+
+@summary
+type one of the ip address in the browser address bar to open youtube.
+
+@summary
+,
+
+@summary
+press enter to test browsing to the site.
+@article
+ You can find it at: C:\Windows\System32\drivers\etc.
+ Enter "www.youtube.com" (without quotes) after all the IP addresses.
+ Enter Ctrl + S, or go to File and select Save.
+ Add a space or tab to the end of each IP address, then enter a name you want to use to reference this site. Use a name that firewalls won't have on their blacklists (blocked sites). Your new line should look like: 47.125.31.113 www.youtube.com
+
+,, If this doesn't work, try another method below.
+

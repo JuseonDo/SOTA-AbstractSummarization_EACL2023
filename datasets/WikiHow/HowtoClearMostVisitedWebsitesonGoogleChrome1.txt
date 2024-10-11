@@ -1,0 +1,25 @@
+@summary
+open your google chrome browser.
+
+@summary
+open a new browser tab.
+
+@summary
+hover your mouse over the thumbnail you want to remove.this will display a "close" button in the top-right corner of the thumbnail.
+
+@summary
+,
+
+@summary
+click the "close" button.
+
+@summary
+repeat this action with every thumbnail you wish to remove from your browsing history.
+
+@article
+;
+, You can do this by clicking on the "New Tab" button in the upper-left side of the browser, next to the small X of the currently viewed tab.
+
+
+The new browser tab will display thumbnails of your most-visited website at the bottom of your browser window, below the Google search field.
+, This will remove the thumbnail from your browsing history; it will no longer be displayed on the new tab of the Google Chrome browser.

@@ -1,0 +1,48 @@
+@summary
+in thunderbird, click on tools.
+
+@summary
+click on message filters.
+
+@summary
+,
+
+@summary
+click on new filter.
+
+@summary
+,
+
+@summary
+name the filter to make it easier to recognize.
+
+@summary
+click the first dropdown box.
+
+@summary
+select is in the next drop down box.
+
+@summary
+in the next box, type in the email address you wish to block.
+
+@summary
+in the first dropdown box of "perform these actions" select what you would like to do with the email.
+
+@summary
+click ok.
+
+@summary
+,
+
+@summary
+voila!
+@article
+;
+,,, If it's for spam name it Spam, if it's emails from a certain person, put their name in the name field.
+ You will only ever really need From, Body or Subject. In this, we are going to block all emails from unclelarry@wikihowemailadress.com, so we want to select from.
+ This is the best option for From, as then it will only block emails from unclelarry@wikihowemailadress.com, and not thisisunclelarry@mywikihowemailadress.com, or anything containing unclelarry@wikihowemailadress.com
+
+, In this case, it'd be unclelarry@wikihowemailadress.com.
+ In our example, we will delete the emails.
+, Uncle Larry won't bug you again, of course, this can be used for anyone or anything. If you wanted to delete anything that contains "pass this on" or "buy now" in the body, you could do that!
+

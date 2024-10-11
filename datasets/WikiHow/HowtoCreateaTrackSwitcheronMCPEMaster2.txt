@@ -1,0 +1,41 @@
+@summary
+find a big area to build in.
+
+@summary
+lay down one by one three normal track pieces.
+
+@summary
+stack two red lamps touching the third rail.
+
+@summary
+add a button to the top lamp.
+
+@summary
+connect two track pieces to the rail that touches the lamps.
+
+@summary
+place a redstone lamp on both sides of the fifth rail.
+
+@summary
+replace the marker blocks with normal rails.
+
+@summary
+create a redstone circuit from the bottom lamp to the corner piece.
+
+@summary
+move your button.
+
+@summary
+push the button.
+@article
+ The elimination of passive mobs is unnecessary.
+ They should all connect.
+ This could also be the first rail, your choice.
+ Place it facing the rails. It is here now, but will be moved.
+ One of these pieces is a critical piece.
+ These from now on are marker blocks.
+ A rail will become a corner. This is the first critical step.
+ No other blocks can be in the way of this step. This Redstone is very important.
+ Place it on the bottom lamp "Pointing" to the corner piece. This is your other critical step.
+ When you do, the wire will light up and the track will switch for a few seconds.
+

@@ -1,0 +1,27 @@
+@summary
+pick several topics on which you want to find the best keywords.
+
+@summary
+go to google.com.
+
+@summary
+look for the drop down section underneath the search bar that shows search terms that are popular.
+
+@summary
+write down all the terms on the google auto-complete that seem like they apply to your site or products.
+
+@summary
+,
+
+@summary
+delete the original search term from the google search bar and try again with a new subject.
+
+@article
+ To start keyword research, you can go to the most used search engine, Google.;
+, Type the subject into the search bar.
+ Depending upon the subject, there can be a few or more than 10 keywords.
+
+
+Look for "head" keywords. These are the terms that are the most popular. They are fairly general, and they are the most expensive terms to bid on for PPC ads.
+Also look for long-tail keywords. These are the longer groups of 3 to 5 terms and phrases. They are the terms people use to search for a very specific item. They are less expensive in PPC ads, result in fewer searches, but generally result in the best targeted marketing.
+,

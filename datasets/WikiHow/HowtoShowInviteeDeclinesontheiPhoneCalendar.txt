@@ -1,0 +1,18 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll to the fifth group of options and select calendar.
+
+@summary
+,
+
+@summary
+slide the grey show invitee declines switch right to the "on" position.
+@article
+ Settings is the grey gear icon on one of your device's Home screens (it may be in a folder named "Utilities").;
+,, Now you'll be able to see whenever someone you've invited to a Calendar event declines your invitation.
+
+
+If this switch is already green, your calendar should display invitee declines automatically.
+

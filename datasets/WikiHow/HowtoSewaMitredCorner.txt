@@ -1,0 +1,17 @@
+@summary
+fold and press (iron) the hem of the item to be mitred.
+
+@summary
+open out the hem.
+
+@summary
+cut off the corner.
+
+@summary
+refold the hem.
+@article
+;
+, Fold the corner inwards on the inner fold line.
+ Leave a small seam allowance.
+ Slip stitch the diagonal line of the mitre and hem. You're done.
+

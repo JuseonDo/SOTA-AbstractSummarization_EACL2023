@@ -1,0 +1,49 @@
+@summary
+visit the yelp web page in your web browser.
+
+@summary
+find a company that's in yelp's database.
+
+@summary
+,
+
+@summary
+scroll down the page, as you read through previous reviews.
+
+@summary
+,
+
+@summary
+click the "compliment" button on the right side of the review (above the review) you'd like to compliment, when you see a review you like to thank the writer for writing.
+
+@summary
+choose your compliment type from the icons above the text box on the resulting in-page pop-up.your choices are: thank you, good writer, just a note, write more, great photo, you're funny, cute pic, hot stuff, like your profile, you're cool, and great lists.
+
+@summary
+type a personalized message.
+
+@summary
+click the send button when you are absolutely finished.
+
+@summary
+,
+
+@summary
+visit the user's profile you'd like to send the compliment to.
+
+@summary
+look for and click the "compliments" item to the right of the user's profile picture and name line just below the webpage menu bar.
+
+@summary
+choose your compliment type from the icons above the text box on the resulting in-page pop-up.type a personalized message so the user knows why you are sending them this compliment, but stays true to the topic of the compliment.
+
+@summary
+click the send button when you are absolutely finished.
+
+@article
+;
+,,,
+
+
+After reading through reviews you notice that one review doesn't have the "Compliment" button, check to ensure that this review isn't yours. Most often, this will be the case. You cannot send a compliment to yourself on your own reviews. That is totally impractical to do, and is not something they developed into the system, so you'll know you've stumbled upon one of your own reviews, when you read the business page and see one without the compliment button.
+, Although the user will see the link back to the review they clicked to get you there (to show you "that's the review I mean"), if you'd like you may customize/personalize this message to more accurately show them why you are sending them the compliment.,, If the user has a personal URL, you can enter that URL into your web browser's address bar. If not, you may have do some digging to find it from within the website (such as via a review or other posting or a posting on their Talk boards, etc.). Anytime you see a person's name appear as a link, these are the initial links you'll need to click to get you to the right place., Here, you'll find a variety of links. These links include: "Add friend", "Compliment", and many others. Be careful as not to click the "Compliments" option below the user's picture, as this won't give you the option you'll want to use, but will give you the compliments the user has approved for posting to the public's eye., Your choices are: Thank You, Good Writer, Just a Note, Write More, Great Photo, You're Funny, Cute Pic, Hot Stuff, Like Your Profile, You're Cool, and Great Lists.,,

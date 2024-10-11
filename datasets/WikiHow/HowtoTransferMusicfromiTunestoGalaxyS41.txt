@@ -1,0 +1,13 @@
+@summary
+navigate to a download link.
+
+@summary
+install double twist.
+
+@summary
+launch double twist.
+@article
+ Visit https://www.doubletwist.com/ and click the download link.;
+, Once the file has been downloaded double click it and follow the instructions to fully install the software.
+ Locate the application and double click it to open.
+

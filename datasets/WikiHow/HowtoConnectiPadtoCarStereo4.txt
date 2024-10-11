@@ -1,0 +1,23 @@
+@summary
+insert the cassette to the tape deck.
+
+@summary
+connect the 3.5 mm audio cable to the ipad's audio jack.
+
+@summary
+,
+
+@summary
+select the source of the audio.
+
+@summary
+start playing the tape.
+
+@summary
+launch itunes.
+@article
+ This will be located on the head unit.
+, On your head unit, press the Source or Mode button and then select Tape.
+ You may need to press the Play button to begin playing the tape before audio can come out of the speakers.
+ Select any track to play to start enjoying music in your car.
+

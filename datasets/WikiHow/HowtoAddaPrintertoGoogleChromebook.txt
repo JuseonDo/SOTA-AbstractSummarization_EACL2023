@@ -1,0 +1,51 @@
+@summary
+connect your printer to either a windows or a mac computer first.
+
+@summary
+open the google chrome web browser.
+
+@summary
+click the chrome’s menu button.
+
+@summary
+access settings.
+
+@summary
+go to advanced settings.
+
+@summary
+access the cloud print settings.
+
+@summary
+select a printer to connect to.
+
+@summary
+complete the setup.
+
+@summary
+open any any file on your chromebook that you want to print from.
+
+@summary
+start printing.
+
+@summary
+select the printer you want to use.
+
+@summary
+click the “print” or “ok.” this will begin printing your file.
+
+@article
+ Press the printer’s Power button to switch it on once it’s connected.;
+, Do this on the Windows or Mac computer where the printer is connected to.
+ This will open the browser’s menu list.
+
+
+The Chrome’s menu button is located at the upper-right corner of the browser window.
+ Select “Settings” from the drop-down list to open Google Chrome’s browser settings in a new tab.
+ Scroll down the tab and click on “Show Advanced Settings” to show additional options.
+ Click the “Manage” button under the Google Cloud Print section to access its settings.
+ Click the “Add Printer” button and select the printers you want to connect to your Google Cloud Print service.
+ Click the blue “Add Printer(s)” button to complete the setup and connect your chosen printer to your Google Cloud Print service. The printer should now also be available on your Google Chromebook.
+ You can print from applications like Google Docs, Gmail, or even from your Google Chrome browser.
+ Do this by using the CTRL + P keyboard shortcut or clicking the printer icon on the program you’re using.
+ Scroll down the Printer List window and under the “Google Cloud Print” section, you should see the name of the printer you’ve connected to the Google Cloud Print service.

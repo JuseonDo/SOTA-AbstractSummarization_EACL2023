@@ -1,0 +1,64 @@
+@summary
+open adobe photoshop.
+
+@summary
+open the images you want to edit.
+
+@summary
+click on window.
+
+@summary
+click on arrange.
+
+@summary
+click on tile all vertically.
+
+@summary
+click on the background layer.
+
+@summary
+click on layer.
+
+@summary
+click on duplicate layer….
+
+@summary
+click on ok.
+
+@summary
+,
+
+@summary
+click on a selection tool.select the part of the image whose color you want to change.
+
+@summary
+select the color you want to match.click on the image on which you'll make the color change.
+
+@summary
+click on image.
+
+@summary
+click on adjustments.
+
+@summary
+click on match color….
+
+@summary
+click on the "source:" drop-down menu.click on the image that contains the color you want to match.
+
+@summary
+click on ok.
+@article
+ It's a blue app icon that contains the letters "Ps.";
+, Do so by pressing Ctrl+O (Windows) or ⌘+O (Mac), selecting the image files you wish to open, and then clicking Open in the lower-right corner of the dialog box.
+ It's in the menu bar near the top-center of the screen., It's at the top of the drop-down menu., It's at the top of the menu. This enables you to view both images side-by-side., It's in the "Layers" menu in the lower-right corner of the Photoshop window and is labeled "Background."
+
+If you don't see the "Layers" menu, click on Windows in the menu bar at the top of the screen, then click on Layers. The "Layers" menu window will appear in the lower-right corner of the photoshop window.
+ It's near the left side of the menu bar at the top of the screen., It's near the top of the menu.
+
+Creating a duplicate preserves the original background image in case you make a mistake.
+Create a custom name for the layer or leave it as the default.
+, Use one of the Photoshop selection tools, such as the Lasso Tool or Magic Wand, from the toolbar on the left side of the window.,, Use a selection tool to select the part of the other image that contains the color you want to match.,, It's in the menu bar at the top of the screen., It's near the top of the menu., It's near the bottom of the menu. A "Match Color" dialog box will open.
+ It's near the bottom of the dialog box.
+, It's in the upper-right corner of the dialog box. The selected part of the target image will convert to the color you selected from the source image.
+

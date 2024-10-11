@@ -1,0 +1,51 @@
+@summary
+download and open icloud for your computer.
+
+@summary
+sign in with your apple id.
+
+@summary
+select the checkbox next to “icloud drive”.
+
+@summary
+drag and drop your video files to your icloud drive folder.
+
+@summary
+open the “settings” app on your ipod touch.
+
+@summary
+tap “icloud” and sign in with your apple id.
+
+@summary
+tap “icloud drive”.
+
+@summary
+tap the slider next to “show on home screen”.
+
+@summary
+press the home button to return to the home screen.
+
+@summary
+,
+
+@summary
+tap the “icloud drive” button on your home screen.
+@article
+ iCloud comes preinstalled on Mac and iOS devices.;
+, This information is the same as what you set for the Apple Store when setting up your iPod.
+ This will turn iCloud Drive syncing on.
+
+
+On Mac, the iCloud Drive folder can be accessed in the Finder.
+This will create the iCloud Drive folder on Windows in “This PC”.
+ The files will automatically be uploaded to iCloud.
+ This button is located on the iPod’s home screen.
+ This will turn on iCloud for your iPod.
+ This button is listed first in the list of iCloud services and will take you to the iCloud Drive options menu.
+ A green slider indicates that the option is on. This will add the iCloud Drive button to your home screen.
+
+
+All iCloud services are enabled for sync by default. If your iCloud Drive is disabled, you can turn it on by tapping the slider to the right of “iCloud Drive” on this menu (a green slider indicated the option is on)
+
+,, This will open a list of the files you placed in the iCloud Drive folder on your computer.
+

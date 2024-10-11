@@ -1,0 +1,37 @@
+@summary
+open the file explorer on your desktop.open the settings by the side bar on the right.click on “change the pc settings” at the bottom.
+
+@summary
+in the file explorer, open the control panel.
+
+@summary
+view the settings in large icons or small icons.
+
+@summary
+select “interface devices”.
+
+@summary
+,
+
+@summary
+select “touch screen hid”.
+
+@summary
+,
+
+@summary
+right click on it and click “deactivate” or “uninstall” as you wish.
+@article
+;
+,,,
+
+
+A new window appears. Just click on “Control Panel” at the bottom left of the screen.
+
+
+Click on “Category” on the top right of the Control Panel and select “Large icons” or “Small icons”.
+You are now able to access the many settings of the Control Panel. The one you need is “Device Manager”––click on it. A window with all the devices of your machine will appear. Note that it may take a few minutes. The image accompanying this step is what the window looks like.
+,, Just deactivate it, do not uninstall it.
+
+Be careful, if you want to remove the touch screen temporarily and you think this may be useful for you later, then deactivate it.
+

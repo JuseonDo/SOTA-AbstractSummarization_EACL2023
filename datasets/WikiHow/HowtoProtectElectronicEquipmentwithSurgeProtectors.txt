@@ -1,0 +1,29 @@
+@summary
+use a cord connected surge suppressor.
+
+@summary
+plug the suppressor into an outlet and lay it flat on the floor.
+
+@summary
+,
+
+@summary
+plug any electrical equipment into the surge protector's outlets and then turn the surge protector on.
+
+@summary
+,
+
+@summary
+when a surge occurs the alternating current (ac) sine wave becomes truncated and increases in amplitude.
+
+@summary
+when a sag occurs, other components (usually capacitors or coils)release their charge when the power goes out, keeping your electronics running for short sags.
+
+@summary
+use a whole house surge suppressor.
+@article
+ The easiest way to protect equipment is using a surge suppressor, which also functions as an extension cord or "multi-outlet strip". They usually have several outlets and a power switch built in. Surge suppressors use a combination of components (gas tubes, avalanche diodes and metal oxide varistors or MOV's) to protect equipment in an over voltage condition, and "clamp" it to safety ground. Some devices may provide for very short duration under voltage protection as well.;
+,,, The devices "clamp" the voltage to ground preventing it from reaching devices connected.
+ These devices do not replace a UPS (uninterruptible power supply).
+ These devices are installed at the electrical service panel and as the name implies, protects all the circuits in the house. This device should be installed by a professional or other competent person.
+

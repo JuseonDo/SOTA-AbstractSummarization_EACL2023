@@ -1,0 +1,98 @@
+@summary
+log in to your gmail account with your user name and password.
+
+@summary
+click the gear-shaped icon in the upper right corner of the window, next to your account name.
+
+@summary
+,
+
+@summary
+choose "gmail settings" from the popup menu.
+
+@summary
+choose the "forwarding and pop/imap" tab in the settings screen.
+
+@summary
+,
+
+@summary
+select the settings you want for your pop email account.
+
+@summary
+click the "save changes" button at the bottom before leaving this screen.
+
+@summary
+,
+
+@summary
+configure your email client by clicking the link for "configuration instructions.",
+
+@summary
+provide the specifics of your gmail account.
+
+@summary
+fill in your gmail account name with your email address and provide the password to this account.
+
+@summary
+type in the correct port numbers for the incoming and outgoing mail servers and select "secure connection" or "ssl" if it is offered.
+
+@summary
+complete the process by saving your settings and then launch the email client software.
+
+@article
+
+
+
+If you do not have a Gmail account, you can register for one using the link given in the source section of this article.
+
+
+
+
+
+;
+,,
+
+
+The Settings screen will launch, replacing the list of emails generally shown in that portion of the window.
+,
+
+In most cases, clicking the radio button next to the "Enable POP for all mail" option will provide the result you want.
+
+
+
+
+
+
+You can choose to keep a copy in your Gmail inbox, archive the Gmail copy, mark it as "read" or simply delete it after it has been downloaded by your email program.
+,
+
+
+This process will vary depending upon which email client you will be using.
+Follow your email client's prompts to add an account and provide your Gmail email address.
+
+
+When asked for your incoming and outgoing mail servers, choose the options to show that your incoming mail server is a POP3 server.
+Enter "pop.gmail.com" without the quotation marks as the incoming mail server.
+
+
+
+
+
+
+Enter "smtp.gmail.com" without the quotation marks as the outgoing mail server.
+
+
+
+This will allow your email client software to retrieve your email from the Gmail servers.
+
+
+
+The outgoing mail uses port 465, while the incoming mail uses port 995.
+
+
+
+
+
+
+If your outgoing mail server requires TLS or STARTTLS instead of SSL, use 587 for the port number.

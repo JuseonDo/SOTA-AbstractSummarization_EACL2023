@@ -1,0 +1,111 @@
+@summary
+acquire the xbox 360 120gb hard drive.
+
+@summary
+open the plastic container.
+
+@summary
+hold the container upright so the hard drive, which you can see through the front, is upright.
+
+@summary
+inside you will see a translucent tray.
+
+@summary
+remove the cd-rom from its sleeve.
+
+@summary
+if your xbox 360 has a disc in its drive, remove it.
+
+@summary
+if you have the xbox 360 wireless network adapter, remove it.
+
+@summary
+before you initiate transfer, the following should be connected to your xbox 360: your tv via hdmi or the av cable; your xbox 360 power supply; your original hard drive or memory unit (mu); and one wired or wireless controller.
+
+@summary
+insert the xbox 360 hard drive transfer disc in the xbox 360.
+
+@summary
+your screen will turn purple, and you will be told what is about to happen.
+
+@summary
+remove your xbox 360 120gb hard drive from the translucent tray.
+
+@summary
+now hold your xbox 360 120gb hard drive in your hand so that you can read the safety information on the bottom.
+
+@summary
+plug the usb end of the transfer cable into the usb port in the back of the xbox 360.
+
+@summary
+this article's author was informed that the process would take 1 hour and 21 minutes, for a 20gb hard drive with 1.6gb free.
+
+@summary
+after so many minutes, your tv screen will dim, but the xbox 360 will continue to work.
+
+@summary
+this article's author's xbox 360 took exactly 55 minutes to complete the transfer.
+
+@summary
+,
+
+@summary
+as it instructs, remove the disc.
+
+@summary
+do not panic as when your console restarts, everything is gone.
+
+@summary
+turn off the xbox 360.
+
+@summary
+,
+
+@summary
+disconnect the transfer cable from the back of the xbox 360 and the xbox 360 120gb hard drive.
+
+@summary
+,
+
+@summary
+unplug your old hard drive, if that's what you transferred from.
+
+@summary
+set your old hard drive aside.
+
+@summary
+,
+
+@summary
+connect your new hard drive by backing the back into the back of the back of the console and pressing the front firmly down.
+
+@summary
+turn on your console.
+
+@summary
+,
+
+@summary
+sign into an xbox live enabled profile.
+@article
+ The MSRP is $150 in the United States. You can buy it for less online, but be warned that if you buy it used it may not include the transfer cable, which is very important. You can usually find one on eBay.;
+, This is a bit tricky. Get a pair of craft scissors (they're heavier duty than regular scissors) or a box cutter. See on the back where it shows the scissor line? Cut along there.
+ CAREFULLY peel back the top of the container. This will take some effort, but hold the base firmly. The hard drive is not made of eggshells, but it is a fragile electronic device. Treat it as such.
+ When you can safely do so, pull it out and set it aside. This contains the hard drive and the transfer cable. Left in the container will be a CD-ROM and a booklet.
+ The tape will not give easily. Go ahead and rip it. You will need this CD-ROM only once.
+ Disconnect all wired controllers and turn off all wireless controllers if they are on, signing out the associated profiles, if any. Leave just one controller connected.
+ Do not worry about being disconnected from Xbox LIVE. If you have a network adapter plugged in, remove this.
+ Sever all other connections in the safest way, first signing out the profile, if any.
+ It should start automatically. If it does not, access the drive as you normally would.
+ If this is OK with you, press A (the green button) to continue.
+ Remove the protective strip from the bottom. Pull it firmly, but not quickly, as you do not want to leave any residue behind.
+ Hold the transfer cable so that you can read the writing on the back of it. Plug the hard drive into the transfer cable; there is only one way that it can plug in, and holding them as described, you'll be in the right place.
+ Microsoft advises against using either of the two on the front. The most likely reason is that the USB port in the back is soldered directly onto the Xbox 360 motherboard, where the two in the front are connected to the motherboard by a wire and the connection is not quite as direct (though all three are equal in gaming).
+ The time estimate you are given will depend on how much data needs to be transferred. Press A to begin the transfer.
+ You cannot use your Xbox 360 during this process.
+, As it suggests, this will restart your console.
+ You no longer have any profiles. There will be no data. Your 360 will be new again.
+,, In front of the hard drive is a little button, kind of hard to see. Push that down and lift up on the hard drive. If this is your first time removing it, it might jam. Do not force it, but firmly lift straight up, pushing the button. Holding the button is not necessary, but press it again if it resists.
+, It should click into place.
+, Your console will "find" an update; it won't tell you what it is, but this is most likely the license transfer that allows you to continue using your DRM-protected DLC on the new hard drive. This update starts with an estimated time of 5 minutes and warns that the console "may" restart. It will. Once it does, everything should work as before, but you will have a heck of a lot more free space.
+

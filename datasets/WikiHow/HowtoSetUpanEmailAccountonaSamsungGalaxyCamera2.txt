@@ -1,0 +1,35 @@
+@summary
+open the email client app.
+
+@summary
+open the app’s settings menu.
+
+@summary
+tap the “add account” button.
+
+@summary
+set up the additional email.
+
+@summary
+set the notifications settings.
+
+@summary
+enter a name you would like for the account you’ve just added in the text field provided.
+
+@summary
+tap the “done” button to complete the process.
+@article
+ Tap the App Drawer button (icon made of small squares) at the bottom of your camera’s home screen to open the App screen.
+
+
+Inside the App screen you’ll find an item called “Email.” Tap this icon to launch your Galaxy Camera’s dedicated email client.
+ Press your Galaxy Camera’s menu button at the bottom left-hand corner of the screen and select “Settings” from the slide-up menu.
+ The Email Setup screen will appear again, allowing you to add another email account.
+ Enter the new email account’s address (e.g., “janedoe@gmail.com”) and password on the text fields provided, and tap the “Next” button to proceed.
+ A small prompt will appear on the screen asking you to set the email app’s notification settings. Simply put a checkmark on this option to either enable or disable notifications whenever you get a new mail.
+
+
+Tap the “Next” button to continue.
+ This is so it would be easy for you to tell it from the first account you’ve created.
+ The email app will then start downloading messages from the server.
+

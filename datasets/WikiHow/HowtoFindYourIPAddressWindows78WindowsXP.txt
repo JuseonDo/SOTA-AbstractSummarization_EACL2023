@@ -1,0 +1,22 @@
+@summary
+click the start button.
+
+@summary
+search in the search bar, "cmd" and hit 'enter'.
+
+@summary
+in the black screen, (command prompt/cmd) type in "ipconfig".
+
+@summary
+,
+
+@summary
+a bunch of letters and numbers should appear.
+@article
+;
+, If using Windows XP, hit the start button, then hit "run," then type in "CMD," and hit 'enter.'
+
+
+A small black screen should appear, with some words, letters, and numbers already on the screen. "CMD" is short for Command Prompt.
+, If using Windows XP the information about your IP Address should be near the area. Scroll up and down to find it. If using Windows 7/8, once you type in "ipconfig", scroll up a little bit to find your IP Address's, and information about your ethernet/DSLR cable and wireless router.
+

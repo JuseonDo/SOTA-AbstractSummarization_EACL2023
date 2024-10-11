@@ -1,0 +1,11 @@
+@summary
+place the whole number over 1.
+
+@summary
+find another fraction equivalent to 1; any number over itself.
+
+@summary
+multiply the whole number by the fraction equivalent to 1.
+@article
+ If you had the number 3, for instance, you would change it to 3/1.
+ For example, you could use 5 fifths or 12 twelfths., You should have the same whole number when you are done multiplying. For example, multiplying 12 twelfths by 3 equals 36 twelfths, or 36/12.

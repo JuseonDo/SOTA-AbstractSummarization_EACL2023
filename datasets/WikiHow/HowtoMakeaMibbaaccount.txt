@@ -1,0 +1,31 @@
+@summary
+go to http://www.mibba.com;
+
+@summary
+,
+
+@summary
+click "register" in the top right corner.
+
+@summary
+,
+
+@summary
+you will then be taken to the registration page.
+
+@summary
+read the terms of service.tick the next box to verify you are or over 13 years of age.
+
+@summary
+lastly, tick the box stating that this is your first account on the site.
+
+@summary
+now, check the email address you provided.
+
+@summary
+enjoy being part of one of the finest writing communities on the web.
+
+@article
+,, First, choose your username. This must be between 3 to 20 characters long, and not contain cuss-words. Next, type and retype the password you wish to use for your account. Then enter your email address, an activation link will be sent to it, along with any story update notices you subscribe to. Select the country you live in from the drop down box.
+ If you agree to them, tick the box.
+, You are NOT allowed to make more than one account. If you do, you WILL be found out, and your accounts banned., Click the activation link, and then you can log in.

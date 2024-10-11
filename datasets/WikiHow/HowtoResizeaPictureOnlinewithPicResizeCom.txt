@@ -1,0 +1,28 @@
+@summary
+go to www.picresize.com;
+
+@summary
+,
+
+@summary
+click on browse.
+
+@summary
+click on continue.
+
+@summary
+when you have finished, click 'i'm done, resize my picture!',
+
+@summary
+you will then see several options.
+
+@summary
+find where the picture was saved on your computer.
+@article
+, Find the file in your computer and click open.
+ You will have choices to crop your picture and reduce its size by a certain percentage.
+
+
+, You need to save your picture to disk. (It will download to your computer).
+ It was probably saved in Downloads. Now you can add the picture to Moodle.
+

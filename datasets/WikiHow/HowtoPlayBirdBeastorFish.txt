@@ -1,0 +1,16 @@
+@summary
+write on the top of a piece of paper the words "bird, beast, and fish.
+
+@summary
+think of an animal.
+
+@summary
+make guesses.
+
+@summary
+if the player guesses correctly it is his turn to give either a bird, beast, or fish.
+
+@article
+";
+, One player thinks of the name of an animal and puts down the first and last letters of the word, marking dashes for the other letters.
+ The second player thinks over all the names of animals containing that number of letters, until finally the player guesses what it is, or else gives up.

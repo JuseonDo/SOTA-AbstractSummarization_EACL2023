@@ -1,0 +1,36 @@
+@summary
+download the lg drivers for the phone.
+
+@summary
+enable usb debugging from the developer menu.
+
+@summary
+download ioroot.
+
+@summary
+extract the archive to your computer.
+
+@summary
+run the corresponding ioroot file for your os.
+
+@summary
+accept the rsa fingerprint prompt on your phone.
+
+@summary
+follow ioroot's instructions.
+
+@summary
+download and install supersu from the play store.
+
+@summary
+download a root checker application to verify root access is granted.
+
+@article
+ This will allow ADB to function.;
+, If you don't already have the Developer Menu enabled, tap Build Number 7 times to enable Developer Mode.
+ You can get it by either Googling it or heading to XDA Developers.
+ You should have a folder labeled "ioroot" on your hard disk.
+ This will bring you into IOroot.
+ This will allow the ADB process to connect.
+ It will automatically complete the root process and will reboot your phone.
+ This is necessary as it will install su into the /bin folder. After installation, it'll ask you to reboot. Do so.

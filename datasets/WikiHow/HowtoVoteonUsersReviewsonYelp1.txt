@@ -1,0 +1,18 @@
+@summary
+visit the yelp web page in your web browser.
+
+@summary
+search for any company.
+
+@summary
+,
+
+@summary
+click the button that corresponds to the right information on the businesses review page (businesses own home page on yelp).
+@article
+;
+,, You'll have choices for the review being useful, funny or cool.
+
+
+The system will auto-save this clicked vote information for you, and update all pre-existing vote totals. You may vote for as many as you like, but only one vote for each button per account will count.
+

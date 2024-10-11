@@ -1,0 +1,85 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll down to privacy.
+
+@summary
+,
+
+@summary
+tap location services.
+
+@summary
+,
+
+@summary
+tap the slider to the right of "location services" if the slider is grey.
+
+@summary
+scroll down and tap messages.
+
+@summary
+,
+
+@summary
+tap while using the app.
+
+@summary
+open the imessage app on your iphone.
+
+@summary
+,
+
+@summary
+tap the conversation from the person you wish to share with.
+
+@summary
+tap i at the top right corner of the screen.
+
+@summary
+,
+
+@summary
+tap send current location.
+
+@summary
+open your phone app.
+
+@summary
+,
+
+@summary
+tap the contacts option from the menu at the bottom of the screen.
+
+@summary
+,
+
+@summary
+tap the contact who you wish to share with.
+
+@summary
+,
+
+@summary
+tap share my location.
+@article
+ It's an app showing grey cogs that can be found on one of your home screens.;
+,,,
+
+
+When Location Services are enabled the slider will turn green.
+, This function is enabled by default, but you may be prompted to adjust your settings if it's disabled.
+,
+
+
+If you need to share your location with a new contact, compose a new message first.
+, A map with a pin drop indicating your location will be sent.
+
+
+If you're on the move, tap Share My Location instead. This is a good option if you want to send real-time updates with the recipient.
+,,,
+
+
+You'll see 3 options: "Share for One Hour", "Share for One Day", or "Share Indefinitely". After selecting one of these options, tap Stop Sharing when you want to stop sending location information.
+

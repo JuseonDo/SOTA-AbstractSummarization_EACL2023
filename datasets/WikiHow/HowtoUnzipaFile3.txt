@@ -1,0 +1,21 @@
+@summary
+download and install winzip.
+
+@summary
+open winzip.
+
+@summary
+select your files.
+
+@summary
+press the "unzip" button at the top.
+
+@summary
+find your files.
+@article
+ Go to WinZip.com and download the Winzip software. Install the WinZip software.
+ Double click on the WinZip file icon. A box will appear asking if you understand the terms and conditions, click agree.
+ Using winzip select all of the .zip files you want extracted to a normal file.
+ Another window will appear, in this window choose the folder you want to put the files in, and press unzip.
+ Go to your chosen folder and locate your now unzipped files.
+

@@ -1,0 +1,17 @@
+@summary
+invest in high armor, long range, and heavy hits.
+
+@summary
+think like a naval captain for maneuvering.
+
+@summary
+keep a moderate distance from enemies.
+
+@summary
+level closed in areas and destroy as much cover as possible.
+@article
+ Collect as much armor and as many heavy weapons as you can.;
+, Keep you weak points pointing away from your enemies.
+ A gang-rush is effective against slow-moving tanks. You will want to avoid that as much as possible.
+ This will give lighter units less area to hide in and stealth units fewer things to hide behind.
+

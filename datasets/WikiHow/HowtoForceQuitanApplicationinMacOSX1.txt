@@ -1,0 +1,25 @@
+@summary
+open the apple menu.
+
+@summary
+click on force quit… toward the middle of the menu.
+
+@summary
+,
+
+@summary
+click on the app you want to quit.
+
+@summary
+click on force quit.
+@article
+ It's the black Apple on icon in the upper-left corner of the screen.;
+,,
+
+
+The note "(Not Responding)" will appear next to frozen apps.
+ The app will quit and can be restarted.
+
+
+If your computer is frozen, you may need to restart it.
+

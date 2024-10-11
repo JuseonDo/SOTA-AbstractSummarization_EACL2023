@@ -1,0 +1,56 @@
+@summary
+open the applications folder and launch the facetime app.
+
+@summary
+sign in to facetime using your apple id and password.
+
+@summary
+click on “contacts” at the bottom right corner of facetime, and select the contact with whom you’d like to chat using facetime.
+
+@summary
+tap on the phone number or email address for the person you wish to contact using facetime.
+
+@summary
+wait for your contact to accept the facetime call.
+
+@summary
+click on “facetime” and select “preferences” to confirm your email status is listed as “verified.” before you can start using facetime, your email address must be verified by apple.
+
+@summary
+try toggling facetime off and back on if you have problems using facetime or receive the message, “waiting for activation.” in some cases, toggling facetime off and on can help resolve activation problems.
+
+@summary
+verify that your computer’s date, time, and time zone are accurate.
+
+@summary
+verify that you’re running the latest version of facetime if you continue to experience difficulties with activating or using the application.
+@article
+ If FaceTime is not already installed on your computer, launch the App Store, search for “FaceTime,” and follow the on-screen instructions to install FaceTime on your computer.;
+,
+
+
+If you do not have an Apple ID, navigate to My Apple ID at https://appleid.apple.com/account, and follow the on-screen instructions to create an Apple ID.
+
+
+
+Click on the plus sign to add a new contact, then enter your friend’s FaceTime contact information into the fields displayed on-screen. You may need to contact your friend offline to obtain their FaceTime contact information in the form of an email address or phone number., The FaceTime app will begin dialing your friend.
+ Your FaceTime video chat session will now begin.Click on “End” in FaceTime at any time to end your video chat session.
+
+
+
+If your email status is listed as “verifying,” log into your email account and follow the instructions outlined in Apple’s verification email to verify your email address for use with FaceTime.
+
+
+
+Click on “FaceTime,” select “Preferences,” then toggle the slider button from “Off” to “On.”
+
+
+, In some cases, Apple may prevent you from using FaceTime if your time and date settings are incorrect for your region.Click on the Apple menu and select “System Preferences.”
+Click on “Date and Time,” then select “Date and Time” again.
+Select “Set automatically,” then click on the “Time Zone” tab to confirm your time zone is now correct.
+ Using an outdated version of FaceTime may prevent you from being able to make or receive FaceTime calls.
+
+
+Click on the Apple logo and select “App Store.” The App Store will launch and display on-screen.
+Click on “Updates,” then select the option to install any available updates from Apple. Any available updates for FaceTime will now be installed on your computer.
+

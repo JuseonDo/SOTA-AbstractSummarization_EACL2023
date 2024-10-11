@@ -1,0 +1,9 @@
+@summary
+remove the two small screws from the lcd unit.
+
+@summary
+replace the lcd unit with the new part you received.
+@article
+ This will free the LCD unit from the radio.
+ Be very careful not to strip screws or tighten too much as you will crack the LCD unit. Note: Be sure to remove the protective plastic cover from the unit, before you replace the LCD.
+

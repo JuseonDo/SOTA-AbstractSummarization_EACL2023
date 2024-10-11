@@ -1,0 +1,37 @@
+@summary
+knit a section.
+
+@summary
+change colour and work backwards from * reading decrease instead of increase.
+
+@summary
+,
+
+@summary
+cast off.
+
+@summary
+,
+
+@summary
+work 7 more sections in the same manner.
+
+@summary
+,
+
+@summary
+sew the sections together, stuffing well before finishing the seam.
+
+@article
+ To make a section:
+
+
+Cast on 2 stitches and knit 1 row.
+2nd row - Increase at beg. of next row. Knit 1 row.
+4th row - Increase at end of next row. Knit 1 row.
+6th row. - Increase at each end of next row. Knit 8 rows.
+15th row - Increase at each end of next row. Knit 8 rows.
+24th row - Increase at each end of next row. Knit 6 rows.
+31st row - Increase at each end of next row. Knit 6 rows.
+38th row - Increase at each end of next row. Knit 12 rows *.;
+,,,,

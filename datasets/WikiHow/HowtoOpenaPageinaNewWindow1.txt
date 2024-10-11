@@ -1,0 +1,9 @@
+@summary
+right click on the link on your current window.
+
+@summary
+choose open in new window.
+@article
+;
+, The page will open in a new window. Alternatively, you can pick Open in New Tab if you want it to open in a new tab within your window.
+

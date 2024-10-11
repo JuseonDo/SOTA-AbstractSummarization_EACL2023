@@ -1,0 +1,31 @@
+@summary
+choose the pet you want.
+
+@summary
+select the colors you want your pet to be.
+
+@summary
+choose the eye type for your pet.
+
+@summary
+change your pet's body type.
+
+@summary
+click "next" when you have finished customizing your pet.
+
+@summary
+,
+
+@summary
+choose a name for your pet.
+
+@summary
+confirm your purchase.
+@article
+ An entire list of pets will appear but the pet you chose will be selected.
+ There are two colors and the selection is very limited.
+ There are six very different eyes to choose from.
+ There are three options -- body, nose and pattern. Use the arrows, either side to find the body, nose and patter you like best.
+, There are lots of silly words you can put together to make a funny name but you are also able to make a sensible name.
+ Ordinary pets from Claws 'N Paws will cost you 400 gems.
+

@@ -1,0 +1,26 @@
+@summary
+extract plan – export a 2d dwg floor plan from your revit model for reference in rhino.
+
+@summary
+create form - we will generate a ‘draped’ form using rhinoceros.
+
+@summary
+create model file – select the surface or the extrusion, use file-export selected objects and select the sat file extension.
+
+@summary
+,
+
+@summary
+generate revit roof – in revit, create a new mass and import the sat file from the previous step.
+
+@summary
+once located properly, use the roof by angle tool to generate a roof using any roof type.
+
+@summary
+finally, select the chain of interior roof as the target.
+
+@article
+ You can export a 2D DWG, but be careful when importing 3D DWG data into Rhino 3.0 (no problem in Rhino 4.0) without using the 3.0 bonus tools. Check the units in Rhino under Tools-Options then either Import or Insert the DWG plan as a reference.Tip: You can use horse’s dimensioning tools to verify the scale of the DWG insert.;
+, This is done simply by drawing a shape curve and a straight curve, then using the Extrude CurveAlong Curve tool to generate a surface between the curves. The surface can then be transformed into a solid using the Extrude Surface tool. You can import just the surface into Revit, but the flat surface will be difficult to visualize on-screen.
+, You may have to adjust its XYZ location before finishing the mass which can be accomplished in plan or elevation.
+ Pick the top or bottom face of the mass element.

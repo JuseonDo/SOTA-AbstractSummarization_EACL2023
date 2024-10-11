@@ -1,0 +1,17 @@
+@summary
+open your command prompt.when this opens, type "ipconfig /all" into the window,find the address of your default gateway (it should be something similar to 192.168.2.1),open your browser and type the address you found in the browser.
+
+@summary
+when on your router page, enter your username and password.
+
+@summary
+look for a list of devices.
+
+@summary
+open your command prompt.type "arp -a" into the window.
+
+@summary
+notice each device who's ip address starts with 192.168.
+@article
+  This can be found in Windows 8 by pressing your Windows key and searching for "cmd".
+,,,  If you haven't changed it, input the default information.  (This can vary based on your router manufacture and model, but will be listed in your instruction manual)., Depending on  your router manufacture, you may have a different page, but there should be a tab that says something similar to "Connected Devices."  Click on it and it will show all the devices connected to your network,  This can be found in Windows 8 by pressing your Windows key and searching for "cmd".,, This is each device that is connected to your network!  It will show IP addresses and MAC address for each device connected, so unless you know your information for each device, you will also have to look that up as well.

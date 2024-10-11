@@ -1,0 +1,27 @@
+@summary
+fill the excel sheet with your text.
+
+@summary
+,
+
+@summary
+highlight the entire worksheet.
+
+@summary
+open the "data" menu on the toolbar, then click the "sort" option.
+
+@summary
+choose the column you want to alphabetize by selecting it under "sort by.",
+
+@summary
+select "ascending" to sort the chosen column in ascending order.
+
+@summary
+click "ok." your cells will now be alphabetized.
+
+@article
+, To do this use the shortcut keys "Control + A" or "Command + A." You can also highlight by clicking the blank box in between the row and column headings on the top left.
+ A "Sort" box will appear. If you have labeled the columns, select the "Header row" option under "My list has." If you have not labeled the columns, select the "No header row."
+
+, If you selected the "Header row" option, the options under "Sort by" will be your column headings. If you have selected "No header row," the options will be the standard letter column headings.
+ Or select "Descending" to sort the chosen column in descending order.

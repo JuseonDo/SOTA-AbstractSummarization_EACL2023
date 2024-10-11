@@ -1,0 +1,26 @@
+@summary
+download a free itunes backup extractor.if you search itunes backup extractor on google, probably various kinds of software will be listed.
+
+@summary
+install and run the free itunes extractor.
+
+@summary
+select itunes file which exists on your computer.itunes backup extractor will automatically list all backups of your ios device, if you cannot find the device backup, it’s probably because your ios device has not been synchronized with itunes.
+
+@summary
+specify file types which you need.in this step, you can simply click “next” to enter next process.
+
+@summary
+browse and extract itunes backup files.in the scan result, you can browse and view all content of your itunes backup file listed.
+
+@summary
+finally, itunes backup files will be saved in separately folders in readable file forms.
+@article
+ But I cannot promise all the tools are free. Here I will introduce is a 100% free tool to view, explore, browse, extract and retrieve files from iTunes backup. Search “itunesextractor”, you will find the page.;
+, The downloaded original files is absolutely risk-free and in proper size. It takes a few seconds for the installing process. Then simply double click the icon on your desktop to start the program.
+ Choose the backup file you want to extract files from, tap “Next” to continue.
+ All options including Camera Roll, Photo Steam, App Photos, App Videos, Messages, Messages Attachments, Contacts, Call History, Notes, WhatsApp, WhatsApp Attachments, Reminder, Calendar, Safari Bookmarks will be scanned. Or you can select some of them to save processing time if your have large amount of data to be extracted and browsed. Then click “Next”
+
+, Like the step 4, choose the specified files types for saving, or simply do nothing but click “Recover” to extract and save files wherever you want on your computer.
+ You can print them out our save on your computer as another readable backup
+

@@ -1,0 +1,34 @@
+@summary
+make two teenage sims that aren't related in any way, male and female.
+
+@summary
+turn on testingcheatsenabled true.
+
+@summary
+put the teenage sims' relationship up with treats.
+
+@summary
+press ⇧ shift and right-click onto a sim.
+
+@summary
+get one sim to propose marriage.
+
+@summary
+get them married privately or with a ceremony.
+
+@summary
+,
+
+@summary
+age them back into teens after they get wed to each other.
+@article
+ You'll have to make a young adult, but they can be deleted in game.;
+, If you don't know how to enable cheats, press Ctrl+⇧ Shift+C at the same time.
+ Make one of the Sims propose "going steady" and build their relationship right up, whether with cheats or without cheats.
+ Press Edit in Create a Sim. It will appear like normally. Age them up to young adult. Do the same with the other Sim.
+ Hopefully, the Sim will accept. If not, drag their relationship up.
+,
+
+
+They will still have the Married relationship sign since they're already married...they can do romantic interactions with each other so it's realistic.
+

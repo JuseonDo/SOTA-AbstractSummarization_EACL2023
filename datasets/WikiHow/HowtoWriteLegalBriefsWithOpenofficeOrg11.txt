@@ -1,0 +1,5 @@
+@summary
+just push the pdf botton or go to file, export to pdf.
+@article
+ I would try out your pdf document in adobe reader or a similar program and see if it is navigable through a table of contents. If it is not navigable, this means you did not mark your headings properly.
+

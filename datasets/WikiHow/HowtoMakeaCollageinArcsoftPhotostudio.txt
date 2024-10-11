@@ -1,0 +1,100 @@
+@summary
+choose the images you want to have in the collage.
+
+@summary
+open arcsoft photostudio.
+
+@summary
+,
+
+@summary
+click on 'file' along the top and then click on 'open'.
+
+@summary
+browse through your folders until you find the right image(s).
+
+@summary
+maximize the image.
+
+@summary
+,
+
+@summary
+click on 'edit' up in the toolbar and then click on 'magic cut'.
+
+@summary
+follow the directions supplied below the image and then click 'next'.
+
+@summary
+,
+
+@summary
+follow the directions below the image to "fine tune" it.
+
+@summary
+click on 'finish'.
+
+@summary
+,
+
+@summary
+click on the magic wand in the 'tools' section.
+
+@summary
+click on 'edit' near the top and then select 'copy'.
+
+@summary
+click on 'file' and then on 'new'.
+
+@summary
+go to 'edit' and then 'paste' in the blank page.
+
+@summary
+,
+
+@summary
+click on the 'move' icon in the 'tools'.
+
+@summary
+drag the image around until you have it where you want it.
+
+@summary
+,
+
+@summary
+add more images.
+@article
+ They could be real photos, or non-real images, scanned drawings, or any other thing.;
+,, You may also just do 'Ctrl+O' to automatically do this.
+
+
+
+If there's only one image, then just select it and then press 'Open'.
+
+
+
+
+
+
+If there are multiple images, then hold down 'Ctrl' and select as many images as you'll use.
+, Magic Cut will perfectly crop the image to how you want it to appear.
+, The pencil icon will add more of the image; whereas the eraser icon will remove part of the image.
+, Now click inside the image.
+
+
+If the flashing dashes go around more than you want, using the 'Tool Options', bring the tolerance down.
+
+
+
+
+
+
+If the flashing dashes go around less than you want, using the 'Tool Options', bring the tolerance up.
+ Or you could do it automatically by doing 'Ctrl+C' on a Windows computer, or 'Command+C' on a Macintosh computer. Now the selected part of the image will be copied.
+ Now a blank page should appear.
+
+
+If this blank page isn't white; then click on the 'Bucket Fill' in the 'Tools' section. After that, click on the 'Color Grid' and select white.
+, Now, you'll be able to move the image by dragging it around the page.
+, Enjoy your collage!
+

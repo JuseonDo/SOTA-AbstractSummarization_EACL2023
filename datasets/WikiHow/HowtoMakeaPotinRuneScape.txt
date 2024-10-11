@@ -1,0 +1,21 @@
+@summary
+know that you only need a level 1 crafting level to make them.
+
+@summary
+obtain clay.
+
+@summary
+turn the clay into soft clay.
+
+@summary
+click on a pottery wheel.
+
+@summary
+fire the pots in a pottery oven.
+@article
+;
+, You can mine clay rocks or buy them at the Grand Exchange.
+ You can use any water source, for example wells and fountains on the clay.
+ Click on the "Pot" option to make an "unfired pot".
+ This will change them into an "empty pot".
+

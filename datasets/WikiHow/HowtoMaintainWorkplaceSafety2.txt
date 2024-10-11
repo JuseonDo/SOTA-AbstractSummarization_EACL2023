@@ -1,0 +1,9 @@
+@summary
+require employees to wear protective equipment necessary to do their jobs safely.
+
+@summary
+require employees to read material safety data sheets for chemicals used for cleaning or other situations.
+@article
+ Whenever possible, prevent exposure to hazardous materials by reducing the number of situations that personal protective equipment is necessary.
+ Material Safety Data Sheets tell how chemicals may be handled safely and what personal protective equipment must be worn when working with specific chemicals.
+

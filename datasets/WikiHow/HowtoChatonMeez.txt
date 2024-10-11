@@ -1,0 +1,38 @@
+@summary
+make a meez.
+
+@summary
+click "meez nation", once you've made a meez.
+
+@summary
+,
+
+@summary
+click on a hood.
+
+@summary
+click on a room.
+
+@summary
+to talk, click on the grayish bar at the bottom.
+
+@summary
+type and press "enter.",
+
+@summary
+talk to people.
+
+@summary
+,
+
+@summary
+add someone as a friend.
+@article
+ You can't do anything on the website without one.;
+,, The hoods are the buildings that you see in gray. If you get an "Oops! Sorry" page, go to the site's Tips.
+ Go to the second tip for info about capacity.
+ (Where the Meez room ends.) Click specifically on the part that looks caved in.
+
+
+,, Click on their name or if their name doesn't show, put your mouse a little below their feet and click the gray bar there. While holding the mouse down, click on "Add as a friend."
+

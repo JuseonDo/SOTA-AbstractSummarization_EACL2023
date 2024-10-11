@@ -1,0 +1,29 @@
+@summary
+the books you can create with apple’s iphoto program are varied.
+
+@summary
+begin with an 8”x6” blank photoshop page and fill it with the endless options available in the program; screened images, special fonts, filtered effects.
+
+@summary
+when the page is complete, save it as a psd in case you need to come back to it later with changes.
+
+@summary
+drag the .jpg into an iphoto album.
+
+@summary
+choose the book’s “crayon” theme.
+
+@summary
+in minutes you can complete your book because the work has already been done.
+
+@summary
+you have the choice of different size books: hard or soft covers, and spiral or self bound.
+@article
+ The designs or layouts of the books offered, although fairly adequate in number, do present some restrictions. If you don't have the latest version of the program, your limitations are even greater. You are given only so many fonts, frames, caption boxes, etc. It’s almost criminal to limit creative people, so we found a simple solution to the iPhoto book restrictions. Create all our book pages in Photoshop.;
+, Take full advantage of the huge selection of tools and allow your creativity to flourish.
+ Also save it as a .jpg.
+ Once the album is filled with the number of pages you want, select the album and click on "Book".
+ It will allow you to have a blank layout on all pages, which is perfect for dropping in your Photoshop pages. This isn’t possible in most other book themes. The back cover layout is the only part of the book that is not flexible.
+ After you've dragged your .jpgs onto the blank book pages, order the book.
+ Choose the option that best suits your pages and theme.
+

@@ -1,0 +1,19 @@
+@summary
+select the star battle arena in the main menu.
+
+@summary
+pick any character.
+
+@summary
+,
+
+@summary
+complete the whole star battle.
+
+@summary
+complete star battle a second time.
+@article
+;
+,, Once you do you will unlock one of either Hammer Bro. or Blooper, the Squid.
+ Do the star battle again once more. When you get there press continue. Then you will get the character that you did not get last time.
+

@@ -1,0 +1,49 @@
+@summary
+plan your trip.
+
+@summary
+look for the ticket machine at the station.
+
+@summary
+,
+
+@summary
+determine what ticket type you want.
+
+@summary
+enter the quantity.
+
+@summary
+,
+
+@summary
+pay for your ticket(s).
+
+@summary
+retrieve your ticket.
+
+@summary
+,
+
+@summary
+get on the side of the station with the train going in the direction you want to go.
+
+@summary
+,
+
+@summary
+when the train stops in front of you, wait for others to get off.
+
+@summary
+listen to the announcements.
+
+@summary
+exit the train at your station.
+
+@article
+ The TriMet Trip Planner tool will help you figure out which line you need to take and how much it will cost. There are four lines: Blue, Green, Red, Yellow.;
+,, Tickets are sold by the amount of time they are good for. The smallest increment is 2 hours, which sells for $2. You can also purchase:
+
+,, Most machines accept both cash and card, unless they say "card only".
+,, Then you can board and take a seat.
+ The MAX stops at every station and the station name is announced before each stop. The name of the next station is also shown on an electrical sign.

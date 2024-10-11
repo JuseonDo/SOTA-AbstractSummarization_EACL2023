@@ -1,0 +1,35 @@
+@summary
+right-click on your adobe program's shortcut and select "properties".
+
+@summary
+click the "find target" or "open file location" button.
+
+@summary
+open the "app" folder, and then open the program folder.
+
+@summary
+find the "adobe_eula.dll" file.
+
+@summary
+right-click the file and select "rename".
+
+@summary
+change the name from "adobe_eula.dll" to "adobe_eula.old".
+
+@summary
+run your adobe program.
+
+@summary
+repeat for other adobe programs.
+@article
+ This will be the quickest way to open the correct folder.;
+, This will open the folder for your Adobe program.
+ For example, if you're trying to remove the license agreement from Photoshop CS4, open the "Photoshop" folder in the "App" folder.
+ This is the file that controls the appearance of the license agreement.
+
+
+Note: This only works in CS4 and earlier.
+ This will allow you to change the file name.
+ This will turn the file into a backup so that it isn't deleted, but will keep it from being run by the program.
+ When you launch your Adobe program again, you should be able to skip right past the license agreement.
+ If you use multiple Adobe programs, you'll need to repeat these steps in each program's "App" folder.

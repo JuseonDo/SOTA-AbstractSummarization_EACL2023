@@ -1,0 +1,50 @@
+@summary
+open up your web browser and head to www.yahoo.com.
+
+@summary
+click the "mail" icon and sign into your account.
+
+@summary
+head to "settings.",
+
+@summary
+click "accounts.",
+
+@summary
+choose “edit your account info.” a new tab will open and you will be asked to verify your yahoo password again.
+
+@summary
+click on the password box below your username and enter your password.
+
+@summary
+choose “set up your second sign-in verification.” you will see a menu that says “protect your account” and below that is a purple button that says “get started.”
+
+@summary
+,
+
+@summary
+click on "get started.",
+
+@summary
+enter your mobile number.
+
+@summary
+enter verification code.
+@article
+ This will bring you to the Yahoo! home page.;
+, On the home page, look to the top-left side of your screen for the "Mail" icon. This will be in the purple banner on the top of the page.
+ In your Yahoo! Mail page, Look for the small gray gear on the right side of the screen; click it to open a drop-down menu. Select "Settings" from the options and a settings menu will pop up on your screen.
+ This will cause a new list of settings to appear. The top of the list will now say “Yahoo Account” followed by your Yahoo! E-mail address. Below that you will notice 3 blue links to choose from.
+ This is normal, as you are going to be editing account sensitive information. It is simply an extra layer of protection for you.
+ Click on the purple "Sign In" button right below your password.
+,
+
+, First click the drop-down menu and select your country from the list. Now select the box next to it and enter in your mobile number.
+
+
+Click the "Send Code" button to continue.
+ Now a screen will pop up asking you to enter in the verification code. Check your mobile device and enter the 5-digit code into the box. Then click "Okay."
+
+
+You are all set! Your account is secured and you can toggle it between on and off as you please!
+

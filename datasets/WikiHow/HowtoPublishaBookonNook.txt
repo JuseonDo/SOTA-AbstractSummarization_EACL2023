@@ -1,0 +1,29 @@
+@summary
+prepare something that you wish to publish.
+
+@summary
+if you don't have a barnes and noble account already, go to www.pubit.com to create an account.
+
+@summary
+convert the file to epub.
+
+@summary
+upload your book.
+
+@summary
+upload your cover in section three of the "add a title" page.after you have fill out the "add a title" page and previewed your book, click "put on sale"
+
+@summary
+,
+
+@summary
+your book will appear on the b&n website, most likely within 24 to 72 hours!
+
+@article
+ This can be a book, graphic novel, poem, essay, etc. of your original creation.;
+, You will need to fill in the information concerning how to contact, and pay you as well as what you want your publishing name to be (i.e. a pseudonym, your initials and last name, your whole name etc.)
+
+, There is a tool on Pubit that can help with this.
+ At the top of the page click on the my titles tab, then click "Add a Title". Upload your book in section 2 by clicking "Upload and Preview" and fill out any additional required information.
+ Click "Browse", choose the correct file, and then click "Upload".
+,

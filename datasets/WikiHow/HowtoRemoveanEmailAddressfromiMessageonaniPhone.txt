@@ -1,0 +1,30 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll down and tap messages.
+
+@summary
+tap send & receive.
+
+@summary
+tap the info button next to the email address you want to remove.
+
+@summary
+tap remove this email.
+
+@summary
+,
+
+@summary
+tap remove email address in the pop-up menu.
+@article
+ This is the gray gear icon located on your Home Screen.;
+, This will be in the fifth set of options in the Settings menu.
+ This is the fifth option in the Messages menu.
+ This is the blue "i" icon in a circle on the right side of your screen.
+,
+
+
+Note that you cannot remove your Apple ID email address from iMessage. You can check your Apple ID email at the top of your screen before you tap the Info button. You will have to change your Apple ID email first, if this is the email address you want to remove from iMessage.
+

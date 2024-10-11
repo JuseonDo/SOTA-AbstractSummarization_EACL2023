@@ -1,0 +1,298 @@
+@summary
+run the most recent version javascript.
+
+@summary
+adjust settings in the browser.
+
+@summary
+,
+
+@summary
+click on tools in ie7.
+
+@summary
+,
+
+@summary
+open internet options and click on security tab, then custom level.
+
+@summary
+,
+
+@summary
+shut off the internet security controls while doing the security settings.
+
+@summary
+after settings are adjusted, click ok. you will get ie warning message: click yes
+
+@summary
+,
+
+@summary
+click on advanced folder and go to bottom.
+
+@summary
+,
+
+@summary
+click on empty internet files.
+
+@summary
+click on settings under tabs (how webpages...).
+
+@summary
+,
+
+@summary
+check off circles: always open pop-ups in new tab and a new tab in the current window.
+
+@summary
+,
+
+@summary
+click ok.
+
+@summary
+,
+
+@summary
+close ie7 browser.
+
+@summary
+,
+
+@summary
+right click on ie7 icon on desktop and click start without add-ons.
+
+@summary
+close ie7 and repeat last step.
+
+@article
+;
+,,,,
+
+.NET Framework: enable all settings
+
+
+
+
+
+
+ActiveX controls and plug-ins:
+
+
+
+
+
+
+Previously used ActiveX controls: disable
+
+
+
+
+
+
+Allow scriptets, automatic prompting, Binary and script behaviors, Display video and animation on webpage: enable
+
+
+
+
+
+
+Download signed ActiveX controls, download unsigned activeX controls, initialize and script activeX controls: Prompt
+
+
+
+
+
+
+Run ActiveX controls and plug-ins (again), script ActiveX controls marked safe for scripting: Enable
+
+
+
+
+
+
+Downloads: Automatic prompting for file downloads: Disable
+
+
+
+
+
+
+Downloads: File download, font download: Enable
+
+
+
+
+
+
+Enable .NET framework setup: Enable
+
+
+
+
+
+
+Microsoft VM: Medium safety
+
+
+
+
+
+
+Misc: access data sources across domains: Disable
+
+
+
+
+
+
+Allow META refresh: Enable
+
+
+
+
+
+
+Allow scripting of internet explorer web-browser control, allow script initiated windows without size or position: Disable
+
+
+
+
+
+
+Allow webpages to use restricted protocols: Prompt
+
+
+
+
+
+
+Allow websites to open windows without address or status bars: Disable
+
+
+
+
+
+
+Display mixed content: Prompt
+
+
+
+
+
+
+Don't prompt for client certificate selection: Disable
+
+
+
+
+
+
+Drag and drop or copy and paste files, include local directory path: Enable
+
+
+
+
+
+
+Install desktop items, launching applications and unsafe files, launching programs and files in iframe: Prompt
+
+
+
+
+
+
+Navigate subframes across different domains: Disable
+
+
+
+
+
+
+Open files based on content: enable
+
+
+
+
+
+
+Software channel permissions: Medium
+
+
+
+
+
+
+Submit nonencrypted data: Enable
+
+
+
+
+
+
+Use phishing filter, use pop-up blocker: Disable
+
+
+
+
+
+
+Userdata persistence, websites in less privileged content zone, Scripting: active scripting: Enable
+
+
+
+
+
+
+Allow programtic clipboard access: Prompt
+
+
+
+
+
+
+Allow status bar updates via script, allow websites to prompt for information: Disable
+
+
+
+
+
+
+Scripting of java applets: Enable
+
+
+
+
+
+
+Logon: Auto logon for intranet zone
+
+
+
+
+
+
+
+,,,
+
+
+Disable Phishing filter: Click Apply
+
+
+
+
+
+
+For Tab settings: Click on General
+
+
+
+
+
+
+
+,,,,, You will get warning: ignore
+
+,

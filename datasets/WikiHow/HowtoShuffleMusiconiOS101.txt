@@ -1,0 +1,20 @@
+@summary
+open the music app.
+
+@summary
+tap the "library" tab in the bottom-left corner.
+
+@summary
+tap the album, artist, or playlist that you want to shuffle.
+
+@summary
+tap the "shuffle all" button.
+@article
+ The Music app allows you to shuffle any of your playlists, artists or albums.;
+, This will display your music library.
+ Tap the "Playlists," "Artists" or "Albums" section of the Library screen, then find the item you want to shuffle.
+
+
+You can also search for artists, albums, or playlists by using the Search tab in the lower-right corner of the screen.
+ This will appear at the top of the track list for the album or playlist. This will shuffle the artist, album, or playlist's contents.
+

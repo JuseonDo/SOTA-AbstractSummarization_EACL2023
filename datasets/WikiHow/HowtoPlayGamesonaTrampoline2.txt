@@ -1,0 +1,18 @@
+@summary
+put 1-5 balls on the trampoline with 1-5 people trying to avoid them.
+
+@summary
+when someone gets touched, they fall down.
+
+@summary
+,
+
+@summary
+someone has to go over and "revive" them.
+
+@article
+ You may make up your own rules to when someone touches one. (dying, getting out, etc.)
+
+
+If you want to put a bit of a spin on this game and use your imagination, use different soft objects like stuffed animals.
+,

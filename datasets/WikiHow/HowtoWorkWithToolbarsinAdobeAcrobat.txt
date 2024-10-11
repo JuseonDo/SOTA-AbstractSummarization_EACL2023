@@ -1,0 +1,48 @@
+@summary
+click view on the menu bar and choose show/hide then toolbar items.
+
+@summary
+select the toolbar or toolbar button you want to view.
+
+@summary
+for version 9 and older, you can undock a toolbar from the acrobat window by clicking on the far left of the toolbar and dragging it to your preferred location.
+
+@summary
+toolbar docking and hide/view options (for version 9 and older):
+
+@summary
+before docking or undocking a toolbar from the acrobat window, click toolbars on the view menu and ensure that the lock toolbars option is deselected.
+@article
+ This method is for Acrobat X. Older versions may have different menu.;
+, For example, select Advanced Search.
+The Advanced Search Button is displayed. In older version of Acrobat, you can drag the toolbar buttons to a convenient location in the document window. You can also drag the toolbar buttons onto an empty area beneath the menu bar to integrate it with the Acrobat window.
+ In version 10 toolbar docking is not available.
+
+
+
+
+
+
+
+To automatically dock all floating toolbars which are visible, click Toolbars on the View menu, and select Dock All Toolbars.
+
+
+
+
+
+
+To temporarily hide all visible toolbars and gain a larger view of the document, click Toolbars on the View menu, and select Hide Toolbars.
+
+
+
+
+
+
+You can deselect the Hide Toolbars option to view the toolbars. Alternatively, you can press F8 to hide or view the toolbars.
+
+
+
+
+
+
+

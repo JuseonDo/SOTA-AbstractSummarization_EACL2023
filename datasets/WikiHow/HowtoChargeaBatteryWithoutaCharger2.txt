@@ -1,0 +1,31 @@
+@summary
+remove the battery from the electronic device.
+
+@summary
+rub the battery hard by using both of your hands to generate enough friction and heat.
+
+@summary
+place the battery back in the electronic device.
+@article
+ Hold it in your hands.
+ Continue to do this for 30 seconds to several minutes.
+
+
+
+
+
+
+
+
+
+Note: Your battery is not being recharged. Some internet commentators have suggested the rubbing the battery provides it with additional charge, perhaps from built up static electricity.This interpretation is entirely incorrect.
+Lithium ion cells, like all genuine batteries, release electricity as a consequence of chemical reactions. As predicted by the Arrhenius equation, these reactions become more powerful as temperatures increase.Essentially, you are improving the conductivity of the battery by raising its temperature.
+ You may only have a few moments of battery life, so make the most of them.
+
+
+
+
+
+
+
+

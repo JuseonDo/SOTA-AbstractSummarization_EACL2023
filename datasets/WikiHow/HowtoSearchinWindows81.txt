@@ -1,0 +1,80 @@
+@summary
+open the charms bar.
+
+@summary
+select 🔎 search.
+
+@summary
+,
+
+@summary
+type in your search.
+
+@summary
+,
+
+@summary
+filter your search (optional).
+
+@summary
+select your result.
+
+@summary
+launch the start screen.
+
+@summary
+click or tap the magnifying glass button 🔎 at the top right (optional).
+
+@summary
+,
+
+@summary
+type in your search.
+
+@summary
+filter your search (optional).
+
+@summary
+select your result.
+
+@summary
+launch the start screen.
+
+@summary
+press the down arrow with a circle around it at the bottom-right of your screen.
+
+@summary
+,
+
+@summary
+click or tap the search box at the top right (optional).
+
+@summary
+,
+
+@summary
+type in the app's name.
+
+@summary
+,
+
+@summary
+select the app you wish to launch.
+
+@article
+
+
+
+
+Mouse: Move your cursor towards the bottom right or top right corner of your screen and then move it up.
+
+Touchscreen: Drag your finger inwards from the right side of the screen and the charms bar should appear.;
+,,, Click or tap on Everywhere above the search box and select where you want to search.
+ If you're searching the web, click the magnifying glass icon 🔎 next to the search box.
+ This can be done by pressing the Windows icon at the lower-left of your screen.
+, If you want,
+
+, Click or tap on Everywhere above the search box and select where you want to search.
+ If you're searching the web, click the magnifying glass icon 🔎 next to the search box.
+ This can be done by pressing the Windows icon at the lower-left of your screen.
+,,,

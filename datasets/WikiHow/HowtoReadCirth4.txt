@@ -1,0 +1,8 @@
+@summary
+understand what this form was used for.
+
+@summary
+learn the forms of the runes.
+
+@article
+ The Angerthas Moria was the form used by the dwarves of Khazad-dum (Moria to the Elves). As such, it was adapted to writing the Dwarven language, Khuzdul.,

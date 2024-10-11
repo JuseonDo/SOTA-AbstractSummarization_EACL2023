@@ -1,0 +1,13 @@
+@summary
+cover the disc with duct tape, then rip it off.
+
+@summary
+sand the discs.
+
+@summary
+wipe with acetone.
+@article
+ This does not work on all discs.
+ Use a belt sander on the top side of the disc. This should be done in an easy-to-clean area.
+ Soak a cotton pad in pure acetone, then wipe the bottom of the disc with it. It should become frosted and unreadable.
+

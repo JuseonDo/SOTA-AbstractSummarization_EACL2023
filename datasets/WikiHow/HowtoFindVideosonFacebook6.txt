@@ -1,0 +1,40 @@
+@summary
+go to facebook.com.
+
+@summary
+click on the search bar.
+
+@summary
+type in the name of the person you're looking for.
+
+@summary
+,
+
+@summary
+click on search.
+
+@summary
+click on the person's name.
+
+@summary
+click on photos.
+
+@summary
+click on albums.
+
+@summary
+,
+
+@summary
+click on videos.
+@article
+ If you're not automatically logged in, enter your email address and password.
+ It is at the top of the screen.
+, It's the blue magnifying glass icon to the right of the search bar.
+ It should be listed in the search results.
+ It's below the person's profile picture.
+, All of the person's videos, that are visible to you, will be displayed here.
+
+
+Sometimes the privacy setting on a video may prevent you from seeing it.
+

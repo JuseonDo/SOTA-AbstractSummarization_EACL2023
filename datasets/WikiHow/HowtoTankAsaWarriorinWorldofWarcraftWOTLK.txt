@@ -1,0 +1,37 @@
+@summary
+get the right equipment.
+
+@summary
+to tank anything that matters, you're going to need the majority of your talent points spent in the protection tree.
+
+@summary
+get glyphs to increase your tanking effectiveness.
+
+@summary
+"thunderclap" is your friend, do it as soon as possible to get all nearby mobs to attack you, follow it up with a well placed "shockwave" to hit and stun at least majority of mobs, then start with the "devastates".
+
+@summary
+,
+
+@summary
+with the new patch (3.3.5a) you can charge while in defensive stance, so if the healer in the back is getting attacked, charge the mob and taunt him immediately because most healers will be dead within seconds of being attacked.
+
+@summary
+try not to let other players get you doubting yourself as a tank.
+
+@summary
+let your warriors cool off.warriors have a lot of cooldowns to reduce damage.
+
+@summary
+defend.
+@article
+ Such as a 1h (one handed weapon) and a shield to tank anything, period. Also note that you have to be facing a mob in order to block, dodge or parry their attacks. So if your back is turned to a mob, all that defense is useless. Get all the mobs in a group and make them face you however you can.;
+, 51-56 is good, remember you're here to take damage, not deal it, although dealing it keeps the aggro on you (mobs attack you instead of someone else), So might as well spend those 8 points in Fury.
+ I personally went with the "devastate" and "sunder armor" glyphs so each "devastate" applies two "sunder armor", plus a nearby mob gets another "sunder armor".
+,
+
+
+The new Defense cap is 540, so if you have that you should be good, but regardless of what people say, it is not completely necessary to tank heroics.
+ Many people think unless you have 30,000 health, you cannot tank anything., You can use them all at once and take basically no damage for about 15-20 secs, or you can spread them out one at a time to span about 40-50 secs of reduced damage in some way. To list a few, "shield block", "last stand", "shield wall", "enraged regeneration", and any trinket CDs you might have. When these are used all depends on fight and situation, use your best judgment. If a boss has an enrage effect, you should probably use one of these cooldowns.
+ Although there's nothing wrong with dodge and parry by themselves, defense rating increases both of those as well as shield block rating. So if you are below the defence cap you should focus on getting more defense. After the defense cap, dodge, parry and stamina becomes more attractive, because the gain of stats from defense is low after hitting the cap.
+

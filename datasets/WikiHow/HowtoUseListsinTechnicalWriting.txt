@@ -1,0 +1,57 @@
+@summary
+target parallel elements.
+
+@summary
+identify the items for the list.
+
+@summary
+,
+
+@summary
+rewrite the passage in two parts:
+
+@summary
+a lead-in sentence introducing the list:
+
+@summary
+the list itself-- an ordered collection of items, actions or statements arranged vertically:
+
+@summary
+,
+
+@summary
+ensure that items (or phrases) within the list are grammatically parallel.
+
+@summary
+apply bullets or numbers to the items.
+
+@summary
+follow "best practice" guidelines.
+@article
+ Determine the sentence (or paragraph) that contains two or more items that are similar or are related by context.;
+,,, Items should agree in number, tense and structure.
+ Most word processing software makes it easy to format lists with numbers, bullets or as tables. If you do not already know how to use this feature of your word processing software, search in help. And, if you do not find clear instructions in the help for your software, search online.
+
+
+Use a numbered list if the items represent a sequence
+
+
+
+
+
+
+Also use a numbered list if you intend to reference the items in your document.
+
+
+
+
+
+
+Use a table instead of a bulleted (or numbered) list for items having more than one common element.
+
+
+
+
+
+
+

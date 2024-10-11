@@ -1,0 +1,51 @@
+@summary
+solution --- join ab (post.i.
+
+@summary
+with b as center, and bc as radius, describe the circle ech (post.
+
+@summary
+produce db to meet the circle ech in e (post.
+
+@summary
+with d as center, and de as radius, describe the circle efg (post.
+
+@summary
+realize that af is equal to bc.
+
+@summary
+,
+
+@summary
+demonstrate --- because d is the center of circle efg, df is equal to de (def.
+
+@summary
+because dab is an equilateral triangle, know that da is equal to db (def.
+
+@summary
+hence af is equal to bc.
+
+@summary
+it is usual with commentators on euclid to say that he allows the use of the rule and compass.
+
+@summary
+make use of helper articles when proceeding through this tutorial:
+
+@summary
+see the article how to create a spirallic spin particle path or necklace form or spherical border for a list of articles related to excel, geometric and/or trigonometric art, charting/diagramming and algebraic formulation.
+@article
+); on AB describe the equilateral triangle ABD -- (please see the article, How to Determine a Line = to Square Root of 3 Geometrically, on how to construct an equilateral triangle correctly if you don't know how).
+
+
+To do this using the Media Browser, follow the sub-steps inside these pictures grabbed from Excel and converted via the Preview app to png files.
+ III.).
+ II).
+ III.). Produce DA to meet this circle in AF.
+, XXXII.).
+ XXI.). Hence we have DF = DE, and DA = DB; and taking the latter from the former, the remainder AF is equal to the remainder BE (Axiom III.). Again, because B is the center of the circle ECH, BC  is equal to BE; and proved that AF is equal to BE; and things which are equal to the same thing are equal to one another (Axiom I.)
+
+, Therefore from the given point A the line AF has been drawn equal to line BC.
+ Were such the case, this Proposition would have been unnecessary. The fact is, Euclid's object was to teach Theoretical and not Practical Geometry, and the only things he postulates are the drawing of right lines and the describing of circles. If he allowed the mechanical use of the rule and compass he could give methods of solving many problems that go beyond the limits of "geometry of the point, line and circle." See Notes D, F at the end of this work (referring to Archives.org or The Royal University of Ireland's publication) .
+
+For more art charts and graphs, you might also want to click on Category:Microsoft Excel Imagery, Category:Mathematics, Category:Spreadsheets or Category:Graphics to view many Excel worksheets and charts where Trigonometry, Geometry and Calculus have been turned into Art, or simply click on the category as appears in the upper right white portion of this page, or at the bottom left of the page.
+

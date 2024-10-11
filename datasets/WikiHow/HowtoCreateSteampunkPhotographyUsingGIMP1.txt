@@ -1,0 +1,48 @@
+@summary
+pick out a photo.
+
+@summary
+install gimp if you haven't already.
+
+@summary
+,
+
+@summary
+apply the old photo filter (filters > décor > old photo).
+
+@summary
+adjust the curves.
+
+@summary
+sharpen the image.
+
+@summary
+add a few coffee stains (filters > décor > coffee stain) to the photo (accidents happen with old photos, after all).
+
+@summary
+here's the final result, which we obtained only with pre-built effects.
+
+@article
+ A photo of anything steam-powered is appropriate, of course, but you can also play with images of gears, airships, hot air balloons, and anything mixing Victorian elements with mechanical technology.;
+,, This border size has been decreased a bit (the default value was a bit too large for the image).
+
+
+
+Decide if you want to let Defocus on after reading the next few steps. In this example, it was left on, as it is the default.
+
+
+
+
+
+
+And instantly we have an old looking photo.
+
+
+
+
+
+
+You can leave it as it, but if what you want is a steampunk image, read on.
+ Adjust the color curves to make it more vivid.
+ The defocus option in applying the filter was a nice touch in making the photo look old, but you want to experiment with taking it into the opposite direction and apply a heavy sharpen.
+ The stains are drawn randomly, so try a few times until you get something you like.

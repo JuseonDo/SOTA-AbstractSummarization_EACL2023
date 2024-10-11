@@ -1,0 +1,20 @@
+@summary
+find your measurements.
+
+@summary
+multiply the base by the height.
+
+@summary
+multiple that value by 1/2.
+
+@summary
+get your result.
+@article
+ You'll need to know the base measurement of the triangle as well as the height. The base can be any side of the triangle, as long as you can also measure the height. Let's say that we have a triangle with a base of 3 meters and a height of 1 meter.
+
+
+In the real world you'll have to measure for yourself but for your homework your teacher should have these measurements listed with the shape.
+ For us, this gives a value of 3 (3x1).
+ This gives us a value of 1.5.
+ That resulting value is the area of the triangle. So we get a result of 1.5 square meters.
+

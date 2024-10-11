@@ -1,0 +1,25 @@
+@summary
+go to twitter.com.
+
+@summary
+login to your twitter account.
+
+@summary
+,
+
+@summary
+click on to your profile picture which placed on the top-right.
+
+@summary
+,
+
+@summary
+open your profile.
+
+@summary
+done.
+@article
+ These steps will work throughout the entire website.;
+,,, Select "Profile" or the name of your profile from the top of the drop down menu.
+ You can scroll through all of your tweets and retweets, edit your profile, view your followers, and more.
+

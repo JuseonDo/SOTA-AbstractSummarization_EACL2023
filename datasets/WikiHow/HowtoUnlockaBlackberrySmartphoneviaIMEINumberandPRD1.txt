@@ -1,0 +1,8 @@
+@summary
+dial *#06#.
+
+@summary
+open the battery compartment of your blackberry phone.use the settings menu in your phone.
+@article
+ Your phone will display your IMEI number as 15 digits in the format: ######.##.######.#.
+ The IMEI number can be found behind the battery and just above the bar code.,

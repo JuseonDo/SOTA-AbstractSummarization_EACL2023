@@ -1,0 +1,16 @@
+@summary
+open "internet options.",
+
+@summary
+select the "general" tab.
+
+@summary
+click on the "history" tab.
+
+@summary
+close out of the window.
+@article
+ You can do this by going to the Start menu, then selecting "Control Panel," clicking "Network and Internet," and then "Internet Options."
+
+, A drop down menu will appear where you may select "Browsing History.", From here choose "Delete History" and then "OK." , You will then be shown a window. Click "OK."
+

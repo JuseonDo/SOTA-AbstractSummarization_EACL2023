@@ -1,0 +1,20 @@
+@summary
+buy a can of compressed air.
+
+@summary
+turn the computer off.
+
+@summary
+use the air to gently blow around and under the keys.
+
+@summary
+brush away any debris.
+
+@summary
+try the keys again.
+@article
+ You can find it at almost any place that sells electronics.
+ If you have a desktop, unplug the keyboard from the computer.
+ Don't tilt the can, as it can pour out liquid., If dirt or food is blown out, brush it away from the keyboard.
+ See if the keys are unstuck.
+

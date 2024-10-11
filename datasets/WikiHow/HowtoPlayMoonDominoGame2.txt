@@ -1,0 +1,7 @@
+@summary
+the full double 6 set of 28 tiles is used.create two teams of two players.bidding and play is the same as 3-player moon.
+
+@summary
+scoring.the first team to reach 21 points wins.
+@article
+ They are shuffled face down and seven are given to each player.,,, The bid is won if the total number of tricks won is equal to or more than the bid. In this case, the bidding team wins the number of tricks won. If they lose the bid, they lose the amount of the bet. The other team wins a point for each trick they have won.,

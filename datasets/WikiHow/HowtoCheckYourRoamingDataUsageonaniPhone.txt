@@ -1,0 +1,45 @@
+@summary
+open the settings app.
+
+@summary
+tap cellular.
+
+@summary
+,
+
+@summary
+look at the "current period roaming" number.
+
+@summary
+tap cellular data options.
+
+@summary
+,
+
+@summary
+tap roaming.
+
+@summary
+,
+
+@summary
+tap the voice roaming switch.
+
+@summary
+tap the data roaming switch.
+
+@summary
+tap the international cdma switch.
+@article
+;
+,, This is the amount of roaming data you've used in your current data cycle.
+,, Voice Roaming allows you to use data for phone calls while away from your home network.
+
+
+Using Voice Roaming may result in fees.
+ This will apply the Voice Roaming concept to your messaging as well.
+
+
+You can incur SMS fees while using this feature.
+ CDMA provides coverage in areas of the world where your service provider has an agreement with CDMA carriers in the region.Turning this on may result in fees.
+

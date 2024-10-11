@@ -1,0 +1,15 @@
+@summary
+tap the video call button.
+
+@summary
+wait for the call to connect.
+
+@summary
+,
+
+@summary
+when the call is connected, tap anywhere on the screen.
+@article
+;
+,, The buttons that appear allow you to select which camera on your iPad you want to use, mute the call or adjust the volume. Tap the red End Call button to hang up.
+

@@ -1,0 +1,18 @@
+@summary
+find a file that you are not sure about deleting.
+
+@summary
+ask yourself why you have this on your computer in the first place.
+
+@summary
+think of the last time that you used, read, or looked at it.
+
+@summary
+delete the file.
+@article
+;
+, Was it for a homework assignment or something you have downloaded?
+
+, You can tell by either the date created, accessed, or modified. If it was more than 3 months ago, odds are you don't need it.
+ Hit the delete button. Remember that some files on your hard drive will move into your "Recycle Bin" and still be in the "hard drive". You'll need to delete it from your Recycle Bin or empty it out to delete it forever.
+

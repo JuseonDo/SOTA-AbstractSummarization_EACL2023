@@ -1,0 +1,39 @@
+@summary
+gather the supplies.
+
+@summary
+consider how long this setup will last.
+
+@summary
+choose a location.plug your laptop into an outlet/surge protector/power strip
+
+@summary
+,
+
+@summary
+set up the monitor by plugging it into an outlet, surge protector, or power strip.
+
+@summary
+plug the keyboard into a laptop usb port.
+
+@summary
+plug the mouse into another of the laptop's usb ports.
+
+@summary
+get your vga cable out.
+@article
+ See Things You'll Need below.;
+, Is it going to be a temporary dock, e.g., for work, or a long-term setup? If it is a long-term setup, you should take out the battery and just keep it plugged into the wall.
+ For example, a bedroom, study, or living room. Other potential locations are your office or break room.
+,
+
+
+If you do not have enough room at the location, you might need to clean it up first
+
+, You can find these on the sides or back of the laptop.
+
+
+
+If the notebook has only one USB port, you can obtain a USB "Y" or a USB hub which coverts a single USB port into two or more ports.
+ Plug one end into the port on the laptop. The other end goes into the monitor. The VGA port has around 15 holes; this is what you want
+

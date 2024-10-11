@@ -1,0 +1,32 @@
+@summary
+open adobe photoshop.
+
+@summary
+click on file.
+
+@summary
+click on new….
+
+@summary
+click on the "background contents:" drop-down menu.
+
+@summary
+choose a background color.
+
+@summary
+name your file.
+
+@summary
+click on ok.
+@article
+ It's a blue app icon that contains the letters "Ps.";
+, It's on the left side of the menu bar at the top of the screen., It's near the top of the drop-down menu., It's near the center of the dialog box.
+ Click on one of the following:
+
+
+Transparent for no background color.
+
+White if you'd like the background to be white.
+
+Background Color if you'd like to use the preset background color.
+ Do so in the "Name:" field at the top of the dialog box., It's in the upper-right corner of the dialog box.

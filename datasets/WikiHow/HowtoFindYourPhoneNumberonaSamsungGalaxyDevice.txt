@@ -1,0 +1,74 @@
+@summary
+tap the apps button.
+
+@summary
+open the settings menu.
+
+@summary
+scroll to the bottom of the menu.
+
+@summary
+tap about phone.
+
+@summary
+tap status.
+
+@summary
+,
+
+@summary
+tap sim status (if necessary).
+
+@summary
+scroll down to the my phone number entry.
+
+@summary
+open the contacts app.
+
+@summary
+tap the more button.
+
+@summary
+tap settings.
+
+@summary
+,
+
+@summary
+tap the own numbers option.
+
+@summary
+,
+
+@summary
+tap the more button.
+
+@summary
+tap create.
+
+@summary
+,
+
+@summary
+type in your phone number.
+
+@summary
+tap save.
+
+@summary
+,
+
+@summary
+check for your number again.
+@article
+ This button looks like ⋮⋮⋮ and can be found at the bottom of the Home screen.;
+, Tap the Settings app in your list of apps.
+ If your Settings menu has headings at the top, tap the "More" tab.
+ This may say "About device." You'll find this in the "System" or "Device manager" section.
+, You may have to select this additional menu if your device uses a SIM card. Not all devices that use SIMs will have this menu.
+ The location of this entry will vary depending on your Samsung device.If your number is showing as "Unknown" or is incorrect, you can use the Contacts app to fix it.
+ If your phone number is not appearing in the phone's Status menu, you can try adding yourself as a contact on your phone.
+ If you don't see the More button, press your Samsung's Menu button and then tap More.
+,, It may look like ⋮, and can be found in the upper-right corner.
+, If you don't know your current phone number, try calling a friend and ask them to read it back to you.
+, Return to the Settings menu and check to see if your number is displayed in the Status menu.

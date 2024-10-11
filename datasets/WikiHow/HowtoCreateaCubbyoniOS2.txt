@@ -1,0 +1,27 @@
+@summary
+open the cubby.
+
+@summary
+tap the + icon at the top header.
+
+@summary
+select “browse photo library.” this will open your device’s camera roll through a drop-down menu.
+
+@summary
+,
+
+@summary
+select photos you want to upload into the new cubby.
+
+@summary
+wait for the upload to finish.
+
+@summary
+repeat for other images.
+@article
+ From the main dashboard of the app, tap on the cubby you just created to go inside.
+ A menu will drop down with options on what you can add into the cubby.
+, Scroll through the Camera Roll and tap on the photo you want to upload.
+ As it uploads, you will be taken back to the cubby screen where you can see the filename of the image you uploaded as well as its progress (in green). Once the upload finishes, a thumbnail of the image will be displayed next to the filename.
+ You can only upload one image or file at a time, so if you want to upload more photos into the new cubby, tap the + icon again, select “Browse Photo Library,” and select the image to upload.
+

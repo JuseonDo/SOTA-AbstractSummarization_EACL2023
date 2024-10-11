@@ -1,0 +1,20 @@
+@summary
+right-click on the document you wish to inspect.
+
+@summary
+select “view page source”.
+
+@summary
+press ctrl+f to open a search box.
+@article
+;
+,
+
+
+Alternatively, right-click on the link you wish to inspect.
+Click on “Inspect element” in order to view the source.
+ Type in “nofollow” and press enter.
+
+
+If you can see rel=”nofollow”, that is a nofollow link.
+

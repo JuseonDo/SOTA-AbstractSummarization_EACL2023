@@ -1,0 +1,12 @@
+@summary
+open your iphone’s settings.
+
+@summary
+tap control center.
+
+@summary
+slide the “access on lock screen” switch to the off position.
+@article
+ You can do this by tapping the gray cogs icon on one of your home screens. If you don’t see it, look inside the Utilities folder.;
+, It should be on the first screen of settings, but if you don’t see it, scroll down a screen.
+ As long as this switch is off, the Control Center will not be accessible while your iPhone is locked.

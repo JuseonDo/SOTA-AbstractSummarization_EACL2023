@@ -1,0 +1,16 @@
+@summary
+tap the "me" tab at the bottom of the twitter app.
+
+@summary
+tap the gear button next to your profile image.
+
+@summary
+tap "sign out" at the bottom of the menu.
+
+@summary
+repeat the process for any additional accounts.
+@article
+ This will open your Profile screen.
+ This will open your account settings.
+ You'll be asked to confirm that you want to sign out. This will remove all of your Twitter account data from the iPhone.
+ The Twitter app supports multiple accounts, so if you want to sign out of any others just follow the same process as above.

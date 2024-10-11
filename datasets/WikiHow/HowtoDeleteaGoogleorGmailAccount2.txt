@@ -1,0 +1,65 @@
+@summary
+visit myaccount.google.com in your browser.
+
+@summary
+click sign in.
+
+@summary
+sign in with the gmail account you want to delete.
+
+@summary
+click delete your account or services.
+
+@summary
+,
+
+@summary
+click delete products.
+
+@summary
+,
+
+@summary
+enter your gmail password again if prompted.
+
+@summary
+,
+
+@summary
+click the "delete" button next to gmail.
+
+@summary
+enter an alternate email address for your google account.
+
+@summary
+click send verification email.
+
+@summary
+,
+
+@summary
+open the alternate email account's inbox.
+
+@summary
+,
+
+@summary
+open the verification email from google.
+
+@summary
+click the link in the email to verify your new address.
+@article
+ You'll need to use a browser to delete your Gmail address.
+ You'll see this button in the upper-right corner. If you're already signed in, make sure it's with the Gmail account you want to delete.
+
+
+When you're signed in, you'll see your current account's profile picture in the upper-right corner. Click this and click "Sign out" to sign in with a different account.
+ You don't need to do this if you're already signed in with the correct account.
+,,, This button looks like a trashcan.
+ This will be the email address you use to sign into other Google products, such as Drive or YouTube.
+
+
+The email address will need to be verified, so make sure it's an account you can access.
+,, It may take a few minutes to appear.
+ When your new address is verified, your Gmail account will be permanently deleted.
+

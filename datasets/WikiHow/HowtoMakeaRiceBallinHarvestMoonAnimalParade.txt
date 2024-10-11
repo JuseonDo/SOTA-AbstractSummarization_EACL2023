@@ -1,0 +1,19 @@
+@summary
+acquire a knife set.
+
+@summary
+gather the ingredients needed to make a rice ball.have the ingredients in your rucksack.
+
+@summary
+walk to the knife set on your kitchen counter.
+
+@summary
+choose the ingredients that you need for the recipe.
+@article
+ If you don't have it, you can go to the General Store and pay 1,500 G for it.
+
+
+Rice: can be grown during Autumn
+Seaweed: can be found in Farmland, Toucan Island, and Harmonica Beach during the winter
+
+,, Press the "A" button., Press the "A" button again and "Start" to make the dish.

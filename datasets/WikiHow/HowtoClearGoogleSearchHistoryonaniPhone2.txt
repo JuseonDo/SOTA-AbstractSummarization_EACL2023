@@ -1,0 +1,17 @@
+@summary
+open the google search app.
+
+@summary
+tap the search text box on the app’s screen.
+
+@summary
+tap the “view search history” at the end of the list.
+
+@summary
+clear google search history.
+@article
+ Tap the blue icon of the Google Search app from the home screen of your iPhone to open the application.
+ A list of your most recent queries will appear.
+ You will be taken to the Search History section of the app.
+ Tap the “Clear All” button on the upper right-hand corner of the app screen, and select “Clear on-device history.” The entire search history of the Google Search app will be cleared out from your iPhone’s device memory.
+

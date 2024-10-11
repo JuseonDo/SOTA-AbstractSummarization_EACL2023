@@ -1,0 +1,22 @@
+@summary
+open the osx terminal, and put an macmail archive into your current working directory.
+
+@summary
+each new message in an andrew message system archive begins with a "[27,".
+
+@summary
+go into osx's mail program, and click "file->import mailboxes.",
+
+@summary
+select "other," click "continue," and the click into the directory containing the cmu_mail.mbox file.
+
+@summary
+you should now be able to access your ancient e-mails.
+
+@article
+ You can identify it by the ".data" extension.;
+, OSX Mail has an import option titled "Other" which requires that the first line be of the format "From a@b.c Thu Aug 16 15:40:28 1995" . You're going to substitute the former text string for the latter using the awk command. For an archive titled, "input_file.data", type the following in the terminal's command line: awk '{ gsub( /\[27,/,"From a@b.c Thu Aug 16 15:40:28 1995\n"); print }' input_file.data > cmu_mail.mbox
+
+,
+
+, Make sure that only the cmu_mail.mbox file has a checkmark next to it.

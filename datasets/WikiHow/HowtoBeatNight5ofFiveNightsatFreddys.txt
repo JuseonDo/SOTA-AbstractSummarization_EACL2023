@@ -1,0 +1,18 @@
+@summary
+pull up the monitor and switch the monitor to cam 1a.
+
+@summary
+check the left door of the office using the door light.
+
+@summary
+check the right door the same way.
+
+@summary
+pull up the monitor.
+
+@summary
+pull down the monitor and check the doors again.repeat until you beat the night.
+@article
+ Do this quickly so you can get into the routine quickly.;
+, If Bonnie is there, close the door. If not, just turn the light off., If Chica is there, close the door. If not, turn the light off., Quickly go to cam 1c to keep Freddy there, then back to 1c to keep Foxy there.
+ If you had shut any doors beforehand, check if they are still there. If Bonnie's shadow is in the window, keep the door closed. Otherwise, put it up and do the same with the right door. If Chica is in the window, do the same as done with Bonnie.,

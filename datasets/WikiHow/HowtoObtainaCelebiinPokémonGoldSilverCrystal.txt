@@ -1,0 +1,112 @@
+@summary
+capture a sneasel.
+
+@summary
+level up the sneasel up to level 57.
+
+@summary
+rename your sneasel.
+
+@summary
+go to any pokémon center and save your game.
+
+@summary
+,
+
+@summary
+go to the computer in the northwest corner of the pokémon center and turn it on to open bill’s pc.
+
+@summary
+,
+
+@summary
+deposit the sneasel into a pokémon box, and then move to a different pokémon box.
+
+@summary
+confirm the save, but turn off the game before it can fully save.
+
+@summary
+repeat the cloning process until you have four clones.
+
+@summary
+,
+
+@summary
+identify if you have a bad clone.
+
+@summary
+go to the pokémon daycare.
+
+@summary
+,
+
+@summary
+arrange the sneasel in this order:
+
+@summary
+slot 1: original sneasel
+
+@summary
+slots 2-5: good sneasel clones
+
+@summary
+slot 6: bad sneasel clone.
+
+@summary
+,
+
+@summary
+give the bad clone to the daycare npc, and then take it back immediately.
+
+@summary
+move the bad clone back into the first slot.
+
+@summary
+,
+
+@summary
+choose “move pokémon w/o mail” and move a “sacrifice” pokémon from the pc into the first slot.
+
+@summary
+exit the pc and give the bad clone back the the daycare npc.
+
+@summary
+re-enter the pc and store your sacrifice pokémon and your four good clones.
+
+@summary
+return to the daycare npc and take your bad clone back, and ask him to raise the original sneasel.
+
+@summary
+,
+
+@summary
+take your original sneasel back from the daycare npc.
+
+@summary
+deleted all of the glitched pokémon (any clones and the sacrifice pokémon).
+
+@article
+ If you are playing Pokémon Gold or Silver, Sneasel can be found by Route 28 and the Silver Cave at night. If you are playing Pokémon Crystal, you can encounter them on the Ice Path at night.;
+, The Sneasel needs to have the “Beat Up” capability to level up. Note: It’s very important that the “Beat Up” skill is set as the third move for the Sneasel.
+ Change the name of your Sneasel to “XXXXCELEBI”, where four X’s represent any four letters. The game will automatically delete the four letters later on.
+,, The game will prompt you to save before you can switch boxes.
+ The screen should read “Saving… Don’t turn off the power.” Once it has completely shut down, turn the game back on.
+
+
+Because you are turning off the power when the game is trying to save, it is crucial that you save your game earlier on, just in case something goes wrong.
+, If you’re lucky, you’ll have created a “bad” clone in the process of making several clones. If not, keep repeating the cloning process while experimenting with the power switch; turning the power off a little earlier or later can be the difference between a good and bad clone. A bad clone is identified by all of the following traits:
+
+
+The clone’s name will either be a question mark (?) or missing entirely.
+The clone’s level is 0.
+The clone’s gender will be different from the original Sneasel and the good clones.
+,, Its name should now look like “???????????????????”.
+, This will back your bad clone back into the second slot.
+
+
+A “sacrifice” Pokémon is one that you are willing to give up. It will be deleted in later steps.
+ Don’t take it back just yet.
+ Close the PC again.
+, Its name has changed, and your Sneasel has now become a Celebi!
+
+,

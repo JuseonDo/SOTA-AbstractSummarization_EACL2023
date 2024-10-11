@@ -1,0 +1,13 @@
+@summary
+tap the menu (☰) button to open the google inbox menu.
+
+@summary
+tap the snoozed option.
+
+@summary
+tap a snoozed item to view and edit it.
+@article
+;
+, It is located towards the top of the menu, underneath Inbox. This will load a list of all your Snoozed messages and reminders.
+ Your Snoozed items are organized by the date they will be Snoozed until. Opening an item allows you to see the time and date that it will appear back in your inbox.
+

@@ -1,0 +1,31 @@
+@summary
+open your internet browser program on your mac.
+
+@summary
+,
+
+@summary
+navigate to the page you want to view.
+
+@summary
+,
+
+@summary
+hold down the command key.
+
+@summary
+,
+
+@summary
+press the plus sign to zoom in.
+
+@summary
+press the minus sign while you hold the command key to zoom out.
+@article
+,,, The browser will zoom incrementally the more times you press the plus sign.
+ Press the minus sign repeatedly to keep zooming out.
+
+
+The browser method does not zoom other programs outside of your browser. It is simply to view web pages differently.
+Although the main browser programs, like Safari, Google Chrome and Firefox use this system of short cuts to zoom, other browsers may not react in the same way.
+

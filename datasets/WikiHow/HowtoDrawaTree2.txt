@@ -1,0 +1,13 @@
+@summary
+draw a cherry tree.
+
+@summary
+draw an apple tree.
+
+@summary
+draw an olive tree.
+@article
+ Drawing a cherry tree is just like drawing a regular detailed tree, except the leaves are pink instead of green.;
+, Apple trees are great to add into farm scenes.
+ Due to its twisted trunk, an olive tree is one of the more complicated fruit trees to draw.
+

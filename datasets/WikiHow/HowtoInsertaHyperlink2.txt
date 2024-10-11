@@ -1,0 +1,37 @@
+@summary
+open your word processing program.
+
+@summary
+start typing on the sheet.
+
+@summary
+go to the program’s top toolbar.
+
+@summary
+scroll down until you see “link” or “hyperlink” and select that option.
+
+@summary
+,
+
+@summary
+paste your copied url in the address field.
+
+@summary
+,
+
+@summary
+type a description in the description field.
+
+@summary
+remove a link by highlighting it, going back to the insert menu and clicking on the link option.
+@article
+ Copy your web link.
+
+
+This method also works for online document programs like Google Drive or spreadsheet programs like Microsoft Excel.
+Some programs, like later versions of Microsoft Word, automatically hyperlink any web addresses that are typed into the program.
+ Place your cursor where you want to insert a hyperlink.
+ Click the Insert menu.
+,, Press “OK” or “Enter” to insert the hyperlink. Highlight and select the link from the Insert menu to edit the hyperlink.
+ Click the “Remove Link” button in the dialog box.
+

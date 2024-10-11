@@ -1,0 +1,43 @@
+@summary
+locate the back of the device.
+
+@summary
+pull back the cover.
+
+@summary
+,
+
+@summary
+locate the battery.
+
+@summary
+remove the screw securing the battery.
+
+@summary
+pull the battery out.
+
+@summary
+,
+
+@summary
+put the new battery into the slot.
+
+@summary
+secure the battery with the screw.
+
+@summary
+,
+
+@summary
+take the cover and adjust it on the back of the ereader.
+
+@summary
+double check.
+@article
+ Place your fingers onto the rear side of your eReader.;
+,, It is right next to the Micro SD slot, noticeable because of the BARNES&NOBLE logo on it.
+ Use the Phillips-head screwdriver to do this.
+, Remember to align the top part of the battery with the screw slot and the bottom part with the connectors.
+, You should hear several clicks, which mean that you have placed it properly.
+ Make sure everything fits together.
+

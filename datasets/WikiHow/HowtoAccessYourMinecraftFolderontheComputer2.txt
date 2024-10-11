@@ -1,0 +1,30 @@
+@summary
+press ⊞ win + r. a new small window in the bottom left corner of your screen will appear.
+
+@summary
+type %appdata% in the box.
+
+@summary
+,
+
+@summary
+click ok.
+
+@summary
+,
+
+@summary
+click on ".minecraft".
+
+@summary
+,
+
+@summary
+choose the folder you wish to access.
+
+@article
+ This program is called "Run" and it allows you to search things up on your computer. Keep in mind that you don't have to download it, it will be a default program on your computer.
+
+
+Alternatively, you could drag your mouse to the top right corner of the screen and drag down to open up the panel. Then, click "Search" and type in "Run".
+,,,

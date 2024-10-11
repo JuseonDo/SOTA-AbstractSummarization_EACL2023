@@ -1,0 +1,13 @@
+@summary
+don't wear anything heavy.
+
+@summary
+find a hiding spot.
+
+@summary
+get back.
+@article
+ It might make noise, and you can't run as fast as you could.
+ It might be behind a tree, in leaves, whatever doesn't make you visible.
+ Once you have your information, stealthily run back to your group.
+

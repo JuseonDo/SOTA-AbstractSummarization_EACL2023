@@ -1,0 +1,12 @@
+@summary
+make the bcc field visible.
+
+@summary
+enter an address.
+@article
+ This is usually hidden by default, but is very easy to activate:
+
+
+While the new message window is open, click the "message" Menu then choose "show BCC" or Ctrl +B.
+ Type the email address of the person you wish to send a Bcc.
+

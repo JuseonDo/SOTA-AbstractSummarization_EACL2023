@@ -1,0 +1,16 @@
+@summary
+make sure your screen displays exactly what you want to show in your screenshot image.
+
+@summary
+press command + shift + 3.
+
+@summary
+find your screenshot on your desktop.
+@article
+ Ensure all the relevant windows are visible.;
+, If your sound is on, your computer should make a brief camera shutter noise.
+ It will be saved as "screenshot" labeled with the date and time.
+
+
+Earlier versions of OS X will save it as "Picture #"—for example, if it's the 5th screenshot on your desktop it will be labeled "Picture 5".
+

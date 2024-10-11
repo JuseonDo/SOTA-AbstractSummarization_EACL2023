@@ -1,0 +1,19 @@
+@summary
+click start and select run.
+
+@summary
+remove the read only attribute and set the system attribute.
+
+@summary
+delete the file.
+
+@article
+ If you don't see the Run command, then click All Programs > Accessories > Run.
+ Type the following command:
+
+
+attrib -r +s drive:\<path>\<foldername>
+For the test folder, for example, type attrib -r +s c:\test
+
+
+,

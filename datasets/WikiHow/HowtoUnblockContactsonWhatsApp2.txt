@@ -1,0 +1,39 @@
+@summary
+open whatsapp messenger.
+
+@summary
+tap the ⁝ button in the upper-right corner of your screen.
+
+@summary
+tap settings at the bottom of the menu.
+
+@summary
+,
+
+@summary
+tap account.
+
+@summary
+tap privacy.
+
+@summary
+,
+
+@summary
+tap blocked contacts under the messaging heading.
+
+@summary
+tap on the name of the contact you want to unblock.
+
+@summary
+,
+
+@summary
+tap unblock <contact name> in the pop-up.
+@article
+ The WhatsApp icon looks like a green box with a white speech balloon and a telephone icon in it.
+ This is your Menu button, and it will give you options to open a New group, start a New broadcast, open WhatsApp Web, your Starred messages, and Settings.
+, This option has a key icon next to it. It will open your account settings.
+, This option will show you the number of contacts you have blocked, and tapping on it will open up a list of all blocked contacts.
+, This person will now be able to call you and send you messages on WhatsApp.
+

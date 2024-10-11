@@ -1,0 +1,49 @@
+@summary
+learn the things that will determine the freight class of your item, including loadability and handling characteristics, weight, density, and the product's susceptibility to damage.
+
+@summary
+determine the basic description of the freight being transported.
+
+@summary
+know what kind of container your item will be shipped in.
+
+@summary
+determine if your package contains hazardous materials that need to be shipped in a specialized manner.
+
+@summary
+measure the length, width, and height of the object to be shipped.
+
+@summary
+,
+
+@summary
+weigh the object being shipped with its packaging.
+
+@summary
+determine the density of the shipment by calculating the pounds per cubic foot.
+
+@summary
+find an online calculator to determine the object's freight class if the nmfc classifies your item as "density rated".
+
+@summary
+fill in the boxes with the appropriate values, and push the submit button.
+
+@summary
+contact the national motor freight traffic association (nmfta) to get help in determining freight class.
+
+@article
+;
+, Be able to describe what material the item being shipped is made of.
+ There are many different types of allowable packaging systems for freight including, but not limited to, pallets, drums, reels, crates, tubes, or bundles.
+
+
+You will also need to specify to a shipper if the contents of the package you are shipping need a lift gate to load it onto a truck.
+ The U.S. Department of Transportation's code of federal regulations, title 49 defines hazardous materials.
+, Sometimes a weight must be estimated, especially if the object cannot be packed until you have determined its class and know the packing requirements.
+ Some online calculators will do this step for you by asking for the weight and dimensions of the shipment. You should calculate the density yourself to double-check any quotes given to you.
+ If not density rated you do not need this step you can skip to step 9 or 10 to allow a carrier, broker or the NMFC to assist you in finding the correct number.
+
+
+
+If you are using a calculator with a particular shipper, you may have to sign in or create an account.
+Some shippers will ask that a telephone number or email address be supplied so that they can call you with a quote for the freight class of your package.

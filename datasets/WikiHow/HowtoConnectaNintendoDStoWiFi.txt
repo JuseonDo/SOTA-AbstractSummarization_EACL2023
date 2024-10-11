@@ -1,0 +1,19 @@
+@summary
+insert your nintendo ds game.
+
+@summary
+turn your ds on then tap on your nintendo ds game with your stylus or finger.
+
+@summary
+,
+
+@summary
+go to wifi settings.
+
+@summary
+there will be more things to tap on.
+@article
+;
+,, When you have gone there, you will see two things to tap on: one will be Nintendo WiFi connection settings; the other will be options go to Nintendo WiFi connection settings.
+ Tap on connection 1 or 2 or 3, then press on search for an access point. If there are any access points near you, it will show you some, then you can press on it and save it in your connections.
+

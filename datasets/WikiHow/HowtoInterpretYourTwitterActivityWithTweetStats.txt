@@ -1,0 +1,42 @@
+@summary
+go to tweetstats.
+
+@summary
+type in the name of whichever tweeter you are curious about.
+
+@summary
+look at your twitter timeline.
+
+@summary
+look at this to see when and how often tweets are sent out.
+
+@summary
+look at the day and the hour that is most active.
+
+@summary
+,
+
+@summary
+check this out if you are curious about who wikihow replies to and what is being said.
+
+@summary
+view where the tweets originate from.
+
+@summary
+check out who is retweeted the most often.
+@article
+;
+, This example will be using wikiHow.
+ This one says that wikiHow posts 2.7 tweets on an average, every day.
+
+
+It also states the number of tweets per month since the time that wikiHow created an account.
+ Without knowing, it would be a good guess to infer from the information that it is 'fed' the posts, as in an RSS feeder.
+, You might find people of similar interests this way.
+ This, (Twitterfeed) confirms the use of an RSS feed as implied by the Density and the Aggregate data.
+ In this case, everyone has been retweeted once.
+
+
+
+
+

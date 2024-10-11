@@ -1,0 +1,37 @@
+@summary
+open your start menu.
+
+@summary
+,
+
+@summary
+type .sysdm.cpl and press ↵ enter.
+
+@summary
+,
+
+@summary
+click the .advanced tab.
+
+@summary
+,
+
+@summary
+click the .settings button in the performance section.
+
+@summary
+,
+
+@summary
+uncheck any effects you want to disable.
+
+@summary
+click .apply after you have made your selections.
+@article
+,,,, Disabling certain effects can help increase your performance.
+
+
+Disabling "Transparent glass" will give you the best performance increase, but it is also one of the key features that makes Aero unique.
+You can select the "Adjust for best performance" option to disable all of the Aero effects.
+ You may have to wait a few moments for your changes to take effect.
+

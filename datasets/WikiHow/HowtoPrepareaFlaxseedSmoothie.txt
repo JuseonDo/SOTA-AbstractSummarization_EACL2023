@@ -1,0 +1,13 @@
+@summary
+mix all the ingredients in the order given above.
+
+@summary
+pour the mixture into the blender.
+
+@summary
+serve immediately.
+@article
+ Use a small to medium sized bowl and mix with a dessert spoon, or similar.;
+, Blend all the ingredients together at high speed in a blender.
+ Garnish with a mint leaf or similar if wished.
+

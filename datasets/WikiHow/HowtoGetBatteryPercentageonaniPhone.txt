@@ -1,0 +1,16 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll down and tap battery.
+
+@summary
+slide battery percentage right to the "on" position.
+@article
+ This app is grey with gears displayed on it. You'll typically find Settings on the Home Screen.;
+, It's in the top quarter of options on the "Settings" page.
+ You'll see a number and a percent sign appear in the top-right corner of your iPhone's screen. The number here reflects the amount of battery life remaining for your iPhone's current charge.
+
+
+If you have Low Power Mode enabled, the battery percentage will display regardless of this setting.
+

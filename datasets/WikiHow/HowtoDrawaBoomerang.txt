@@ -1,0 +1,21 @@
+@summary
+draw a rectangle using a pencil.
+
+@summary
+draw another rectangle slanted to the left.
+
+@summary
+sketch in circles at the ends of each rectangle.
+
+@summary
+ink in your drawing.
+
+@summary
+now just color it in!
+@article
+ It should be slanted diagonally up and to the right, as shown.;
+, Connect this to the corner of the first rectangle.
+ Add in a circle in between them.
+ Erase the sketch lines.
+ Use whatever shades and patterns you want. (Boomerangs often have the same design along each leg, so use that characteristic if you want.)
+

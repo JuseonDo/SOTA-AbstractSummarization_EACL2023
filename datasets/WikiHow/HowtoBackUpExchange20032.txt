@@ -1,0 +1,19 @@
+@summary
+make sure the third party application meets requirements for backing up exchange 2003 and is supported by microsoft before using it to back up exchange.
+
+@summary
+install the exchange agent backup software on the backup server.
+
+@summary
+,
+
+@summary
+choose whether to run offline or online backup.
+
+@summary
+decide whether to do full, incremental, or differential backups.
+@article
+ Exchange requires special handling because Exchange has access to files and databases at all times. Using backup software that can't handle this can result in skipped files and incorrect backups.
+, Offline backup will stop the Exchange database and services. Online backups can be run while the Exchange server is in use.
+ Full backups back up everything. Incremental or differential backups backup changes in exchange stores, directories or folders and takes less time to run.
+

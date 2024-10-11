@@ -1,0 +1,18 @@
+@summary
+go to the settings app.
+
+@summary
+add zoom by clicking the "zoom" option.
+
+@summary
+,
+
+@summary
+use the shortcut.
+@article
+ Click "General", then "Accessibility", and scroll down and click "Accessibility Shortcut".
+, Now all you need to do to activate and deactivate night mode is triple-click the home button.
+
+
+If you have multiple accessibility shortcuts enabled, an "Accessibility Options" menu will pop up when you do this. If that's the case, just select "Zoom" after you click.
+

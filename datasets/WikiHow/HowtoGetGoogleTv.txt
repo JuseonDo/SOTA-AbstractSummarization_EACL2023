@@ -1,0 +1,19 @@
+@summary
+visit the google tv website and select your preferred hardware.
+
+@summary
+select a product to get directed to the manufacturers website and get more information including pricing, tech specs, and shipping information.
+
+@summary
+,
+
+@summary
+you can either purchase your sony internet tv, sony internet tv blu-ray player, or logitech revue box via the manufacturers website or through your local best buy retail store in the us.
+@article
+ Google TV is currently offered via three products including the Logitech Revue set-top-box, Sony Internet TV Blu-ray player, and the Sony Internet TV.
+
+
+If you would like to access Google TV via your current HDTV, you will have to decide between the Logitech Revue or the Sony Internet TV Blu-ray player. These are currently the only two products supporting the Google TV platform that connect to your current HDTV via HDMI.
+Alternatively, you can purchase the Sony Internet TV, which is a feature filled HDTV that integrates the Google TV platform into the hardware.;
+,, These are currently the only options for accessing the Google TV platform.
+

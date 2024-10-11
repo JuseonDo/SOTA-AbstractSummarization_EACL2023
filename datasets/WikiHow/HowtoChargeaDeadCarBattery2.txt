@@ -1,0 +1,72 @@
+@summary
+open the hood or compartment on each vehicle in which the batteries are located.
+
+@summary
+,
+
+@summary
+take note of the positive and negative terminals on each battery.
+
+@summary
+connect each end of the positive jumper cable to the positive terminals on each car battery.
+
+@summary
+connect one end of the negative jumper cable to the negative terminal on the functional, charged battery.
+
+@summary
+attach the other end of the negative jumper cable to a grounded metal component of the car that contains the dead battery.
+
+@summary
+start the engine of the car with the charged battery.
+
+@summary
+allow at least five minutes to pass after starting the engine of the car with the charged battery.
+
+@summary
+try to start the engine of the car that contains the dead battery.
+
+@summary
+disconnect and remove the jumper cables from each car after the engine has started in the reverse order in which you connected them.
+
+@summary
+allow the car which had the dead battery to continue running for at least another five minutes.
+
+@summary
+drive the jump-started car for at least 20 minutes or allow it to idle for the same amount of time.
+@article
+, Positive terminals will be indicated by the plus symbol (+), and negative terminals will be indicated by a minus symbol(-).
+ The positive jumper cable is usually red in color if it is not labeled otherwise. The order in which you attach the jumper cables does make a difference, so follow this pattern: First connect one end of the positive jumper cable to the dead battery, then connect the other positive end of the jumper cable to the charged battery.
+ In most cases, the negative jumper cable is black.
+ This will ground the car that contains the dead battery upon jump-starting. You can attach the ground cable to the frame, chassis, or another component that is reasonably clean and free of paint or oxidation.
+ Upon starting the engine, its charging system will begin to charge the dead car battery through the jumper cables.
+ This will allow the dead battery to build up a charge of its own, although it would take longer to fully charge the battery.
+ If the jumper cables and the battery you are charging have enough power, the car engine should turn over easily and start.
+
+
+
+If the engine in the car with the dead battery fails to start, allow five more minutes to pass for the dead battery to charge.
+ This will prevent sparks or an explosion from occurring.
+
+
+
+
+
+
+
+
+
+
+
+Disconnect the grounding cable first, then the cable attached to the negative terminal on the battery, then the cable attached to the positive terminal of the battery of the car that provided the jump, and finally the cable attached to the positive terminal on the previously dead battery.
+ This will allow the alternator in the car to recharge the battery.
+ In some cases, your battery will become fully charged within this time period; however, it is possible that you may need to purchase a new battery for your car if the battery doesn't charge sufficiently to crank the car.
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+@summary
+open a new notepad file.
+
+@summary
+copy and paste the data you need to plot in autocad from the source file where you have calculated.
+
+@summary
+,
+
+@summary
+write the command as it is understood by autocad in the file.
+
+@summary
+once you have written the command for all data you need to plot, press enter, else the program will turn out to be gigo and you will be asked for last data that is to be plotted in autocad.
+
+@summary
+,
+
+@summary
+click on save as from file menu on your notepad file.
+
+@summary
+load that script file in autocad to get your data profile.
+
+@article
+ You can do this by clicking on Start -> Run, write notepad and hit Enter.;
+,, For example:- You have to plot a sphere, so you should write a command as below sphere 0.432305644,0,0.166679396 0.001. Here, sphere is a command understood by AutoCAD as the user wants to plot a sphere. The three values separated by comma represents the co-ordinates of origin of sphere. The last value 0.001 represents the radius of the sphere which is separated by space. Note: There should not be a space after last constant you entered in script file.
+, A dialog box will appear. Enter the file name. You must have to add .scr to end of your file name, which means it is a script file.

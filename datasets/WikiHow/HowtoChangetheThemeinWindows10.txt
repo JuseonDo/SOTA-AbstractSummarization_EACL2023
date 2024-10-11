@@ -1,0 +1,11 @@
+@summary
+open the personalization settings.select themes from the sidebar.
+
+@summary
+select a theme.
+
+@summary
+follow the link to download more themes from the windows store.
+@article
+ Right-click an empty spot on the desktop. and select Personalize.;
+,, Click or tap a theme under "Apply a theme"., Select the "Get more themes in the Store" link right under the "Apply a theme" header.

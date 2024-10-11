@@ -1,0 +1,26 @@
+@summary
+plug your phone into your computer.
+
+@summary
+head to "my computer.",
+
+@summary
+copy folders and files.
+
+@summary
+turn off the phone.
+
+@summary
+hold the power/lock key and the volume down keys for 12 seconds.release the keys when you get the message “permanently erase user data and reset settings?”
+
+@summary
+,
+
+@summary
+press the power key to confirm your choice.press the power/lock key again when the next confirmation message appears.
+@article
+ You'll need a USB cable to connect the two devices - one should have been included with your cell phone upon purchase. If you do not have a compatible USB cable purchase. Connect the compatible ends of the cable in the phone's charging port, and your computer's USB port, respectively.;
+, Then select your phone.
+ Copy the chosen files onto your computer’s hard drive. You can paste these files and folders over to your phone memory again when you’ve finish the hard reset.
+ Your phone needs to be off for the factory reset to initiate. Hold down the "Power" button and choose the power off option when it pops out.
+, Any other key will cancel the option.

@@ -1,0 +1,35 @@
+@summary
+download dvdfab media player at the dvdfab official website.
+
+@summary
+double click on the icon and you’ll see a welcome screen.
+
+@summary
+if you have dvd/blu-ray movie folder or iso files or other video files on your hdd that you want to view, just click this icon and find the right track to introduce them in.
+
+@summary
+note that dvdfab media player can remove all kinds of dvd/blu-ray copy protections to play any movie, so don’t worry if your discs are newly released ones and are protected by new protections.
+
+@summary
+control play and do some settings if needed.
+
+@summary
+right click your mouse at any place of the interface while a movie is being played, you can do more settings and changes with “open file”, “open disc”, “play control”, “audio”, “subtitle”, and “settings” options.
+
+@summary
+,
+
+@summary
+if you want the above control panels or menus to disappear, just left click at any other place in the main interface.
+@article
+ After the installation, you can see its icon on your desktop.;
+, Click “Continue” to go on to try out. Then you can see the “Open File” icon at first in the main interface.
+ Then movie will be played automatically. Or if you want to play DVD/Blu-ray discs, just insert them into DVD/Blu-ray optical drive, and you’ll see corresponding icons show in front of you after the loading process completed.
+ To achieve this happy ending, just make sure Media Player is connected with live internet.
+ DVDFab Media Player gives you full navigation feature to Blu-ray movie. After a Blu-ray movie is accessed, Media Player provides you 2 options: “Quick & Simple Mode”, and “Full Navigation Mode”.
+
+
+Choose “Full Navigation Mode”, you can get full movie control experience.
+While “Quick & Simple Mode” shows simple information of the movie, and will simply play main movie title or other titles you chose. When the movie is in playing mode, you can control the play easily by some simple mouse clicks right in the main interface. Just hover your mouse at the top or bottom of the UI, you’ll see the auto pop up control panels respectively where you can pause, stop, play, fast backward, fast forward, volume up, volume down, select subtitles and audio type, choose chapter to play, play in full mode, and so on.
+, OK. That’s how you need to know in order to operate it.
+

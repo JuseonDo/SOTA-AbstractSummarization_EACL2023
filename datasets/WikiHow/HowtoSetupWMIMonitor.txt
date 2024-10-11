@@ -1,0 +1,45 @@
+@summary
+get the free tool called wmi monitor.
+
+@summary
+run the executable for wmi monitor.
+
+@summary
+after the main wizard screen, hit next.
+
+@summary
+use the filter option at the top to grab only formatted performance counters.
+
+@summary
+you’ll see your choices in this window; hit start monitoring to start collecting data.
+
+@summary
+hit settings (gear icon on the top right) to go back and modify your choices by clicking on the pencil icon in the settings menu.
+
+@summary
+,
+
+@summary
+hitting that pencil icon will then allow you to change the name of your process, perhaps to make it a bit more memorable for you.
+
+@summary
+hit ok to leave this window.
+
+@summary
+once you hit ok to leave the settings area, you may notice your processes have changed in color based on the thresholds that you have set.also remember that wmi is not on by default in windows server 2008 and you will need to configure it in order to get it working.
+@article
+;
+, When you do this for the first time, you will be shown a wizard.
+ At this point you should put in the specific name or IP address of the server that you want to monitor. Also, you will need to enter authentication credentials for the server in question.
+
+
+WMI Monitor is now going to ask you what you want to analyze. It comes with a pre-packaged set of monitors. You can also visit thwack to access user-created application monitors, or customize your own by browsing WMI counters. For the purposes of this tutorial, let’s go ahead and make our own.
+ Expand out total processes, and then grab a couple of these (for example, Handle Count and Thread Count). Hit Next.
+ You can expand out your processes for more detail.
+, You can also change your data query if you want right below that. At the bottom of this screen, you also have the option to set your thresholds. This will allow you to be a bit more detailed on the data that comes in.
+ Also note that in the main Settings screen, you are able to change the name of your group of processes.
+
+
+
+There are also a few more things to note that don’t necessarily fit into the above steps. In the Settings page you are able to go out and grab already saved processes by clicking on the Select on Monitor button.
+There is also an “Import from thwack” button at the bottom right. From there you’ll see a list of user-created monitors that you can import. You are also able to share out your own monitors by simply using the Share button at the lower right hand of the Settings window, which is great if you’re active in the Thwack community.

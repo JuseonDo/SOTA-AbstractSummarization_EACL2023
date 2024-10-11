@@ -1,0 +1,19 @@
+@summary
+find the list of items currently for sale.
+
+@summary
+check the box in front of each listing you wish to inactivate.
+
+@summary
+,
+
+@summary
+scroll to the top or bottom of the page.
+
+@summary
+click the deactivate button.
+@article
+ Go to "Etsy > Currently For Sale." Your items will be listed there, with a checkbox in front of each item.;
+,, You're looking for the Deactivate button, which may be found at either location.
+ This effectively hides your selected listings from your public Etsy shop, but their time as inactivated listings is still counted as part of Etsy's 4-month listing period. Etsy doesn't charge you for deactivating your listings.
+

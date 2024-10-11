@@ -1,0 +1,19 @@
+@summary
+on windows 7, simply go to start, then all programs, then accessories, then system tools and command prompt should be there.
+
+@summary
+if none of the above work, open notepad.
+
+@summary
+when command prompt pops up, simply type in: tree.
+
+@summary
+,
+
+@summary
+enjoy the show!
+@article
+ If not, go to Start, then Run..., then type in cmd.exe and hit Enter/Return. On Windows Vista, go to the button in the bottom left hand corner with the Windows flag. Then, type Command Prompt into the search bar. After a couple moments it should appear. If not, type in Run, click Run and then repeat what you do for XP.;
+, Type command.com and save as .bat.
+, You will get a hierarchical 'tree' of your folders. It will appear that you are hacking into a computer system. This looks particularly good if your school/office uses a Novell or Citrix client.
+

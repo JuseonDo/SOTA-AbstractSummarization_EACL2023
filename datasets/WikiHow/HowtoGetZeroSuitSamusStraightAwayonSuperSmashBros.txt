@@ -1,0 +1,20 @@
+@summary
+choose samus as your player.
+
+@summary
+press and hold the + and - buttons.
+
+@summary
+keep holding them while you choose a stage.
+
+@summary
+start the game while keep pressing the buttons.
+
+@summary
+done!
+
+@article
+;
+, Whatever you do, do not let go of them. Otherwise this will not work.
+ Asking a friend or family member to help you is quite useful.
+ When the stage comes up you should see your character coming out of the metal shell.

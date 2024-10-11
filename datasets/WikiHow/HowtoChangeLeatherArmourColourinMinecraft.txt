@@ -1,0 +1,26 @@
+@summary
+obtain leather armour and dye.
+
+@summary
+open your crafting menu.
+
+@summary
+place your choice of dye and a piece of leather armour onto the grid.
+
+@summary
+preview your item and place it in the inventory.
+
+@summary
+,
+
+@summary
+repeat the process with other pieces of leather armour as you wish.
+@article
+ These are the only two things you'll need. Leather armour can be crafted with leather, which is obtained from cows. Dye can be made from flowers, bones, cactus, or by mining lapis lazuli, killing squids, gathering cocoa beans, and/or combining various other dyes.;
+, Press "e" or left click a crafting table . It can either be the one in your inventory or a crafting table. It does not matter.
+ It does not matter where you place the two items.
+,
+
+
+Afterward, you could invite some friends to dye some of their armour and you could have an "Armour Show".
+

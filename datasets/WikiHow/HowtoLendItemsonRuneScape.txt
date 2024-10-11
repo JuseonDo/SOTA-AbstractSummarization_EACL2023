@@ -1,0 +1,20 @@
+@summary
+find the player to lend your item to.
+
+@summary
+trade with them.
+
+@summary
+right click the item and select lend.
+
+@summary
+set the duration.
+
+@summary
+accept the trade.
+@article
+ There is no other way to lend items without being face to face.
+ The lending option is within the trade box.
+ The item will appear in the "loan" box.
+ You may set the duration of the loan by "number of hours", or by "until log-out".
+ You have now just successfully lent the item.

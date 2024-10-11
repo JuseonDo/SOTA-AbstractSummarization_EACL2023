@@ -1,0 +1,12 @@
+@summary
+make sure there are no other enemies around.
+
+@summary
+shoot the zombie with a bow.
+@article
+;
+,
+
+
+Zombies are easy, so you can attack with a sword. In version 1.9, they will deal more damage, so be careful in the future.
+

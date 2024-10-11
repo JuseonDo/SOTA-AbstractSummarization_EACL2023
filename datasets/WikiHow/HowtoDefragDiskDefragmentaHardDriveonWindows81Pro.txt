@@ -1,0 +1,41 @@
+@summary
+navigate to your "desktop" one that is done, anywhere on the desktop (not on an icon) right click and on the drop down menu select "personalise".
+
+@summary
+once this is done, you shall have a box open called "personalisation".
+
+@summary
+once you have clicked on this title a box called "desktop icon settings" will have opened.
+
+@summary
+you should now see the icons that you just checked appear on your desktop.
+
+@summary
+now on the "computer / my computer / this pc" icon double click on it and open it.
+
+@summary
+a box will open called "windows 8.1 pro (c:) properties" (or whatever you called that drive.
+
+@summary
+first of all click on the disk clean up button found to the bottom right of the pie chart once this is done, it will start calculating what can be deleted.
+
+@summary
+now you want to click on the "tools" tab at the top of the box.
+
+@summary
+a box called "optimise drives" will have opened.
+
+@summary
+simply select the hard drive you want to de-frag by clicking on it and highlighting it so that it has a blue highlight and click optimise found next to the analyse button.
+@article
+;
+, In this box is a title called "Change Desktop Icons", which can be found towards the top left hand side of the box. Click on it.
+ At the top of this box you will find 5 check box's, make sure all of them are checked and click apply at the bottom of the box. You can now close that Box and the Personalisation box as well.
+ These are a handy addition to the navigation of Windows 8, which most users find hard to do.
+ You are now faced with the Windows 8 file explorer in a desktop environment. You want to right click on your primary Hard Drive that the Operating System is running off, which will most likely be the (C:) Drive. Once you have right clicked on the (C:) Drive scroll down to the "Properties" option at the bottom of the drop down menu and Click on it.
+ You will also notice 6 tabs across the top of the screen as well as an option to the bottom right of the pie chat.
+ This is not the de-frag but is an option to clean up some of the files that are casing un-necessary space on the Hard Drive. Once it has finished calculating a box will appear with a few check boxes, make sure all of them are checked and click "OK".And then "Delete Files".
+ Once this has been done, you will see the option called "Optimise and Defragment Drive" With a button called Optimise, click on that.
+ In this window, you will see a list of all the drives currently connected to the computer and its status on the far right alongside its media type and last run.
+ This had a blue and yellow shield next to it which indicates that Administrator permissions will be required and it will prompt you continue the operation.
+

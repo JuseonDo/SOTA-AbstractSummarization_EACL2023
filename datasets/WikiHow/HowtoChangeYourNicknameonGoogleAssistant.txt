@@ -1,0 +1,16 @@
+@summary
+open google assistant.
+
+@summary
+tap the menu icon.
+
+@summary
+tap ⁝.tap settings.tap personal info.tap nickname.tap the pencil icon.
+
+@summary
+enter your nickname and tap ok.
+@article
+ On most Androids, you can launch Assistant by tapping and holding the home button at the bottom of the screen., It’s the rectangle in a blue circle near the top-right corner of the screen., It’s at the top-right corner of the screen.,,,,, Your new nickname will take effect immediately.
+
+To hear the way Google Assistant will pronounce your name, tap Play. If it doesn’t sound right, select “Spell it out” to type it phonetically (e.g. you may type "Ay-va" for "Eva"), or “Record your own” to say it aloud.
+

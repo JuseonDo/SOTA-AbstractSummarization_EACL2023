@@ -1,0 +1,34 @@
+@summary
+review your cell phone data plan.
+
+@summary
+find a ring tone uploading service.
+
+@summary
+,
+
+@summary
+click the browse button and select your ring tone.
+
+@summary
+type in a name for your ring tone.
+
+@summary
+enter the sms e-mail address of your cell phone as instructed (optional).
+
+@summary
+click "upload file".
+
+@summary
+enter the url into your phone's web browser (if necessary).
+
+@summary
+save the file in your cell phone's memory.
+
+@article
+ If you have "unlimited data" service, there will not be an additional charge on your cell phone bill for transferring the ring tone using your data plan. Otherwise, you will either have to pay a small access fee (depending on the file size) or use another method.;
+,, In the Rumkin uploader, this is under "Upload Wallpapers, Ringers, Etc".
+ This is what the ring tone will be named on your phone.
+ This can avoid having to find the web browser and key in a code on your phone's keypad, since you should get a text message with these details stored in it if you do so.
+ You will get a Jump Code and a URL.
+ Your phone's instruction manual should tell you how to do this. Then key in the Jump Code.

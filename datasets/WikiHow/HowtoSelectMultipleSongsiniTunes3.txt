@@ -1,0 +1,24 @@
+@summary
+click on the search bar in the upper-right corner of itunes.
+
+@summary
+type in the term you wish to search.
+
+@summary
+click your first selection.
+
+@summary
+hold down ctrl (pc) or ⌘ command (mac).
+
+@summary
+click the next song you want to select.
+@article
+ The search box is solid white.
+ You can search for artists, track titles, albums, or genres.
+ It will be highlighted in blue.
+ Doing so will allow you to make multiple selections.
+
+
+If you're selecting a consecutive group, hold down ⇧ Shift instead.
+ Make sure you're still holding down one of the keys listed above to select multiple songs.
+

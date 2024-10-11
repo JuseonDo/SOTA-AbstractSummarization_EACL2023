@@ -1,0 +1,16 @@
+@summary
+know what powerwash is.
+
+@summary
+open the settings.
+
+@summary
+after the powerwash is complete a dialog box will appear.
+
+@summary
+setup your chromebook, just like when you first got it.
+
+@article
+ Powerwash is a feature in the Chromebook that factory resets the device. Be aware that your data will be erased. This can also be called 'factory reset'.;
+, Scroll down to advanced settings, and click Powerwash.
+ Click restart.

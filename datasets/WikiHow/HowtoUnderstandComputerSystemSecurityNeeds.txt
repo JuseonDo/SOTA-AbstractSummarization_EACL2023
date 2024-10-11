@@ -1,0 +1,43 @@
+@summary
+analyze the operating system on the machine(s).
+
+@summary
+analyze the environment in which your system will operate.
+
+@summary
+if you have a wireless connection, make sure you have a wep password set.
+
+@summary
+,
+
+@summary
+find and uninstall any unused software, or software with known vulnerabilities.
+
+@summary
+evaluate user rights to access the system.
+
+@summary
+ensure that all users have strong passwords.
+
+@summary
+,
+
+@summary
+install a reliable antivirus software and check if it is getting regular signature updates.
+
+@summary
+,
+
+@summary
+evaluate the kind of data being stored in the machine.
+
+@summary
+evaluate the physical threats to the machine.
+@article
+ Security requirements will vary depending on which OS and which version you are running. Make sure that the latest service packs and patches are installed.;
+, If your machine will not be in any local network and will never be connected to the internet, then you can be relatively sure of the system security. If it is in a trusted local network (LAN), then the security requirements will be slightly higher. In case it is connected to an unsafe network such as the internet, then the highest level of security has to be maintained.
+, Don’t use P2P software, and never run any untrusted '.exe' files.
+ How many people will be using the system? Give limited access to unknown or guest users. Don’t give administrative access to users who don’t need administrative rights.
+,, Take backups if you have critical data. Store backups either in trusted places online, or in external storage devices.
+ Is it in a public area? Does it need to be kept in a safer and restricted zone? The location must be decided keeping both your accessibility needs and the system security in mind.
+

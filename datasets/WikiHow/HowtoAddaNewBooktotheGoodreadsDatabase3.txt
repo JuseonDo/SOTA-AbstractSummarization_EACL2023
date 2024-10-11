@@ -1,0 +1,34 @@
+@summary
+search for the profile page of the book, and make this book display.
+
+@summary
+click on the "add new edition" link that is found underneath the section containing images of other editions of the book that are other editions of the book in the database.
+
+@summary
+verify the pre-filled text of the add a new edition page is displayed.
+
+@summary
+try adding in the isbn-10 or isbn-13 numbers into the appropriate fields, or switch the isbn numbers into asin entry (for kindle or audible books) by clicking the "click for asin" and typing the data into the appropriate field according to what is displayed in the book's details.
+
+@summary
+enter all other data into the form, including the cover image of the book, utilizing the same form data as you would have entered had you been entering a new book itself.
+
+@summary
+click on the "create book" button at the bottom of the form of data you've just entered.
+
+@article
+ At the very least, search by the ISBN or ASIN number. Then try searching by complete title, but this type isn't very good. Not only will searching help narrow the search down to books with the same name, it'll also narrow the search down to duplicate editions of existing editions of the same book you might be wanting to add. Click the most accurate match to another version of the book (according to title), if it still doesn't display.
+
+
+If a relative search result displays in the search bar in real-time (especially with an ASIN/ISBN search), this yields the possibility that you'll need to add another edition if the two items aren't the same. If you searched by the title and came up with a relative title, it's time to create an alternate edition with the title given - if not, it's time to create a new book entirely.
+ If there are no other editions of the book, you'll find this link towards the top of the listing above the "Get a copy" section that contains some critical other places to purchase the book that is always displayed.
+ With the New Edition page, the form will prefill several items including the title, sort-by title, author, and description - most of which you can just do a "once-over". The rest you'll have to type in manually.
+
+
+Recognize the need to add what Goodreads calls an "alternate cover edition" when the ISBN comes up but the cover is different (those that don't have a cover but can be obtained legally for Goodreads' use is different and only a Goodreads Librarian can help and should never be re-added).
+
+
+
+Goodreads Librarians recognize how annoying it is when adding one and the ISBN sends back an error. However, if you aren't a Goodreads Librarian, you'll want to hold off on clicking the "Create book" until all fields are filled out to their entirety.
+Acknowledging where the error lays if you get the error message yourself is a big help, and can be remedied through an action that you can also take.
+ Use the same conventional formats as those used in the above method (adding a brand new book to the database). These same conventions apply to adding alternate editions too.

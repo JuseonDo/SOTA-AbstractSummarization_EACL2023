@@ -1,0 +1,19 @@
+@summary
+tap the "settings" option to open the kindle settings menu.
+
+@summary
+tap the "apps and games" option.
+
+@summary
+tap the "amazon application settings" option.
+
+@summary
+tap the "app store" menu.
+
+@summary
+tap "automatic updates".
+
+@summary
+check the box labelled "enable automatic updates".
+@article
+ The Settings icon should be on the home screen; it resembles a grey gear. Enabling automatic updates will remove the need for you to update your apps manually, so your apps should always be up to date., You'll have to scroll down through the Settings menu to find this option., This will redirect you to the app store preferences., This will open the App Store preferences menu., This opens the automatic updates preference menu., If it's already checked, your apps should be updating automatically. If not, you have successfully enabled automatic updates!

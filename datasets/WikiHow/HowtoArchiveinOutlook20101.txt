@@ -1,0 +1,55 @@
+@summary
+open microsoft outlook 2010.
+
+@summary
+click on the "file" tab on the top horizontal bar.
+
+@summary
+,
+
+@summary
+select "cleanup tools" from the options.
+
+@summary
+,
+
+@summary
+click on the "archive" option.
+
+@summary
+,
+
+@summary
+select the choice to archive folders, including subfolders, in the dialog box.
+
+@summary
+,
+
+@summary
+choose the folder you would like to save and archive in the browser window.
+
+@summary
+choose a date when outlook will decide items should be archived.
+
+@summary
+select the location of your archive file.
+
+@summary
+press the "ok" button to archive your items.
+
+@summary
+,
+
+@summary
+return regularly to archive your outlook files.
+@article
+
+
+If you are using Microsoft Outlook on an Exchange Server account this function is most likely not available to you. Archiving is controlled by server administrators, rather than individuals.;
+,,,,, You can archive each folder one at a time, or select the top level to archive the entire mailbox.
+ All emails, calendar appointments and documents originating before this date will be archived.
+
+
+If you want to override any items that were marked as "Do Not Archive," you can check this box now. This will override that instruction for this single manual archive.
+ It may be automatically saved in an Archive folder under "Outlook Files"; however, you can use the browser function to choose any location on your computer or a removable disc.
+, You will also want to backup all of your computer files regularly, including your archived Outlook items.

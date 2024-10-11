@@ -1,0 +1,20 @@
+@summary
+once the download is done, click on the file to run the installer application.
+
+@summary
+after the install completes, a menu should pop-up.
+
+@summary
+a "congratulations!",
+
+@summary
+to transfer files to your dropbox, you can either use the 'drag and drop' method or the 'copy - paste' method.
+@article
+ After it opens, click 'Install.'
+
+, Enter your e-mail address and password that you registered with Dropbox earlier. Then, click 'Sign In.'
+
+, message should appear, informing you that your Dropbox was successfully installed. Click 'Open my Dropbox Folder.'
+
+, After the transfer completes, a check mark will appear to indicate that your files are synced. All done!
+

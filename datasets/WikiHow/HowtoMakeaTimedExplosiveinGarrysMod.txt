@@ -1,0 +1,27 @@
+@summary
+first, go to the wire tab and click on the explosives tool.
+
+@summary
+next, click on the gate-time tool.
+
+@summary
+now, click on the screens tool.
+
+@summary
+then, click on the button tool.
+
+@summary
+finally, wire the timer chip to the button, the screen to the timer chip, and the explosives to the button.
+
+@summary
+,
+
+@summary
+and now, save your work, and, well.....blow it up!!
+@article
+ Spawn an oil drum with your choice of how deadly it will be(damage and range). Keep trigger value at one. The on fire delay is how long it takes to explode, so set it to how long you want your timed explosive to be. Check remove on explosion .;
+, Set it to timer. Put this on top of the oil drum.
+ Check Show only one value. Also, check center the screen for one value. For Input A, Write "(whatever number you set for the on fire delay in the explosives) = Boom. Put a screen on one side of the oil drum.
+ Check toggle for your button. Place the button above the screen.
+, :D
+

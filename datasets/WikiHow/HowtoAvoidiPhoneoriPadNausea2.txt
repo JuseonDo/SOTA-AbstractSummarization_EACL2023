@@ -1,0 +1,29 @@
+@summary
+look away from the screen when the icon animation is running (when you press the 'home' button).
+
+@summary
+look away, or look at a corner of the device when scrolling email and the like.
+
+@summary
+know why you are uncomfortable.
+
+@summary
+let your eyes and brain live with the paradox until they get use to it.if you use a device with contrast control, decrease the contrast of the display and the experience will be more pleasant; unfortunately the iphone has no such an option.
+
+@summary
+try to use the apple device when facing a wall or other neutral, low information content image.
+
+@summary
+avoid using the device when walking.
+
+@summary
+change the color of the 'home screen' to all white or all black, according to what works best to you.
+@article
+ Lower resolution devices such as the Android systems do not cause nausea (or are less likely to cause).
+
+You might have vision problems but it is unlikely if you get nausea with the same animations or in a large screen (computer or iPad) seen from a reasonable distance.
+
+
+Do you get nausea from 3D movies? A few people do. Even people who do not get nausea from 3D movies might get nausea from the apple high resolution screens + animations. The problem is that the apple icons are unrealistically sharp giving the impression of being 'floating' by the glass. Nothing in real life looks that sharp. The headache might be the result of the brain subconsciously trying to understand what is the physical reality of those icons. Decreasing the brightness might reduce the discomfort because it makes the icons and text to seem less realistic. Installing a protecting film that reduces the sharpness of the screen also makes the images on the screen less 'paradoxical' to the brain.
+ Nausea might come from the fact that your brain thinks the images on the screen comes from real objects (3-dimensional). The images are so sharp that deceives the brain of some people into thinking it is a real object. However when the eyes try to focus to see the moving images in different planes, the light is coming from the same plane (screen). The eyes keep refocusing trying to predict the movement of the objects on the screen and this inconsistency cause the discomfort. Please try looking to the screen with one eye to see if the discomfort decreases (hard to tell because it is so subtle). In any case, if this is the problem, it is solved by looking at the screen at arms length. At arm's length the discrepancy between the images seen by each eye for a 3D object is much less and closes to the 'no difference' observed in the apple flat screen., For some people it means days; for others it might mean weeks or more.,, For some people the eyes still see what is going on around when looking at the small screen. The less information outside of the screen, the less strain to the brain., This tip is equivalent to the previous one., Black seems to work better on the home screen because it masks the 'shadowing' effect of the icons, decreasing the 3D illusion. This trick does not help for all the other screens (safari, settings, email, etc).
+

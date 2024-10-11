@@ -1,0 +1,174 @@
+@summary
+download python and python script.
+
+@summary
+change into the downloads directory on your windows pc.
+
+@summary
+,
+
+@summary
+click on the python executable in order to install python to your system.
+
+@summary
+you will need to obtain the youtube-dl python script called youtube-dl.py.
+
+@summary
+once the python script is downloaded you will need to configure your windows system to run the youtube-dl.py python script from the windows command line.
+
+@summary
+in order to use the youtube-dl python script from the windows command line you will have to edit and add the following line to your system path environment variables ;c:\youtube-dl\bin;
+
+@summary
+this will inform the windows system to the location of the youtube-dl.py python script.
+
+@summary
+once this task is complete you should be able to run the youtube-dl.py python script from the windows command line prompt in any location.
+
+@summary
+so in order to download a youtube video to you pc you would:
+
+@summary
+type/copy/paste: cd videos
+
+@summary
+change into you videos directory or wherever you store videos or multimedia on your pc and perform the following tasks.
+
+@summary
+youtube videos are usually stored in the flv or mp4 formats and you can use a media player such as vlc player to view your videos.
+
+@summary
+to install python on your ubuntu linux, issue the following command:
+
+@summary
+type/copy/paste: sudo apt-get update
+
+@summary
+type/copy/paste: sudo -s apt-get install python
+
+@summary
+this will install python to your ubuntu linux system
+
+@summary
+type/copy/paste: sudo -s apt-get install youtube-dl
+
+@summary
+this will install the youtube-dl script to your system
+
+@summary
+;
+
+@summary
+,
+
+@summary
+so in order to use youtube-dl on ubuntu linux, issue the following command, and highlight/copy/paste the url of the youtube video:
+
+@summary
+type/copy/paste: youtube-dl “paste the url of the youtube video here”
+
+@summary
+for example, the usage of the youtube-dl python script on ubuntu linux would be used as the following example to download a youtube video.
+
+@summary
+youtube videos are usually stored in the flv or mp4 formats and you can use a media player such as vlc player to view your videos.
+@article
+ This is necessary in downloading YouTube to your PC device.
+
+
+Make sure you select the correct version of Python for your system architecture either 32-bit or 64-bit. If your PC has 4GB of memory or more it is most likely a 64-bit computer running a 64-bit operating system.
+You can download Python from here Download Python.
+, Once Python is installed onto your computer, you also have the option of installing python for use at the command line prompt in Windows by adding the location of Python installed on your system. For example, the PATH may or may not be.
+
+
+;C:\Python27;
+
+, You can obtain the youtube-dl script from here: youtube-dl.
+
+
+Make sure you download and save the youtube-dl python script as youtube-dl.py
+
+
+,
+
+
+First, change into your C: drive in Windows and create a directory
+Open a command line prompt in Windows
+
+Type/Copy/Paste: cd /
+
+This should change you into the C: drive, if not make sure you are in the C: drive
+
+
+
+Type/Copy/Paste: mkdir youtube-dl\bin
+
+Create a directory to hold your youtube-dl Python script
+
+
+
+Type/Copy/Paste: cd Users\"your_user_name"\Downloads
+
+To change into your Downloads directory
+
+
+
+Type/Copy/Paste: copy youtube-dl.py to C:\youtube-dl\bin
+
+You may need to be Administrator on your system in order to create directories and copy files to system folders.
+ To edit your Windows system PATH environment variables you will have to perform the following steps.
+
+
+Click on the Start Button.
+Click on Control Panel.
+Click on System and Maintenance.
+Click on System.
+Click on Advanced System Setting.
+Click on Environmental Variables.
+Click on PATH to edit system wide variables.
+Click OK when finished.
+
+Type/Copy/Paste: ;C:\youtube-dl\bin;
+
+Make sure you carefully edit your Windows System PATH and include the semi-colon ; before the letter C
+
+
+
+,
+
+
+For example, to download a YouTube video you would highlight/copy/paste the YouTube URL in the Windows terminal. It would look like this,
+
+Type/Copy/Paste: youtube-dl.py https://www.youtube.com/watch?v=giNdyLY46Mo&feature=related
+
+It will download the YouTube FLV or MP4 video to your PC. A correctly downloaded YouTube video file will have the following file format
+
+giNdyLY46Mo.flv or giNdyLY46Mo.mp4, look for those file extensions which end in *.flv and *.mp4 and use the VLC multimedia player to play them.
+
+
+
+
+Type/Copy/Paste: youtube-dl.py “Paste the URL of the YouTube video here”
+
+The YouTube video should download into your videos directory or whatever directory you are in when you issue the youtube-dl.py command.
+ You can install the VLC multimedia player by going to the following link Download the VLC Player.
+,
+
+Type/Copy/Paste: youtube-dl https://www.youtube.com/watch?v=giNdyLY46Mo&feature=related
+
+It will download the YouTube video to which ever directory you are currently in when you run the youtube-dl command.
+A correctly downloaded YouTube video file will have the following file format
+
+giNdyLY46Mo.flv or giNdyLY46Mo.mp4 look for those file extensions which end in *.flv and *.mp4 and use the VLC multimedia player to play them.
+ You can install the VLC multimedia player by going to the following link Download VLC multimedia player or using the following commands on Ubuntu Linux.
+
+
+
+Type/Copy/Paste: sudo apt-get update
+
+Type/Copy/Paste: sudo -s apt-get install vlc
+
+This will install the VLC multimedia player to your Ubuntu Linux system.
+
+
+

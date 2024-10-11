@@ -1,0 +1,37 @@
+@summary
+turn on your xbox .
+
+@summary
+go to your xbox memory.
+
+@summary
+highlight your hard drive and press y.
+
+@summary
+press y click into clear system cache.
+
+@summary
+try to recreate the problem.
+
+@summary
+shut down your xbox and take the hard drive out, if it freezes again.
+
+@summary
+repeat step five.
+
+@summary
+go to the website and have it fixed by following the steps.
+@article
+ Use the 'power' button.;
+, Use the controller.
+ Do not enter it yet.
+ Continue to clear it.
+ If it doesn't freeze it's fixed.
+ Again use the 'power' button.
+ If you can't recreate problem, then it is solved.
+ Use the points below to check if it is a hard drive or console problem.
+
+
+If it does freeze your Xbox needs to be sent in to be fixed.
+if it doesn't freeze your hard drive needs to be sent in to be repaired.
+

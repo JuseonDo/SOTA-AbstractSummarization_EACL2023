@@ -1,0 +1,13 @@
+@summary
+boil water.
+
+@summary
+add a pinch of salt.
+
+@summary
+stir in fiddleheads.
+@article
+ Fill a saucepan with enough water to fully cover the fiddleheads.
+ When the water has come to a full boil, add salt.
+ Return the water to a full boil, then cook for 15 minutes.
+

@@ -1,0 +1,90 @@
+@summary
+go to padlet.com.
+
+@summary
+drag a photo from your desktop or folders on your computer to place it on your wall.
+
+@summary
+double click on photo to name it.
+
+@summary
+click or tap on an empty place on the wall.
+
+@summary
+view the small icons below your message.
+
+@summary
+click on any element on the wall to make it larger and easier to see.
+
+@summary
+copy the url in your browser.
+
+@summary
+select the plus sign in the right hand column to start a new wall.
+
+@summary
+,
+
+@summary
+click on the cog in the right column.
+
+@summary
+move from the top down in the tabs to modify the wall.
+
+@summary
+tap or click the next tab, wallpaper.
+
+@summary
+choose the layout in the third tab.
+
+@summary
+click on the privacy tab to choose whether you wall will be private, hidden, password protected or public.
+
+@summary
+consider signing up for an account to share your wall.
+
+@summary
+click the “sign up” button to share your wall.
+
+@summary
+click the log in button if you want to share your wall, but you aren’t already logged in.
+
+@summary
+click the button to moderate your posts if you are using this wall in a teaching capacity.
+
+@summary
+create a custom wall url in the address tab.
+
+@summary
+sign into the wall in the first 24 hours to claim the wall and become the person who controls the wall.
+
+@summary
+press the delete tab to get rid of the wall if you are the owner.
+@article
+ Click the button that says “Create Something” or “Make a Wall.” You will be sent to your own wall with a unique link.;
+, As long as you drag it onto the browser window, it will land on your wall. Click the center of the picture to move it around the wall, or use the arrows in the corners to make it bigger or smaller.
+ Type a title for the picture or a caption.
+ Start typing to create a message.
+ There is a link button, an upload button and a video button. Use these buttons to attach a multi-media element to your message.
+
+
+Click on the link icon to attach a URL to the message. This is also a good way to attach a photo, since you can link to an image on a website.
+Click on the upload link to choose a file from your computer.
+Click on the video link if you have a webcam. You can take a video, including audio, and post it to the page.
+ Clicking the pencil icon in the upper right part of the post will allow the author or wall owner to edit it. Use a pinching motion to resize an image on another device, such as a mobile phone or tablet.
+ It should start with “padlet.com/wall/” and then include an alphanumeric code that is unique to your wall. Paste this in any browser to grant access to the wall.
+, This icon will allow you to access your modification settings.
+ Begin with the Basic Info, which includes the title and description. Type in these elements.
+ You can choose a paper or wood texture. Opt to use your own image or a vector image that is in the list.
+ You can associate a random layout, or do a chronological stream. The third option is a grid, which looks like a Pinterest board.
+ Padlet describes these options to you underneath each radio button. Click “Submit” to save these settings.
+ The rest of the privacy settings and the other tabs require this.
+ Sign up using your email and other information. Confirm your signup and then return to your wall using the unique URL.
+ Add emails in the “Add People by Email” section. Then, they will receive a link to access and edit the wall.
+ This means you must approve anything before it is posted. Click “Submit” to change your privacy settings.
+
+
+You can manage the notifications you get for posts in the Notifications tab.
+ If you have an account, you will be able to choose an available URL that is easier to remember, such as “padlet.com/wall/mayberry.”, If you do not, the wall will remain public and anyone can claim it or edit it.
+ The site will ask for a confirmation.
+

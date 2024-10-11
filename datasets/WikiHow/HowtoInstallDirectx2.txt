@@ -1,0 +1,23 @@
+@summary
+navigate to microsoft's "directx end-user runtime web installer" page.
+
+@summary
+,
+
+@summary
+click on the "download" button for the dxwebsetup.exe file.
+
+@summary
+,
+
+@summary
+follow the instructions for downloading and installing the dxwebsetup.exe file to get the latest version of directx.
+
+@summary
+,
+
+@summary
+rollback and download directx 9 for windows xp.
+@article
+,,, Users of Windows XP who have downloaded the DirectX latest version by mistake will need to rollback to a prior version. Microsoft no longer offers support to Windows XP users and provides no method of uninstalling DirectX other than to update to the latest version. Windows XP users can either download and install one of the third-party applications available designed for this purpose or use the "System Restore" feature in Windows to return their operating system to its original state prior to installing the latest DirectX update.
+

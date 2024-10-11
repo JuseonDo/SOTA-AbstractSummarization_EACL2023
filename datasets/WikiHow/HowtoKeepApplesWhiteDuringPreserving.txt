@@ -1,0 +1,13 @@
+@summary
+fill a bowl with water and add two tablespoons of salt.
+
+@summary
+peel the apples.
+
+@summary
+cook as needed.
+@article
+;
+, Put them straight into the bowl of water and salt.
+ The apples will have remained white in the bowl and they will continue to remain white during cooking.
+

@@ -1,0 +1,22 @@
+@summary
+select the photo or photos you want to resize.
+
+@summary
+from the file menu, select resize... you can also find this option when you right-click on the image.
+
+@summary
+,
+
+@summary
+choose a size.
+
+@summary
+save to your destination folder.
+@article
+ Use the method described above to select single images, a group of consecutive images, or a group of nonconsecutive images.
+, In the Resize dialog box there is a menu. You can choose a preset value in that menu, or type in a number in the Maximum dimensions: field.
+
+
+This number will affect the longer dimension of your image, and adjust the shorter dimension proportionally.
+ Click Resize and Save to save the resized file to your original folder, or click the Browse... button and choose a different folder.
+

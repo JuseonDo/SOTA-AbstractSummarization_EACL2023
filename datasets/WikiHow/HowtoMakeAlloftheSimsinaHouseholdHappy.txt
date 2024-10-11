@@ -1,0 +1,38 @@
+@summary
+open up the cheat box.
+
+@summary
+type in: boolprop testingcheatsenabled true.
+
+@summary
+once you typed the cheat, press return or enter.
+
+@summary
+,
+
+@summary
+now, press shift.
+
+@summary
+once you have selected the mailbox, click household.
+
+@summary
+,
+
+@summary
+then click: make all happy.
+
+@summary
+,
+
+@summary
+watch.
+
+@summary
+repeat this when needed.
+
+@article
+ It is a long white bar across the top of the screen. Hold down Shift and Ctrl (control) at the same time. While holding that down, press C. If done correctly, you should get the bar at the top of the screen.;
+, Type exactly as shown, spaces, caps spelling.
+, Hold down shift and select the mailbox. Keep shift held down the entire time.
+,, You will see the Sims need bars go up and get green.

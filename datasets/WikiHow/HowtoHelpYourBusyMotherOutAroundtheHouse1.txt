@@ -1,0 +1,4 @@
+@summary
+keep your room clean.
+@article
+ Keep track of your things, and put them away when you're done with them. If you do make a mess, clean it up.;

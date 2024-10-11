@@ -1,0 +1,36 @@
+@summary
+open the settings app.
+
+@summary
+tap apps.
+
+@summary
+,
+
+@summary
+tap the google play store app.
+
+@summary
+,
+
+@summary
+tap ⋮.
+
+@summary
+,
+
+@summary
+tap uninstall updates.
+
+@summary
+wait for google play to reset.
+
+@summary
+,
+
+@summary
+open the google play store app.
+@article
+ Resetting the Google Play Store can resolve irrelevant "insufficient storage available" errors.,,,, You may need to confirm your decision.
+, If prompted, you'll need to follow the on-screen instructions to update to the latest version of Google Play. You should be able to download apps now.
+

@@ -1,0 +1,20 @@
+@summary
+to message someone, click on contacts, and double-click a contact's name.
+
+@summary
+to call someone, first make sure that they are online.
+
+@summary
+to video chat a contact, follow the same procedure as you would calling that contact, except click "video call" instead.
+
+@article
+ In the chat bar that pops up, simply start typing in your message. Press Enter or Return to send the message.
+
+
+To message with multiple people at once, click File > New Conversation and simply add all the contacts you want to include in the message.
+ If they have a solid green icon with a checkmark in the center, it means they're online and you can call them.
+
+
+Find the person you want to call.
+Click the "Call Phone" button.
+Wait for the contact to accept your internet call.

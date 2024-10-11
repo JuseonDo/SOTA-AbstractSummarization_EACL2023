@@ -1,0 +1,46 @@
+@summary
+acquire a level 45 farming.
+
+@summary
+get an empty plant pot.
+
+@summary
+add a maple seed to the filled pot.
+
+@summary
+travel to one of the tree patches.
+
+@summary
+rake the patch.
+
+@summary
+add compost to the patch.
+
+@summary
+place your sapling in the patch.
+
+@summary
+,
+
+@summary
+harvest the tree after 320 minutes (5 1/2 hours) of planting.
+@article
+;
+, Fill it up with soil by using a gardening trowel on any farming patch.
+ Use a watering can on it and wait for it to become a sapling.
+
+
+
+Falador Park
+South Taverely
+Varrock Castle courtyard
+Behind Lumbridge Castle
+Tree Gnome Stronghold
+
+, Allow your character to rake all the weeds out of the patch.
+ Supercompost achieves a higher successful yield and helps the item from plant disease.
+, Chop the tree into logs and remove the root.
+
+
+If you wish to chop down more logs, wait until the stump has grown back into a tree.
+

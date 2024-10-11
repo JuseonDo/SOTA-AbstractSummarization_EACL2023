@@ -1,0 +1,9 @@
+@summary
+download snapndrag.
+
+@summary
+open snapndrag.dmg do this by searching your downloads folder or directly open it from your browsers download bar.
+@article
+ You can download SnapNDrag for free from Softonic here.;
+, Then, in the window that appeared when you opened the .dmg file, drag the SnapNDrag icon to your Applications. Then double-click to open.
+

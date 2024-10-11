@@ -1,0 +1,42 @@
+@summary
+make sure your document is open.
+
+@summary
+find the "file" tab and click on it.
+
+@summary
+click "save" or "save as".
+
+@summary
+under "save as", decide on your save location.
+
+@summary
+double-click your save location.
+
+@summary
+in the "file name" field, type in your preferred file name.
+
+@summary
+,
+
+@summary
+click "save" to save your file.
+
+@summary
+,
+
+@summary
+verify that your file was saved before closing your document.
+@article
+ You can open MS Word by double-clicking the Word icon or by double-clicking a Word document.;
+, "File" is located in the upper left-hand corner of Microsoft Word's interface., If you click "Save" on an unsaved document, you will be redirected to the "Save As" menu.
+
+
+If the document has been previously saved, you won't have to select a save destination (e.g., desktop) or a file name--the existing file will simply be updated.
+ Typical locations include "This PC" and OneDrive, but you can also click "Browse" to select a specific location.
+
+
+If you select "This PC", you will have to pick a subfolder--your desktop, for example.
+ This will take you to the file name screen.
+,, If your file is in your chosen save location, your file was successfully saved!
+

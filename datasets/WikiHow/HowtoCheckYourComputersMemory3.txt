@@ -1,0 +1,12 @@
+@summary
+open up finder and locate your hard drive.
+
+@summary
+control-click on the drive and select "get info.",
+
+@summary
+read the size and remaining space on your drive.
+@article
+ More often than not, this is labeled as "Harddrive." It could also be your (C:) drive, however.
+ If it is highlighted, you can also press Command + I (uppercase "i") to open the info pane.
+ Once you've opened info, the amount of space should be visible as a number of Gigabytes (GB). This is the amount of space you have for files like music, movies, photos, and documents.

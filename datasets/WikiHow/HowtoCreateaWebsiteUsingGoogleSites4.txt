@@ -1,0 +1,22 @@
+@summary
+click on the image of a pencil at the top of the page to edit your homepage.
+
+@summary
+click the icon of a piece of paper with a "+" sign over it to add a new page.
+
+@summary
+,
+
+@summary
+click "share" when you have finished your site.
+@article
+
+
+
+A toolbar will appear that will allow you to add text to your website.
+To add images or other visual effects, click the "Insert" tab on your menu bar and follow the instructions.
+Click on the HTML key at the right to edit your site using HTML.
+To add Google AdSense or a Google+ icon, click "Edit Sidebar."
+
+,, This action enables you to send the URL to people's e-mail addresses so that they can view the finished product.
+

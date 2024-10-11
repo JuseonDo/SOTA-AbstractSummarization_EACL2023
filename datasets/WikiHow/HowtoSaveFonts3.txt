@@ -1,0 +1,15 @@
+@summary
+copy the .ttf or .otf font files and save said copied font files to "fonts://" located in the "file manager.",
+
+@summary
+go to the "home folder.
+
+@summary
+,
+
+@summary
+select view then select the "show hidden files" option from the menu.
+@article
+ These fonts should now be saved to your "Fonts" folder. If this does not work, proceed to the next step.
+, Here you will find a hidden folder designated ".fonts." If this folder does not appear, you can create within this area and save your downloaded font files to the newly created font folder.
+

@@ -1,0 +1,25 @@
+@summary
+determine the cause of the problem: the first step is to identify the problem.
+
+@summary
+check for updates for your drivers: most computer manufactures have websites for drivers and updates for your computer.
+
+@summary
+open the device manager: if there are no updates for your drivers or you have updated and the problem persists, you will have to uninstall and then reinstall the driver.
+
+@summary
+find the driver you need fixed: search through the list by clicking the plus button next to each category.
+
+@summary
+uninstall the driver: to uninstall the driver simply right click on it and click the uninstall button.
+
+@summary
+restart your computer: click start and then click the shutdown button.
+@article
+ Is it with your sound. Then the problem is most likely with your sound card driver (Just make sure your volume is turned up before you continue). If have problems when playing games or have a strange looking picture when watching videos, then the problem is most likely with your graphics card. And if your problems are with a device that you attach to your computer via USB (A camera, an external hard drive, etc.) there is a problem with your USB drivers.;
+, Always try updating first before you reinstall the driver. Simply go to the manufactures website and click on the drivers and downloads link. If your manufacture doesn't have a link, you might have to contact support.
+ To do this you first have to open up device manager. Click start, right click on My Computer and click Properties. If you have Windows XP click on the Devices tab and then click on Device Manager. If you have Windows Vista click on the Device Manager link on the top left (You may have to click allow if prompted).
+ Sound drivers are usually under the Sounds category, video drivers are usually under the Video Display category, and USB drivers under the USB Hub category.
+ If prompted say yes when asked if you want to uninstall (Windows Vista users may also have to click allow).
+ Once shutdown wait a few minutes and then boot your computer back up. The driver should have reinstalled. Test to make sure the problem is fixed
+

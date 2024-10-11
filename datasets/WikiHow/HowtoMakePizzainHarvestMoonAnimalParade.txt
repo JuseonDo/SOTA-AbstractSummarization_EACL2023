@@ -1,0 +1,19 @@
+@summary
+acquire an oven.
+
+@summary
+gather the ingredients needed to make the pizza.have the ingredients in your rucksack.
+
+@summary
+walk to the oven on your kitchen counter.
+
+@summary
+choose the ingredients that you need for the recipe.
+@article
+ If you don't have it, you can go to the General Store and pay 2,500 G for it.
+
+
+
+Pie Crust: You will need to make the basic pie crust prior to making pizza. The utensil needed is a knife (1,500 G) and ingredients needed are wheat flour and butter.
+Cheese: You can process milk in a cheese maker (purchased from the General Store for 4,200 G).
+, Press the "A" button., Press the "A" button again and "Start" to make the dish.

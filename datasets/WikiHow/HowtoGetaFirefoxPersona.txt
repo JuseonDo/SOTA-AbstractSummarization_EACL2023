@@ -1,0 +1,30 @@
+@summary
+click this link: http://www.mozilla.org/ (or type in mozilla.org in your mozilla search engine);
+
+@summary
+,
+
+@summary
+when you are at the website, click on the circular firefox logo.
+
+@summary
+,
+
+@summary
+once you are at the new page, hover over "desktop" and click on "customize".
+
+@summary
+,at the next page, find the words "see all 180,000+"
+
+@summary
+,
+
+@summary
+now you're at the persona page.
+
+@summary
+can't find a certain persona you want?
+@article
+,,,, If you're looking for certain designs (for example abstract), look to the left side and find the words "Categories", under that will be lots of designs.
+ Scroll back to the top and look to the upper right. You should see a blank bar with a magnifying glass. In the bar, type a keyword that would represent your persona. For example, if you're looking for a turtle persona, type in turtles. If you are too specific, for example: "Pink circles with hearts and smile faces", it will not detect anything. Use simple keywords.
+

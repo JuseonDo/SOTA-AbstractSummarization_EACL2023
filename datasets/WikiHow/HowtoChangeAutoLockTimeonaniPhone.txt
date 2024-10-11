@@ -1,0 +1,35 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll to the third group of options and tap display & brightness.
+
+@summary
+,
+
+@summary
+select auto-lock.
+
+@summary
+,
+
+@summary
+review your options.
+
+@summary
+select your preferred option.
+@article
+ Do so by tapping the grey gear icon on one of your Home screens (it might also be in a folder named "Utilities").;
+,,, You can program your phone to automatically lock after any of the following time increments:
+
+
+30 Seconds
+1 Minute
+2 Minutes
+3 Minutes
+4 Minutes
+5 Minutes
+Never
+
+, Your phone should now automatically lock after you leave it unlocked and unattended for your chosen amount of time.
+

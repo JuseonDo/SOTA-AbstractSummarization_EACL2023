@@ -1,0 +1,50 @@
+@summary
+open the app drawer.
+
+@summary
+tap file manager.
+
+@summary
+,
+
+@summary
+tap sdcard.
+
+@summary
+,
+
+@summary
+tap whatsapp.
+
+@summary
+,
+
+@summary
+tap databases.
+
+@summary
+rename the backup file you want to restore.
+
+@summary
+uninstall whatsapp.
+
+@summary
+,
+
+@summary
+reinstall whatsapp.
+
+@summary
+,
+
+@summary
+tap restore.
+
+@article
+ By default, your phone has local backup files from the past seven days while Google Drive only has the most recent.
+,,, If your data isn't stored on your SD card, it might be on your phone/internal storage instead.
+ Change the name from msgstore-YYYY-MM-DD.1.db.crypt12 to msgstore.db.crypt12.
+
+
+Earlier backups might also be on an earlier protocol such as crypt9 or crypt10.
+,,

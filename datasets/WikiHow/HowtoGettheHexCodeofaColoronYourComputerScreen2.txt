@@ -1,0 +1,16 @@
+@summary
+open up a firefox browser.
+
+@summary
+navigate to the page where the color you want to copy is.
+
+@summary
+hover over "tools" in the menu and select "web developer".
+
+@summary
+click on the color you're looking for.
+
+@summary
+paste the code where you need it.
+@article
+ If you're trying to copy a color from an existing website and have Firefox installed, this is your quickest option., Make sure the element you need the color for is in view., From there, click "Eyedropper"., When you do so, Firefox will save the hex code to your clipboard., You can use that code in the font color, background color, or other elements in the HTML or CSS project you're creating.

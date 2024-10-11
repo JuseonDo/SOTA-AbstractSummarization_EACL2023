@@ -1,0 +1,5 @@
+@summary
+embed a movie or video from the movies folder, imovie or itunes.
+@article
+ Select the Home tab and click the Media option on the Insert menu. Select the Movie Browser option and locate the video from the specified location. The video has been inserted.
+

@@ -1,0 +1,28 @@
+@summary
+open your web browser.
+
+@summary
+go to https://www.gmail.com.
+
+@summary
+tap ☰.
+
+@summary
+scroll down and tap all mail.
+
+@summary
+tap the message you want to restore.
+
+@summary
+tap move to inbox.
+@article
+ Tap the Chrome icon on your home screen (a red, green, yellow, and blue wheel) or open the browser of your choice.
+
+
+
+If you’re not already signed in to Gmail, enter your Google account information to log in now.
+ It’s at the top-left corner of the screen.
+ It’s under the “More” heading.
+ This opens the message.
+ It’s near the top-right corner of the message. The message is now back in the inbox.
+

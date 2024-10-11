@@ -1,0 +1,32 @@
+@summary
+find the “settings” application on your device and click on it.
+
+@summary
+scroll down in your settings until you see the heading “user and backup.”
+
+@summary
+,
+
+@summary
+under the “user and backup” heading, you will see a category called “backup and reset.” click on this category.
+
+@summary
+,
+
+@summary
+after you have clicked “backup and reset,” you will see two more categories.
+
+@summary
+wait for the “factory data reset” tab to open.
+
+@summary
+enter your password.
+@article
+;
+,,, “Backup and Restore” and “Personal data.” Under the “Personal data” category, click the words “Factory data reset.”
+
+, It will explain that all data will be erased from your device’s memory. Scroll down until you are at the bottom of the page. There is a button that says “Reset Device.” Click on “Reset Device.”
+
+
+, If you have a numerical passcode or an unlock pattern, your device will ask you to type that code or draw the unlock pattern to confirm the factory data reset. Do that, and your device will start the reset process.
+

@@ -1,0 +1,17 @@
+@summary
+determine what model of toilet you wish to install, and purchase it from your local hardware or appliance store.
+
+@summary
+block the soil pipe with a rag or other cloth.
+
+@summary
+verify that the hole in the floor that the pipe comes out of is wide enough to fit the closet flange.
+
+@summary
+measure the gap between the flange collar's bottom and the floor.
+@article
+;
+, This is the main pipe coming out of the floor that your toilet will eventually sit on top of.
+ Place the flange over the pipe to determine if it will fit in the hole up to the collar. If the fit is too tight, you will need to use a jigsaw to cut the floor around the pipe.
+ Remove the soil pipe from the hole, and use a handsaw to cut the pipe to the exact measurement of the gap. File the cut end of the pipe with a PVC file or utility knife.
+

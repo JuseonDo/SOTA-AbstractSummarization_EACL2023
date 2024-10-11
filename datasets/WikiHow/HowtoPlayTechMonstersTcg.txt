@@ -1,0 +1,38 @@
+@summary
+place your deck to your right.
+
+@summary
+have each player draw five cards from their deck.
+
+@summary
+have each player select one monster card from their hand.have each player draw one additional card from their deck and flip their "tech master" face-up.flip a coin, play rock, paper, scissors, ect; to decide who goes first.
+
+@summary
+the first player plays any card from their hand.
+
+@summary
+each monster has swords & shields for point values.
+
+@summary
+a tech master can go by either it's swords or shields.
+
+@summary
+environment cards give a boost to a certain type of card.
+
+@summary
+a fight card can do just about anything.
+
+@summary
+now a quick note on your tech master.
+
+@summary
+knights can attack your opponent's monsters.
+
+@summary
+if you're opponent has no guards or knights you can attack their bp if they still have some left.
+
+@summary
+if your opponent has no knights, guards, or bp left you can attack their tech master if your monster is strong enough.
+@article
+ Leave a space open for card playing. Every player should also do this. Each player starts with 100 BP.
+ This is the maximum cards allowed in a player's hand at once., Make sure everyone plays it face down and vertically at the top of their side of the playing field as your "Tech Master". (Not all cards can be Tech Masters. The monster will have something written on it telling you if they can't.),,, They can play as many cards as they wish each turn., If you would like your monster to go by their swords, play it as a Knight. If you would like the monster to go by their shields, play it as a Guard. The max. is 2 Knights and 2 Guards at once on each players field., Place a marker on the card to keep track of it's position. You can change it's position once per turn., Only 1 can be on the field at once just like a Field Spell Card in the Yu-Gi-Oh! TCG., Most of them require BP to play, as do some monster effects., It can be switched with a card in your hand but the previous Tech Master is sent to the cemetery., Their Swords are compared with the opponent's Swords if you attack a Knight or a Tech Master or the Shields if you attack their Guards or Tech Master., They lose 5 BP per 1000 Swords of your attacking monster., You win if it's successful.

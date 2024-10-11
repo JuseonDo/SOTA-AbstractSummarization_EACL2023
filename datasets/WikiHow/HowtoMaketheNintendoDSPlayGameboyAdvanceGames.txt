@@ -1,0 +1,42 @@
+@summary
+remove any game cartridge from the device.
+
+@summary
+,
+
+@summary
+push the power slider on the right side of your ds and wait for the ds to power on.
+
+@summary
+,
+
+@summary
+touch the small ds symbol at the bottom of your touchscreen and then the purple wrench.
+
+@summary
+proceed to your start up settings for your ds.
+
+@summary
+insert your game boy advance cartridge on the bottom slot of your ds.
+
+@summary
+touch, or select the bottom box on your touch screen that says "start gba game".
+
+@summary
+enjoy playing your classic game boy advance games!
+
+@article
+,,
+
+
+
+
+
+
+
+A small picture of a GBA will appear, click this and set which screen (top or bottom) you would like to play on.
+ these will be contained under the purple settings section with a purple picture with an arrow and a rectangle.
+
+Select Manual Mode. This is important, if set on Auto Mode the DS will always play any DS or GBA game inserted into the device first.
+The device will then ask to be powered off, do not manually power off the device using the slider on the side. Just either touch Yes on the touchscreen or press the A button.
+ This is labeled for you next to the slot as Slot-2., If this option does not show up then you must power off the device and remove the cartridge. Reinsert and attempt this step again.,

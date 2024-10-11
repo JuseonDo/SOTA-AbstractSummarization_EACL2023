@@ -1,0 +1,16 @@
+@summary
+press your iphone’s home button.
+
+@summary
+swipe up from the bottom of the screen.
+
+@summary
+tap night shift: on.
+@article
+ This will wake up the display.
+ This opens your iPhone’s Control Center.
+ It’s the large button near the bottom of the Control Center. Doing so will manually disable Night Shift on your iPhone.
+
+
+If the button says Night Shift: Off, Night Shift is already disabled.
+

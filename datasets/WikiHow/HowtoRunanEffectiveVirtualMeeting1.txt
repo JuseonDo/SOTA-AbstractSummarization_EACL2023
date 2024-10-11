@@ -1,0 +1,17 @@
+@summary
+determine how long the meeting will last.
+
+@summary
+make a time-line.
+
+@summary
+gather information that needs to be discussed.
+
+@summary
+make copies of the desired material that will be discussed during the meeting.
+@article
+ Prepare an outline of what needs to be covered during the meeting.;
+, Provide the amount of time that will be devoted to each section. Write this time next to each topic that will be discussed during the meeting.
+ Search for useful information online or provided by the company.
+ Always make a few extra copies of handouts for unexpected guests or visitors.
+

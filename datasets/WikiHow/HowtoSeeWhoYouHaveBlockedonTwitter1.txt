@@ -1,0 +1,9 @@
+@summary
+open twitter's settings.
+
+@summary
+open the blocked accounts list.
+@article
+ Click your profile picture at the top-right and select Settings and privacy from the dropdown.;
+, Select Blocked accounts from the side panel. It's towards the bottom.
+

@@ -1,0 +1,20 @@
+@summary
+open the league of legends folder on your computer.
+
+@summary
+open the “configuration” folder.
+
+@summary
+find where it says, “windowed=0.” change the 0 to 1.
+
+@summary
+start up the game.
+@article
+ The default location is C:\Riot Games\League of Legends.
+ Open Game.cfg in Notepad.
+ Save the file.
+ It should be in windowed mode. Adjust the screen resolution to make the window smaller.
+
+
+You may have to restart the game to apply these changes.
+

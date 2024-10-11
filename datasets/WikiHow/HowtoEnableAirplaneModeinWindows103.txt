@@ -1,0 +1,16 @@
+@summary
+open settings.
+
+@summary
+open network & internet settings.
+
+@summary
+select airplane mode from the navigation panel.
+
+@summary
+use the slider to enable the airplane mode.
+
+@article
+ Search for Settings in the start menu to find and open the Settings window.
+ If in case you don't find this section, search for the same using the search box in the same window.
+ The navigation panel is located on the left side of the screen, select the setting to configure the mode.

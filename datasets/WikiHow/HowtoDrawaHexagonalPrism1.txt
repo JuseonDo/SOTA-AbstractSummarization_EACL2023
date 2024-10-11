@@ -1,0 +1,33 @@
+@summary
+draw a hexagon.
+
+@summary
+add vertical lines.
+
+@summary
+finish the base.
+
+@summary
+you now have your solid prism.
+
+@summary
+,
+
+@summary
+color some details to make it look 3d.
+@article
+;
+,
+
+
+For every visible corner, draw a straight vertical line.
+
+
+
+Connect the end of the vertical lines to finish the prism base.
+,
+
+
+Add some shadings and lighting.
+Add a shadow opposite to your light source.
+

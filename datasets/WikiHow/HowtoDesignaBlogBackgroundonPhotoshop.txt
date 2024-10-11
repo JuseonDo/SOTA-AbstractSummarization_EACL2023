@@ -1,0 +1,45 @@
+@summary
+decide what kind of background you want.
+
+@summary
+open up your photoshop program to a new screen.
+
+@summary
+now open up all of the different pictures and patterns that you plan on putting into your background.
+
+@summary
+spice it up!,
+
+@summary
+upload the image to photobucket (www.photobucket.com).
+
+@summary
+now go to your image and find the "direct link".
+
+@summary
+go to your blog and set it to a plain default template- white works best.
+
+@summary
+find the place where the html reads: "body {#background:$bgcolor;#margin:0; color:$textcolor; font:x-small georgia serif; font-size/* */:/**/small; font-size: /**/small; text-align: center;".
+
+@summary
+,
+
+@summary
+change the html to read: body {#background:$bgcolor;background-image:url('/insert your direct link here');background-position: center; background-repeat:no-repeat; background-attachment: fixed;#margin:0; color:$textcolor; font:x-small georgia serif; font-size/* */:/**/small; font-size: /**/small; text-align: center;
+
+@summary
+,
+
+@summary
+place your direct link where it says "insert your direct link here."
+@article
+ Will it be colorful and cheery, or a sleek, modern black? Try to base it off your blog- for example, if you blog about cooking, remind yourself to incorporate some utensils or foods in the final background.;
+, Set the sizes like this: Width, 14.5 inches (36.8 cm); height, 11 inches (27.9 cm); resolution, 100 pixels/inch; color mode, RGB color-8 bit; background color, white. The preset should be custom.
+ For example- on a blog about penguins, you could have pictures of penguins, icebergs, and fish over a big blue background. (That's just one idea.) The center part of the background (where text will go) should be 7.5 inches (19.1 cm) wide and be rather light-colored. With that said, stretch and pull the elements to fit your liking.
+ Make some things stand out and other things fade in. Add some ribbons, buttons, etc., whatever floats your boat. Use the Photoshop tools to make your background more interesting.
+ When uploading, reduce your image to 1 or 2 megabytes, depending on how large your screen/blog is.
+ Copy it or write it down somewhere, because you will need it later.
+ (If you're using Blogger, set it to "Minima.") Now dive into your blog's HTML code. It'll seem crazy to the ordinary person, full of weird signs and strange words.
+,, Now save your edits and check out your blog. It probably looks FANTASTIC now! Congratulations on successfully creating your very own blog background!
+

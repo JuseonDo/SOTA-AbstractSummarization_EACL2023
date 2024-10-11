@@ -1,0 +1,10 @@
+@summary
+add a test (add enough code to fail).
+
+@summary
+run the test.make a little change to the code.
+
+@summary
+run the tests.
+@article
+, If the test passes go back to step 1. If the test fails continue to step 3.,, If the test passes go back to step 3. If the test passes, but there are still development tests to complete return to step 1. It the test passes and development stops Continue to the Final Stage.

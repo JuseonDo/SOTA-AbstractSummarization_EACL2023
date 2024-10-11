@@ -1,0 +1,25 @@
+@summary
+make sure you are on the intelligent scissors tool.
+
+@summary
+make sure you are on the layer you wish to make a selection in.
+
+@summary
+click to create a starting point (or anchor) of the thing you want to select.
+
+@summary
+once you have gone around the object, put the mouse on on the first point created.
+
+@summary
+after this is done, put your mouse inside the selection.
+@article
+ They look like a pair of scissors.
+
+
+
+ ;
+, To do this, simply click on that layer in the layers and channels box.
+ Click around the object you want to select. Notice that the lines curve and zigzag sometimes to get the correct selection.
+ An infinity sign should come up (looks like a sideways "eight"). Click on this point to complete the selection.
+ An image of a dotted circle should show up. Click inside the circle to create the selection.
+

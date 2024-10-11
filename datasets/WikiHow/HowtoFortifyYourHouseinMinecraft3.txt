@@ -1,0 +1,9 @@
+@summary
+make a platform above your door.
+
+@summary
+use the technical fortification method.
+@article
+ It prevents mobs from dropping behind you, or dropping on your head. Especially creepers.
+ It prevents mobs from getting in your area and trampling your farm if you have one. Spiders can't get in as well as creepers won't knock on your door. Use a ladder to get in and out
+

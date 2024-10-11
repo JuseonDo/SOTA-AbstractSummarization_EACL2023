@@ -1,0 +1,39 @@
+@summary
+open your facebook page.
+
+@summary
+click the message icon.
+
+@summary
+click on a conversation you'd like to mute.
+
+@summary
+,
+
+@summary
+click the "options" gear.
+
+@summary
+click mute conversation.
+
+@summary
+,
+
+@summary
+select a duration for which to mute the conversation.
+
+@summary
+click mute to complete the process.
+@article
+ You may need to enter your phone number or email address and password if you aren't logged in.
+ This is the speech bubble icon in the top right corner of your screen.
+, This is in the top right corner of the chat window, directly to the left of the "X".
+, Your options include:
+
+
+For 1 hour
+Until 8 AM
+Until you turn it back on
+
+, You won't receive notifications from this conversation on your desktop or mobile devices until your mute duration expires.
+

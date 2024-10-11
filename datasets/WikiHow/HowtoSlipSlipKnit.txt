@@ -1,0 +1,31 @@
+@summary
+knit the stitches until the point where the pattern tells you to decrease.
+
+@summary
+slip two stitches knit wise onto the right needle.
+
+@summary
+remember––slipping means simply transferring the stitches from the left needle to the right.
+
+@summary
+slip the left needle through both of the slipped stitches on the right needle, so that the left needle is in front and the right in back, as if you are going to knit.
+
+@summary
+,
+
+@summary
+pick up the yarn from behind the needles.
+
+@summary
+knit the two stitches.
+
+@summary
+voila!
+@article
+;
+, The image below shows the knitter slipping the first stitch knit wise.
+ Slip the needle in as if you intend to knit, but do not pull the yarn through. Make sure you are slipping as if you are knitting, by placing the needle at the back of the stitch (slipping knit wise). (If you place the needle in the front of the stitch as if you are purling, this is slipping purl wise.) The image below shows two finished slipped stitched.
+, Pull it between them as if you are knitting.
+ Pull the needle through as if you are knitting and slip the finished stitch off the left needle onto the right.
+ You've just decreased with SSK. Two stitches have become one.
+

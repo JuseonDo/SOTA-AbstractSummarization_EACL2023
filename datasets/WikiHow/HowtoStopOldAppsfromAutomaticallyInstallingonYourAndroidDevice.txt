@@ -1,0 +1,24 @@
+@summary
+tap and hold the app you don’t want.
+
+@summary
+drag it to app info.
+
+@summary
+,
+
+@summary
+open google play.
+
+@summary
+go to my apps.
+
+@summary
+select the unwanted app and press the cross symbol on the top right.
+@article
+ Find the app's icon and press and hold. You should be able to find it in your app drawer.;
+,, Tap on the icon resembling a multicolored play button on a white bag.
+ Tap on "My Apps" and then on "All."
+
+, A pop-up message will appear asking you if you really want to remove the app from your Google Account. Simply press OK.
+

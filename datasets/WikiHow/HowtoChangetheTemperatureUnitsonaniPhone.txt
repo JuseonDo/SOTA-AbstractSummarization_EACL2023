@@ -1,0 +1,32 @@
+@summary
+open your iphone's settings.
+
+@summary
+tap general.
+
+@summary
+,
+
+@summary
+scroll down and tap language & region.
+
+@summary
+tap temperature unit.
+
+@summary
+,
+
+@summary
+tap celsius or fahrenheit.
+@article
+ It's an app with gray cogs and is usually found on one of your home screens.
+
+
+If you can't find it on your home screen, it may be located in a folder labelled Utilities.
+;
+,, It will be listed in the 7th set of options (below "Restrictions").
+, Your device will now display the selected units for the weather on the widgets page and in any relevant notifications.
+
+
+A checkmark indicates which option is currently selected.
+

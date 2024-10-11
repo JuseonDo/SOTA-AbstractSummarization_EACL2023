@@ -1,0 +1,58 @@
+@summary
+open the settings app on the ios device.
+
+@summary
+select "general" and then "restrictions.",
+
+@summary
+tap "enable restrictions" and create a passcode.
+
+@summary
+tap "websites" in the "allowed content" section.
+
+@summary
+tap "limit adult content.",
+
+@summary
+tap "add a website" in the "never allow" section.
+
+@summary
+add the youtube urls.
+
+@summary
+return to the restrictions menu and toggle "installing apps" off.
+
+@summary
+delete the youtube app from the device.
+@article
+ You can use the Restrictions feature to block the YouTube website on your iOS device.
+ This will open the Restrictions menu.
+ Make sure this isn't the same passcode used to unlock the device. This passcode will prevent anyone else from changing the Restrictions setting.
+ This will allow you to set websites that you want to block.
+ This will allow you to set specific websites that you want to block.
+ You'll be able to enter a URL.
+ Enter the following URLs to block the YouTube website:
+
+
+youtube.com
+m.youtube.com
+
+, This will prevent anyone from installing new apps, including the YouTube app.
+ If you have the YouTube app installed, delete it to prevent anyone from using it. Since you disabled installing apps, no one will be able to add it back.
+
+
+Press and hold the YouTube app icon until your icons start wiggling.
+
+
+
+
+
+
+Tap the "X" in the corner of the YouTube app. This will uninstall the app.
+
+
+
+
+
+
+

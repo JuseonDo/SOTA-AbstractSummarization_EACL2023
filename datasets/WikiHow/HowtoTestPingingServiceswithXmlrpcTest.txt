@@ -1,0 +1,26 @@
+@summary
+go to the online xmlrpc-test-tool.
+
+@summary
+in "xmlrpc-server" field enter the service url to be tested.
+
+@summary
+,
+
+@summary
+in "custom method" field enter "weblogupdates.ping".
+
+@summary
+click on "send".
+
+@summary
+look at the "response" area.
+@article
+;
+,, It is case sensitive, so write it exactly as shown.
+ In the output region you'll see the response.
+
+
+If you see "Missing weblog URL" in the response, then the pinging service is alive. It means that the command is understood but the required parameters are missing. For our purpose this response is enough.
+For any other response or no response at all, the tested service is not alive.
+

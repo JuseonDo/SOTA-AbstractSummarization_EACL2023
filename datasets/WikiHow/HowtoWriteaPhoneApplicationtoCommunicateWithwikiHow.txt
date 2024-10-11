@@ -1,0 +1,77 @@
+@summary
+choose your target operating system.
+
+@summary
+choose your programming language and sdk (if applicable).
+
+@summary
+learn the basics of the programming language of choice, if you're not familiar with it.
+
+@summary
+,
+
+@summary
+research the hardware platforms that support the combination of os+pl you choose.
+
+@summary
+,
+
+@summary
+find out about the features this combination offers under different hardware platforms.
+
+@summary
+,
+
+@summary
+pick the features that are the most common amongst the different hardware platforms.
+
+@summary
+,
+
+@summary
+learn about the user interface aspects of the programming language/sdk - operating system combination you choose.
+
+@summary
+,
+
+@summary
+research internet and email connectivity features of the language and os you choose.
+
+@summary
+,
+
+@summary
+learn how you can request an http page using the programming language and os of choice and how to get the resulting http response.
+
+@summary
+,
+
+@summary
+learn any xml dom features or the method the pl and os of choice use to parse xml.
+
+@summary
+,
+
+@summary
+learn to use the mediawiki api.
+
+@summary
+use the api to perform the tasks you wish to automate.
+
+@article
+ The choice of the OS is critical as it can limit your options on the choice of programming languages. Many mobile operating systems only support a few programming languages by default. Here are some of the most commonly used operating systems and the programming languages available for those OSs:
+
+
+BlackBerry OS. Programming Language: Java. Software will run only on BlackBerry Devices.
+iOS (known as iPhone OS prior to June 2010). Applications will run on iPhone, iPad, and iPod Touch. Programming Language: Objective-C. An iOS SDKis also available.
+Android. Programming Language: Java with the possibility of adding C and C++ code.
+Windows Phone 7. C, C++, .NET Compact Framework Languages. Applications will only run on Windows 7 mobile devices.
+Symbian. Programming Languages: C++, Java.;
+, The list provided above only includes the main programming language for a platform/OS. Sometimes, third-party hacks and tools exist to run a different programming languages. Some languages of choice might be:
+
+
+C++/C. Many mobile operating systems support C/C++ code one way or the other. The language itself is a long established one.
+Java/Java ME(formerly, J2ME). Has been the language of choice for many mobile applications for a long time.
+.NET Compact Framework Languages (C#, VB.NET, Managed C++). More suitable for Windows 7 devices, but gaining popularity on Linux based systems via third-party tools.
+Objective-C is the language of choice for iOS devices.
+,,,,,,,, wikiHow is built upon the MediaWiki software so the best and most powerful way to pull data from it is the API.

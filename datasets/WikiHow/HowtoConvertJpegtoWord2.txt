@@ -1,0 +1,23 @@
+@summary
+find the image online that you want to add to your word document.
+
+@summary
+right-click on the image and select "copy".
+
+@summary
+open word and place your cursor where you want the image to appear.
+
+@summary
+,
+
+@summary
+paste the copied image into the word document.
+
+@summary
+resize the image.
+@article
+ You can copy any image from the web and add it to your Word document.
+ This will copy the image to your clipboard.
+, You can right-click and select "Paste" or press Ctrl+V (Windows) or ⌘ Command+V (Mac).
+ You can drag the corners of the image to resize it in the document. You can also move the image around by clicking and dragging it.
+

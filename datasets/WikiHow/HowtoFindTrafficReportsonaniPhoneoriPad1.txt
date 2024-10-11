@@ -1,0 +1,25 @@
+@summary
+open the maps app.
+
+@summary
+tap the ⓘ button in the lower-right corner.
+
+@summary
+,
+
+@summary
+tap "show traffic".
+
+@summary
+,
+
+@summary
+look at the map.
+
+@summary
+tap the ">" button to view more details.
+@article
+;
+,,, A map with icons denoting closed roads or construction work will appear. A red line on a road shows congestion. Closed roads are indicated by a red "Do Not Enter" icon. Tap an icon to view more information.
+ This will open a new window with information including when the data for this area was last updated and what the closure affects.
+

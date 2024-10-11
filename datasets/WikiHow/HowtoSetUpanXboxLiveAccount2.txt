@@ -1,0 +1,49 @@
+@summary
+turn on your xbox one.
+
+@summary
+open the sidebar.
+
+@summary
+select sign in and press a.
+
+@summary
+select add new and press a.
+
+@summary
+press b.
+
+@summary
+select get a new account and tap a.
+
+@summary
+type in your preferred email name.
+
+@summary
+press a.
+
+@summary
+press ☰.
+
+@summary
+enter your first name and press ☰.
+
+@summary
+enter your last name and press ☰.
+
+@summary
+enter a password of your choice twice.enter your date of birth.
+
+@summary
+select next and press a.
+
+@summary
+enter your phone number and press ☰.
+
+@summary
+select i accept and press a.
+@article
+ To do so, press the Xbox button on the right side of the console.
+
+You can also hold down the Xbox button in the middle of a connected controller to turn on the Xbox One.
+ To do so, simply flick the left analog stick left while on the Home screen., The "Sign in" option is in the top-left corner of the screen. Doing this will open the user menu., If the Xbox One you're using has another user registered, you'll scroll left to select Add new., This will allow you to select an option other than the text field on this page., It's on the bottom of the screen., This email address must not have been taken already., Doing so will save your Xbox LIVE email address., This button is near the middle of your controller., Doing so will save your first name., This will apply your last name to your Xbox LIVE account., You'll have to press ☰ after entering your password both times.,, This option is in the top-right corner of the screen., Your phone number is necessary to secure your account if you ever lose your password., Doing so will finalize your account creation. You can now use your Xbox LIVE account on your Xbox One.

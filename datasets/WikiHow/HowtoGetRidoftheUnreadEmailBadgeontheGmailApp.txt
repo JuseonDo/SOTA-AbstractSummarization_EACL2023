@@ -1,0 +1,25 @@
+@summary
+launch the gmail application.
+
+@summary
+click on the magnifying glass icon.
+
+@summary
+type in the command “label:unread.” you have to type it directly onto to the search box, and then simply hit enter.
+
+@summary
+select “all.",
+
+@summary
+click on “more.” once you’ve selected “all” in the previous step, all your unread e-mails will be displayed, and the boxes to the left of these will ticked off with check marks.
+
+@summary
+tap on "mark as read."
+@article
+ You can do so either on your Android cellphone or tablet, or by logging into your Gmail account using your computer.;
+, This only applies when you’re using the app on your Android cellphone or tablet. If you’re using a computer, go to the search box right above the page.
+ Make sure to type the command without the quotes.
+ Perform this step by first hovering over the “Select” button, which is the leftmost arrow-down tab located on the upper left side of the page, and just below the search box. A drop-down list will display your options.
+ All you have to do is look toward the right to the tab that says “More.” Click on it to display options for you.
+ That’s it! All those e-mails should effectively no longer display the “Unread” e-mail badge.
+

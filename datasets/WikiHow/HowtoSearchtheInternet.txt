@@ -1,0 +1,60 @@
+@summary
+select a search engine.
+
+@summary
+after typing in whatever you want to search, press the enter key on the keyboard of your computer.
+
+@summary
+,
+
+@summary
+choose a few of the most specific or relevant keywords or phrases to describe your topic.
+
+@summary
+click search or press the enter key on your keyboard.
+
+@summary
+,
+
+@summary
+assess your results.
+
+@summary
+repeat above steps as necessary.
+
+@summary
+use the advanced search found on most sites.
+
+@summary
+use the site map of a site, if there is one.
+
+@summary
+,
+
+@summary
+it is not correct to assume that your subject is more or less equally visible in all search engines, so it is very important that you use a non-biased search engine (such as yahoo, duckduckgo...).
+@article
+ At the top of any page on your browser (the window that you open to use the internet), type the phrase “search engines” into the Search Bar to attain access to several different internet sites that specifically aid in searching. Common search engines (click one of the links below to access the search engine named):
+
+
+Ask
+Bing
+Blekko
+Dogpile
+DuckDuckGo
+Yahoo;
+,, Utilize synonyms. Type your choice of words into the Search Bar offered by your chosen search engine.
+
+
+Generally, capitalization and punctuation are not needed.
+Search engines usually disregard minor words such as "the, and, to, etc."
+
+,, Search through your list of web pages to pinpoint information.
+
+
+
+Choose a different search engine.
+Choose new search words that are more or less specific.
+ For example, if you want to go to Advanced Search on Yahoo, go here.
+, Recent engines sort pages also by rank that is assigned is a complex, ever changing, usually secret way and is different for every search company. Google sorts by who pays them, which means that they feature those sites and you may not get all the information that you need. While engines will likely be "consistent" for a highly popular web sites, less popular web sites may be ranked very differently and it may make sense to try multiple engines.
+

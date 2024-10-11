@@ -1,0 +1,9 @@
+@summary
+purchase a crayon sharpener.
+
+@summary
+put the tip of the crayon in and let it grind away until it is sharp.
+@article
+ This is similar to an electrical pencil sharpener.
+ It is quick and takes less effort than the method above, if you are able to obtain this item.
+

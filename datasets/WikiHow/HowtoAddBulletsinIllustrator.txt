@@ -1,0 +1,39 @@
+@summary
+open the adobe illustrator application.
+
+@summary
+open an existing document or choose to create a new print or web document in the dialogue box that pops up.
+
+@summary
+,
+
+@summary
+click on a current text box, or use your "type" tool to click and drag a text box in the place you would like your bulleted list to be.
+
+@summary
+,
+
+@summary
+type in an introduction or text, then move your cursor where you want your bullet to appear.
+
+@summary
+,
+
+@summary
+follow these separate directions depending upon if you have mac or windows os.
+
+@summary
+add illustrator bullets before each section that you want to separate on your bulleted list.
+
+@summary
+save the document in order to keep the work you have done on your bulleted list.
+
+@article
+;
+,,,,
+
+
+Press the "Option" key and the number "8" at the same time to add a bullet in front of your text, if you are using Mac Operating Systems (OS).
+Press the "Num Lock" key above your numbers pad on your keyboard if you are using Windows OS. Press the "ALT" key and keep it depressed. Then type these numbers in sequential order, as if you are dialing a phone number, "0149." Then release the ALT key. Note: This will not work with the number row across the top of your keyboard.
+There is another option on Windows computers, go to the Start Menu, go to "Accessories," and click on "System Tools." You will see the function "Character Map." You can either click on it for 1-time use or you can right click and select "Pin to Start Menu" from the options in the pop-up window. Select the correct font for your document from the drop down box on the character map window. Select the bullet from the list. Double click to add it to the empty text bar. Press copy and paste it in your text box.
+ You may have to create a tab or add spaces to format the list to your liking.

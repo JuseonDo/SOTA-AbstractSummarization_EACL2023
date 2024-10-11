@@ -1,0 +1,99 @@
+@summary
+log in to your facebook account.
+
+@summary
+go to the video link.
+
+@summary
+click “edit.” on the top right, select "edit" to open a new window that will allow you to pick the right stuff for your look back video.
+
+@summary
+,
+
+@summary
+go to “your first moments” section.
+
+@summary
+unselect a photo.
+
+@summary
+select a photo.
+
+@summary
+browse for more photos.
+
+@summary
+go to “your most liked posts” section.
+
+@summary
+select the right posts.
+
+@summary
+scroll down to the section named “uploaded photos.”
+
+@summary
+,
+
+@summary
+unselect a photo.
+
+@summary
+,
+
+@summary
+add more photos.
+
+@summary
+go to the “photo grids” section.
+
+@summary
+,
+
+@summary
+unselect a photo.
+
+@summary
+,
+
+@summary
+click on the "forward" button.
+
+@summary
+click on “save changes” green button at the top right of the window.
+
+@summary
+click on update.
+@article
+ Enter correct username and password.;
+, After you are logged in, copy this link and paste it in your browser https://www.facebook.com/lookback. This will bring you to another window showing your auto-made look back video.
+, On the Editing page, scroll down until you see "Your First Moments" heading on the left side.
+
+
+Now, the photos that are already picked are visible and have a green tick on their lower right side.
+The photos that are not selected are greyed out.
+ If you want to unselect a photo, simply click on the green tick icon and it will make that photo greyed just like the rest of the unselected photos.
+ You can now select your desired photo by clicking on the already greyed out photos.
+ If you want to browse for more photos in this section, click on the "Forward" button located on the top right of this section.
+
+
+Remember, you should select 3 photos from this section. The number of selected photos is displayed right next to the section heading.
+ Scroll down a little until you find the "Your Most Liked Posts" section.
+ By default, 4 posts are already selected.
+
+
+Unselect them by clicking on the green button at the bottom right of every post.
+You can select a new one by clicking on the posts that are not visible or are in grey color.
+Remember, you have to select 4 out of 4 posts.
+,, There are only 8 photos displayed. If you want to select more, click on the Forward button located on the top right of the section; it will show you the next set of 8 photos.
+
+
+You need to select 9 photos, not less and not more than that.
+,, This is to browse through all the photos.
+
+
+Choose 38 photos from the Photo Grids. Otherwise Look Back video will not be finished.
+
+
+
+When you click on it, it will show you a new dialog box named "Share" which will share your look back video to your Facebook Wall.
+ Click this to post the updated and latest look back video.

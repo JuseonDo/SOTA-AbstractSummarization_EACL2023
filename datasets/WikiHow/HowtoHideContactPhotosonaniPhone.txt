@@ -1,0 +1,12 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll down and tap on messages.
+
+@summary
+slide the show contact photos button to the off position.
+@article
+ It's an app with gray cogs on one of your Home screens. It may be in a folder labeled "Utilities.";
+, This is in the fifth group of options, between Phone and FaceTime.
+ Contact photos will no longer appear next to conversations in the Messages app.

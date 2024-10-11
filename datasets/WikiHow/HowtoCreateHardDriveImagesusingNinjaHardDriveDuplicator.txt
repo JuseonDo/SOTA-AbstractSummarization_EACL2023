@@ -1,0 +1,30 @@
+@summary
+choose the drives you would like to use in the duplication process.
+
+@summary
+attach dc power connectors and sata i/f to each hard drive, and then to the back of the ninja panel.
+
+@summary
+plug in an ac power connector to the device and the power cord to the wall.
+
+@summary
+,
+
+@summary
+switch on the device and take note of the start-up screen, it provides code numbers that list what each option does.
+
+@summary
+one crucial option in the function menu is the 'i/f selection'.
+
+@summary
+the main screen provides shorthand for what each process does for d1-d10.
+
+@summary
+press the 'start/stop' button.
+
+@summary
+once the process is over, a beep should sound, and then you should be able to test, and successfully boot up to the hard drive once reinstalled in a system.
+
+@article
+ For the Ninja product, the drives must be removed from the system to be duplicated. Be sure to ensure hard drives are in working order, and take note of the labels on the static-proof pad such as 'Master/Suspect >> Copy Direction >> Target'. Place the drives properly on the base to ensure correct results.
+ Stop at this point to make sure that all connections are solid.,, But for fine tweaking, hit the 'Function' button on the panel. This brings up a list of several options such as Item Mode, I/F Selection, Dev Info, Parameters, and even a System Test and clock. There are many different features to tweak, but in this guide we are only going over conversion types., This menu gives you options of devices to use such as 'ATA to ATA', 'SATA to SATA', ATA to SATA'. Your choice can clearly be displayed on the right panel via glowing lights. Select the option you would like using the up and down buttons, and press the function button again to return to the main screen., The option D7 is described as a Duplicate, converting a Duplicate Master device into Target Device. **The capacity of the target drive must be equal or larger.**, You will now go through a brief loading phase and break into an input/output conversion. Depending on what hard drives you use, time will vary. This example used Seagate 40GB to 250GB.,

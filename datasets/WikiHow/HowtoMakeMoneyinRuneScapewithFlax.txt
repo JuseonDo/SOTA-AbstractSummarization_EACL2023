@@ -1,0 +1,33 @@
+@summary
+use the lodestone network to get to seers village.
+
+@summary
+empty your inventory into the bank.
+
+@summary
+find the flax field.
+
+@summary
+pick up the flax (light blue flowers) until your inventory is full.
+
+@summary
+,
+
+@summary
+run back to the bank and deposit it.
+
+@summary
+continue this until you get 1,000 flax.
+
+@summary
+,
+
+@summary
+use the lodestone network and travel to varrock.
+@article
+ Click on the Magic Spellbook icon and choose the "Home Teleport" spell.;
+, This includes any weapons/armor since there are no monsters in the path and removes any unnecessary weight.
+ This is located south of the Seers bank and attached to the Beehive. The flax is on the left hand side, while the beehive boxes is on the right.
+, For the fastest time, use the "Empty your backpack into your bank" icon.
+, Go to the Grand Exchange and sell it in a note form.
+

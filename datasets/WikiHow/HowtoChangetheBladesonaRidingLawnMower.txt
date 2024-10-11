@@ -1,0 +1,47 @@
+@summary
+check the condition of your mower blades to see if they need changing.
+
+@summary
+park the mower on a suitable work surface.
+
+@summary
+raise the mower deck to its highest setting to make it easier to access the blades.
+
+@summary
+,
+
+@summary
+raise the mower itself to allow room to get your tools underneath it.
+
+@summary
+get the correct size wrench to fit the mandrel nut (or bolt) on your mower.
+
+@summary
+turn the nut (or bolt) counterclockwise to remove it from the mandrel shaft, then allow the blade to drop off.
+
+@summary
+take the old blade to a hardware store or mower repair shop to match it with the new blades you will install.
+
+@summary
+compare blades at the store to make sure the offset, spline (if applicable), length, and other features match.
+
+@summary
+install the new blades on your mower.
+
+@summary
+tighten the nuts that secure the new blade.
+
+@summary
+check the belts, pulleys, tensioners, and other parts of the mower deck assembly while you have the mower parked for servicing.
+
+@summary
+,
+
+@summary
+lubricate the mandrel bearings and other parts equipped with grease fittings before lowering the mower.
+
+@summary
+,lower the mower off the blocks, and clean up/put away your tools.
+@article
+ If the blades are not significantly worn but are dull, they may only require sharpening. If, on the other hand, the airfoil built into the back of the blade is worn away, or the blade is bent or otherwise damaged, you probably need to replace it.
+ Turn it off and lock the brakes or chock the wheels. Disconnect spark plug(s).,, You need to make sure it is supported solidly, as riding lawn mowers are heavy, and you don't want to risk having it fall on you while you work on it. For greater safety, consider using a manufactured mower or tractor lift., You may also need a cheater pipe or other means of keeping the blade from turning while you remove the nut., For blades that are tightly seated, you may have to pry the blade off or work it up and down to loosen it after the nut is removed., Choose new blades to suit your own preferences – there are a number of different blades for each type mower, including enhanced discharging blades, mulching blades, and heavy duty blades., Since there are many different brands and manufacturers of riding lawn mowers, making sure the blades you purchase fit your mower is critical for a successful project., Be sure to install the blade right side up, as they may fit upside down. Generally, if the blade has an offset in it, the center will be in a higher position than the ends of the blade. Make sure the blade fits all the way onto the spline to prevent damaging it when the nut that secures it is tightened., You may have torque specifications for this step for your individual mower.,,,

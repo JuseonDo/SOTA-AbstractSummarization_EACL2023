@@ -1,0 +1,11 @@
+@summary
+place the tuna patty onto the bread.
+
+@summary
+finished.
+
+@article
+ Be careful as tuna patty may break into pieces.
+
+
+Adding a piece of cheese will also give it a good flavor.

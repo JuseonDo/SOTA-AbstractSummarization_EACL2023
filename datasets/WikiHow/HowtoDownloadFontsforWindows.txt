@@ -1,0 +1,66 @@
+@summary
+search for fonts on the internet.
+
+@summary
+download the fonts or collection of fonts you want to the desktop or other folder you'll remember.
+
+@summary
+extract the compressed file(s) if your download file has a ".zip", ".rar", or other compressed file extension.
+
+@summary
+browse to the "fonts" folder by opening "windows explorer" (windows' default file browser), or navigate to it by opening "my computer".
+
+@summary
+,
+
+@summary
+sort the file listing by clicking on the "date modified" column header.
+
+@summary
+,
+
+@summary
+locate the font(s) installed by the current date and time.
+
+@summary
+,
+
+@summary
+double-click on each font to view a sample of it.
+
+@summary
+,
+
+@summary
+delete any fonts you don't want by right-clicking on them and selecting "delete".
+
+@summary
+you may need to refresh your fonts by rebooting your computer so that your new downloads will work.
+@article
+ There are many online font libraries, as well as individual sites that may have a small collection of fonts. Some will charge a flat rate, some will charge a monthly fee, and others charge by the individual font. Although they do exist, very few online font libraries will offer free fonts. Some will even offer free, individual font downloads, while charging a flat fee for downloading their entire collection in one compressed file.;
+, If you know someone with a good collection of public domain fonts, ask them to copy their fonts for you.
+ Have them extracted into your 'Fonts' folder (typically: "C:\WINDOWS\Fonts").
+,,,, Alternatively, highlight the fonts you don't want by clicking once on them, the pressing the
+
+
+
+
+
+key. Hold down
+
+
+
+
+
+or
+
+
+
+
+
+while clicking to highlight multiple fonts at one time. Now you'll be able to use these new fonts within applications.
+ Go to start>shutdown>restart.
+
+
+note that in the menu "file" of fonts folder, you have an option for installing quickly the fonts without rebooting your system.
+

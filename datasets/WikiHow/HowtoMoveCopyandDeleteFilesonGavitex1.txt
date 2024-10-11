@@ -1,0 +1,31 @@
+@summary
+sign into your gavitex account.
+
+@summary
+click the cloud icon from the left panel menu.
+
+@summary
+locate the files you want to move.
+
+@summary
+select the files.
+
+@summary
+initiate the move.
+
+@summary
+choose the destination folder.
+
+@summary
+click the “move” button once you’ve chosen a destination folder.
+@article
+ Go to Gavitex website and sign in using your DepositFiles or Gavitex username and password.;
+, This will take you to your main storage folder.
+ You can navigate through your folders by clicking on them.
+ Do this by clicking on them one by one. The selected files will be highlighted.
+ Right-click on any of the highlighted files and a submenu of tasks will show up. Select “Move to” from the menu.
+
+
+You can also access “Move” from the header toolbar.
+ A window will appear with your Gavitex folder directory. Navigate through your folders and select the folder where you want to move the files to.
+ The selected files will immediately be moved to their new location.

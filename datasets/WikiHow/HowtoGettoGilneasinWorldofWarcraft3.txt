@@ -1,0 +1,31 @@
+@summary
+check your level.
+
+@summary
+enter the battle for gilneas the same way you would enter any other battleground.
+
+@summary
+open up the player vs.
+
+@summary
+click on the menu and select “specific battlegrounds.” you will then see a list of battlegrounds in the middle of the window.
+
+@summary
+,
+
+@summary
+choose your battleground.
+
+@summary
+enter battle for gilneas.
+@article
+ There is a battleground open to players level 85 or higher called the Battle for Gilneas. Like every battleground, the Battle for Gilneas is centered around fighting players from the opposing faction and there are no quests.
+ That is, by talking to a Battlemaster in one of your faction's main cities or through the battleground list in the Player vs Player window.
+ Player window. Do so by either pressing H or clicking on its icon located at the bottom of your screen, just between your action bars and your bags.
+
+
+Below the top-right corner of the Player vs Player window, you will see “Type” with a drop-down menu that has either Bonus Battlegrounds or Specific Battlegrounds selected.
+, One of the battlegrounds on the list is called the Battle for Gilneas. Click on it, and then at the bottom of the window, click on “Join Battle.”
+
+, You will join the queue to enter the Battle for Gilneas, and once enough people are also in the queue, another window on your screen will pop up with an Enter button. Click on it, and you will have entered the Battle for Gilneas.
+

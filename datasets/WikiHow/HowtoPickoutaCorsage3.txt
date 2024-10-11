@@ -1,0 +1,13 @@
+@summary
+find out whether or not her dress is strapless.
+
+@summary
+ask about the color of her dress or his suit.
+
+@summary
+go with safe options if, for whatever reason, you are unable to find out anything about her dress.
+@article
+ A wrist corsage or hand-held nosegay works best for strapless dresses.
+ You should choose a color scheme that matches those colors.
+ Wrist corsages are the safest and most traditional style, and a neutral white flower looks elegant and matches nearly any color of dress or lapel.
+

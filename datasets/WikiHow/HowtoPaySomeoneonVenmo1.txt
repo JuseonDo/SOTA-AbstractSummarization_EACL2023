@@ -1,0 +1,26 @@
+@summary
+tap the venmo app to open it.
+
+@summary
+log in if you aren't already logged in.
+
+@summary
+tap the "pay or request" icon in the top right corner of your screen.
+
+@summary
+enter the name, venmo username, phone number, or email of your recipient.
+
+@summary
+enter the amount you wish to pay your recipient.
+
+@summary
+tap "pay" to send money.
+
+@summary
+wait for your recipient to accept your funds.
+@article
+ Venmo is a free app for iOS and Android platforms.
+ Use the email address and password you used when you set up Venmo., It resembles a square with a pencil and a dollar sign on it., If you've paid this person before, their name should appear in your "Top people" list automatically.
+
+Your recipient must also use Venmo.
+ You must also add a description in the "What's it for?" field the payment area., You can't add funds to Venmo; however, if your bank account is linked to your Venmo account, paying through Venmo withdraws the funds from your bank and sends them directly to your recipient., You have successfully sent money with Venmo!

@@ -1,0 +1,85 @@
+@summary
+head out the door and continue down the hallway.
+
+@summary
+turn left as soon as you get to the corner and enter the last door to the right.
+
+@summary
+climb down the stairs.
+
+@summary
+backtrack up the stairs and into the hallway with locked doors.
+
+@summary
+use the pliers on the faucet to get the ophiel door key.
+
+@summary
+enter the room.
+
+@summary
+go down the hallway and take a right at the corner.
+
+@summary
+remember the clue written on the tablet at the end of the hallway.
+
+@summary
+analyze the second stanza.
+
+@summary
+arrange the names in the reaper's list from youngest to oldest:
+
+@summary
+18 albert lords
+
+@summary
+35 lydia findly
+
+@summary
+38 edward c. briggs
+
+@summary
+45 roberta t. morgan
+
+@summary
+60 trevor f. white
+
+@summary
+,
+
+@summary
+decipher the code further.
+
+@summary
+activate the keypad.
+@article
+ This will lead you to a set of stairs in a dark room.;
+, You'll be taken to a school.
+
+
+Head towards the back of the room and you'll be transported into a weird room with only a narrow path that leads to a hospital bed.
+Take the pliers and screwdriver from the bed.
+
+
+
+Go around the corner you turned at when you entered this floor.
+Go through the door beside the large double doors.
+ Head back out into the hallway and use the key on the door inscribed with "Ophiel."
+
+, You will then be taken to a different side of the hospital.
+
+
+Look to your right and you'll see a double door and a keypad, as well as a tablet on either side of the it.
+ You'll see another tablet; this is the second clue to the puzzle. After reading this tablet, go back to the keypad.
+
+
+
+"Names engraved on a lithograph. The Grim Reaper's List." This is the poem's first stanza.
+With this, it's obvious that it's a clue that pertains to the tablet beside the double door.
+ It read: "Yes, the headcount is set young and old lined up in order of age."
+
+
+We now know that we are supposed to arrange the people in the Reaper's list by their age: from the youngest to the oldest.
+, Obviously, there are no numbers on the keypad, and typing in each name is too much work, but if you look at the first letters of each name you'll see that it spells out the word "ALERT."
+
+, Enter the word "ALERT" on it, and the door will unlock.
+

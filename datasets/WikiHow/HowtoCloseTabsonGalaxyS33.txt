@@ -1,0 +1,13 @@
+@summary
+tap the web browser app.
+
+@summary
+tap the tabs button.
+
+@summary
+find the tab you want to close.
+
+@summary
+tap the "-" or "x" on the tab to close it.
+@article
+ The process is similar for most Android browsers, including the stock Internet app and Google Chrome., The location varies depending on your browser, but is located in the upper-right corner in the stock Internet app and in Chrome., Swipe up and down to see all of the tabs in the list., You can also swipe the tab to the left or right to get rid of it.

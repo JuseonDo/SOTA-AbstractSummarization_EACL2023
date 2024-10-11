@@ -1,0 +1,56 @@
+@summary
+take an introductory course in one (or all of them) of the following disciplines:
+
+@summary
+logic
+
+@summary
+discrete mathematics
+
+@summary
+programming language (take a part into the different programming paradigms, starting from sequential/procedural to object oriented, after functional and logical programming.
+
+@summary
+learn database concepts such as tables, views/queries and procedures.
+
+@summary
+decide what type of programmer you want to be.
+
+@summary
+learn the technologies and programming languages related to your programming field of choice.
+@article
+ Preferable Ruby/ Python/Pascal for beginners and after some good understanding go deeper into C++/C#/Java )
+
+, You can use any simple database package to do this, such as:
+
+
+MS Access
+DB V
+Fox Pro
+Paradox
+MySQL is a good database to learn because it’s free, commonly used, and databases are commonly accessed with SQL queries
+
+, Programmers generally fall under one of the following categories:
+
+
+Web programmer
+Desktop application programmer
+
+
+Operating system (OS) oriented programmer(tied to a single operating system or set of operating systems)
+Platform-independent programmer
+
+
+Distributed applications programmer
+Library/platform/framework/core programmer
+System programmer
+
+Kernel programmer
+Driver programmer
+Compiler programmer
+
+
+Programming scientist
+
+, The following sections break down the tasks for different types of programming.
+

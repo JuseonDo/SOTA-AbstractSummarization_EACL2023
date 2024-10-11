@@ -1,0 +1,31 @@
+@summary
+use this section if your series is a list of proper names.
+
+@summary
+complete your list of names using lowercase letters.
+
+@summary
+click on the cell to the right of the first name that is listed.
+
+@summary
+type the same name as the cell in a1, but include proper capitalization of first and last names.
+
+@summary
+go to the “data” menu and select “flash fill.” it will learn the pattern and make a similar change in the data series.
+
+@summary
+delete the column with the lowercase names.
+@article
+ It will need to be written in Excel in the lowercase to use this method. The flash fill function can read and change names so that the first letter of the first and last name is capitalized.
+ Enter them in a single column. Leave a blank column to the right of the list of names.
+
+
+If you don’t currently have a blank column to the right of your list of names, right click on the lettered column above your list of names. Select “Insert” and a new empty column will appear to the right.
+ For example, if your first lowercase name were in cell A1, you would go to cell B1.
+ For example, if the first cell says “joe biggins,” type “Joe Biggins” in the cell to the right. Press “Enter.”
+
+, You can also use the short cut code, “Control” and the letter “E” to activate Flash Fill., To avoid duplication, click on the top of the original lowercase column. Right click and press “delete” to get rid of it and leave the list with proper cases.
+
+
+Make sure Flash Fill has worked on your whole list before deleting.
+

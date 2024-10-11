@@ -1,0 +1,83 @@
+@summary
+open a web browser on your computer.
+
+@summary
+visit the yahoo!,
+
+@summary
+click sign in.
+
+@summary
+type your yahoo!,
+
+@summary
+click your profile name.
+
+@summary
+click account info.
+
+@summary
+,
+
+@summary
+click account security.
+
+@summary
+,
+
+@summary
+click disable security questions.
+
+@summary
+click add recovery phone number.
+
+@summary
+type a valid phone number.
+
+@summary
+click send sms or call me.
+
+@summary
+,
+
+@summary
+type the code that you receive.
+
+@summary
+click add recovery email address in the account security menu.
+
+@summary
+type in a valid email address.
+
+@summary
+,
+
+@summary
+click send verification email.
+
+@summary
+,
+
+@summary
+click the link in the email from yahoo!
+@article
+ Because of several hacks in 2016, Yahoo! is no longer using security questions. This means you’ll want to add new account verification methods in case you get locked out in the future.
+
+
+Unencrypted security questions and answers have been disabled, so if you can’t answer the questions and you don’t have another recovery method associated with your account, you won’t be able to retrieve it and are locked out for good.;
+, home page.
+ You’ll see this at the top of the page.
+ account name and password.
+
+
+If you’re currently locked out of your account, visit the Account Recovery page. You’ll need to enter a recovery email or phone number associated with the account in order to retrieve it.
+Security questions are no longer being used by Yahoo!, and you won’t be able to use the answers to your old questions, even if they’re correct.
+ You’ll see this in the same location the Sign In button was.
+,, If you previously had security questions enabled, you can disable them here. Once you’ve disabled your security questions, you can add new recovery methods.Your existing security questions cannot be edited, and new ones cannot be created.
+ Since Yahoo! Doesn’t use security questions anymore, adding a phone number to your account is the quickest way to verify your identity in the future.
+ This must be a mobile number that can receive SMS messages,
+
+,, This verifies your new phone number.
+ Besides associating a mobile number, you can also add another email address that you can be reached at. Password reset links will be sent to this address.
+,, you receive. This may be in your Updates folder if you’re using Gmail. Your recovery email is now active.
+

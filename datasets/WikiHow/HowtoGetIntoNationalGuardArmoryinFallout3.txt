@@ -1,0 +1,29 @@
+@summary
+travel to the nation guard depot.
+
+@summary
+travel around inside.
+
+@summary
+exit the offices back into the main room you first enter.
+
+@summary
+flip the switch.
+
+@summary
+enter the utility room.
+
+@summary
+locate a second electrical switch inside the utility room and flip it on.
+
+@summary
+go down into the armory.
+@article
+ Go inside once you discover it.;
+, Completely circle around the training wing and the offices.
+ An electrical switch should appear along the wall 15 feet to the left.
+ This will unlock the door to the utility room two stories below you.
+ Destroy the Sentry Bot that's waiting for you inside.
+ A trap door will open, revealing the entrance to the armory.
+ Enjoy your spoils.
+

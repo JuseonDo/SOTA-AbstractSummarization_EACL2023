@@ -1,0 +1,36 @@
+@summary
+create a wikipedia account - account creation is not required; however, if you register for an account, you will be given more privileges than a non-registered user.
+
+@summary
+expand stubs.
+
+@summary
+add a photo - an encyclopedia is not complete without pictures.
+
+@summary
+write a new article - wikipedia is rapidly growing, although the growth has slowed down since 2008.
+
+@summary
+remove spam - wikipedia is accessed by millions of people every day, thus, there tends to be a lot of vandalism or spamming.
+
+@summary
+helping out - even though wikipedia is an encyclopedia, it is also a community.
+
+@summary
+doing maintenance - you can help wikipedia run optimally by doing maintenance tasks like removing copyright violations, fixing up articles, participating in deletion processes, and all sorts of other things.
+
+@summary
+,
+
+@summary
+revert vandalism - using tools if you like.
+@article
+ For all of these privileges to take place, your account must be at least four days old and have at least ten edits.
+ An article that is not complete, or written in full detail, may be marked with a {{Stub}} tag. You can help by adding content to the articles currently marked as stubs. Articles may also have a more detailed {{stub}} meaning that the stub has been sub-sorted. Sub-sorted stubs include anything from Arts, Cultures, Design, Broadcast Media, Radio, Television, Literature, and more!
+
+, You can upload as many pictures as you wish; however, you must provide detailed information on the source and the license of the file. If you cannot provide that information, do not upload any photos. If you still choose to upload photos, they will be deleted.
+ The English version of Wikipedia currently has over 5,168,000 articles! You can help continue this growth by writing an article of your own. You should write an article about something you are very knowledgeable about, so that you can write a complete and informative article. Articles created as test pages, pure vandalism, attack pages, etc. will be deleted on the spot, without any further debate.
+ People who vandalize or spam a page may have added inappropriate links, blanked the page, added nonsense, etc. You can help out by removing, or reverting, this vandalism. Removing vandalism will make Wikipedia a better place for people to gather information and resources.
+ You can help out newcomers to make it a bigger and better community for the encyclopedia.
+, If you're getting good at it you'll get a tool called 'rollback' that lets you revert vandalism faster. Remember, spam is also vandalism! If somebody is persistent about vandalising a page, report them to the 'Administrator Intervention against Vandalism' board - AIV for short - once they have been warned suitably.
+

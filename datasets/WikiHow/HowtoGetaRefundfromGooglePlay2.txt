@@ -1,0 +1,9 @@
+@summary
+make sure that seven days haven't passed since you bought the book.
+
+@summary
+contact google play customer support directly.
+@article
+ If a week has passed, you can't get a refund. At that point, you can only get a refund if the service was defective or the book was broken.
+ You can do that here, and they'll help get your refund processed.
+

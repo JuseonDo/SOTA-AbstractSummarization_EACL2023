@@ -1,0 +1,41 @@
+@summary
+open up your windows pc to the control panel folder.
+
+@summary
+navigate to the ease of access center menu.
+
+@summary
+click on the "change how your keyboard works" link.
+
+@summary
+,
+
+@summary
+look for and click the checkbox to the "turn on toggle keys" setting.
+
+@summary
+,
+
+@summary
+click the "apply" button.
+
+@summary
+,
+
+@summary
+click the ok button.
+
+@summary
+,
+
+@summary
+verify this feature works.
+
+@summary
+press the lock button once more, to hear the "turn off" feature tone, which is slightly different than the turn on feature.
+
+@article
+ If you are on a Windows 8 or newer PC, don't go through the Start screen version of the Control Panel. You'll want to be on the Desktop version.;
+, Your quickest bet, is to search for it. If your PC has a search box, open the search box window and type "Ease of Access."
+
+,,,,, Since you won't typically be typing letters on the screen, there is no need to open a text-box opening program. Press the Lock button of your choice. Typically, a PC keyboard has three Lock keys: ⇬ Caps Lock, Num ⇩ and Scroll ⇩. Press the lock button of your choice, and you should hear the PC tone.

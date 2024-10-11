@@ -1,0 +1,9 @@
+@summary
+make sure your controller will install to your computer.
+
+@summary
+install the driver.
+@article
+ Be sure that you have the bus to suit the controller. If you're using a fairly recent computer and are trying to install an early model serial port joystick, you may not be successful.;
+, If your controller came with a disk, insert the disk and install it. If you did not receive a disk, plug in the device and install it from the control panel or allow Windows to install the controller itself.
+

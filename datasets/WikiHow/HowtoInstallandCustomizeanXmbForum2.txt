@@ -1,0 +1,34 @@
+@summary
+in the upper right corner of the forum, you should see the options login and register.
+
+@summary
+in the administrative panel, under the title general, select the option settings.
+
+@summary
+in the administrative panel, under the title look & feel, select the option themes.
+
+@summary
+in the administrative panel, under the title forums, select the option forums.
+
+@summary
+to make a new category, click on the text field that reads new category and type in the name you wish to give it, for example welcome center.
+
+@summary
+,
+
+@summary
+to make a new forum, click on the text field that reads new forum and type in the name you wish to give it, for example introductions.
+
+@summary
+in the order box, type the number in which you want the function to appear comparatively to the other categories, forums in the same category, or sub-boards in the same forum.
+@article
+ Login with the information you provided in the installation steps. Now at the same corner you should see a few more options, click on Administration Panel. This page will be where you make any administrative changes to your forum, see image 2.
+ The Board Rules show up as the first step of a new user registration, as well at in the top menu bar of your forum.
+
+
+Additional Languages can be downloaded from the XMB website, as can themesand modifications.For the Optional Fields, selecting on will simply add optional fields for the user to enter when they register to your forum. The News in NewsTicker is the scrolling text that is shown at the top of your forum’s index page, modify it to display any text you wish.
+ Select New Theme in bold, above and to the left of the Submit Changes button. Fill out the values as you wish to make your own custom theme, trial and error by saving and looking at the index page works well. Remember that the colour values are either in words or hexadecimal values.
+ A Category is the title for a group of forums. A Forum is the place where threads are posted. A Sub-board is a division within a forum, where other threads can be posted.
+, In the dropdown menu to the right of the On/Off dropdown menu, select which category you want your new forum to be listed under. Making a sub-board works the same way as making a new forum.
+ To delete something, select the checkbox to its left, and select Submit Changes. Remember to hit Submit Changes every time you fill out a form to have the changes take effect, view image 3 for the mentioned examples.
+

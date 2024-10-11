@@ -1,0 +1,47 @@
+@summary
+zoom in.
+
+@summary
+use the pencil tool and draw an outline of the object with which you want to draw.
+
+@summary
+pick three to five different shades of the color that each object is and have these colors handy.
+
+@summary
+,
+
+@summary
+think of the shape of the smaller object.
+
+@summary
+outline the smaller object, and then shade it in using the different shades of color you chose.
+
+@summary
+zoom out, view your work, zoom in, and tweak it.
+
+@summary
+,
+
+@summary
+repeat these steps with all of the smaller objects.
+
+@summary
+,
+
+@summary
+add details to your object.
+
+@summary
+again, zoom out, view, and tweak.
+
+@summary
+you should be done!
+@article
+ The zoom tool is your friend. Just press "+" or click the magnifying glass icon to zoom in and press "-" to zoom out.;
+, Mentally divide the object into smaller objects. For example, if you were drawing a mug, you would divide it into the opening, the body, and the handle.
+, Getting the exact shape right is the most difficult part of pixeling.
+ You many need to use more shades depending on how smooth your object is. You can "create" these shades using the smudge tool, if necessary.
+,, If there was a logo on your mug, this would be when to draw it. Do not be afraid that something is too big, this will only confuse you.
+ Repeat this step until everything looks perfect.
+ Enjoy your small mug.
+

@@ -1,0 +1,80 @@
+@summary
+buy a copy of photoshop 7, either online or in a computer store.
+
+@summary
+create a brush with a new tip in photoshop.
+
+@summary
+switch to the brush tool in photoshop and choose a preset brush size from the menu.
+
+@summary
+go to edit and choose "define brush.",
+
+@summary
+refine the brush and make it workable for creating a good image by going to the brushes palette and choose shape dynamics.
+
+@summary
+begin working with the hair color by going to the "brush tip shape" menu and checking "color dynamics.",
+
+@summary
+go to "other dynamics" under brush presets.
+
+@summary
+save your paintbrush permanently by going to the top right section of the brushes palette.
+
+@summary
+begin painting hair.
+
+@summary
+choose another color (for example, brown) from the swatches palette, and add another layer of hair over the black base color.
+
+@summary
+,
+
+@summary
+choose a lighter color (like light brown) from the swatches palette, and add more color detail.
+
+@summary
+refine the hair by switching back to a darker color to add back in some details.
+
+@summary
+,
+
+@summary
+choose the eraser tool and choose your new brush.
+
+@summary
+go back to using the brush tool and go to the layers palette.
+
+@summary
+do a final cleanup of any other details and admire your finished, utterly realistic looking hair image.
+@article
+ This program provides one of the best formats for adding hair to photos using computer graphics. Install Photoshop 7 on your computer.
+
+
+Unlike older graphic design programs, Photoshop 7 gives the designer the ability to add hair strand by strand to create truly dynamic and realistic effects.;
+, To do this, create a new document and choose a transparent (non-colored) background and then choose dark gray for the color.
+ For example, "Hard round 5 pixels."
+
+
+Draw curly overlapping lines. Vary the pressure on your pen to get differing line widths. Play with lines a bit, making sure one line is long and that all the lines are curly.
+ Name the paintbrush. It will now be stored in the Brushes palette. You can view it by opening it and selecting the new brush.
+ Turn the Size control to "off" and turn up the Angle Jitter to 20 percent or more.
+ From here, you can now turn up (by percentages) the color dynamics by changing the levels of the Hue Jitter, Brightness Jitter and Saturation Jitter.
+
+
+This feature allows the graphic designer to create hair that has a more realistic look, avoiding a 1-tone hair color.
+ Choose "Pen Pressure" under Opacity Control.
+ Select "New Brush" from the options and give it a name.
+ The process involves creating 2 layers. Select black (for this example) and begin painting black hair on the image you are working on.
+,
+
+
+Highlights can be added by choosing gray or a lighter color from the Swatches palette to create more realistic color.
+, Use the brush to take out any extraneous hairs or mistakes.
+ Choose the Color Dodge feature for blending colors.
+
+
+Select a lighter color, light brown in this example, and create highlights around the edge of the hair by drawing around the image's edge.
+ By following this tutorial you will be an expert in how to add hair on Photoshop.
+

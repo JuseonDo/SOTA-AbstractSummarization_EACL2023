@@ -1,0 +1,23 @@
+@summary
+open snapchat.
+
+@summary
+tap on the small circle button.
+
+@summary
+tap and hold on a snap.
+
+@summary
+tap delete snap.
+
+@summary
+,
+
+@summary
+tap delete.
+@article
+ The Snapchat icon is yellow with a white ghost on it.;
+, It's located at the bottom middle of the screen underneath the larger circular camera button. Doing so takes you to your "Memories" section.
+ Doing so will bring up a menu.
+, Doing so will confirm your deletion and remove that snap from your "Memories" section.
+

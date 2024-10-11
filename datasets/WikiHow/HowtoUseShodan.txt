@@ -1,0 +1,50 @@
+@summary
+navigate to the shodan website at http://www.shodanhq.com/.
+
+@summary
+click on “register” at the top right corner of shodan’s home page.
+
+@summary
+,
+
+@summary
+enter a username, email address, and password, then click on “submit.” shodan will send you a verification email.
+
+@summary
+,
+
+@summary
+open the verification email and click on the url provided to activate your shodan account.
+
+@summary
+log into shodan using your username and password.
+
+@summary
+,
+
+@summary
+enter search terms into the search field at the top of your shodan session using a string format.
+
+@summary
+click on “search” to execute your search.
+
+@summary
+narrow your search using a series of filters in your string command.
+
+@summary
+click on any listing to learn more about that particular system.
+@article
+;
+,,, The Shodan login screen will open in a new window of your browser.
+, For example, if you want to locate all Internet-connected devices in the United States that are currently using default passwords, enter “default password country: US.”
+
+, The Web page will refresh and display a list of all devices, or banners that match your search terms.
+ Common search filters include the following:
+
+
+City: Users can limit search results to devices located by city. For example, “city:sacramento.”
+Country: Users can restrict search results to devices by country using the two-digit country code. For example, “country:US.”
+Hostname: Users can limit search results to devices by the value in their hostname. For example, “hostname:facebook.com.”
+Operating system: Users can search for devices based on operating system. For example, “microsoft os:windows.”
+
+, Most listings will display explicit information about systems that include their IP address, latitude and longitude, SSH and HTTP settings, and server name.

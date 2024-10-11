@@ -1,0 +1,29 @@
+@summary
+draw a circle and a curve-edged triangle for the head.
+
+@summary
+draw two connected rectangles for his glasses.
+
+@summary
+add in his hair.
+
+@summary
+draw two circles for the body.
+
+@summary
+draw a set of rectangles for the legs and half-ovals for the feet.
+
+@summary
+sketch in clothes and shoes.
+
+@summary
+color and outline your drawing.
+@article
+ Add guidelines for the face, as shown, crossing where the bridge of his glasses will be.;
+, Within these rectangles draw dots for the eyes. Draw small half circles for the ears. Draw a wavy shape for his nose.
+ It should be thick, puffy, and all over the place, as shown.
+ Add in a set of two ovals for the arms. Draw his right hand, dangling to his side from the two overlapping ovals.
+ The rectangles should be the same size all the way down, and the feet look kind of like rocks.
+ Hermes wears a button-up shirt tucked into a high-waisted pants, and a jacket over top of that.
+ Make sure no excess guidelines remain.
+

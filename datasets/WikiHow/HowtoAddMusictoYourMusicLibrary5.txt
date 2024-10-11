@@ -1,0 +1,19 @@
+@summary
+open itunes.
+
+@summary
+,
+
+@summary
+open the "file" menu and select "add to library.",
+
+@summary
+select the file or folder you want to add.
+@article
+,
+
+,
+
+
+If the "Copy files to the iTunes Music folder when adding to library" option is selected, iTunes will automatically place newly added audio files in both the iTunes library and the "iTunes Music" folder.
+

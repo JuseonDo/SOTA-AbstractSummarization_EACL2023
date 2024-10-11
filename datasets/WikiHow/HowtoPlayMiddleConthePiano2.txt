@@ -1,0 +1,46 @@
+@summary
+find out the number of keys you keyboard has in total (counting both black and white keys).
+
+@summary
+according to the number of keys in your piano, count the following number of white keys going from the left-most side of the piano in the right direction:
+
+@summary
+88 keys: 23 keys (middle-c is the 24th white key)
+
+@summary
+you can also find the group of five black keys easier as the fourth group of 5 black keys, then use the method above.
+@article
+
+
+Usually, manufacturers create keyboards with standard keys count starting at 88 keys (the grand piano has 88 keys), 76 keys, 61 keys, 49 keys, 24 keys and finally, sometimes even 12 keys
+
+,
+
+
+
+76 Keys: 19 keys (Middle-C is the 20th white key)
+
+The third group of 5 black keys (there usually is a group of three black keys at the left side at first, don't count those)
+
+
+
+61 Keys: 14 keys (Middle-C is the 15th white key)
+
+The third group of five black keys.
+
+
+
+49 Keys: 14 keys (Middle-C is the 15th white key)
+
+The third group of five black keys.
+
+
+
+24 Keys, 25 Keys: 7 keys (Middle-C is the 8th white key)
+
+Second group of 5 black keys
+
+
+
+Other non standard sizes: use the standard method mentioned earlier in this article
+

@@ -1,0 +1,34 @@
+@summary
+say hello to everybody in irc.
+
+@summary
+when people enter irc, say hello to them.
+
+@summary
+don't troll.
+
+@summary
+when an op says stop, stop!if you get kicked, say sorry to the person who kicked you and that you won't do it again.
+
+@summary
+,
+
+@summary
+know what spam is.
+
+@summary
+when a new user needs help, try to pitch in and help.
+
+@summary
+don't flood the channel.
+@article
+ This will get everyone's attention.;
+, This will make them feel welcome.
+ That means someone who makes arguments and wants attention.
+
+
+Also don't feed trolls. This means don't talk to them, don't insult them. Just ignore them.
+, It's trying to get people to join your business by adding links. Don't add spam links. You'll get banned right away.
+ That would be the right thing to do.
+ That means you're putting random comments that are taking over the channel.
+

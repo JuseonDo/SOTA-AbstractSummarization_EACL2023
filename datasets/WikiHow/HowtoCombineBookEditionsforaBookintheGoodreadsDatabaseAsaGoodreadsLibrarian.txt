@@ -1,0 +1,46 @@
+@summary
+open and login to the goodreads website in your web browser.
+
+@summary
+become a goodreads librarian if you haven't already done so.
+
+@summary
+,
+
+@summary
+search for the book that needs combining.
+
+@summary
+open up the book page of one of the books.
+
+@summary
+click the "combine" link on the line of links that also include "all editions" and "add a new edition".
+
+@summary
+scroll down the list to find of books by the same author (this list will display all the books by the same author).
+
+@summary
+scroll down to the end of the page and click the "combine editions" link.
+
+@summary
+,
+
+@summary
+wait through your combine request for these book editions to be fully processed.
+
+@summary
+exit back out to the book profile page and view the list of combined book edition to ensure no mistakes have been made in the process.
+
+@article
+;
+,, Look for two exact duplicates in the search bar. On top of making sure that both titles have exactly the same author listed on the book profile page, Goodreads also wants you to make sure that several other things make it combinable; consider whether they are different publication dates of the same book, different formats of the book (most common reason for combining book pages), and translations of the book into other languages.
+
+
+The guidelines for this task are indicated on the combine page for the book itself, as all URLs for combine pages are different.
+ As long as the primary author is the most common formatting on the list, you can be sure that you've picked the best one to use for your base combination page. If not, you have the right to change the author on the profile page to the most common formatting and most widely researched copy of the book.
+ If you don't see this line listed under the book's back cover data, you might need to click the "More details" link to list this line.
+ Click the checkboxes to the left of the two book in the set that need to be combined. There could be other books inside the set already, but those you needn't worry about unless there are books that shouldn't be there and need to be split.
+
+
+Second guess yourself to ensure you don't combine books that Goodreads doesn't want you to combine; for example, avoid combining books that are (2 or more)-in-1/boxed sets containing the same book, and don't pair books with cliff notes versions of books, reference sources for the book, adaptations of the book, and so on. Combining these may result in your losing your Librarian status.
+, You'll receive this page during the merge.

@@ -1,0 +1,45 @@
+@summary
+go to the overdrive website to find out if your local library branch has the capability of lending kindle books.
+
+@summary
+search for your library.
+
+@summary
+go to the library’s website.
+
+@summary
+,
+
+@summary
+sign on to your account.
+
+@summary
+search for ebooks.
+
+@summary
+browse the selection.
+
+@summary
+click on the title you want to borrow.
+
+@summary
+,
+
+@summary
+follow the website’s instructions to check out the ebook.
+@article
+ (You will have to have a library card to be able to borrow a Kindle book.)
+
+
+Click on “Library Search.”;
+, You can enter the library’s name, the city or the postal code. If your library has the electronic resources, it will appear on a drop down menu list.
+, You will usually need to enter your name and library number.
+ Every library site is different, so you may have to look around a bit until you find the link. Some sites call this area “digital media,” or “downloadable books/eBooks.”
+
+, You can also type in the title of the book if you know what you are looking for.
+, Once you have checked out the book, you will have 2 options: getting the book on your Kindle or via another device.
+
+
+Choose “Get for Kindle” if you want the book sent to your Kindle. This option will redirect you to the public library loan page on Amazon.Com to get that title.
+Choose the device or app from the “Deliver to” menu, and choose “Get library book” to send the book to your device or reading application.
+

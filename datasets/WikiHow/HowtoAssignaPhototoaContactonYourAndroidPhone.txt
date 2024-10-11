@@ -1,0 +1,19 @@
+@summary
+open "contacts.
+
+@summary
+search and select the contact for whom you want to assign a photo.
+
+@summary
+,
+
+@summary
+edit the contact.
+
+@summary
+select either "take photo" or "choose photo from gallery."
+@article
+";
+,, Tap on the empty area present above the contact details, or just select "Edit Contact."
+
+, This option depends on your choice. Yes, it is that simple! You can now assign photos to your other contacts by following the same method.

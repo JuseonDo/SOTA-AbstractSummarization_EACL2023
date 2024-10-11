@@ -1,0 +1,20 @@
+@summary
+go to dirpy.com;
+
+@summary
+,
+
+@summary
+you can search and select a video in dirpy (see step 3) or you can copy the url of a youtube video(see step 4).
+
+@summary
+,
+
+@summary
+search in dirpy.
+
+@summary
+search in youtube.
+@article
+,, This is the easiest method. Only search in the search box. Select one of the videos that comes up, add information about the song and download it.
+ Only search and select the video and copy then paste the URL into the search box. Add the information and download it.

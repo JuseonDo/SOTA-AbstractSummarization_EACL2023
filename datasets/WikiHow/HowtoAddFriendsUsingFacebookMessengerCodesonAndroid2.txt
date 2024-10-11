@@ -1,0 +1,22 @@
+@summary
+open facebook messenger.
+
+@summary
+tap your profile photo.tap settings.
+
+@summary
+tap your profile photo.
+
+@summary
+tap scan code.
+
+@summary
+tap the large icon at the bottom-right corner of the screen.
+
+@summary
+tap the image of the code.
+@article
+ It’s the blue chat bubble with a white lightning bolt. You’ll typically find it on your home screen or in the app drawer.
+
+Use this method if your friend sent you a screenshot of their code.
+ It’s at the top-right corner of the screen.,, This time it’s at the center of the screen., Your phone’s camera will now open., This opens your phone’s gallery., Messenger will scan the code and open a conversation with your friend.

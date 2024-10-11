@@ -1,0 +1,9 @@
+@summary
+utilize various flickr search engines that are not run by the flickr website but that allow you to search for specialized aspects of images.
+@article
+
+
+
+Search by color with applications such as Flickr Color Selectr and Multicolr. These tools allow you to choose a color or color property and find images on Flickr that match your choice.
+Search by theme with Tiltomo. You can upload a photo into this application and it will find images on Flickr with similar textures and themes.
+

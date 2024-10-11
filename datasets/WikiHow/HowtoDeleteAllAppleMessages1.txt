@@ -1,0 +1,45 @@
+@summary
+tap the settings icon.
+
+@summary
+tap messages.
+
+@summary
+tap keep messages.
+
+@summary
+tap 30 days.
+
+@summary
+,
+
+@summary
+tap delete.
+
+@summary
+tap the messages icon from your home screen.
+
+@summary
+,
+
+@summary
+tap edit.
+
+@summary
+tap the radio button next to each conversation.
+
+@summary
+tap delete.
+@article
+ You can delete a lot of old messages at once by changing your Message History settings, then deleting your current conversations.;
+, You will have to scroll down on the menu screen to find it.
+ It's located under "Message History."
+
+,, Doing so will delete all messages and message attachments that are older than 30 days.
+
+
+This may not delete all of your messages.
+, It's located in the top left corner of the screen. Doing so will make round radio buttons appear next to each conversation.
+ Select all the conversations you wish to delete.
+ Doing so will delete all the selected conversations at once.
+

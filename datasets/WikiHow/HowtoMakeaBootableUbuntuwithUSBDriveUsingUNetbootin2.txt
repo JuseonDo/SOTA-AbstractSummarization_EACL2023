@@ -1,0 +1,8 @@
+@summary
+find where your iso disk image is located.
+@article
+ To do that, go to the 'Diskimage' option and find where it is.
+
+
+Use 'Custom' option only if you know what are you doing.
+

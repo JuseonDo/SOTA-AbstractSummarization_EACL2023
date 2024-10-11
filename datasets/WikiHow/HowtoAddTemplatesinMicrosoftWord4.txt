@@ -1,0 +1,28 @@
+@summary
+find the "templates" folder on your computer where microsoft office templates are stored.
+
+@summary
+move the template you downloaded or installed to the "templates" folder for microsoft office.
+
+@summary
+,
+
+@summary
+quit and restart microsoft word.
+
+@summary
+go to the "file" menu and open the "project gallery".
+
+@summary
+select your new template from the "templates" list.
+
+@summary
+enjoy using your new microsoft word template!
+
+@article
+ This is probably in your Microsoft Office folder. If not, run a Search on your computer for the folder, and remember that folder's location.
+, (Note that the template might show up without needing to do this, but you still want to quit and restart; otherwise, you make glitches more likely.)
+
+, (Note that this may already open automatically upon starting Microsoft Word, depending on your program settings.)
+
+, This will open a new document that matches the template, but changing this document will not change the original template.

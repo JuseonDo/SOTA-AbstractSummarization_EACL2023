@@ -1,0 +1,11 @@
+@summary
+search "" or "blink html".
+
+@summary
+,
+
+@summary
+look at the results.
+@article
+, The word "blink" will blink! (So will the word HTML if you did "Blink html")
+

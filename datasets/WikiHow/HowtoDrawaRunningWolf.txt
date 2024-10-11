@@ -1,0 +1,34 @@
+@summary
+start by drawing basic shapes that form the body of the running wolf.
+
+@summary
+you can now start adding details on the wolf's tail.
+
+@summary
+draw the details of the wolf's legs.
+
+@summary
+you can now draw the details on the dog's head.
+
+@summary
+add lines for the fur.
+
+@summary
+you can now start coloring your drawing.
+
+@summary
+finished.
+
+@article
+ A wolf's body is also similar to that of the human form.
+
+
+Draw the front and the hind leg of the wolf (in red outline) before drawing the 2 remaining legs (marked in blue) at the back/;
+, Use the outline as basis on how the fur is distributed. delete the lines marked in green as they will be covered by the wolf's fur.
+
+
+The fur on the tail is usually moving against the direction where the wolf is running to. Its spread and its form should also be affected by its speed and the wind present in the environment.
+ Start with the two prominent legs (marked in red) before the other 2 (marked in blue) as most of their parts are hidden. Also erase the lines marked in green to avoid further confusion.
+ Follow the lines when drawing the eyes and the nose to make sure it is properly proportioned. Also erase the guides (marked in green) afterwards.
+ Consider how it will form when interacting with the wind, gravity, and the wolf's movement.
+ Never forget to consider a light source to make it look more realistic.

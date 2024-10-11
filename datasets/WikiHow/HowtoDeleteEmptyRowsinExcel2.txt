@@ -1,0 +1,47 @@
+@summary
+make a backup of your spreadsheet.
+
+@summary
+add a column to the far-right end of the spreadsheet labeled "blanks".
+
+@summary
+add the blank counter formula to the first open cell in the new column.
+
+@summary
+apply the formula to the entire column.
+
+@summary
+select the entire blanks column and click "sort and filter" → "filter".
+
+@summary
+click the drop-down arrow to open the filter menu.
+
+@summary
+uncheck the "select all" box.
+
+@summary
+check the box with the value equal to the number of columns in your sheet.
+
+@summary
+select all of the blank rows.
+
+@summary
+delete the selected blank rows.
+
+@summary
+turn off the filter.
+@article
+ When making drastic changes to your spreadsheet, it's always a good idea to make sure you have a backup that you can quickly restore. Simply copy and paste the spreadsheet file into the same folder to create a quick backup.
+ This method will allow you to quickly filter out your blank rows, ensuring that you don't accidentally delete rows that contain unseen data. This is especially useful for large spreadsheets.
+ Enter the formula =COUNTBLANK(A2:X2). Replace X2 with the last column in the spreadsheet before the "Blanks" column. If the spreadsheet doesn't start in column A, replace A2 with the starting column. Ensure that the row number matches the start of the spreadsheet's data.
+ Click and drag the small box in the corner of the cell to apply the formula to the entire Blanks column, or just double-click to apply automatically. Each cell in the column will automatically fill with the number of blanks in that row.
+ You'll see a little drop-down arrow appear on the header cell.
+ This menu allows you to select how you want to filter the display.
+ This will deselect all of the different values, which will be selected automatically.
+ Click "OK". Checking this box will only display rows which have blanks in every cell. This will ensure that you do not accidentally delete rows that have valuable data along with some blank cells.
+ You should only see rows that are only blank cells. Select all of the rows so that they can be deleted.
+ After selecting all of the blank rows, right-click on your selection and choose "Delete". The blank rows will be removed from the spreadsheet.
+ Click the Filter button on the Blanks row and select "Clear Filter". Your spreadsheet will return, and your blank rows will be gone. All of your other data will be preserved.
+
+
+At this point, you can delete the Blanks column, or you can keep it for future empty row management.

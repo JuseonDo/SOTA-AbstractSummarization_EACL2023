@@ -1,0 +1,29 @@
+@summary
+click start.
+
+@summary
+click run.
+
+@summary
+enter firewall.cpl in the "run" text field.
+
+@summary
+click ok.
+
+@summary
+click the "off (not recommended)" box.
+
+@summary
+click ok.
+@article
+ It's in the bottom-left corner of the screen. Doing so will open the Start menu.
+
+
+You may first have to hover your mouse cursor over this corner to prompt the button to appear.
+You can also press your computer's ⊞ Win key to open the Start menu.
+ This option is on the right side of the Start pop-up window., This command opens the firewall settings directly.
+ Doing so will run the above command and open your firewall's settings., It's toward the bottom of the page.
+
+
+If you don't see this option, first click the General tab at the top of the page.
+ This will save your changes and disable your computer's firewall.

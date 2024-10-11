@@ -1,0 +1,19 @@
+@summary
+receive an ssl certificate.
+
+@summary
+apply the ssl certificate to your web server.
+
+@summary
+confirm port 443 is open in any firewalls.
+
+@summary
+,verify that ssl is properly configured.
+
+@summary
+create a login page in your favorite server-side programming language.
+
+@article
+ You can purchase one from a trusted company such as VeriSign, or generate your own with OpenSSL.;
+, If using Apache, you will need to enable the mod_ssl extension, and provide the location of the certificate. If using IIS, you will need to follow the wizards.
+, Test to make sure that you can access https://localhost/ from the web server. If so, SSL is properly configured.

@@ -1,0 +1,35 @@
+@summary
+find an automated postal center (apc), or kiosk.
+
+@summary
+at the apc, touch the screen.
+
+@summary
+select "buy stamps".
+
+@summary
+choose your stamps.
+
+@summary
+follow the payment prompts.
+
+@summary
+take stamps and receipt.
+
+@summary
+give one last look at the apc to make sure you are "logged out" that is, it is not asking any more questions and has gone to the intake screen.
+@article
+ While these are frequently located inside post offices, you can also found them in other public places. Do a quick search online to find an kiosk outside of a post office.
+
+
+Go to usps.com then click on the "Quick Tools" heading. Select "Find USPS Locations" and choose "Self-Service Kiosk" under the location type. Enter your geographic information and search.
+ This will start your transaction.
+ This will probably come up as one of the top options.
+ You'll need to select what type of stamp you need and how many you'd like to purchase.
+
+
+For example, you'll need to choose from express mail, priority mail, booklets of forever stamps, international postage, or you'll select your own value postage.
+ Once you've made your stamp selection, you'll need to pay with a credit, debit, or EBT card.
+ The machine will dispense your stamps and receipt from two separate slots. Be sure to take both before terminating your transaction.
+ This is so your card is not still active in the machine and no one after you can use it.
+

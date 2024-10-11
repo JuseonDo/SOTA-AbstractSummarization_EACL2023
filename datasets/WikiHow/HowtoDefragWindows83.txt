@@ -1,0 +1,30 @@
+@summary
+check the optimization schedule.
+
+@summary
+to change the optimization schedule or turn it on, click change settings.
+
+@summary
+in the optimize drives dialog box, next to run on a schedule, click the check box to add a check and turn on the scheduled optimization.
+
+@summary
+click the frequency dropdown menu to change how often the drives are optimized.
+
+@summary
+choose specific drives for scheduled optimization.
+
+@summary
+click close to exit optimize drives.
+
+@article
+ By default, Windows 8 optimizes each drive on a weekly basis. If Scheduled optimization is set to On, then your drives are already being optimized on a regular schedule.
+
+
+
+You may be asked to enter an admin username and password at this point.
+
+
+
+Removing the check will turn it off.
+ The options are daily, weekly, and monthly.
+ Next to Drives, click Choose. Check the boxes next to the drives you want have scheduled optimizations. Uncheck the boxes next to the drives you want to optimize manually. Click OK. Click OK again to apply your schedule changes.

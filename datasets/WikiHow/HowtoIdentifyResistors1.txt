@@ -1,0 +1,95 @@
+@summary
+axial resistors are cylindrical with leads extending from each end.
+
+@summary
+look at the resistor so the group of 3 or 4 color bands are on the left side.
+
+@summary
+read the color bands from left to right.
+
+@summary
+read the color on the last color band, which is farthest right.
+
+@summary
+brown: 1 percent tolerance
+
+@summary
+,
+
+@summary
+red: 2 percent tolerance
+
+@summary
+,
+
+@summary
+orange: 3 percent tolerance
+
+@summary
+,
+
+@summary
+green: 0.5 percent tolerance
+
+@summary
+,
+
+@summary
+blue: 0.25 percent tolerance
+
+@summary
+,
+
+@summary
+violet: 0.1 percent tolerance
+
+@summary
+,
+
+@summary
+gray: 0.05 percent tolerance
+
+@summary
+,
+
+@summary
+gold: 5 percent tolerance
+
+@summary
+,
+
+@summary
+silver: 10 percent tolerance
+
+@summary
+,
+
+@summary
+memorize a mnemonic for resistors.
+@article
+;
+, These are sometimes followed by a gap, then an additional color band.
+ The colors on the first 2 or 3 bands correspond to numbers from 0 to 9, which represent the significant digits of the resistor's ohmic value. The last band gives the multiplier. For example, a resistor with brown, green and green bands is rated at 15 mega-ohms (15,000,000 ohms). The code is as follows:
+
+
+Black: 0 significant digit, multiplier of 1
+Brown: 1 significant digit, multiplier of 10
+Red: 2 significant digit, multiplier of 100
+Orange: 3 significant digit, multiplier of 1,000 (kilo)
+Yellow: 4 significant digit, multiplier of 10,000 (10 kilo)
+Green: 5 significant digit, multiplier of 100,000 (mega)
+Blue: 6 significant digit, multiplier of 1,000,000 (10 mega)
+Violet: 7 significant digit
+Gray: 8 significant digit
+White: 9 significant digit
+Gold: multiplier of 1/10
+Silver: multiplier of 1/100
+
+, This represents the tolerance of the resistor. If there is no color band, the tolerance is 20 percent. Most resistors have no band, a silver band or a gold band, but you may find resistors with other colors. The tolerance color code is as follows:
+
+,,,,,,,,,, Several exist, so choose the one that you won't forget. Remember that the first color is black, and afterward each first letter corresponds to a color in order from 0 to 9. Some popular mnemonic devices include:
+
+
+"Bad beer rots our young guts but vodka goes well."
+"Bright boys rave over young girls but veto getting wed."
+

@@ -1,0 +1,21 @@
+@summary
+go to youtube and sign in with your email.
+
+@summary
+open youtube creator studio.
+
+@summary
+go to advanced settings.
+
+@summary
+add some keywords to your channel.
+
+@summary
+save the changes.
+@article
+;
+, Go to https://www.youtube.com/features to open the window.
+ You can go there by clicking on Advanced from the left panel or by clicking on https://www.youtube.com/advanced_settings.
+ Type keywords related to your channel into the box.
+ Click on the Save button to confirm your keyword additions.
+

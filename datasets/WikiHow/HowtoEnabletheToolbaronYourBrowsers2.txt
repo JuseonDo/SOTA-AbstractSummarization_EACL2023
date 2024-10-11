@@ -1,0 +1,25 @@
+@summary
+launch firefox.
+
+@summary
+head to the “menu” button.
+
+@summary
+choose “customize” under the extended menu.
+
+@summary
+select “title bar.” firefox’s term for the toolbar is title bar.
+
+@summary
+customize the toolbar.
+
+@summary
+hit the green “exit customize” button.
+@article
+ Do this by double-clicking its desktop shortcut icon.
+ This should be at the upper-right corner of the browser, which look like stacked lines.
+ It should then display a variety of tools that you can add to the toolbar to fully customize it.
+ Click on this option in the Customize menu to start customizing your toolbar.
+ Simply drag and drop tools in the left panel into the toolbar.
+ This should save your new toolbar.
+

@@ -1,0 +1,60 @@
+@summary
+start outside of gmail.
+
+@summary
+stop spam emails with filters.
+
+@summary
+click the down arrow in your search box at the top of the page.
+
+@summary
+enter your search criteria.
+
+@summary
+click create filter with this search at the bottom of the search window.
+
+@summary
+,
+
+@summary
+choose the action you'd like for these messages.
+
+@summary
+click create filter.
+
+@summary
+,
+
+@summary
+mark the unwanted emails from particular websites or people.
+
+@summary
+,
+
+@summary
+click the spam link along the left side of any gmail page.
+
+@summary
+select the messages you'd like to delete and click delete forever.
+
+@summary
+sort your emails to help you prioritize what you deal with.
+
+@summary
+add labels in the settings.
+@article
+ When you use Gmail to create accounts or log-ins into other websites, be careful not to let those websites to send emails to your Gmail inbox. If you trust the website and want updates from it, it is okay to let that website send mails. However, leave the box unmarked which says "allow us to send updates to your Gmail" if you think it is wiser.;
+, This is the easiest way to stop spam emails. If you are feeling that a certain website is spamming your inbox, you can set up a filter, as follows.
+ A window that allows you to specify your search criteria will appear.
+ If you want to check that your search has worked correctly, click the Search button. Clicking the down arrow again will bring the window back with the same search criteria you entered.
+, Do this by checking the appropriate box. (In the case of spam emails, it is suggested that you check "Delete it.")
+
+,,, (If you don't see Spam along the left side of your Gmail page, click the More drop-down menu at the bottom of your labels list.)
+
+, Or, delete everything by clicking Delete all spam messages now.
+
+
+Gmail will learn that some messages are spam and treat them as such in future. However, it doesn't always get it right; unopened emails that you have been meaning to get around to but then delete in a clean-up without actually wanting to unsubscribe can end up being treated as spam. You'll need to retrieve such emails from the Spam folder so that Gmail learns to leave them alone again.
+ Gmail has three categories of mails sorted for the incoming mails such as Primary, Social, and Promotion. You can add more categories or combined into one category. Creating Labels will help you to determine which mail is spam and which mail is important.
+ Go to Settings -> Labels -> Create New Label. When you make a Label, you can select a mail and organize it to be sent to a certain Label upon the arrival by clicking on the down arrow beside the search box and putting the email address or a group of phrase.
+

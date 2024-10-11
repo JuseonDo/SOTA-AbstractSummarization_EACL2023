@@ -1,0 +1,28 @@
+@summary
+open the control panel.
+
+@summary
+in the sidebar, click user accounts and family safety, and then click mail.
+
+@summary
+,
+
+@summary
+add a new outlook profile.
+
+@summary
+configure the email account.
+
+@summary
+set outlook to prompt for a profile when you open it.
+
+@summary
+click ok.
+@article
+ In Windows 7, click the Start menu, and then click Control Panel. In Windows 8, open the Start screen, and then search for Control Panel.
+, In the Mail Setup dialog box, click Show Profiles, and then click Add. Type a name for the profile. Click OK., Fill out the information for your other email account. Contact your ISP or Outlook administrator if you need help.
+
+
+Popular free email services such as those provided Outlook.com, Google, Yahoo!, or iCloud, will have instructions for how to do this for each of these services., In the Mail Setup dialog box, click the Prompt for a profile to be used radio button to select it.
+ The next time you open Outlook, it will prompt you to select the mail profile you'd like to use.
+

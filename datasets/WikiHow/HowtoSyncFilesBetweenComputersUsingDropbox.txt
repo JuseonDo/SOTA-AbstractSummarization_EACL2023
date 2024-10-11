@@ -1,0 +1,28 @@
+@summary
+download the dropbox desktop application on every computer you wish to sync files with by going to the dropbox download page.
+
+@summary
+add files to the dropbox folder on your hard drive via any computer you’ve installed the desktop application to.
+
+@summary
+,
+
+@summary
+log in to the dropbox desktop application on any other computer using the same login/account info.
+@article
+ Note: The desktop application is currently available for Windows, Mac OS X, and Linux.
+
+
+Log in using your account information or select the “I don’t have a Dropbox Account” and follow the onscreen instructions to create one when prompted during the installation. After you’ve installed the application, a folder called “Dropbox” will be added to your hard drive.
+
+
+
+
+
+;
+,, Dropbox will automatically sync your files between all Dropbox folders on the associated computers.
+
+
+
+
+

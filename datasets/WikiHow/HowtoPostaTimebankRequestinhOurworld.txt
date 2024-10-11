@@ -1,0 +1,29 @@
+@summary
+login to the website for your local timebank.
+
+@summary
+click on the +request button on the home screen.
+
+@summary
+,
+
+@summary
+click on the category for your request and then click on the "add to my requests" button at the top or bottom of the screen (there are two).
+
+@summary
+,
+
+@summary
+fill out the box on the next screen with information about your request.
+
+@summary
+when someone responds to your request, get back to them within 48 hours if at all possible.
+
+@summary
+record the hours on hourworld when the exchange is over.
+@article
+;
+,,, Be sure to include the date, time and location of the service you want, the estimated amount of time for the exchange (if you don't know, you can ask the timebanker after they contact you), how you plan to provide or reimburse the person for any materials needed (the receiving member is responsible for paying for or providing any necessary parts, supplies or ingredients), and the tools required for completing the service and whether you can provide them.
+ Do this even if you don't plan to have an exchange with them. If anything is unclear, be sure to ask questions before having the exchange.
+ Either person can record the transaction.
+

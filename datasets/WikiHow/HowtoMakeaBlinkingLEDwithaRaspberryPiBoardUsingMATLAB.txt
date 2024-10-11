@@ -1,0 +1,44 @@
+@summary
+install a raspberry pi support package to matlab first.
+
+@summary
+,
+
+@summary
+set up a folder on your computer to save all of your work.
+
+@summary
+create a matlab script.
+
+@summary
+copy and paste the following code to your scripts.run that script by either type 1_blinkingled or double click on it in the working directory.
+@article
+, What about giving "D:\Training\RaspberryPi\MATLAB\Playground" a shot?, There are at least two ways to do this:
+
+Either open MATLAB, choose "New Script".
+
+
+
+ 
+
+
+Or use Notepad++ and build an .m file.
+ Save it with a name for example "1_BlinkingLED.m" (WARNING: in MATLAB, avoid using space in file name).
+
+
+
+
+
+mypi = raspi;
+for i = 1:10
+   writeLED(mypi,’led0’,1);
+   pause(0.2);
+   writeLED(mypi,’led0’,0);
+   pause(0.2);
+end
+
+
+
+
+
+,

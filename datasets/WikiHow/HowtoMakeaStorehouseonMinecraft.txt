@@ -1,0 +1,34 @@
+@summary
+mine some stuff!,
+
+@summary
+decide where you want it to be.
+
+@summary
+craft some chest to put in it!,
+
+@summary
+make the door so it only opens with a switch (optional) so it's harder to get in.
+
+@summary
+make a door that locks when someone goes in.
+
+@summary
+,
+
+@summary
+(make this in a hallway of the trap) make a secret underground staircase that you break one block to get to (make it look like the rest just remember where it is), put a chest in it and hide your real stuff.
+
+@summary
+,
+
+@summary
+put a door with a pressure plate to lock the trap room with the fake chest.also you should make it with lava in the walls so no one can mine in
+
+@article
+ You are definitely going to need it. Something with a lot of blast resistance (obsidian is best).;
+, You probably want it well hidden so no one can steal items from you.
+ After that, put up the outside walls so nobody can get in easily (please note: This is sort of a trick so make it look like it's a real storehouse, it is made to get rid of people who want to steal from you)
+
+, Then put an empty chest in a room, put a lava block near the chest and put a block that goes over the chest and blocks the lava.
+,, Make sure it's a small room so they can't really move around. When the intruder breaks the block over the chest, the lava flows out and eliminates them. The alternate method is to make it a jail cell instead, just remove the lava block and the block over chest, and make lots of copies of those small rooms.

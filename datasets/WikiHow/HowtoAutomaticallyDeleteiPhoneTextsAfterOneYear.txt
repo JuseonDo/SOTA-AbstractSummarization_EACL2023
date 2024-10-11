@@ -1,0 +1,27 @@
+@summary
+open your iphone’s settings.
+
+@summary
+select messages.
+
+@summary
+select keep messages.
+
+@summary
+select 1 year.
+
+@summary
+tap delete to remove all old texts from your iphone.
+@article
+ This is the grey gear icon on the Home Screen.;
+, It’s about a third of the way down the screen.
+ It’s in the “Message History” section of this menu.
+ This will set your phone to only keep text messages for one year.
+
+
+By enabling this feature, all texts on your iPhone that are older than one year will be deleted.
+
+
+
+To stop your iPhone from deleting texts that are more than a year old, return to this screen and tap “Forever”.
+

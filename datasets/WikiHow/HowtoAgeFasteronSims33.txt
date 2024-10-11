@@ -1,0 +1,13 @@
+@summary
+enter the options menu.
+
+@summary
+change lifespan.
+
+@summary
+result.
+@article
+ Enter the "Options"-Menu (the three dots in lower left corner), choose "Options..." and enter the tab "Game options".
+ Move the bar "Sim Lifespan" to "Short (25 days)".
+ This way, your Sim will age quickly.
+

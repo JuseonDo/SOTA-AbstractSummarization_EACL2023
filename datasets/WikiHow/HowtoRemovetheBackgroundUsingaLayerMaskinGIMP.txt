@@ -1,0 +1,61 @@
+@summary
+open up your image in gimp.
+
+@summary
+click on the brush icon and set it to a 'softish' setting.
+
+@summary
+zoom in and start drawing around the subject.
+
+@summary
+,
+
+@summary
+when you think you are done, zoom out and check your progress.
+
+@summary
+continue until you have everything complete.
+
+@summary
+click on the free select icon and draw around your subject again.
+
+@summary
+invert your selection.
+
+@summary
+be sure that your background and foreground are black and white.
+
+@summary
+,
+
+@summary
+click on the bucket fill tool and fill in the selection.
+
+@summary
+making sure your inverted selection is still active, select your eraser tool.
+
+@summary
+apply the layer mask.
+@article
+ This picture of a toddler will be used here.;
+, You don't want it to be too hard or too soft. This will keep your edge from being too hard so that your subject will blend in easier in whatever scene you might put them in.
+, Look closely to make sure you got it all. You might need to resize your brush to get everything.
+ What you are doing is creating a type of buffer between the subject and the background.
+ It will be much easier now that the layer has been removed.
+ Do this by going to Selection >> Invert. This will pick everything but your subject.
+, Be sure that your background is set to black. This should make your background disappear. If not, switch your background and foreground colors.
+
+
+
+
+
+
+You should be seeing your isolated subject by itself by now.
+If you notice a 'halo' around your image, it is because of the 'softish' brush.
+ Erase all of the halo. Since you still have your inverted selection, you can be as messy as you want. Only what is outside of your subject will be erased.
+ If you want to save it, do that before you apply it.
+
+
+
+
+

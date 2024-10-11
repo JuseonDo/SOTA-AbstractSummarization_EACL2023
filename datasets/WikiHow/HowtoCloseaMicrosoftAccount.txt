@@ -1,0 +1,33 @@
+@summary
+open the microsoft live "close my account" page.
+
+@summary
+review the page that shows you your account information.
+
+@summary
+verify that you understand what you won't have access to once your account has been closed.
+
+@summary
+select the reason why you are closing the account from the drop-down reason box.
+
+@summary
+,
+
+@summary
+click the "mark account for closure" button.
+
+@article
+
+
+
+Log in with your email and password if you're asked.;
+, When you've verified your account, click "Next".
+ Check all boxes on the screen to ensure they understand that there are several consequences of the closure of your account, including:
+
+
+You might lose any account balances and will lose access to subscription services such as Office365, Xbox, and OneDrive.
+You will lose access to Outlook.com, Hotmail, and OneDrive.
+Devices using this account won't work as well without a Microsoft account attached.
+Content might not work the way you expect it to.
+You'll lose access to data you've stored anywhere you use this account to sign in.
+,

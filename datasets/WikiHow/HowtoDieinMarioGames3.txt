@@ -1,0 +1,12 @@
+@summary
+run up to an obstacle or to a place filled with obstacles.
+
+@summary
+wait for the obstacle to activate or to come near you.
+
+@summary
+let the suicide begin!
+
+@article
+ Obstacles are any objects that can inflict damage on you and are not related to hazards as hazards are energy or elements.
+ Let it do its thing before it starts to damage you and slowly kill you.

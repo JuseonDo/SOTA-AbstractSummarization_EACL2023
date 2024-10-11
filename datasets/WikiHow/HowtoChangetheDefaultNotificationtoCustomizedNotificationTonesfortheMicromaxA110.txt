@@ -1,0 +1,19 @@
+@summary
+go to the internal sd card on your cellphone.
+
+@summary
+,create a folder named "media".
+
+@summary
+open the folded just created.
+
+@summary
+open the audio folder.
+
+@summary
+add your custom tone to the relevant category.
+
+@summary
+done.
+@article
+,, Create an other folder names "Audio". For example: ., Create another three folders in the Audio folder. For example, you might name these: "Alarms", "Notifications" and "Ringtones"., Choose a different tone for each category, such as one tone for Alarms, one for Notifications and one for the ringtone., You have finished changing the default notification names and tones.

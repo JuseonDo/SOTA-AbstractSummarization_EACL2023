@@ -1,0 +1,22 @@
+@summary
+launch the “music” app on your iphone, ipad, or ipod touch.
+
+@summary
+,
+
+@summary
+tap on the “radio” tab at the bottom of your screen.
+
+@summary
+scroll down to browse apple’s featured stations and music genres.
+
+@summary
+tap on the radio station you want to listen to.
+@article
+, A list of featured stations and music genres will display on-screen.
+
+
+Sign in with your Apple ID and password, if prompted. Apple Music Radio is free for all users, but requires you to sign in before you can use this feature.
+ You can choose from Pop, Country, Hip-Hop, Dance, Rock, Indie, Workout, Classical, Sports, and more.
+ The radio station will start playing music from the genre selected.
+

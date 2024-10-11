@@ -1,0 +1,57 @@
+@summary
+mac and windows vary slightly.
+
+@summary
+click create library when the dialog box opens.
+
+@summary
+,
+
+@summary
+name and save your new library file.
+
+@summary
+click on itunes preferences.
+
+@summary
+,
+
+@summary
+click the advanced tab.
+
+@summary
+,
+
+@summary
+de-select the copy files to itunes music folder when adding to library checkbox (if it has a check in the box) and click ok.
+
+@summary
+add the songs or videos you want on your ipod to itunes.
+
+@summary
+connect your ipod and sync up once you have the itunes library set up as you like.
+
+@summary
+click choose library.
+
+@summary
+,
+
+@summary
+choose your original itunes library and click choose (mac users) or open (windows users).
+@article
+
+
+
+Mac Users: While opening iTunes, hold down the Option key.
+Windows Users: While opening iTunes, hold down the Shift key.
+, Now when you open it, iTunes opens with your brand new library file.
+,, This will keep iTunes from keeping more than one copy of your music on your computer and save a lot of space later.
+ The simplest way is by dragging the folder containing your media files right onto the main Library Window in iTunes. You'll see all your stuff coming in when you look at the bar at the top of the iTunes window.
+ When the sync is finished, eject your iPod and Quit iTunes.
+
+
+Mac users: Hold down the Option key while you open iTunes.
+Windows users: Hold down the Shift key while you open iTunes.
+, Now you will see that you're able to switch between users in your iTunes Library.
+

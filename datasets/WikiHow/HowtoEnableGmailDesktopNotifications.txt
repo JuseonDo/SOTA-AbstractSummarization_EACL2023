@@ -1,0 +1,19 @@
+@summary
+click settings in the upper right of gmail.
+
+@summary
+in the "general" tab on settings, look for "desktop notifications".
+
+@summary
+,
+
+@summary
+click the appropriate buttons to turn off both chat and mail notifications.
+@article
+ Or click the link here for a shortcut: https://mail.google.com/mail/?shva=1#settings;
+,,
+
+
+New mail notification on - Will send you an alert every single time an email arrives in your inbox.
+Important mail notifications on - Will only notify you when Gmail thinks you have received a message you will find important. To prevent message notification overload, this is the recommended setting.
+

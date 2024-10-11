@@ -1,0 +1,53 @@
+@summary
+try the built in repairing tools with your operating system if you do not want to do a clean install of windows 7.
+
+@summary
+boot up into the recovery console by pressing f8 during the boot up process.press enter on repair your computer.
+
+@summary
+click on the command prompt text highlighted in blue.
+
+@summary
+,
+
+@summary
+type in:
+
+@summary
+bootrec /rebuildbcd
+
+@summary
+press enter.
+
+@summary
+,
+
+@summary
+type in:
+
+@summary
+bootrec /fixmbr
+
+@summary
+press enter.
+
+@summary
+,
+
+@summary
+type in:
+
+@summary
+bootrec /fixboot
+
+@summary
+press enter.
+@article
+ Pressing F8 repeatedly during the boot-up process will allow you to access the Recovery Console built into your Windows Installation.
+
+Note: Not all versions of Windows 7 have this feature, but its a good checking point for troubleshooting.
+You can try to access your command prompt from the recovery console to fix things on your PC that just could not be fixed through typical methods. In this case we will be fixing the MBR (Master Boot Record).
+ Press it repeatedly to ensure your keystroke registers with Windows during booting.
+,,,,
+This should take care of any MBR Problems that may arise. Again, this isn't included in all versions and variations of Windows 7.
+

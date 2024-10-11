@@ -1,0 +1,38 @@
+@summary
+create a document.
+
+@summary
+save the document in an easy to access folder (such as the desktop).
+
+@summary
+,
+
+@summary
+plug your ipod in.
+
+@summary
+open the folder that has your document in it.
+
+@summary
+open "my computer" and find your ipod.
+
+@summary
+find the "notes" folder in your ipod.
+
+@summary
+on your ipod, scroll down to "extras".
+
+@summary
+in extras, find "notes".
+
+@summary
+your document will be there for you to read.
+
+@article
+ You can create the document in Microsoft Word or in Notepad. Make sure to save it as a .txt file.;
+,, This, of course, is important if you want to put something on your iPod.
+ Right-click and copy the document.
+ Note: You must have disk use enabled on your iPod to put the document on. This is done on iTunes.
+ In Windows, this folder is in X:\Notes (where X is the iPod's Drive letter). Right-click and paste the document into the "Notes" folder. You can then eject your iPod.
+ Select Extras.
+ Select Notes.

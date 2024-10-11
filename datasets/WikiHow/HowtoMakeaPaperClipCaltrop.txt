@@ -1,0 +1,20 @@
+@summary
+bend a paper clip out straight.
+
+@summary
+bend the paper clip in half.
+
+@summary
+bend each side in half.
+
+@summary
+bend each of the outer sections in half.
+
+@summary
+bend each of the inner sections in half.
+
+@summary
+adjust the positions of the points so that it forms a tetrahedron shape.
+@article
+ This will work with a standard sized paper clip, but a bigger clip gives a bigger caltrop.
+ It should make an angle in the middle of about ninety degrees., Again, roughly ninety degree angles., The ends of the paper clip should be near the quarter-way bends., You should now have four points, arrayed around a centre., Here's one that I made earlier.

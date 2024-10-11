@@ -1,0 +1,11 @@
+@summary
+choose a spot where you want to put your static block.
+
+@summary
+write the keyword "static" and then create a body.
+
+@summary
+write your code in the body!
+@article
+ A static block is sort of a method, so you cannot put this in any method!
+,  It should look like this: static {}, Remember, unlike other methods, this one is called the same second it is loaded!

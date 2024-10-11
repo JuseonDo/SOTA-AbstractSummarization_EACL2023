@@ -1,0 +1,47 @@
+@summary
+make a huge base for the house ( 20 x 30 blocks).
+
+@summary
+create the wall about 10 blocks high.
+
+@summary
+cover the top of your house with a roof.
+
+@summary
+make doors for any gaps so mobs won't come in your house.
+
+@summary
+place torches in your house for some light.
+
+@summary
+place torches outside your house to prevent aggressive mob spawning.
+
+@summary
+create 2x2 holes in the front of your house.
+
+@summary
+dig out the space on your floor and replace it with any nice block you would like.
+
+@summary
+put a crafting table, large chest, 2 furnaces, and a bed.
+@article
+ Mark this frame with a material of your choice.;
+, Do this for all walls of the house.
+ There are two types of roofs:
+
+
+A flat one, just connect all the walls
+A pointed one. Put steps one step higher until both sides come together. Fill in remaining gaps.
+ Double doors are recommended as they look nicer but aren't necessary.
+
+
+If you are on hard difficulty it is highly recommended that you have iron doors so zombies don't break in your house. Build a bunker, just in case.
+ If you have made a nether portal you can use glowstone.
+ Again you can use glowstone or jack-o-lanterns if you wish.
+ Fill the holes in with glass for windows. To make glass you smelt sand in a furnace
+
+
+Or, you could put no glass in them and snipe at far away mobs from the window.
+ Brick and wool are two ideas, but hard to find, so pick whatever you find fancy. In creative mode, you have wool right on your fingertips, so take advantage of that.
+ This will complete your house. If you want you can make chairs by putting steps and sign on either side of the step.
+

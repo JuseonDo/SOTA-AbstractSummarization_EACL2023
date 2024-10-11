@@ -1,0 +1,45 @@
+@summary
+apply parking brake firmly.
+
+@summary
+using the ratchet, ratchet extension(s) and 15mm socket, remove the front skid plate and set it aside.you may need to lower or raise the axle some to take pressure off of the lower link bolt, so that you can remove it easily at the appropriate step.
+
+@summary
+using the ratchet and 17mm socket, loosen, but do not remove, the upper link nut.
+
+@summary
+using the ratchet and 18mm socket, remove the lower through-bolt nut connecting the link to the axle.
+
+@summary
+ old link & new link side by side (through-bolt nut not in picture)
+
+@summary
+remove the upper link nut and remove the link and old bushings from the stabilizer/sway bar.
+
+@summary
+ upper link assembly
+
+@summary
+to install the new links is pretty much a reversal of the removal process, but i suggest that you loosely secure the bolts and nuts at first to give them and the bushings a chance to "seat" properly before tightening to the final torque specs.
+
+@summary
+once all the nuts, bolts, and bushings are properly installed and seated, begin the final tightening sequence using the torque wrench.replace the wheels and lightly tighten the lug nuts.
+
+@summary
+re-install the front skid plate and tighten the bolts to approximately 40 foot (12.2 m) pounds.raise the vehicle slightly in order to remove the jack stands.carefully lower the vehicle and tighten the lug nuts to 100 foot (30.5 m) pounds.after completing any repair on the vehicle suspension (and this is no exception), take the vehicle to a repair shop and have the alignment checked and/or adjusted by a properly trained professional.sit back and take pride in all of your hard work!
+@article
+ Place chocks or wood blocks behind rear wheels. Loosen the wheel lug nuts. Slowly raise the front of the vehicle by the axle and support it securely on jack stands. Remove the lug nuts and wheels and set them aside.
+ Spray the bolts with the penetrating oil and allow them to "soak" if they are difficult to remove.,, Scrub with wire brush and spray with the oil if needed as mentioned above. The picture at right is of the old driver's side link in my Laredo prior to it's removal. As you can see, it was horribly rusted and the bolts hadn't moved for 16 years - I had to use a great deal of penetrating oil and my cheater pipe to get them to break loose., Use the breaker bar and torx bit to hold the bolt in place as you remove the nut. Scrub and spray with oil as needed. Use the hammer to tap the bolt free of the link and axle bracket. If the nut and bolt are in good shape (not stripped out, cracked, overly corroded, or showing other signs of metal fatigue) set aside for re-use during new link installation. If not, replace them with hardware of the same size and tensile strength as the original parts (additional tools may be required if an exact replacement cannot be found - ie larger or "box-end" type wrenches, different size and type sockets, etc...). I re-used the bolts on my Jeep because they were in pretty good shape after cleaning them up., This picture shows the old and new links prior to re-installation. The new link is about an inch shorter than the original and since I don't take my Jeep off-road, the shorter link provides a slightly stiffer ride. If you want to stay true to factory spec on your Jeep take careful measurements of the link shaft length and take them to your parts dealer when ordering your new links., When installing the bushings on the upper shaft of the link you will notice that they either have a small circular lip around the shaft opening or are slightly conical in shape on one face of the bushing. That lip or conical shaping needs to be against the sway bar (lip-side UP on the lower bushing, and lip-side DOWN for the upper bushing). Don't forget your concave washer-retainers. The order of installation is as follows:
+
+Lower retainer washer (cupped side up)
+Lower bushing (lip side UP)
+Through the sway bar (not shown)
+Upper bushing (lip side DOWN)
+Upper retainer washer (cupped side down)
+Upper nut
+
+, Bear in mind that the bushings will be under extreme pressure after the nuts are tightened to their correct specifications and the bushings WILL NOT retain their original size.
+
+Secure the upper link nuts to 27 foot (8.2 m) pounds (324 inch pounds)
+Secure the lower axle through-bolt nut to 70 foot (21.3 m) pounds (840 inch pounds) in 10–20 foot (3.0–6.1 m) pound increments - alternating between sides at each stage.
+, Exact torque spec is unknown as of the original publication of this article.,,,,

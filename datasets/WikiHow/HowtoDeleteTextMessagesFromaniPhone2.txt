@@ -1,0 +1,18 @@
+@summary
+open your iphone's messages.
+
+@summary
+swipe left on a conversation you want to delete.
+
+@summary
+,
+
+@summary
+tap the delete button that appears.
+@article
+ Do this by tapping the white speech bubble on a green background icon. It should be on one of your Home screens.
+, All data from the selected conversation will be deleted from your iPhone.
+
+
+If you downloaded any media from the conversation to your Camera Roll, it will still be stored there.
+

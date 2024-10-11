@@ -1,0 +1,24 @@
+@summary
+launch the wikihow app by tapping the icon on your ipad's desktop.
+
+@summary
+search for articles by entering your search terms in the box on the upper right corner of the screen.
+
+@summary
+tap "menu" on any screen to open up the menu.
+
+@summary
+bookmark any article by tapping "bookmark" at the bottom of the page.
+
+@summary
+tap on "survival kit" from the menu view to access survival kit categories.
+@article
+ At first launch, the app will open to a screen with Featured Articles.
+
+
+
+Results will begin to appear as you type. You can use this to refine your search and quickly find the article you are looking for.
+ This lets you access Featured Articles, random articles, your bookmarks, and the wikiHow Survival Kit.
+ The article will be saved to your bookmarks list and available for reading offline.
+ Survival kit articles are permanently stored on your iPad, so you can get help in emergency situations even if you lack an internet connection.
+

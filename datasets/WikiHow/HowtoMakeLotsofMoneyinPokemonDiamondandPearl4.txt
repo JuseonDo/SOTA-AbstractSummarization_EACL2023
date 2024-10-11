@@ -1,0 +1,5 @@
+@summary
+get any pokémon with the "pickup" ability (zigzagoon, meowth, etc.)
+@article
+ and fight a bunch of wild Pokémon, each time check your Pickup Pokémon for hold items, if there is one, sell it.
+

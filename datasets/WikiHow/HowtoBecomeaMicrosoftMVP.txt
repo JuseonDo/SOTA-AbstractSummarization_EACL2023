@@ -1,0 +1,54 @@
+@summary
+know that the microsoft mvp award strives to facilitate the unrestricted sharing of knowledge.
+
+@summary
+realize that individuals that are given the microsoft mvp award do not work for microsoft nor do they represent the company.
+
+@summary
+consider that a requirement to be nominated and selected as a microsoft mvp is to be at least 18 years of age or older.
+
+@summary
+know that the process of selecting microsoft mvps includes a review of accomplishments and achievements made by technical community members within the past year prior to nomination.
+
+@summary
+realize that the scope of the microsoft mvp program extends worldwide and includes millions of active, participating members within the technical community.
+
+@summary
+consider that microsoft mvps generally will have acquired extensive knowledge of a particular microsoft product or technology.
+
+@summary
+realize that microsoft mvps do receive benefits and services as a result of receiving an award.
+
+@summary
+know that individuals selected to be a microsoft mvp award maintain that title for 1 year only.
+
+@summary
+know that microsoft mvp nominees are selected from community members in more than 90 countries worldwide.
+
+@summary
+consider that you can apply directly yourself to be awarded the title of a microsoft mvp.
+
+@summary
+learn more about the application process for becoming a microsoft mvp by visiting microsoft's website.
+
+@summary
+provide some examples of technical community activities that the nominee regularly participates in.
+@article
+ The goal is to provide reputable resources that encompass expansive expertise that can benefit all members of the community.;
+, Microsoft MVP's are independent individuals that were chosen based upon their accomplishments within technical communities.
+ The age requirement reflects Microsoft's guidelines relative to the privacy and safety of minors.
+ Factors that are considered during the evaluation process include the quality and quantity of contributions in addition to the influencing effect within the technical community.
+ Microsoft's customer base is expansive and encompasses a broad range of technologies.
+ Those individuals that receive the Microsoft MVP award are not required to have extensive knowledge and expertise covering all Microsoft products and technologies
+
+, Recipients do not get any form of payment or monetary award when selected to become a Microsoft MVP.
+ Recipients must follow the MVP code of conduct and adhere to the Microsoft community rules during that period.
+ Potential new MVPs are selected from a variety of venues, including, but not limited, to newsgroups, public forums, social media sites and event speakers.
+ You can also be nominated by fellow peers within the technical community or by Microsoft.
+ Direct links have been provided below at the end of this article.
+
+
+Include the nominee's name, email address, country of residence and primary language spoken when completing the nomination process. You will need to enter this information into the form which can be found via the links following this article.
+Mention several Microsoft products or technologies within which the nominee has acquired and developed extensive knowledge and expertise. Examples include Microsoft Office products and Windows Media Center.
+ Possible examples include podcasts, forums, newsgroups and blogs. A Microsoft MVP Award Program member will officially contact those applicants that have been selected to receive the Microsoft MVP award.
+

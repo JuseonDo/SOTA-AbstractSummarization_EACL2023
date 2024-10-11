@@ -1,0 +1,61 @@
+@summary
+check to see if your wi-fi is on.
+
+@summary
+if your wi-fi is on
+
+@summary
+go to settings
+
+@summary
+at the top, there should be a piece of text saying airplane mode yes?,
+
+@summary
+if your wi-fi is not on
+
+@summary
+go to settings and click.
+
+@summary
+finished.
+
+@article
+ Follow the steps bellow;
+,
+Click on the OFF button. It will now have turned to ON.
+
+
+
+
+
+
+
+Second down it should say wi-fi yes?
+
+
+
+
+
+
+Click on that.
+
+
+
+
+
+
+Click on OFF next on wi-fi. It should turn to ON.
+
+
+
+
+
+
+Chose your network. Once you have chosen, click on it.
+
+
+
+
+
+
+Now do the 'If your wi-fi is on' steps.

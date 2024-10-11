@@ -1,0 +1,37 @@
+@summary
+disconnect the battery from your laptop.
+
+@summary
+pry the battery apart.
+
+@summary
+you will see 6-8 cells connected to a circuit board.
+
+@summary
+make a note of where the wires connect to.
+
+@summary
+use a soldering iron/electric welding tool to separate cells from the wires.
+
+@summary
+then solder/weld the new cells together.
+
+@summary
+put the new cells into the case.
+
+@summary
+in the end put both rows of cells back together.
+
+@summary
+your hack is complete!
+@article
+ There should be 2 catches, slide them to unlocked and slide it out.;
+, You may also need some patience and a sharp flathead screwdriver or a butter/putty knife.
+ This is the battery controller. Look near the connector to find the board, and trace the wires. Carefully examine every cells by a multimeter to ensure the cells are fully discharged.
+ This is important.
+ Then take them out of the case.
+ Remember to refer back to the note you made in Step 4.
+ Solder/weld back the wires and cells.
+ Let it rest for about 48 hours.
+ Insert your battery and start charging. Turn it on, and you're back in business!
+

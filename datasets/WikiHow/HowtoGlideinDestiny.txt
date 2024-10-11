@@ -1,0 +1,13 @@
+@summary
+level up as a warlock.
+
+@summary
+once you are level 3, you will unlock the glide ability.
+
+@summary
+press 'a/x' to jump.
+@article
+ Play through missions until you reach level 3.;
+, Upgrade as soon as possible.
+ While in midair, press 'A/X' again mid-jump to glide.
+

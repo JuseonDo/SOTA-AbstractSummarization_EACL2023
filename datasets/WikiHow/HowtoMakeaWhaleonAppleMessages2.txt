@@ -1,0 +1,22 @@
+@summary
+open a conversation in messages.tap the text box.tap return 3 times.
+
+@summary
+tap 123 to open the numbers keyboard.tap #+= to open the symbols keyboard.
+
+@summary
+tap ∙ to create the whale’s left eye.
+
+@summary
+tap _ 13 times to create the whale’s mouth.
+
+@summary
+tap ∙ to create the whale’s right eye.
+
+@summary
+tap the send button.
+@article
+ You can use Messages on your iPhone, iPad, or iPod Touch to send a whale.,,, It’s at the bottom left side of the keyboard.,, This is the bullet symbol, which is the final button on the 2nd row of keys., This is the first key on the 2nd row., Again, use the bullet symbol., This is the blue button with the white arrow.
+
+You can use different symbols to create the eyes of your baby whale to give it a different effect. For example, you could tap - (on the number keyboard) in place of both eyes to make it look sleepy.
+

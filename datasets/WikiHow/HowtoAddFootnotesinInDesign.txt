@@ -1,0 +1,73 @@
+@summary
+purchase adobe indesign if you do not already own it.
+
+@summary
+install indesign on your computer according to the instructions provided and restart your computer if necessary.
+
+@summary
+,
+
+@summary
+familiarize yourself with indesign's workspace and resources that are available to indesign users.
+
+@summary
+,
+
+@summary
+open indesign.
+
+@summary
+,
+
+@summary
+open the indesign document you will be working from.
+
+@summary
+if you need to import text, you can do so by selecting file>place from your control panel.
+
+@summary
+locate the portion of your text that requires a footnote.
+
+@summary
+select type>insert footnote from your control panel.
+
+@summary
+set the minimum amount of space you want to appear between the bottom of your text frame and your footnote.
+
+@summary
+,
+
+@summary
+set the amount of space you want to appear between each footnote.
+
+@summary
+,
+
+@summary
+set the amount of space you want to appear between the line that separates your footnote from your text frame and your footnote.
+
+@summary
+,
+
+@summary
+if you want to allow footnotes to be split across multiple pages, select this option.
+
+@summary
+,
+
+@summary
+click okay once you have made your desired changes.
+
+@article
+;
+,,,, Do this by selecting File>Open from InDesign's Control panel, which is located at the top of your workspace. If you do not have an existing InDesign document to work from, create a new document by selecting File>New>Document and specifying the settings for your new document.
+ Navigate to the file you wish to place and double click the file name. You may need to add additional text frames on additional pages if you import a large amount of text.
+ Select the Type tool from the Tools palette and click the point where you would like to insert the footnote's in-text reference.
+ Enter your footnote's text. The area on the page where your footnote appears will automatically expand upward to accommodate your footnote until it reaches the line InDesign places to divide your text from your footnote. If your footnote expands beyond this point, it will flow to the following text frame or column.
+
+
+Select Type>Document Footnote Options from your Control panel. In the box that appears, click on the Numbering and Formatting tab to modify the numbering and format of your footnote's in-text reference and text.
+Select a numbering style for your footnote's in-text reference, the starting number for your footnote and if and where you want footnote numbers to restart.
+Specify the position of your footnote's in-text reference if you prefer to use something other than a superscript number and set paragraph and character styles for your footnote's in-text reference.
+Specify the amount of white space that appears between the footnote's reference number and the footnote text. lick the Layout tab in the Footnote Options box to modify your footnote's appearance.
+,,,,

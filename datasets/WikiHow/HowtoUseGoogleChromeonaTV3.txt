@@ -1,0 +1,37 @@
+@summary
+turn on your apple tv.
+
+@summary
+connect your ios device to the wi-fi network.
+
+@summary
+swipe up from the bottom of the screen.
+
+@summary
+tap the “airplay” icon.
+
+@summary
+move the slider next to “mirroring” to the on position.
+
+@summary
+select your apple tv from the list.
+
+@summary
+launch the chrome app.
+
+@summary
+disconnect from airplay.
+@article
+ To use Chrome from your iOS device on a TV, you’ll need to have Apple TV installed and turned on., Make sure you’re connecting to the same Wi-Fi network used by the Apple TV.
+ This will open the Control Center on your iOS device.
+ A small pop-up menu will appear.
+ This action enables you to mirror the screen on your iOS device to the TV.
+ Once you select your Apple TV, you should see your iOS home screen on the big screen.
+ You will see Chrome appear on both the TV and your mobile device. Now you can visit any website and have it appear on your TV.
+ When you’re done using Chrome on your TV:
+
+
+Swipe up from the bottom of the screen to launch the Control Center.
+Select “AirPlay” from the menu.
+Tap your iOS device. For example, if you’re using an iPad, tap “iPad.” Your iOS desktop will now disappear from the TV screen.
+

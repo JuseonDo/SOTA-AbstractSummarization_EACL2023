@@ -1,0 +1,28 @@
+@summary
+go to any chao garden.
+
+@summary
+take out the current memory card you are using.
+
+@summary
+,
+
+@summary
+go to the chao transporter and click, " move".
+
+@summary
+click the a button and it should say " file not saved!",
+
+@summary
+exit the chao garden and go to the options menu.
+
+@summary
+go to the chao garden you were using, and click move.
+@article
+ Choose any.;
+,, Select the Chao you want to duplicate and move them to the other memory card. It should say, "No memory card inserted. Please insert a memory card".
+
+
+, Click "file select" and put your memory card back in it's slot. Click on the file you're using.
+ The Chao you moved now has a copy of itself. Congratulations, you have just successfully duplicated your Chao!
+

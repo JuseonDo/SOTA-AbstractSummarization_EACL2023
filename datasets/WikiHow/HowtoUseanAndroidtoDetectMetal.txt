@@ -1,0 +1,17 @@
+@summary
+open the google play app from home screen.
+
+@summary
+type in "detect metal.",
+
+@summary
+click "install.",
+
+@summary
+hold the bottom of your phone close to metal.
+@article
+ Click the spyglass option in the top right.;
+, Select one of the apps that comes up.
+ Click "accept and download" to get the app installed on your phone. Click "Open" to open the new app.
+ You'll see the arrow on the detection app swing up towards red when it's a few inches away from a metal source.
+

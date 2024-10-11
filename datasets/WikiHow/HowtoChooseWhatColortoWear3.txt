@@ -1,0 +1,45 @@
+@summary
+blond hair and blue eyes.
+
+@summary
+blond hair and green eyes.
+
+@summary
+blond hair and hazel/brown eyes.
+
+@summary
+blond hair, gray eyes.
+
+@summary
+brown hair and blue eyes.
+
+@summary
+brown hair and green eyes.
+
+@summary
+brown hair and hazel/brown eyes.
+
+@summary
+brown hair and gray eyes.
+
+@summary
+red hair and blue/gray eyes.
+
+@summary
+red hair and green/hazel/brown eyes.
+
+@summary
+dark hair.
+@article
+ Blues, blue-greens, light greens and turquoises are very flattering.
+ Greens, oranges and blues are cute.
+ Browns, purples, reds, pinks and oranges are ideal.
+ Any color except light yellows will look great.
+ Reds, oranges, pinks and yellows are nice.
+ Anything from the above category and green will work.
+ Earth and dark tones and light blues will look good.
+ Any shade of blue, purple, black and grays are awesome.
+ Light oranges, purples, black and green are flattering.
+ Any shade of purple, dark and light greens, black, and earthy colors are cool.
+ You will look good in almost any color!
+

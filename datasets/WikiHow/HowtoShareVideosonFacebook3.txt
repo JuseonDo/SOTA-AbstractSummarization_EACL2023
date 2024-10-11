@@ -1,0 +1,21 @@
+@summary
+find your video's url (typically in the top bar of your browser).
+
+@summary
+navigate and log into facebook.
+
+@summary
+,
+
+@summary
+paste the url as a status update.
+@article
+ Copy the URL.
+
+
+You may copy a URL by highlighting it and either right-clicking then choosing "copy" or by pressing CTL+C on your keyboard.
+, Then click on "Post." You will see that you can play the video directly from Facebook.
+
+
+To past the URL, you may either right-click and choose "paste" or press CTL+V on your keyboard.
+

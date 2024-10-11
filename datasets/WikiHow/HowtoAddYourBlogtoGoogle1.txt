@@ -1,0 +1,9 @@
+@summary
+finalize your basic blog features such as the blog name and address.
+
+@summary
+add at least 3 to 5 blog posts to the blog before you submit it to google.
+@article
+ Once your blog has been submitted it can become difficult to change these blog attributes on Google since they will be archived (saved on the Google database).jbj;
+, If you are creating posts of short word-length then you may want to consider adding a few more posts. Basically, you don't want Google to recognize your blog as empty and reject it for submission.
+

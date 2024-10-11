@@ -1,0 +1,18 @@
+@summary
+obtain a single normal chest.
+
+@summary
+,
+
+@summary
+make a tripwire hook.
+
+@summary
+combine the hook and the chest in the crafting table.
+@article
+, These are made by, in a crafting table, putting 1 plank on top of a stick, on top of an iron ingot.
+ This is a shapeless recipe.
+
+
+Note that you can put two trapped chests next to each other, to make a large chest.
+

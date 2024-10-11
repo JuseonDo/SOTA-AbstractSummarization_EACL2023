@@ -1,0 +1,13 @@
+@summary
+compare the delivery records of merchandise orders.
+
+@summary
+separate transaction receipts into 2 piles.
+
+@summary
+check to see how many receipts are in each pile.
+@article
+ Look to see if the supplier has delivered items within the period printed on the receipt.
+ 1 pile is for merchandise delivered on time. The other pile is for merchandise that arrived late.
+ Write down your thoughts on a piece of paper or notebook.
+

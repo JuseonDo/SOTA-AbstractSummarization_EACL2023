@@ -1,0 +1,23 @@
+@summary
+open your iphone’s settings.
+
+@summary
+scroll down and tap general.
+
+@summary
+scroll down and tap keyboard.
+
+@summary
+scroll down and slide the enable dictation button to the “on” position.
+
+@summary
+use the dictation feature.
+@article
+ The icon looks like a set of grey cogs and is located on the home screen.
+
+
+If Settings isn’t present on the home screen, its icon can be located in the Utilities folder on the home screen.;
+, It is located in the third group of menu options.
+ It is located in the fourth group of menu options.
+ This will enable the speech-to-text dictation function., Simply press the microphone dictation button in the bottom left corner of the iPhone's virtual keyboard when typing into a text box. A popup window will appear when dictation is recording. Tap Done when you have completed the recording. The iPhone will then translate your speech into text and place it into the text box.
+

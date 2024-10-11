@@ -1,0 +1,18 @@
+@summary
+raise the supported load.
+
+@summary
+remove the jack stand.remove the jack stand(s) carefully as to not come into contact with the jack.
+
+@summary
+lower the load to it's objective point.
+
+@summary
+remove the jack from the load.
+@article
+ Raise the supported load just high enough to clear the jack stand(s).
+ Use caution when working in and around the jack while supporting a load.
+ Using the handle, turn the release valve counter-clockwise NO MORE THAN 1/2-FULL TURN!
+
+, Once the load has been safely lowered, remove the jack and push the saddle to its fully-down position to reduce exposure of the hydraulic ram to contamination and corrosion.
+

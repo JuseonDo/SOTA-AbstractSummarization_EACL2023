@@ -1,0 +1,37 @@
+@summary
+tap the settings app on the device.
+
+@summary
+scroll and tap the "facebook" button, which can be found just a little bit below the button labeled twitter.
+
+@summary
+,
+
+@summary
+tap and enter your facebook account credentials (username and password) into the login screen's appropriate boxes.
+
+@summary
+tap the sign in button,which can be found to be slightly below the password box.
+
+@summary
+,
+
+@summary
+verify that you can/will allow the conditions that display for your device to use.
+
+@summary
+authorize your device to connect with facebook, if and when these boxes come up.
+
+@summary
+update the data of your iphone's contacts.
+@article
+;
+,,
+
+
+Tap into the box labeled "User Name" and type your Facebook username. This is the email you signed up with on Facebook. At this time, your iOS device, won't let you sign in via your mobile device's phone number. Tap the "Return" button on the iPhone keyboard to skip down to the Password box when finished.
+Type your Password into the box.
+, Approve the message that comes up. Tap the "Sign in" button in the top right hand corner.
+ You'll only need to authorize them once per account, so you shouldn't have to get them the second time around, should you need to unlink the account together and re-link later.
+ Press the Update All Contacts button to update. You might as well do this, but it'll help keep the names and email addresses and information synced to this source to correspond to these people's real-life names and information. This data can take a bit of time to update, but it's well worth it in the end; so, connect to a Wi-Fi network to minimize the amount of data collected, when completing this step..
+

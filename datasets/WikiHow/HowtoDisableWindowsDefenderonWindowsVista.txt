@@ -1,0 +1,28 @@
+@summary
+open/run windows defender.
+
+@summary
+click on "tools" at the top of the window.
+
+@summary
+click on "options".
+
+@summary
+open up the box for administrative options.
+
+@summary
+uncheck "use this program" to disable windows defender.
+
+@summary
+,
+
+@summary
+save your changes.
+
+@summary
+close the confirmation message dialog box.restart your computer to make sure your changes are applied.
+@article
+ Open up your Start menu, type "Windows Defender" in the Search box, and click the entry for "Windows Defender" that comes up.
+ Your tools are your "settings" area for the Windows Defender program.
+ This shall give you more options to change the way Windows defender works.
+ Choose Administrator from the options on the left of the window. This option should be the last option in this list.,, Click on the "Save" button to save your changes., Click the "Close" button.

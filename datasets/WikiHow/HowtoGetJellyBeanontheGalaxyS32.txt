@@ -1,0 +1,31 @@
+@summary
+open a web browser on your computer.
+
+@summary
+visit the kies download page.
+
+@summary
+click the kies 2.6 button.
+
+@summary
+click the kiessetup.exe file.click yes if prompted by windows.check the i accept box and click next.
+
+@summary
+click skip at the end of the installation.
+
+@summary
+click finish.
+
+@summary
+select your s3 in kies.
+
+@summary
+click the firmware upgrade button.check the box indicating you've read the details.click start upgrade.
+
+@summary
+wait while your device updates.
+@article
+ You can use Samsung's Kies software to download and install the update, which may be able to help if you aren't able to update wirelessly.
+
+You'll need to be using a Windows computer for this method.
+ This program manages your S3, including software updates., Even though Kies 3 is available, you'll need 2.6 for your S3., You'll see this at the bottom of your browser, or you can find it in your Downloads folder.,,, This will skip an additional driver installation which you won't need for your S3., Kies will open automatically., When Kies opens, you'll see your device listed in the left frame. Click it to select it., You'll see this in the Basic information tab underneath your device details.,,, Make sure not to disconnect it during the process.

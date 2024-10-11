@@ -1,0 +1,27 @@
+@summary
+launch your favorite search engine on your personal computer.
+
+@summary
+select “apps.” from the tabs at the top left (apps, games, and themes), click “apps.”
+
+@summary
+,
+
+@summary
+find the skype app.
+
+@summary
+click on “skype.” then, click on “instructions” to enlarge the barcode.
+
+@summary
+,
+
+@summary
+scan the barcode with your phone.
+@article
+ Go to the BlackBerry World site, from which you can find Skype for BlackBerry.
+, Type “Skype” into the search bar on the top right-hand side of the screen.
+, The scan will redirect you to BlackBerry World and take you directly to the Skype app. Click “download.”
+
+
+If you don't have a barcode scanner on your phone, you can download one from BlackBerry World. ScanLife has received pretty good reviews.

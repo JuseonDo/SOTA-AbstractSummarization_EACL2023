@@ -1,0 +1,56 @@
+@summary
+write on the snip.
+
+@summary
+click on the pen icon.
+
+@summary
+,
+
+@summary
+select a pen type.
+
+@summary
+customize the pen.
+
+@summary
+click on the highlighter icon and then highlight the snip.
+
+@summary
+click on the eraser icon and then erase your annotations.
+
+@summary
+tap the “save snip” button to save the snip.
+
+@summary
+,
+
+@summary
+assign a name to the snip and select where you want to save it.
+
+@summary
+,
+
+@summary
+click “save.”,
+
+@summary
+select the “send snip” button to email the snip.
+
+@summary
+type in the email address and click “send”.
+@article
+ Windows’ Snipping Tool includes a pen. You can use the pen to write freeform on your snip.
+, Options include:
+
+
+”Red Pen”
+”Blue Pen”
+”Black Pen”
+”Custom Pen”.
+ From the drop down menu, select “Customize”. This option allows you to alter the pen’s color, thickness, and tip.
+ It is located next to the pen icon. You may use the highlighter to draw attention to important aspects of your snip.
+
+
+This tool is not customizable.
+ Hold as you move the eraser over any previous annotations you want to remove.,,,, Clicking this button will launch your default mail-client and automatically attach the snip to the email.,

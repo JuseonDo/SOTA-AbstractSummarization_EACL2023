@@ -1,0 +1,23 @@
+@summary
+if you don't have the software, go to homeplansoftware and download it.
+
+@summary
+if you have receipts from shopping at your stores, or know the prices, update the prices that you see.
+
+@summary
+,
+
+@summary
+pick out a category.
+
+@summary
+print it.
+@article
+ After installing it, start it.;
+,, Here, the bread category is picked out. Look at it and decide if you need to add to it or update any prices. To make any changes, do the following:
+
+
+Select the item that you want to change and right click on it.
+Click on what you want to do. If you don't use it, you might as well delete it. For the purposes of this article, here, Edit Item will be selected.
+ Once you have completed it, print it and take it to the store.
+

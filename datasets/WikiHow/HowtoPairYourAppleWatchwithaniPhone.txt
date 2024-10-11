@@ -1,0 +1,23 @@
+@summary
+open up your iphone and download ios 8.
+
+@summary
+open the apple watch app.
+
+@summary
+tap 'start pairing' and you will be greeted with a camera/viewfinder screen.
+
+@summary
+turn on the watch and scan it.
+
+@summary
+tap the button 'set up apple watch'.
+
+@summary
+review the terms and conditions screen.enter your icloud password or apple id.
+
+@summary
+wait while your watch syncs information, don't worry, it only takes 5-10 minutes for it to sync depending on the amount of information.
+@article
+ If you already have it, you will see that there is an app named 'Apple Watch'.
+ You will be greeted by a 'Good afternoon' or 'Good evening' message, depending on the time., In this case, you will be using it as a scanner for the watch. You could also tap 'Pair watch manually' at the bottom of the screen., Then you will be greeted with a message saying, 'Your Apple Watch is paired'., Select which wrist your Apple Watch will be going on - if you are right handed, select left and vice versa., You will need to tap Agree and then tap Accept.,, And when it is finished, your Apple Watch is ready to go!

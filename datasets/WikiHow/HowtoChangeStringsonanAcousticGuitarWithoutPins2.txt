@@ -1,0 +1,24 @@
+@summary
+put the plain, non-ball end of the new string and slide it through the bridge hole.
+
+@summary
+insert the string through the hole in the tuning peg.
+
+@summary
+turn the tuning peg in the proper direction to tighten the string.
+
+@summary
+tune the string to pitch.
+
+@summary
+cut the excess string with a pair of wire cutters.
+
+@summary
+repeat all steps above for the remaining strings.
+
+@article
+ Pull the string until the ball end is fully seated.
+ Pull the string all the way through the tuning peg until it is taut, then give it enough slack so that the string will be able to wrap about four times around the string post.
+ The first wrap of the string should be above the loose end of the string.
+ For the beginners it is best to use an electronic guitar tuner.
+ Be careful not to cut the string too short or the string will come loose.

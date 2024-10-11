@@ -1,0 +1,37 @@
+@summary
+click the "file explorer" icon.
+
+@summary
+click the "desktop" option.
+
+@summary
+double-click the "control panel" option.
+
+@summary
+double-click the "clock, language, and region" option.
+
+@summary
+click "change location" under the "region" section.
+
+@summary
+click the "location" tab.
+
+@summary
+click the field under "home location".
+
+@summary
+select your country of residence.
+
+@summary
+click "ok" to confirm your changes.
+@article
+ File Explorer is the folder-shaped icon next to the Start menu.;
+, You can find "Desktop" in the left-hand sidebar of the File Explorer menu., This will open the Control Panel app, from which you can alter your system's settings.
+
+
+You can also open Control Panel by holding down ⊞ Win and tapping X, then clicking the "Control Panel" option in the resulting pop-up menu., This section of Control Panel lets you alter you time and date, preferred language, and regional location., "Region" is at the bottom of the "Clock, Language, and Region" menu.
+ You can select a regional location from this section.
+ This will prompt a drop-down menu with different country options. Changing this option is helpful if you recently moved or if you never set your country to begin with.
+ If you don't see your country immediately, try scrolling down.
+ You have successfully changed your regional location settings!
+

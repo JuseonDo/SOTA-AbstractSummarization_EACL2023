@@ -1,0 +1,38 @@
+@summary
+go into a neighbourhood and hold down ctrl + shift + c at the same time.
+
+@summary
+go to create-a-sim.
+
+@summary
+,
+
+@summary
+start a new sim.
+
+@summary
+,
+
+@summary
+click shift+n and debugging mode will turn on.
+
+@summary
+in step 1 of making a sim, go to the custom skin bin.
+
+@summary
+after you have finished with you family, select the relations and click ok.
+
+@summary
+,
+
+@summary
+move your family in a lot and start playing!
+
+@article
+ This will open up the cheat box.Type in 'Boolprop testingcheatsenabled true' without the quotations.;
+,,, This will give you more costumes and skin.
+ The alien skin will be there (It's thumbnail will be a green square). If you can select the delete button, don't delete it! It will corrupt the game. The recommended features are green skin, alien attire, and the seed-like black eyes.
+
+
+Other skins will appear, too. The skin used on the mannequins in body shop, Plant Sim skin, Wilted Plant Sim skin and others. The vampire and witch skins will not be there, as they are transparent skins that go over your Sims current skin tone when they become that creature.
+,

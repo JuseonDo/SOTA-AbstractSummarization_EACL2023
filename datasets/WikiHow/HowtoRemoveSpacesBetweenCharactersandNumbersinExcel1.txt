@@ -1,0 +1,17 @@
+@summary
+highlight the range in which you want to remove all spaces.click the edit menu.select find.
+
+@summary
+select replace….
+
+@summary
+click the box beneath “find what.”,
+
+@summary
+press the space bar on the keyboard.
+
+@summary
+click replace all.click click ok.
+@article
+ For example, if you want to remove spaces from C2 through C30, highlight those cells.
+,, A dialog box will appear.,, Make sure to press it only once., It’s the second button at the bottom of the window. The spaces are now removed from the selected cells. A pop-up will appear, letting you know how many spaces were removed.,

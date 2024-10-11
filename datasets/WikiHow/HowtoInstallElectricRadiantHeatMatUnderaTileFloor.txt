@@ -1,0 +1,52 @@
+@summary
+prepare your floor for tile by installing tile backer board on the floor, securing it to the existing sub-floor with thin-set mortar and cement board screws or nails.
+
+@summary
+make a scale drawing of the bathroom floor, including toilet, tub and vanity locations, and bring it to the tile store or home center so you can buy the proper size mat or combination of mats.
+
+@summary
+check the wiring with a continuity tester, after purchasing the mat, to make sure it wasn’t damaged during manufacturing or shipping.
+
+@summary
+,
+
+@summary
+install an electrical outlet box 5 feet (1.5 m).
+
+@summary
+note: following your preliminary layout, you should mark the path of the thick “power lead” between the mat and wall cavity and chisel a shallow trench into the floor.
+
+@summary
+draw the layout lines for the tile on the floor.
+
+@summary
+install the mat, securing it lightly to the cement board with double-face tape.
+
+@summary
+check the mat wiring again with the continuity tester.
+
+@summary
+,
+
+@summary
+install conduit connectors to both ends of two pieces of 1/2-in.
+
+@summary
+spread the mortar over a 5- to 10-sq.-ft. area of floor.
+
+@summary
+lay the tile, then tap it firmly into place.
+
+@summary
+connect the power lead and thermostat wire to the thermostat, following manufacturer's instructions.
+@article
+;
+, Points to keep in mind when sizing the mat are: 1) Install the mat up to the area where the vanity cabinet or pedestal sink will sit, but not under it; that can cause excessive heat buildup; 2) Keep the mat 4 in. away from walls, showers and tubs; 3) Keep the mat at least 4 in. away from the toilet wax ring; 4) Keep the heating cable at least 2 in. away from itself. Never overlap the cable; 5) Don’t leave large gaps between the mats. Your feet will be able to tell!; 6) If your mat is undersized, give priority to the areas where you’ll be standing barefoot most often.
+, up in the wall near where the wiring leads from the mat will terminate. Run new wiring to the box from the circuit breaker panel or - if the mat is small - from a nearby outlet (consult manufacturer's instructions for more information about wiring requirements).
+ Notch the bottom plate to accommodate the two conduits that will contain the power lead and the wires for the thermostat-sensing bulb.
+ Select tile that’s at least 6 in. square so each tile will span two or more sections of cable. Smaller tiles are more likely to conform to the minor hills and valleys of the cable when you tamp them in place, creating a wavy surface.
+ Use hot-melt glue to additionally secure the mat. Don’t leave any humps or loose edges; you’ll snag them with your notched trowel when you’re applying the thin-set mortar. ,, electrical metal tubing (EMT) that are long enough to run from the floor to the electrical box for the thermostat. Fish the power lead cable through one length of conduit. Hot-melt glue the power lead into the groove. Fish the thermostat wires through a second piece of conduit, then weave it 12 in. into the mat, keeping it equidistant from the cable on each side. Nail metal protective plates over the notches in the bottom plate to protect the wires and cable where they pass through.
+ Use the flat side of the trowel to press the mortar firmly through the mat and into contact with the cement board. You can establish a flat, uniform layer by lightly floating the trowel across the tops of the cable, then use the notched side to comb the mortar to create ridges; a 3/8 x 1/4-in. trowel works well for most tiles. Again, lightly skim your trowel over the cable. The sheathing on the cable is tough, but you still need to avoid any “sawing” type action or jabs with the trowel. It takes a little trial and error to get a flat layer.
+ Do two resistance tests while installing the tile to ensure you haven’t damaged the cable. (If the resistance test fails, see the manufacturer’s instructions to find the problem.) Once the mortar has dried, grout the joints.
+ Use a programmable thermostat so the mat will only come on when it's needed. It costs more initially but will save energy and money in the long run.
+

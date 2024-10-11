@@ -1,0 +1,29 @@
+@summary
+in the microsoft windows environment, go to start -> run...;
+
+@summary
+,
+
+@summary
+you should see a window pop up on your screen with a text box next to the word "open:".
+
+@summary
+,
+
+@summary
+type in dxdiag and hit enter, and you're done!
+
+@summary
+,
+
+@summary
+in this window, you will see a lot of information about your existing hardware and software.
+
+@summary
+,
+
+@summary
+there are multiple tabs in the menu.
+@article
+,,,, System tells you basic information about your computer, like the time and date, processor, RAM, and OS. DirectX files are specific files in the DirectX directory. The Display tab shows the graphics card for your computer, along with your resolution. You can also test the graphics features of DirectX. Sound shows you what sound interface you have. Input shows what different types of input are connected to your computer, like a keyboard or a mouse. Network shows you if your computer can have a network with other computers in games. You can also test the network play, and it creates a chat room type window, where anyone can access it, as long as they have the right IP address for it.
+

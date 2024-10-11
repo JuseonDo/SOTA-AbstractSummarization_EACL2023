@@ -1,0 +1,41 @@
+@summary
+open the adblock plus webpage in your safari browser.
+
+@summary
+,
+
+@summary
+click install for safari.
+
+@summary
+,
+
+@summary
+click the download arrow.
+
+@summary
+double-click the adblock plus file name.
+
+@summary
+click install.
+
+@summary
+open the youtube website.
+
+@summary
+click the search bar.
+
+@summary
+type in the name of a popular video.
+
+@summary
+select your preferred video.
+@article
+,, This is the downward-facing arrow in the top right corner of your Safari window.
+ This will say something like "adblockplussafari-", followed by the version number (e.g., "2.8.2").
+ You'll see this option in a pop-up window in the middle of your screen.
+ This is to verify that Adblock Plus is working on your browser.
+ It's at the top of the YouTube home page.
+ To ensure your adblocker is working, you'll need to search for a video you know has ads (e.g., a music video).
+ You shouldn't see any ads playing before or during the video, nor should you see any sidebar ads.
+

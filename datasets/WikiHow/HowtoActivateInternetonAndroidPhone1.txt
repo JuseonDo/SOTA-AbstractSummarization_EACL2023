@@ -1,0 +1,34 @@
+@summary
+unlock and open your device.if you have a password input it now.
+
+@summary
+go to "settings.
+
+@summary
+tap on wi-fi.
+
+@summary
+turn on wi-fi.
+
+@summary
+enter your network’s ssid/name.
+
+@summary
+,
+
+@summary
+enter the networks security type.
+
+@summary
+enter the networks password.
+@article
+;
+, Locate and tap on the icon that resembles a gear.
+ This will open up the Wi-Fi menu.
+ A list of networks in the surrounding area will appear. If you have already connected to one of these networks your phone will automatically connect.
+
+
+If haven't previously connected to a network you will need to add a new one. Go to the next step on how to add unrecognized networks.
+, Usually this is set to WEP.
+ Afterward, your phone should connect to the network.
+

@@ -1,0 +1,25 @@
+@summary
+get the names and prices of five freezer dessert products.
+
+@summary
+list three fruits or vegetables on sale.
+
+@summary
+ask if the supermarket offers non-dairy milk.
+
+@summary
+name at least three to five different kinds of pasta.
+
+@summary
+provide at least five seafood products.
+
+@summary
+write down at least two or three items a supermarket might offer in bulk.
+@article
+ These could include any ice cream item, freezer pies, frozen toppings, or sherbet.
+ The most common sale items are bananas, potatoes, apples, and oranges.
+ Some supermarkets offer a specialty section that carries soy or almond milk.
+ These could include spaghetti, angel hair, rotini, and lasagne.
+ The list can include fresh, canned, and frozen items, or a specific category to make it challenging.
+ Common items such as meat, vegetables, juices, and yogurt are usually seen in most stores.
+

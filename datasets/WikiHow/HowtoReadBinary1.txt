@@ -1,0 +1,36 @@
+@summary
+find a binary number you want to convert.
+
+@summary
+multiply each binary digit by two to the power of its place number.
+
+@summary
+add all the results together.
+@article
+ We'll use this as an example: 101010.
+
+
+
+
+
+
+;
+, Remember, binary is read from right to left. The rightmost place number being zero.
+ Let's go from right to left.
+
+
+
+
+
+
+
+
+
+0 × 20 = 0
+1 × 21 = 2
+0 × 22 = 0
+1 × 23 = 8
+0 × 24 = 0
+1 × 25 = 32
+Total = 42
+

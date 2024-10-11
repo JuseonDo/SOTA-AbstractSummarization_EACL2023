@@ -1,0 +1,12 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll down and tap messages.
+
+@summary
+scroll down and switch the group messaging to the on position.
+@article
+ The icon looks like a set of grey gears and is located on the home screen.;
+, It is in the fifth group of options of the menu.
+ It is in the "SMS/MMS" section of the "Messages" menu. This will disable all SMS/MMS group messages from appearing in the messaging app. 

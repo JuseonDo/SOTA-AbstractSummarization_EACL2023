@@ -1,0 +1,16 @@
+@summary
+write down the formula a=bh{\displaystyle a=bh}.
+
+@summary
+locate the base of the parallelogram.
+
+@summary
+locate the height of the parallelogram.
+
+@summary
+multiply the base and the height together.
+
+@article
+  A{\displaystyle A} stands for the area, b{\displaystyle b} stands for the length of your parallelogram, and h{\displaystyle h} stands for the height of your parallelogram.
+ The base is the length of the bottom side of the parallelogram.
+ The height is the length that a perpendicular line must travel from the bottom to the top of the parallelogram.

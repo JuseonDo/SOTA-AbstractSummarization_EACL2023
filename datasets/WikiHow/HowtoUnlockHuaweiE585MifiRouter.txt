@@ -1,0 +1,40 @@
+@summary
+install and setup
+
+@summary
+,
+
+@summary
+1.
+
+@summary
+2.
+
+@summary
+3.
+
+@summary
+4.(make sure that you are not connected to the modem via wireless and the software that come with your mi-fi is not running, this step is only for installation of the mi-fi drivers),get the unlock code,
+
+@summary
+1.
+
+@summary
+2.
+
+@summary
+3.
+
+@summary
+4.
+
+@summary
+5.
+
+@summary
+6.unlock e585 with code,
+
+@summary
+now connect your computer to your mi-fi wireless and try to open any page.
+@article
+, Get the necessary software (3 wireless Manager, PSAS Software, and MS Windows Notepad) you need., Then install the PSAS Software., After this, change the sim card inside your modem to a different network sim card), Connect to the computer with USB cable and install the software that come with your Mi-Fi,then close down the Mi-Fi software.,,, Switch On your E585 and wait for it to start up completely., Run PSAS., PSAS main page -> Hardware Forensics -> Use Mobile Port, then another PSAS program window appear., In the new window: SETUP -> Serial COM Port (3G Application Interface) -> baud speed, and that's all you have to do for the setup menu tab., DIAG -> send -> Diag Functions box -> Read EFS -> Alternative Method -> max page -> type 250 (range from 200 to 600 depending on the lines), then click âlets goâ, this will ask you to save a file so just name it and save it onto desktop., Open the PSAS log file with Notepad and search for your code. Click Ctrl F to search âPSTâ (NB: See also below) this will send you to your unlock code which are the numbers after the word PST, if you look around you will also see your serial. number.,, This will redirect you to 192.168.1.1/simlock.asp, if not type "http://192.168.1.1/simlock.asp"into your browser and when the page loads type the code that you got from notepad.

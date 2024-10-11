@@ -1,0 +1,23 @@
+@summary
+open your ios device.
+
+@summary
+look for safari web browser.
+
+@summary
+access the tumblr website.
+
+@summary
+press the icon button at the far-right menu.
+
+@summary
+,
+
+@summary
+press the "log-out" button.
+@article
+ Swipe from the left side to the right side of the screen. Enter your passcode if you have one.
+ Tap on the Safari icon to open it.
+ Enter Tumblr.com in the search bar. Log into your account if you’re not yet logged in.
+, You will be asked if you really want to log out. Hit "Yes." You are now logged out of your Tumblr account.
+

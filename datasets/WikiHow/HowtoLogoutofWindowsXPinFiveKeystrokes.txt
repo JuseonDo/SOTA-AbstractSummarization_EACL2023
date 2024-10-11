@@ -1,0 +1,24 @@
+@summary
+first, make sure there are no windows open.
+
+@summary
+press the "windows" key.
+
+@summary
+press the up arrow key.
+
+@summary
+press the left arrow key.
+
+@summary
+press enter twice.
+
+@summary
+walk away from the computer.
+@article
+ It's OK if they're minimized.;
+, The Start menu should come up.
+ "Turn off computer" should be highlighted.
+ This should select the "Logout" button.
+ The first time should pull up a dialog box asking you if you really want to log off, and the second time will automatically choose "OK".
+ Go outside and get some exercise or something.

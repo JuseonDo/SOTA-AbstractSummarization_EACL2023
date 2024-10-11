@@ -1,0 +1,29 @@
+@summary
+right-click the start button and select open windows explorer.
+
+@summary
+press alt.
+
+@summary
+go to tools > folder options.
+
+@summary
+,
+
+@summary
+under the search tab, click always search file names and content.
+
+@summary
+press ok.
+
+@summary
+,
+
+@summary
+run a test search.
+@article
+;
+, This will cause a toolbar to appear near the top of the Windows Explorer window.
+, Allowing this to process might take several minutes.
+, Go to Start and type a keyword in the Search Programs and Files box. The results should contain the keyword in more than just the title.
+

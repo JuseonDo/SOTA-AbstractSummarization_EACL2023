@@ -1,0 +1,17 @@
+@summary
+open up the launcher.
+
+@summary
+click on the skins tab at the top of the page.
+
+@summary
+click on browse to go to your files.
+
+@summary
+press save.
+@article
+  It should have a grass-block icon.;
+,  If you don't see it, try clicking on the three white lines near the top at the right.
+  Select the skin.  (It should be just a bunch of colored pixels.)  Press Open.
+  It should say "Success!  Your skin has been changed!" at the top.
+

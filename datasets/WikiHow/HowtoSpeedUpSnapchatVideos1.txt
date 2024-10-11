@@ -1,0 +1,27 @@
+@summary
+open snapchat.
+
+@summary
+sign in to your account.
+
+@summary
+tap and hold the “capture” button.
+
+@summary
+swipe left or right to browse filters.as you browse you will see 3 different symbols that represent different speed settings:
+
+@summary
+3 left-pointing arrows: reverse video.
+
+@summary
+share your snap.
+@article
+ If you do not already have it, you can get it from the App Store or Play Store.;
+, Tap “Log in”, enter your username and password, then tap “Log in” again.
+ The red outline indicates that video recording is in progress. Release to complete recording and you will be taken to the editing page.
+
+Rabbit: Speed up video.
+Snail: Slo-mo video.
+The video speed adjustment will preview when on screen. The on-screen filter is set as selected and can be shared without any extra button presses.
+ Tap the blue arrow in the lower right corner to proceed to the “Send To” page. Here you can select from your list of Snapchat friends or share to your story.
+

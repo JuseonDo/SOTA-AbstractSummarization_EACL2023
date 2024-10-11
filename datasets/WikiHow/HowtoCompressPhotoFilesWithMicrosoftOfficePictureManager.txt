@@ -1,0 +1,20 @@
+@summary
+open the picture you would like to compress by viewing it with microsoft photo gallery.
+
+@summary
+open the file you just created by viewing it with microsoft photo gallery.
+
+@summary
+once the program is launched, click edit pictures from the options located directly above the photo.
+
+@summary
+you will see in the sidebar menu that there are compression options for documents, web pages, and email messages.
+
+@summary
+finally, save your compressed photo by clicking file, then save.
+
+@article
+ Go to File, and select Make a Copy. (This allows you to keep your original photo's resolution intact in case you would want to edit it or print it later.) Rename the file so it is easier to distinguish between the original large file and the compressed version. Click Save, then close the original file.;
+, In the upper right-hand corner above the picture, click Open and choose Microsoft Office Photo Manager from the drop-down menu.
+ This will open a sidebar menu with a number of editing choices, including Compress Picture. Click Compress Picture to get into compression mode.
+ Choose one of the three options that best describes why you would like to compress your picture. For example, if you would like to submit a vacation photo to a online photo contest which limits file size submissions to less than 100mb per photo, choose Web Pages and the photo will be compressed to a file size that is optimal for web loading and viewing. Then click OK.

@@ -1,0 +1,18 @@
+@summary
+press and hold the letter on your keyboard that you want to add an accent to.
+
+@summary
+click the accented character you want to add.
+@article
+ A small pop menu will appear over your text showing available accent options.;
+,
+
+
+Alternatively, press the corresponding number next to the character to automatically insert it.
+
+
+
+
+
+
+

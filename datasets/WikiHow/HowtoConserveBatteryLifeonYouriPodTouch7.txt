@@ -1,0 +1,23 @@
+@summary
+open the settings app.
+
+@summary
+return to the general menu, then find and tap "accessibility".
+
+@summary
+,
+
+@summary
+scroll until you find the "reduce motion" tab, then tap it.
+
+@summary
+swipe the switch next to "reduce motion" to the "on" position.
+
+@summary
+close your settings app.
+@article
+ "Settings" is the grey gear icon--it should be on your iPod's home screen.
+, You'll notice that app icons shift slightly as you move your phone. You can disable that feature from this menu.
+ This will disable icon and user interface movement.
+ Your apps and user interface should remain still until you disable "Reduce Motion" again.
+

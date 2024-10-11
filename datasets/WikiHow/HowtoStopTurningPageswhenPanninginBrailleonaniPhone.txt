@@ -1,0 +1,34 @@
+@summary
+open the iphone's settings menu.
+
+@summary
+tap general.
+
+@summary
+tap accessibility.
+
+@summary
+,
+
+@summary
+tap voiceover.
+
+@summary
+,
+
+@summary
+scroll down and tap braille.
+
+@summary
+,
+
+@summary
+tap the turn pages when panning slider.
+@article
+ You can tap the Settings app on one of your Home screens to open the Settings menu. The Settings app may be in a folder labeled "Utilities.";
+, You may have to scroll down to see it.
+,,, This will disable this feature, preventing your iPhone from automatically turning the page while you're panning through a Braille line.
+
+
+When the slider is disabled, it will move to the left.
+

@@ -1,0 +1,61 @@
+@summary
+open a photo editing program (for example: photoshop, gimp, corel, paint, etc.
+
+@summary
+copy and paste any images you want to include in the icon onto the file.
+
+@summary
+,
+
+@summary
+type in text or put in a background, into a layout you like.
+
+@summary
+,
+
+@summary
+make a few designs with a brush, for example, little hearts or something, anything that suits your style.
+
+@summary
+,
+
+@summary
+make sure you save the file, and that you can access it easily.
+
+@summary
+,
+
+@summary
+open aim.
+
+@summary
+for aim 6
+
+@summary
+click on the edit tab, then click on settings.
+
+@summary
+for aim 5.0
+
+@summary
+click on the "my aim" tab.
+
+@summary
+now, you should have your very own personalized aim icon.
+@article
+);
+,,,,, (Users of AIM 6 use number 7. Users of AIM 5.0, use number 8.)
+
+, (Or press F7)
+Click on the Expressions tab. To be able to accept your own image as an icon, you will probably have to click the option "All Buddy Icons" as the choice for which icons to accept.
+After making sure your AIM will accept a file from your computer as an icon, go to the top right corner of the Expressions tab. There is a picture of your current icon there, and under it there are two options. Click on "Browse...".
+Find the file for your icon, select it, and press "Open".
+A warning should appear about the rights to the image. Press "OK".
+After this, MAKE SURE you press "Save" before closing the Settings window; otherwise, you will have to do all of this over again.
+ Hover over "Edit Options", then click on "Edit Preferences" (or just press F3)
+Under the "Expressions" section of the "Edit Preferences" window, make sure the checkbox for "Display Buddy Icons" is checked, as well as the bubble that says "Display all Buddy Icons".
+At the top right corner of the page, there is a button labeled "Browse PC..." Click it.
+Select your icon's file, and press "Select". A warning should appear that is about rights to the image, etc. Click "OK".
+Make sure you press "Apply", otherwise you will have to do it over again.
+ Congratulations!
+

@@ -1,0 +1,39 @@
+@summary
+open up adobe flash.
+
+@summary
+get used to drawing on it.
+
+@summary
+learn how to animate in adobe flash.
+
+@summary
+learn a few scripting phrases in either as2 or as3.
+
+@summary
+make a story board with people you are working with (if you are the only one in your group still make a storyboard).
+
+@summary
+start using everything you learned and start creating the game.
+
+@summary
+when you have done making the game add a credits showing your inspiration, who made it (you), and who helped you.
+
+@summary
+finally go into file and then press publish settings.
+
+@summary
+spread it around a group of people like in your school, college, university, football club, facebook.
+@article
+;
+, Try copying pictures from the internet first then try making your own pictures. This will mean that when you start making your game the art will be near first class. If you can't draw at all team up with someone who can draw extremely well.
+ This will help you for mini movies in the game
+
+, Search around Google, Bing or youtube.
+ Make all the changes to it now, as once you start making it, you have to stick with the storyboard or your game's topics are going to be messed up.
+ Use inspiration from other games and stuff. Remember to stick with the storyboard!
+
+, This means nobody can pass your game off as theirs. They can be either at the start or finish of your game.
+ Edit them to what you need and what files you need made, press ok and go into file, Publish. Wait a few seconds and your first flash game will be made.
+ The more people find out about your game the more people will like it and the more popularity it will get. Eventually it could become the next Shopping Cart Hero!
+

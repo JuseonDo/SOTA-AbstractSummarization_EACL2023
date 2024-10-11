@@ -1,0 +1,30 @@
+@summary
+find your tracking number or your receipt.
+
+@summary
+,
+
+@summary
+go to http://www.packagetrackr.com/.
+
+@summary
+,
+
+@summary
+type your tracking number into the search bar at the top.
+
+@summary
+consider signing into packagetrackr using your gmail, yahoo, windows live or open id email account.
+@article
+,,
+
+
+Allow the website to automatically detect the carrier. Different carriers use different alphanumeric combinations.
+Click the “Track It” button.
+View your package information.
+
+
+
+Once you have signed in, the service can save your tracking numbers.
+You can also download the Packagetrackr mobile site by going to m.packagetrackr.com.This is the best option if you have a tracking number, but you are unsure what carrier was used.
+

@@ -1,0 +1,17 @@
+@summary
+navigate to the image's location on your hard drive.
+
+@summary
+locate the "change picture size" heading at the bottom of the program's window.
+
+@summary
+choose the image's desired size in the menu that appears.
+
+@summary
+save the image.
+@article
+ Right-click on the image's icon, and select "Open with" from the context menu that appears. Select "Microsoft Office Picture Manager" from the available options. When the program launches, click the "Edit Pictures" button.
+ Click on the "Resize" option located under this heading.
+ Specify the new width and height of the image in pixels, and then click "OK" to resize the picture. If you don't like the results, you can always use the Undo feature.
+ Click on "File" from the toolbar, and click "Save" from the menu that appears.
+

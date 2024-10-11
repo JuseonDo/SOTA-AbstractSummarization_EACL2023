@@ -1,0 +1,37 @@
+@summary
+open the uber app.
+
+@summary
+tap the ☰ button.
+
+@summary
+tap payment.
+
+@summary
+,
+
+@summary
+tap add promo/gift code.
+
+@summary
+,
+
+@summary
+type in the promo code.
+
+@summary
+tap add.
+
+@summary
+,
+
+@summary
+check for your newly-added credit.
+@article
+ If you don't yet have the Uber app, you can download it from your device's app store. If you don't have an Uber account yet, you can create one when you start the app.
+
+
+When creating a new account, you'll have the opportunity to enter a promo code as one of the account creation steps.;
+, You'll see this in the upper-left corner of the app.
+,, You don't need to worry about matching letter cases.
+, You'll see the credit from your promo code added to the Payments screen.

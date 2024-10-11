@@ -1,0 +1,21 @@
+@summary
+go to the tools menu and select options.
+
+@summary
+change the output buffer to 250.
+
+@summary
+,
+
+@summary
+press ok.
+
+@summary
+,
+
+@summary
+play a song.
+@article
+;
+,,, Fast forward by clicking on a spot close to the end. Check to make sure that the song is playing all the way through the last second.
+

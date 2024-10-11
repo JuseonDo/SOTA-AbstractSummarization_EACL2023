@@ -1,0 +1,51 @@
+@summary
+open the messages app.
+
+@summary
+open a conversation.
+
+@summary
+tap and hold the image you want to save.
+
+@summary
+tap save.
+
+@summary
+open the messages app.
+
+@summary
+open a conversation.
+
+@summary
+tap the information icon.
+
+@summary
+scroll to the bottom of the page.
+
+@summary
+hold your finger down on an image or attachment.
+
+@summary
+tap more.
+
+@summary
+tap the images you want to save.
+
+@summary
+tap save images.
+@article
+ Its icon is green and contains a white speech bubble.;
+, Select the conversation between you and a contact that contains photos you want to save to your phone.
+ You will have the option to select “Copy,” “Save,” or “More…”
+
+, The image will save to your phone and you can view the image in your Photos app.
+ Its icon is green and contains a white speech bubble.
+ Select the threaded conversation that has photos you want to save to your phone.
+ It’s in the upper right corner of your screen.
+ You will see all of the images and attachments sent between you and that contact.
+ You will have the option to choose “Copy,” “Delete,” or “More…”
+
+, You will now be able to select the images.
+ A blue checkmark will appear in the bottom corner of the selected images.
+ The selected images will save to your phone. You can view them in your Photos app.
+

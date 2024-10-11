@@ -1,0 +1,16 @@
+@summary
+dial *4.
+
+@summary
+press your phone’s “send” button.
+
+@summary
+press 3 for “account info,” then 2.
+@article
+ On your Sprint mobile phone, open your phone’s keypad (either on-screen or physically), and dial *4 on the call screen.
+ A voice recording will prompt you what to press next.
+ You will then be informed of how many minutes you have left.
+
+
+Since you won’t get any text messages, it would be best to write down the information given to you by the voice recording so you’ll have a copy.
+

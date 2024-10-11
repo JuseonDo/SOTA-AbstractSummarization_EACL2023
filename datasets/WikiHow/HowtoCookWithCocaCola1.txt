@@ -1,0 +1,9 @@
+@summary
+purchase your favorite cola.
+
+@summary
+select a recipe from the many suggested below.
+@article
+ Make sure you have enough for the meal and some left over to have an enjoyable drink too.
+ Or, choose a handful and throw a cola-inspired dinner party!
+

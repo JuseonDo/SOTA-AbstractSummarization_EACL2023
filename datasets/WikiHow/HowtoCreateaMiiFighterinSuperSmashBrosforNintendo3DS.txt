@@ -1,0 +1,35 @@
+@summary
+from the game's menu, go to "games & more," and select "custom".
+
+@summary
+select the "create" box at the "order created" area.
+
+@summary
+,
+
+@summary
+select the type of mii fighter you want.
+
+@summary
+enter a name for your mii fighter, and select "ok" when you're done.
+
+@summary
+,
+
+@summary
+customize your mii fighter.
+
+@summary
+(optional) press the r button to test your mii fighter.
+
+@summary
+,
+
+@summary
+press the start button when you're done with customizing your mii fighter.
+@article
+ From there, select "Mii Fighters.";
+,, There are three types: Brawler (specializes in hand-to-hand combat), Swordfighter (specializes in sword combat), and Gunner (specializes in projectile combat).
+, There are four categories of customization: Equipment, Specials, Headgear, and Outfit. You can equip up to three pieces of gear for Equipment. For Specials, your Mii Fighter has three different types of specials that he/she can use. For Headgear and Outfit, you can use one of each at a time.
+, After creating a Mii Fighter for the first time, you'll be able to use them in a match.
+

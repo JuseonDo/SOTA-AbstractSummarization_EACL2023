@@ -1,0 +1,55 @@
+@summary
+log into youtube with the channel you want to delete.
+
+@summary
+click your profile image in the upper-right corner of the youtube page.
+
+@summary
+click the "advanced" link.
+
+@summary
+click the "delete channel" button.
+
+@summary
+visit the google+ site.
+
+@summary
+sign in with the google+ page you want to delete.
+
+@summary
+hover over the home menu and select settings.
+
+@summary
+,
+
+@summary
+scroll to the bottom and click the "delete page" link.
+
+@summary
+,
+
+@summary
+confirm that you want to delete it and click the "delete page" button.
+
+@summary
+,
+
+@summary
+check the box for each service you will lose access to and then check the boxes to confirm that you want to delete the google+ page.
+
+@article
+ Each channel you create will have an individual account on YouTube and Google+.
+
+
+This is only available if you have multiple channels.
+To switch accounts, click the image next to your name in the upper-right corner of the YouTube page. Select the channel you want to remove.
+ Click the Gear icon beneath your channel's name.
+ This is located underneath your channel's name in the Overview section of the Settings page.
+ You will need to sign in again with your base Google account, and then the "Delete channel" page will open. You will be shown how many videos and playlists will be deleted, and how many subscribers and comments will be lost.
+
+
+Click the "Delete channel" button again to delete the channel.
+Your Google account will not be deleted.
+ Even though the channel has been deleted, you can still log in to YouTube with your associated Google+ page, which has the same name. To completely erase it, you'll need to open the Google+ site.
+ You cannot delete your Google account's base Google+ profile.
+,,,

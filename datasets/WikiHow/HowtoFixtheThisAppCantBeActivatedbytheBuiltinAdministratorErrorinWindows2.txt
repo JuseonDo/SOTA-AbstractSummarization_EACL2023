@@ -1,0 +1,12 @@
+@summary
+press ⊞ win+r.
+
+@summary
+type wsreset.exe and press ↵ enter.
+
+@summary
+try opening your app again.
+@article
+ This will open the Run window.
+ You'll see a Command Prompt window appear for a few moments, and then the Windows Store will open.
+ Resetting the Windows Store may have fixed the problem you were experiencing.

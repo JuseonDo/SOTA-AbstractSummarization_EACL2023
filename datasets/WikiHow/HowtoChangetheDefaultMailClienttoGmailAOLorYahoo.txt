@@ -1,0 +1,12 @@
+@summary
+go to this site.
+
+@summary
+run the setup file.
+
+@summary
+test your new configuration: email test@example.com.
+
+@article
+ Download the latest version of Gmail Default Maker. It's 100% free software.;
+, Follow the steps in the setup. Remember to select which email provider you want to configure as default (Gmail, AOL, or Yahoo).

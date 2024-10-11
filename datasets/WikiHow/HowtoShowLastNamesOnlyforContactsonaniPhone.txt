@@ -1,0 +1,25 @@
+@summary
+open your iphone's settings.
+
+@summary
+scroll to the fifth group of options and select contacts.
+
+@summary
+,
+
+@summary
+tap short name.
+
+@summary
+make sure the short name switch is green.
+
+@summary
+select last name only.
+@article
+ Do so by tapping the grey gear icon on one of your Home screens (it may be hiding in a folder entitled "Utilities").;
+,, It should be in the middle of the screen.
+ If it isn't, slide it right to the "On" position.
+ Doing so will change the name that's displayed at the top of your Messages app when texting a contact from "First" to "Last".
+
+For example, if you were texting your friend Jane Doe, the name at the top of your conversation would change from "Jane" to "Doe" after altering this setting.
+

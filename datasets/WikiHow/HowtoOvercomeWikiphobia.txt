@@ -1,0 +1,29 @@
+@summary
+just read for a while.
+
+@summary
+review the help section and any tours or tutorials.
+
+@summary
+create an account.
+
+@summary
+make a test edit.
+
+@summary
+make small edits at first.use the preview button to see what your edits will look like before you save.
+
+@summary
+get the attention of an administrator or other veteran user.
+
+@summary
+don't worry too much about making mistakes, especially at first.
+
+@summary
+learn a bit about the community of people who are editing with you.
+
+@summary
+find things to do that will be appreciated by the community.
+@article
+ It's perfectly all right to read wikis without editing them. It's also a good way to learn the culture and conventions.
+ If you read a bit, you can start editing already familiar with the site and its functions and rules., Using an account name, even if it is a made-up nickname, is both more anonymous and more personal than editing "anonymously". Most wikis track anonymous edits by IP address, which usually contains at least some geographical information. With a nickname, on the other hand, you can protect your identity and still establish a reputation and history within the community., Find a testing page, often called a "sandbox", where you are allowed to make test edits. Use this place to learn how formatting and other wiki functions work., Fix a spelling or grammatical error. Categorize a page. Add a link to some other page.,, Most are happy to help and get you pointed in the right direction., You can't break the wiki. Wikis are designed to make it easy to improve pages. Do take note of anything that is changed about your edits and any advice or instructions you are given., Ask questions, get to know people, and make friends., Patrol others' edits, look for to-do lists, start requested articles, or expand stubs.

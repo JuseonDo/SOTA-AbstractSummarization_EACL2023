@@ -1,0 +1,16 @@
+@summary
+tap the menu button and select "settings.",
+
+@summary
+tap the account that you want to log out of.
+
+@summary
+scroll down and tap "log out.",
+
+@summary
+log out of any additional accounts.
+@article
+ This will open the Twitter app's Settings menu.
+ Since you can have multiple accounts logged into the Twitter app at once, you'll need to select the account you want to log out of.
+ You'll find this at the bottom of the menu after selecting an account. Confirm that you want to log out. This will remove all of your Twitter account data from the Android device.
+ If you have more than one account associated with the app, you can log out of each one using the same process.

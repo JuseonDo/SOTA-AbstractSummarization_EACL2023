@@ -1,0 +1,38 @@
+@summary
+click start.
+
+@summary
+,
+
+@summary
+in the start menu, click control panel.
+
+@summary
+,
+
+@summary
+in the control panel window, click programs.
+
+@summary
+,
+
+@summary
+click programs and features.
+
+@summary
+,
+
+@summary
+choose programs to uninstall.
+
+@summary
+click a program to select it, and then click uninstall.
+@article
+,,,, In the list of programs, find programs you no longer use.
+
+
+Computer games often use large amounts of hard drive space.
+ Windows will begin to uninstall the program.
+
+
+Some programs may not have an Uninstall button. For those programs, click Change, and then follow the instructions to uninstall it.

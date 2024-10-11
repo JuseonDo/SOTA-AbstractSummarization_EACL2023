@@ -1,0 +1,22 @@
+@summary
+select "button" under the controls group on the developer tab.
+
+@summary
+name your macro in the "display name" dialog box.
+
+@summary
+begin recording the macro for your new button by clicking "ok" twice.
+
+@summary
+,
+
+@summary
+click on "stop recording" when finished.
+
+@article
+ Place your button on workbook and a macro menu will appear automatically. Select "Record" on the pop-up window.
+ Click an image for your macro button under "Symbol." Customize the button by selecting "Modify."
+
+
+Under the "Customize Quick Access Toolbar" drop-down menu, you'll find that the default setting if for the macro button to appear on all documents. You can customize it to appear on only specific documents by selecting them in the drop-down menu.
+,

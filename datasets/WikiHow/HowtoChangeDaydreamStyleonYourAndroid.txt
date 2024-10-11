@@ -1,0 +1,20 @@
+@summary
+go to your device settings.
+
+@summary
+choose "display.",
+
+@summary
+select "daydream.",
+
+@summary
+select the desired style from the list of available styles.
+@article
+ The Settings icon can usually be found in your app drawer or notification bar. Tap on the icon to launch it.;
+, You may have to scroll down the list of settings to find this option. Tap on it.
+ This should be in the list of options.
+ That’s it! You now have Daydream Style on your Android.
+
+
+You can also change the Daydream settings by clicking on “When to Daydream” button at the bottom right.
+

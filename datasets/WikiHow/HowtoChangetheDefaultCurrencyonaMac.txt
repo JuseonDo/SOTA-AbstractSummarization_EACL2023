@@ -1,0 +1,37 @@
+@summary
+click on the apple icon.
+
+@summary
+click system preferences.
+
+@summary
+,
+
+@summary
+click the "language & region" icon.
+
+@summary
+click advanced.
+
+@summary
+click on the "currency" drop down menu.
+
+@summary
+,
+
+@summary
+click on your desired currency.
+
+@summary
+,
+
+@summary
+click ok.
+@article
+ It's the Apple logo at the far left corner of the top menu bar on your Mac's screen.;
+,, It looks like a flag.
+
+
+If you can't see the main menu, click the three rows of dots at the top left corner of the window, which displays as Show All in earlier versions of Mac OS X.
+ It's at the bottom right corner of the window.
+,, Your selected currency will be the default on certain windows and applications such as Pages and Numbers.

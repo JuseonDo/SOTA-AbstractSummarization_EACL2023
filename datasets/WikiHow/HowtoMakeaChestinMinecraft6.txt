@@ -1,0 +1,5 @@
+@summary
+look for goodies to grab from naturally occurring chests.
+@article
+ The best place to look is in dungeons (under guard though), NPC villages, abandoned mineshafts, jungle and desert temples and strongholds.
+

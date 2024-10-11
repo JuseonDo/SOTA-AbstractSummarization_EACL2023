@@ -1,0 +1,18 @@
+@summary
+start the game.
+
+@summary
+go to the game settings.
+
+@summary
+disable full screen mode.
+
+@summary
+adjust the resolution manually using the mouse.
+@article
+ You can alter the resolution of your AoE2HD by playing it in windowed mode and then adjusting the size of the window using the mouse. So begin by starting the game (by following this Start menu sequence: Start button >> All Programs >> Microsoft Games >> Age of Empires II HD or by double-clicking the game’s icon on the desktop).
+ Press the hotkey F10 to produce the in-game menu, and click “Options.”
+
+, On the Options page, untick the Full Screen box near the middle of the page. This will display the game in a window.
+ Once the game is in window mode, use the mouse to simply drag the top and side edges of the game window till it is the satisfactory size.
+

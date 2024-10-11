@@ -1,0 +1,17 @@
+@summary
+re-inflate the mattress.
+
+@summary
+,
+
+@summary
+place a weight on the mattress.
+
+@summary
+,
+
+@summary
+listen for leaks.
+@article
+,, Pay special attention to the areas you repaired. Consider using the soap water detection method. Then wait a few hours and check again.
+

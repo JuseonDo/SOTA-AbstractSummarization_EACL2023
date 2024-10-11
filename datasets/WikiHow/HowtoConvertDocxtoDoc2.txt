@@ -1,0 +1,16 @@
+@summary
+open the terminal utility.
+
+@summary
+type .textutil -convert doc into the command line.
+
+@summary
+drag the docx file that you want to convert into the terminal window.
+
+@summary
+press .⏎ return to convert the file.
+@article
+ You can find this in the Utilities subfolder of your Applications folder.
+ Do not press ⏎ Return yet.
+ The file path will be added to the command you entered.
+ This may take a moment. The new DOC version will be saved into the same location as the original DOCX file.

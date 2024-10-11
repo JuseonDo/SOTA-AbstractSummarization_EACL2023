@@ -1,0 +1,19 @@
+@summary
+download the proper drivers from the dell web site.
+
+@summary
+you will need to install the chip-set driver and if available, the usb drivers too.
+
+@summary
+,
+
+@summary
+if you need other drivers as well, the hardware can be difficult to identify, so check the back of your system for some basic information.
+
+@summary
+there is a utility called "unknown device identifier" which should be easily found by searching.
+@article
+ The best way to do this is to find the Service Tag number on your Dell and enter it into the appropriate box on the "Service and Support" >> Driver Downloads page.;
+,, If you are plugging in your monitor, network cable, or speakers into a port that is located within the rectangular IO shield, then you will want to find the appropriate driver with "integrated" in the name. This will probably help you narrow down which driver to use.
+ It is put out by a group called "Huntersoft". This can help you identify devices that may or may not have come pre-installed in your machine.
+

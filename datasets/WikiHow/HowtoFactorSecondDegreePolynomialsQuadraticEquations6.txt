@@ -1,0 +1,29 @@
+@summary
+plug the corresponding values into the quadratic formula:x = -b ± √(b2 - 4ac)
+
+@summary
+      ---------------------
+
+@summary
+                2a
+
+@summary
+we obtain the expression:x = -4 ± √(42 - 4•1•1) / 2
+
+@summary
+,
+
+@summary
+solve for x.
+
+@summary
+use your value for x to figure out the factors.
+@article
+, You should get two x values. As shown above, we obtain two answers:
+
+x = -2 + √(3) or x = -2 - √(3)
+
+, Plug the x values you obtained into two polynomial expressions as the constants. These will be your factors. If we call our two answers h and k, we're writing two factors like so:(x - h)(x - k)
+
+In this case, our final answer is:(x - (-2 + √(3))(x - (-2 - √(3)) = (x + 2 - √(3))(x + 2 + √(3))
+

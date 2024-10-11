@@ -1,0 +1,10 @@
+@summary
+split vampires into two, or even three stacks, so that you don't have to worry nearly as much about retaliation.
+
+@summary
+use liches to heal vampires or fate spinners/weavers.
+
+@summary
+lamasus can deal very heavy damage and can take quite a few hits, and are incredibly useful in large numbers.
+@article
+ Vampires, with their lifesteal, are incredibly useful for soaking up damage, however, they can also teleport, and the out of time ability is ridiculously useful, and usable every other turn., Liches are very nice, and do some decent ranged damage, though they are a bit squishy. Once upgraded, they can heal other units as well., However, you have to be careful to not surround it in friendly units because of its aura of putrescence. When surrounded in enemy units, however, it can be very useful, particularly since it can survive quite a while.

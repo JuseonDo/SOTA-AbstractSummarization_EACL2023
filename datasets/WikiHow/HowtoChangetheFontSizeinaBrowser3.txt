@@ -1,0 +1,14 @@
+@summary
+press the control key (pc) or command key (mac) which are on the bottom row of the keyboard near the space bar.
+
+@summary
+,
+
+@summary
+while still holding down the command/control key, press the key to the left of backspace.
+@article
+, This will make the font bigger.
+
+
+To make the font smaller, press the key to the right of the zero key. (these two keys are usually the - and + keys) An alternative to the + and - keys is the scroll wheel on your mouse. To return the text to the default size press the zero key.
+

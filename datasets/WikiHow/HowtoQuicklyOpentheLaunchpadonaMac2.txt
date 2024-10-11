@@ -1,0 +1,26 @@
+@summary
+place three fingers in the top-right corner of the trackpad.
+
+@summary
+,
+
+@summary
+place your thumb in the bottom-left corner.
+
+@summary
+,
+
+@summary
+pinch your thumb and three fingers together.
+
+@summary
+enable the gesture if it was disabled.
+@article
+,, Make sure all four digits make contact with the trackpad as you pinch., You can enable this gesture from the System Preferences menu:
+
+
+Click the Apple menu and select System Preferences.
+Click the Trackpad option.
+Click the More Gestures tab.
+Check the Launchpad box.
+

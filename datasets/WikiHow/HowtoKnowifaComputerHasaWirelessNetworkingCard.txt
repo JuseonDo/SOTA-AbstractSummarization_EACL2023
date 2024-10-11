@@ -1,0 +1,24 @@
+@summary
+go to the start menu and click on control panel.
+
+@summary
+click on hardware and sound.
+
+@summary
+,
+
+@summary
+click on device manager.
+
+@summary
+,
+
+@summary
+look for the network adapters tab, and expand the tree.
+@article
+ Alternately you can search "Control Panel" in the search menu (works with Windows 8).;
+,,,
+
+
+Your network adapters will be listed here. If you have a wireless adapter it should be fairly obvious from the name of it. However, if it is not you can always do an internet search with the name of the device and verify if it is in fact a wireless network adapter.
+

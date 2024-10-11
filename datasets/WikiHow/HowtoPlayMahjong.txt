@@ -1,0 +1,110 @@
+@summary
+the goal of mahjong is to clear the board by removing all the tiles from the original layout and setting them up into four sets and one pair (a "mahjong").
+
+@summary
+the game uses 136 tiles.
+
+@summary
+there is also a dice that is rolled in order to decide how the tiles are dealt.
+
+@summary
+,
+
+@summary
+start with four players.
+
+@summary
+choose a starting dealer.
+
+@summary
+go over the rules with all the players.
+
+@summary
+set up stands for each player, which will keep the wall of tiles in place.
+
+@summary
+,
+
+@summary
+the dealer shuffles the four wind tiles and deals them to the players.
+
+@summary
+the dealer then shuffles all the tiles on the table face down.
+
+@summary
+,
+
+@summary
+each player takes 34 tiles and keeps them face down.
+
+@summary
+,
+
+@summary
+players then should stack their tiles in a "wall" that is 17 tiles across and two tiles high.
+
+@summary
+the dealer rolls the dice.
+
+@summary
+the dealer deals tiles in a clockwise fashion to each player.
+
+@summary
+the dealer starts by discarding a tile.
+
+@summary
+the next player discards a tile.
+
+@summary
+then the player to that person's right (south) should discard a tile face up and either pick one up from the discarded tiles or from the wall.
+
+@summary
+,
+
+@summary
+continue discarding and picking up a tile with each player in a clockwise fashion.
+
+@summary
+,
+
+@summary
+the players should continue until someone wins by declaring mahjong or all the tiles are used up.
+
+@summary
+,
+
+@summary
+calculate the score at the end.
+@article
+
+
+
+The four sets are called Pung, Sheung or Kong sets.
+Pung is a set of three identical tiles from any set
+Sheung is a run of three tiles from a suit -- for example, you could hold a 4, 5, and six of bamboos
+Kong is four identical tiles from any set
+Ngan is a pair of the same tiles and is also needed to get Mahjong;
+, These tiles have 36 characters, 36 bamboos, 36 circles, 16 wind tiles, and 12 dragon tiles. The groups of 36 tiles are each divided into 4 sets of numbers 1-9.
+, Because of the number of tiles, Mahjong is a game played by strictly four players.
+ This person will deal out the first set of tiles to all the players.
+ You will want to set the maximum number of points and the hand that represents it.
+
+
+The maximum number of points (called the Fan) must be held by the winning hand.
+, The four tiles represent different directions and will determine how the players sit.
+
+
+The wind tiles are North, South, East and West and the players should sit accordingly around the table.
+,, They should remain face down and players cannot look at the walls in front of them.
+ Whatever number the dealer rolls, he or she counts that many tiles from the right edge of the wall and begins dealing tiles from the left of that spot.
+ Each player will receive 13 tiles except for the dealer, who will have 14 tiles.
+
+
+Players can look at their tiles but should not show them to others.
+ When you discard a tile, place it face up in the middle of the square of walls face up so that all the players can see it.
+ The player to the right of the dealer (East) then discards one of their tiles and can either pick up one of the face up tiles or pick one up from the wall.
+
+
+The idea is to pick up tiles that will help you reach your Mahjong hand -- so for example if the face up tile combines with one of the tiles in your hand to create a pair, you would want to pick it up.
+,,, Make sure that the winner has a combination of four sets and one pair. If all the tiles are used and no one has declared Mahjong, then there is no winner.
+

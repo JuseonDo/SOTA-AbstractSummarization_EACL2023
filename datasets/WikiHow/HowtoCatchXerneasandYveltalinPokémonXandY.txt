@@ -1,0 +1,34 @@
+@summary
+get the game which has the legendary you want.
+
+@summary
+get to the point where you get the psychic badge.
+
+@summary
+go to lumiose city.
+
+@summary
+go to the lysandre café, which is located on vernal avenue.
+
+@summary
+go through the lysandre labs, which has arrow tile puzzles which send you in specific directions and teleporters, until you get to b3f.
+
+@summary
+go to geosenge town and go into team flare's headquarters, located northwest of town.
+@article
+ You get Xerneas in Pokémon X, and Yveltal in Pokémon Y.;
+, You get it by beating the Anistar City Gym.
+ If you have a Pokémon with Fly, use that to get there quickly.
+ You'll find two Team Flare Grunts disguising as a waiter and waitress there; beat them and they'll reveal the password to enter the Lysandre Labs. Enter the Lysandre Labs by speaking to the cupboard near the waitress.
+ Battle the Team Flare member there. After you beat him, he'll activate a weapon located in Geosenge Town.
+ Inside, you'll battle a bunch of Team Flare members.
+
+
+After you beat them, you'll free Xerneas/Yveltal. Go up to it to battle it.
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+@summary
+start up pd howler and select the kaleidoscope option.
+
+@summary
+start drawing the basic flower.
+
+@summary
+using bucket fill and brushes, continue to draw.
+
+@summary
+,
+
+@summary
+keep drawing on the flower until you have it where you want it.
+@article
+ Decide how many petals you want and select the right number. For this article, the number will be five.;
+, You might want to experiment with brushes and colors. Some brushes will not work with the Kaleidoscope tool, so be aware of that.
+, Save it in the native format (TGA) and consider saving it in a PNG or PSD format, so that you can remove the background in another program.
+

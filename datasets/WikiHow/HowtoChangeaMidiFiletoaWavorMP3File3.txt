@@ -1,0 +1,9 @@
+@summary
+download (or purchase) a file conversion program.
+
+@summary
+follow the instructions for that particular program.
+@article
+ Look for a program that specifically mentions "midi to wav" or "midi to mp3".
+ (Usually similar to the instructions as shown above for iTunes.)
+

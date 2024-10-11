@@ -1,0 +1,12 @@
+@summary
+click "settings”.
+
+@summary
+click "start menu and extras".
+
+@summary
+go to all three options one by one and deselect the add ons you want to disable.
+
+@article
+ This will take you to another list of settings you'll have to select from.
+ It will take you to other three options like "start menu”, “extras library options" and "extras library".

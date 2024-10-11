@@ -1,0 +1,22 @@
+@summary
+go to route 1.
+
+@summary
+run in that patch of grass until you find a pichu.
+
+@summary
+,
+
+@summary
+damage the pichu a bit.
+
+@summary
+use a poké ball.
+
+@summary
+make sure it is registered to your pokédex and save.
+
+@article
+ Pichu can only be found in the patch of grass near the exit to Iki Town, so go there. You have a 5% chance of finding one, so it may take a while to do so.;
+,, Be careful not to faint it, or you'll have to search for another one.
+ Any ball will do. Your best bet is to use a Nest Ball, since it'll be at a low level.

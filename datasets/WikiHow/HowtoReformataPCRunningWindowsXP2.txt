@@ -1,0 +1,28 @@
+@summary
+insert the windows xp cd-rom or dvd-rom into your computer.
+
+@summary
+restart the pc.
+
+@summary
+press any key to boot from cd when prompted.
+
+@summary
+press the f8 key to agree to the microsoft end user license agreement when prompted to do so.
+
+@summary
+select each field that does not say "unallocated space.",
+
+@summary
+press the d key to delete each field.
+
+@summary
+repeat steps 6 and 7 until the only field left is "unallocated space."
+@article
+ You may also use the Windows XP Setup disks. If using the disks you will have to install each disk when prompted during the setup.
+ This will start the Windows XP setup program.
+ This prompt will appear shortly after the (POST) power-on self test. Once the CD loads, press the Enter key at the Welcome to Setup screen., Since there is already an existing Windows XP installation you may receive a prompt to repair it. Press the ESC key to bypass this option and continue formatting the disk.
+ All your existing partitioned and non-partitioned spaces will be listed on the screen. Use the arrow keys to select fields to be deleted.
+ When prompted, press the L key to confirm partition deletion. This will clear old data from the hard drive of the computer.
+ Now that all the partitioned spaces are deleted, press the C key to create a new partitioned space. Press enter to create a new partition of the maximum size.
+

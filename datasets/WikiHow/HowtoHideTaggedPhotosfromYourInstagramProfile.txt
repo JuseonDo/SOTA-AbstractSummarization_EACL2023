@@ -1,0 +1,43 @@
+@summary
+open instagram.
+
+@summary
+tap the “profile” icon.
+
+@summary
+tap the “photos of you” icon.
+
+@summary
+tap the photo you wish to hide.
+
+@summary
+tap the photo again.
+
+@summary
+tap your username in the photo.
+
+@summary
+,
+
+@summary
+select “hide from my profile”.
+
+@summary
+,
+
+@summary
+tap “done”.
+@article
+ This is a multicolored icon with the outline of a camera.;
+, This icon is in the bottom right corner of the screen, and looks like a person.
+
+
+If you manage multiple accounts through the app, this icon will appear as your account’s profile photo.
+ This is the third of four options below your profile information on this screen. It appears as an upside-down chat bubble with a small person inside it.
+ This will open the photo.
+ Your Instagram username will appear on the photo where you have been tagged.
+,, This will return you to the photo. This photo will no longer appear on your profile. However, you will still be tagged in this photo.
+
+
+If you wish to automatically hide new tagged photos from your profile, check out how to Require Approval to Be Tagged on Instagram Photos. This will require you to manually allow for a tagged photo to appear on your profile.
+

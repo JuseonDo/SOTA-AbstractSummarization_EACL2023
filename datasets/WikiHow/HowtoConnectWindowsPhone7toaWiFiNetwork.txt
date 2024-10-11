@@ -1,0 +1,19 @@
+@summary
+from the “start” screen, swipe left to access the app list.
+
+@summary
+tap the “settings” icon followed by “wi-fi”.
+
+@summary
+,
+
+@summary
+set the wi-fi networking option to “on”.
+
+@summary
+select the network you want to connect to.
+@article
+;
+,, This allows the device to actively search for available networks in your area. When a network(s) is found, it will be displayed telling you whether it’s open or secure.
+ If you are attempting to connect to a secure network, you may be prompted to enter a name and password.
+

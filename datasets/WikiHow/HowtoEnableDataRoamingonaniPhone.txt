@@ -1,0 +1,27 @@
+@summary
+open your iphone's settings.
+
+@summary
+tap cellular.
+
+@summary
+tap cellular data options.
+
+@summary
+tap roaming.
+
+@summary
+slide the data roaming button right to the "on" position.
+@article
+ To do this, tap the grey cog icon that's either on one of your Home screens or inside a folder named "Utilities.";
+, It's beneath "Bluetooth" in the first group of options.
+
+
+If your iPhone uses British English, this option will be entitled Mobile Data.
+ This is in the first group of options at the top of the Cellular screen.
+
+
+If your iPhone uses British English, this option will be entitled Mobile Data Options.
+ If you use AT&T, skip this step.
+ It should turn green, signifying that your data roaming is now active.
+

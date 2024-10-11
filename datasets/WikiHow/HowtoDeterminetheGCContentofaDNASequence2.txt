@@ -1,0 +1,58 @@
+@summary
+create or accept an input file.
+
+@summary
+read in the file.
+
+@summary
+create a counter.
+
+@summary
+divide the gc count by the total length of the sequence, and output the result in percentage format.
+@article
+ This article assumes that the input is in FASTA format, with a single sequence per file., For FASTA format:
+
+Discard the first line of the file.
+Remove all remaining newlines and other trailing whitespace.
+
+
+
+
+
+def init(sequence):
+    with open(argv) as input:
+        sequence = "".join(])
+    return sequence
+
+
+
+
+, Iterate through the data and increment your counter as you encounter any guanine or cytosine nucleotides.
+
+
+
+
+def GCcontent(sequence):
+    GCcount = 0
+    for letter in sequence:
+        if letter == "G" or letter == "C":
+            GCcount += 1
+    return GCcount
+
+
+
+
+,
+
+
+
+
+def main():
+    script, input = argv
+    sequence = ""
+    sequence = init(sequence)
+    print "%.2f" % (float(GCcontent(sequence)) / len(sequence))
+
+
+
+

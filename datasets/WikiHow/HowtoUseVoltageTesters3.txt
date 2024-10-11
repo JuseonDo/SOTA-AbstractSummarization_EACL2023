@@ -1,0 +1,9 @@
+@summary
+place the non-contact tester near the fixture that you want to test.
+
+@summary
+read the results.
+@article
+ Place the tester as close to the circuit as you possibly can.
+ Live current will activate the light on the voltage tester.
+

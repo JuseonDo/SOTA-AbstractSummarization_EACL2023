@@ -1,0 +1,13 @@
+@summary
+open the pinterest app.
+
+@summary
+tap the pinner's name.
+
+@summary
+tap the pinner's profile image.
+
+@summary
+tap on follow.
+@article
+, Be sure you do not click on the pin itself as this will take you to the original pin., It can be found on the top of the screen just to the right of centre. You can choose to follow a single board created by this pinner by tapping Follow on the specific board you want to follow., Now that you have followed this person you will see their new pins on your pinboard.

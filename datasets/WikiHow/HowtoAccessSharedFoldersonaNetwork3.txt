@@ -1,0 +1,9 @@
+@summary
+open the start menu and select my network places.
+
+@summary
+access shared files and folders.
+@article
+ Any shared folders available on the network will be visible in the My Network Places window.
+ Double-click on any shared folder. Provided that the user account has access permission, the selected folder and files will be accessible.
+

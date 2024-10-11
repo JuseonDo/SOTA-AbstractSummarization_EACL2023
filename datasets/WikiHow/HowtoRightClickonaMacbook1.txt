@@ -1,0 +1,9 @@
+@summary
+place your cursor over what you want to click.
+
+@summary
+click the object.
+@article
+ Hold the control or ctrl key on your keyboard. It is located next to the option button on the bottom row of your keyboard.;
+, If you are holding control when you click, the right-click menu will open.
+

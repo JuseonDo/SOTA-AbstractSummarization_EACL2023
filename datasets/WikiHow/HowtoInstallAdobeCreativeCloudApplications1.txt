@@ -1,0 +1,19 @@
+@summary
+visit the adobe creative cloud website.
+
+@summary
+open the download center by clicking the link at the top of the creative cloud website.
+
+@summary
+,
+
+@summary
+look to the left of your screen for a list of categories.
+
+@summary
+click on download below the app you wish to install.
+@article
+ Once you have signed in using your Adobe ID, you will see all of apps from which to choose from. Clicking an app will give you a description and feature overview to help you decide which to install.;
+,, Choose a category group that best applies to the app that you are searching for.
+ This will take you to the Creative Cloud desktop application where the installation will begin and where you can manage your existing applications.
+

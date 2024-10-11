@@ -1,0 +1,57 @@
+@summary
+brainstorm a list of features you might want in your own game.
+
+@summary
+write a business plan where you answer these questions:
+
+@summary
+what is my game?,
+
+@summary
+get on a mmocc (massive multiuser online communities) forum to keep in touch with specialized coders and graphic designers.
+
+@summary
+,
+
+@summary
+hire a team of coders and designers to make your idea real.
+
+@summary
+put a limit date to the release of your project, to allow your team to start coding and designing, you will have to coordinate that well if you want to keep things going smoothly.
+
+@summary
+check some tutorials about "how to lead a work team" and related stuff.
+
+@summary
+buy a domain name and a hosting service.
+
+@summary
+find users that will give life to the community.advertise, and consider offering some type of prizes to the first users.
+
+@summary
+,
+
+@summary
+start conquering the market.
+@article
+ Don't worry about the difficulty of programming your idea or designing it, just write. Watch other communities to get inspired and try to analyze what community users need, to feed them.;
+,
+Who is thought to?
+How it works?
+Commercial possibilities
+Know what kind of programming language you want to use (Lingo, ActionScript, etc.)
+Compile a list of objectives you wish to complete within certain time periods
+Team members (which will be accomplished with the next step)
+Competitors and brief information about them.
+, You can do this by:
+
+
+Paying them.
+Persuading them that your project rocks and creating a partnership with them.
+Finding investors through donations, family, venture capital investments, etc.
+ WARNING! ++this is the most difficult step++
+
+, Remember that if you don't lead the project, nobody will lead it for you.
+ If your community is for a big scale, then rent a Virtual Private Server (5k users online). Also don't forget about starting announcing your game on different forums, blogs, through messengers and email. Keep in mind that the best advertising is the "tell a friend".
+, At that time you will have some capital from the payment methods, so you will be able to pay for marketing campaigns.
+

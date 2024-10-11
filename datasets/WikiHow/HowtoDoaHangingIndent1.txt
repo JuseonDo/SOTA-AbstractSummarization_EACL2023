@@ -1,0 +1,47 @@
+@summary
+open your microsoft word document.
+
+@summary
+write your paragraph.
+
+@summary
+click the "format" menu in the top horizontal toolbar.
+
+@summary
+choose the "indents and spacing" section of the paragraph formatting box.
+
+@summary
+,
+
+@summary
+find the "indentation" section.
+
+@summary
+choose "hanging" from the list.
+
+@summary
+,
+
+@summary
+choose the size of the indent to the left of the list.
+
+@summary
+click "ok" to save your changes.
+@article
+;
+, It is helpful to have some text and simply move your cursor, when you first create the indent.
+
+
+Highlight the paragraph that you would like to be formatted with a hanging indent.
+ Scroll down and click the "Paragraph" option.
+
+
+In the 2007 version of MS Word, On the Page Layout tab, click the Paragraph Dialog Box Launcher.
+, Click on the drop down box that says "Special."
+
+,, The standard indent of 0.5 inches (1.27cm) will be used as default.
+ Your paragraph should now have a hanging indent.
+
+
+You can set the hanging indent format before you type any text. This will tell your Word document to do it automatically. If you prefer that the hanging indent isn't present throughout the document, return and indent highlighted portions after you type the text.
+

@@ -1,0 +1,37 @@
+@summary
+open instagram.
+
+@summary
+tap ⁝ on the video you want to download.
+
+@summary
+tap copy share url.
+
+@summary
+,
+
+@summary
+open video downloader for instagram.
+
+@summary
+tap paste share url here.
+
+@summary
+,
+
+@summary
+tap paste.
+
+@summary
+tap the download icon.
+
+@summary
+select download video.the video will now download to your android.
+@article
+ It’s the red, purple, and orange camera icon, typically found on your home screen.
+ It’s at the video’s top-right corner.
+, You should find it on your home screen or in the app drawer. It’s icon looks similar to the Instagram icon, but with an arrow at its top edge.
+, A URL will appear in the blank.
+ It’s the pink arrow in a circle at the bottom-right corner of the screen.
+ You’ll find it in My Files/InstaSave/download.
+

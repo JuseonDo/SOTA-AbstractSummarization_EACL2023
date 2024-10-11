@@ -1,0 +1,13 @@
+@summary
+pick up your lyre (let's assume a 6-string in c for the sake of argument) and tune it to a standard diatonic major tuning: c-d-e-f-g-a.
+
+@summary
+to form a c major chord: use your left-hand fingertips to muffle the second, fourth, and sixth strings.
+
+@summary
+to form a d minor chord: block the first, third, and fifth strings.
+@article
+
+
+(Chord formations for other tunings are given in the sections following);
+, In tablature, this would be o-X-o-X-o-X, with the "o" representing an open string, and the "X" representing a blocked/muffled string (as you're looking at the face of the instrument). This leaves you with C, E, and G, which are the notes of a C major chord. Now just strum your right hand across all the strings, much like playing the guitar., Like this: X-o-X-o-X-o. This gives you the notes D-F-A, which form a Dm chord.

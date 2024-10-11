@@ -1,0 +1,17 @@
+@summary
+sign up for a third-party check verification service.
+
+@summary
+provide the check verification service with required information about the payer.
+
+@summary
+wait for the check verification service to provide feedback on the payer’s financial history.
+
+@summary
+ask the check verification service whether you should cash the check based on its findings.
+@article
+ Check verification services can’t necessarily confirm whether funds are available, but can determine whether you’re at risk for cashing a bad check based on the payer’s financial history. Examples of reputable check verification services are ChexSystems, CrossCheck, and Certegy.Ask your bank for recommendations on reputable check verification services if you need help choosing a service.
+ This often includes the payer’s name, address, and financial institution.
+ Most check verification services can confirm whether the payer’s bank account is valid, whether the payer has a history of writing bad checks, and whether an account is open and has funds available.
+ A great verification service will recommend whether or not you should move forward with cashing a check based on the payer’s financial history.
+

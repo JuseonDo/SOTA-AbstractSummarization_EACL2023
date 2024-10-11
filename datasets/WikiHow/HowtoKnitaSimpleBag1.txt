@@ -1,0 +1,19 @@
+@summary
+cast on 45 stitches.
+
+@summary
+,
+
+@summary
+border.continue in stockinette stitch(*knit one row, purl second row, repeat from * to end) until the piece measures 25 centimeter (9.8 in).
+
+@summary
+border.
+@article
+, Work first 4 rows in moss stitch, using the correct sequence for an odd number of stitches:
+Row 1: *(k1, p1) repeat from *to end.
+Row 2: *(k1, p1) repeat from *to end.
+Row 3: *(k1, p1) repeat from *to end.
+Row 4: *(k1, p1) repeat from *to end.
+Row 5: Knit.
+, Work next 4 rows in moss stitch (also known as seed stitch). Cast off in moss stitch. Cut the yarn, leaving sufficient yarn to sew up. Repeat.

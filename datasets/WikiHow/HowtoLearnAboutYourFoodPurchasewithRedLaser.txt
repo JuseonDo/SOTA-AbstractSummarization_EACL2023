@@ -1,0 +1,21 @@
+@summary
+boot up your app and scan the food product that you want to investigate.
+
+@summary
+press the details button in the displayed options.
+
+@summary
+find out about the basics of the product.
+
+@summary
+check out the nutritional facts that can be found on the product.
+
+@summary
+find out the potential allergens.
+@article
+;
+, Your three options to choose from is Fooducate, Nutrition Facts, and Allergen Info.
+ Select the Fooducate option and learn the basic information of the article. For these preserves, you find out that there are 3 teaspoons of sugar per serving, that there are limited ingredients and its FoodPoints. You also find out that it contains high fructose corn syrup which has been linked to increased obesity rates.
+ You can quickly see the nutritional facts (if there are any facts to be found).
+ Obviously, this will only have the ones listed that the FDA has mandated be' listed.
+

@@ -1,0 +1,44 @@
+@summary
+consolidate all of the image you want to transfer into one folder.
+
+@summary
+connect your iphone to your computer using the usb cable.
+
+@summary
+,
+
+@summary
+open itunes.
+
+@summary
+select your iphone.
+
+@summary
+select the photos option in the left menu after selecting your iphone.
+
+@summary
+,
+
+@summary
+check the "sync photos" box.
+
+@summary
+,
+
+@summary
+select the folder that contains the pictures you want to transfer.
+
+@summary
+,
+
+@summary
+click the .apply button.
+@article
+ You can have multiple subfolders in the folder, but having them all in one place will make it much easier to add the images to your iPhone.
+, Click here for instructions on downloading and installing iTunes.
+ If you haven't connected the iPhone to your computer before, you will need to authorize the computer to use your Apple ID. iTunes will guide you through the process and ask you to log in with your Apple ID and password.
+
+
+You will also be asked to trust the computer on your iPhone's screen.
+,,, Your photos will be synced to your iPhone and can be found in the Photos app.
+

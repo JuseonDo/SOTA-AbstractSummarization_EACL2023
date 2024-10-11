@@ -1,0 +1,20 @@
+@summary
+put all the ingredients into a blender.
+
+@summary
+pour the mixture into a saucepan.
+
+@summary
+reduce heat to a low simmer.
+
+@summary
+pour the mixture into a fondue pot.
+
+@summary
+finished.
+
+@article
+ Blend to form a smooth mixture.;
+, Bring the mix to the boil, stirring often.
+ Simmer and stir constantly until the mixture thickens. The stirring is important to ensure that it is smooth.
+ Keep the fondue pot warm (low flame).

@@ -1,0 +1,16 @@
+@summary
+go to google helpouts.
+
+@summary
+type your query into the search box.
+
+@summary
+click on any of the links to watch out the video tutorials on a specific topic.
+
+@summary
+sort your results based on your requirement.you can sort the search results by "best match", "soonest available", "lowest price", and "best reputation".
+
+@article
+;
+, For example, type photo editing into the search box.
+ Here you can find help on various categories such as Art & Music, Computers and Electronics, Cooking, Education and careers, Fashion and Beauty, Fitness and Nutrition, Health, Home and Garden. Note: There are free as well as paid Helpouts (generally paid ones cost you 20$ per Help out and charges vary from one instructor to the other), so check out whether it’s free or not. Refer someone to use Helpouts and you and your friend will get 25$ (depending on the country’s currency).

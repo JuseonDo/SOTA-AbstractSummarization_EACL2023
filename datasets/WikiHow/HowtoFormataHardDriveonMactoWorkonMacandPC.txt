@@ -1,0 +1,76 @@
+@summary
+plug the drive into your mac.
+
+@summary
+click the "go" menu.
+
+@summary
+click "utilities.",
+
+@summary
+double-click "disk utility.",
+
+@summary
+highlight the drive you want to format.
+
+@summary
+click the "erase" button.
+
+@summary
+enter a name for the drive.
+
+@summary
+,
+
+@summary
+click the "format" menu.
+
+@summary
+,
+
+@summary
+click "exfat" from the "format" menu.
+
+@summary
+click the "scheme" menu.
+
+@summary
+,
+
+@summary
+click "guid partition map" from the "scheme" menu.
+
+@summary
+,
+
+@summary
+click the "erase" button.
+
+@summary
+wait while the disk is formatted.
+
+@summary
+click "done" when the format is complete.
+
+@summary
+,
+
+@summary
+use the drive on windows and mac.
+@article
+;
+, To find this, click your desktop and then click the "Go" menu in the menu bar at the top of the screen.
+
+
+,
+
+, The connected drives are listed in the left frame.
+ This can be found at the top of the Disk Utility window.
+
+
+All of the data will be deleted from the drive when you format it.
+,, This format is compatible with Windows and Mac (and Linux with additional software). It supports drives and files of virtually any size.You can also select "MS-DOS (FAT)," but the drive will be limited to 32 GB and files to 4 GB.
+,, This is at the bottom of the "Erase" window
+
+, Larger disks will take longer to format.
+, You can now add and remove files from the drive on Windows and Mac. 

@@ -1,0 +1,36 @@
+@summary
+power on the device you plan on using with your onn remote.
+
+@summary
+press and hold the “setup” button on the remote for approximately four seconds until the red indicator light stays on.
+
+@summary
+,
+
+@summary
+release the “setup” button, then press the appropriate device button on the remote.
+
+@summary
+point the remote at your device and press the “power” or “play” buttons.
+
+@summary
+press the #1 button on your remote as quickly as possible when your device powers off or begins to play.
+
+@summary
+verify that the remote is programmed by pointing it at your device and pressing various commands.
+@article
+ For example, if you want to program the remote for use with your television, power on your television.
+, For example, if you’re programming the remote for use with your DVD player, press the “DVD” button. The red indicator light will blink one time and remain lit.
+ The red indicator light will start blinking as the remote searches for a code that works for your device.
+
+
+Keep the ONN remote pointed at your device throughout the searching process, which may take several minutes as the remote searches for a compatible code.
+ This will lock in the correct code, and the red indicator light will turn off.
+
+
+Press the “Setup” button to reverse the direction of the code search if you fail to press the #1 button in time.
+
+
+
+If the remote is still not programmed with your device, repeat all steps in this method until the remote finds a code that works with your device.
+

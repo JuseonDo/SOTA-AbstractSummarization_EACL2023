@@ -1,0 +1,24 @@
+@summary
+survey the vehicle’s dashboard.
+
+@summary
+focus on the vehicle’s fuel gauge and look for the gas pump icon.
+
+@summary
+locate a small arrow situated next to the gas pump icon.
+
+@summary
+identify the direction in which the triangle is pointing.
+
+@summary
+follow the triangle directional to determine the gas tank side.
+@article
+ Identify the gauges and indicators, which should always be done anyway when driving a new vehicle.
+
+
+Look for the fuel gauge in particular to determine if a visit to the gas station should be in order.;
+, The icon should be located within the circle that contains the gas fill rate.
+ Generally, the icon should be a sideways triangle.
+ The top of the triangle will indicate either left or right.
+ For example if the top of the triangle is pointing right, your gas tank is on the right side of your vehicle.
+

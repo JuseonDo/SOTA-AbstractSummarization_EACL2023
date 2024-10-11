@@ -1,0 +1,28 @@
+@summary
+achieve a level 8 cooking.
+
+@summary
+gather the following ingredients, along with a cocktail shaker and cocktail glass.
+
+@summary
+make the cocktail.
+
+@summary
+dice and slice the fruit.
+
+@summary
+pour the mixture into the cocktail glass.
+@article
+;
+,
+
+
+1 lemon
+1 lime
+2 oranges
+3 pineapples
+
+, Click on the shaker and use it on the glass. This will automatically use the ingredients to the shaker.
+ Use the "slice" option on the orange and the "dice" for the pineapples and lime.
+ Click on the shaker and use it on the glass.
+

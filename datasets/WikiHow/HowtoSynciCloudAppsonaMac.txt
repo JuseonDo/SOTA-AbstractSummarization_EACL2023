@@ -1,0 +1,48 @@
+@summary
+click the apple menu.
+
+@summary
+click system preferences.
+
+@summary
+,
+
+@summary
+click icloud.
+
+@summary
+enter your apple id and password if you aren't signed in.
+
+@summary
+,
+
+@summary
+click sign in after entering your details.
+
+@summary
+click the app store icon in your dock.
+
+@summary
+click the purchased tab.
+
+@summary
+scroll to find the app you want to download.
+
+@summary
+click the install button to download an app.
+
+@summary
+click the launchpad button in your dock after installing.
+
+@summary
+click your new app to launch it.
+@article
+ This can be found in the upper-left corner of the screen.;
+,, If you don't see the iCloud option, click the Show All button at the top of the window.
+,, If you don't see it, you can click the Apple menu and select App Store.
+ This can be found at the top of the App Store window.
+ You'll see all of the apps that you've purchased as well as any apps that were free.
+ The app will begin downloading and installing to your Mac.
+ The Launchpad icon will will bounce when the installation is complete.
+ You'll find your newly installed apps at the bottom of the list.
+

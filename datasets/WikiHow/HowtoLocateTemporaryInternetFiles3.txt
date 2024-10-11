@@ -1,0 +1,25 @@
+@summary
+open internet explorer.
+
+@summary
+click ⚙️.
+
+@summary
+click internet options.
+
+@summary
+click settings.
+
+@summary
+click view files.
+
+@summary
+review your temporary files.
+@article
+ It's the blue "e" with a yellow circle around it.
+ This option is in the top-right corner of the Internet Explorer window.
+ You'll find it toward the bottom of the drop-down menu.
+ It's toward the bottom of the "Internet Options" window in the "Browsing history" section.
+ This option is near the bottom of the window.
+ Any files in this folder are cached data from sites you've visited in Internet Explorer.
+

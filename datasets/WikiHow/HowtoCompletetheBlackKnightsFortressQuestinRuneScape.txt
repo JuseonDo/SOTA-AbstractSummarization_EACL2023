@@ -1,0 +1,46 @@
+@summary
+talk to sir amik varze on the 3rd floor west of the white knights' castle in falador.
+
+@summary
+go to the black knight's fortress.
+
+@summary
+climb up the ladder, then the ladder on the next floor.
+
+@summary
+head up the ladder in the east room and you will find yourself on the 3rd floor again, behind the boxes from earlier.
+
+@summary
+exit the room by the door to the west.
+
+@summary
+listen at grill to hear the plan to give the black knights an invincibility potion.
+
+@summary
+,go back to the entrance and put on your disguise
+
+@summary
+,
+
+@summary
+go through the door on the east to the meeting room.
+
+@summary
+push the wall after you walk along the passage.
+
+@summary
+,
+
+@summary
+use your cabbage with the hole in the floor.
+
+@summary
+get your reward from sir amik varze in the falador castle.
+
+@article
+ Sir Amik Varze will send you to spy on the Black Knights' Fortress. Don't get some food because the black knights can offer you some.;
+, The fortress is north of the Ice Mountain. Wear your iron chain-mail and your bronze helm, and disguise as the guards. When you are inside, you may wear your normal armor again. Push the wall in front of you.
+ You will now be on the 3rd floor, with some boxes that blocks your way to the eastern part of the fortress. There is a ladder heading down to the east of you that you climb down.
+ Head down the ladder that is just next to you. This room is safe from any knights. If you would like, recharge your prayer points here.
+ You do not need to kill a guard that will chase you, just run and go down the ladder. You will be on the bottom floor again. Run along the corridor.
+,, A guard will try to stop you. Go in anyway and run away from the Black Knights and up the ladder to the north.,, This will destroy the witch's plans. The witch will then become angry.

@@ -1,0 +1,39 @@
+@summary
+remove the handset from the cradle.
+
+@summary
+listen for a dial tone.
+
+@summary
+press both prongs down simultaneously to dial stop the dial tone.
+
+@summary
+dial the first number of the phone number by pressing down on the prongs simultaneously.
+
+@summary
+pause briefly.
+
+@summary
+,repeat steps four and five until you have dialed all the numbers in the phone number
+
+@summary
+,
+
+@summary
+return the phone to the cradle when you are finished with your conversation.
+
+@article
+ Notice the two prongs that rise from the cradle of the phone when the handset is removed. Sometimes you will find a rotary phone that still works, but has a missing or broken dial. Pressing these two prongs down simultaneously is what will allow you to dial the phone despite the damage.
+ The dial tone should be a mid-ranged, constant pitch.
+
+
+If you do not hear a dial tone, something is wrong. 3 Ways to Diagnose Landline Phone Problems
+
+
+, Releasing the prongs should bring back the dial tone.
+ To dial a 4 you would rapidly press the prongs down four times.
+
+
+To dial 0, press the prongs down rapidly ten times
+
+,,,

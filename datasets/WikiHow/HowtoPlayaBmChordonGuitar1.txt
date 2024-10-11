@@ -1,0 +1,16 @@
+@summary
+place your first finger.
+
+@summary
+place your second finger.
+
+@summary
+place your third finger.
+
+@summary
+leave the fourth d string open.
+
+@summary
+strum the chord.
+@article
+ To start this simple version of the Bm chord, put your pointer finger on the first E string at the second fret., Next, put your middle finger on the second B string at the third fret., Finally, put your ring finger on the third G string at the fourth fret. ,, Starting from the open D string, drag your pick or thumb across the D, G, B, and E strings to play the Bm chord. Do not include the sixth E nor the fifth A string.

@@ -1,0 +1,21 @@
+@summary
+promote from squire to knight.
+
+@summary
+make a bedchamber.
+
+@summary
+set your lord to civilian duties.
+
+@summary
+make at least 1 sheep farm with 20 wood units.
+
+@summary
+make a weavers workshop by using 10 wood.
+@article
+ You need 30 honors for this.
+ You will use 25 stone units for this.
+ He will go to the bed chamber about once a year to err... "See his mistress".
+ Every so often, the sheep will be sheared and the wool will go to the stockpile.
+ They make one unit of cloth every so often and then the lord's mistress will make 4 dresses to be used each dance. (she needs 4 units of cloth)
+

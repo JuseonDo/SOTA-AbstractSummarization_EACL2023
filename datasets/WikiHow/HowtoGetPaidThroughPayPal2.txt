@@ -1,0 +1,25 @@
+@summary
+open the paypal website.
+
+@summary
+click send & request.
+
+@summary
+click grab your link now.type in your preferred link name.click grab my link.
+
+@summary
+customize your paypal profile.click create your paypalme.click copy.
+
+@summary
+send your paypal link to a contact.
+
+@summary
+wait for your contact to pay you.
+@article
+ If you haven't done so already, log into PayPal with your user email address and password., This is at the top of the PayPal page., You'll find this under the "Get paid back" heading at the bottom of the page.,,, You can add the following to your link:
+
+A picture
+A custom color palette
+Differentiation between "Friends & family" and "Goods & services"
+
+,,, You can do this in whichever medium you prefer--email, text message, instant message, and so on., Now you know how to get paid through PayPal!

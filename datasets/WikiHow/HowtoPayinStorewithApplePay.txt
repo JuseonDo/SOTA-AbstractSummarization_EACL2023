@@ -1,0 +1,40 @@
+@summary
+set up apple pay.
+
+@summary
+go to a store that supports apple pay.
+
+@summary
+at checkout, look for a contactless reader or apple pay logo.
+
+@summary
+,
+
+@summary
+hold your phone within an inch of the contactless reader.
+
+@summary
+,
+
+@summary
+find your card in passbook and open it.wait until you see the insignia for touchid begin to display on the screen for the selected card that is seen at the top of the screen.
+
+@summary
+utilize touchid with your finger.
+
+@summary
+wait for a checkmark to appear on your phone.
+
+@summary
+choose credit if given the option.
+@article
+;
+, A complete list can be found here.
+,,
+
+To pay with your default card, hold your finger on TouchID.
+To pay with a different card, do not touch TouchID. Wait for your phone to wake up, and tap your default card. Then, tap the card you want to use from the list that appears. Then, place your finger on TouchID. Sign if prompted.
+, Hold you finger on the Home button on your device, without depressing the button in. Wait for the device to finish., This checkmark may appear green and your phone may vibrate, if you haven't upgraded to iOS 8.2 yet!
+
+, Some older readers may not be able to process Apple Pay well if you choose Debit.
+
